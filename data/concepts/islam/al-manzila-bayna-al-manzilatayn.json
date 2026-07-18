@@ -1,0 +1,64 @@
+{
+  "id": "al-manzila-bayna-al-manzilatayn",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-manzila bayna al-manzilatayn",
+    "original": "المنزلة بين المنزلتين",
+    "transliteration": "al-manzila bayna al-manzilatayn",
+    "aliases": [
+      "The intermediate position",
+      "The station between the two stations",
+      "The position between the two positions"
+    ]
+  },
+  "category": "sin-and-salvation",
+  "summary": "Al-manzila bayna al-manzilatayn is the Mu'tazili doctrine that a Muslim who commits a grave sin (kabira) is neither a believer (mu'min) nor an unbeliever (kafir) but occupies an intermediate station, that of the reprobate (fasiq). It is one of the five principles of the Mu'tazila.",
+  "description": "The doctrine addresses the theological status of the grave sinner. Against the Kharijites, who held that grave sin made a person an unbeliever, and against the Murji'a, who held that faith was unaffected by works and so left such a person a believer, the Mu'tazila proposed a third category. Wasil ibn Ata is credited with articulating the position: the grave sinner is not to be called a believer, since the sin has voided that name, nor an unbeliever, since the person retains faith in God and the profession of Islam, but is a fasiq (reprobate) occupying a station between the two. The doctrine is traditionally linked to the origin of the movement itself: Wasil is reported to have withdrawn (iʿtazala) from the circle of al-Hasan al-Basri over this question, which later heresiographers connect to the name Muʿtazila. On the Mu'tazili view the fasiq who dies unrepentant is punished in the hereafter, though less severely than the unbeliever, a corollary tied to their principle of the promise and the threat (al-waʿd wa-l-waʿid). The doctrine counts as the fourth of the Mu'tazila's five principles (al-usul al-khamsa).",
+  "editorial_notes": "The entry states the position as the Mu'tazila's own and locates it against the Kharijite and Murji'i alternatives per neutrality principle #2 (naming the schools in a live debate rather than adjudicating). The attribution to Wasil ibn Ata and the etymological link to iʿtizal are reported as the heresiographical tradition presents them; scholars note the origin story is partly retrospective, so it is given as 'is credited with' and 'reported' rather than as settled fact. Three-lens sourcing (principle #8): (a) Western academic, Schmidtke's Oxford Handbook of Islamic Theology, whose treatment of the Mu'tazila covers the five principles including the intermediate position; (b) classical heresiography, al-Shahrastani's al-Milal wa-l-Nihal (Kazi and Flynn translation), which reports Wasil's doctrine and the origin narrative; (c) the contemporary Muslim scholarly lens is not independently secured with a verified on-topic source in this draft and is flagged as a gap for the reviewed pass rather than filled with an unverified citation. Sources cited at medium confidence, relevant passages not read line-by-line. No encyclopedia or tertiary source is used (principle #9).",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "wasil-ibn-ata",
+      "note": "Credited by the heresiographical tradition with first articulating the intermediate station of the grave sinner."
+    },
+    {
+      "type": "part_of",
+      "target": "al-usul-al-khamsa",
+      "note": "The fourth of the Mu'tazila's five principles."
+    },
+    {
+      "type": "related_to",
+      "target": "iman",
+      "note": "The grave sinner is held not to be a believer (mu'min), while not being an unbeliever either."
+    },
+    {
+      "type": "related_to",
+      "target": "kufr",
+      "note": "Defines the position against the view that grave sin amounts to unbelief (kufr)."
+    }
+  ],
+  "historical_period": {
+    "start": 700,
+    "end": 750,
+    "note": "Associated with Wasil ibn Ata (d. 748 CE) and the formative Basran milieu; the origin narrative places it in the circle of al-Hasan al-Basri (d. 728 CE)."
+  },
+  "sources": [
+    {
+      "citation": "Schmidtke, Sabine (ed.). The Oxford Handbook of Islamic Theology. Oxford: Oxford University Press, 2016. Scholarly handbook whose chapters on the Muʿtazila expound the movement's five principles, including al-manzila bayna al-manzilatayn and its place in the doctrine of the grave sinner.",
+      "url": "https://academic.oup.com/edited-volume/34345",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Shahrastānī, Muḥammad b. ʿAbd al-Karīm. Muslim Sects and Divisions: The Section on Muslim Sects in Kitāb al-Milal wa-l-Niḥal. Trans. A. K. Kazi and J. G. Flynn. London: Kegan Paul, 1984. Classical heresiographical primary source (d. 1153 CE) reporting Wāṣil ibn ʿAṭāʾ's doctrine of the intermediate position and the origin of the Muʿtazila.",
+      "license": "Public-domain classical text; translation proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

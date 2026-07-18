@@ -1,0 +1,54 @@
+{
+  "id": "ibn-taymiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibn Taymiyya",
+    "original": "تقي الدين أحمد بن تيمية",
+    "transliteration": "Taqī al-Dīn Abū al-ʿAbbās Aḥmad ibn ʿAbd al-Ḥalīm ibn Taymiyya al-Ḥarrānī",
+    "aliases": ["Taqi al-Din Ibn Taymiyya", "Ibn Taymiyyah", "Shaykh al-Islam Ibn Taymiyya", "Ahmad ibn Taymiyya"]
+  },
+  "roles": ["theologian", "jurist", "traditionist"],
+  "summary": "Ibn Taymiyya (1263-1328 CE) was a Hanbali jurist, traditionist, and theologian active in Damascus. Working from a textualist and traditionist commitment, he critiqued the methods of kalam and falsafa and developed an influential account of tawhid that distinguishes lordship (rububiyya) from devotion (uluhiyya).",
+  "description": "Ibn Taymiyya was born in Harran, in the Jazira, and his family relocated to Damascus when he was a child, fleeing the Mongol advance; the nisba al-Harrani preserves the birthplace. He was trained in the Hanbali madhhab and taught in Damascus, and much of his career was marked by scholarly controversy and periods of imprisonment arising from his theological and legal positions. Against the theologians of kalam and the philosophers (falasifa), he argued that authentic reason does not contradict authentic revelation, a thesis developed at length in his major work Dar' Ta'arud al-'Aql wa-l-Naql ('The Averting of the Conflict between Reason and Revelation'); on this view, where the two appear to conflict, the fault lies in a defective rational premise or an unsound transmission rather than in revelation. He is associated with a threefold analysis of tawhid, distinguishing tawhid al-rububiyya (the oneness of God as sole lord and creator), tawhid al-uluhiyya (the directing of worship to God alone), and tawhid al-asma' wa-l-sifat (the affirmation of the divine names and attributes as revealed); he charged the Ash'ari theologians with reducing tawhid largely to lordship while neglecting devotion. On the divine attributes he affirmed the attested names and attributes without figurative reinterpretation (ta'wil), a stance he presented as fidelity to the way of the early community. His works became a principal reference point for the later Athari (traditionist) current and for the Hanbali school, and their interpretation and reception remain the subject of active scholarly debate.",
+  "editorial_notes": "Birth and death years (661/1263 - 728/1328) are as commonly reported and are given as approximate in the lifespan note. Birthplace is Harran (not Damascus); Damascus was where he was raised, taught, and died, and the entry states this explicitly to avoid the common conflation flagged during research. The threefold division of tawhid (rububiyya, uluhiyya, asma' wa-sifat) is attributed to Ibn Taymiyya's own framing and to the later Athari reception; the entry describes it without endorsing it, per the neutrality policy (describe, do not adjudicate). His critique of the Ash'aris is presented as his attributed position, not as an adjudication of the dispute. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Hoover, Brill 2007), (b) Ibn Taymiyya's own primary work Dar' Ta'arud al-'Aql wa-l-Naql in the standard Rashad Salim critical edition, and (c) a contemporary Muslim scholar (El-Tobgui, Brill 2020). Confidence is medium: the sources were verified to exist and to be on-topic via publisher and peer-reviewed-review records, but their relevant passages were not read line-by-line.",
+  "lifespan": {
+    "birth": 1263,
+    "death": 1328,
+    "note": "661-728 AH / 1263-1328 CE; born in Harran, active and died in Damascus. Years as commonly reported."
+  },
+  "relations": [
+    { "type": "member_of", "target": "hanbaliyya", "note": "Trained and taught within the Hanbali madhhab." },
+    { "type": "related_to", "target": "athariyya", "note": "A principal reference point and key figure for the later Athari (traditionist) current." },
+    { "type": "articulated", "target": "tawhid", "note": "Associated with the threefold analysis of tawhid (rububiyya, uluhiyya, asma' wa-sifat)." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "Affirmed the divine names and attributes as revealed, without figurative reinterpretation." },
+    { "type": "related_to", "target": "tanzih", "note": "Engaged the question of transcendence, affirming the attributes while denying resemblance to creation." },
+    { "type": "refuted", "target": "kalam", "note": "Critiqued the methods of speculative theology; the critique is attributed to him, not adjudicated." },
+    { "type": "refuted", "target": "falsafa", "note": "Critiqued the philosophers on the relation of reason and revelation in Dar' Ta'arud al-'Aql wa-l-Naql." }
+  ],
+  "sources": [
+    {
+      "citation": "Hoover, Jon. Ibn Taymiyya's Theodicy of Perpetual Optimism. Islamic Philosophy, Theology and Science: Texts and Studies, vol. 73. Leiden and Boston: Brill, 2007.",
+      "url": "https://brill.com/display/title/13148",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Taymiyya, Taqi al-Din. Dar' Ta'arud al-'Aql wa-l-Naql (aw Muwafaqat Sahih al-Manqul li-Sarih al-Ma'qul). Edited by Muhammad Rashad Salim, 11 vols. Riyadh: Jami'at al-Imam Muhammad ibn Sa'ud al-Islamiyya, 1399-1403 AH / 1979-1983. Primary source: Ibn Taymiyya's own work arguing that authentic reason and authentic revelation do not conflict.",
+      "license": "Classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "El-Tobgui, Carl Sharif. Ibn Taymiyya on Reason and Revelation: A Study of Dar' Ta'arud al-'Aql wa-l-Naql. Islamic Philosophy, Theology and Science: Texts and Studies, vol. 111. Leiden and Boston: Brill, 2020.",
+      "url": "https://doi.org/10.1163/9789004412866",
+      "license": "Open access (OAPEN); cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

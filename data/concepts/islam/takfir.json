@@ -1,0 +1,69 @@
+{
+  "id": "takfir",
+  "tradition": "islam",
+  "names": {
+    "primary": "Takfir",
+    "original": "تكفير",
+    "transliteration": "takfīr",
+    "aliases": [
+      "Excommunication",
+      "Declaring a Muslim an unbeliever",
+      "Anathematization"
+    ]
+  },
+  "category": "faith-and-unbelief",
+  "summary": "Takfir is the act of declaring that a person who professes Islam is in fact an unbeliever (kafir). Because it removes someone from the community of believers, mainstream Sunni theology and law have generally treated it with great caution and restricted the grounds on which it may be pronounced.",
+  "description": "Takfir is the verbal-legal act of judging a professing Muslim to have fallen into unbelief (kufr) and so to have forfeited the status of a believer (mu'min). The question of who counts as a believer and who as an unbeliever was one of the earliest and most divisive in Islamic thought, arising in the first civil strife over the status of grave sinners. The Kharijites are remembered in the sources as the group most ready to pronounce takfir, holding that a Muslim who committed a grave sin thereby became an unbeliever, a position that in its more extreme forms licensed treating such persons as outside the community. Against this, other early currents resisted swift judgment, the Murji'a deferred the verdict on the grave sinner to God (irja), and the emerging Sunni mainstream came to treat the believer's status as not annulled by sin as such. Classical Sunni theologians and jurists accordingly developed cautionary principles, notably a strong reluctance to declare a professing Muslim an unbeliever and a preference for interpreting statements in a way that preserves belief where possible; a much-cited formulation attributed to the tradition warns against branding people unbelievers over secondary matters. Takfir therefore sits at the intersection of theology (the definitions of iman and kufr) and the boundaries of communal belonging, and the criteria for it remained contested across schools.",
+  "editorial_notes": "Category 'faith-and-unbelief' places takfir alongside iman and kufr, the two concepts whose definitions determine when takfir applies (both linked via related_to). The association of ready takfir with the Kharijites is attributed to them (held/reported by kharijites, via related_to with a note), following the heresiographical tradition, and is balanced by naming the Murji'a and mainstream Sunni caution, per neutrality principles #1, #2 and #7. Triangulation (principle #8) across three lenses: (a) Western academic Islamic studies via Griffel's monograph on apostasy/takfir in al-Ghazali; (b) classical Muslim heresiography, al-Baghdadi's al-Farq bayn al-Firaq, which reports Kharijite takfir positions and distinguishes groups by their practice of it; (c) a contemporary Muslim scholar, Sherman Jackson's study and translation of al-Ghazali's Faysal al-Tafriqa, which treats the boundaries of takfir directly. All at medium confidence; relevant passages not read line-by-line. Per principle #9, no encyclopedias or tertiary sources. The 'secondary matters' caution is presented as a formulation within the tradition (al-Ghazali via Jackson), attributed, not endorsed.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "kufr",
+      "note": "Takfir is the judgment that a person has entered kufr (unbelief)."
+    },
+    {
+      "type": "related_to",
+      "target": "iman",
+      "note": "Takfir turns on the definition of iman (faith): whether, and how, it can be forfeited."
+    },
+    {
+      "type": "related_to",
+      "target": "kharijites",
+      "note": "The Kharijites are reported in the heresiographical tradition as the group most ready to pronounce takfir on grave sinners."
+    },
+    {
+      "type": "related_to",
+      "target": "irja",
+      "note": "The Murji'a doctrine of irja, deferring judgment on the grave sinner to God, is the counter-position to ready takfir."
+    }
+  ],
+  "historical_period": {
+    "start": 657,
+    "note": "The dispute over declaring Muslims unbelievers arises with the first civil war (fitna) and the Kharijites in the mid-7th century CE; cautionary criteria are elaborated by later Sunni theology and law."
+  },
+  "sources": [
+    {
+      "citation": "Griffel, Frank. Apostasie und Toleranz im Islam: Die Entwicklung zu al-Gazalis Urteil gegen die Philosophie und die Reaktionen der Philosophen. Leiden: Brill, 2000. An academic monograph on apostasy, unbelief, and the boundaries of takfir in classical Islamic thought, centered on al-Ghazali's rulings.",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Baghdadi, Abu Mansur 'Abd al-Qahir b. Tahir. al-Farq bayn al-Firaq (The Difference between the Sects). 11th century CE. Classical Sunni heresiographical primary source; it reports the Kharijite subgroups' practice of takfir and distinguishes them by whom they declared unbelievers. Partial trans. as Moslem Schisms and Sects, trans. Kate Chambers Seelye (New York, 1920) and A. S. Halkin (Tel Aviv, 1935).",
+      "license": "Classical Arabic text public domain; translations public domain / proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Jackson, Sherman A. On the Boundaries of Theological Tolerance in Islam: Abu Hamid al-Ghazali's Faysal al-Tafriqa. Karachi/Oxford: Oxford University Press, 2002. A study and annotated translation by a contemporary Muslim scholar of al-Ghazali's treatise defining the limits of takfir, arguing against branding Muslims unbelievers over secondary theological questions.",
+      "url": "https://global.oup.com/academic/product/on-the-boundaries-of-theological-tolerance-in-islam-9780195797916",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

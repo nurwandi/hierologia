@@ -1,0 +1,75 @@
+{
+  "id": "al-usul-al-khamsa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-usul al-khamsa",
+    "original": "الأصول الخمسة",
+    "transliteration": "al-uṣūl al-khamsa",
+    "aliases": [
+      "The five principles",
+      "The five fundamentals of the Mu'tazila"
+    ]
+  },
+  "category": "systematic-theology",
+  "summary": "Al-usul al-khamsa, the five principles, is the set of five foundational doctrines by which the Mu'tazila defined their theological system: divine unity (tawhid), divine justice (adl), the promise and the threat (al-wa'd wa-l-wa'id), the intermediate position (al-manzila bayna al-manzilatayn), and commanding right and forbidding wrong (al-amr bi-l-ma'ruf wa-l-nahy an al-munkar).",
+  "description": "The five principles are the framework the Mu'tazila used to organize and identify their theology; adherence to all five was taken to mark a Mu'tazili. They are commonly enumerated as: (1) tawhid, the absolute oneness of God, developed by the Mu'tazila into a strong reading that denied the divine attributes a reality distinct from the divine essence in order to safeguard God's uniqueness; (2) adl, divine justice, from which they derived that God does only what is good and wise and does not create human acts, so that humans are the real authors of their deeds and God's punishment is just; (3) al-wa'd wa-l-wa'id, the promise and the threat, that God will infallibly carry out His promise of reward and His threat of punishment; (4) al-manzila bayna al-manzilatayn, that the grave sinner occupies an intermediate station, neither believer nor unbeliever; and (5) al-amr bi-l-ma'ruf wa-l-nahy an al-munkar, the obligation to command right and forbid wrong, including, for some, active resistance to injustice. The classical systematic statement of the five is the Sharh al-usul al-khamsa transmitted from the Basran theologian al-Qadi Abd al-Jabbar (d. 1025 CE), the fullest surviving exposition of the scheme.",
+  "editorial_notes": "The entry describes the five principles as the Mu'tazila's own organizing scheme and self-definition (neutrality principle #1), without endorsing their readings of tawhid or adl, which are contested by other schools and are treated in their own entries. Note on the key primary source: the Sharh al-usul al-khamsa is traditionally attributed to Abd al-Jabbar, but Daniel Gimaret argued the surviving text is the Taʿliq of his Zaydi student Mankdim Shashdiw (d. 1034); the citation reflects this by naming it as transmitted from Abd al-Jabbar. Three-lens sourcing (principle #8): (a) Western academic, Richard Frank's Beings and Their Attributes, on the Basran Muʿtazili system; (b) classical primary, Sharh al-usul al-khamsa from Abd al-Jabbar, the school's own systematic statement of the five; (c) modern reference framing, Schmidtke's Oxford Handbook of Islamic Theology, edited scholarly volume. A within-tradition contemporary Muslim monograph specifically on the five principles was not verified for this draft and is flagged as a gap for the reviewed pass. Sources cited at medium confidence, relevant passages not read line-by-line. No encyclopedia or tertiary source is used (principle #9).",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "mutazila",
+      "note": "The five principles are the defining doctrinal framework of the Mu'tazila."
+    },
+    {
+      "type": "part_of",
+      "target": "tawhid",
+      "note": "Tawhid is the first of the five principles (in the Mu'tazila's strong reading)."
+    },
+    {
+      "type": "part_of",
+      "target": "adl",
+      "note": "Divine justice (adl) is the second of the five principles."
+    },
+    {
+      "type": "related_to",
+      "target": "al-manzila-bayna-al-manzilatayn",
+      "note": "The intermediate position is the fourth principle."
+    },
+    {
+      "type": "related_to",
+      "target": "abd-al-jabbar",
+      "note": "The classical systematic exposition, Sharh al-usul al-khamsa, is transmitted from al-Qadi Abd al-Jabbar."
+    }
+  ],
+  "historical_period": {
+    "start": 800,
+    "end": 1025,
+    "note": "Crystallized as a formal five-principle scheme by the mature Basran school; given its fullest classical statement in the Sharh transmitted from Abd al-Jabbar (d. 1025 CE)."
+  },
+  "sources": [
+    {
+      "citation": "Frank, Richard M. Beings and Their Attributes: The Teaching of the Basrian School of the Muʿtazila in the Classical Period. Albany: State University of New York Press, 1978. Monograph analyzing the metaphysics and doctrinal system of the Basran Muʿtazila in its classical period.",
+      "url": "https://sunypress.edu/Books/B/Beings-and-Their-Attributes",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "ʿAbd al-Jabbār al-Hamadhānī, al-Qāḍī. Sharḥ al-uṣūl al-khamsa (Explication of the Five Principles). Ed. ʿAbd al-Karīm ʿUthmān, Cairo, 1965. Classical Muʿtazili primary source giving the systematic exposition of the five principles; the transmitted text is associated with Abd al-Jabbar's student Mankdim Shashdiw (see editorial notes).",
+      "license": "Public-domain classical text; edition proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schmidtke, Sabine (ed.). The Oxford Handbook of Islamic Theology. Oxford: Oxford University Press, 2016. Scholarly handbook whose chapters on the Muʿtazila set out the movement's five-principle framework and its development.",
+      "url": "https://academic.oup.com/edited-volume/34345",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "jahmiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Jahmiyya",
+    "original": "الجهمية",
+    "transliteration": "al-Jahmiyya",
+    "aliases": ["Jahmites", "Jahmis", "Jahmism", "followers of Jahm ibn Safwan"]
+  },
+  "summary": "The Jahmiyya is a label applied in Islamic heresiography to positions associated with Jahm ibn Safwan (d. c. 128/746), characteristically an extreme affirmation of divine transcendence involving the denial of eternal divine attributes, the doctrine that the Qur'an is created, and a strong determinist account of human action. The name functioned largely as a polemical category deployed by traditionist opponents rather than as a self-designation of an organized school.",
+  "description": "The Jahmiyya takes its name from Jahm ibn Safwan (executed c. 128/746), a figure of the late Umayyad period active in Khurasan, to whom the heresiographical tradition attributes a cluster of doctrines organized around an uncompromising divine transcendence (tanzih). On the account preserved by later Muslim heresiographers and by traditionist polemicists, Jahm held that the eternal attributes predicated of God in ordinary religious language cannot be affirmed as entities distinct from or additional to the divine essence, a position his opponents characterized as ta'til (the stripping away or negation of the attributes); that the Qur'an, as God's speech, is created (khalq al-Qur'an) rather than co-eternal with God; and that human beings do not genuinely originate their acts, which are compelled by God, a determinist view (jabr) so strong that, in the reports, human agency is said to be predicated only metaphorically. Because no writings by Jahm survive and because the movement was not an organized school in the manner of the later Mu'tazila, knowledge of Jahmi doctrine is transmitted almost entirely through hostile sources: the refutations of traditionist authors, above all in the Hanbali milieu, and the classifications of the heresiographers. In traditionist usage the term Jahmiyya broadened over time into a polemical label attached to a range of opponents, including at points the Mu'tazila and others who affirmed the createdness of the Qur'an or who were held to negate the attributes, so that the word marks a heresiographical category as much as a determinate historical group. The Athari or traditionist current, which affirmed the reality of the divine attributes as given in scripture without inquiring into their modality (bila kayf), defined much of its own position in explicit opposition to what it called Jahmi ta'til.",
+  "editorial_notes": "This entry concerns one of the early groups known almost entirely through the polemics of its opponents. No works by Jahm ibn Safwan survive; the doctrines summarized here are those attributed to him and to the Jahmiyya by later heresiographers (al-Ash'ari, al-Baghdadi, al-Shahrastani) and by traditionist refutations, which are hostile witnesses. The entry therefore reports these as attributed positions, per neutrality principle #1, and does not treat the heresiographical portrait as a neutral transcript of what the historical Jahm taught; readers should note this source-critical caveat throughout. The term itself was used polemically (neutrality principle #4), and its referent widened in later traditionist usage beyond the immediate followers of Jahm, a point flagged in the description. On source diversity (neutrality principle #8), three lenses are cited: modern Western academic work (van Ess, Watt), classical Muslim heresiography (al-Baghdadi's al-Farq bayn al-Firaq; the group is also treated by al-Ash'ari's Maqalat and al-Shahrastani's al-Milal), and a modern Muslim scholar (Fazlur Rahman, Islam), whose survey treats early kalam and the attribute and free-will debates. The classical heresiographies and Rahman's survey were verified to exist and to treat these debates, but their specific passages on the Jahmiyya were not read directly in this pass; they are held at medium confidence accordingly. Per neutrality principle #9, no encyclopedia or tertiary source is cited. Relation targets jahm-ibn-safwan is a dangling reference (no entry yet); khalq-al-quran, tanzih, and athariyya are existing entries. Confidence on the identification and dating of Jahm is medium given the polemical transmission.",
+  "period": {
+    "founded": 720,
+    "active_until": 750,
+    "note": "Approximate and qualified. Anchored to the lifetime of Jahm ibn Safwan (d. c. 128/746) in the late Umayyad period; the dates are indicative rather than precise, and as a heresiographical label 'Jahmiyya' continued to be applied by traditionist authors well beyond Jahm's death, so no firm terminus is asserted."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "jahm-ibn-safwan", "note": "The label derives from Jahm ibn Safwan (d. c. 128/746); attribution rests on hostile later sources, and Jahm did not found an organized school in the ordinary sense." },
+    { "type": "key_figure", "target": "jahm-ibn-safwan", "note": "The eponymous figure to whom the attributed doctrines are traced." },
+    { "type": "related_to", "target": "khalq-al-quran", "note": "The Jahmiyya are associated in the sources with the doctrine that the Qur'an is created (khalq al-Qur'an)." },
+    { "type": "related_to", "target": "tanzih", "note": "The attributed doctrines center on an extreme affirmation of divine transcendence (tanzih), which opponents characterized as ta'til, the negation of the attributes." },
+    { "type": "opposed", "target": "athariyya", "note": "The traditionist / Athari current defined its affirmation of the divine attributes bila kayf in explicit opposition to what it labeled Jahmi ta'til; the opposition is registered chiefly from the Athari side and is mutual." }
+  ],
+  "sources": [
+    {
+      "citation": "van Ess, Josef. The Flowering of Muslim Theology. Translated by Jane Marie Todd. Cambridge, MA: Harvard University Press, 2006. Study of early Islamic theology drawing on the author's Theologie und Gesellschaft; treats Jahm ibn Safwan and the early debates over the divine attributes, the created Qur'an, and determinism.",
+      "url": "https://www.hup.harvard.edu/books/9780674022089",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Watt, W. Montgomery. The Formative Period of Islamic Thought. Edinburgh: Edinburgh University Press, 1973. Analytic history of early Islamic theology to c. 950 CE; discusses Jahm ibn Safwan, the Jahmiyya, and the doctrines of ta'til, the created Qur'an, and predestination.",
+      "url": "https://edinburghuniversitypress.com/book-the-formative-period-of-islamic-thought.html",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Baghdadi, Abu Mansur 'Abd al-Qahir ibn Tahir (d. 429/1037). al-Farq bayn al-Firaq. Trans. (Part I) Kate Chambers Seelye, Moslem Schisms and Sects, New York: Columbia University Press, 1919; (Part II) A. S. Halkin, Tel-Aviv: Palestine Publishing, 1935. Classical Muslim heresiography that classifies and refutes the Jahmiyya among the sects. Relevant passages not read directly in this pass.",
+      "url": "https://archive.org/details/moslemschismssec01alba",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Islam. 2nd ed. Chicago: University of Chicago Press, 1979. Survey by a modern Muslim scholar; its treatment of the development of kalam covers the early disputes over the divine attributes, the created Qur'an, and human freedom in which the Jahmiyya figure. Specific pages not directly consulted in this pass.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/I/bo3646057.html",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

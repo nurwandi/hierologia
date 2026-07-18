@@ -1,0 +1,56 @@
+{
+  "id": "jabriyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Jabriyya",
+    "original": "الجبرية",
+    "transliteration": "al-Jabriyya",
+    "aliases": ["Jabrites", "Jabris", "Compulsionists", "Determinists", "Mujbira"]
+  },
+  "summary": "The Jabriyya is a heresiographical label for those held to affirm jabr, the doctrine that human beings have no real power over their own acts, which are compelled by God. Like the Jahmiyya, the term functioned largely as a polemical category applied by opponents, standing in the sources as the determinist pole opposite the Qadariyya and the Mu'tazila in the debate over human freedom.",
+  "description": "Jabriyya (from jabr, compulsion or constraint) is the name given in Islamic heresiography to the position that human acts are not genuinely originated by human agents but are created and compelled by God, so that a person is, in the strong formulations reported by the sources, without effective power (qudra) over what they do. The term is a classificatory and polemical one: it marks a doctrinal pole rather than a single organized community, and it is applied by heresiographers and theologians to a range of thinkers held to deny human agency, with the Jahmiyya and figures associated with Jahm ibn Safwan cited among the most thoroughgoing (the extreme jabr). Later heresiographers drew distinctions within the category. Al-Shahrastani, for instance, separates a pure or extreme Jabriyya, which denies any human power or acquisition whatsoever, from a more moderate determinism that allows the human being some derivative role, the latter reading sometimes extended, controversially and from a critical standpoint, to the Ash'ari doctrine of kasb (acquisition), by which God creates the act and the human being acquires it. In the schematic geography of the free-will debate that the heresiographies present, the Jabriyya stand opposite the Qadariyya, who affirmed human power over acts, and the Mu'tazila, who made human authorship of acts a corollary of divine justice; each side developed its position partly by argument against the other. Because 'Jabriyya' is predominantly an outsider's label, its boundaries and the attribution of specific views to named individuals are reported here as they appear in the sources rather than as settled fact.",
+  "editorial_notes": "This entry concerns a heresiographical category, not a self-organized school, and one known largely through the polemics of opponents; 'Jabriyya' is a label applied from outside, and the sources that define it (al-Ash'ari's Maqalat, al-Baghdadi's al-Farq, al-Shahrastani's al-Milal) are classifying and often critical witnesses. Per neutrality principle #1, the determinist doctrines and the internal distinctions (extreme versus moderate jabr; the contested application to Ash'ari kasb) are reported as attributed positions found in the heresiographies, not adjudicated. The polemical character of the term is flagged per principle #4, and readers should carry this source-critical caveat throughout. On source diversity (principle #8), three lenses are cited: modern Western academic work (Watt's monograph on the free-will debate, and Watt's Formative Period), classical Muslim heresiography (al-Baghdadi's al-Farq bayn al-Firaq; the category is also treated by al-Shahrastani's al-Milal and al-Ash'ari's Maqalat), and a modern Muslim scholar (Fazlur Rahman, Islam) whose survey covers the determinism / free-will controversy. The classical heresiographies and Rahman's survey were verified to exist and to treat this debate, but their specific passages on the Jabriyya were not read directly in this pass and are held at medium confidence. Per principle #9, no encyclopedia or tertiary source is cited. Relation targets qadar is an existing concept entry; qadariyya and mutazila are existing school entries; the opposition to them is registered as the polar structure the heresiographers describe. Confidence on the internal classification is medium given its polemical transmission.",
+  "period": {
+    "founded": 720,
+    "note": "Approximate and qualified. The debate to which the label belongs took shape in the late Umayyad and early Abbasid period (early 2nd century AH / 8th century CE), the era of Jahm ibn Safwan and of the emergence of the Qadariyya. As a heresiographical category rather than a datable institution, 'Jabriyya' has no firm founding or terminal date, so none is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "qadar", "note": "The Jabriyya position is defined within the qadar (divine determination) debate, holding that human acts are wholly determined and compelled by God." },
+    { "type": "opposed", "target": "qadariyya", "note": "In the heresiographical schema the Jabriyya stand opposite the Qadariyya, who affirmed real human power over acts; the two name the poles of the free-will debate." },
+    { "type": "opposed", "target": "mutazila", "note": "The Mu'tazila, making human authorship of acts a corollary of divine justice, are ranged against the determinist (jabr) position in the sources." }
+  ],
+  "sources": [
+    {
+      "citation": "Watt, W. Montgomery. Free Will and Predestination in Early Islam. London: Luzac & Co., 1948. Monograph on the early Islamic debate over human freedom and divine determination; treats the terms jabr and qadar and the positions labeled Jabriyya and Qadariyya.",
+      "url": "https://openlibrary.org/books/OL6075946M/Free_will_and_predestination_in_early_Islam.",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Watt, W. Montgomery. The Formative Period of Islamic Thought. Edinburgh: Edinburgh University Press, 1973. Analytic history of early Islamic theology to c. 950 CE; situates the determinist (jabr) positions in relation to the Qadariyya and the Mu'tazila.",
+      "url": "https://edinburghuniversitypress.com/book-the-formative-period-of-islamic-thought.html",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Baghdadi, Abu Mansur 'Abd al-Qahir ibn Tahir (d. 429/1037). al-Farq bayn al-Firaq. Trans. (Part I) Kate Chambers Seelye, Moslem Schisms and Sects, New York: Columbia University Press, 1919; (Part II) A. S. Halkin, Tel-Aviv: Palestine Publishing, 1935. Classical Muslim heresiography that classifies the determinist (Jabriyya) positions among the sects. Relevant passages not read directly in this pass.",
+      "url": "https://archive.org/details/moslemschismssec01alba",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Islam. 2nd ed. Chicago: University of Chicago Press, 1979. Survey by a modern Muslim scholar; its account of early kalam covers the controversy over human freedom and divine determination in which the Jabriyya, Qadariyya, and Mu'tazila are the contending positions. Specific pages not directly consulted in this pass.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/I/bo3646057.html",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

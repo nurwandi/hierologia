@@ -1,0 +1,55 @@
+{
+  "id": "al-ghazali",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Ghazali",
+    "original": "أبو حامد الغزالي",
+    "transliteration": "Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazālī",
+    "aliases": ["Abu Hamid al-Ghazali", "al-Ghazzali", "Algazel", "Hujjat al-Islam"]
+  },
+  "roles": ["theologian", "jurist", "philosopher", "sufi"],
+  "summary": "Al-Ghazali (1058-1111 CE) was an Ash'ari theologian, Shafi'i jurist, and Sufi from Tus in Khurasan. He composed a systematic Ash'ari theology in al-Iqtisad fi al-I'tiqad and a critique of the philosophers in Tahafut al-Falasifa.",
+  "description": "Al-Ghazali was born in Tus, in Khurasan, and studied theology under al-Juwayni at the Nizamiyya college of Nishapur before being appointed to teach at the Nizamiyya of Baghdad. He wrote across law, theology, philosophy, and Sufism: in jurisprudence he followed the Shafi'i school, and in theology (kalam) he worked within the Ash'ari tradition, though the degree of his continuity with strict Ash'arism is debated in modern scholarship, since he absorbed elements of Avicennan philosophy. His al-Iqtisad fi al-I'tiqad ('Moderation in Belief') sets out a systematic statement of Ash'ari doctrine, treating among other topics the divine attributes, human acts, and the afterlife. In Tahafut al-Falasifa ('The Incoherence of the Philosophers') he examined the metaphysics of the falasifa, in particular the Avicennan tradition, arguing that several of their positions were not demonstratively proven and that three of them (the world's eternity, God's knowledge of particulars only in a universal way, and the denial of bodily resurrection) departed from what he held to be the teaching of Islam. After a personal crisis he left his Baghdad post for a period of withdrawal and Sufi practice, later returning to teaching; his Ihya' 'Ulum al-Din ('The Revival of the Religious Sciences') integrates law, theology, and the inner disciplines of Sufism. On human action he is associated with the Ash'ari framework of divine creation of acts together with human acquisition (kasb), and questions of divine determination (qadar) and the afterlife (akhira) are treated across his theological works.",
+  "editorial_notes": "Birth and death years (450/1058 - 505/1111) are as commonly reported and given as approximate in the lifespan note. Al-Ghazali sits on two distinct axes: Shafi'i in law, Ash'ari in theology; both are recorded, and the roles list also notes his standing as a Sufi and his engagement with philosophy. The extent to which al-Ghazali remained a strict Ash'ari, given his absorption of Avicennan philosophy, is a genuine and live question in modern scholarship (see Frank and Griffel); the entry labels him an Ash'ari theologian, which is accurate as a primary characterization, while flagging the debate rather than resolving it, per the neutrality policy. His verdict on the three doctrines in the Tahafut is reported as his attributed position, not adjudicated. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Griffel, Oxford 2009), (b) al-Ghazali's own primary work al-Iqtisad fi al-I'tiqad in Yaqub's scholarly translation, and (c) a contemporary Muslim scholar (Moosa, UNC Press 2005). Confidence is medium: sources verified to exist and be on-topic via publisher catalogues and peer-reviewed reviews, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 1058,
+    "death": 1111,
+    "note": "450-505 AH / 1058-1111 CE; born in Tus, Khurasan. Years as commonly reported."
+  },
+  "relations": [
+    { "type": "member_of", "target": "ashariyya", "note": "Worked within the Ash'ari school of kalam; the degree of his strict Ash'arism is debated in modern scholarship." },
+    { "type": "student_of", "target": "al-juwayni", "note": "Studied theology under al-Juwayni at the Nizamiyya of Nishapur." },
+    { "type": "refuted", "target": "falsafa", "note": "Examined and critiqued the metaphysics of the falasifa in Tahafut al-Falasifa; the critique is attributed to him, not adjudicated." },
+    { "type": "articulated", "target": "kasb", "note": "Associated with the Ash'ari account of divine creation of acts together with human acquisition." },
+    { "type": "related_to", "target": "qadar", "note": "Treated divine determination within his Ash'ari theology." },
+    { "type": "related_to", "target": "akhira", "note": "Discussed the afterlife, including bodily resurrection, against certain philosophers' positions." },
+    { "type": "related_to", "target": "tawhid", "note": "His theological works treat the oneness of God and the divine attributes." }
+  ],
+  "sources": [
+    {
+      "citation": "Griffel, Frank. Al-Ghazali's Philosophical Theology. New York: Oxford University Press, 2009.",
+      "url": "https://global.oup.com/academic/product/al-ghazalis-philosophical-theology-9780195331622",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Ghazali, Abu Hamid. Al-Ghazali's 'Moderation in Belief' (al-Iqtisad fi al-I'tiqad). Translated, with introduction and commentary, by Aladdin M. Yaqub. Chicago: University of Chicago Press, 2013. Primary source: al-Ghazali's own systematic statement of Ash'ari doctrine.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo15515482.html",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Moosa, Ebrahim. Ghazali and the Poetics of Imagination. Islamic Civilization and Muslim Networks. Chapel Hill: University of North Carolina Press, 2005.",
+      "url": "https://uncpress.org/book/9780807856123/ghazali-and-the-poetics-of-imagination/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

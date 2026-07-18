@@ -1,0 +1,50 @@
+{
+  "id": "abd-al-jabbar",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abd al-Jabbar al-Hamadhani",
+    "original": "القاضي عبد الجبار الهمذاني",
+    "transliteration": "al-Qāḍī ʿAbd al-Jabbār ibn Aḥmad al-Hamadhānī",
+    "aliases": ["Qadi Abd al-Jabbar", "Abd al-Jabbar ibn Ahmad", "al-Qāḍī ʿAbd al-Jabbār", "Abu al-Hasan Abd al-Jabbar"]
+  },
+  "roles": ["theologian", "jurist"],
+  "summary": "Qadi Abd al-Jabbar al-Hamadhani (d. 415/1025) was the leading Basran Mu'tazili theologian of his generation and chief judge (qadi al-qudat) under the Buyid vizier al-Sahib ibn Abbad in Rayy. He is the author of the twenty-volume theological summa al-Mughni and of the Sharh al-Usul al-Khamsa, a systematic exposition of the Mu'tazila's five principles.",
+  "description": "Abd al-Jabbar was born near Hamadhan and rose to become chief judge in Rayy under Buyid patronage. He belonged to the Bahshamiyya branch of the Basran Mu'tazila, following the school of Abu Hashim al-Jubba'i, and is generally regarded as the figure through whom the mature Basran Mu'tazili system is most fully documented, since much of the earlier literature survives largely through his works and those of his students. His magnum opus, al-Mughni fi Abwab al-Tawhid wa-l-'Adl (The Comprehensive Book on the Chapters of Divine Unity and Justice), organizes Mu'tazili theology under the two headings of God's oneness (tawhid) and God's justice ('adl), the framing that gives the Mu'tazila their self-designation as ahl al-tawhid wa-l-'adl. In the Sharh al-Usul al-Khamsa he sets out the five principles (al-usul al-khamsa) of the school: divine unity (tawhid), divine justice ('adl), the promise and the threat (al-wa'd wa-l-wa'id), the intermediate position (al-manzila bayna al-manzilatayn), and commanding right and forbidding wrong (al-amr bi-l-ma'ruf wa-l-nahy 'an al-munkar). Within the principle of justice he develops a detailed account of divine wisdom, human moral responsibility, and the problem of pain and suffering, holding that God acts only for the good of creatures and does nothing without a ground of wisdom. His writings became a principal channel through which Basran Mu'tazili doctrine was transmitted, including into later Zaydi and Karaite theological literature.",
+  "editorial_notes": "The death date is given as 415/1025 as commonly reported; some sources give slightly different birth estimates and the entry treats the birth year as uncertain. Abd al-Jabbar is affiliated with the Bahshamiyya sub-school of the Basran Mu'tazila; the entry records 'member_of mutazila' at the level of the broader school and notes the Bahshami allegiance in prose rather than inventing a separate school id. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Heemskerk); (b) the tradition's own primary text (Abd al-Jabbar's al-Mughni, via a published critical edition of a fragment); (c) his own Sharh al-Usul al-Khamsa as the classical systematic statement of the five principles. Encyclopedia and tertiary web sources were excluded per neutrality principle #9. Confidence is honest: the monograph is rated medium and the primary works medium, since specific claims here were not page-verified line by line.",
+  "lifespan": {
+    "death": 1025,
+    "note": "Died 415/1025. Birth is variously estimated in the later 320s AH (c. 935 CE) and is left unrecorded here as uncertain."
+  },
+  "relations": [
+    { "type": "member_of", "target": "mutazila", "note": "Chief Basran Mu'tazili theologian of his era, of the Bahshamiyya branch." },
+    { "type": "articulated", "target": "al-usul-al-khamsa", "note": "His Sharh al-Usul al-Khamsa is a systematic exposition of the Mu'tazila's five principles." },
+    { "type": "articulated", "target": "adl", "note": "The al-Mughni develops divine justice ('adl) at length, including the problem of pain and human responsibility." },
+    { "type": "related_to", "target": "tawhid", "note": "Organized his theological summa under the twin headings of tawhid and 'adl." },
+    { "type": "influenced_by", "target": "al-jubbai", "note": "Followed the Bahshami school descending from Abu Hashim al-Jubba'i, son of Abu 'Ali al-Jubba'i." }
+  ],
+  "sources": [
+    {
+      "citation": "Heemskerk, Margaretha T. Suffering in the Mu'tazilite Theology: 'Abd al-Jabbar's Teaching on Pain and Divine Justice. Islamic Philosophy, Theology and Science 41. Leiden: Brill, 2000.",
+      "url": "https://search.worldcat.org/title/44461786",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Qāḍī ʿAbd al-Jabbār. Al-Mughnī fī Abwāb al-Tawḥīd wa-l-ʿAdl. Primary source: the author's twenty-volume Muʿtazili theological summa organized under tawḥīd and ʿadl. Cited generally (a published critical edition of a Mughnī fragment on the promise and threat exists in the scholarly literature); specific passages not read line-by-line.",
+      "license": "Classical text; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Qāḍī ʿAbd al-Jabbār. Sharḥ al-Uṣūl al-Khamsa. Primary source: the author's systematic exposition of the five principles (al-uṣūl al-khamsa) of the Muʿtazila, including tawḥīd, ʿadl, al-waʿd wa-l-waʿīd, al-manzila bayna al-manzilatayn, and al-amr bi-l-maʿrūf wa-l-nahy ʿan al-munkar.",
+      "license": "Classical text; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

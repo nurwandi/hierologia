@@ -1,0 +1,64 @@
+{
+  "id": "irja",
+  "tradition": "islam",
+  "names": {
+    "primary": "Irja",
+    "original": "إرجاء",
+    "transliteration": "irjāʾ",
+    "aliases": [
+      "Postponement",
+      "Deferral",
+      "Suspension of judgment"
+    ]
+  },
+  "category": "faith-and-unbelief",
+  "summary": "Irja (postponement) is the doctrine, associated with the early Murji'a, of deferring judgment on the ultimate fate of the Muslim who commits a grave sin, leaving that verdict to God rather than pronouncing the sinner a believer or an unbeliever in this world. It is bound up with a definition of faith (iman) that is not annulled by sin.",
+  "description": "Irja, literally 'postponement' or 'deferral', names the position taken by the early Murji'a in the first-century disputes over the status of the grave sinner (murtakib al-kabira). Where the Kharijites declared such a person an unbeliever and others called him simply a believer, the Murji'a 'postponed' the judgment, holding that his final standing is known to God alone and is to be deferred to the hereafter rather than settled by human verdict. This suspension of judgment was typically paired with a view of faith on which iman consists essentially in inward assent (and its verbal profession) and is not increased or destroyed by works, so that the grave sinner remains a believer whose sin does not expel him from the community, while his ultimate fate is left to God. In the heresiographical sources the term also carries a second, historical sense, the suspension of judgment on the disputes among the early Companions, notably the parties to the first civil war. The Murji'a position stood between Kharijite rigorism and other early currents, and elements of its account of faith were absorbed, with qualification, into later Sunni and especially Hanafi-Maturidi theology, even as the label 'Murji'a' was used polemically by opponents.",
+  "editorial_notes": "Category 'faith-and-unbelief' pairs irja with iman, whose definition (faith as assent, not annulled by works) is what irja presupposes; linked via related_to. Irja is attributed to the Murji'a as its holders (held by murjia, via related_to with note), and positioned against Kharijite takfir, per neutrality principles #1 and #2, without ruling on whether the doctrine is correct. The note that the 'Murji'a' label was applied polemically flags a contested-attribution issue for transparency (principle #5). Triangulation (principle #8) across three lenses: (a) Western academic Islamic studies, van Ess's study of the Murji'a in his Theologie und Gesellschaft; (b) classical Muslim heresiography, al-Ash'ari's Maqalat al-Islamiyyin, which records the Murji'a positions on faith and postponement; (c) a scholarly critical edition/study by a modern Muslim scholar, Wilferd Madelung's study of early Sunni doctrine on faith reflected in Abu 'Ubayd's Kitab al-Iman. Note on lens (c): Madelung writes within Western academia; the deepest 'own-tradition' anchor here is the classical heresiographer al-Ash'ari plus the early Muslim primary text (Abu 'Ubayd's Kitab al-Iman) that Madelung's study treats. All sources at medium confidence; relevant passages not read line-by-line. Per principle #9, no encyclopedias or tertiary sources.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "iman",
+      "note": "Irja presupposes a definition of iman (faith) as inward assent that is not annulled by grave sin."
+    },
+    {
+      "type": "related_to",
+      "target": "murjia",
+      "note": "Irja is the doctrine held by, and giving its name to, the Murji'a."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "takfir",
+      "note": "Irja defers judgment on the grave sinner to God, opposing the ready takfir of the Kharijites."
+    }
+  ],
+  "historical_period": {
+    "start": 680,
+    "end": 750,
+    "note": "Emerges in the late 7th century CE amid disputes over the grave sinner and the early civil wars; the Murji'a current is prominent through the Umayyad period."
+  },
+  "sources": [
+    {
+      "citation": "van Ess, Josef. Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra: Eine Geschichte des religiosen Denkens im fruhen Islam. Berlin: de Gruyter, 1991-1997. A comprehensive academic history of early Islamic religious thought; its treatment of the Murji'a analyzes the doctrine of irja and the surrounding debate on faith and the grave sinner. Eng. trans. Theology and Society, Leiden: Brill, 2017-.",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ash'ari, Abu al-Hasan. Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin (The Doctrines of the Muslims). 10th century CE. Classical heresiographical primary source; its section on the Murji'a records their positions on faith (iman) and the postponement (irja) of judgment on the grave sinner. Ed. Hellmut Ritter, Istanbul/Wiesbaden, 1929-1933.",
+      "license": "Classical Arabic text public domain; edition proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Madelung, Wilferd. 'The Early Murji'a in Khurasan and Transoxania and the Spread of Hanafism.' Der Islam 59 (1982): 32-39; and 'Early Sunni Doctrine concerning Faith as Reflected in the Kitab al-Iman of Abu 'Ubayd al-Qasim b. Sallam (d. 224/839).' Studia Islamica 32 (1970): 233-254, repr. in Religious Schools and Sects in Medieval Islam, London: Variorum, 1985. Peer-reviewed studies of the early Murji'a and of early doctrine on iman.",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

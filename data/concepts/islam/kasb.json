@@ -1,0 +1,76 @@
+{
+  "id": "kasb",
+  "tradition": "islam",
+  "names": {
+    "primary": "Kasb",
+    "original": "كسب",
+    "transliteration": "kasb",
+    "aliases": [
+      "Acquisition",
+      "Iktisab",
+      "Doctrine of acquisition"
+    ]
+  },
+  "category": "free-will-and-predestination",
+  "summary": "Kasb (acquisition) is the Ash'ari doctrine that every human act is created by God yet 'acquired' by the human agent, who thereby bears responsibility for it. It was framed as a middle position between unqualified predestination and the Mu'tazili affirmation of human self-determination.",
+  "description": "In the theology attributed to Abu al-Hasan al-Ash'ari (d. 324/935) and elaborated by the Ash'ariyya, God is the sole creator (khaliq) of all things, including the acts of His creatures, while the human being is the 'acquirer' (muktasib) of those acts. Ash'ari theologians distinguished the creation (khalq) of an act, which belongs to God alone, from its acquisition (kasb), by which the created act is joined to a created power in the agent so that the agent is the one to whom the act is imputed and who is held accountable. The doctrine was intended to hold together two commitments that the school regarded as non-negotiable, God's total omnipotence and the reality of human moral responsibility, and it defined the Ash'ari position in the debate over qadar (divine determination) against the Mu'tazila, who located a genuine originating power in the human agent in order to safeguard divine justice (adl). The precise content of kasb, in particular what the agent's 'acquired' power actually contributes if God creates the act, was contested from early on and remained a recognized point of difficulty, to the extent that a proverb spoke of something being 'more subtle than the kasb of al-Ash'ari.' The Maturidiyya developed a comparable but distinct account of human choice, and the Athari (traditionist) current preferred to affirm God's creation of acts and human responsibility together without the kalam framework.",
+  "editorial_notes": "Category set to 'free-will-and-predestination', the debate this concept is defined by. Relations link kasb to al-ashari (articulated_by), to qadar and adl (the determination/justice axis it negotiates), and part_of a free-will-and-predestination debate node that is a forward reference (dangling target allowed by design). Neutrality principle #8 (triangulation) is served across three lenses: (a) Western academic Islamic studies, Watt's monograph on the early free-will debate and Abrahamov's JRAS study of kasb in al-Ash'ari's Kitab al-Luma'; (b) the tradition's own classical heresiography, al-Shahrastani's al-Milal wa-l-Nihal, which reports the Ash'ari acquisition doctrine; (c) a classical Ash'ari primary text, al-Ghazali's al-Iqtisad fi al-I'tiqad, on divine power and human acts. Honest gap: I did not identify a modern/contemporary Muslim scholar treating kasb specifically that I could verify line-by-line, so the tradition's own lens here is carried by the classical heresiographer and the classical Ash'ari primary text rather than by a contemporary Muslim monograph; this is a candidate for a future third-lens pass rather than an invented citation. All sources cited at medium confidence: their relevant passages were not read line-by-line. Per principle #9 no encyclopedias or tertiary sources are used. The description attributes the acquisition/creation distinction and the 'more subtle than al-Ash'ari's kasb' proverb to the school and its reception, not to the editor.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "al-ashari",
+      "note": "The doctrine of kasb is classically associated with al-Ash'ari and his school."
+    },
+    {
+      "type": "related_to",
+      "target": "qadar",
+      "note": "Kasb is the Ash'ari attempt to reconcile human responsibility with God's determination (qadar)."
+    },
+    {
+      "type": "related_to",
+      "target": "adl",
+      "note": "Contrasts with the Mu'tazili appeal to divine justice (adl), which grounded a genuine human originating power."
+    },
+    {
+      "type": "part_of",
+      "target": "free-will-and-predestination-debate",
+      "note": "Forward reference: kasb is one position within the broader free-will and predestination debate in Islamic theology."
+    }
+  ],
+  "historical_period": {
+    "start": 900,
+    "end": 935,
+    "note": "Formulated by al-Ash'ari in the early 10th century CE (d. 324/935) and developed by later Ash'ari theologians; antecedent conceptions of acquisition circulated among earlier mutakallimun."
+  },
+  "sources": [
+    {
+      "citation": "Watt, W. Montgomery. Free Will and Predestination in Early Islam. London: Luzac & Co., 1948. A monograph on the early Islamic debate over human agency and divine determination, tracing the development of kasb (acquisition) among the mutakallimun before and up to al-Ash'ari.",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abrahamov, Binyamin. 'A Re-examination of al-Ash'ari's Theory of Kasb according to Kitab al-Luma'.' Journal of the Royal Asiatic Society 121, no. 2 (1989): 210-221. A peer-reviewed study of al-Ash'ari's own formulation of acquisition in his Kitab al-Luma'.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/reexamination-of-alasharis-theory-of-kasb-according-to-kitab-alluma/F8BC968109CDB4489FDC10630181DB60",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Shahrastani, Abu al-Fath. Kitab al-Milal wa-l-Nihal (The Book of Religions and Sects). 12th century CE. Classical heresiographical primary source; its section on the Ash'ariyya reports the doctrine of the acquisition (kasb) of human acts under God's sole creation. Trans. as Muslim Sects and Divisions, trans. A. K. Kazi and J. G. Flynn, London: Kegan Paul, 1984.",
+      "license": "Classical Arabic text public domain; translation proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid. al-Iqtisad fi al-I'tiqad (Moderation in Belief). Trans. Aladdin M. Yaqub, University of Chicago Press, 2013. Classical Ash'ari primary text; its treatment of divine power and human acts expounds the acquisition framework in the mature Ash'ari school.",
+      "license": "Proprietary translation; classical Arabic text public domain. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

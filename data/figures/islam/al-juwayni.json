@@ -1,0 +1,53 @@
+{
+  "id": "al-juwayni",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Juwayni",
+    "original": "إمام الحرمين الجويني",
+    "transliteration": "Abū al-Maʿālī ʿAbd al-Malik ibn ʿAbd Allāh al-Juwaynī",
+    "aliases": ["Imam al-Haramayn", "Imam al-Haramayn al-Juwayni", "Abu al-Ma'ali al-Juwayni", "al-Juwaynī"]
+  },
+  "roles": ["theologian", "jurist"],
+  "summary": "Al-Juwayni (1028-1085 CE), known as Imam al-Haramayn, was a leading Ash'ari theologian and Shafi'i jurist of Nishapur. He authored Kitab al-Irshad, a systematic statement of Ash'ari doctrine, and taught al-Ghazali at the Nizamiyya of Nishapur.",
+  "description": "Al-Juwayni was born near Nishapur, in Khurasan, and his nisba derives from the district of Juwayn. He earned the honorific Imam al-Haramayn ('Imam of the Two Sanctuaries') from years spent teaching in the Hijaz, at Mecca and Medina, before returning to head the Nizamiyya college of Nishapur, which was established for him. He was recognized as the foremost Ash'ari theologian of his generation and a jurist of the Shafi'i school. His Kitab al-Irshad ila Qawati' al-Adilla fi Usul al-I'tiqad ('Guide to the Conclusive Proofs for the Principles of Belief') is a systematic exposition of Ash'ari kalam, treating the existence and attributes of God, the createdness of the world, prophethood (nubuwwa), and the last things among the principles of belief. He also wrote the larger theological summa al-Shamil fi Usul al-Din and the influential work of legal theory al-Burhan fi Usul al-Fiqh. Through his teaching at Nishapur he shaped the next generation of Ash'ari thought; his most influential student was al-Ghazali, who studied theology under him before his own career at the Nizamiyya of Baghdad.",
+  "editorial_notes": "Birth and death years (419/1028 - 478/1085) are as commonly reported and given as approximate in the lifespan note. Al-Juwayni is placed on two axes: Ash'ari in theology, Shafi'i in law. The teaching relationship to al-Ghazali is well attested and recorded as a teacher_of relation. The topical claim that the Irshad treats nubuwwa reflects the standard structure of the work; it is described, not adjudicated, per the neutrality policy. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Siddiqui, Cambridge 2019), (b) al-Juwayni's own primary work Kitab al-Irshad in Walker's scholarly translation, and (c) a contemporary Muslim scholar (Saflo, Klaus Schwarz Verlag 2000). Note on Lens B: the published English translation of the Irshad is by Paul E. Walker alone (Garnet, 2000); a co-translator 'Faisal Luqman' sometimes cited elsewhere could not be verified and is not attributed here. Confidence is medium: sources verified to exist and be on-topic via library and publisher records and peer-reviewed reviews, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 1028,
+    "death": 1085,
+    "note": "419-478 AH / 1028-1085 CE; born near Nishapur, Khurasan. Years as commonly reported."
+  },
+  "relations": [
+    { "type": "member_of", "target": "ashariyya", "note": "The leading Ash'ari theologian of his generation." },
+    { "type": "teacher_of", "target": "al-ghazali", "note": "Taught al-Ghazali theology at the Nizamiyya of Nishapur." },
+    { "type": "articulated", "target": "nubuwwa", "note": "Treated prophethood among the principles of belief in Kitab al-Irshad." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "Expounded the divine attributes within Ash'ari kalam in Kitab al-Irshad." },
+    { "type": "related_to", "target": "tawhid", "note": "His systematic theology treats the oneness of God among the principles of belief." }
+  ],
+  "sources": [
+    {
+      "citation": "Siddiqui, Sohaira Z. M. Law and Politics under the Abbasids: An Intellectual Portrait of al-Juwayni. Cambridge Studies in Islamic Civilization. Cambridge: Cambridge University Press, 2019.",
+      "url": "https://www.cambridge.org/core/books/law-and-politics-under-the-abbasids/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Juwayni, Imam al-Haramayn. A Guide to Conclusive Proofs for the Principles of Belief (Kitab al-Irshad ila Qawati' al-Adilla fi Usul al-I'tiqad). Translated by Paul E. Walker. Great Books of Islamic Civilisation. Reading, UK: Garnet Publishing, 2000. Primary source: al-Juwayni's own systematic exposition of Ash'ari kalam.",
+      "url": "https://searchworks.stanford.edu/view/5351168",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saflo, Mohammad Moslem Adel. Al-Juwayni's Thought and Methodology, with a Translation and Commentary on Luma' al-Adilla. Islamkundliche Untersuchungen, vol. 227. Berlin: Klaus Schwarz Verlag, 2000.",
+      "url": "https://philpapers.org/rec/GRIATA-3",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

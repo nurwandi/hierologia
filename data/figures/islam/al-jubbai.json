@@ -1,0 +1,43 @@
+{
+  "id": "al-jubbai",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abu Ali al-Jubba'i",
+    "original": "أبو علي الجبائي",
+    "transliteration": "Abū ʿAlī Muḥammad ibn ʿAbd al-Wahhāb al-Jubbāʾī",
+    "aliases": ["al-Jubba'i", "Abu Ali al-Jubba'i", "Abū ʿAlī al-Jubbāʾī"]
+  },
+  "roles": ["theologian"],
+  "summary": "Abu Ali al-Jubba'i (d. 303/915) was a leading Basran Mu'tazili theologian and Qur'an commentator, head of the Basran school in his generation. He is remembered as the teacher of Abu al-Hasan al-Ash'ari, who studied Mu'tazili theology under him before breaking with the school, and as the father of the theologian Abu Hashim al-Jubba'i.",
+  "description": "Al-Jubba'i, named after Jubba in Khuzistan, led the Basran branch of the Mu'tazila and was a systematic theologian whose positions are known largely through later citation rather than surviving works. His Qur'an commentary (tafsir) is lost but has been partially reconstructed by modern scholars from quotations preserved in the writings of Abd al-Jabbar, al-Sharif al-Murtada, al-Ash'ari, Fakhr al-Din al-Razi, and others. Within the Mu'tazila he developed detailed doctrines on divine justice, the divine attributes, the createdness of the Qur'an, and the human capacity to act, and he is associated with the position that reason can establish moral obligations independently of revelation. His most consequential connection in later theological history is with his student al-Ash'ari, who trained under him in Basra and then repudiated Mu'tazili theology to found the Ash'ari school; a well-known but schematic anecdote, the case of the three brothers, is transmitted as the point of doctrinal rupture between them over the scope of God's obligation to act for the best (al-aslah). His son Abu Hashim al-Jubba'i extended and revised his teaching, and the resulting Bahshamiyya became the dominant Basran Mu'tazili school documented later by Abd al-Jabbar.",
+  "editorial_notes": "The death date is given as 303/915 as commonly reported. The 'three brothers' anecdote marking al-Ash'ari's break is transmitted in the tradition and is presented here as a reported narrative, not as documented biography, per neutrality principle #1; scholars note it is schematic. The 'teacher_of al-ashari' and 'member_of mutazila' relations mirror the reciprocal 'student_of al-jubbai' and 'member_of mutazila' relations in the existing al-ashari entry. Sources triangulate per neutrality principle #8: (a) a modern Western academic reconstruction of al-Jubba'i's lost tafsir (Gwynne); (b) the tradition's classical heresiography (al-Ash'ari's Maqalat al-Islamiyyin), which is itself the report of a student on his teacher's milieu; (c) al-Ash'ari's Maqalat also functions as a near-primary witness. A dedicated contemporary Muslim-authored study focused on al-Jubba'i was not verified, so no such source was invented; this is noted honestly. Encyclopedias and tertiary web sources were excluded per neutrality principle #9. Confidence is medium across the sources, reflecting that al-Jubba'i's own works do not survive intact.",
+  "lifespan": {
+    "death": 915,
+    "note": "Died 303/915. Born c. 235/849 by common report; birth year is treated as approximate and left unrecorded here."
+  },
+  "relations": [
+    { "type": "member_of", "target": "mutazila", "note": "Head of the Basran Mu'tazila in his generation." },
+    { "type": "teacher_of", "target": "al-ashari", "note": "Al-Ash'ari studied Mu'tazili theology under him before breaking with the school." },
+    { "type": "related_to", "target": "adl", "note": "Developed Mu'tazili doctrines of divine justice, including debate over God's obligation to act for the best (al-aslah)." },
+    { "type": "related_to", "target": "khalq-al-quran", "note": "Held the Mu'tazili doctrine of the createdness of the Qur'an." }
+  ],
+  "sources": [
+    {
+      "citation": "Gwynne, Rosalind Ward. The Tafsir of Abu 'Ali al-Jubba'i: First Steps Toward a Reconstruction, with Texts, Translation, Biographical Introduction and Analytical Essay. PhD dissertation, University of Washington, 1982.",
+      "url": "https://search.worldcat.org/title/640089135",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn. Primary/classical heresiography by al-Jubbāʾī's own student, documenting Muʿtazili positions including those of the Jubbāʾī circle. Cited for reference; specific passages not read line-by-line.",
+      "license": "Classical text; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

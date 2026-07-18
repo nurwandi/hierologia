@@ -1,0 +1,50 @@
+{
+  "id": "abu-hanifa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abu Hanifa",
+    "original": "أبو حنيفة النعمان بن ثابت",
+    "transliteration": "Abū Ḥanīfa al-Nuʿmān ibn Thābit",
+    "aliases": ["Abu Hanifa al-Nu'man", "al-Nu'man ibn Thabit", "al-Imām al-Aʿẓam", "Abū Ḥanīfa"]
+  },
+  "roles": ["jurist", "theologian"],
+  "summary": "Abu Hanifa al-Nu'man ibn Thabit (d. 150/767) was a jurist and theologian of Kufa and the eponym of the Hanafi school of Sunni law. A body of early creedal material is transmitted in his name, and later tradition treats him as a foundational authority for the theological outlook that the Maturidi school of Sunni kalam came to systematize.",
+  "description": "Abu Hanifa was a scholar of Kufa, of Persian descent, active in law and theology in the first half of the second Islamic century. He is best known as the eponymous authority of the Hanafi legal school (madhhab), one of the four surviving Sunni schools of law, whose method his students Abu Yusuf and al-Shaybani elaborated and transmitted. Alongside his legal legacy he is associated with early theological positions, including a definition of faith (iman) as affirmation that does not increase or decrease with works, a stance that situates him within the broad tendency later grouped with the Murji'a on the question of the grave sinner. Several short creedal texts are transmitted in his name, most prominently al-Fiqh al-Akbar and al-Fiqh al-Absat, and a set of epistles including a letter to Uthman al-Batti; the ascription of the received al-Fiqh al-Akbar in its familiar form is questioned in modern scholarship, which distinguishes the layers of this creedal corpus and their transmission. In later Sunni tradition, and especially through the Central Asian Hanafi milieu of Samarqand, Abu Hanifa is regarded as the fountainhead of the theological orientation that Abu Mansur al-Maturidi systematized into the Maturidi school of kalam, so that Maturidi theology presents itself as the elaboration of Abu Hanifa's teaching.",
+  "editorial_notes": "The death date is given as 150/767 as commonly reported. The attribution of the received al-Fiqh al-Akbar to Abu Hanifa is genuinely contested: since Wensinck's The Muslim Creed (1932) much Western scholarship has doubted it, and recent work (Ramon Harvey, 2022) re-examines the transmission and the confusion between texts (al-Fiqh al-Akbar, al-Fiqh al-Absat, and the text of Abu Muti' al-Balkhi). The entry reports the creedal corpus as transmitted in his name and names the attribution dispute without adjudicating it, per neutrality principles #1 and #2. Classifying his view of faith with the Murji'a is stated as a later grouping, not endorsed as a verdict. The 'related_to maturidiyya' and 'related_to hanafi' relations record the traditional descent claims; 'hanafi' is a dangling target (allowed). Sources triangulate per neutrality principle #8: (a) a modern Western academic study (Wensinck) that framed the critical question; (b) the classical primary creedal text (al-Fiqh al-Akbar, ascription debated); (c) a peer-reviewed article by a contemporary Muslim scholar (Ramon Harvey) re-investigating the attribution, which also serves the Maturidi-Hanafi lens. Encyclopedias and tertiary web sources were excluded per neutrality principle #9. Confidence is honest: the disputed primary text is rated low.",
+  "lifespan": {
+    "death": 767,
+    "note": "Commonly given as c. 80/699 – 150/767; the birth year (c. 699) is approximate and left unrecorded here as uncertain, the death year (150/767) is well attested."
+  },
+  "relations": [
+    { "type": "related_to", "target": "maturidiyya", "note": "Regarded in later Sunni tradition as the fountainhead of the theological orientation that al-Maturidi systematized." },
+    { "type": "related_to", "target": "hanafi", "note": "Eponym of the Hanafi school of Sunni law." },
+    { "type": "related_to", "target": "iman", "note": "Associated with a definition of faith as affirmation that does not increase or decrease with works." },
+    { "type": "related_to", "target": "murjia", "note": "His view of faith and the grave sinner is grouped by later tradition with the broad Murji'a tendency; this is a later classification." }
+  ],
+  "sources": [
+    {
+      "citation": "Wensinck, A. J. The Muslim Creed: Its Genesis and Historical Development. Cambridge: Cambridge University Press, 1932.",
+      "url": "https://search.worldcat.org/title/1447557",
+      "license": "Public domain / cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abū Ḥanīfa (attributed). Al-Fiqh al-Akbar. Primary/classical creedal text transmitted in Abū Ḥanīfa's name, setting out positions on the divine attributes, faith, and the createdness of the Qurʾān. Its ascription in the received form is debated in the scholarship (see editorial_notes).",
+      "license": "Classical text; cited for reference; attribution disputed.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    },
+    {
+      "citation": "Harvey, Ramon. \"Mistaken Identity: An Investigation into Abū Ḥanīfa's al-Fiqh al-akbar.\" Journal of the American Oriental Society 142, no. 3 (2022): 597-620.",
+      "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/view/2170",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ta-wil",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ta'wil",
+    "original": "تأويل",
+    "transliteration": "taʾwīl",
+    "aliases": [
+      "Figurative interpretation",
+      "Allegorical interpretation",
+      "Metaphorical interpretation"
+    ]
+  },
+  "category": "hermeneutics",
+  "summary": "Ta'wil is the figurative or allegorical interpretation of scriptural expressions, applied in kalam most prominently to the reports of the divine attributes so as to read them in a sense other than their apparent literal meaning. Its legitimacy is a central point of disagreement among the Islamic theological schools.",
+  "description": "In theological usage ta'wil is the practice of interpreting a scriptural expression away from its immediate, apparent sense (zahir) toward a figurative meaning judged more fitting. It is applied above all to the anthropomorphic-seeming reports of God's attributes, such as His hand, face, or establishment upon the throne (istiwa), which on a literal reading appear to liken God to creation. The rationalist kalam schools, the Mu'tazila and, in a more restrained way, the Ash'ariyya and Maturidiyya, held that where a literal reading would imply resemblance to creatures (tashbih) or a body, the text must be interpreted figuratively in the service of divine transcendence (tanzih): God's hand read as His power or bounty, His establishment upon the throne as His dominion. The traditionist Atharis, following Ahmad ibn Hanbal and later Ibn Taymiyya, rejected such interpretation of the attributes as an unwarranted departure from the way of the early community (salaf); on their own account they affirm the attributes as they are reported, without figurative reinterpretation and without inquiring into their modality (bila kayf, 'without asking how'), while denying any resemblance to creation. A related traditionist and Ash'ari option was tafwid, consigning the meaning of such texts to God rather than interpreting them. The schools thus divide not over God's transcendence, which all affirm, but over whether figurative interpretation of the attribute texts is a legitimate means of securing it.",
+  "editorial_notes": "Scope is deliberately confined to ta'wil as a theological method applied to the attribute reports; the broader Qur'anic-exegetical and Sufi senses of ta'wil are out of scope for this entry. Per neutrality principles #1 and #7 the Athari rejection of ta'wil is stated as their attributed position and on its own terms (affirmation bila kayf, not a failure to interpret), alongside the rationalist schools, without the editor ruling any school correct. Three-lens sourcing (principle #8): (a) Western academic, Abrahamov's Islamic Theology: Traditionalism and Rationalism, which frames the traditionalist/rationalist divide over the attributes directly; (b) classical primary/heresiography, al-Ash'ari's Maqalat al-Islamiyyin, which records the schools' positions on the attributes; (c) contemporary Muslim scholarly lens is the thinnest here, Jon Hoover's work on Ibn Taymiyya's theology carries the Athari-affirmation characterization but Hoover is a Western academic rather than a scholar writing from within the tradition, so the third lens is only partially satisfied and is flagged; a dedicated within-tradition source (e.g. an Ash'ari or Athari creedal treatment) is a candidate for the reviewed pass. All three consulted sources are cited at medium confidence as their relevant passages were not read line-by-line. No encyclopedia or tertiary source is used (principle #9).",
+  "relations": [
+    {
+      "type": "contrasts_with",
+      "target": "tashbih",
+      "note": "Ta'wil of the attributes is motivated as a defense against tashbih (assimilating God to creation)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanzih",
+      "note": "Figurative interpretation is deployed by the kalam schools in the service of divine transcendence (tanzih)."
+    },
+    {
+      "type": "related_to",
+      "target": "al-asma-wa-l-sifat",
+      "note": "The primary field of application is the divine names and attributes."
+    },
+    {
+      "type": "refuted_by",
+      "target": "athariyya",
+      "note": "The Atharis reject figurative interpretation of the attributes, affirming them bila kayf; stated as their attributed position."
+    }
+  ],
+  "historical_period": {
+    "start": 750,
+    "end": 1350,
+    "note": "Debated from the formative kalam period (8th-9th centuries CE) through the mature school controversies; sharpened again in Ibn Taymiyya's critique (d. 1328 CE)."
+  },
+  "sources": [
+    {
+      "citation": "Abrahamov, Binyamin. Islamic Theology: Traditionalism and Rationalism. Edinburgh: Edinburgh University Press, 1998. Monograph framing the central Islamic theological struggle between traditionalist and rationalist tendencies, including their opposed treatments of the divine attributes and of figurative interpretation.",
+      "url": "https://edinburghuniversitypress.com/book-islamic-theology.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-ikhtilāf al-muṣallīn (The Doctrines of the Muslims and the Disagreements of the Worshippers). Ed. Hellmut Ritter, Bibliotheca Islamica, Istanbul/Wiesbaden. Classical heresiographical primary source recording the theological schools' positions on the divine attributes and their interpretation.",
+      "license": "Public-domain classical text; scholarly edition proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hoover, Jon. Ibn Taymiyya (Makers of the Muslim World). Oxford: Oneworld, 2019. Study of Ibn Taymiyya's thought, including his affirmation of the divine attributes as reported and his rejection of figurative reinterpretation (taʾwīl) of them. Cited as the contemporary-scholarship lens on the Athari position; the author writes as a Western academic, so the within-tradition lens is only partially covered here.",
+      "url": "https://oneworld-publications.com/work/ibn-taymiyya/",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}
