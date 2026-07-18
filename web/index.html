@@ -60,12 +60,15 @@
     box-shadow:0 0 0 3px var(--accent-soft)}
   .search svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);
     width:15px;height:15px;color:var(--muted)}
-  .filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
-  .filters button{font:inherit;font-size:12.5px;letter-spacing:.02em;
+  .filters{display:flex;flex-direction:column;gap:11px;margin-bottom:14px}
+  .fgroup{display:flex;flex-direction:column;gap:5px}
+  .flabel{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:500}
+  .fchips{display:flex;gap:5px;flex-wrap:wrap}
+  .fchips button{font:inherit;font-size:12.5px;letter-spacing:.02em;
     border:1px solid var(--line);background:#fff;color:var(--muted);
     border-radius:20px;padding:4px 12px;cursor:pointer;transition:.15s}
-  .filters button:hover{border-color:var(--accent);color:var(--accent-ink)}
-  .filters button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .fchips button:hover{border-color:var(--accent);color:var(--accent-ink)}
+  .fchips button.on{background:var(--accent);border-color:var(--accent);color:#fff}
 
   /* list */
   .list{list-style:none;margin:0;padding:0}
@@ -175,7 +178,11 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
       <input type="search" id="q" placeholder="Search entries" autocomplete="off" aria-label="Search entries">
     </div>
-    <div class="filters" id="filters"></div>
+    <div class="filters" id="filters">
+      <div class="fgroup"><span class="flabel">Religion</span><div class="fchips" id="f-tradition"></div></div>
+      <div class="fgroup"><span class="flabel">Type</span><div class="fchips" id="f-type"></div></div>
+      <div class="fgroup"><span class="flabel">Status</span><div class="fchips" id="f-status"></div></div>
+    </div>
     <ul class="list" id="list"></ul>
   </aside>
 
@@ -196,7 +203,7 @@
 
 <script>
 const API = "./api";
-let INDEX = [], activeType = "all", query = "";
+let INDEX = [], activeType = "all", activeTradition = "all", activeStatus = "all", query = "";
 const el = (t,c,txt)=>{const e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e;};
 const cap = s => s ? s[0].toUpperCase()+s.slice(1) : s;
 
@@ -205,12 +212,14 @@ async function boot(){
   const by = INDEX.reduce((m,e)=>(m[e.type]=(m[e.type]||0)+1,m),{});
   document.getElementById("counts").innerHTML =
     `${INDEX.length} entries<br>` + Object.entries(by).map(([k,v])=>`${v} ${k}s`).join(" &middot; ");
-  const fl = document.getElementById("filters");
-  ["all","concept","figure","school"].forEach(t=>{
-    const b = el("button", t==="all"?"on":"", t==="all"?"All":cap(t)+"s");
-    b.onclick=()=>{activeType=t;[...fl.children].forEach(c=>c.classList.toggle("on",c===b));renderList();};
-    fl.appendChild(b);
-  });
+  const group=(id,opts,set)=>{const c=document.getElementById(id);c.innerHTML="";
+    opts.forEach((o,i)=>{const b=el("button",i===0?"on":"",o.label);
+      b.onclick=()=>{set(o.val);[...c.children].forEach(x=>x.classList.toggle("on",x===b));renderList();};
+      c.appendChild(b);});};
+  const traditions=[...new Set(INDEX.map(e=>e.tradition))].sort();
+  group("f-tradition",[{val:"all",label:"All"},...traditions.map(t=>({val:t,label:cap(t)}))],v=>activeTradition=v);
+  group("f-type",[{val:"all",label:"All"},{val:"concept",label:"Concepts"},{val:"figure",label:"Figures"},{val:"school",label:"Schools"}],v=>activeType=v);
+  group("f-status",[{val:"all",label:"All"},{val:"reviewed",label:"Reviewed"},{val:"draft",label:"Draft"}],v=>activeStatus=v);
   document.getElementById("q").addEventListener("input", e=>{query=e.target.value.toLowerCase();renderList();});
   window.addEventListener("hashchange", route);
   renderList(); route();
@@ -219,7 +228,10 @@ async function boot(){
 function renderList(){
   const ul = document.getElementById("list"); ul.innerHTML="";
   const cur = decodeURIComponent(location.hash.slice(1));
-  const items = INDEX.filter(e => (activeType==="all"||e.type===activeType) &&
+  const items = INDEX.filter(e =>
+    (activeTradition==="all"||e.tradition===activeTradition) &&
+    (activeType==="all"||e.type===activeType) &&
+    (activeStatus==="all"||e.status===activeStatus) &&
     (!query || e.name.toLowerCase().includes(query) || e.id.includes(query) || (e.summary||"").toLowerCase().includes(query)));
   if(!items.length){ ul.appendChild(el("li")).appendChild(el("div","label","no matches")); return; }
   items.forEach(e=>{
