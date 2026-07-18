@@ -1,0 +1,64 @@
+{
+  "id": "athariyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Athariyya",
+    "original": "الأثرية",
+    "transliteration": "al-Athariyya",
+    "aliases": ["Atharism", "Athari school", "Atharis", "Ahl al-Hadith", "Ahl al-Athar", "Traditionist theology", "Ahl al-Sunna wa-l-Jama'a"]
+  },
+  "summary": "The Athariyya are the traditionist (Ahl al-Hadith) tendency in Sunni theology, which grounds doctrine in the Qur'an and hadith and, on its own account, affirms the revealed statements about God — including those describing His attributes — as they stand, 'without asking how' (bila kayf), while declining figurative reinterpretation (ta'wil) and treating speculative theology (kalam) as a blameworthy innovation.",
+  "description": "Atharism (from athar, 'transmitted report') is the theological orientation of the Ahl al-Hadith, the traditionists who took shape as a distinct current in the second and third Islamic centuries (eighth-ninth centuries CE) in reaction to the rationalist theology of the Mu'tazila and, later, to kalam theology more broadly. On its own self-understanding, the school preserves the teaching of the Prophet and the early community (the salaf) without alteration, holding that matters of creed are to be settled by scripture and sound transmitted report rather than by independent rational speculation. Its most characteristic position concerns the divine names and attributes (al-asma' wa-l-sifat): where scripture ascribes to God attributes such as knowledge, power, will, speech, hearing and sight, and where it uses expressions such as God's 'hand', 'face', His 'settling' (istiwa') upon the Throne, and His 'descent', the Atharis affirm these as they are given, ascribing to them their apparent sense while consigning the modality to God, a stance summarized in the formula bila kayf ('without [asking] how'). They pair this affirmation (ithbat) with a denial of likeness to creatures (tanzih), citing the Qur'anic 'there is nothing like unto Him' (Q 42:11), and they characteristically decline both figurative reinterpretation (ta'wil) — associated by them with the Jahmiyya, Mu'tazila and later the Ash'ariyya — and the outright likening of God to creatures (tashbih). Against the Mu'tazila, the traditionists held the Qur'an to be the uncreated speech of God, a position at the center of the mihna, the caliphal inquisition (initiated 218/833) during which Ahmad ibn Hanbal (d. 241/855) was interrogated and punished for refusing to affirm the Qur'an's createdness; his stance made him the emblematic figure of the traditionist cause. The school's positions were articulated in a genre of creedal statements ('aqa'id), among them creeds ascribed to Ahmad ibn Hanbal, al-'Aqida al-Tahawiyya of the Hanafi traditionist al-Tahawi (d. 321/933), and, in the later period, Ibn Taymiyya's (d. 728/1328) al-'Aqida al-Wasitiyya, which restates the traditionist doctrine of the attributes. Although historically carried above all by the Hanbali madhhab, Atharism is not identical with it: some who followed Hanbali law inclined to kalam, and some adherents of the other Sunni law schools held traditionist theology. In the modern period the Athari orientation has been prominently revived within the Salafi movement.",
+  "editorial_notes": "This entry describes the Athari/traditionist position as an attributed self-understanding, in line with the project's neutrality policy (principle 7): the claims that the school 'preserves prophetic teaching without alteration' and affirms the texts 'bila kayf' while refusing ta'wil are reported as the school's own account of itself, not endorsed by the editor. Whether the Athari affirmation of the attributes amounts to a form of anthropomorphism (tashbih) or is a faithful preservation of scripture is precisely the point contested between the traditionists and the kalam schools (Mu'tazila, Ash'ariyya, Maturidiyya); that dispute is named here, not adjudicated. Terminology is not fully standardized in the sources: 'Atharism', 'Ahl al-Hadith', 'traditionism' and 'Salafism' overlap but are not exact synonyms, and modern scholars differ on how sharply to distinguish them; 'Salafi' in particular carries a modern revivalist sense treated here only in passing. The relationship between Atharism and the Hanbali madhhab is close but not one of identity (see the hanbaliyya entry). Several relation targets (ibn-taymiyya, ahl-al-hadith, ta'wil, tashbih, tanzih, mihna) are not yet separate entries in this dataset. The founding date is given only approximately (see period note).",
+  "period": {
+    "founded": 833,
+    "note": "Approximate. Atharism as a self-conscious traditionist current crystallized across the 2nd-3rd Islamic centuries (8th-9th c. CE); the year given points to the mihna (from 218/833), the inquisition over the createdness of the Qur'an during which Ahmad ibn Hanbal's resistance made traditionism a defined party. The orientation remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "key_figure", "target": "ahmad-ibn-hanbal", "note": "Ahmad ibn Hanbal (d. 241/855), the emblematic traditionist and the figure around whom Ahl al-Hadith theology coalesced." },
+    { "type": "key_figure", "target": "ibn-taymiyya", "note": "Ibn Taymiyya (d. 728/1328), later systematizer and defender of the Athari doctrine of the attributes; author of al-'Aqida al-Wasitiyya." },
+    { "type": "holds", "target": "al-asma-wa-l-sifat", "note": "Affirms the revealed divine names and attributes as given, 'without asking how' (bila kayf), while denying likeness to creatures." },
+    { "type": "holds", "target": "tanzih", "note": "Holds that God is unlike His creation (Q 42:11); affirmation of the attributes is paired with the denial of likeness." },
+    { "type": "rejects", "target": "khalq-al-quran", "note": "Rejects the createdness of the Qur'an, holding it to be the uncreated speech of God — the doctrine at issue in the mihna." },
+    { "type": "rejects", "target": "ta-wil", "note": "Declines figurative reinterpretation of the texts on the divine attributes, associating ta'wil with the kalam schools." },
+    { "type": "rejects", "target": "tashbih", "note": "Rejects likening God to creatures; on its own account its affirmation of the attributes is not anthropomorphism — a characterization the kalam schools dispute." },
+    { "type": "opposed", "target": "mutazila", "note": "Defined itself against Mu'tazili rationalism, especially the createdness of the Qur'an and the reinterpretation of the attributes." },
+    { "type": "opposed", "target": "jahmiyya", "note": "Traditionist polemic targeted the Jahmiyya as the source of denial (ta'til) of the attributes and of the createdness doctrine." },
+    { "type": "related_to", "target": "hanbaliyya", "note": "Historically the principal vehicle of Athari theology, though the two are not identical (see editorial notes)." },
+    { "type": "related_to", "target": "ahl-al-hadith", "note": "Atharism is the theological expression of the Ahl al-Hadith movement." }
+  ],
+  "sources": [
+    {
+      "citation": "Holtzman, Livnat. Anthropomorphism in Islam: The Challenge of Traditionalism (700-1350). Edinburgh University Press (Edinburgh Studies in Classical Islamic History and Culture), 2018.",
+      "url": "https://academic.oup.com/edinburgh-scholarship-online/book/19169",
+      "license": "Proprietary — cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hoover, Jon. Ibn Taymiyya (Makers of the Muslim World). Oneworld Academic, 2019; and Hoover, 'The Tawhids of Ibn Taymiyya' (on Ibn Taymiyya's affirmation of the divine attributes).",
+      "url": "https://sites.google.com/site/jhoover363/taymiyyan-studies/ibn-taymiyya",
+      "license": "Proprietary — cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Abrahamov, Binyamin. 'The Bi-la kayfa Doctrine and Its Foundations in Islamic Theology.' Arabica 42 (1995): 365-379.",
+      "url": "https://www.jstor.org/stable/4057368",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "'Atharism' and 'Ahl al-Hadith', Wikipedia. Used as an orienting tertiary source for the general shape of the school; substantive claims cross-checked against Holtzman and Hoover.",
+      "url": "https://en.wikipedia.org/wiki/Atharism",
+      "license": "CC BY-SA 4.0.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

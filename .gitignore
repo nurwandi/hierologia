@@ -9,3 +9,6 @@ venv/
 *.swp
 .idea/
 .vscode/
+
+# Generated static API (built by scripts/build_api.py, and in CI on deploy)
+web/api/

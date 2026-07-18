@@ -27,6 +27,15 @@ every entry, not an aspiration.
    represented fully and on its own terms, as an attributed position, alongside
    the rationalist schools. Describing a school sympathetically on its own terms
    is required; the editor endorsing it is forbidden.
+8. **Source diversity — triangulate across scholarly traditions.** Draw on more
+   than one tradition of inquiry: Western academic Islamic studies *and*
+   Muslim/Islamic scholarship — the tradition's own classical primary texts and
+   heresiographers (e.g. al-Ashʿarī's *Maqālāt al-Islāmiyyīn*, al-Shahrastānī's
+   *al-Milal wa-l-Niḥal*, al-Baghdādī's *al-Farq bayn al-Firaq*) and reputable
+   classical and contemporary Muslim scholars. Documenting a tradition only
+   through outside academic sources is itself a bias. Sources are judged by
+   scholarly quality and transparency, not by the author's background; the aim is
+   triangulation, not the replacement of one lens with another.
 
 ## Out of scope (for now)
 
