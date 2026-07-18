@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="web/hierologia.svg" alt="Hierologia logo" width="96" height="96">
+</p>
+
 # Hierologia
 
 **An open, neutral, well-sourced academic API for the comparative study of sacred traditions.**
