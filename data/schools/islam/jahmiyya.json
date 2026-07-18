@@ -35,7 +35,7 @@
       "url": "https://edinburghuniversitypress.com/book-the-formative-period-of-islamic-thought.html",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Baghdadi, Abu Mansur 'Abd al-Qahir ibn Tahir (d. 429/1037). al-Farq bayn al-Firaq. Trans. (Part I) Kate Chambers Seelye, Moslem Schisms and Sects, New York: Columbia University Press, 1919; (Part II) A. S. Halkin, Tel-Aviv: Palestine Publishing, 1935. Classical Muslim heresiography that classifies and refutes the Jahmiyya among the sects. Relevant passages not read directly in this pass.",
@@ -52,7 +52,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

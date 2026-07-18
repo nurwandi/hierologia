@@ -31,7 +31,7 @@
       "url": "https://cup.columbia.edu/book/the-making-of-salafism/9780231175500/",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Meijer, Roel, ed. Global Salafism: Islam's New Religious Movement. Oxford University Press / Hurst, 2009. An edited scholarly volume (cited via its authored chapters, incl. Haykel's) on the movement's doctrine and its purist/political/jihadi strands.",
@@ -54,7 +54,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

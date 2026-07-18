@@ -26,12 +26,12 @@
     {
       "citation": "Smith, Jane Idleman, and Yvonne Yazbeck Haddad. The Islamic Understanding of Death and Resurrection. Albany: State University of New York Press, 1981; repr. Oxford University Press, 2002. An academic monograph drawing on the Qur'an, hadith, creeds, and theological commentaries to survey the Islamic eschatological narrative from the death of the individual through resurrection (maʿad / qiyama) to the final abodes; treats the return to God and the classical questions surrounding bodily resurrection.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Marmura, Michael E. \"Al-Ghazali on Bodily Resurrection and Causality in Tahafut and the Iqtisad.\" Aligarh Journal of Islamic Thought 2 (1989): 46-75. Peer-reviewed study of al-Ghazali's defense of the possibility of bodily resurrection (maʿad) against the philosophers and its relation to his account of causality and divine power; reprinted in Marmura, Probing in Islamic Philosophy (Binghamton, NY: Global Academic Publishing, 2005).",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Ghazali, Abu Hamid. The Incoherence of the Philosophers (Tahafut al-Falasifa): A Parallel English-Arabic Text, trans. Michael E. Marmura, 2nd ed. Provo, UT: Brigham Young University Press, 2000. In its treatment of the afterlife (maʿad), al-Ghazali defends the possibility of bodily resurrection and treats the philosophers' denial that souls return to bodies as incompatible with Islamic belief. Cited at medium confidence as its relevant passages were not read line-by-line here.",
@@ -46,7 +46,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

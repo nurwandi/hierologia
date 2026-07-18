@@ -31,14 +31,14 @@
       "url": "https://www.euppublishing.com/doi/10.3366/E1465359109000461",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Knysh, Alexander. Sufism: A New History of Islamic Mysticism. Princeton University Press, 2017; and Knysh, Islamic Mysticism: A Short History, Brill, 2000.",
       "url": "https://press.princeton.edu/books/hardcover/9780691139098/sufism",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Qushayri, Abu 'l-Qasim. al-Risala al-Qushayriyya fi 'ilm al-tasawwuf (5th/11th c.), trans. Alexander D. Knysh as Al-Qushayri's Epistle on Sufism, Garnet Publishing, 2007. A primary Sufi manual setting out the stations (maqamat), states (ahwal) and technical vocabulary of the path.",
@@ -55,7 +55,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

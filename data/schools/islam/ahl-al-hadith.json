@@ -27,7 +27,7 @@
       "url": "https://brill.com/display/title/828",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Shahrastani, Muhammad ibn 'Abd al-Karim. Kitab al-Milal wa-l-Nihal (The Book of Sects and Creeds), 6th/12th c. A classical heresiography that surveys the Islamic schools, treating the Ashab al-Hadith / Ahl al-Hadith among the traditionist parties and their stance toward kalam and ra'y. Cited as the tradition's own classical mapping of its internal currents.",
@@ -41,10 +41,10 @@
       "url": "https://archive.org/details/foundations-of-islam-jonathan-a.-c.-brown-hadith-muhammads-legacy-in-the-medieva",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

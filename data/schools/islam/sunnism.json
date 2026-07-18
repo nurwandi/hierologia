@@ -29,21 +29,21 @@
       "url": "https://press.uchicago.edu/ucp/books/book/chicago/V/bo3643093.html",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Hallaq, Wael B. The Origins and Evolution of Islamic Law. Cambridge University Press, 2005; and A History of Islamic Legal Theories, Cambridge University Press, 1997. On the formation of the Sunni schools of law (madhhabs).",
       "url": "https://www.cambridge.org/core/books/origins-and-evolution-of-islamic-law/2E95FE694D857A258433161055841F54",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Brown, Jonathan A. C. The Canonization of al-Bukhari and Muslim: The Formation and Function of the Sunni Hadith Canon. Brill (Islamic History and Civilization 69), 2007. A contemporary Muslim scholar's study of how the Sahihayn became the shared textual foundation of Sunnism.",
       "url": "https://brill.com/display/title/13718",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-19",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Tahawi, Abu Ja'far. al-'Aqida al-Tahawiyya (Bayan al-Sunna wa-l-Jama'a), 4th/10th c. A concise creed widely received across Sunnism as a statement of the belief of Ahl al-Sunna wa-l-Jama'a. Multiple English translations exist (e.g. Hamza Yusuf, The Creed of Imam al-Tahawi).",
@@ -52,7 +52,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

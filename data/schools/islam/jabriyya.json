@@ -25,14 +25,14 @@
       "url": "https://openlibrary.org/books/OL6075946M/Free_will_and_predestination_in_early_Islam.",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Watt, W. Montgomery. The Formative Period of Islamic Thought. Edinburgh: Edinburgh University Press, 1973. Analytic history of early Islamic theology to c. 950 CE; situates the determinist (jabr) positions in relation to the Qadariyya and the Mu'tazila.",
       "url": "https://edinburghuniversitypress.com/book-the-formative-period-of-islamic-thought.html",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Baghdadi, Abu Mansur 'Abd al-Qahir ibn Tahir (d. 429/1037). al-Farq bayn al-Firaq. Trans. (Part I) Kate Chambers Seelye, Moslem Schisms and Sects, New York: Columbia University Press, 1919; (Part II) A. S. Halkin, Tel-Aviv: Palestine Publishing, 1935. Classical Muslim heresiography that classifies the determinist (Jabriyya) positions among the sects. Relevant passages not read directly in this pass.",
@@ -49,7 +49,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

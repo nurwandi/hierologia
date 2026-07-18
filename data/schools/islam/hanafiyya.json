@@ -26,21 +26,21 @@
       "url": "https://brill.com/display/title/828",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Hallaq, Wael B. The Origins and Evolution of Islamic Law (Themes in Islamic Law 1). Cambridge University Press, 2005 (on the early ra'y and hadith currents and the formation of the Sunni madhhabs).",
       "url": "https://www.cambridge.org/core/books/origins-and-evolution-of-islamic-law/2E95FE694D857A258433161055841F54",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Harvey, Ramon. Transcendent God, Rational World: A Maturidi Theology (Edinburgh Studies in Islamic Scripture and Theology). Edinburgh University Press, 2021 (on al-Maturidi's system and its reception as the theology of the Hanafi tradition; and on the al-Fiqh al-Akbar attribution question).",
       "url": "https://academic.oup.com/edinburgh-scholarship-online/book/42898",
       "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Shahrastani, Muhammad ibn 'Abd al-Karim. Kitab al-Milal wa-l-Nihal (The Book of Sects and Creeds), 6th/12th c. A classical heresiography that situates the Hanafis (Ashab Abi Hanifa) among the Sunni parties and their approach to ra'y. Cited as the tradition's own classical mapping.",
@@ -56,7 +56,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"
