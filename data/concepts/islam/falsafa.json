@@ -1,0 +1,73 @@
+{
+  "id": "falsafa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Falsafa",
+    "original": "فلسفة",
+    "transliteration": "falsafa",
+    "aliases": [
+      "Islamic philosophy",
+      "Arabic philosophy",
+      "Islamic Peripatetic philosophy",
+      "Hellenistic philosophy in Islam"
+    ]
+  },
+  "category": "intellectual-tradition",
+  "summary": "Falsafa is the tradition of Hellenistic-derived rational philosophy in the Islamic world, developed by the falasifa from Greek philosophical and scientific texts. It is generally distinguished from kalam, the dialectical theology, and its metaphysical claims were famously critiqued by al-Ghazali.",
+  "description": "Falsafa denotes the tradition of Hellenistic-derived rational philosophy in the Islamic world, developed by the falasifa, among them al-Kindi, al-Farabi, and Ibn Sina (Avicenna). It grew from the Greek philosophical and scientific corpus made available through the Graeco-Arabic translation movement of the Abbasid period. Falsafa is generally distinguished from kalam, the dialectical or scholastic theology: whereas kalam argues from premises rooted in revelation to defend Islamic doctrine, falsafa proceeds primarily from Aristotelian and Neoplatonic reasoning and treats questions such as the eternity of the world, causality, and the nature of God's knowledge on philosophical grounds. Al-Ghazali, in his Tahafut al-Falasifa (The Incoherence of the Philosophers), argued that the metaphysical claims of the falasifa were logically unsupported and that three of their positions amounted to unbelief. This critique was in turn contested by Ibn Rushd (Averroes) in Tahafut al-Tahafut and, from a different direction, criticized by Ibn Taymiyya. These critiques are recorded here as attributed historical positions and are not adjudicated.",
+  "editorial_notes": "This entry treats falsafa as an intellectual tradition and deliberately distinguishes it from kalam (its own entry), since the two are frequently conflated by outsiders. Al-Ghazali's charge that certain philosophical positions amount to unbelief is stated as his attributed argument, per neutrality principles #1 and #2, and is paired with the note that it was itself contested by Ibn Rushd; the editor takes no side. Sources triangulate three lenses per principle #8: (a) a modern Western academic monograph, Gutas on the Graeco-Arabic translation movement that supplied falsafa's Greek base; (b) a classical Muslim primary text, al-Ghazali's Tahafut al-Falasifa in Marmura's parallel Arabic-English edition, which is the single most influential classical critique of the falasifa; (c) a contemporary Muslim scholar, Seyyed Hossein Nasr's Three Muslim Sages, which treats Avicenna and the later Peripatetic trajectory. All three were web-verified to exist and be on-topic. Confidence is medium as their relevant passages were not read line-by-line. Note on lens (c): Nasr's volume centers on Avicenna, Suhrawardi, and Ibn Arabi; al-Farabi appears as background rather than a focal chapter.",
+  "relations": [
+    {
+      "type": "contrasts_with",
+      "target": "kalam",
+      "note": "Falsafa reasons primarily from Hellenistic philosophy; kalam argues from premises rooted in revelation."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The falasifa treated the nature and unity of God (the Necessary Existent) on philosophical grounds."
+    },
+    {
+      "type": "refuted_by",
+      "target": "al-ghazali",
+      "note": "Al-Ghazali's Tahafut al-Falasifa argued the falasifa's key metaphysical claims were unsupported; attributed critique, not adjudicated."
+    },
+    {
+      "type": "refuted_by",
+      "target": "ibn-taymiyya",
+      "note": "Ibn Taymiyya criticized the falasifa from a traditionist standpoint; attributed position, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 800,
+    "end": 1200,
+    "note": "Rooted in the Graeco-Arabic translation movement of the 8th to 10th centuries CE; classical falsafa runs from al-Kindi through Ibn Sina and Ibn Rushd, with later continuations in the Persian and Illuminationist traditions."
+  },
+  "sources": [
+    {
+      "citation": "Gutas, Dimitri. Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society (2nd-4th/8th-10th centuries). Arabic Thought and Culture. London and New York: Routledge, 1998. A foundational academic study of the translation movement that produced the Greek philosophical and scientific base of falsafa; cited as the Western academic lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/greekthoughtarab0000guta_v3l3",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid Muhammad. The Incoherence of the Philosophers (Tahafut al-Falasifa): A Parallel English-Arabic Text. Trans. Michael E. Marmura. 2nd ed. Provo, Utah: Brigham Young University Press (Islamic Translation Series), 2000. The classical Muslim critique of the metaphysics of the falasifa; cited as the classical primary lens. Relevant passages not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/distributed/I/bo3624354.html",
+      "license": "Proprietary translation; classical Arabic text public domain. Cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. Three Muslim Sages: Avicenna, Suhrawardi, Ibn Arabi. Harvard Studies in World Religions, vol. 1. Cambridge, Mass.: Harvard University Press, 1964. A contemporary Muslim scholar's treatment of the Peripatetic (Avicennan) and later philosophical trajectories in Islam; cited as the modern Muslim scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674421455",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

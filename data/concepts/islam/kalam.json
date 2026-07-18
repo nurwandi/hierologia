@@ -1,0 +1,89 @@
+{
+  "id": "kalam",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ilm al-Kalam",
+    "original": "علم الكلام",
+    "transliteration": "ʿilm al-kalām",
+    "aliases": [
+      "Kalam",
+      "Islamic speculative theology",
+      "Islamic dialectical theology",
+      "Islamic scholastic theology",
+      "Rational theology"
+    ]
+  },
+  "category": "theological-method",
+  "summary": "Ilm al-Kalam is the Islamic discipline of systematic, dialectical theology that defends the articles of faith through reasoned and logical argument rather than through scriptural citation alone. It was the characteristic method of the rationalist theological schools and was contested by the traditionist currents.",
+  "description": "Ilm al-Kalam denotes the science of speculative or dialectical theology in Islam, in which doctrine is expounded and defended by rational argument, definition, and refutation of opponents. The classical Muslim historian Ibn Khaldun defined it as a science that involves arguing with logical proofs in defense of the articles of faith and refuting innovators who deviate in their dogmas from the early community. Its practitioners, the mutakallimun, developed not only theological argument but also a distinctive natural philosophy, including an atomist cosmology of atoms, space, and void, most fully elaborated among the Basran Mu'tazila. Kalam was the shared method of the principal rationalist schools, the Mu'tazila and later the Ash'ariyya and Maturidiyya, which nonetheless disagreed sharply with one another on substantive doctrine. From within the tradition it was contested by scripturalist and traditionist (Athari, Hanbali) currents, most sharply by Ibn Taymiyya, who rejected the kalam method as an unwarranted intrusion of Hellenistic reasoning into revealed religion. This entry describes kalam as a method and names the schools that practised or rejected it without adjudicating between them.",
+  "editorial_notes": "This entry treats kalam as a theological method and discipline, not as the doctrine of any single school; the substantive positions of the Mu'tazila, Ash'ariyya, Maturidiyya, and the Athari critics belong to their own entries and relations. Per neutrality principle #7 the traditionist/Athari rejection of kalam is named as an attributed position (Ibn Taymiyya), not endorsed and not presented as refuted. Sources triangulate three lenses per principle #8: (a) a modern Western academic monograph, Dhanani's study of the physical theory of kalam, which reconstructs the cosmology of the mutakallimun (verified via publisher and bibliographic records; direct fetch of the Brill page returned 403 but existence was cross-confirmed); (b) a classical Muslim primary text, Ibn Khaldun's Muqaddimah, whose own definition of ilm al-kalam was verified against the Arabic-derived English text; (c) a contemporary reference of Muslim and Western scholarship, the Oxford Handbook of Islamic Theology edited by Sabine Schmidtke, which structures the field along the rationalist/traditionalist fault line and treats Ibn Taymiyya's anti-kalam stance. Confidence is medium across the board: the works were verified to exist and be on-topic, but their relevant passages were not read line-by-line for every claim here.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The affirmation and rational defense of divine oneness is a central object of kalam argument."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "falsafa",
+      "note": "Kalam argues from premises rooted in revelation; falsafa proceeds primarily from Hellenistic philosophical reasoning."
+    },
+    {
+      "type": "articulated_by",
+      "target": "mutazila",
+      "note": "The Mu'tazila were among the earliest systematic practitioners of the kalam method."
+    },
+    {
+      "type": "articulated_by",
+      "target": "ashariyya",
+      "note": "The Ash'ariyya adopted the kalam method in defense of a broadly traditionalist creed."
+    },
+    {
+      "type": "articulated_by",
+      "target": "maturidiyya",
+      "note": "The Maturidiyya likewise developed a rational kalam alongside the Ash'ariyya."
+    },
+    {
+      "type": "refuted_by",
+      "target": "athariyya",
+      "note": "The traditionist Athari current rejected kalam in favor of scriptural affirmation without speculative interpretation (bila kayf)."
+    },
+    {
+      "type": "refuted_by",
+      "target": "ibn-taymiyya",
+      "note": "Ibn Taymiyya rejected the kalam method as an unwarranted intrusion of Hellenistic reasoning; attributed position, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 700,
+    "end": 1400,
+    "note": "Emerged in the early debates of the 8th century CE, systematized by the Mu'tazila and later the Ash'ariyya and Maturidiyya, and codified through the classical and post-classical periods."
+  },
+  "sources": [
+    {
+      "citation": "Dhanani, Alnoor. The Physical Theory of Kalam: Atoms, Space, and Void in Basrian Mu'tazili Cosmology. Islamic Philosophy, Theology and Science: Texts and Studies, vol. 14. Leiden and New York: Brill, 1994. A modern academic monograph reconstructing the natural philosophy of the mutakallimun; cited as the Western academic lens. Relevant passages not read line-by-line.",
+      "url": "https://brill.com/display/title/310",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Khaldun, Abd al-Rahman. The Muqaddimah: An Introduction to History. Trans. Franz Rosenthal. 3 vols. New York: Bollingen / Pantheon; London: Routledge and Kegan Paul, 1958. The section 'The Science of Speculative Theology' (ilm al-kalam) in Chapter VI defines kalam as arguing with logical proofs in defense of the articles of faith. Classical Muslim primary source; the defining passage was verified.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.280276",
+      "license": "Public-domain classical text; Rosenthal translation proprietary. Cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schmidtke, Sabine (ed.). The Oxford Handbook of Islamic Theology. Oxford: Oxford University Press, 2016. A scholarly edited volume structuring Islamic theology along the rationalist (Mu'tazili, Ash'ari, Maturidi) and traditionalist (Hanbali/Athari, incl. Ibn Taymiyya) strands. Cited as the contemporary Muslim-and-Western scholarly lens. Relevant chapters not read line-by-line.",
+      "url": "https://academic.oup.com/edited-volume/34345",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

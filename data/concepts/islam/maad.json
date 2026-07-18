@@ -1,0 +1,53 @@
+{
+  "id": "maad",
+  "tradition": "islam",
+  "names": {
+    "primary": "Maad",
+    "original": "معاد",
+    "transliteration": "maʿād",
+    "aliases": ["The Return", "The Place of Return", "Bodily Resurrection", "Return to God"]
+  },
+  "category": "eschatology",
+  "summary": "Maʿad (\"the return\" or \"place of return\") is the Islamic doctrine that human beings return to God after death to be raised and judged. Classical theology treated it as the eschatological return of creatures to their origin, with sustained debate over whether the resurrection it entails is bodily, spiritual, or both.",
+  "description": "Maʿad, from a root meaning \"to return,\" designates the return of creatures to God at the end of time and, by extension, the resurrection that this return entails. Classical thought used the term for the raising of the dead and their standing before God for the reckoning, and it is closely bound to the wider doctrine of al-akhira, the hereafter. Kalam and philosophy treated maʿad as a rationally examinable question, asking in particular in what manner the dead return: whether resurrection is bodily (the reconstitution of the person as body and soul), spiritual (the survival and felicity of the soul), or a combination of the two. The philosophers in the Avicennian tradition tended toward an account emphasizing the soul's survival, and some read the scriptural descriptions of bodily reward and punishment figuratively; theologians of the kalam schools insisted on a bodily return, holding that God restores the person as a whole. Al-Ghazali, in his Tahafut al-Falasifa, treated the philosophers' denial that souls return to bodies as one of the doctrines incompatible with Islamic belief, and defended the possibility of bodily resurrection through divine power. Modern Muslim scholarship has read the Qur'anic material on the return and resurrection as an ethically charged affirmation that each person is accountable and will be raised, without necessarily resolving every classical dispute over the mode of that raising. The schools differed in emphasis and vocabulary but shared the affirmation of a real return to God for judgment.",
+  "editorial_notes": "This entry treats maʿad as the doctrine of the return and resurrection, the term the akhira entry glosses in passing; the two overlap and are cross-linked (maʿad is presented as part_of the broader eschatology, al-akhira, and related_to qiyama, the day of resurrection). The bodily-versus-spiritual resurrection question is named as a live classical dispute and presented as attributed positions (Avicennian philosophers vs. kalam theologians, with al-Ghazali's defense of bodily resurrection attributed to him), not adjudicated, per neutrality principles #1 and #2. Three lenses are triangulated (principle #8): a Western academic monograph (Smith and Haddad, The Islamic Understanding of Death and Resurrection) and a peer-reviewed article (Marmura on al-Ghazali on bodily resurrection); the tradition's own classical primary text (al-Ghazali, Tahafut al-Falasifa, Marmura translation); and a modern Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an, eschatology chapter). Confidence is honest: the Marmura article and Smith and Haddad carry high confidence for the dispute and the eschatological framing; the primary texts are cited at medium confidence as their relevant passages were not read line-by-line here. Intra-school detail (the barzakh, the trumpet, the weighing of deeds) is deferred to qiyama and future entries.",
+  "relations": [
+    { "type": "part_of", "target": "akhira", "note": "The return and resurrection are the central events of al-akhira, the hereafter." },
+    { "type": "related_to", "target": "qiyama", "note": "Yawm al-Qiyama is the day on which the return and resurrection occur." },
+    { "type": "related_to", "target": "adl", "note": "The return to God is for the just recompense of deeds." },
+    { "type": "related_to", "target": "qadar", "note": "Reconciling the reckoning at the return with predestination is a classical eschatological question." },
+    { "type": "contrasts_with", "target": "dunya", "note": "The return is to al-akhira, defined in contrast to al-dunya, the present world." }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "Grounded in Qur'anic revelation; the mode of resurrection was elaborated and disputed by the theological schools and the philosophers from roughly the 8th to 12th centuries CE."
+  },
+  "sources": [
+    {
+      "citation": "Smith, Jane Idleman, and Yvonne Yazbeck Haddad. The Islamic Understanding of Death and Resurrection. Albany: State University of New York Press, 1981; repr. Oxford University Press, 2002. An academic monograph drawing on the Qur'an, hadith, creeds, and theological commentaries to survey the Islamic eschatological narrative from the death of the individual through resurrection (maʿad / qiyama) to the final abodes; treats the return to God and the classical questions surrounding bodily resurrection.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Marmura, Michael E. \"Al-Ghazali on Bodily Resurrection and Causality in Tahafut and the Iqtisad.\" Aligarh Journal of Islamic Thought 2 (1989): 46-75. Peer-reviewed study of al-Ghazali's defense of the possibility of bodily resurrection (maʿad) against the philosophers and its relation to his account of causality and divine power; reprinted in Marmura, Probing in Islamic Philosophy (Binghamton, NY: Global Academic Publishing, 2005).",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid. The Incoherence of the Philosophers (Tahafut al-Falasifa): A Parallel English-Arabic Text, trans. Michael E. Marmura, 2nd ed. Provo, UT: Brigham Young University Press, 2000. In its treatment of the afterlife (maʿad), al-Ghazali defends the possibility of bodily resurrection and treats the philosophers' denial that souls return to bodies as incompatible with Islamic belief. Cited at medium confidence as its relevant passages were not read line-by-line here.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'an. Minneapolis and Chicago: Bibliotheca Islamica, 1980; 2nd ed. Chicago: University of Chicago Press, 1994 (repr. 2009). The chapter on eschatology by a leading modern Muslim scholar reads the Qur'anic material on the return and resurrection as an ethically charged affirmation of human accountability and the raising of the dead. Added as the modern Muslim scholarly lens; cited at medium confidence as its relevant passages were not read line-by-line here.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

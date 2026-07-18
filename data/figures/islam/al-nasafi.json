@@ -1,0 +1,47 @@
+{
+  "id": "al-nasafi",
+  "tradition": "islam",
+  "names": {
+    "primary": "Najm al-Din al-Nasafi",
+    "original": "نجم الدين أبو حفص عمر النسفي",
+    "transliteration": "Najm al-Dīn Abū Ḥafṣ ʿUmar ibn Muḥammad al-Nasafī",
+    "aliases": ["Umar al-Nasafi", "Abu Hafs al-Nasafi", "Najm al-Din al-Nasafi", "al-Nasafi"]
+  },
+  "roles": ["theologian", "jurist"],
+  "summary": "Najm al-Din Abu Hafs Umar al-Nasafi (d. 537/1142) was a Hanafi jurist and Maturidi theologian of Central Asia. He is best known for al-Aqa'id al-Nasafiyya, a short creed that became one of the most widely taught summaries of Maturidi Sunni theology.",
+  "description": "Al-Nasafi was a prolific scholar of Transoxania working within the Hanafi legal school and the Maturidi theological tradition that traces itself to Abu Mansur al-Maturidi and, through the Hanafi line, to Abu Hanifa. His fame rests above all on al-Aqa'id al-Nasafiyya (The Nasafi Creed), a concise statement of Sunni belief covering epistemology and the sources of knowledge, the divine attributes, prophecy, the createdness or eternity of the divine speech, the vision of God, human acts and divine power, and eschatology. Written to give a compact and teachable summary of correct belief in a period of sectarian contestation, the creed circulated very widely and became a standard madrasa text. It attracted an influential commentary by Sa'd al-Din al-Taftazani, the Sharh al-Aqa'id al-Nasafiyya, through which the creed and its Maturidi doctrine were transmitted across the later Sunni world. Al-Nasafi also composed works in Hanafi law, Qur'anic studies, and history, but it is the creed that fixed his place in the theological tradition.",
+  "editorial_notes": "The figure's given name is Umar (Abu Hafs Umar ibn Muhammad), with Najm al-Din as his honorific (laqab); both forms are recorded in names. Dates are given as 461/1068-537/1142 as commonly reported; the entry records only the death year in lifespan and notes the birth in prose. The creed is here attributed to this Najm al-Din Umar al-Nasafi following the standard identification; the entry does not adjudicate any minor disputes over attribution among the several scholars named al-Nasafi. Relation to abu-hanifa records the Hanafi-Maturidi lineage the tradition claims, not direct discipleship. Sourcing triangulates three lenses per neutrality principle #8: (a) a modern Western academic translation and study (Elder's rendering of al-Taftazani's commentary on the creed, Columbia University Press, 1950); (b) the tradition's own primary texts (al-Nasafi's al-Aqa'id al-Nasafiyya and al-Taftazani's classical Sharh); (c) the classical Maturidi commentary tradition itself as a Muslim-scholarly lens. A separately verified single-author contemporary Muslim monograph on al-Nasafi specifically was not located, so the contemporary Muslim lens leans on the living commentary and teaching tradition rather than one modern title; this is flagged here rather than invented. Encyclopedia and tertiary web sources were excluded per principle #9. Confidence is honest and medium.",
+  "lifespan": {
+    "death": 1142,
+    "note": "Commonly given as 461/1068-537/1142; born in Nasaf (Transoxania)."
+  },
+  "relations": [
+    { "type": "member_of", "target": "maturidiyya", "note": "A leading transmitter of Maturidi Sunni theology through his widely taught creed." },
+    { "type": "related_to", "target": "abu-hanifa", "note": "Worked within the Hanafi-Maturidi lineage that traces its theology through the Hanafi tradition to Abu Hanifa." }
+  ],
+  "sources": [
+    {
+      "citation": "Elder, Earl Edgar, trans. A Commentary on the Creed of Islam: Saʿd al-Dīn al-Taftāzānī on the Creed of Najm al-Dīn al-Nasafī. Translated with introduction and notes. New York: Columbia University Press, 1950.",
+      "url": "https://search.worldcat.org/title/1447600",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Nasafī, Najm al-Dīn Abū Ḥafṣ ʿUmar. Al-ʿAqāʾid al-Nasafiyya. Primary source: the author's concise Maturidi creed covering the sources of knowledge, the divine attributes, prophecy, divine speech, the vision of God, human acts, and eschatology.",
+      "license": "Classical text; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Taftāzānī, Saʿd al-Dīn. Sharḥ al-ʿAqāʾid al-Nasafiyya. Classical Muslim commentary on al-Nasafi's creed, the principal channel through which the text and its Maturidi doctrine were taught in the later Sunni tradition.",
+      "license": "Classical text; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

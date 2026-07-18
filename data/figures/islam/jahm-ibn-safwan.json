@@ -1,0 +1,49 @@
+{
+  "id": "jahm-ibn-safwan",
+  "tradition": "islam",
+  "names": {
+    "primary": "Jahm ibn Safwan",
+    "original": "جهم بن صفوان",
+    "transliteration": "Jahm ibn Ṣafwān al-Samarqandī al-Tirmidhī",
+    "aliases": ["Abū Muḥriz", "Jahm al-Tirmidhī"]
+  },
+  "roles": ["theologian"],
+  "summary": "Jahm ibn Safwan (d. c. 745-746 CE) was a theologian of the late Umayyad east whose name became attached to the Jahmiyya, a current that later heresiographers associate with an extreme insistence on divine transcendence (tanzih), the denial of God's eternal attributes, and the doctrine that the Qur'an is created. No writings by him survive; he is known almost entirely through hostile heresiographical and traditionist reports.",
+  "description": "Jahm ibn Safwan was active in Khurasan and Transoxiana in the final years of the Umayyad period and was reportedly connected to the anti-Umayyad revolt of al-Harith ibn Surayj, in the course of which he was executed around 128 AH. The doctrines attributed to him by later sources include a radical negative theology that stripped from God any attribute shared in name with creatures (in order to safeguard God's absolute incomparability), the denial of the eternal divine attributes as distinct from the essence, the affirmation that the Qur'an is created (khalq al-Qur'an) rather than eternal divine speech, a strong determinism (jabr) regarding human acts, and a definition of faith (iman) as inward knowledge alone. The label 'Jahmiyya' was subsequently applied, often polemically, to a range of opponents by traditionist writers, so that it functioned in part as a term of theological abuse rather than the name of a single organized school. Some of the positions credited to him, especially on the created Qur'an and on divine transcendence, are treated in the sources as anticipating or feeding into later Mu'tazili theology, though the exact lines of influence are difficult to establish. His significance is thus largely as an eponym and a foil in the formation of early Islamic theological debate.",
+  "editorial_notes": "SOURCE-CRITICAL WARNING: this is the central problem of the entry. Nothing written by Jahm survives. Everything reported about his views comes through hostile witnesses, later heresiographers (such as al-Ashʿari's Maqalat) and, above all, traditionist refutations written by opponents (such as al-Darimi's al-Radd ʿala al-Jahmiyya) whose purpose was to condemn the Jahmiyya, not to describe them neutrally. The doctrines summarized in the description are therefore what opponents attribute to him, and the reader should treat them as such rather than as his verified teaching; the 'Jahmiyya' label was also weaponized against unrelated opponents, further blurring the historical figure. Confidence in the reconstruction of Jahm's own views is accordingly low. Per neutrality principles #1 and #4, the entry describes the attributed doctrines and their contested character without endorsing either the doctrines or their condemnation. Per neutrality principle #8, three lenses are triangulated: a Western academic study (Schöck's specialist chapter in the Oxford Handbook of Islamic Theology, which addresses precisely this source-critical difficulty), the classical heresiographical/traditionist corpus that constitutes our only access to the Jahmiyya (al-Darimi's refutation, and the doxography of al-Ashʿari), standing in for both the tradition's own texts and, necessarily, the 'opponent' record. A neutral contemporary Muslim scholarly monograph devoted to Jahm specifically was not verified for this draft; this gap is noted honestly rather than papered over. Dates given as d. c. 128/745-746 CE.",
+  "lifespan": {
+    "death": 745,
+    "note": "d. c. 128 AH / 745-746 CE; birth date unknown."
+  },
+  "relations": [
+    { "type": "related_to", "target": "jahmiyya", "note": "Eponym of the Jahmiyya; the current is named after him, though the label was later applied polemically to a range of opponents." },
+    { "type": "articulated", "target": "khalq-al-quran", "note": "Later sources attribute to him the doctrine that the Qur'an is created rather than eternal divine speech; the attribution comes through hostile witnesses." },
+    { "type": "articulated", "target": "tanzih", "note": "Heresiographers associate him with an extreme insistence on divine transcendence and the denial of attributes shared in name with creatures." },
+    { "type": "influenced", "target": "mutazila", "note": "Some positions credited to him, especially on the created Qur'an and divine transcendence, are treated in the sources as feeding into later Mu'tazili theology; the lines of influence are hard to establish." }
+  ],
+  "sources": [
+    {
+      "citation": "Schöck, Cornelia. \"Jahm b. Ṣafwan (d. 128/745-46) and the 'Jahmiyya' and Ḍirar b. ʿAmr (d. 200/815),\" in Sabine Schmidtke (ed.), The Oxford Handbook of Islamic Theology. Oxford University Press, 2016. (Scholarly chapter that addresses the source-critical problem of reconstructing Jahm's views; specific claims here not page-verified.)",
+      "url": "https://academic.oup.com/edited-volume/34345/chapter/291394597",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Darimi, ʿUthman ibn Saʿid (d. 280/894). Al-Radd ʿala al-Jahmiyya. Primary source; a hostile traditionist refutation of the Jahmiyya, one of the earliest works by which their attributed doctrines are transmitted. To be used with awareness that it is polemical, not descriptive.",
+      "license": "Public domain / classical text; cited for reference (not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    },
+    {
+      "citation": "al-Ashʿari, Abu al-Hasan. Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin. Primary heresiographical source; classical doxography reporting the doctrines ascribed to the Jahmiyya among the early sects.",
+      "license": "Public domain / classical text; cited for reference (not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

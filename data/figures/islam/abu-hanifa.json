@@ -17,7 +17,7 @@
   },
   "relations": [
     { "type": "related_to", "target": "maturidiyya", "note": "Regarded in later Sunni tradition as the fountainhead of the theological orientation that al-Maturidi systematized." },
-    { "type": "related_to", "target": "hanafi", "note": "Eponym of the Hanafi school of Sunni law." },
+    { "type": "related_to", "target": "hanafiyya", "note": "Eponym of the Hanafi school of Sunni law." },
     { "type": "related_to", "target": "iman", "note": "Associated with a definition of faith as affirmation that does not increase or decrease with works." },
     { "type": "related_to", "target": "murjia", "note": "His view of faith and the grave sinner is grouped by later tradition with the broad Murji'a tendency; this is a later classification." }
   ],

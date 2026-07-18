@@ -1,0 +1,55 @@
+{
+  "id": "mujiza",
+  "tradition": "islam",
+  "names": {
+    "primary": "Mujiza",
+    "original": "معجزة",
+    "transliteration": "muʿjiza",
+    "aliases": ["Evidentiary Miracle", "Prophetic Miracle", "Mu'jizah", "Miracle"]
+  },
+  "category": "prophetology",
+  "summary": "A muʿjiza is the evidentiary miracle by which, in Islamic theology, a prophet's claim to be sent by God is authenticated: an act exceeding human capacity that accompanies and confirms the claim. The Qur'an is held by Muslim theologians to be the paramount muʿjiza, on account of its inimitability (iʿjaz).",
+  "description": "The muʿjiza (literally \"that which incapacitates,\" from the same root as iʿjaz) is, in kalam, the evidentiary miracle that authenticates a prophet's claim: an extraordinary act, exceeding human power and issuing in confirmation of a claim to prophethood, which functions as a divine sign vouching for the claimant. Classical theologians made the miracle the decisive criterion by which a genuine prophet is recognized, and developed a logic of how it proves prophethood: the miracle accompanies the claim, cannot be met by challengers, and stands as God's endorsement of the one who works it. The theological schools differed in their accounts. Muʿtazili theologians, emphasizing divine justice and human reason, argued that the miracle constitutes the proper proof for the sending of messengers, God would not confirm a false claimant, so the inimitable sign establishes the claim rationally; the position is associated with figures such as ʿAbd al-Jabbar. Ashʿari theologians grounded the force of the miracle in God's will and framed it as the decisive sign that distinguishes the prophet, while guarding against equating it with the ordinary workings of causation. For the prophethood of Muhammad, Muslim theologians identified the Qur'an itself as the supreme muʿjiza: its iʿjaz, the doctrine of its inimitability, holds that the Qur'an is a linguistic and rhetorical challenge that its opponents were unable to meet, and this inability is taken as the standing evidentiary miracle of his prophethood. The muʿjiza is thus an aspect of the broader doctrine of nubuwwa, prophethood, supplying its criterion of authentication.",
+  "editorial_notes": "This entry is scoped to the muʿjiza as the evidentiary miracle and criterion of prophethood in kalam, and to the Qur'an's iʿjaz as its paramount instance; it is linked as related_to nubuwwa, which it serves. The Muʿtazili and Ashʿari accounts of how the miracle proves prophethood are presented as attributed school positions, per neutrality principles #1 and #2, not adjudicated. Sourcing triangulates three lenses (principle #8): the Western academic lens is two peer-reviewed articles, Sarah Stroumsa on the emergence of the evidentiary-miracle theme (carrying the Muʿtazili rationale via ʿAbd al-Jabbar) and Margaret Larkin on the inimitability (iʿjaz) of the Qur'an; the tradition's own classical primary text is al-Juwayni's al-Irshad (Ashʿari treatment of the muʿjiza); and a modern Muslim scholar is Fazlur Rahman's Prophecy in Islam. Confidence is honest: the two journal articles are carried at medium confidence as their relevant passages were not read line-by-line, and the primary text and Rahman likewise at medium. The detailed intra-Ashʿari debate over the relation of the miracle to habitual causation (ʿada) and the challenge (taʿjiz) is deferred to future entries.",
+  "relations": [
+    { "type": "related_to", "target": "nubuwwa", "note": "The evidentiary miracle is the criterion by which prophethood (nubuwwa) is authenticated." },
+    { "type": "related_to", "target": "khatam-al-nabiyyin", "note": "The Qur'an is held to be the standing muʿjiza of the last prophet." },
+    { "type": "related_to", "target": "khalq-al-quran", "note": "The Qur'an's inimitability (iʿjaz) intersects with theological questions about its status." },
+    { "type": "related_to", "target": "adl", "note": "The Muʿtazili account grounds the miracle's evidential force in divine justice, that God would not confirm a false claimant." }
+  ],
+  "historical_period": {
+    "start": 750,
+    "end": 1100,
+    "note": "The evidentiary-miracle theme and the doctrine of the Qur'an's inimitability (iʿjaz) emerged and were systematized in early Arabic kalam from roughly the 8th to 11th centuries CE."
+  },
+  "sources": [
+    {
+      "citation": "Stroumsa, Sarah. 'The Signs of Prophecy: The Emergence and Early Development of a Theme in Arabic Theological Literature.' Harvard Theological Review 78, no. 1-2 (1985): 101-114. Peer-reviewed study of how the evidentiary miracle (muʿjiza / dalaʾil al-nubuwwa) developed as the criterion for authenticating a prophet's claim in early Arabic kalam, including the Muʿtazili rationale (e.g. ʿAbd al-Jabbar's position that only miracles constitute a proper proof for the sending of messengers).",
+      "url": "https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/signs-of-prophecy-the-emergence-and-early-development-of-a-theme-in-arabic-theological-literature/AC0643C04CE9957D476F2DF750BDF2E8",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Larkin, Margaret. 'The Inimitability of the Qur'an: Two Perspectives.' Religion and Literature 20, no. 1 (Spring 1988): 31-47. Peer-reviewed study of the doctrine of the Qur'an's inimitability (iʿjaz), including ʿAbd al-Jabbar's account of the Qur'an as stylistically inimitable, that its opponents were unable to produce its like, which underwrites its status as the paramount evidentiary miracle of Muhammad's prophethood.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Juwayni, Imam al-Haramayn. Kitab al-Irshad ila Qawatiʿ al-Adilla fi Usul al-Iʿtiqad [A Guide to Conclusive Proofs for the Principles of Belief], trans. Paul E. Walker. Reading: Garnet Publishing, 2000 (Great Books of Islamic Civilisation). Ashʿari kalam treatise (11th c. CE) treating prophethood (nubuwwa) and the evidentiary miracle (muʿjiza) as the sign authenticating a prophet's claim. Cited at medium confidence as its relevant passages were not read line-by-line here.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Prophecy in Islam: Philosophy and Orthodoxy. London: George Allen and Unwin, 1958; repr. Chicago: University of Chicago Press, 1979. A monograph on the doctrine of prophethood (nubuwwa) by a leading modern Muslim scholar, treating the confirmation of a prophet's claim. Added as the modern Muslim scholarly lens; cited at medium confidence as its relevant passages on the miracle were not read line-by-line here.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo11469879.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

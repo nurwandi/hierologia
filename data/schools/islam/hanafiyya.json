@@ -1,0 +1,63 @@
+{
+  "id": "hanafiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Hanafiyya",
+    "original": "الحنفية",
+    "transliteration": "al-Ḥanafiyya",
+    "aliases": ["Hanafism", "Hanafi school", "Hanafis", "Ahnaf", "Aḥnāf", "Madhhab Abi Hanifa", "Hanafi madhhab"]
+  },
+  "summary": "The Hanafiyya are the school (madhhab) of Sunni law named for Abu Hanifa (d. 150/767), the largest and one of the four surviving Sunni schools of jurisprudence, historically associated with the jurists of Iraq and a comparatively expansive role for reasoned legal opinion (ra'y) and analogy (qiyas); although primarily a juristic school, it also became the principal institutional vehicle carrying Maturidi theology across Central Asia, the Ottoman lands and South Asia.",
+  "description": "The Hanafiyya take their name from Abu Hanifa al-Nu'man ibn Thabit (c. 80-150 AH / c. 699-767 CE), a Kufan jurist remembered as the eponym of the school and associated with the Iraqi tradition of considered legal opinion (ra'y). As with the other early schools, modern scholarship (Melchert, Hallaq) stresses that the madhhab bearing his name was not a functioning institution in his lifetime: the classical schools crystallized only in the early tenth century, the Hanafi school through a line of teachers culminating with al-Karkhi (d. 340/952), and much of the school's foundational fiqh was transmitted and systematized by Abu Hanifa's students, above all Abu Yusuf (d. 182/798) and al-Shaybani (d. 189/805). In jurisprudence (fiqh) the school is broadly characterized, relative to the more strictly traditionist tendencies, by a larger scope for juristic reasoning: analogy (qiyas), juristic preference (istihsan) and consideration of custom, though this is a matter of degree and later Hanafism developed an elaborate hadith-based apparatus of its own. The school spread widely under Abbasid and later Turkic and Ottoman patronage and remains the most numerous of the Sunni schools, prevalent in Turkey, the Balkans, the Levant, Central Asia, Afghanistan, Pakistan, India and Bangladesh. In theology the school became, from around the tenth century, the principal home of the doctrine associated with Abu Mansur al-Maturidi (d. 333/944) of Samarqand, so that Maturidism spread as the characteristic creed of Hanafis in Central Asia, the Ottoman domains and South Asia; the pairing is close enough that 'Hanafi' and 'Maturidi' are often named together, though the school of law and the school of theology are distinct (see editorial notes). A body of early creedal texts is associated with the school and with Abu Hanifa himself, notably al-Fiqh al-Akbar, whose attribution to Abu Hanifa is contested in the scholarship.",
+  "editorial_notes": "Jurisprudence-vs-theology distinction (kept explicit, as in the hanbaliyya entry): the Hanafiyya is primarily a school of law (madhhab / fiqh), whereas Maturidism is a theological orientation (kalam); this entry keeps them separate. Historically Maturidi theology spread as the characteristic creed of Hanafis, and the Hanafi madhhab was its main institutional vehicle, but the two are not coextensive: the theology has its own founder (al-Maturidi) and its own history, treated in the companion 'maturidiyya' entry, and not every Hanafi jurist was a Maturidi (some, especially in the pre-Maturidi and later periods, inclined elsewhere). This entry therefore treats Hanafism chiefly as the juristic school and historical carrier, and points to the maturidiyya entry for the theological content. Abu Hanifa's own role is qualified in line with the treatment of Ahmad ibn Hanbal in the hanbaliyya entry: scholarship (Melchert, Hallaq) holds that the systematized madhhab is substantially the work of his students and later followers, so 'founded_by' should be read as eponymous attribution and is glossed accordingly. The common shorthand that Abu Hanifa was himself a 'Maturidi' is anachronistic (al-Maturidi lived roughly two centuries later); what the sources support is that al-Maturidi's system was received as the articulation of the Hanafi theological tradition, and that creeds such as al-Fiqh al-Akbar were read in that light. The attribution of al-Fiqh al-Akbar to Abu Hanifa is disputed: Western scholarship since Wensinck has doubted it, while much of the Muslim tradition affirms it, and recent work (Harvey) revisits the question; the source is cited at medium confidence with this caveat. Several relation targets (abu-yusuf, al-shaybani, al-fiqh-al-akbar, qiyas, istihsan) are not yet separate entries in this dataset. The founding date is approximate (see period note). Confidence: high on the school's legal identity, its eponym, its geographic spread and its association with Maturidi theology (three-lens convergence: Melchert/Hallaq, al-Shahrastani, Harvey); medium on the finer points of Abu Hanifa's own doctrine and on the authorship of the creedal texts.",
+  "period": {
+    "founded": 767,
+    "note": "Approximate. Abu Hanifa lived c. 80-150/699-767; the school is dated here loosely to his lifetime, though as an organized madhhab it was consolidated by his students (Abu Yusuf, al-Shaybani) and a line of Iraqi teachers ending with al-Karkhi (d. 340/952). The school remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "abu-hanifa", "note": "Eponym; a Kufan jurist of the ra'y tradition. The organized madhhab was consolidated by his students (Abu Yusuf, al-Shaybani) and later Iraqi teachers such as al-Karkhi (see editorial notes)." },
+    { "type": "key_figure", "target": "abu-hanifa", "note": "Abu Hanifa al-Nu'man ibn Thabit (d. 150/767), the school's eponymous authority." },
+    { "type": "related_to", "target": "maturidiyya", "note": "From around the 10th c. the Hanafi madhhab was the principal vehicle carrying Maturidi theology across Central Asia, the Ottoman lands and South Asia, though the law school and the theology are distinct (see editorial notes)." },
+    { "type": "opposed", "target": "mutazila", "note": "The mature Hanafi-Maturidi tradition defined its theology against Mu'tazili rationalism on questions such as the attributes and the createdness of the Qur'an; in law, early Kufan Hanafism is distinguished from, rather than opposed to, the traditionist Ahl al-Hadith. Relation noted at the theological level and read via the maturidiyya entry." }
+  ],
+  "sources": [
+    {
+      "citation": "Melchert, Christopher. The Formation of the Sunni Schools of Law, 9th-10th Centuries C.E. (Studies in Islamic Law and Society 4). Brill, 1997 (on the late crystallization of the Hanafi school through al-Karkhi and the Iraqi teachers).",
+      "url": "https://brill.com/display/title/828",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hallaq, Wael B. The Origins and Evolution of Islamic Law (Themes in Islamic Law 1). Cambridge University Press, 2005 (on the early ra'y and hadith currents and the formation of the Sunni madhhabs).",
+      "url": "https://www.cambridge.org/core/books/origins-and-evolution-of-islamic-law/2E95FE694D857A258433161055841F54",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Harvey, Ramon. Transcendent God, Rational World: A Maturidi Theology (Edinburgh Studies in Islamic Scripture and Theology). Edinburgh University Press, 2021 (on al-Maturidi's system and its reception as the theology of the Hanafi tradition; and on the al-Fiqh al-Akbar attribution question).",
+      "url": "https://academic.oup.com/edinburgh-scholarship-online/book/42898",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Shahrastani, Muhammad ibn 'Abd al-Karim. Kitab al-Milal wa-l-Nihal (The Book of Sects and Creeds), 6th/12th c. A classical heresiography that situates the Hanafis (Ashab Abi Hanifa) among the Sunni parties and their approach to ra'y. Cited as the tradition's own classical mapping.",
+      "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp58437",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abu Hanifa (attrib.). al-Fiqh al-Akbar (The Greatest Understanding), creed traditionally ascribed to the school's eponym and long read as a foundational statement of Hanafi-Maturidi theology (the attributes, the uncreated Qur'an, faith and works). Attribution to Abu Hanifa is contested: doubted in Western scholarship since Wensinck (1932) and revisited in recent work; affirmed across much of the Muslim tradition. Cited with that caveat; not read line-by-line in this pass.",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

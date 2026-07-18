@@ -1,0 +1,77 @@
+{
+  "id": "usul-al-din",
+  "tradition": "islam",
+  "names": {
+    "primary": "Usul al-Din",
+    "original": "أصول الدين",
+    "transliteration": "uṣūl al-dīn",
+    "aliases": [
+      "Principles of religion",
+      "Roots of religion",
+      "Fundamentals of faith",
+      "Foundational tenets of belief"
+    ]
+  },
+  "category": "theology-proper",
+  "summary": "Usul al-Din, the roots or principles of religion, denotes the foundational creedal doctrines of Islam, the tenets of belief investigated by kalam. It is distinguished from usul al-fiqh, the methodological principles of jurisprudence.",
+  "description": "Usul al-Din, literally the roots or principles of religion, denotes the foundational creedal doctrines of Islam, the articles of belief that are the object of theology (kalam). It is a parallel roots discipline to usul al-fiqh but distinct in object: usul al-din concerns what a Muslim is held to believe, whereas usul al-fiqh concerns the methodology by which legal rulings are derived. The specific content and enumeration of these principles varied by theological school. The Mu'tazila systematized five principles (al-usul al-khamsa): divine unity (tawhid), divine justice (adl), the promise and the threat, the intermediate position, and commanding right and forbidding wrong. Sunni Ash'ari and Maturidi creeds and treatises framed the foundations differently, foregrounding topics such as the divine unity, the divine attributes, prophethood (nubuwwa), and eschatology, the resurrection and final judgment. The term thus names a shared category of foundational doctrine whose precise articulation is school-specific, and this entry describes that variation rather than adjudicating a single correct set of principles.",
+  "editorial_notes": "This entry fixes the sense of usul al-din as the foundational tenets of belief and marks its contrast with usul al-fiqh (a jurisprudential discipline out of scope here), a distinction outsiders frequently miss. Per neutrality principle #2 the entry names that the content of the principles is school-relative (the Mu'tazili five usul versus the Sunni Ash'ari/Maturidi framing) rather than presenting one enumeration as definitive. Sources triangulate three lenses per principle #8: (a) a modern Western academic edited volume, the Cambridge Companion to Classical Islamic Theology, whose chapters cover the early creed, the developed kalam tradition, the divine attributes, revelation, and eschatology; (b) a classical Muslim primary text that is itself a usul al-din work, Abd al-Jabbar's Sharh al-Usul al-Khamsa, the Basran Mu'tazili exposition of the five principles (edition verified via the Vishanoff translation page; a WorldCat record could not be fetched but the edition line was corroborated); (c) a contemporary Muslim scholar, Seyyed Hossein Nasr's Ideals and Realities of Islam, a systematic introduction to the foundations of the faith. All three were web-verified to exist and be on-topic. Confidence is medium as relevant passages were not read line-by-line.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "Divine unity is a foundational principle in every school's enumeration of usul al-din."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Prophethood is a standard foundational tenet in the Sunni framing of the principles of religion."
+    },
+    {
+      "type": "related_to",
+      "target": "akhira",
+      "note": "Eschatology (the afterlife, resurrection, and judgment) is among the foundational tenets treated under usul al-din."
+    },
+    {
+      "type": "related_to",
+      "target": "al-usul-al-khamsa",
+      "note": "The Mu'tazili five principles are one school-specific enumeration of usul al-din."
+    },
+    {
+      "type": "elaborates",
+      "target": "kalam",
+      "note": "Usul al-din is the body of foundational doctrine that the discipline of kalam expounds and defends."
+    }
+  ],
+  "historical_period": {
+    "start": 750,
+    "note": "The category of foundational doctrine crystallized as the theological schools took shape from the 8th century CE onward; the phrase usul al-din titles a genre of creedal and theological works across the classical period."
+  },
+  "sources": [
+    {
+      "citation": "Winter, Tim (ed.). The Cambridge Companion to Classical Islamic Theology. Cambridge: Cambridge University Press, 2008. A scholarly edited volume whose chapters (the early creed, the developed kalam tradition, God's essence and attributes, revelation, eschatology) survey the structure of Islamic creed and theology; cited as the Western academic lens. Relevant chapters not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/37EC62C7C84B2A8A62C2F6B9AAEDF22D",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abd al-Jabbar ibn Ahmad. Sharh al-Usul al-Khamsa (Explanation of the Five Principles), with the commentary of al-Mankdim. Ed. Abd al-Karim Uthman. Cairo: Maktabat Wahba, 1965. The classic Basran Mu'tazili exposition of the five usul (tawhid, adl, al-wa'd wa-l-wa'id, al-manzila bayna al-manzilatayn, al-amr bi-l-ma'ruf), i.e. a primary usul al-din work. Edition line corroborated but relevant passages not read line-by-line.",
+      "url": "https://old.vishanoff.com/Translations/SU5.htm",
+      "license": "Public-domain classical text; modern edition proprietary. Cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. Ideals and Realities of Islam. Revised ed. Cambridge: The Islamic Texts Society, 2001 (1st ed. 1966). A systematic introduction to the foundations of Islam by a contemporary Muslim scholar; cited as the modern Muslim scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://fonsvitae.com/product/ideals-and-realities-of-islam-seyyed-hossein-nasr/",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

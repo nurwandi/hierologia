@@ -1,0 +1,57 @@
+{
+  "id": "ibn-qudama",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibn Qudama al-Maqdisi",
+    "original": "موفق الدين ابن قدامة المقدسي",
+    "transliteration": "Muwaffaq al-Dīn ʿAbd Allāh ibn Aḥmad ibn Qudāma al-Maqdisī",
+    "aliases": ["Muwaffaq al-Dīn", "Abū Muḥammad Ibn Qudāma", "Ibn Qudāma al-Ḥanbalī"]
+  },
+  "roles": ["jurist", "traditionist", "theologian"],
+  "summary": "Muwaffaq al-Din Ibn Qudama al-Maqdisi (1147-1223 CE) was a Hanbali jurist and traditionist active in Damascus, author of the multi-volume legal work al-Mughni and of the short traditionist creed Lum'at al-I'tiqad. He is a major representative of the Athari (traditionist) theological current, which affirms the transmitted texts concerning God's attributes without engaging in speculative interpretation.",
+  "description": "Ibn Qudama was born near Jerusalem into a family of the Banu Qudama and, following the political turmoil of the period, settled with his family in Damascus, where he trained in Hanbali law and hadith and spent a period of study in Baghdad. His legal masterwork, al-Mughni, is a large comparative commentary that expounds the Hanbali positions while surveying and weighing the views of the other Sunni schools, and it is widely regarded within the tradition as one of the most comprehensive works of Islamic jurisprudence. In theology he is aligned with the Athari or traditionist tendency associated with the Hanbali school. His creedal epistle Lum'at al-I'tiqad sets out the affirmation of the divine names and attributes as they are transmitted in the Qur'an and the reports, coupled with a refusal to inquire into their modality (the position often summarized as bila kayf, 'without asking how'). The precise character of his stance on the divine attributes has itself been a subject of discussion within the tradition and in modern scholarship, in particular whether it is best read as tafwid (delegating knowledge of the meanings, or of the modality, to God) or as affirmation of the apparent meanings; this entry reports the disagreement rather than settling it. He also wrote works defending the traditionist method against the dialectical theology (kalam) of the mutakallimun.",
+  "editorial_notes": "Dates 541/1147 - 620/1223 are standard in the sources. The Athari self-understanding, that it preserves the scriptural affirmations about God without alteration or speculative reinterpretation (bila kayf, textualist), is presented on its own terms as an attributed position per neutrality principles #4 and #7, not endorsed by the editor. The internal debate over whether Ibn Qudama's method amounts to tafwid or to affirmation of apparent meaning is flagged as unresolved (principle #2). Per neutrality principle #8, three lenses are triangulated: Ibn Qudama's own works (Lum'at al-I'tiqad and al-Mughni) as primary texts, and two Western academic treatments of Hanbali/Athari theology and anthropomorphism (Hoover's Oxford Handbook chapter and Holtzman's monograph) that treat the traditionist affirmation of the attributes. A dedicated contemporary Muslim scholarly monograph on Ibn Qudama specifically was not verified for this draft; the traditionist primary corpus stands as the tradition's own voice here. None of the modern works was read page-by-page, so their confidence is medium/low.",
+  "lifespan": {
+    "birth": 1147,
+    "death": 1223,
+    "note": "541 AH - 620 AH; commonly given as 1147-1223 CE."
+  },
+  "relations": [
+    { "type": "member_of", "target": "hanbaliyya", "note": "A leading Hanbali jurist of his generation; author of the school's major legal compendium al-Mughni." },
+    { "type": "related_to", "target": "athariyya", "note": "A major representative of the Athari (traditionist) theological current; his Lum'at al-I'tiqad is a widely studied traditionist creed." },
+    { "type": "articulated", "target": "tanzih", "note": "His creed affirms the divine attributes as transmitted while declining to inquire into their modality (bila kayf), a stance bearing on debates over divine transcendence and anthropomorphic-seeming language." },
+    { "type": "influenced_by", "target": "ahmad-ibn-hanbal", "note": "As a Hanbali, he stands in the school and theological tradition tracing back to Ahmad ibn Hanbal." },
+    { "type": "refuted", "target": "khalq-al-quran", "note": "Consistent with the Hanbali traditionist position, he affirmed the uncreatedness of the Qur'an against the doctrine of its createdness." }
+  ],
+  "sources": [
+    {
+      "citation": "Ibn Qudama al-Maqdisi, Muwaffaq al-Din. Lumʿat al-Iʿtiqad al-Hadi ila Sabil al-Rashad. Primary source; the author's own short traditionist creed on the divine names and attributes.",
+      "license": "Public domain / classical text; cited for reference (not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Qudama al-Maqdisi, Muwaffaq al-Din. Al-Mughni. Primary source; the author's own multi-volume comparative work of Hanbali jurisprudence.",
+      "license": "Public domain / classical text; cited for reference (not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hoover, Jon. \"Hanbali Theology,\" in Sabine Schmidtke (ed.), The Oxford Handbook of Islamic Theology. Oxford University Press, 2016. (Scholarly survey chapter on the history and doctrine of Hanbali/traditionist theology; specific claims here not page-verified.)",
+      "url": "https://global.oup.com/academic/product/the-oxford-handbook-of-islamic-theology-9780199696703",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Holtzman, Livnat. Anthropomorphism in Islam: The Challenge of Traditionalism (700-1350). Edinburgh University Press, 2018. (Academic monograph on the traditionist treatment of the divine attributes and reports; specific claims here not page-verified.)",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

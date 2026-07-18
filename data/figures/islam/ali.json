@@ -1,0 +1,49 @@
+{
+  "id": "ali",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ali ibn Abi Talib",
+    "original": "علي بن أبي طالب",
+    "transliteration": "ʿAlī ibn Abī Ṭālib",
+    "aliases": ["Amīr al-Muʾminīn", "Abū al-Ḥasan", "Abū Turāb", "Imam Ali", "ʿAlī al-Murtaḍā"]
+  },
+  "roles": ["caliph", "imam", "companion"],
+  "summary": "Ali ibn Abi Talib (c. 600-661 CE) was a cousin and son-in-law of the Prophet Muhammad, counted in the Sunni tradition as the fourth of the Rightly Guided (Rashidun) caliphs and in the Shi'i tradition as the first Imam and the Prophet's divinely designated successor. His caliphate was consumed by the first civil war (fitna), during which the arbitration following the Battle of Siffin (657) prompted a faction of his own supporters to secede, becoming the Kharijites.",
+  "description": "Ali ibn Abi Talib was raised in the household of the Prophet Muhammad, became one of the earliest to accept his message, and married the Prophet's daughter Fatima, through whom the Prophet's later descendants are traced. After the assassination of the third caliph Uthman, he was acclaimed caliph in 656 and moved his capital to Kufa. His reign was dominated by internal conflict: first the Battle of the Camel against a coalition that included the Prophet's widow Aisha, then the confrontation at Siffin (657) against Muawiya, the governor of Syria, who demanded that Uthman's killers be produced before recognizing Ali. When that battle moved toward arbitration (tahkim), a group of Ali's supporters rejected the decision to submit the dispute to human judgment, holding that judgment belongs to God alone (la hukma illa li-llah); they withdrew and are remembered as the Kharijites, whom Ali later fought at Nahrawan. He was killed in 661 by a Kharijite while at prayer in Kufa. The two major branches of Islam narrate his standing differently. In the Sunni account he is the last of the four Rashidun caliphs, esteemed for piety, learning, and closeness to the Prophet, and his caliphate is read as legitimate succession by consultation. In the Shi'i account he is the first Imam, whom the Prophet is held to have designated as his successor (an appointment Shi'i tradition connects to the event at Ghadir Khumm), and his authority is understood as divinely mandated rather than derived from communal election. A large body of sermons, letters, and sayings is attributed to him, most famously in the compilation Nahj al-Balagha, though the authenticity of that material is itself debated across the tradition.",
+  "editorial_notes": "This is a historically and confessionally sensitive figure, and the entry is written to describe rather than adjudicate (neutrality principles #1, #2, #7). The central dispute, whether Ali was the divinely designated successor of the Prophet (the Shi'i position) or one legitimately elected caliph among the Rashidun (the Sunni position), is presented as two attributed positions; the editor takes no view on which is correct, and phrasing such as 'the Prophet is held to have designated' marks the claim as a tradition's own rather than an editorial finding. Dates c. 600-661 CE are approximate for the birth (the year is not securely fixed in the sources) and standard for the death (40 AH). The relation to the Kharijites is causal and historical (the Siffin arbitration triggered their secession) and is stated without endorsing any party. Per neutrality principle #8, three source lenses are triangulated: Madelung's academic monograph (Western Islamic studies), Nahj al-Balagha as a primary text attributed to Ali (with its own authenticity debate flagged rather than resolved), and Mahmoud Ayoub's study, a contemporary Muslim scholar who explicitly sets out to represent both Sunni and Shi'i perspectives. None of the cited works was read page-by-page for this draft, so confidence is set at medium/low accordingly.",
+  "lifespan": {
+    "birth": 600,
+    "death": 661,
+    "note": "Death 40 AH / 661 CE; birth year (c. 600 CE) is approximate and not securely fixed in the sources."
+  },
+  "relations": [
+    { "type": "related_to", "target": "kharijites", "note": "The arbitration after the Battle of Siffin (657) prompted a faction of Ali's supporters to secede, becoming the Kharijites; he later fought them at Nahrawan and was killed by a Kharijite." },
+    { "type": "contemporary_of", "target": "al-hasan-al-basri", "note": "Al-Hasan al-Basri belonged to the generation immediately following; some later traditions link his religious formation to the milieu of Ali's caliphate." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. The Succession to Muhammad: A Study of the Early Caliphate. Cambridge University Press, 1997. (Academic monograph on the early caliphate and Ali's claim; specific claims here not page-verified.)",
+      "url": "https://www.cambridge.org/9780521561815",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nahj al-Balagha (The Peak of Eloquence), sermons, letters, and sayings attributed to Ali ibn Abi Talib, compiled by al-Sharif al-Radi (d. 1015). Primary source; the attribution of individual passages to Ali is itself debated in both Sunni and Shi'i scholarship.",
+      "license": "Public domain / classical text; cited for reference (not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oneworld, 2003. (Contemporary Muslim scholar; explicitly aims to present both Sunni and Shi'i perspectives on the Rashidun era, the Battle of the Camel, and Siffin. Specific claims here not page-verified.)",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

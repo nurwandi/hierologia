@@ -1,0 +1,61 @@
+{
+  "id": "isma",
+  "tradition": "islam",
+  "names": {
+    "primary": "Isma",
+    "original": "عصمة",
+    "transliteration": "ʿiṣma",
+    "aliases": [
+      "Infallibility",
+      "Divine protection from sin",
+      "Impeccability",
+      "Prophetic inerrancy"
+    ]
+  },
+  "category": "prophetology",
+  "summary": "Isma is the doctrine of divine protection from sin and error, applied across Islam to the prophets, who are held to be preserved (ma'sum) in transmitting revelation. In Shi'i theology it is extended to the Imams.",
+  "description": "Isma (ʿiṣma) is the theological doctrine of divine protection from sin and error. It is applied across Islam to the prophets, who are held to be preserved (ma'sum) in their reception and transmission of revelation and, in the majority view, safeguarded from grave sin. Among Sunni theologians the precise scope and degree of prophetic sinlessness was debated: for example whether protection extends to the period before as well as after the call to prophethood, whether it covers minor as well as major sins, and whether it excludes inadvertent as well as deliberate lapses. In Shi'i, and especially Twelver, theology the doctrine is extended to the Imams, who alongside the Prophet and Fatima are regarded as the Infallibles (ma'sumun); this extension is a position of Shi'i kalam and is recorded here as attributed, not adjudicated. Isma is thus best presented as a concept shared across the tradition in its application to prophets, internally contested as to its exact scope, and extended in scope by Shi'i theology.",
+  "editorial_notes": "This entry states isma as a doctrine held across Islam for prophets and, per neutrality principles #1 and #2, presents both the Sunni internal debate over the scope of prophetic sinlessness and the Shi'i extension to the Imams as attributed positions rather than adjudicating a correct view. Sources triangulate three lenses per principle #8: (a) a modern Western academic monograph, Maria Dakake's The Charismatic Community, on the spiritual authority (walaya) of the Shi'i Imams and community, the matrix in which imamate isma sits (verified via the SUNY Press page; note the book foregrounds walaya/charisma rather than the word infallibility, so it is cited as context on the divinely guided Imam); (b) a classical Muslim primary text, al-Sharif al-Murtada's Tanzih al-Anbiya, a foundational Imami kalam treatise arguing the isma of the prophets, verified as a real, classical, on-topic work though the exact modern edition line (Dar al-Adwa, 1989) could be corroborated but not fetched from a single authoritative catalog, so it is cited at medium confidence with that caveat; (c) a contemporary Muslim scholarly work, Tabataba'i's Shi'ite Islam (trans. and ed. Seyyed Hossein Nasr), which discusses prophetic and imamate isma directly (verified via SUNY Press). All lenses were web-verified; nothing was fabricated. Confidence is medium as relevant passages were not read line-by-line.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Isma is primarily predicated of the prophets, safeguarding their reception and transmission of revelation."
+    },
+    {
+      "type": "related_to",
+      "target": "imama",
+      "note": "In Shi'i theology isma is extended to the Imams; attributed position, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 750,
+    "note": "Elaborated as a systematic doctrine by the theological schools, notably Imami Shi'i kalam, from roughly the 8th to 11th centuries CE; rooted in earlier discussion of prophetic character."
+  },
+  "sources": [
+    {
+      "citation": "Dakake, Maria Massi. The Charismatic Community: Shi'ite Identity in Early Islam. Albany: State University of New York Press, 2007. An academic monograph on the walaya and spiritual authority of the Shi'i Imams and community, the theological setting of imamate isma; cited as the Western academic lens. Foregrounds walaya/charisma rather than isma as such; relevant passages not read line-by-line.",
+      "url": "https://sunypress.edu/Books/T/The-Charismatic-Community",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Sharif al-Murtada, Ali ibn al-Husayn al-Musawi (d. 436/1044). Tanzih al-Anbiya (The Exoneration of the Prophets). Beirut: Dar al-Adwa, 1989. A foundational Imami kalam treatise arguing the isma of the prophets by resolving Qur'anic passages that appear to impute error to them. Classical Muslim primary source; work verified, exact edition line corroborated but not confirmed against a single authoritative catalog.",
+      "license": "Public-domain classical text; modern edition proprietary. Cited for reference; edition line to be reconfirmed.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tabataba'i, Sayyid Muhammad Husayn. Shi'ite Islam. Trans. and ed. Seyyed Hossein Nasr. Albany: State University of New York Press, 1979. A contemporary Muslim scholarly work treating prophetic and imamate isma (incl. the inerrancy of prophecy and the difference between prophet and Imam); cited as the modern Muslim scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://sunypress.edu/Books/S/Shi-ite-Islam",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

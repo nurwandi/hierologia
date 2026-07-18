@@ -1,0 +1,48 @@
+{
+  "id": "qiyama",
+  "tradition": "islam",
+  "names": {
+    "primary": "Qiyama",
+    "original": "قيامة",
+    "transliteration": "al-qiyāma",
+    "aliases": ["Yawm al-Qiyama", "The Day of Resurrection", "The Day of Judgment", "The Last Day", "The Rising"]
+  },
+  "category": "eschatology",
+  "summary": "Yawm al-Qiyama, the Day of Resurrection, is the Islamic doctrine of the final day on which the dead are raised and all human beings are brought before God for the reckoning. Belief in the last day is a core article of Islamic faith.",
+  "description": "Al-qiyama (\"the rising\" or \"resurrection\"), most often invoked as Yawm al-Qiyama, the Day of Resurrection, names the culminating day of the eschatological drama, on which the dead are restored to life and gathered for judgment. It is enumerated among the foundational articles of Islamic belief and is a dominant theme of the Qur'an, which describes it under many names, including the Hour (al-saʿa), the Day of Reckoning, and the Last Day. The classical picture, drawn from the Qur'an and hadith and systematized by the theological schools, unfolds in stages: the blowing of the trumpet and the end of the world, the raising and gathering of all creatures, the presentation of each person's record of deeds, the weighing of those deeds in the balance (mizan), and the consignment to paradise (janna) or hell (jahannam). Kalam took up contested questions surrounding these events, including whether the eschatological descriptions are to be read literally or figuratively and how the reckoning is to be reconciled with divine justice and predestination. Al-qiyama is inseparable from maʿad, the return and resurrection, and from the wider doctrine of al-akhira, the hereafter; the day is the occasion on which the return to God is accomplished. The schools differed in emphasis and detail while sharing the affirmation of a real day of resurrection and reckoning.",
+  "editorial_notes": "This entry treats qiyama as the Day of Resurrection and Judgment, distinguished from but tightly linked to maʿad (the return and resurrection as a doctrine) and nested within al-akhira (eschatology as a whole); all three are cross-linked. The stages of the day (trumpet, gathering, the record, the balance) are described as the classical narrative attributed to the Qur'an, hadith, and the schools, not asserted as fact, and the literal-versus-figurative reading is named as a live dispute without adjudication, per neutrality principles #1 and #2. Three lenses are triangulated (principle #8): a Western academic monograph (Smith and Haddad, The Islamic Understanding of Death and Resurrection); the tradition's own classical primary text (al-Ghazali, Tahafut al-Falasifa, on the resurrection); and a modern Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an, eschatology chapter). Confidence is honest: Smith and Haddad carries high confidence for the eschatological narrative; the primary text and Rahman are cited at medium confidence as their relevant passages were not read line-by-line here. The signs of the Hour, the intercession (shafaʿa), and the bridge (sirat) are deferred to future entries.",
+  "relations": [
+    { "type": "part_of", "target": "akhira", "note": "The Day of Resurrection is the central event of al-akhira, the hereafter." },
+    { "type": "related_to", "target": "maad", "note": "Qiyama is the day on which the return and resurrection (maʿad) are accomplished." },
+    { "type": "related_to", "target": "adl", "note": "The reckoning and the weighing of deeds enact divine justice." },
+    { "type": "related_to", "target": "qadar", "note": "Reconciling the judgment of the day with predestination is a classical eschatological question." },
+    { "type": "contrasts_with", "target": "dunya", "note": "The day belongs to al-akhira, defined in contrast to al-dunya, the present world." }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "A dominant theme of Qur'anic revelation; the sequence of the day was systematized from the Qur'an and hadith by the theological schools from roughly the 8th century CE onward."
+  },
+  "sources": [
+    {
+      "citation": "Smith, Jane Idleman, and Yvonne Yazbeck Haddad. The Islamic Understanding of Death and Resurrection. Albany: State University of New York Press, 1981; repr. Oxford University Press, 2002. An academic monograph reconstructing the Islamic eschatological narrative from the Qur'an, hadith, creeds, and theological commentaries, including the events of the Day of Resurrection (yawm al-qiyama): the raising and gathering, the reckoning, the weighing of deeds, and the final abodes.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid. The Incoherence of the Philosophers (Tahafut al-Falasifa): A Parallel English-Arabic Text, trans. Michael E. Marmura, 2nd ed. Provo, UT: Brigham Young University Press, 2000. In its treatment of the afterlife, al-Ghazali affirms the resurrection of the dead against the philosophers. Cited as a classical primary text at medium confidence as its relevant passages were not read line-by-line here.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'an. Minneapolis and Chicago: Bibliotheca Islamica, 1980; 2nd ed. Chicago: University of Chicago Press, 1994 (repr. 2009). The chapter on eschatology by a leading modern Muslim scholar treats the Day of Resurrection and Judgment as a central and recurring theme of the Qur'an, tied to human accountability. Added as the modern Muslim scholarly lens; cited at medium confidence as its relevant passages were not read line-by-line here.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

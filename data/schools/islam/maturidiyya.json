@@ -17,7 +17,7 @@
   "relations": [
     { "type": "founded_by", "target": "al-maturidi", "note": "Abu Mansur al-Maturidi (d. 333/944), eponymous founder, working in Samarqand." },
     { "type": "related_to", "target": "ashariyya", "note": "Counted alongside the Ash'ariyya as one of the two principal Sunni theological schools; broadly convergent, differing on several points." },
-    { "type": "related_to", "target": "hanafi", "note": "Closely associated with the Hanafi legal tradition and its Central Asian scholars." },
+    { "type": "related_to", "target": "hanafiyya", "note": "Closely associated with the Hanafi legal tradition and its Central Asian scholars." },
     { "type": "holds", "target": "adl", "note": "Affirms divine justice and human freedom of choice (ikhtiyar), while grounding specific obligation in revelation." },
     { "type": "holds", "target": "kasb", "note": "Employs a doctrine of acquisition (iktisab) of the human act, framed with more emphasis on human choice than the Ash'ari formulation." },
     { "type": "holds", "target": "ruyat-allah", "note": "Affirms, with the Ash'ariyya and against the Mu'tazila, that God will be seen in the hereafter." },

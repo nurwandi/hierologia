@@ -1,0 +1,51 @@
+{
+  "id": "ahl-al-hadith",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ahl al-Hadith",
+    "original": "أهل الحديث",
+    "transliteration": "Ahl al-Ḥadīth",
+    "aliases": ["People of Hadith", "Traditionists", "Ahl al-Athar", "Ashab al-Hadith", "Aṣḥāb al-Ḥadīth", "the Hadith folk"]
+  },
+  "summary": "The Ahl al-Hadith ('the people of hadith') are the traditionist current of early Sunni Islam, the scholars of hadith who held that creed and law are to be grounded in the Qur'an and the transmitted reports (athar) of the Prophet and the early community rather than in independent rational speculation, and who accordingly opposed speculative theology (kalam) and, in law, the extensive use of considered opinion (ra'y).",
+  "description": "The Ahl al-Hadith (also Ashab al-Hadith, 'the partisans of hadith') designate the traditionist movement that took shape across the second and third Islamic centuries (eighth-ninth centuries CE) as one pole of a broad division within early Sunni scholarship, the other being the Ahl al-Ra'y ('the people of considered opinion'), associated above all with the jurists of Iraq. On their own account, the traditionists held that authoritative guidance in both law and doctrine descends through the chain of transmitted report from the Prophet and his Companions, so that a sound hadith settles a question and the phrase 'the Messenger of God said' carries decisive weight. In doctrine this produced a marked hostility to speculative theology (kalam): the traditionists treated reasoned disputation about God, especially the rationalist theology of the Mu'tazila, as a blameworthy innovation (bid'a), and they defended positions such as the uncreatedness of the Qur'an that became the flashpoint of the mihna, the caliphal inquisition (initiated 218/833) in which Ahmad ibn Hanbal (d. 241/855) was interrogated and punished for his refusal to affirm the Qur'an's createdness; his stance made him the emblematic figure of the movement. Modern scholarship (Melchert) has emphasized that the traditionists' polemic was directed not only against the Mu'tazila but against a wider range of rationalizing and semi-rationalizing tendencies, and that the classical law schools crystallized only in the early tenth century, later than the traditionist and ra'y currents from which they drew. The Ahl al-Hadith is the historical seedbed of Athari (traditionist) theology and is closely bound up with the early Hanbali school, which grew out of and remained near this milieu, though the term is broader than either the later Athari creed or the Hanbali madhhab (see editorial notes).",
+  "editorial_notes": "Overlap and distinction with the athariyya entry (the reason this is a separate record): 'Ahl al-Hadith' names the historical scholarly movement and social current of the traditionists, the hadith-oriented scholars of the 2nd-3rd/8th-9th centuries and their heirs; 'Athariyya' names the theological doctrine (the affirmation of the revealed attributes bila kayf, the rejection of ta'wil and of kalam) that this movement articulated and that later crystallized into a named creedal school. The two overlap heavily and the sources often use the labels interchangeably (the athariyya entry even lists 'Ahl al-Hadith' among its aliases), but they are not identical: the movement is prior to and wider than the systematized creed, and 'Ahl al-Hadith' also has a specifically legal sense (opposed to Ahl al-Ra'y) that is not theological at all. This entry treats the movement and its methodology; the athariyya entry treats the theological doctrine proper, and the hanbaliyya entry treats the law school most closely associated with it. Terminology is not standardized in the sources: 'Ahl al-Hadith', 'Ashab al-Hadith', 'traditionists', 'Athari' and, in the modern period, 'Salafi' overlap without being exact synonyms, and a modern South Asian revivalist movement also bears the name Ahl-i Hadith; that modern usage is out of scope here. Per neutrality principle 7, the traditionist self-understanding (that it preserves prophetic teaching through sound transmission rather than speculation) is reported as the movement's attributed account of itself, not endorsed. Melchert's point that the traditionist target was broader than the Mu'tazila alone is followed here. Several relation targets (ahl-al-ra'y, ahmad-ibn-hanbal, ta-wil, bid'a, mihna) are not yet separate entries in this dataset. The founding date is approximate (see period note). Confidence: high on the existence and broad character of the movement and its opposition to kalam (three-lens convergence: Melchert, al-Shahrastani, Brown); medium on finer datings and on the precise boundary with Atharism, which the scholarship treats as a matter of interpretation.",
+  "period": {
+    "founded": 833,
+    "note": "Approximate. The Ahl al-Hadith as a self-conscious traditionist current took shape across the 2nd-3rd Islamic centuries (8th-9th c. CE); the year given points to the mihna (from 218/833), during which the traditionists' resistance under Ahmad ibn Hanbal defined them as a party. The current persists (through Atharism and later revivalist movements), so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "key_figure", "target": "ahmad-ibn-hanbal", "note": "Ahmad ibn Hanbal (d. 241/855), the emblematic traditionist whose stance during the mihna made him the movement's rallying figure." },
+    { "type": "related_to", "target": "athariyya", "note": "The Ahl al-Hadith is the historical seedbed of Athari theology; the two overlap heavily but the movement is prior to and wider than the systematized creed (see editorial notes)." },
+    { "type": "related_to", "target": "hanbaliyya", "note": "The Hanbali madhhab grew out of, and remained close to, the traditionist Ahl al-Hadith milieu, though the movement is broader than the law school." },
+    { "type": "opposed", "target": "kalam", "note": "The traditionists treated speculative theology (kalam) as a blameworthy innovation, grounding doctrine in transmitted report instead of reasoned disputation." },
+    { "type": "opposed", "target": "mutazila", "note": "The movement defined itself against Mu'tazili rationalism, above all over the createdness of the Qur'an during the mihna; scholarship (Melchert) notes the traditionist target was in fact wider than the Mu'tazila alone." }
+  ],
+  "sources": [
+    {
+      "citation": "Melchert, Christopher. The Formation of the Sunni Schools of Law, 9th-10th Centuries C.E. (Studies in Islamic Law and Society 4). Brill, 1997; and Melchert, 'The Adversaries of Ahmad Ibn Hanbal.' Arabica 44, no. 2 (1997): 234-253.",
+      "url": "https://brill.com/display/title/828",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Shahrastani, Muhammad ibn 'Abd al-Karim. Kitab al-Milal wa-l-Nihal (The Book of Sects and Creeds), 6th/12th c. A classical heresiography that surveys the Islamic schools, treating the Ashab al-Hadith / Ahl al-Hadith among the traditionist parties and their stance toward kalam and ra'y. Cited as the tradition's own classical mapping of its internal currents.",
+      "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp58437",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World (Foundations of Islam). Oneworld, 2009, on the emergence of the Sunni tradition amid the rivalry of the Ahl al-Hadith and the Ahl al-Ra'y and the traditionist grounding of authority in transmitted report.",
+      "url": "https://archive.org/details/foundations-of-islam-jonathan-a.-c.-brown-hadith-muhammads-legacy-in-the-medieva",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

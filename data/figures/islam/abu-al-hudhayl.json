@@ -1,0 +1,53 @@
+{
+  "id": "abu-al-hudhayl",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abu al-Hudhayl al-Allaf",
+    "original": "أبو الهذيل العلاف",
+    "transliteration": "Abū al-Hudhayl Muḥammad ibn al-Hudhayl al-ʿAllāf",
+    "aliases": ["Abu'l-Hudhayl", "Abu al-Hudhayl al-Basri", "Muhammad ibn al-Hudhayl", "al-Allaf"]
+  },
+  "roles": ["theologian"],
+  "summary": "Abu al-Hudhayl al-Allaf (c. 750-849 CE) was an early Basran theologian generally regarded as the first systematic thinker of the Mu'tazila. He is credited with giving the school's five principles their early doctrinal framework and with developing an atomist account of created being that shaped later kalam.",
+  "description": "Abu al-Hudhayl was active in Basra and later Baghdad during the early Abbasid period and is treated in the sources as the figure who first cast Mu'tazili teaching into a coherent theological system. His own writings survive only in fragments and in the reports of later theologians and heresiographers, so his doctrine is reconstructed largely from testimony about him. He is associated with an atomist ontology in which bodies are composed of discrete atoms bearing entitative properties called accidents (a'rad), a framework that later kalam schools, including the Ash'ariyya and Maturidiyya, adapted and debated. In theology proper he is presented as a rigorous defender of divine unity (tawhid) and divine justice ('adl), the twin headings under which Mu'tazili thought organized itself, and as a formulator of the school's principle of the promise and the threat and of human accountability implied by God's justice. He engaged the doctrine of qadar, arguing for genuine human agency in a way that later became characteristic of the Mu'tazila, and his positions on the divine attributes, on God's speech, and on the created human act were extensively discussed and often criticized by subsequent generations. Through his students and critics his terminology and problems passed into the mainstream of the discipline.",
+  "editorial_notes": "Birth and death are given as approximate (c. 750-849 CE) following the common range in the scholarly literature; the sources report varying dates and the entry treats them as uncertain. Because Abu al-Hudhayl's own works are largely lost, the doctrinal claims here rest on modern reconstructions and on classical testimony rather than on his surviving text, and confidence is set accordingly. Relations to al-usul-al-khamsa, adl, tawhid, and qadar record thematic association with concepts he is reported to have shaped, not a claim that he authored a surviving treatise on each. Sourcing triangulates three lenses per neutrality principle #8: (a) a modern Western academic monograph (Frank); (b) a modern critical-historical reconstruction drawing on the classical Arabic testimony (van Ess, Theology and Society); (c) a chapter in a contemporary scholarly handbook on the Mu'tazilite scholastic phase (Schmidtke). A single-authored contemporary Muslim-scholar monograph devoted specifically to Abu al-Hudhayl was not separately web-verified, so the third lens is a scholarly handbook essay rather than such a monograph; this is flagged here rather than invented. Encyclopedia and tertiary web sources were excluded per principle #9. Confidence is honest and mostly medium given the fragmentary primary record.",
+  "lifespan": {
+    "birth": 750,
+    "death": 849,
+    "note": "Dates approximate (c. 750-849 CE); the sources report varying figures for both birth and death."
+  },
+  "relations": [
+    { "type": "member_of", "target": "mutazila", "note": "Regarded as the first systematic theologian of the Basran Mu'tazila." },
+    { "type": "articulated", "target": "al-usul-al-khamsa", "note": "Credited with giving early systematic form to the school's principles." },
+    { "type": "related_to", "target": "adl", "note": "Defender of divine justice ('adl), one of the twin Mu'tazili headings." },
+    { "type": "related_to", "target": "tawhid", "note": "Rigorous exponent of divine unity (tawhid), including its bearing on the attributes." },
+    { "type": "related_to", "target": "qadar", "note": "Argued for genuine human agency in the debate over qadar." }
+  ],
+  "sources": [
+    {
+      "citation": "Frank, Richard M. The Metaphysics of Created Being According to Abū l-Hudhayl al-ʿAllāf: A Philosophical Study of the Earliest Kalām. Uitgaven van het Nederlands Historisch-Archaeologisch Instituut te İstanbul 19. Istanbul: Nederlands Historisch-Archaeologisch Instituut, 1966.",
+      "url": "https://search.worldcat.org/oclc/39800",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Van Ess, Josef. Theology and Society in the Second and Third Centuries of the Hijra: A History of Religious Thought in Early Islam. Trans. from Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra (de Gruyter, 1991-97). Leiden: Brill. Reconstruction of Abu al-Hudhayl's doctrine from classical Arabic testimony; specific passages not read line-by-line.",
+      "url": "https://brill.com/display/title/34587",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schmidtke, Sabine, ed. The Oxford Handbook of Islamic Theology. Oxford: Oxford University Press, 2016. Cited for the essays treating the early and scholastic phases of the Mu'tazilite movement, in which Abu al-Hudhayl figures as an early systematizer; used as a contemporary scholarly lens in place of a verified single-author monograph on the figure.",
+      "url": "https://global.oup.com/academic/product/the-oxford-handbook-of-islamic-theology-9780199696703",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}
