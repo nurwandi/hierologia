@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use Hierologia, please cite it as below."
+title: "Hierologia: an open academic API for the comparative study of sacred traditions"
+abstract: >-
+  Hierologia preserves theological, historical, and sociological knowledge across
+  religious traditions as structured, neutral, well-sourced, and versioned data.
+  The first tradition covered is Islamic theology (kalam). Each concept, figure,
+  and school is a single JSON entity served as a static read-only API.
+type: dataset
+authors:
+  - family-names: Nurwandi
+    given-names: Qolbi
+    alias: nurwandi
+repository-code: "https://github.com/nurwandi/hierologia"
+url: "https://nurwandi.github.io/hierologia/"
+license: MIT
+keywords:
+  - Islamic theology
+  - kalam
+  - religious studies
+  - comparative religion
+  - digital humanities
+  - open data
+version: 0.1.0
+date-released: "2026-07-18"

@@ -2,9 +2,16 @@
   <img src="web/hierologia.svg" alt="Hierologia logo" width="96" height="96">
 </p>
 
-# Hierologia
+<h1 align="center">Hierologia</h1>
 
-**An open, neutral, well-sourced academic API for the comparative study of sacred traditions.**
+<p align="center"><strong>An open, neutral, well-sourced academic API for the comparative study of sacred traditions.</strong></p>
+
+<p align="center">
+  <a href="https://nurwandi.github.io/hierologia/"><img src="https://img.shields.io/badge/demo-live-2ea44f" alt="Live demo"></a>
+  <a href="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml"><img src="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml/badge.svg" alt="Deploy"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/status-early%20draft-orange" alt="Status: early draft">
+</p>
 
 *Hierologia*, from Greek *hierós* (“sacred”) and *lógos*, is the study of the
 sacred and religious traditions of any people, time, or place. This project
