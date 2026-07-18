@@ -1,0 +1,42 @@
+{
+  "id": "ibadiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibadism",
+    "original": "الإباضية",
+    "transliteration": "al-Ibāḍiyya",
+    "aliases": ["Ibadi Islam", "Ibadiyya", "Ibadis", "Ibadhism", "Ibāḍīs", "Ahl al-Da'wa wa-l-Istiqama"]
+  },
+  "summary": "Ibadism is a distinct school of Islam, neither Sunni nor Shi'i, that traces its intellectual descent to the early debates of the mid-first century AH and is today predominant in Oman, with communities in North and East Africa. Scholarship traces its roots to the moderate wing of the early movement that broke with Ali after the arbitration at Siffin; Ibadis themselves emphatically distinguish their tradition from the militant, excommunicating Kharijite factions and reject the violence associated with them.",
+  "description": "Ibadism (al-Ibadiyya) is a school of Islam that is neither Sunni nor Shi'i and constitutes the predominant tradition of Oman, with historic communities in the Mzab valley of Algeria, the island of Djerba in Tunisia, the Nafusa mountains of Libya, and East Africa (notably Zanzibar). Its name is conventionally linked to Abd Allah ibn Ibad al-Tamimi, a figure of the later first century AH, though Ibadi tradition and modern scholarship also assign a formative doctrinal role to Jabir ibn Zayd (d. c. 93/711) of Basra. Historically, the school's roots lie in the ferment following the arbitration (tahkim) at the Battle of Siffin (37/657), when a body of Ali's supporters seceded over the decision to submit the dispute to human judgment; from this early milieu, out of which the various groups later grouped by heresiographers under the label 'Khawarij' (Kharijites) emerged, Ibadism developed as a moderate, quietist current that rejected the militant positions of other factions. A defining feature is the sharp distinction Ibadis draw between themselves and the militant Kharijite groups (such as the Azariqa) who declared other Muslims unbelievers (takfir) and held their blood licit: Ibadi doctrine rejects that indiscriminate excommunication and the violence bound up with it, treating grave sinners among the Muslims not as idolaters but as ingrates or unbelievers in a restricted, non-lethal sense, and cultivating instead a doctrine of association and dissociation (walaya and bara'a) governing communal loyalty. In political theology Ibadism developed a distinctive doctrine of the Imamate, in which the imam is chosen by the community for his qualifications rather than by lineage, and in which the community may live without a manifest imam under certain conditions; this doctrine underlay the Imamate of Oman across long stretches of its history. Ibadi law and hadith form an independent madhhab with its own transmission, and the tradition preserves an extensive body of jurisprudence and historical writing, the latter exemplified by al-Salimi's Tuhfat al-a'yan.",
+  "editorial_notes": "The relationship between Ibadism and the early Kharijite movement is handled with care per neutrality principles #1, #2, and #7. The task and the sources agree that Ibadism is historically connected to the early ferment out of which heresiographers grouped the 'Khawarij', while being clearly distinct from the militant, excommunicating factions; the entry states both the historical connection and the distinction without endorsing either the heresiographers' classification or the Ibadi self-understanding as the single correct framing. Wilkinson's monograph is explicit that Ibadis have, especially since the late nineteenth century, emphasized their dissociation from the Kharijites while retaining certain historical links; that scholarly nuance is reflected here rather than flattened, and the Ibadi rejection of Kharijite violence and indiscriminate takfir is presented as the tradition's own position, attributed and not adjudicated. The relation related_to kharijites carries a note marking the distinction explicitly, as instructed. Founder attribution (Abd Allah ibn Ibad; the formative role of Jabir ibn Zayd) is reported as the tradition's and scholarship's account, with dates approximate. Per neutrality principle #8, two source lenses are triangulated: Wilkinson (Western academic Islamic studies, the standard modern monograph) and al-Salimi's Tuhfat al-a'yan (a classical Omani Ibadi historian, the tradition's own voice). A third contemporary-scholar lens was sought but not confidently verified for this draft and is therefore not cited rather than fabricated; this is flagged as a gap. Neither cited work was read page by page, so confidence is set accordingly.",
+  "period": {
+    "founded": 657,
+    "note": "No single founding date; scholarship traces the school's roots to the aftermath of the arbitration at Siffin (37/657) and its doctrinal formation to Jabir ibn Zayd (d. c. 93/711) in Basra, with the name linked to Abd Allah ibn Ibad. The school remains active, predominant in Oman, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "kharijites", "note": "Ibadism arose from the same early first/seventh-century milieu that heresiographers group under 'Khawarij', but is sharply distinct: it is the moderate, quietist current that rejects the militant Kharijites' indiscriminate excommunication (takfir) of other Muslims and their violence. The distinction is central to Ibadi self-understanding and is asserted here without adjudicating the heresiographical classification." },
+    { "type": "related_to", "target": "ali", "note": "The school's historical roots lie in the secession of a body of Ali's supporters after the arbitration (tahkim) at the Battle of Siffin (37/657)." },
+    { "type": "rejects", "target": "takfir", "note": "Ibadi doctrine rejects the militant Kharijite practice of declaring grave-sinning Muslims idolaters whose blood is licit; grave sinners are treated as unbelievers in a restricted, non-lethal sense." }
+  ],
+  "sources": [
+    {
+      "citation": "Wilkinson, John C. Ibadism: Origins and Early Development in Oman. Oxford Oriental Monographs. Oxford: Oxford University Press, 2010. The standard modern academic monograph on Ibadi origins; analyzes the tradition's early formation, its relation to and dissociation from the Kharijites, and its development into a madhhab. Specific claims not page-verified for this draft.",
+      "url": "https://global.oup.com/academic/product/ibadism-9780199588268",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Salimi, Nur al-Din Abd Allah ibn Humayyid (d. 1332/1914). Tuhfat al-a'yan bi-sirat ahl 'Uman (The Gift of Notables on the History of the People of Oman). A foundational Omani Ibadi history of Oman and its Imamate by a leading Ibadi scholar; a primary reference for the tradition's own account of its history and political thought. Classical/modern Ibadi source in Arabic; not read directly for this draft.",
+      "url": "https://en.wikipedia.org/wiki/Nur_al-Din_al-Salimi",
+      "license": "Primary source in Arabic; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

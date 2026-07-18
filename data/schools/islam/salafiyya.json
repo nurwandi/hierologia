@@ -1,0 +1,61 @@
+{
+  "id": "salafiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Salafiyya",
+    "original": "السلفية",
+    "transliteration": "al-Salafiyya",
+    "aliases": ["Salafism", "Salafi movement", "Salafis", "Salafi", "Wahhabism", "Wahhabi movement", "Ahl al-Sunna (Salafi usage)", "al-Salafiyya al-muhtasiba"]
+  },
+  "summary": "The Salafiyya are a modern revivalist movement that seeks to restore Islam to the understanding and practice of the salaf al-salih, the 'pious forebears' of the first three generations, treating their example as the authoritative measure of correct belief and practice. Theologically it draws on the Athari (traditionist) creed and the legacy of Ibn Taymiyya, and organizationally it is closely tied to the 18th-century revival led by Muhammad ibn 'Abd al-Wahhab in Najd; the precise scope and history of the term are contested in scholarship.",
+  "description": "Salafiyya (from salaf, the 'forebears', specifically al-salaf al-salih, the first three generations of Muslims held up as a normative model) names a modern movement of Islamic reform and revival that claims to bypass the accumulated interpretive tradition and return directly to the Qur'an, the sunna and the understanding of the earliest community. In its now-dominant sense it is a purist, scripturalist current that in creed (aqida) affirms the traditionist (Athari) doctrine of God's names and attributes, affirming the revealed texts as they stand while denying likeness to creatures, and that in method privileges hadith and the reports of the salaf over later theological (kalam) system-building and, often, over strict adherence (taqlid) to a single law school. The movement takes Ibn Taymiyya (d. 728/1328) and his student Ibn al-Qayyim as principal intellectual authorities, and it is historically bound up with the revival launched in central Arabia (Najd) in the 18th century by Muhammad ibn 'Abd al-Wahhab (d. 1206/1792), whose treatise Kitab al-Tawhid made the uniqueness of God's worship (tawhid al-uluhiyya) the movement's central concern and condemned as idolatry (shirk) practices such as the veneration of saints and graves; this Najdi current, which critics label 'Wahhabism' (a designation its adherents generally reject, preferring 'Salafi' or simply 'the people of tawhid'), was consolidated through alliance with the house of Sa'ud and later carried worldwide. Modern scholarship has drawn attention to a further complication: in the late 19th and early 20th centuries the label salafiyya was also associated with the reformist Islamic modernism of figures such as Muhammad 'Abduh and Rashid Rida, a rationalizing project quite different in temper from the later purist movement. Henri Lauziere and others have argued that the packaging of 'Salafism' as a single, coherent, centuries-old creed is itself largely a twentieth-century construction, produced in the context of decolonization and later print and institutional networks, and projected back onto earlier figures; on this reading the continuity between the classical Athari tradition, Ibn Taymiyya, the Najdi revival and the modern global movement is partly a retrospective genealogy rather than a simple lineage. Contemporary academic writing commonly distinguishes strands within the movement, for instance quietist or 'purist' Salafis focused on creed and da'wa, politically engaged (haraki) Salafis, and a jihadi fringe, while noting that these are analysts' categories that adherents contest. The Salafiyya is here treated as distinct from, though rooted in, the classical Athariyya: Atharism is the medieval traditionist theology, while Salafiyya is the modern revivalist movement that adopts that theology and adds to it a program of purification, anti-taqlid method and, in many forms, socio-political mobilization.",
+  "editorial_notes": "Per the neutrality policy (principles 1, 2 and 7), this entry describes the Salafiyya on its own terms and attributes contested claims rather than settling them. The movement's self-understanding, that it recovers the pure practice of the salaf and that its creed simply is the creed of the Prophet's community, is reported as its own account, not endorsed; correspondingly, the characterization by critics (including many Sufis and Ash'ari/Maturidi theologians) that the movement narrows the tradition or verges on anthropomorphism in the attributes is named but not adjudicated. Two scholarly controversies are flagged explicitly rather than resolved: (a) the CONTESTED SCOPE of the term 'Salafi', which shifted from a late-19th/early-20th-century modernist reformism (Abduh, Rida) to the later purist movement, a shift Lauziere and Haykel treat as central; and (b) the 'Wahhabism' label, which outside observers apply to the Najdi current but which adherents reject. The entry keeps the jurisprudence/theology/spirituality distinction clear: Salafiyya is a modern movement carrying an Athari THEOLOGY, with a distinctive stance on LAW (skepticism of taqlid to one madhhab) and a sharply critical stance toward Sufi SPIRITUALITY (see the sufism entry). It is deliberately distinguished from its classical theological root, the athariyya entry. Relation targets athariyya, ibn-taymiyya, hanbaliyya and ahl-al-hadith are existing entries; targets muhammad-ibn-abd-al-wahhab, tawhid-al-uluhiyya, shirk and taqlid may be dangling and are allowed. Founding date is approximate (see period note). Sourcing follows the three-lens principle (#8): a modern Western academic lens (Lauziere; Meijer, ed.), a classical/foundational Muslim primary text (Ibn 'Abd al-Wahhab, Kitab al-Tawhid), and a contemporary Muslim scholar writing academically (Haykel). All three were web-verified as existing works on this subject; none was read line-by-line in this pass, so confidence is set accordingly. No unverifiable lens remained.",
+  "period": {
+    "founded": 1745,
+    "note": "Approximate. The entry's principal referent, the Najdi revival of Muhammad ibn 'Abd al-Wahhab, is conventionally dated from his alliance with Muhammad ibn Sa'ud around 1744-45 CE. The term salafiyya in its modern purist sense consolidated across the 19th-20th centuries (with a distinct, earlier modernist usage). The movement remains active worldwide, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "athariyya", "note": "The Salafiyya adopts the classical Athari (traditionist) creed of the divine attributes as its theology; Atharism is its medieval root, but the two are distinct (see editorial notes)." },
+    { "type": "key_figure", "target": "ibn-taymiyya", "note": "Ibn Taymiyya (d. 728/1328) is a principal intellectual authority for the movement, especially on tawhid and the divine attributes." },
+    { "type": "related_to", "target": "hanbaliyya", "note": "The Najdi revival arose within a Hanbali legal milieu, though many later Salafis relativize strict adherence (taqlid) to any single madhhab." },
+    { "type": "related_to", "target": "ahl-al-hadith", "note": "Shares the traditionist privileging of hadith and the reports of the salaf over speculative kalam; the modern South Asian Ahl-i Hadith is a cognate current." },
+    { "type": "key_figure", "target": "muhammad-ibn-abd-al-wahhab", "note": "Muhammad ibn 'Abd al-Wahhab (d. 1206/1792), leader of the 18th-century Najdi revival and author of Kitab al-Tawhid (dangling target)." },
+    { "type": "holds", "target": "tawhid-al-uluhiyya", "note": "Centres the uniqueness of God's worship (tawhid al-uluhiyya), condemning devotion directed to other than God (dangling target)." },
+    { "type": "rejects", "target": "shirk", "note": "Condemns as shirk (idolatry) practices such as the veneration of saints, graves and shrines; the classification is contested by those it targets (dangling target)." },
+    { "type": "opposed", "target": "sufism", "note": "Sharply critical of shrine-based Sufi devotion, saint-veneration and the metaphysics of wahdat al-wujud; the opposition runs in both directions." },
+    { "type": "opposed", "target": "ashariyya", "note": "Rejects the Ash'ari (and Maturidi) recourse to kalam and figurative reinterpretation (ta'wil) of the divine attributes; Ash'aris in turn charge some Salafis with tashbih. The dispute is named, not adjudicated." }
+  ],
+  "sources": [
+    {
+      "citation": "Lauziere, Henri. The Making of Salafism: Islamic Reform in the Twentieth Century. Columbia University Press, 2016. Argues that 'Salafism' as a coherent creed is largely a 20th-century construction, distinguishing the earlier modernist usage from the later purist movement.",
+      "url": "https://cup.columbia.edu/book/the-making-of-salafism/9780231175500/",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Meijer, Roel, ed. Global Salafism: Islam's New Religious Movement. Oxford University Press / Hurst, 2009. An edited scholarly volume (cited via its authored chapters, incl. Haykel's) on the movement's doctrine and its purist/political/jihadi strands.",
+      "url": "https://www.clingendael.org/sites/default/files/pdfs/20090700_cdsp_global_salafism_introduction_meijer.pdf",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn 'Abd al-Wahhab, Muhammad. Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The foundational treatise of the Najdi revival, centring tawhid al-uluhiyya and condemning practices its author classes as shirk. Widely available in English translation.",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Haykel, Bernard. 'On the Nature of Salafi Thought and Action,' in Global Salafism, ed. Roel Meijer, Oxford University Press, 2009, pp. 33-57. A contemporary scholar's account of Salafi epistemology and the contested history of the label.",
+      "url": "https://www.researchgate.net/publication/346178322_Global_Salafism_Islam's_New_Religious_Movement_By_Roel_Meijer_ed_New_York_Oxford_University_Press_2013_463_pages",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

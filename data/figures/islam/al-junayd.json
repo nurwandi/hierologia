@@ -1,0 +1,52 @@
+{
+  "id": "al-junayd",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Junayd al-Baghdadi",
+    "original": "الجنيد البغدادي",
+    "transliteration": "Abū al-Qāsim al-Junayd ibn Muḥammad al-Baghdādī",
+    "aliases": ["al-Junayd", "Junayd of Baghdad", "Abu al-Qasim al-Junayd", "sayyid al-ta'ifa"]
+  },
+  "roles": ["sufi", "jurist", "theologian"],
+  "summary": "Al-Junayd al-Baghdadi (d. c. 910 CE) was a Sufi of Baghdad, remembered in the tradition as sayyid al-ta'ifa ('master of the group') and as a foundational figure of the 'sober' current of early Sufism. His surviving Arabic letters (Rasa'il) are among the earliest theoretical texts of the tradition.",
+  "description": "Al-Junayd taught in Baghdad in the third/ninth century, a formative period for the mystical tradition later called Sufism (tasawwuf). Later Sufi tradition honours him as sayyid al-ta'ifa and treats him as a central authority; he is associated in particular with a 'sober' (sahw) approach to mystical experience, characteristically contrasted in the sources with the 'intoxicated' (sukr) language of some of his contemporaries, and with an emphasis on returning from ecstatic states to the ordinary duties of the religious law. His extant Rasa'il, edited and translated in modern scholarship, treat themes including the oneness of God (tawhid), the primordial covenant (mithaq) between God and the souls, and the passing away of the self (fana'). Later Sufi lineages (silsilas) frequently trace their descent through him, and much of the biographical material about him is preserved in the classical Sufi manuals and biographical dictionaries composed after his death. The relation between the historical figure and his later hagiographic and doctrinal reception is a subject of modern academic study.",
+  "editorial_notes": "The death date (c. 297/910) is as commonly reported and given as approximate. Al-Junayd is a venerated figure across the Sufi tradition; the entry records his standing (sayyid al-ta'ifa) and his association with 'sober' Sufism as characterizations found in the tradition and in scholarship, not as endorsements, per neutrality principle #4. The sober/intoxicated contrast is presented as a descriptive scheme used by the tradition and its scholars. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic survey (Karamustafa, Edinburgh 2007), (b) al-Junayd's own Rasa'il in Abdel-Kader's critical Arabic edition and English translation (Gibb Memorial, 1962), and (c) a scholarly anthology that translates and situates his writings (Sells, Paulist Press 1996). Relations to sufism, tasawwuf, fana, and mithaq are to entities that may not yet exist in the dataset (dangling targets permitted); tawhid exists. Confidence is medium: sources verified to exist and be on-topic via publisher and library catalogues, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "death": 910,
+    "note": "d. c. 297 AH / c. 910 CE; lived and taught in Baghdad. Death year as commonly reported and approximate; birth date not securely known."
+  },
+  "relations": [
+    { "type": "member_of", "target": "sufism", "note": "A foundational figure of early Sufism, honoured in the tradition as sayyid al-ta'ifa." },
+    { "type": "articulated", "target": "sufism", "note": "His Rasa'il are among the earliest theoretical statements of Sufi doctrine; associated with the 'sober' (sahw) current." },
+    { "type": "related_to", "target": "tawhid", "note": "The oneness of God is a central theme of his letters, treated in a mystical register." },
+    { "type": "related_to", "target": "fana", "note": "Associated with the doctrine of the passing away (fana') of the self before God." },
+    { "type": "related_to", "target": "mithaq", "note": "His letters develop the theme of the primordial covenant (mithaq) between God and the souls." }
+  ],
+  "sources": [
+    {
+      "citation": "Karamustafa, Ahmet T. Sufism: The Formative Period. The New Edinburgh Islamic Surveys. Edinburgh: Edinburgh University Press, 2007.",
+      "url": "https://www.euppublishing.com/doi/10.3366/E1465359109000461",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abdel-Kader, Ali Hassan. The Life, Personality and Writings of al-Junayd: A Study of a Third/Ninth Century Mystic, with an Edition and Translation of his Writings. E. J. W. Gibb Memorial Series, New Series XXII. London: Luzac, 1962. Primary source: critical edition and translation of al-Junayd's own Rasa'il.",
+      "url": "https://www.gibbtrust.org/the-life-personality-and-writings-of-al-junayd/",
+      "license": "Proprietary edition/translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sells, Michael A. Early Islamic Mysticism: Sufi, Qur'an, Mi'raj, Poetic and Theological Writings. Classics of Western Spirituality. Mahwah, NJ: Paulist Press, 1996. Includes translated selections from al-Junayd.",
+      "url": "https://www.paulistpress.com/Products/0809136198/early-islamic-mysticism.aspx",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

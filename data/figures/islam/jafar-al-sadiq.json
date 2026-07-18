@@ -1,0 +1,53 @@
+{
+  "id": "jafar-al-sadiq",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ja'far al-Sadiq",
+    "original": "جعفر بن محمد الصادق",
+    "transliteration": "Jaʿfar ibn Muḥammad al-Ṣādiq",
+    "aliases": ["Ja'far ibn Muhammad", "al-Sadiq", "Abu Abd Allah", "al-Imam al-Sadiq", "the sixth Imam"]
+  },
+  "roles": ["imam", "jurist", "traditionist", "theologian"],
+  "summary": "Ja'far al-Sadiq (c. 702-765 CE) was a descendant of the Prophet through al-Husayn, revered in Twelver and Ismaili Shi'ism as the sixth Imam and regarded as the eponym of the Ja'fari school of law. He is also cited in Sunni tradition as a teacher and transmitter of hadith.",
+  "description": "Ja'far ibn Muhammad al-Sadiq lived in Medina in the late Umayyad and early Abbasid periods. In Twelver (Ithna Ashari) and Ismaili Shi'i tradition he is counted as the sixth of the Imams, held to hold designated authority (imama) within the Prophet's household (ahl al-bayt); a large body of legal and doctrinal teaching is transmitted from him in the early Shi'i hadith corpus, and for this reason Twelver jurisprudence is often called the Ja'fari school after him. Shi'i sources present him as a source of teaching on the imamate and on the community's law during a period when, on the Twelver account, the Imams did not hold political power. He is also received within Sunni tradition as a respected teacher and transmitter of hadith; a number of reports connect him as a teacher to figures including Abu Hanifa and Malik ibn Anas, an association reported in the sources and presented here as attributed rather than adjudicated. Later esoteric, alchemical, and Sufi literature also invokes his name, and the historical relation of these attributions to the figure himself is debated in modern scholarship. The details of his life, the extent of the corpus genuinely traceable to him, and the later development of the doctrine of the imamate around his person are questions treated differently across the Shi'i tradition, Sunni tradition, and modern academic study.",
+  "editorial_notes": "Birth and death (c. 83/702 - 148/765) are as commonly reported and given as approximate in the lifespan note. Al-Sadiq is venerated across the Shi'i tradition as an Imam and is also honoured in Sunni tradition as a teacher and traditionist; both receptions are recorded as attributed positions rather than adjudicated, per neutrality principles #2 and #7. His standing as the sixth Imam and the doctrine of the imamate built around him are Twelver and Ismaili confessional claims, stated as such. The reports linking him as teacher to Abu Hanifa and Malik are presented as attributed. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Haider, Cambridge 2011), (b) the classical Twelver hadith corpus that transmits his teaching (al-Kulayni's al-Kafi), and (c) a contemporary scholarly monograph on his life and legacy (Pierce, Fons Vitae 2026). Relations to shiism, ithna-ashariyya, imama, and isma are to entities that may not yet exist in the dataset (dangling targets permitted). Confidence is medium: sources verified to exist and be on-topic via publisher and library catalogues, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 702,
+    "death": 765,
+    "note": "c. 83-148 AH / c. 702-765 CE; lived in Medina. Years as commonly reported and approximate."
+  },
+  "relations": [
+    { "type": "member_of", "target": "shiism", "note": "Revered across the Shi'i tradition; counted as an Imam of the Prophet's household. Confessional characterization, stated as attributed." },
+    { "type": "member_of", "target": "ithna-ashariyya", "note": "Counted as the sixth Imam in Twelver (Ithna Ashari) Shi'ism, which is often named the Ja'fari school after him." },
+    { "type": "related_to", "target": "imama", "note": "Held in Twelver and Ismaili tradition to possess the designated authority of the imamate; the doctrine developed substantially around his person." },
+    { "type": "related_to", "target": "isma", "note": "Later Shi'i doctrine of the Imams' immunity from error is associated with the Imams including al-Sadiq; attributed to the tradition, not adjudicated." },
+    { "type": "teacher_of", "target": "abu-hanifa", "note": "Some reports connect him as a teacher to Abu Hanifa; presented as attributed rather than established." }
+  ],
+  "sources": [
+    {
+      "citation": "Haider, Najam. The Origins of the Shi'a: Identity, Ritual, and Sacred Space in Eighth-Century Kufa. Cambridge Studies in Islamic Civilization. New York: Cambridge University Press, 2011.",
+      "url": "https://www.cambridge.org/us/academic/subjects/history/middle-east-history/origins-shi-identity-ritual-and-sacred-space-eighth-century-kfa",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Kulayni, Muhammad ibn Ya'qub. Al-Kafi. The foundational early Twelver Shi'i hadith collection, transmitting teaching attributed to the Imams including Ja'far al-Sadiq. Classical primary source (compiled early 4th/10th century).",
+      "url": "https://www.gibbtrust.org/",
+      "license": "Classical text; cited for reference (relevant reports not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    },
+    {
+      "citation": "Pierce, Matthew. The Life and Legacy of Ja'far al-Sadiq: At the Nexus of Islam. Louisville, KY: Fons Vitae, 2026.",
+      "url": "https://fonsvitae.com/product/the-life-and-legacy-of-jafar-al-sadiq/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

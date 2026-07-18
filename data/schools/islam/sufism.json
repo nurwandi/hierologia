@@ -1,0 +1,62 @@
+{
+  "id": "sufism",
+  "tradition": "islam",
+  "names": {
+    "primary": "Sufism",
+    "original": "التصوف",
+    "transliteration": "al-Taṣawwuf",
+    "aliases": ["Tasawwuf", "al-Tasawwuf", "Islamic mysticism", "Sufi", "Sufis", "the Sufi way", "ilm al-tasawwuf", "the science of the interior"]
+  },
+  "summary": "Sufism (al-tasawwuf) is the interior, mystical dimension of Islam, oriented toward the purification of the self and the direct experiential knowledge of God, cultivated through practices such as invocation (dhikr) and the discipleship of a master, and organized in the later period into initiatic orders (tariqas). On its own account it is not a school of law or of speculative theology but a spiritual path running alongside and within them.",
+  "description": "Sufism (from al-tasawwuf, a term whose derivation the tradition itself variously traces to suf, 'wool', for the woolen garments of early ascetics, or to safa', 'purity') is the name given to the interior and mystical current of Islam. Western scholarship locates its emergence in the ascetic and pietist renunciation (zuhd) of the first two Islamic centuries and its crystallization as a distinct mode of piety in the Sufism of Baghdad in the third/ninth century, associated with figures such as al-Muhasibi, al-Kharraz, al-Nuri and, above all, al-Junayd (d. 298/910), often taken as the exemplar of a 'sober' Sufism that kept mystical experience within the bounds of the religious law. On the tradition's own understanding, the goal of the path (tariqa) is the reform of the inner self and the attainment of ihsan, 'to worship God as though you see Him', glossed by Sufis as the perfecting dimension of religion beyond outward submission (islam) and belief (iman). Sufi authors mapped the path as a sequence of stations (maqamat) attained through effort and states (ahwal) received as divine gifts, moving from repentance and self-examination through trust, love and knowledge (marifa) toward annihilation of the ego-self in God (fana') and subsistence in Him (baqa'). Its characteristic practices include the invocation and remembrance of God (dhikr), spiritual audition (sama'), supererogatory devotion, and the guidance of a disciple (murid) by a master (shaykh or pir). A body of manuals set out this teaching for a wider audience, among them al-Qushayri's al-Risala (5th/11th c.) and, most influentially, al-Ghazali's Ihya' 'Ulum al-Din, which sought to integrate the outward sciences of law and creed with the inward disciplines of the heart. From roughly the sixth/twelfth and seventh/thirteenth centuries Sufism was institutionalized in the tariqas, the initiatic orders (such as the Qadiriyya, Rifa'iyya, Suhrawardiyya, Shadhiliyya, Naqshbandiyya, Mevleviyya and Chishtiyya) that transmitted a lineage (silsila) traced back to the Prophet and became a principal vehicle of Muslim devotional life across the Islamic world. The tradition also generated a speculative and metaphysical literature, most influentially the writings of Ibn 'Arabi (d. 638/1240), whose later readers systematized his thought under the phrase wahdat al-wujud ('the oneness of being'), the teaching that there is in reality but one Being of which all things are manifestations. This metaphysics, and certain ecstatic utterances (shatahat) such as those ascribed to al-Hallaj (d. 309/922) and Abu Yazid al-Bistami, drew sustained criticism from other Muslim scholars, most prominently Ibn Taymiyya and later Salafi critics, who regarded wahdat al-wujud, the veneration of saints and shrine practices as departures from the doctrine of God's transcendence and unity; Sufi authors in turn defended these as consonant with, or the deepest realization of, the same doctrine. Sufism is therefore best described not as a fifth law school or a rival theology but as a cross-cutting dimension of the tradition, historically pursued by Muslims of the various legal madhhabs and theological orientations.",
+  "editorial_notes": "Per the neutrality policy (principles 1, 2 and 7), this entry presents Sufism on its own terms and attributes contested claims rather than adjudicating them. The core dispute named here, whether the metaphysics of wahdat al-wujud, ecstatic utterances (shatahat) and saint-veneration are a faithful realization of tawhid or a departure from it, is a live debate between Sufi authors and their critics (notably Ibn Taymiyya and later Salafis, see the salafiyya and ibn-taymiyya entries); the entry reports both sides and endorses neither. The account of Sufism's 'origins' is itself scholarly-contested: the tradition traces its interior teaching to the Prophet and the Companions, while academic historiography (Karamustafa, Knysh) reconstructs a developmental emergence from early renunciation; both framings are noted. The jurisprudence/theology/spirituality distinction stressed in the summary and description is deliberate: Sufism is presented as a dimension crossing the law schools (see hanafiyya, hanbaliyya) and the kalam schools (see ashariyya, maturidiyya, athariyya), not as one of them. Al-Ghazali is related here as the figure who most influentially bridged law, theology and Sufism (see the al-ghazali entry). Several relation targets (ibn-arabi, al-junayd, wahdat-al-wujud, dhikr, ihsan) are not yet separate entries in this dataset; dangling targets are allowed. The founding date is approximate (see period note). Sourcing follows the three-lens principle (#8): a modern Western academic lens (Karamustafa; Knysh), a classical Muslim primary text (al-Qushayri's Risala, in Knysh's critical translation), and a contemporary Muslim scholar (Chittick on Ibn 'Arabi). All three were web-verified as existing works treating this subject; none was read line-by-line in this pass, so confidence is set accordingly. No unverifiable lens remained.",
+  "period": {
+    "founded": 850,
+    "note": "Approximate. Interior/ascetic currents (zuhd) run from the 1st/7th century; Sufism proper crystallized as a distinct mode of piety in 3rd/9th-century Baghdad (al-Junayd and contemporaries), the moment the year given points to. It was institutionalized into the tariqa orders from roughly the 6th-7th/12th-13th centuries and remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "al-ghazali", "note": "Al-Ghazali (d. 505/1111) most influentially bridged law, kalam and Sufism, integrating the interior disciplines with the outward sciences in his Ihya' 'Ulum al-Din." },
+    { "type": "key_figure", "target": "al-junayd", "note": "Al-Junayd of Baghdad (d. 298/910), exemplar of a 'sober' Sufism that kept mystical experience within the bounds of the sacred law (dangling target)." },
+    { "type": "key_figure", "target": "ibn-arabi", "note": "Ibn 'Arabi (d. 638/1240), whose metaphysics later readers systematized as wahdat al-wujud; a focus of both veneration and controversy (dangling target)." },
+    { "type": "holds", "target": "ihsan", "note": "Takes ihsan, 'to worship God as though you see Him', as the perfecting inner dimension of religion that the path cultivates (dangling target)." },
+    { "type": "holds", "target": "dhikr", "note": "Centres the invocation and remembrance of God (dhikr) as a principal spiritual discipline (dangling target)." },
+    { "type": "holds", "target": "wahdat-al-wujud", "note": "The speculative Sufi tradition after Ibn 'Arabi affirms wahdat al-wujud, 'the oneness of being'; a contested doctrine defended by Sufis as the deepest realization of tawhid and rejected by critics (dangling target)." },
+    { "type": "opposed", "target": "salafiyya", "note": "Sufi saint-veneration, shrine practice and the metaphysics of wahdat al-wujud are principal targets of Salafi critique; the opposition runs in both directions." },
+    { "type": "opposed", "target": "ibn-taymiyya", "note": "Ibn Taymiyya criticized wahdat al-wujud and certain Sufi practices as departures from God's transcendence, while accepting a law-bound, sober Sufism; the assessment is contested." },
+    { "type": "related_to", "target": "tawhid", "note": "Sufi authors present their path and metaphysics as a realization of the divine oneness (tawhid); critics dispute this, the debate is named not adjudicated." }
+  ],
+  "sources": [
+    {
+      "citation": "Karamustafa, Ahmet T. Sufism: The Formative Period. Edinburgh University Press (New Edinburgh Islamic Surveys), 2007. On early renunciation and the crystallization of Baghdad Sufism (al-Kharraz, al-Nuri, al-Junayd).",
+      "url": "https://www.euppublishing.com/doi/10.3366/E1465359109000461",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Knysh, Alexander. Sufism: A New History of Islamic Mysticism. Princeton University Press, 2017; and Knysh, Islamic Mysticism: A Short History, Brill, 2000.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691139098/sufism",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Qushayri, Abu 'l-Qasim. al-Risala al-Qushayriyya fi 'ilm al-tasawwuf (5th/11th c.), trans. Alexander D. Knysh as Al-Qushayri's Epistle on Sufism, Garnet Publishing, 2007. A primary Sufi manual setting out the stations (maqamat), states (ahwal) and technical vocabulary of the path.",
+      "url": "https://academic.oup.com/jis/article-abstract/23/3/372/714370",
+      "license": "Primary source in scholarly translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Chittick, William C. The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination. State University of New York Press, 1989. A contemporary Muslim scholar's study of Ibn 'Arabi's metaphysics, including the doctrine later termed wahdat al-wujud.",
+      "url": "https://sunypress.edu/Books/T/The-Sufi-Path-of-Knowledge",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

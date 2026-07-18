@@ -1,0 +1,51 @@
+{
+  "id": "shiism",
+  "tradition": "islam",
+  "names": {
+    "primary": "Shi'ism",
+    "original": "الشيعة",
+    "transliteration": "al-Shīʿa",
+    "aliases": ["Shia", "Shiʿa", "Shi'a Islam", "Shiʿite Islam", "Shiʿites", "Shīʿat ʿAlī", "Party of Ali", "Ahl al-Bayt (partisans of)"]
+  },
+  "summary": "Shi'ism is the branch of Islam that holds that religious and communal authority after the Prophet Muhammad belongs by divine designation to Ali ibn Abi Talib and to specified descendants of the Prophet through Ali and Fatima, rather than to a leader chosen by the community. It is an umbrella for several traditions, the largest of which are the Twelvers (Ithna 'Ashariyya), the Isma'ilis, and the Zaydis.",
+  "description": "Shi'ism (from shiʿat ʿAli, 'the party of Ali') designates those Muslims who hold that after the death of the Prophet Muhammad, legitimate leadership of the Muslim community passed to Ali ibn Abi Talib, the Prophet's cousin and son-in-law, and thereafter to a line of his descendants, on the ground that the Prophet designated (nass) his successor rather than leaving the choice to the community. On this understanding, leadership is an office of divinely guided religious authority, the Imamate (imama), and not merely a political succession; this distinguishes Shi'i tradition from the Sunni account, in which the early caliphs are legitimate successors chosen by the community. Shi'i tradition connects Ali's designation especially to the report of the Prophet's statement at Ghadir Khumm, an event Shi'i sources read as an explicit appointment. The tradition is not a single body: its major surviving branches differ over the identity and number of the Imams. The Twelvers (Ithna 'Ashariyya, or Imamiyya) recognize a line of twelve Imams ending in an Imam held to be in occultation; the Isma'ilis (Seveners) follow a line through Isma'il, the son of the sixth Imam Ja'far al-Sadiq; and the Zaydis recognize Zayd ibn Ali and hold a distinct, less exclusivist doctrine of the Imamate. In systematic theology (kalam), the mainstream Imami tradition holds the Imamate (imama) to be a foundational principle of religion and, on questions of divine justice, shares with the Mu'tazila the doctrine of adl (God's justice and its entailments for human acts). Shi'i communities developed their own bodies of hadith, transmitted from the Imams, and their own schools of law, most prominently the Ja'fari school associated with Ja'far al-Sadiq.",
+  "editorial_notes": "This is a confessionally sensitive entry, and per neutrality principles #1, #2, and #7 it describes rather than adjudicates. The central claim that authority after the Prophet belonged by divine designation to Ali and his descendants is presented as the position of the Shi'i tradition, attributed to it and not endorsed; the contrasting Sunni account of legitimate community-chosen succession is named alongside it, and the entry takes no view on which is correct. Phrasing such as 'holds', 'on this understanding', and 'Shi'i sources read' marks these as a tradition's own claims. The event of Ghadir Khumm is reported as a report that Shi'i tradition interprets in a particular way, not as an adjudicated fact about succession. 'Shi'ism' is treated as an umbrella for internally divergent branches (Twelver, Isma'ili, Zaydi); their differences over the number and line of the Imams are noted without ranking. Per neutrality principle #8, three source lenses are triangulated: Madelung (Western academic Islamic studies), Nahj al-Balagha (a primary text attributed to Ali, its attribution debated and flagged rather than resolved), and Tabataba'i's Shi'ite Islam (a leading contemporary Shi'i scholar presenting the tradition in its own voice). None of the cited works was read page by page for this draft, so confidence is set at medium or low accordingly. The relation contrasts_with sunnism points to an entry not yet written (dangling target, allowed); imama is written as a companion concept entry in this same pass.",
+  "period": {
+    "founded": 632,
+    "note": "Conventionally anchored to the succession dispute following the Prophet's death in 632 CE (11 AH); Shi'i self-understanding traces the party of Ali to that moment, while modern scholarship debates when a distinct Shi'i identity crystallized. The tradition remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "ali", "note": "Ali ibn Abi Talib, held in Shi'i tradition to be the first Imam and the Prophet's divinely designated successor." },
+    { "type": "holds", "target": "imama", "note": "The Imamate as an office of divinely guided authority after the Prophet; foundational to Shi'i tradition." },
+    { "type": "holds", "target": "adl", "note": "Divine justice ('adl); in kalam the mainstream Imami tradition shares this doctrine with the Mu'tazila." },
+    { "type": "related_to", "target": "ithna-ashariyya", "note": "The Twelver (Imami) school, the largest branch under the Shi'i umbrella." },
+    { "type": "related_to", "target": "jafar-al-sadiq", "note": "Ja'far al-Sadiq, the sixth Imam, associated with the Ja'fari school of law; entry not yet written." },
+    { "type": "opposed", "target": "sunnism", "note": "Contrasts with the Sunni account of legitimate community-chosen succession to the Prophet; the disagreement concerns the basis of authority, attributed to each tradition without adjudication. Target entry not yet written." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. Religious Trends in Early Islamic Iran. Albany, NY: Bibliotheca Persica, 1988. Academic monograph surveying early Islamic movements including Imami, Zaydi, and Isma'ili Shi'ism; relevant chapters not page-verified for this draft.",
+      "url": "https://books.google.com/books/about/Religious_Trends_in_Early_Islamic_Iran.html?id=ehrk8ckWNYoC",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nahj al-Balagha (The Peak of Eloquence), sermons, letters, and sayings attributed to Ali ibn Abi Talib, compiled by al-Sharif al-Radi (d. 406/1015). Primary text revered in the Shi'i tradition; the attribution of individual passages to Ali is itself debated in both Sunni and Shi'i scholarship. Not read line by line for this draft.",
+      "license": "Classical text; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    },
+    {
+      "citation": "Tabataba'i, Muhammad Husayn. Shi'ite Islam. Trans. and ed. Seyyed Hossein Nasr. Albany: State University of New York Press, 1975. A leading contemporary Shi'i scholar's presentation of the tradition, its branches, and the doctrine of the Imamate in its own voice. Specific claims not page-verified for this draft.",
+      "url": "https://www.goodreads.com/book/show/20155427-shi-ite-islam",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

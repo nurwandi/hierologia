@@ -1,0 +1,59 @@
+{
+  "id": "sunnism",
+  "tradition": "islam",
+  "names": {
+    "primary": "Sunnism",
+    "original": "أهل السنة والجماعة",
+    "transliteration": "Ahl al-Sunna wa-l-Jamāʿa",
+    "aliases": ["Sunni Islam", "Sunnis", "Sunni", "Ahl al-Sunna", "Ahl al-Sunna wa-l-Jama'a", "people of the sunna and the community", "Sunnite"]
+  },
+  "summary": "Sunnism (Ahl al-Sunna wa-l-Jama'a, 'the people of the prophetic practice and the community') is the majority branch of Islam, defined by its acceptance of the leadership of the first caliphs and of the Sunni hadith corpus as authoritative alongside the Qur'an. It functions as an umbrella over several accepted theological orientations (the Ash'ari, Maturidi and Athari) and the recognized schools of law, rather than as a single school in its own right.",
+  "description": "Sunnism takes its name from the phrase Ahl al-Sunna wa-l-Jama'a, 'the people of the sunna (the normative practice of the Prophet) and of the jama'a (the united community)'. Modern scholarship describes it less as a doctrine fixed at a single moment than as an identity that formed over the first three Islamic centuries out of the political and theological controversies following the Prophet's death in 11/632, and that hardened into a self-conscious majority tendency by the fourth/tenth century. Two developments were decisive. First, in questions of communal leadership Sunnis came to accept the legitimacy of the historical succession of the first four 'rightly-guided' caliphs (Abu Bakr, 'Umar, 'Uthman and 'Ali), a position that distinguished them from the Shi'a, who held that authority belonged by designation to 'Ali and his descendants. Second, in the religious sciences Sunnis affirmed the authority of a large body of hadith transmitted through the wider community and validated by the developing discipline of hadith criticism; the gradual canonization of collections, above all the two Sahihs of al-Bukhari (d. 256/870) and Muslim (d. 261/875), gave Sunnism a shared textual foundation across its internal divisions. The formula ahl al-sunna wa-l-jama'a itself gained currency partly in the context of the mihna, the third/ninth-century inquisition over the createdness of the Qur'an, as the traditionists who resisted it identified their cause with the sunna and the community. As a mature tradition Sunnism is best understood as an umbrella. In theology it came to recognize, with varying degrees of mutual tension, three orientations as lying within the fold: the Ash'ari and Maturidi schools of kalam, which defend the creed with rational argument, and the Athari or traditionist orientation, which grounds it in scripture and transmitted report and is wary of kalam. In law it recognizes the four surviving schools (madhhabs), the Hanafi, Maliki, Shafi'i and Hanbali, as equally valid articulations of the sacred law. Sunnism thus contains, and to a degree unifies, the several theological and legal entities documented elsewhere in this dataset, without being reducible to any one of them, and its internal boundaries, which theological positions and which practices count as within Ahl al-Sunna, have themselves been the subject of dispute among Sunnis (for instance between kalam theologians and traditionists, and between the classical schools and modern Salafi claimants to the same title). It is the demographic majority of Muslims worldwide.",
+  "editorial_notes": "Per the neutrality policy (principles 1, 2 and 6), this entry represents Sunnism on its own terms and attributes contested claims rather than adjudicating them. The most sensitive contrast, with Shi'ism over the legitimacy of the early caliphate and the locus of religious authority, is stated as the position each side holds, not resolved; the Shi'i view is named as such and the shiism target is left dangling by design. Within Sunnism the entry is careful (principle 7) not to privilege any one internal orientation: the Ash'ari, Maturidi and Athari theologies are all presented as recognized within Ahl al-Sunna, and the fact that Sunnis themselves DISPUTE where the internal boundaries fall (kalam vs. traditionism; the classical schools vs. modern Salafi claims to the title) is flagged rather than settled. The jurisprudence/theology distinction is kept explicit: Sunnism is described as an UMBRELLA over both a set of THEOLOGICAL schools (ashariyya, maturidiyya, athariyya) and a set of LAW schools (the four madhhabs), and not as a school itself; Sufi SPIRITUALITY runs through it as a further cross-cutting dimension. The claim that Sunnism 'formed over three centuries' is the mainstream academic reconstruction (Hodgson; Brown); some within the tradition would describe Ahl al-Sunna as coextensive with the Prophet's community from the outset, and that framing is noted. Relation targets ashariyya, maturidiyya, athariyya and ahl-al-hadith are existing entries; shiism is dangling and allowed. Founding date is approximate and points to a process, not an event (see period note). Sourcing follows the three-lens principle (#8): a modern Western academic lens (Hodgson; Hallaq for the law schools), a contemporary Muslim scholar writing academically (J. Brown on the Sunni hadith canon), and a classical Muslim primary text widely received as a statement of Sunni creed (al-Tahawi's al-'Aqida al-Tahawiyya). All three were web-verified as existing works on this subject; none was read line-by-line in this pass, so confidence is set accordingly. No unverifiable lens remained.",
+  "period": {
+    "founded": 900,
+    "note": "Approximate, and a process rather than an event. Sunni identity formed across the 1st-3rd Islamic centuries (7th-9th c. CE) out of post-prophetic controversies and consolidated as a self-conscious majority tendency by roughly the 4th/10th century, the horizon the year given points to. The tradition remains active as the majority branch of Islam, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "related_to", "target": "ashariyya", "note": "The Ash'ari school of kalam is one of the theological orientations Sunnism recognizes within Ahl al-Sunna." },
+    { "type": "related_to", "target": "maturidiyya", "note": "The Maturidi school of kalam is a second recognized Sunni theological orientation, prevalent especially among Hanafis." },
+    { "type": "related_to", "target": "athariyya", "note": "The Athari (traditionist) orientation is the third orientation recognized within Ahl al-Sunna, grounding creed in scripture and transmitted report rather than kalam." },
+    { "type": "related_to", "target": "ahl-al-hadith", "note": "The Ahl al-Hadith / traditionists helped define Ahl al-Sunna wa-l-Jama'a, notably in resisting the mihna over the createdness of the Qur'an." },
+    { "type": "holds", "target": "khatam-al-nabiyyin", "note": "Affirms, with the broader tradition, the finality of Muhammad's prophethood alongside acceptance of the Sunni hadith corpus and the early caliphate." },
+    { "type": "opposed", "target": "shiism", "note": "Contrasts with Shi'ism over the legitimacy of the first caliphs and the locus of post-prophetic authority; each side's position is stated, not adjudicated (dangling target)." },
+    { "type": "opposed", "target": "kharijites", "note": "Distinguished historically from the Kharijites, who rejected the arbitration and excommunicated Muslims over grave sin; Ahl al-Sunna took a more inclusive stance on the sinning believer." }
+  ],
+  "sources": [
+    {
+      "citation": "Hodgson, Marshall G. S. The Venture of Islam: Conscience and History in a World Civilization, 3 vols. University of Chicago Press, 1974. On the formation and character of Sunni ('Shari'a-minded') Islam within the wider Islamicate civilization.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/V/bo3643093.html",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hallaq, Wael B. The Origins and Evolution of Islamic Law. Cambridge University Press, 2005; and A History of Islamic Legal Theories, Cambridge University Press, 1997. On the formation of the Sunni schools of law (madhhabs).",
+      "url": "https://www.cambridge.org/core/books/origins-and-evolution-of-islamic-law/2E95FE694D857A258433161055841F54",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. The Canonization of al-Bukhari and Muslim: The Formation and Function of the Sunni Hadith Canon. Brill (Islamic History and Civilization 69), 2007. A contemporary Muslim scholar's study of how the Sahihayn became the shared textual foundation of Sunnism.",
+      "url": "https://brill.com/display/title/13718",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tahawi, Abu Ja'far. al-'Aqida al-Tahawiyya (Bayan al-Sunna wa-l-Jama'a), 4th/10th c. A concise creed widely received across Sunnism as a statement of the belief of Ahl al-Sunna wa-l-Jama'a. Multiple English translations exist (e.g. Hamza Yusuf, The Creed of Imam al-Tahawi).",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

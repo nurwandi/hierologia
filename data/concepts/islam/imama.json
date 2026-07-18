@@ -1,0 +1,60 @@
+{
+  "id": "imama",
+  "tradition": "islam",
+  "names": {
+    "primary": "Imamate",
+    "original": "الإمامة",
+    "transliteration": "al-imāma",
+    "aliases": ["Imamah", "Imamate", "the Imamate", "leadership of the community", "Imamate of the Imams"]
+  },
+  "category": "leadership and authority",
+  "summary": "The Imamate (imama) is the doctrine of the leadership of the Muslim community after the Prophet Muhammad. In the Shi'i traditions it is a central and defining doctrine, holding that the imam is a divinely guided, designated, and (in Twelver and Isma'ili doctrine) infallible successor from the Prophet's family; it is commonly contrasted with the Sunni conception of the caliphate (khilafa) as a leadership chosen by or on behalf of the community.",
+  "description": "Imama ('leadership', 'the Imamate') is the doctrine concerning who succeeds the Prophet Muhammad in leading the Muslim community and on what basis. Across the tradition the term also carries the general sense of leading (as in leading the prayer), but as a theological doctrine it names the disputed question of legitimate authority after prophecy has closed. The Shi'i traditions treat the Imamate as a foundational and defining doctrine: on this understanding the imam is not merely a political ruler but a divinely guided religious authority, designated (by nass) by the Prophet or the preceding imam rather than chosen by the community, drawn from the family of the Prophet (ahl al-bayt) through Ali and Fatima, and, in Twelver and Isma'ili doctrine, protected from error and sin (isma, infallibility). In Twelver Shi'ism the line runs through twelve imams ending in one held to be in occultation; the necessity and proofs of the Imamate are gathered in Shi'i primary sources such as al-Kulayni's Kitab al-Hujja and al-Shaykh al-Mufid's Kitab al-Irshad. The Sunni tradition, by contrast, generally frames post-prophetic leadership as the caliphate (khilafa) or imama in a different sense: an office of the community, filled by consultation, allegiance (bay'a), or the agreement of qualified electors, whose holder administers religion and worldly affairs but is not held to be divinely designated or infallible. The Ibadi tradition developed yet another account, in which the imam is chosen for qualification rather than lineage and the community may under conditions live without a manifest imam. The disagreement over the Imamate, whether authority after the Prophet is a divine designation or a communal office, is one of the deepest divisions in Islamic thought, and the traditions articulate and defend their positions from distinct bodies of scripture, hadith, and reasoning.",
+  "editorial_notes": "This concept sits at the center of a confessionally sensitive dispute, and per neutrality principles #1, #2, #6, and #7 it presents each tradition's account on its own terms and attributes it, without adjudicating which is correct. The Shi'i doctrine (divine designation, descent from the Prophet's family, infallibility, occultation of the twelfth imam) and the Sunni conception (a community-chosen caliphate) are set side by side as attributed positions, marked by phrasing such as 'on this understanding', 'held to be', and 'the tradition frames'; the editor takes no view on the succession question. The Ibadi account is included so the concept is not reduced to a Sunni/Shi'i binary. This concept entry closes the last dangling relation target from the Shi'i school entries written in the same pass (shiism and ithna-ashariyya both hold imama). Per neutrality principle #8, sources triangulate a Western academic lens (Madelung), Shi'i classical primary texts read as the tradition's own voice (al-Kulayni's Kitab al-Hujja and al-Shaykh al-Mufid's Kitab al-Irshad), and a leading contemporary Shi'i scholar (Tabataba'i). None was read page by page for this draft, so confidence is set accordingly. The contrast with the Sunni caliphate is expressed via contrasts_with khilafa, a dangling target (entry not yet written), which is allowed.",
+  "relations": [
+    { "type": "related_to", "target": "isma", "note": "In Twelver and Isma'ili doctrine the imam is held to possess 'isma (infallibility), protection from error and sin." },
+    { "type": "related_to", "target": "ali", "note": "In Shi'i doctrine Ali ibn Abi Talib is the first imam and the Prophet's divinely designated successor." },
+    { "type": "related_to", "target": "nubuwwa", "note": "The Imamate is framed as the continuation of divine guidance after the close of prophethood (nubuwwa); the imam guides after the prophet, without adding to revelation." },
+    { "type": "part_of", "target": "shiism", "note": "A central and defining doctrine of the Shi'i traditions; held by Shi'ism as an umbrella." },
+    { "type": "part_of", "target": "ithna-ashariyya", "note": "In Twelver Shi'ism the Imamate is a foundational principle of religion, articulated as the line of twelve imams." },
+    { "type": "contrasts_with", "target": "khilafa", "note": "Commonly contrasted with the Sunni conception of the caliphate (khilafa) as a leadership chosen by or on behalf of the community rather than divinely designated. Target entry not yet written." }
+  ],
+  "historical_period": {
+    "start": 632,
+    "note": "The doctrine arises from the succession dispute following the Prophet's death in 632 CE (11 AH) and is elaborated across subsequent centuries; it remains a live and defining doctrine, especially in the Shi'i traditions."
+  },
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. Religious Trends in Early Islamic Iran. Albany, NY: Bibliotheca Persica, 1988. Academic monograph treating the early articulation of the Imamate in Imami, Zaydi, and Isma'ili Shi'ism; Madelung traces the developed Imamate theory to Hisham ibn al-Hakam. Specific claims not page-verified for this draft.",
+      "url": "https://books.google.com/books/about/Religious_Trends_in_Early_Islamic_Iran.html?id=ehrk8ckWNYoC",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Kulayni, Muhammad ibn Ya'qub (d. 329/941). al-Kafi, Kitab al-Hujja (the Book of the Proof), in Usul al-Kafi. The section of the foremost Twelver hadith collection devoted to the necessity, designation, and proofs of the Imamate. Classical Shi'i primary source; relevant sections not read directly in translation for this draft.",
+      "url": "https://en.wikishia.net/view/Al-Kafi_(book)",
+      "license": "Classical primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Shaykh al-Mufid, Muhammad ibn Muhammad al-Nu'man (d. 413/1022). Kitab al-Irshad (The Book of Guidance into the Lives of the Twelve Imams). Trans. I. K. A. Howard. London: Muhammadi Trust / Balagha, 1981. Sets out the designation (nass) of each imam; a classical Shi'i primary statement of the Imamate. Not read line by line for this draft.",
+      "url": "https://en.wikipedia.org/wiki/Kitab_al-Irshad",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tabataba'i, Muhammad Husayn. Shi'ite Islam. Trans. and ed. Seyyed Hossein Nasr. Albany: State University of New York Press, 1975. A leading contemporary Shi'i scholar's exposition of the Imamate as a foundational doctrine in the tradition's own voice. Specific claims not page-verified for this draft.",
+      "url": "https://www.goodreads.com/book/show/20155427-shi-ite-islam",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

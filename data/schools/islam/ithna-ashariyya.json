@@ -1,0 +1,59 @@
+{
+  "id": "ithna-ashariyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Twelver Shi'ism",
+    "original": "الإثنا عشرية",
+    "transliteration": "al-Ithnā ʿAshariyya",
+    "aliases": ["Ithna 'Ashariyya", "Imamiyya", "Imami Shi'ism", "Twelvers", "Ja'fariyya", "Ja'fari school", "Ithna Ashari"]
+  },
+  "summary": "Twelver Shi'ism (Ithna 'Ashariyya, or Imamiyya) is the largest Shi'i school, holding that religious authority after the Prophet passed through a line of twelve divinely designated and infallible Imams beginning with Ali ibn Abi Talib and ending with a twelfth Imam who is held to be in occultation (ghayba) and awaited as the eschatological restorer. Its school of law is the Ja'fari school, named for the sixth Imam, Ja'far al-Sadiq.",
+  "description": "The Ithna 'Ashariyya ('the Twelvers'), also called the Imamiyya, is the largest of the Shi'i traditions. It holds that the Prophet Muhammad was succeeded, by divine designation (nass), by Ali ibn Abi Talib as the first Imam, and that the Imamate then passed by explicit designation through a line of his descendants: a total of twelve Imams, beginning with Ali and his sons al-Hasan and al-Husayn, and continuing to the twelfth. In Twelver doctrine each Imam is held to be divinely guided and protected from error and sin (isma, infallibility), so that the Imam is an authoritative guide in religion and an interpreter of revelation after the close of prophecy. The distinguishing feature of the school is its account of the twelfth Imam, Muhammad al-Mahdi, held to have entered a state of occultation (ghayba): a 'lesser occultation' during which he was represented by deputies, followed by a 'greater occultation' continuing to the present, at the end of which he is awaited as the Mahdi who will establish justice. Twelver hadith is transmitted through the Imams and gathered in collections such as al-Kulayni's al-Kafi, whose Kitab al-Hujja treats the necessity and proofs of the Imamate; the school's jurisprudence is the Ja'fari madhhab, associated with the sixth Imam Ja'far al-Sadiq (d. 148/765), under whose teaching much of Imami law and hadith took form. In systematic theology, the Twelver tradition treats the Imamate (imama) as a foundational principle of religion and, on divine justice, holds adl in a manner close to the Mu'tazila; it developed a sophisticated theological literature through scholars such as al-Shaykh al-Mufid (d. 413/1022), whose Kitab al-Irshad narrates the lives of the twelve Imams. Twelver Shi'ism is today the majority tradition in Iran and Iraq and is a substantial presence in Lebanon, Bahrain, and elsewhere.",
+  "editorial_notes": "This is a confessionally sensitive entry and, per neutrality principles #1, #2, and #7, it describes the school on its own terms and attributes its distinctive claims to it rather than adjudicating them. The claims of divine designation (nass) of the Imams, their infallibility (isma), and the occultation (ghayba) of the twelfth Imam are presented as the doctrine of the Twelver tradition, marked by phrasing such as 'holds', 'in Twelver doctrine', and 'held to be', and are not endorsed or refuted by the editor. The number and line of the Imams distinguishes this school from other Shi'i branches (Isma'ili, Zaydi); that difference is noted in the parent Shi'ism entry without ranking. Death dates for Ja'far al-Sadiq (148/765) and al-Shaykh al-Mufid (413/1022) follow standard scholarly usage. Per neutrality principle #8, three source lenses are triangulated: Momen (Western academic Islamic studies), two classical Shi'i primary texts read as the tradition's own voice, al-Kulayni's al-Kafi (Kitab al-Hujja) and al-Shaykh al-Mufid's Kitab al-Irshad, and Tabataba'i's Shi'ite Islam (a leading contemporary Shi'i scholar). None of the cited works was read page by page for this draft, so confidence is set accordingly. The relation key_figure jafar-al-sadiq is a dangling target (entry not yet written), which is allowed; part_of shiism and holds imama, isma, and adl point to existing or companion entries.",
+  "period": {
+    "founded": 765,
+    "note": "No single founding date; the school's doctrine and law took decisive shape around the teaching of the sixth Imam Ja'far al-Sadiq (d. 148/765), and its distinctive Twelver identity crystallized after the occultation of the twelfth Imam (conventionally 260/874) and the theological work of the Buyid-era scholars. The school remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "split_from", "target": "shiism", "note": "The Twelver (Imami) school is the largest branch under the broader Shi'i umbrella; 'split_from' marks it as a specification within Shi'ism rather than a separate origin." },
+    { "type": "holds", "target": "imama", "note": "The Imamate of twelve divinely designated Imams; a foundational principle of religion in Twelver doctrine." },
+    { "type": "holds", "target": "isma", "note": "The infallibility ('isma') of the Imams, held to protect them from error and sin." },
+    { "type": "holds", "target": "adl", "note": "Divine justice ('adl); the Twelver tradition holds it in a manner close to the Mu'tazila." },
+    { "type": "key_figure", "target": "jafar-al-sadiq", "note": "Ja'far al-Sadiq (d. 148/765), the sixth Imam, eponym of the Ja'fari school of law; entry not yet written." },
+    { "type": "related_to", "target": "ali", "note": "Ali ibn Abi Talib, the first of the twelve Imams." }
+  ],
+  "sources": [
+    {
+      "citation": "Momen, Moojan. An Introduction to Shi'i Islam: The History and Doctrines of Twelver Shi'ism. New Haven: Yale University Press, 1985. Academic monograph on the history and doctrine of Twelver Shi'ism, including the Imamate and the occultation. Specific claims not page-verified for this draft.",
+      "url": "https://openlibrary.org/books/OL2550209M/An_introduction_to_Shi%CA%BBi_Islam",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Kulayni, Muhammad ibn Ya'qub (d. 329/941). al-Kafi, Kitab al-Hujja (the Book of the Proof), in Usul al-Kafi. The foremost of the Four Books of Twelver hadith; Kitab al-Hujja gathers traditions on the necessity, designation, and proofs of the Imamate. Classical Shi'i primary source; relevant sections not read directly in translation for this draft.",
+      "url": "https://en.wikishia.net/view/Al-Kafi_(book)",
+      "license": "Classical primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Shaykh al-Mufid, Muhammad ibn Muhammad al-Nu'man (d. 413/1022). Kitab al-Irshad (The Book of Guidance into the Lives of the Twelve Imams). Trans. I. K. A. Howard. London: Muhammadi Trust / Balagha, 1981. The earliest surviving connected biography of the twelve Imams, treating the designation (nass) of each. Classical Shi'i primary source in translation; not read line by line for this draft.",
+      "url": "https://en.wikipedia.org/wiki/Kitab_al-Irshad",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tabataba'i, Muhammad Husayn. Shi'ite Islam. Trans. and ed. Seyyed Hossein Nasr. Albany: State University of New York Press, 1975. A leading contemporary Twelver Shi'i scholar's account of the Imamate, the twelve Imams, and the occultation in the tradition's own voice. Specific claims not page-verified for this draft.",
+      "url": "https://www.goodreads.com/book/show/20155427-shi-ite-islam",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}
