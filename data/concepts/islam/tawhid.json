@@ -13,7 +13,7 @@
   "category": "theology-proper",
   "summary": "Tawhid is the Islamic doctrine of the absolute oneness and uniqueness of God (Allah). It is the foundational principle of Islamic theology, from which most other doctrines are derived.",
   "description": "Tawhid affirms that God is one, without partner, peer, or division, and that nothing shares in His essence, attributes, or acts of worship. Classical theologians commonly distinguished several dimensions of the doctrine, the oneness of God's lordship (rububiyya), the oneness of His divinity and the worship due to Him (uluhiyya), and the oneness of His names and attributes (al-asma wa-l-sifat). The precise formulation of the attributes became a central point of debate among the theological schools, most prominently between the Mu'tazila, who emphasized divine transcendence and read the attributes figuratively, and the Ash'ariyya, who affirmed the attributes while denying resemblance to creation. Tawhid stands in direct opposition to shirk, the association of partners with God.",
-  "editorial_notes": "Scope of this entry is deliberately introductory: it names the classical tripartite framing (rububiyya / uluhiyya / al-asma wa-l-sifat) without adjudicating between schools, per the neutrality policy. The rububiyya/uluhiyya/asma-wa-sifat division is widely used but was systematized relatively late; a dedicated entry per dimension is a candidate for expansion. Attribute debate is only gestured at here, see planned entries for al-asma-wa-l-sifat and the Mu'tazila/Ash'ari relations. Muslim/Islamic scholarly sources have been added for triangulation (neutrality principle #8): al-Māturīdī's Kitāb al-Tawḥīd and al-Ghazālī's al-Iqtiṣād fī al-Iʿtiqād, both classical primary texts on tawḥīd and the attributes, cited at medium confidence as their relevant passages were not read line-by-line. Per neutrality principle #9 the Encyclopaedia of Islam (Gimaret, EI2) reference-work citation was removed; the claims it backed rest on the Cambridge Companion (scholarly volume) and the two classical primary texts.",
+  "editorial_notes": "Scope of this entry is deliberately introductory: it names the classical tripartite framing (rububiyya / uluhiyya / al-asma wa-l-sifat) without adjudicating between schools, per the neutrality policy. The rububiyya/uluhiyya/asma-wa-sifat division is widely used but was systematized relatively late; a dedicated entry per dimension is a candidate for expansion. Attribute debate is only gestured at here, see planned entries for al-asma-wa-l-sifat and the Mu'tazila/Ash'ari relations. Muslim/Islamic scholarly sources have been added for triangulation (neutrality principle #8): al-Māturīdī's Kitāb al-Tawḥīd and al-Ghazālī's al-Iqtiṣād fī al-Iʿtiqād, both classical primary texts on tawḥīd and the attributes, cited at medium confidence as their relevant passages were not read line-by-line. Per neutrality principle #9 the Encyclopaedia of Islam (Gimaret, EI2) reference-work citation was removed; the claims it backed rest on the Cambridge Companion (scholarly volume) and the two classical primary texts. Third-lens pass (2026-07-18): a modern/contemporary Muslim scholarly source has been added, Fazlur Rahman's Major Themes of the Qur'ān, whose opening chapter 'God' treats Qurʾanic divine unity (tawḥīd) directly. The entry now triangulates three lenses: Western academic (the Cambridge Companion), the tradition's own classical primary texts (al-Māturīdī, al-Ghazālī), and a modern Muslim scholar (Rahman), which converge on the affirmation of God's absolute oneness in essence, attributes, and worship as the foundational Islamic doctrine, standing against shirk, while the school-level attribute debate is left unadjudicated.",
   "relations": [
     {
       "type": "contrasts_with",
@@ -54,9 +54,16 @@
       "license": "Proprietary translation; classical Arabic text public domain. Cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'ān. 2nd ed. Chicago: University of Chicago Press, 2009 (1st ed. Minneapolis: Bibliotheca Islamica, 1980). A monograph by a leading modern Muslim scholar; its opening chapter, 'God', expounds the Qurʾanic conception of divine unity (tawḥīd) and its rationality. Added as the modern Muslim scholarly lens on tawḥīd; cited at medium confidence as its relevant passages were not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"
