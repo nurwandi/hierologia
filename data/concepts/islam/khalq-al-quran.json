@@ -5,17 +5,36 @@
     "primary": "Khalq al-Qur'an",
     "original": "خلق القرآن",
     "transliteration": "khalq al-Qurʾān",
-    "aliases": ["Createdness of the Qur'an", "Creation of the Koran"]
+    "aliases": [
+      "Createdness of the Qur'an",
+      "Creation of the Koran"
+    ]
   },
   "category": "theology-proper",
   "summary": "Khalq al-Qur'an is the doctrine that the Qur'an is created (makhluq) rather than an eternal, uncreated attribute of God. The question of its createdness was the central issue of the mihna, the ninth-century Abbasid inquisition.",
   "description": "The dispute over khalq al-Qur'an concerns the ontological status of the Qur'an as divine speech (kalam Allah). The Mu'tazila and related rationalist theologians held that the Qur'an is created in time: since God alone is eternal, treating His speech as co-eternal with Him was, in their view, incompatible with strict divine oneness (tawhid) and risked positing a second eternal alongside God. Traditionist scholars (ahl al-hadith), by contrast, held that the Qur'an is the uncreated word of God, an eternal attribute of His essence.\n\nThe controversy became a matter of state under the Abbasid caliph al-Ma'mun, who in 218/833 instituted the mihna, an examination in which judges, scholars, and officials were required to profess that the Qur'an was created. The policy was continued by his successors al-Mu'tasim and al-Wathiq before being abandoned under al-Mutawakkil around 234/848–849. The traditionist scholar Ahmad ibn Hanbal (d. 241/855) became the emblematic figure of resistance to the doctrine; in later Sunni memory his refusal to affirm createdness under interrogation is celebrated as a defense of the uncreated Qur'an.\n\nModern scholarship has debated the intellectual and political origins of the doctrine and of al-Ma'mun's decision to enforce it, including the extent to which it drew on earlier Jahmi and Mu'tazili positions and how far it was driven by the caliph's assertion of religious authority. The eventual failure of the mihna is often read as a turning point that strengthened the authority of the traditionist camp within Sunnism, though the connections between the doctrinal and political dimensions remain a subject of scholarly discussion.",
-  "editorial_notes": "This entry scopes the concept around the classical Sunni framing (created vs. uncreated speech of God) and the mihna, the historical episode through which the dispute is most often studied. It names the Mu'tazili/rationalist and traditionist positions without adjudicating between them, per the neutrality policy. Later Maturidi and Ash'ari refinements, especially the distinction between God's eternal inner speech (kalam nafsi) and its created expression, are only implied here and are candidates for a dedicated entry. The precise motives behind al-Ma'mun's mihna are explicitly flagged as contested in the secondary literature (see Nawas and Madelung); this entry reports the dispute without resolving it. Dates are given in both hijri and CE where the sources supply them. Muslim/Islamic scholarly sources have been added for triangulation and balanced coverage (neutrality principles #7 and #8): al-Ṭaḥāwī's al-ʿAqīda al-Ṭaḥāwiyya for the traditionist affirmation of the uncreated Qur'an from within the tradition, and al-Shahrastānī's heresiography Kitāb al-Milal wa-l-Niḥal for its classical survey of the disputing positions; both cited at medium confidence as their relevant passages were not read line-by-line.",
+  "editorial_notes": "This entry scopes the concept around the classical Sunni framing (created vs. uncreated speech of God) and the mihna, the historical episode through which the dispute is most often studied. It names the Mu'tazili/rationalist and traditionist positions without adjudicating between them, per the neutrality policy. Later Maturidi and Ash'ari refinements, especially the distinction between God's eternal inner speech (kalam nafsi) and its created expression, are only implied here and are candidates for a dedicated entry. The precise motives behind al-Ma'mun's mihna are explicitly flagged as contested in the secondary literature (see Nawas and Madelung); this entry reports the dispute without resolving it. Dates are given in both hijri and CE where the sources supply them. Muslim/Islamic scholarly sources have been added for triangulation and balanced coverage (neutrality principles #7 and #8): al-Ṭaḥāwī's al-ʿAqīda al-Ṭaḥāwiyya for the traditionist affirmation of the uncreated Qur'an from within the tradition, and al-Shahrastānī's heresiography Kitāb al-Milal wa-l-Niḥal for its classical survey of the disputing positions; both cited at medium confidence as their relevant passages were not read line-by-line. Per neutrality principle #9 the Encyclopaedia of Islam (Hinds, Miḥna, EI2) reference-work citation was removed; the surviving scholarly support is Madelung's book chapter and Nawas's IJMES article, alongside the two classical primary texts.",
   "relations": [
-    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "The status of the Qur'an turns on whether divine speech is an eternal attribute of God." },
-    { "type": "related_to", "target": "tawhid", "note": "The Mu'tazili argument for createdness appealed to strict divine oneness." },
-    { "type": "articulated_by", "target": "ahmad-ibn-hanbal", "note": "Emblematic traditionist opponent of the createdness doctrine during the mihna." },
-    { "type": "related_to", "target": "mutazila", "note": "The Mu'tazila are most associated with affirming the Qur'an's createdness." }
+    {
+      "type": "related_to",
+      "target": "al-asma-wa-l-sifat",
+      "note": "The status of the Qur'an turns on whether divine speech is an eternal attribute of God."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The Mu'tazili argument for createdness appealed to strict divine oneness."
+    },
+    {
+      "type": "articulated_by",
+      "target": "ahmad-ibn-hanbal",
+      "note": "Emblematic traditionist opponent of the createdness doctrine during the mihna."
+    },
+    {
+      "type": "related_to",
+      "target": "mutazila",
+      "note": "The Mu'tazila are most associated with affirming the Qur'an's createdness."
+    }
   ],
   "historical_period": {
     "start": 833,
@@ -23,13 +42,6 @@
     "note": "The mihna ran from 218/833 under al-Ma'mun to its abandonment under al-Mutawakkil c. 234/848–849; the underlying doctrinal debate predates and outlasts this window."
   },
   "sources": [
-    {
-      "citation": "Hinds, M. \"Miḥna.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/db/eieo",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
     {
       "citation": "Madelung, W. \"The Origins of the Controversy Concerning the Creation of the Koran.\" In Orientalia Hispanica, vol. I, ed. J. M. Barral. Leiden: E. J. Brill, 1974, pp. 504–525.",
       "license": "Proprietary, cited for reference.",
@@ -45,14 +57,12 @@
     },
     {
       "citation": "al-Ṭaḥāwī, Abū Jaʿfar Aḥmad. al-ʿAqīda al-Ṭaḥāwiyya (The Creed of al-Ṭaḥāwī). Widely translated classical Sunni creed stating that the Qur'an is the uncreated speech of God (kalām Allāh), representing the traditionist position within the createdness controversy.",
-      "url": "https://en.wikipedia.org/wiki/Al-Aqida_al-Tahawiyya",
       "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "al-Shahrastānī, Muḥammad ibn ʿAbd al-Karīm. Kitāb al-Milal wa-l-Niḥal. Partial English trans. A. K. Kazi and J. G. Flynn, Muslim Sects and Divisions, Kegan Paul International, 1984. Classical Muslim heresiography reporting the Muʿtazilī and traditionist positions on the createdness of the Qur'an among the sects.",
-      "url": "https://en.wikipedia.org/wiki/Al-Milal_wa_al-Nihal",
       "license": "Proprietary translation; classical Arabic text public domain. Cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
@@ -63,4 +73,3 @@
   "created": "2026-07-18",
   "updated": "2026-07-18"
 }
-

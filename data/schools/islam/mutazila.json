@@ -9,7 +9,7 @@
   },
   "summary": "The Mu'tazila were an early school of Islamic speculative theology (kalam) that sought a rationally coherent account of Islamic doctrine, distinguished above all by its insistence on divine unity understood as the identity of God's essence and attributes, and on divine justice understood to entail human free will.",
   "description": "The Mu'tazila emerged in Basra in the first half of the 2nd century AH (8th century CE), its founding conventionally traced to Wasil ibn 'Ata (d. 131/748), who according to the traditional account 'withdrew' (from which the name i'tizal is derived) from the circle of Hasan al-Basri over the status of the Muslim who commits a grave sin, holding such a person to occupy an 'intermediate position' between belief and unbelief. 'Amr ibn 'Ubayd is associated with the movement's early formation. Later thinkers such as Abu al-Hudhayl al-'Allaf, al-Nazzam, the Basran master al-Jubba'i (d. 303/915), and Qadi 'Abd al-Jabbar (d. 415/1025) systematized its doctrine. Muslim heresiographers summarize Mu'tazili teaching under five principles (al-usul al-khamsa): the unity of God (tawhid), divine justice ('adl), the promise and the threat (al-wa'd wa-l-wa'id), the intermediate position (al-manzila bayna al-manzilatayn), and commanding right and forbidding wrong (al-amr bi-l-ma'ruf wa-l-nahy 'an al-munkar). From tawhid the school argued that the divine attributes are not entities distinct from God's essence and, correspondingly, that the Qur'an is created rather than co-eternal with God; it also tended to deny that God can be seen with the eyes in the hereafter, in the interest of divine transcendence. From 'adl it argued that good and evil are objective and knowable by reason and that human beings are the genuine authors of their acts. The school enjoyed official favor during the mihna under the Abbasid caliph al-Ma'mun and his successors in the 3rd/9th century, but later lost its dominant position; its rationalist theology was subsequently opposed by the Ash'ariyya and other schools.",
-  "editorial_notes": "The founding narrative (Wasil's withdrawal from Hasan al-Basri over the grave sinner) is the traditional account preserved by later heresiographers and is reported here as such; scholars note variant and disputed versions of the episode, which this entry does not adjudicate. The formulation of the 'five principles' as a fixed set is itself a later systematization attributed in some sources to Abu al-Hudhayl rather than to Wasil. Dates are given in AH/CE where sources agree; the 131/748 death date for Wasil is well attested. Doctrinal relations (holds 'adl'/'khalq-al-quran', rejects 'ruyat-allah') reflect the school's characteristic positions as described in the cited surveys; individual Mu'tazili thinkers differed on details, and those targets are linked as concepts rather than as unanimous positions. Some relation targets (e.g. key figures beyond Wasil) are not yet separate entries in this dataset. Per the source-diversity principle, two classical Muslim heresiographies that treat the Muʿtazila directly, al-Shahrastānī's al-Milal wa-l-Niḥal and al-Ashʿarī's Maqālāt al-Islāmiyyīn, have been added alongside the Western reference works, at medium confidence (their relevant passages were verified to exist and to treat this school, but not read directly in this pass).",
+  "editorial_notes": "The founding narrative (Wasil's withdrawal from Hasan al-Basri over the grave sinner) is the traditional account preserved by later heresiographers and is reported here as such; scholars note variant and disputed versions of the episode, which this entry does not adjudicate. The formulation of the 'five principles' as a fixed set is itself a later systematization attributed in some sources to Abu al-Hudhayl rather than to Wasil. Dates are given in AH/CE where sources agree; the 131/748 death date for Wasil is well attested. Doctrinal relations (holds 'adl'/'khalq-al-quran', rejects 'ruyat-allah') reflect the school's characteristic positions as described in the cited surveys; individual Mu'tazili thinkers differed on details, and those targets are linked as concepts rather than as unanimous positions. Some relation targets (e.g. key figures beyond Wasil) are not yet separate entries in this dataset. Per the source-diversity principle, two classical Muslim heresiographies that treat the Muʿtazila directly, al-Shahrastānī's al-Milal wa-l-Niḥal and al-Ashʿarī's Maqālāt al-Islāmiyyīn, are retained at medium confidence (their relevant passages were verified to exist and to treat this school, but not read directly in this pass). Per the source-quality principle (neutrality #9), the two encyclopedia/reference entries previously cited (Gimaret's Encyclopaedia of Islam article and the Routledge Encyclopedia of Philosophy piece) have been removed, and R. M. Frank's monograph Beings and Their Attributes (SUNY Press, 1978), a study of the Basran Muʿtazila, has been added in their place.",
   "period": {
     "founded": 748,
     "note": "Approximate; conventionally dated to the activity of Wasil ibn 'Ata (d. 131/748) in Basra. The school remained influential into the 5th/11th century and beyond in some regions, so no active_until is asserted."
@@ -26,18 +26,11 @@
   ],
   "sources": [
     {
-      "citation": "Gimaret, D. \"Muʿtazila.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0822.xml",
-      "license": "Proprietary, cited for reference; text not reproduced.",
+      "citation": "Frank, Richard M. Beings and Their Attributes: The Teaching of the Basrian School of the Muʿtazila in the Classical Period. Albany: State University of New York Press, 1978. Academic monograph analyzing the metaphysics and theology of the Basran Muʿtazila (the school of al-Jubbaʾi and his successors).",
+      "url": "https://www.google.com/books/edition/Beings_and_Their_Attributes/Bb_FDnXrQD0C",
+      "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
       "confidence": "medium"
-    },
-    {
-      "citation": "\"Ash'ariyya and Mu'tazila.\" Routledge Encyclopedia of Philosophy (H052).",
-      "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/v-1",
-      "license": "Proprietary, cited for reference; consulted via muslimphilosophy.com mirror.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
     },
     {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
@@ -54,8 +47,7 @@
       "confidence": "medium"
     },
     {
-      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. Classical heresiography by a former Muʿtazilī; devotes an extended account to Muʿtazilī theologians and the divergence of their doctrines. Relevant passages not directly consulted in translation.",
-      "url": "https://en.wikipedia.org/wiki/Maqalat_al-Islamiyyin",
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. (ed. Hellmut Ritter, Istanbul, 1929-1933). Classical heresiography by a former Muʿtazilī; devotes an extended account to Muʿtazilī theologians and the divergence of their doctrines. Relevant passages not directly consulted in translation.",
       "license": "Primary source; cited for reference, not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"

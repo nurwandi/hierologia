@@ -9,7 +9,7 @@
   },
   "summary": "The Murji'a were an early Islamic movement that suspended (irjaʾ) judgment on the ultimate fate of the Muslim who commits a grave sin, deferring that verdict to God, and tended to treat faith (iman) as distinct from, and unimpaired by, works.",
   "description": "The Murji'a emerged in the first century AH (later 7th–early 8th century CE) amid the disputes over the status of participants in the early civil wars (fitna) and, more broadly, over how sin bears on a person's standing as a believer. The name derives from the Arabic root r-j-ʾ, understood in the sense of 'to postpone' or 'defer' (irjaʾ): rather than pronouncing the grave sinner (murtakib al-kabira) either a believer bound for paradise or an unbeliever bound for hell, the Murji'a characteristically held that judgment on such a person should be deferred to God on the Day of Judgment. Correlatively, many Murji'a defined faith (iman) primarily as inner assent or confession, held to be complete in itself and not augmented or nullified by works ('amal); on this view a Muslim who sinned gravely remained a believer, though a disobedient one. This position was articulated in explicit contrast to the Kharijites, who declared the grave sinner an unbeliever, and it also differed from the later Mu'tazila, who assigned the grave sinner an 'intermediate position' (al-manzila bayna al-manzilatayn). The movement was not a single organized body but a spectrum of positions and sub-groups; some formulations were later regarded as moderate and were partly absorbed into emerging Sunni orthodoxy, while others were criticized by opponents as excusing wrongdoing or as politically quietist toward unjust rulers. Because the group is known largely through the reports and refutations of its opponents and through later heresiographical literature, the boundaries and internal diversity of the Murji'a are difficult to reconstruct with precision.",
-  "editorial_notes": "This entry is deliberately introductory and treats the Murji'a as a spectrum of related positions rather than a unified sect, following the caution common in the scholarly literature. The etymology of the name is itself contested in the sources, 'irjaʾ' can be read as 'postponement (of judgment)' or, in some early formulations, as 'giving hope', and this entry foregrounds the more widely cited 'deferral' reading without adjudicating the dispute. A significant source-critical caveat applies to all three early kalam groups drafted here (Murji'a, Kharijites, Qadariyya): they are known substantially through the polemics of their opponents and through later heresiographers (e.g. al-Ashʿari, al-Shahrastani), so attributions of specific doctrines to named individuals should be treated with caution. Relations are asserted at the level of doctrinal contrast (with the Kharijites and Mu'tazila) and topical linkage (to iman and kufr); the Mu'tazila school entry does not yet exist and is a dangling target. Per the source-diversity principle, two classical Muslim heresiographies that treat the Murjiʾa directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Ashʿarī's Maqālāt al-Islāmiyyīn, have been added at medium confidence (verified to treat the school but not read directly in this pass).",
+  "editorial_notes": "This entry is deliberately introductory and treats the Murji'a as a spectrum of related positions rather than a unified sect, following the caution common in the scholarly literature. The etymology of the name is itself contested in the sources, 'irjaʾ' can be read as 'postponement (of judgment)' or, in some early formulations, as 'giving hope', and this entry foregrounds the more widely cited 'deferral' reading without adjudicating the dispute. A significant source-critical caveat applies to all three early kalam groups drafted here (Murji'a, Kharijites, Qadariyya): they are known substantially through the polemics of their opponents and through later heresiographers (e.g. al-Ashʿari, al-Shahrastani), so attributions of specific doctrines to named individuals should be treated with caution. Relations are asserted at the level of doctrinal contrast (with the Kharijites and Mu'tazila) and topical linkage (to iman and kufr); the Mu'tazila school entry does not yet exist and is a dangling target. Per the source-diversity principle, two classical Muslim heresiographies that treat the Murjiʾa directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Ashʿarī's Maqālāt al-Islāmiyyīn, are retained at medium confidence (verified to treat the school but not read directly in this pass). Per the source-quality principle (neutrality #9), the two reference works previously cited (Madelung's Encyclopaedia of Islam article and the Encyclopaedia Britannica entry) have been removed; in their place a peer-reviewed journal article, Madelung's 'The early Murjiʾa in Khurāsān and Transoxania' (Der Islam, 1982), which treats the school directly, has been added.",
   "period": {
     "founded": 690,
     "note": "Approximate. The movement crystallized during the first century AH (roughly the later 7th and early 8th centuries CE); no single founding date or founder is securely attested, and the 690 CE figure is an editorial approximation, not a documented event."
@@ -22,13 +22,6 @@
   ],
   "sources": [
     {
-      "citation": "Madelung, W. \"Murd̲j̲iʾa.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/db/eieo",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
@@ -36,9 +29,9 @@
       "confidence": "high"
     },
     {
-      "citation": "\"Murjiʾah.\" Encyclopaedia Britannica.",
-      "url": "https://www.britannica.com/topic/Murjiah",
-      "license": "Proprietary, cited for reference; consulted for corroboration of dates and the faith/works framing.",
+      "citation": "Madelung, Wilferd. 'The early Murjiʾa in Khurāsān and Transoxania and the spread of Ḥanafism.' Der Islam 59, no. 1 (1982): 32-39. Peer-reviewed journal article on the early Murjiʾa, their doctrine, and their spread. DOI: 10.1515/islm.1982.59.1.32.",
+      "url": "https://doi.org/10.1515/islm.1982.59.1.32",
+      "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
@@ -50,8 +43,7 @@
       "confidence": "medium"
     },
     {
-      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. Classical heresiography; its survey of Muslim groups includes an account of the Murjiʾa and the varieties of their doctrine on faith and the grave sinner. Relevant passages not directly consulted in translation.",
-      "url": "https://en.wikipedia.org/wiki/Maqalat_al-Islamiyyin",
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. Classical heresiography; its survey of Muslim groups includes an account of the Murjiʾa and the varieties of their doctrine on faith and the grave sinner. Relevant passages not directly consulted in translation. (ed. Hellmut Ritter, Istanbul, 1929-1933.)",
       "license": "Primary source; cited for reference, not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"

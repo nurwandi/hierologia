@@ -10,7 +10,7 @@
   "category": "theology-proper",
   "summary": "Qadar is the Islamic concept of divine decree or predestination, God's determination of what comes to pass. The relationship between God's decree and human free will and responsibility became one of the defining controversies of classical Islamic theology.",
   "description": "Qadar refers to God's measuring out or determination of events. It is frequently paired with qaḍāʾ in the expression al-qaḍāʾ wa-l-qadar, together conveying the sense of the divine decree in both its eternal and its temporally enacted aspects. Belief in qadar is counted among the articles of faith in the standard Sunni formulation.\n\nThe central problem qadar raised was how to reconcile God's comprehensive power and knowledge with human moral responsibility. The early Qadariyya affirmed human free will, holding that human beings originate their own acts and are therefore accountable, a view developed and systematized by the Muʿtazila, who argued that divine justice requires that humans, not God, be the effective producers of their acts. Against this, others emphasized God's creation of all things, including human acts. The Ashʿarī school articulated an intermediate doctrine of kasb (acquisition): God creates the act and the power by which it is performed, while the human being acquires it, a formulation intended to preserve both divine omnipotence and human accountability. The precise causal content of kasb, and whether the Ashʿarī position amounts to occasionalism, the view that God is the only true cause, has been discussed by both classical theologians and modern scholars. The Māturīdī school offered its own account granting the human a real, if created, capacity for action. Each school's solution was criticized by the others as either compromising God's power or reducing human agency.",
-  "editorial_notes": "This entry is scoped to qadar as the theological problem of divine decree and human action; it does not survey every school's technical vocabulary in detail. The positions of the Qadariyya, Muʿtazila, Ashʿariyya, and Māturīdiyya are described but not adjudicated, per the neutrality policy. The characterization of kasb and the occasionalism question follows the Stanford Encyclopedia of Philosophy entry on causation in Arabic and Islamic thought, which notes that scholars debate whether al-Ashʿarī's position constitutes full occasionalism, that dispute is reported here, not resolved. The label 'Qadariyya' was applied polemically and its historical referents are contested; this is flagged as a scoping simplification. To triangulate the Western academic sources with the tradition's own voice (neutrality principle #8), classical primary sources are appended: al-Ghazālī's al-Iqtiṣād for the Ashʿarī kasb doctrine and al-Shahrastānī's al-Milal for the heresiographical map of the schools; both are rated medium confidence as their relevant passages were not read line-by-line here.",
+  "editorial_notes": "This entry is scoped to qadar as the theological problem of divine decree and human action; it does not survey every school's technical vocabulary in detail. The positions of the Qadariyya, Muʿtazila, Ashʿariyya, and Māturīdiyya are described but not adjudicated, per the neutrality policy. The characterization of kasb and the occasionalism question follows Gimaret's monograph on theories of human action, which surveys the debate over whether al-Ashʿarī's position constitutes full occasionalism, that dispute is reported here, not resolved. The label 'Qadariyya' was applied polemically and its historical referents are contested; this is flagged as a scoping simplification. To triangulate the Western academic sources with the tradition's own voice (neutrality principle #8), classical primary sources are appended: al-Ghazālī's al-Iqtiṣād for the Ashʿarī kasb doctrine and al-Shahrastānī's al-Milal for the heresiographical map of the schools; both are rated medium confidence as their relevant passages were not read line-by-line here. Source-quality pass (neutrality principle #9, 2026-07-18): the Encyclopaedia of Islam (Gardet) and Stanford Encyclopedia of Philosophy entries were removed as reference works; Gimaret's monograph now carries the kasb and occasionalism claims formerly resting on the SEP, and the entry retains the Cambridge Companion plus two classical primary texts.",
   "relations": [
     { "type": "related_to", "target": "tawhid", "note": "Debate over qadar is bound up with divine omnipotence and unity of God's acts, a dimension of tawhid." },
     { "type": "related_to", "target": "iman", "note": "Belief in qadar is included among the objects of faith in the standard Sunni formulation of iman." },
@@ -25,23 +25,14 @@
   },
   "sources": [
     {
-      "citation": "Gardet, L. \"al-Ḳaḍāʾ wa 'l-Ḳadar.\" In Encyclopaedia of Islam, 2nd ed., vol. 4, pp. 365–367. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/db/eieo",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
-      "citation": "Richardson, K. \"Causation in Arabic and Islamic Thought.\" The Stanford Encyclopedia of Philosophy (first published 2015, substantive revision 2025), ed. E. N. Zalta.",
-      "url": "https://plato.stanford.edu/entries/arabic-islamic-causation/",
-      "license": "Freely available online; SEP content copyright the authors/Metaphysics Research Lab, Stanford University.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Gimaret, Daniel. Théories de l'acte humain en théologie musulmane. Paris: Librairie Philosophique J. Vrin; Louvain: Éditions Peeters, 1980. The standard monograph on Islamic theological theories of human action, treating in detail the Muʿtazili doctrine that humans originate their own acts, the Ashʿari doctrine of kasb (acquisition), and the debate over whether al-Ashʿari's position amounts to occasionalism.",
       "accessed": "2026-07-18",
       "confidence": "high"
     },

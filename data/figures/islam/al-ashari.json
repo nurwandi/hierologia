@@ -10,7 +10,7 @@
   "roles": ["theologian", "jurist", "traditionist"],
   "summary": "Abu al-Hasan al-Ash'ari (c. 874–936 CE) was a theologian of Basra and Baghdad and the eponymous founder of the Ash'ariyya school of Sunni kalam. Trained in Mu'tazili theology, he broke with that school around midlife and developed a theology that affirmed the divine attributes while employing rational method.",
   "description": "Al-Ash'ari was born in Basra, reportedly a descendant of the Companion Abu Musa al-Ash'ari, and studied Mu'tazili theology under Abu 'Ali al-Jubba'i. Traditional accounts report that he remained a Mu'tazili until roughly his fortieth year, when he publicly repudiated the school; later Ash'ari tradition frames this break around a dream of the Prophet, a detail belonging to hagiographical narrative rather than documented biography. Against his former Mu'tazili teachers he affirmed that God possesses real, eternal attributes (such as knowledge, power, and speech) without asserting their resemblance to created things, and he rejected the Mu'tazili doctrine that the Qur'an is created. On the question of human action he is associated with the doctrine of kasb ('acquisition'), which holds that acts are created by God yet 'acquired' by the human agent, an attempt to reconcile divine omnipotence with human moral responsibility; the precise meaning of kasb was debated by later theologians, some of whom judged it difficult to distinguish from determinism. His method combined dialectical reasoning (kalam) with a commitment to the positions of Sunni traditionists, and the school named after him became, alongside the Maturidiyya, one of the two principal schools of Sunni theology.",
-  "editorial_notes": "Birth and death years (c. 260/874 – c. 324/936) are given as commonly reported; sources vary by a few years and the entry qualifies them as approximate. The account of al-Ash'ari's conversion via a dream is reported as tradition, not asserted as fact, per the neutrality policy. The scope, coherence, and interpretation of the kasb doctrine are genuinely disputed in the scholarship; this entry names the doctrine and the dispute without adjudicating it. The relation 'member_of mutazila' reflects his reported early affiliation, which he later abandoned. Attribution of specific doctrines to al-Ash'ari's own writings (e.g. Kitab al-Luma', al-Ibana) versus to the later school is a live text-critical question flagged here but not resolved. Muslim/Islamic scholarly sources have been added alongside the Western academic references (per neutrality principle #8): al-Ash'ari's own creedal work al-Ibana as a primary source (its attribution is itself debated) and Ibn 'Asakir's biographical Tabyin Kadhib al-Muftari.",
+  "editorial_notes": "Birth and death years (c. 260/874 – c. 324/936) are given as commonly reported; sources vary by a few years and the entry qualifies them as approximate. The account of al-Ash'ari's conversion via a dream is reported as tradition, not asserted as fact, per the neutrality policy. The scope, coherence, and interpretation of the kasb doctrine are genuinely disputed in the scholarship; this entry names the doctrine and the dispute without adjudicating it. The relation 'member_of mutazila' reflects his reported early affiliation, which he later abandoned. Attribution of specific doctrines to al-Ash'ari's own writings (e.g. Kitab al-Luma', al-Ibana) versus to the later school is a live text-critical question flagged here but not resolved. Muslim/Islamic scholarly sources have been added alongside the Western academic references (per neutrality principle #8): al-Ash'ari's own creedal work al-Ibana as a primary source (its attribution is itself debated) and Ibn 'Asakir's biographical Tabyin Kadhib al-Muftari. Per neutrality principle #9 (scholarship only), encyclopedia and tertiary sources were removed: the Routledge Encyclopedia of Philosophy article and the Britannica entry on kasb. The entry now rests on the Cambridge Companion chapter (edited scholarly volume), the primary al-Ibana, and Ibn 'Asakir's classical biography; Wikipedia locator URLs on the classical texts were also dropped.",
   "lifespan": {
     "birth": 874,
     "death": 936,
@@ -35,20 +35,6 @@
       "confidence": "high"
     },
     {
-      "citation": "\"Ashʿariyya and Muʿtazila,\" Routledge Encyclopedia of Philosophy.",
-      "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/",
-      "license": "Proprietary, cited for reference.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
-      "citation": "\"Kasb,\" Encyclopædia Britannica (on al-Ash'ari's doctrine of acquisition).",
-      "url": "https://www.britannica.com/topic/kasb",
-      "license": "Proprietary, cited for reference.",
-      "accessed": "2026-07-18",
-      "confidence": "medium"
-    },
-    {
       "citation": "Al-Ashʿarī, Abū al-Ḥasan. Al-Ibāna ʿan Uṣūl al-Diyāna. Primary source; a creedal work traditionally ascribed to al-Ashʿarī setting out his affirmation of the divine attributes and the uncreatedness of the Qurʾān. Its attribution and dating are debated in the scholarship (see editorial_notes).",
       "url": "http://www.ghazali.org/books/ibana.pdf",
       "license": "Public domain / classical text.",
@@ -57,7 +43,6 @@
     },
     {
       "citation": "Ibn ʿAsākir, Abū al-Qāsim ʿAlī ibn al-Ḥasan. Tabyīn Kadhib al-Muftarī fīmā Nusiba ilā al-Imām Abī al-Ḥasan al-Ashʿarī. A 6th/12th-century biographical defense of al-Ashʿarī covering his genealogy, conversion from Muʿtazilism, students, and doctrine.",
-      "url": "https://en.wikipedia.org/wiki/Tabyin_Kadhib_al-Muftari",
       "license": "Classical text; cited for reference (relevant passages not read line-by-line).",
       "accessed": "2026-07-18",
       "confidence": "medium"

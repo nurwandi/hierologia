@@ -9,7 +9,7 @@
   },
   "summary": "The Kharijites were the earliest identifiable schismatic movement in Islam, arising when a group seceded from ʿAli's camp over his acceptance of arbitration; they are associated with a rigorist doctrine that the Muslim who commits a grave sin thereby becomes an unbeliever (a form of takfir).",
   "description": "The Kharijites (Arabic al-Khawarij, 'those who go out' or secede) originated during the first civil war (fitna), when a faction withdrew from the army of the caliph ʿAli ibn Abi Talib after he agreed to human arbitration (tahkim) with Muʿawiya following the Battle of Siffin in 657 CE (37 AH). Their rallying slogan, 'judgment belongs to God alone' (la hukma illa li-llah), rejected the arbitration as a usurpation of divine prerogative; from this early stance they are also called al-Muhakkima, and, from their gathering-place, al-Haruriyya. Doctrinally, the Kharijites are most associated with a rigorist view of the relationship between action and faith: grave sin was widely held to expel a person from the community of believers, so that the grave sinner (murtakib al-kabira) is judged an unbeliever (kafir) rather than merely a disobedient Muslim, a stance that, in its more militant forms, licensed takfir (declaring other Muslims unbelievers) and armed opposition. This position stood in direct contrast to the Murji'a, who deferred judgment on the sinner, and to the Mu'tazila, who placed the grave sinner in an intermediate category. The movement was internally diverse and fragmented into sub-groups differing sharply in rigor, from the militant Azariqa, who extended takfir and violence broadly, to more restrained groups such as the Najadat and the Ibadiyya, the last of which survives to the present. Much of what is reported about Kharijite doctrine derives from hostile heresiographical and historical sources, and the label 'Kharijite' was also applied polemically, so care is required in attributing specific doctrines to specific groups.",
-  "editorial_notes": "This entry treats 'Kharijites' as a family of related groups rather than a single doctrine, and flags that the movement's own internal diversity (e.g. the militant Azariqa versus the quietist Ibadiyya) is substantial; it names this diversity without adjudicating which sub-group is 'representative.' The generalization that the grave sinner is an unbeliever holds broadly but not uniformly across all sub-groups, some moderated it, and the entry notes this rather than flattening it. A source-critical caveat applies: the Kharijites are known largely through the accounts of their opponents and later heresiographers, and the term was also used polemically against political rebels, which complicates doctrinal attribution. The takfir link is asserted as a topical relation; the 'takfir', 'mutazila', and 'ali' targets may not yet exist as entries (dangling targets are permitted). Per the source-diversity principle, two classical Muslim heresiographies that treat the Khawārij and their sub-groups directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Shahrastānī's al-Milal wa-l-Niḥal, have been added at medium confidence (verified to treat the school but not read directly in this pass).",
+  "editorial_notes": "This entry treats 'Kharijites' as a family of related groups rather than a single doctrine, and flags that the movement's own internal diversity (e.g. the militant Azariqa versus the quietist Ibadiyya) is substantial; it names this diversity without adjudicating which sub-group is 'representative.' The generalization that the grave sinner is an unbeliever holds broadly but not uniformly across all sub-groups, some moderated it, and the entry notes this rather than flattening it. A source-critical caveat applies: the Kharijites are known largely through the accounts of their opponents and later heresiographers, and the term was also used polemically against political rebels, which complicates doctrinal attribution. The takfir link is asserted as a topical relation; the 'takfir', 'mutazila', and 'ali' targets may not yet exist as entries (dangling targets are permitted). Per the source-diversity principle, two classical Muslim heresiographies that treat the Khawārij and their sub-groups directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Shahrastānī's al-Milal wa-l-Niḥal, are retained at medium confidence (verified to treat the school but not read directly in this pass). Per the source-quality principle (neutrality #9), the two reference works previously cited (Levi Della Vida's Encyclopaedia of Islam article and an Encyclopedia.com/Macmillan entry) have been removed; in their place a peer-reviewed journal article, Lewinstein's 'The Azāriqa in Islamic Heresiography' (BSOAS, 1991), which treats a Kharijite sub-group and the heresiographical record, has been added.",
   "period": {
     "founded": 657,
     "note": "The secession is conventionally dated to 657 CE (37 AH), after the arbitration at Siffin. This is a well-attested event; the earlier the doctrine is pushed as a systematic theology, the more approximate the dating becomes. Sub-groups remained active for centuries, and the Ibadiyya branch survives; no single 'active_until' is given."
@@ -23,13 +23,6 @@
   ],
   "sources": [
     {
-      "citation": "Levi Della Vida, G. \"K̲h̲ārid̲j̲ites.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill. DOI: 10.1163/1573-3912_islam_COM_0497.",
-      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0497.xml",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
@@ -37,9 +30,9 @@
       "confidence": "high"
     },
     {
-      "citation": "Higgins, A. C. \"Kharijites, Khawarij.\" In Encyclopedia of Islam and the Muslim World. Macmillan Reference USA (via Encyclopedia.com).",
-      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kharijites-khawarij",
-      "license": "Proprietary, cited for reference; consulted for corroboration of origins, sub-groups, and dates.",
+      "citation": "Lewinstein, Keith. 'The Azāriqa in Islamic Heresiography.' Bulletin of the School of Oriental and African Studies 54, no. 2 (1991): 251-268. Peer-reviewed journal article on the militant Azāriqa sub-group of the Khawārij and on how the heresiographers shaped the record of early Kharijite sectarianism.",
+      "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/azariqa-in-islamic-heresiography1/67410490930463A35628DA90F5D5E723",
+      "license": "Proprietary, cited for reference; not reproduced here.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },

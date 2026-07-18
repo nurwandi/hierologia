@@ -9,7 +9,7 @@
   },
   "summary": "The Qadariyya were early Islamic theologians of the Umayyad period who affirmed human free will and moral responsibility, holding that human beings originate their own acts rather than having them determined by God; their positions are widely regarded as a precursor to Mu'tazili theology.",
   "description": "The Qadariyya arose in the first century AH (later 7th–early 8th century CE), chiefly in Basra and Syria under the Umayyads. The name derives from qadar, the term for divine determining or 'power/measuring out'; it was applied to them by opponents, and its use is somewhat paradoxical, since the group is defined precisely by its emphasis on human rather than divine determination of acts. Against deterministic readings on which God creates and decrees all human actions, the Qadariyya held that human beings possess genuine free will and are the real authors of their own deeds, so that divine justice and human moral accountability are preserved. Early figures associated with these views include Maʿbad al-Juhani (d. c. 699 CE) in Basra and Ghaylan al-Dimashqi (executed under the Umayyads) in Syria; both are reported to have been persecuted, and their prominence in the sources is bound up with the political tensions between the doctrine of free will and Umayyad legitimist appeals to divine decree. The Qadariyya were not a tightly organized school so much as a tendency, and the sources debate the origins of their doctrine, including polemical claims of Christian influence. Their affirmation of human free will and of divine justice is generally treated in the scholarship as a doctrinal antecedent of the Mu'tazila, who systematized comparable positions in the following centuries. As with the other early kalam groups, much of the evidence comes from later and often hostile sources, so specific doctrines attributed to named individuals should be read with caution.",
-  "editorial_notes": "This entry presents the Qadariyya as a doctrinal tendency rather than an organized school, and treats the 'precursor to the Mu'tazila' framing as a widely held scholarly reading rather than a settled genealogy, the exact lines of transmission are debated in the sources and are not adjudicated here. The name 'Qadariyya' is itself an opponents' label and is noted as such. The attribution of specific free-will doctrines to Maʿbad al-Juhani and Ghaylan al-Dimashqi rests on later reports; Steven Judd's chapter explicitly discusses the difficulty of reconstructing their views and the polemical accusations (e.g. of Christian roots) surrounding the movement, so those attributions are flagged rather than asserted as certain. A general source-critical caveat applies across all three early groups drafted in this batch: they are known substantially through the polemics of their opponents and through later heresiography. The 'mutazila' and named-figure targets may not yet exist as entries (dangling targets are permitted). Per the source-diversity principle, two classical Muslim heresiographies that treat the free-will (qadar) doctrine and its holders directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Ashʿarī's Maqālāt al-Islāmiyyīn, have been added at medium confidence (verified to treat the school but not read directly in this pass).",
+  "editorial_notes": "This entry presents the Qadariyya as a doctrinal tendency rather than an organized school, and treats the 'precursor to the Mu'tazila' framing as a widely held scholarly reading rather than a settled genealogy, the exact lines of transmission are debated in the sources and are not adjudicated here. The name 'Qadariyya' is itself an opponents' label and is noted as such. The attribution of specific free-will doctrines to Maʿbad al-Juhani and Ghaylan al-Dimashqi rests on later reports; Steven Judd's chapter explicitly discusses the difficulty of reconstructing their views and the polemical accusations (e.g. of Christian roots) surrounding the movement, so those attributions are flagged rather than asserted as certain. A general source-critical caveat applies across all three early groups drafted in this batch: they are known substantially through the polemics of their opponents and through later heresiography. The 'mutazila' and named-figure targets may not yet exist as entries (dangling targets are permitted). Per the source-diversity principle, two classical Muslim heresiographies that treat the free-will (qadar) doctrine and its holders directly, al-Baghdādī's al-Farq bayn al-Firaq and al-Ashʿarī's Maqālāt al-Islāmiyyīn, are retained at medium confidence (verified to treat the school but not read directly in this pass). Per the source-quality principle (neutrality #9), the two reference works previously cited (van Ess's Encyclopaedia of Islam article and the Encyclopaedia Britannica entry) have been removed; the entry retains Judd's scholarly chapter in the Oxford Handbook of Islamic Theology (which treats the early Qadariyya directly), so no journal-article replacement was needed.",
   "period": {
     "founded": 690,
     "note": "Approximate. The tendency is documented in the later first century AH (roughly the 680s–690s CE onward) under the Umayyads; no single founding date or founder is securely attested, and 690 CE is an editorial approximation. Maʿbad al-Juhani died c. 699 CE."
@@ -22,25 +22,11 @@
   ],
   "sources": [
     {
-      "citation": "van Ess, J. \"Ḳadariyya.\" In Encyclopaedia of Islam, 2nd ed., vol. IV, pp. 368–372. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/db/eieo",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
       "citation": "Judd, S. C. \"The Early Qadariyya.\" In Sabine Schmidtke (ed.), The Oxford Handbook of Islamic Theology. Oxford University Press, 2016.",
       "url": "https://academic.oup.com/edited-volume/34345/chapter/291394498",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "high"
-    },
-    {
-      "citation": "\"Qadariyyah.\" Encyclopaedia Britannica.",
-      "url": "https://www.britannica.com/topic/Qadariyyah",
-      "license": "Proprietary, cited for reference; consulted for corroboration of dates, figures, and the Mu'tazila linkage.",
-      "accessed": "2026-07-18",
-      "confidence": "medium"
     },
     {
       "citation": "al-Baghdādī, ʿAbd al-Qāhir ibn Ṭāhir. al-Farq bayn al-Firaq (The Difference between the Sects), 5th/11th c. Trans. (Part II) K. C. Seelye and A. S. Halkin as Moslem Schisms and Sects, New York: Columbia University Press / AMS Press, 1919–1935. Classical Muslim heresiography that treats the Qadariyya and the free-will doctrine on human acts.",
@@ -50,8 +36,7 @@
       "confidence": "medium"
     },
     {
-      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. Classical heresiography; reports the doctrines of those who affirmed human origination of acts (qadar), a body of positions associated with the Qadariyya and taken up by the Muʿtazila. Relevant passages not directly consulted in translation.",
-      "url": "https://en.wikipedia.org/wiki/Maqalat_al-Islamiyyin",
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-Ikhtilāf al-Muṣallīn, early 4th/10th c. Classical heresiography; reports the doctrines of those who affirmed human origination of acts (qadar), a body of positions associated with the Qadariyya and taken up by the Muʿtazila. Relevant passages not directly consulted in translation. (ed. Hellmut Ritter, Istanbul, 1929-1933.)",
       "license": "Primary source; cited for reference, not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"

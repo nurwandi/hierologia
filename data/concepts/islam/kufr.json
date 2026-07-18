@@ -10,7 +10,7 @@
   "category": "theology-proper",
   "summary": "Kufr is the Islamic concept of unbelief, understood not merely as the absence of faith but as the rejection or concealment of a truth held to be established. It is the antithesis of iman, and the practice of declaring a person guilty of it (takfīr) has been theologically contested since the earliest period.",
   "description": "The root of the term kufr carries the sense of covering or concealing, and in theological usage it came to denote the active rejection, denial, or ingratitude toward God and the truths conveyed by revelation. One who is in this state is a kāfir (unbeliever), the counterpart of the muʾmin (believer). Because kufr marks the boundary of the community of faith, its definition is inseparable from the definition of iman.\n\nThe act of pronouncing another person an unbeliever is called takfīr. This practice generated sustained debate, most sharply provoked by the Khārijites, who held that a Muslim committing a major sin thereby fell into kufr. Their opponents resisted this, and much subsequent theology was devoted to defining precisely what constitutes kufr as opposed to mere sin or disobedience. A distinction is commonly drawn in later theological literature between major unbelief (kufr akbar), which places a person outside the fold of Islam, and lesser or metaphorical uses of the term (sometimes labeled kufr aṣghar) that denote grave ingratitude or sin without entailing apostasy. The scholarly consensus that developed in mainstream Sunni theology was generally cautious about takfīr, restricting it to clear denials of established doctrine.",
-  "editorial_notes": "This entry treats kufr as a theological category and its relation to takfīr; it does not cover the legal consequences historically attached to apostasy, nor contemporary sectarian applications of takfīr, which fall outside the neutrality policy's scope on present-day disputes. The major/lesser (akbar/aṣghar) distinction is widely reported in theological literature but is drawn with varying terminology across schools and is summarized here at a general level. The historically detailed treatment of takfīr's development draws on the Brill edited volume cited below, whose relevance to the general claims is high; its support for the specific akbar/aṣghar terminology as used here is marked medium. To triangulate the Western academic sources with the tradition's own heresiographical literature (neutrality principle #8), al-Baghdādī's al-Farq bayn al-Firaq is appended at medium confidence for the Khārijite takfīr positions; its relevant passages were not read line-by-line here.",
+  "editorial_notes": "This entry treats kufr as a theological category and its relation to takfīr; it does not cover the legal consequences historically attached to apostasy, nor contemporary sectarian applications of takfīr, which fall outside the neutrality policy's scope on present-day disputes. The major/lesser (akbar/aṣghar) distinction is widely reported in theological literature but is drawn with varying terminology across schools and is summarized here at a general level. The historically detailed treatment of takfīr's development draws on the Brill edited volume cited below, whose relevance to the general claims is high; its support for the specific akbar/aṣghar terminology as used here is marked medium. To triangulate the Western academic sources with the tradition's own heresiographical literature (neutrality principle #8), al-Baghdādī's al-Farq bayn al-Firaq is appended at medium confidence for the Khārijite takfīr positions; its relevant passages were not read line-by-line here. Source-quality pass (neutrality principle #9, 2026-07-18): the Encyclopaedia of Islam (Björkman) entry and the Institute for Advanced Study web piece were removed as a reference work and a popular web source respectively; the entry now rests on one scholarly edited volume (Adang et al.) plus one classical primary text.",
   "relations": [
     { "type": "contrasts_with", "target": "iman", "note": "Kufr (unbelief) is the direct opposite of iman (belief); the two concepts are defined in relation to each other." },
     { "type": "contrasts_with", "target": "tawhid", "note": "Association of partners with God (shirk) is a paradigmatic form of kufr, standing against the affirmation of divine unity." },
@@ -23,25 +23,11 @@
   },
   "sources": [
     {
-      "citation": "Björkman, W. \"Kāfir.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/entries/EIEO/SIM-3775.xml",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
-    {
       "citation": "Adang, C., Ansari, H., Fierro, M., Schmidtke, S. (eds.), Accusations of Unbelief in Islam: A Diachronic Perspective on Takfīr. Leiden: Brill, 2016.",
       "url": "https://brill.com/edcollbook/title/32385",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "high"
-    },
-    {
-      "citation": "Schmidtke, S. \"Accusations of Unbelief in Islam.\" Institute for Advanced Study, Ideas, 2015.",
-      "url": "https://www.ias.edu/ideas/2015/schmidtke-accusations-of-unbelief",
-      "license": "Freely available online, cited for reference.",
-      "accessed": "2026-07-18",
-      "confidence": "medium"
     },
     {
       "citation": "al-Baghdādī, ʿAbd al-Qāhir. al-Farq bayn al-Firaq [The Difference Between the Sects]. Classical Sunni heresiography (early 11th c. CE). Sets out the doctrines of the Khārijites and other groups whose takfīr of grave sinners made the boundary of kufr a central problem, and concludes with the author's account of Sunni orthodoxy.",

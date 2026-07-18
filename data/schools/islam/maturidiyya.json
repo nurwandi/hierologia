@@ -9,7 +9,7 @@
   },
   "summary": "The Maturidiyya are a Sunni school of theology (kalam) founded by Abu Mansur al-Maturidi in Samarqand, closely associated with the Hanafi legal tradition, which is generally counted alongside the Ash'ariyya as one of the two principal Sunni theological schools and holds broadly similar positions while differing on several points, notably the capacity of unaided reason to know God and the good.",
   "description": "The Maturidiyya take their name from Abu Mansur al-Maturidi (d. 333/944), a theologian who worked in Samarqand in Central Asia during the Samanid period and stood within the Hanafi juristic and theological tradition traced back to Abu Hanifa. His principal surviving works are the Kitab al-Tawhid and the Qur'an commentary Ta'wilat al-Qur'an (also known as Ta'wilat Ahl al-Sunna). Like the Ash'ariyya, the school employed dialectical theology in defense of Sunni doctrine and occupied a position between Mu'tazili rationalism and strict traditionism. Scholars commonly identify several points on which Maturidi teaching characteristically differs from Ash'ari teaching: al-Maturidi held that the unaided intellect can attain knowledge of God's existence and can recognize the good and evil of some acts prior to revelation, while maintaining that specific religious obligation is established only by revelation; he affirmed human freedom of choice (ikhtiyar) and a distinction within the human act somewhat more robustly than al-Ash'ari; and he counted God's creative act (takwin) among the eternal attributes. The two schools are nevertheless broadly convergent, and both are embraced under the designation Ahl al-Sunna wa-l-Jama'a. Maturidism became the prevailing theology of the Hanafi communities of Central Asia, the later Ottoman lands, and South Asia. A key later text is the creed ('Aqa'id) of al-Nasafi (d. 537/1142), which distilled the school's doctrine into a widely taught summary.",
-  "editorial_notes": "Al-Maturidi's death date (333/944) is well attested; his birth date is uncertain and is sometimes given as c. 238/853, so no founding-by-birth date is asserted here. The catalog of Maturidi-Ash'ari differences (reason and the knowledge of good and evil, human freedom, the eternity of takwin) follows standard surveys; these differences are widely described as real but limited in scope, and later authors dispute how substantive several of them are. This entry reports the points of difference without adjudicating their weight. The 'related_to' link to the Ash'ariyya reflects their shared status as the two main Sunni kalam schools; it is not claimed that one derived from the other. The relation targets al-maturidi, adl, and al-nasafi may not yet be separate entries in this dataset. Per the source-diversity principle, two Muslim primary texts have been added at medium confidence: al-Māturīdī's own Kitāb al-Tawḥīd (the school's founding work, in the Topaloğlu–Aruçi critical edition) and al-Nasafī's ʿAqāʾid with al-Taftāzānī's commentary (Elder's translation); both were verified to treat the school but not read directly in this pass.",
+  "editorial_notes": "Al-Maturidi's death date (333/944) is well attested; his birth date is uncertain and is sometimes given as c. 238/853, so no founding-by-birth date is asserted here. The catalog of Maturidi-Ash'ari differences (reason and the knowledge of good and evil, human freedom, the eternity of takwin) follows standard surveys; these differences are widely described as real but limited in scope, and later authors dispute how substantive several of them are. This entry reports the points of difference without adjudicating their weight. The 'related_to' link to the Ash'ariyya reflects their shared status as the two main Sunni kalam schools; it is not claimed that one derived from the other. The relation targets al-maturidi, adl, and al-nasafi may not yet be separate entries in this dataset. Per the source-diversity principle, two Muslim primary texts have been added at medium confidence: al-Māturīdī's own Kitāb al-Tawḥīd (the school's founding work, in the Topaloğlu–Aruçi critical edition) and al-Nasafī's ʿAqāʾid with al-Taftāzānī's commentary (Elder's translation); both were verified to treat the school but not read directly in this pass. Per the source-quality principle (neutrality #9), the Encyclopaedia of Islam article (Madelung) previously cited has been removed; the entry retains U. Rudolph's monograph and the Cambridge Companion as its scholarly secondary sources, so no replacement was needed.",
   "period": {
     "founded": 944,
     "note": "Approximate; anchored to al-Maturidi (d. 333/944), who was active in Samarqand in the late 3rd/9th and early 4th/10th centuries. The school remains active, so no active_until is asserted."
@@ -26,13 +26,6 @@
   ],
   "sources": [
     {
-      "citation": "Madelung, W. \"al-Māturīdī, Abū Manṣūr.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0713.xml",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "medium"
-    },
-    {
       "citation": "Rudolph, U. Al-Māturīdī and the Development of Sunnī Theology in Samarqand. Trans. R. Adem. Leiden: Brill, 2015.",
       "url": "https://brill.com/display/title/20807",
       "license": "Proprietary, cited for reference.",
@@ -48,14 +41,12 @@
     },
     {
       "citation": "al-Māturīdī, Abū Manṣūr. Kitāb al-Tawḥīd (Book of Divine Unity), 4th/10th c. Critical Arabic ed. Bekir Topaloğlu and Muhammed Aruçi, Beirut/Istanbul: Dār Ṣādir / al-Maktaba al-Islāmiyya, 2001/2007. The school's foundational primary text, setting out al-Māturīdī's account of the knowability of God by reason, the divine attributes, and human acts.",
-      "url": "https://en.wikipedia.org/wiki/Kitab_al-Tawhid_(Al-Maturidi)",
       "license": "Primary source; cited for reference, not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "al-Nasafī, Najm al-Dīn. al-ʿAqāʾid al-Nasafiyya (a standard Māturīdī creed), 6th/12th c., with the commentary of Saʿd al-Dīn al-Taftāzānī, trans. Earl Edgar Elder as A Commentary on the Creed of Islam, New York: Columbia University Press, 1950. Classical Muslim creed and commentary presenting Māturīdī doctrine.",
-      "url": "https://en.wikipedia.org/wiki/Sharh_al-%27Aqa%27id_al-Nasafiyya",
       "license": "Primary source in translation; cited for reference, not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"

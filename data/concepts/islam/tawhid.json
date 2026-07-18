@@ -5,29 +5,37 @@
     "primary": "Tawhid",
     "original": "توحيد",
     "transliteration": "tawḥīd",
-    "aliases": ["Divine Unity", "Oneness of God"]
+    "aliases": [
+      "Divine Unity",
+      "Oneness of God"
+    ]
   },
   "category": "theology-proper",
   "summary": "Tawhid is the Islamic doctrine of the absolute oneness and uniqueness of God (Allah). It is the foundational principle of Islamic theology, from which most other doctrines are derived.",
   "description": "Tawhid affirms that God is one, without partner, peer, or division, and that nothing shares in His essence, attributes, or acts of worship. Classical theologians commonly distinguished several dimensions of the doctrine, the oneness of God's lordship (rububiyya), the oneness of His divinity and the worship due to Him (uluhiyya), and the oneness of His names and attributes (al-asma wa-l-sifat). The precise formulation of the attributes became a central point of debate among the theological schools, most prominently between the Mu'tazila, who emphasized divine transcendence and read the attributes figuratively, and the Ash'ariyya, who affirmed the attributes while denying resemblance to creation. Tawhid stands in direct opposition to shirk, the association of partners with God.",
-  "editorial_notes": "Scope of this entry is deliberately introductory: it names the classical tripartite framing (rububiyya / uluhiyya / al-asma wa-l-sifat) without adjudicating between schools, per the neutrality policy. The rububiyya/uluhiyya/asma-wa-sifat division is widely used but was systematized relatively late; a dedicated entry per dimension is a candidate for expansion. Attribute debate is only gestured at here, see planned entries for al-asma-wa-l-sifat and the Mu'tazila/Ash'ari relations. Muslim/Islamic scholarly sources have been added for triangulation (neutrality principle #8): al-Māturīdī's Kitāb al-Tawḥīd and al-Ghazālī's al-Iqtiṣād fī al-Iʿtiqād, both classical primary texts on tawḥīd and the attributes, cited at medium confidence as their relevant passages were not read line-by-line.",
+  "editorial_notes": "Scope of this entry is deliberately introductory: it names the classical tripartite framing (rububiyya / uluhiyya / al-asma wa-l-sifat) without adjudicating between schools, per the neutrality policy. The rububiyya/uluhiyya/asma-wa-sifat division is widely used but was systematized relatively late; a dedicated entry per dimension is a candidate for expansion. Attribute debate is only gestured at here, see planned entries for al-asma-wa-l-sifat and the Mu'tazila/Ash'ari relations. Muslim/Islamic scholarly sources have been added for triangulation (neutrality principle #8): al-Māturīdī's Kitāb al-Tawḥīd and al-Ghazālī's al-Iqtiṣād fī al-Iʿtiqād, both classical primary texts on tawḥīd and the attributes, cited at medium confidence as their relevant passages were not read line-by-line. Per neutrality principle #9 the Encyclopaedia of Islam (Gimaret, EI2) reference-work citation was removed; the claims it backed rest on the Cambridge Companion (scholarly volume) and the two classical primary texts.",
   "relations": [
-    { "type": "contrasts_with", "target": "shirk", "note": "Tawhid is defined largely by negation of shirk." },
-    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "The oneness of the divine names and attributes." },
-    { "type": "articulated_by", "target": "al-ashari", "note": "Ash'ari formulation of the attributes." }
+    {
+      "type": "contrasts_with",
+      "target": "shirk",
+      "note": "Tawhid is defined largely by negation of shirk."
+    },
+    {
+      "type": "related_to",
+      "target": "al-asma-wa-l-sifat",
+      "note": "The oneness of the divine names and attributes."
+    },
+    {
+      "type": "articulated_by",
+      "target": "al-ashari",
+      "note": "Ash'ari formulation of the attributes."
+    }
   ],
   "historical_period": {
     "start": 610,
     "note": "Rooted in the earliest Qur'anic revelation; systematized by the theological schools from roughly the 8th–10th centuries CE."
   },
   "sources": [
-    {
-      "citation": "Gimaret, D. \"Tawḥīd.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
-      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-1177.xml",
-      "license": "Proprietary, cited for reference; text not reproduced.",
-      "accessed": "2026-07-18",
-      "confidence": "high"
-    },
     {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
@@ -37,14 +45,12 @@
     },
     {
       "citation": "al-Māturīdī, Abū Manṣūr. Kitāb al-Tawḥīd (The Book of Divine Unity). Ed. Fatḥallāh Khalīf, Beirut, 1970. Classical Māturīdī primary source expounding tawḥīd, God's existence and attributes, and refuting anthropomorphism against the Muʿtazila and others.",
-      "url": "https://en.wikipedia.org/wiki/Kitab_al-Tawhid_(Al-Maturidi)",
       "license": "Public-domain classical text; cited for reference, relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "al-Ghazālī, Abū Ḥāmid. al-Iqtiṣād fī al-Iʿtiqād (Moderation in Belief). Trans. Aladdin M. Yaqub, University of Chicago Press, 2013. Classical Ashʿarī primary text on the oneness and attributes of God.",
-      "url": "https://en.wikipedia.org/wiki/The_Moderation_in_Belief",
       "license": "Proprietary translation; classical Arabic text public domain. Cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
@@ -55,4 +61,3 @@
   "created": "2026-07-18",
   "updated": "2026-07-18"
 }
-
