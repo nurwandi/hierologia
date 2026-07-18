@@ -29,7 +29,7 @@
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Melchert, Christopher. Ahmad ibn Hanbal. Makers of the Muslim World. Oneworld, 2006. (General scholarly biography; specific claims here not page-verified.)",
@@ -50,7 +50,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

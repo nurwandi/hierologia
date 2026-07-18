@@ -28,11 +28,11 @@
   ],
   "sources": [
     {
-      "citation": "Frank, Richard M., and others, on al-Ash'ari and Ash'arite kalam, in Tim Winter (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "citation": "Winter, Tim (ed.). The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Al-Ashʿarī, Abū al-Ḥasan. Al-Ibāna ʿan Uṣūl al-Diyāna. Primary source; a creedal work traditionally ascribed to al-Ashʿarī setting out his affirmation of the divine attributes and the uncreatedness of the Qurʾān. Its attribution and dating are debated in the scholarship (see editorial_notes).",
@@ -48,7 +48,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

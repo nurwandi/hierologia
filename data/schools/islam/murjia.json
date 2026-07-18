@@ -26,7 +26,7 @@
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Madelung, Wilferd. 'The early Murjiʾa in Khurāsān and Transoxania and the spread of Ḥanafism.' Der Islam 59, no. 1 (1982): 32-39. Peer-reviewed journal article on the early Murjiʾa, their doctrine, and their spread. DOI: 10.1515/islm.1982.59.1.32.",
@@ -49,7 +49,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

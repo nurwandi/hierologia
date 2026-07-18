@@ -27,7 +27,7 @@
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Lewinstein, Keith. 'The Azāriqa in Islamic Heresiography.' Bulletin of the School of Oriental and African Studies 54, no. 2 (1991): 251-268. Peer-reviewed journal article on the militant Azāriqa sub-group of the Khawārij and on how the heresiographers shaped the record of early Kharijite sectarianism.",
@@ -51,7 +51,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

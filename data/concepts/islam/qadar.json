@@ -29,7 +29,7 @@
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
       "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "Gimaret, Daniel. Théories de l'acte humain en théologie musulmane. Paris: Librairie Philosophique J. Vrin; Louvain: Éditions Peeters, 1980. The standard monograph on Islamic theological theories of human action, treating in detail the Muʿtazili doctrine that humans originate their own acts, the Ashʿari doctrine of kasb (acquisition), and the debate over whether al-Ashʿari's position amounts to occasionalism.",
@@ -47,7 +47,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"

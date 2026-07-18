@@ -26,7 +26,7 @@
       "url": "https://academic.oup.com/edited-volume/34345/chapter/291394498",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "citation": "al-Baghdādī, ʿAbd al-Qāhir ibn Ṭāhir. al-Farq bayn al-Firaq (The Difference between the Sects), 5th/11th c. Trans. (Part II) K. C. Seelye and A. S. Halkin as Moslem Schisms and Sects, New York: Columbia University Press / AMS Press, 1919–1935. Classical Muslim heresiography that treats the Qadariyya and the free-will doctrine on human acts.",
@@ -42,7 +42,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
   "updated": "2026-07-18"
