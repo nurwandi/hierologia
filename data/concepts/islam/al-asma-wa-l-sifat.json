@@ -8,9 +8,9 @@
     "aliases": ["The Divine Names and Attributes", "Names and Attributes of God"]
   },
   "category": "theology-proper",
-  "summary": "Al-asma wa-l-sifat is the Islamic theological topic of the names and attributes of God — the terms by which God names Himself (e.g. al-Rahman, al-Aziz) and the qualities they predicate (mercy, might, knowledge, power). The relation of these attributes to the divine essence was one of the most debated questions in classical kalam.",
-  "description": "In Islamic usage a distinction is often drawn between the names (asmāʾ) by which God is called or addressed and the attributes (ṣifāt) that describe the qualities those names imply. The theological problem is how to affirm real attributes of God — living, knowing, powerful — without compromising His absolute oneness (tawhid) by introducing plurality or resemblance to creatures into the divine.\n\nThe schools of kalam divided sharply on this. The Mu'tazila are generally reported as the first to take a definite position, tending to identify the attributes with the divine essence rather than treating them as distinct eternal realities, so as to avoid positing a multiplicity of eternal entities alongside God; on this reading God knows by His essence rather than by a distinct attribute of knowledge. The Ash'ari school, by contrast, affirmed the attributes as real and eternal, subsisting in the essence yet not identical to it — a position later summarized in the formula that the attributes are \"neither He nor other than He.\" The Maturidi school likewise affirmed real attributes with its own formulations, and the Hanbali/Athari tendency emphasized affirming the attributes as given in scripture.\n\nA further point of contention concerned the so-called revealed or \"ambiguous\" attributes (ṣifāt khabariyya) such as God's face, hand, or His establishment upon the throne. Approaches ranged from affirming them \"without asking how\" (bilā kayf) while denying any resemblance to creatures, to interpreting them figuratively (taʾwīl). This entry describes these positions without ruling on which is correct.",
-  "editorial_notes": "The tripartite/quadripartite mapping of schools (Mu'tazila, Ash'ari, Maturidi, Athari) is a standard heuristic but compresses considerable internal variation; individual theologians within each school held nuanced positions. The characterization of the Mu'tazila as identifying attributes with the essence, and the Ash'ari 'neither He nor other than He' formula, are drawn from secondary encyclopedic summaries and are stated as the schools' reported positions, not as adjudicated fact. The bilā kayf vs. taʾwīl contrast over ṣifāt khabariyya is genuine but is summarized at a high level here; a dedicated entry could treat named theologians and texts. Recent scholarship cited via the consulted Wikipedia overview (e.g. Suleiman 2024, Janos 2024) was noted but not independently examined, hence medium confidence on the finer distinctions.",
+  "summary": "Al-asma wa-l-sifat is the Islamic theological topic of the names and attributes of God, the terms by which God names Himself (e.g. al-Rahman, al-Aziz) and the qualities they predicate (mercy, might, knowledge, power). The relation of these attributes to the divine essence was one of the most debated questions in classical kalam.",
+  "description": "In Islamic usage a distinction is often drawn between the names (asmāʾ) by which God is called or addressed and the attributes (ṣifāt) that describe the qualities those names imply. The theological problem is how to affirm real attributes of God, living, knowing, powerful, without compromising His absolute oneness (tawhid) by introducing plurality or resemblance to creatures into the divine.\n\nThe schools of kalam divided sharply on this. The Mu'tazila are generally reported as the first to take a definite position, tending to identify the attributes with the divine essence rather than treating them as distinct eternal realities, so as to avoid positing a multiplicity of eternal entities alongside God; on this reading God knows by His essence rather than by a distinct attribute of knowledge. The Ash'ari school, by contrast, affirmed the attributes as real and eternal, subsisting in the essence yet not identical to it, a position later summarized in the formula that the attributes are \"neither He nor other than He.\" The Maturidi school likewise affirmed real attributes with its own formulations, and the Hanbali/Athari tendency emphasized affirming the attributes as given in scripture.\n\nA further point of contention concerned the so-called revealed or \"ambiguous\" attributes (ṣifāt khabariyya) such as God's face, hand, or His establishment upon the throne. Approaches ranged from affirming them \"without asking how\" (bilā kayf) while denying any resemblance to creatures, to interpreting them figuratively (taʾwīl). This entry describes these positions without ruling on which is correct.",
+  "editorial_notes": "The tripartite/quadripartite mapping of schools (Mu'tazila, Ash'ari, Maturidi, Athari) is a standard heuristic but compresses considerable internal variation; individual theologians within each school held nuanced positions. The characterization of the Mu'tazila as identifying attributes with the essence, and the Ash'ari 'neither He nor other than He' formula, are drawn from secondary encyclopedic summaries and are stated as the schools' reported positions, not as adjudicated fact. The bilā kayf vs. taʾwīl contrast over ṣifāt khabariyya is genuine but is summarized at a high level here; a dedicated entry could treat named theologians and texts. Recent scholarship cited via the consulted Wikipedia overview (e.g. Suleiman 2024, Janos 2024) was noted but not independently examined, hence medium confidence on the finer distinctions. Muslim/Islamic scholarly primary texts have been added for triangulation and balanced coverage (neutrality principles #7 and #8): al-Ashʿarī's al-Ibāna for the Ashʿarī affirmation of real attributes, and Ibn Taymiyya's al-ʿAqīda al-Wāsiṭiyya for the Athari bilā-kayf position on the ṣifāt khabariyya; both cited at medium confidence as their relevant passages were not read line-by-line.",
   "relations": [
     { "type": "related_to", "target": "tawhid", "note": "The oneness of the divine names and attributes is a classical dimension of tawhid." },
     { "type": "related_to", "target": "tanzih", "note": "How attributes are affirmed turns on preserving God's incomparability." },
@@ -33,14 +33,28 @@
     {
       "citation": "Gimaret, D. \"Ṣifa.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
       "url": "https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/sifa-COM_1078",
-      "license": "Proprietary — cited for reference; text not reproduced.",
+      "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "low"
     },
     {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
-      "license": "Proprietary — cited for reference.",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. al-Ibāna ʿan Uṣūl al-Diyāna. English trans. W. C. Klein, The Elucidation of Islam's Foundation, American Oriental Society, New Haven, 1940. Foundational Ashʿarī creed affirming the divine names and attributes as real and denying resemblance to creatures.",
+      "url": "https://en.wikipedia.org/wiki/Al-Ibana",
+      "license": "Public-domain classical text; 1940 translation cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Taymiyya, Taqī al-Dīn Aḥmad. al-ʿAqīda al-Wāsiṭiyya. Classical Athari/traditionist creed affirming the revealed names and attributes (including the ṣifāt khabariyya) 'without asking how' (bilā kayf) and without likening (bilā tashbīh) or divesting (taʿṭīl).",
+      "url": "https://en.wikipedia.org/wiki/Al-Aqidah_al-Wasitiyyah",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     }
@@ -50,3 +64,4 @@
   "created": "2026-07-18",
   "updated": "2026-07-18"
 }
+

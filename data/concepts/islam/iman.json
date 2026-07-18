@@ -8,9 +8,9 @@
     "aliases": ["Faith", "Belief"]
   },
   "category": "theology-proper",
-  "summary": "Iman is the Islamic concept of faith or belief, centered on inner assent to God, His messengers, and the truths conveyed through revelation. Its precise definition — and its relationship to outward profession and works — became one of the earliest and most consequential debates in Islamic theology.",
+  "summary": "Iman is the Islamic concept of faith or belief, centered on inner assent to God, His messengers, and the truths conveyed through revelation. Its precise definition, and its relationship to outward profession and works, became one of the earliest and most consequential debates in Islamic theology.",
   "description": "Iman denotes belief in the truths of Islam, classically framed as belief in God, His angels, His books, His messengers, the Last Day, and (in the standard Sunni formulation) divine decree. Early theologians divided over what iman essentially consists of: whether it is inner assent of the heart (taṣdīq) alone, verbal profession (iqrār), works (ʿamal), or some combination, and whether faith can increase and decrease.\n\nThe status of the grave sinner (murtakib al-kabīra) became the crux around which positions on iman crystallized. The Khārijites held that a Muslim who commits a major sin thereby leaves the faith and becomes an unbeliever (kāfir). The Murjiʾa took the opposing view, postponing (irjāʾ) judgment on such a person to God and holding that faith resides in inner conviction and profession, so that even a grave sinner remains a believer whose sin does not nullify iman. The Muʿtazila proposed an intermediate status (al-manzila bayna al-manzilatayn), classifying the grave sinner as neither believer nor unbeliever but as a reprobate (fāsiq). Later Sunni theology, articulated by the Ashʿarī and Māturīdī schools, generally identified the core of iman with inner assent while differing over whether works are constitutive of it, a point on which many Ḥadīth-oriented scholars held that iman comprises belief, speech, and action and admits of increase and decrease.",
-  "editorial_notes": "This entry is scoped to iman as a theological (kalām) category and its classical definitional dispute; it does not treat the ritual or legal senses of the term or the six articles of faith individually. The positions of the Khārijites, Murjiʾa, Muʿtazila, and later Sunni schools are named but not adjudicated, per the neutrality policy. Attribution of specific formulations (e.g., taṣdīq vs. taṣdīq-plus-works) to named theologians is summarized at a general level; a dedicated entry per school would allow finer sourcing. The claim that later Sunni schools centered iman on taṣdīq is well attested but simplified here.",
+  "editorial_notes": "This entry is scoped to iman as a theological (kalām) category and its classical definitional dispute; it does not treat the ritual or legal senses of the term or the six articles of faith individually. The positions of the Khārijites, Murjiʾa, Muʿtazila, and later Sunni schools are named but not adjudicated, per the neutrality policy. Attribution of specific formulations (e.g., taṣdīq vs. taṣdīq-plus-works) to named theologians is summarized at a general level; a dedicated entry per school would allow finer sourcing. The claim that later Sunni schools centered iman on taṣdīq is well attested but simplified here. To triangulate the Western academic references with the tradition's own voice (neutrality principle #8), classical primary sources are appended: al-Ashʿarī's heresiographical Maqālāt for the schools' positions and al-Ṭaḥāwī's creed for a Sunni definition of iman; both are rated medium confidence as their relevant passages were not read line-by-line here.",
   "relations": [
     { "type": "contrasts_with", "target": "kufr", "note": "Iman (belief) is defined largely in opposition to kufr (unbelief); the boundary between them is the central question in the grave-sinner debate." },
     { "type": "related_to", "target": "qadar", "note": "Belief in divine decree (qadar) is included among the objects of faith in the standard Sunni formulation of iman." },
@@ -27,23 +27,33 @@
     {
       "citation": "Gardet, L. \"Īmān.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
       "url": "https://referenceworks.brill.com/display/db/eieo",
-      "license": "Proprietary — cited for reference; text not reproduced.",
+      "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "Britannica, \"Murjiʾah.\" Encyclopædia Britannica.",
       "url": "https://www.britannica.com/topic/Murjiah",
-      "license": "Proprietary — cited for reference.",
+      "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
       "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
-      "license": "Proprietary — cited for reference.",
+      "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "high"
+    },
+    {
+      "citation": "al-Ashʿarī, Abū al-Ḥasan. Maqālāt al-Islāmiyyīn wa-ikhtilāf al-muṣallīn [The Doctrines of the Muslims and the Divergences of the Worshippers]. Classical heresiography (early 10th c. CE), ed. H. Ritter, Istanbul. Reports the positions of the Murjiʾa, Khārijites, and other groups on the definition of faith (īmān) and the status of the grave sinner.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ṭaḥāwī, Abū Jaʿfar. al-ʿAqīda al-Ṭaḥāwiyya [The Creed of al-Ṭaḥāwī]. Sunni Ḥanafī creed, early 10th c. CE. Affirms that faith (īmān) is assent of the heart and profession of the tongue, addressing the grave-sinner question within the Ahl al-Sunna framework.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
     }
   ],
   "status": "draft",
@@ -51,3 +61,4 @@
   "created": "2026-07-18",
   "updated": "2026-07-18"
 }
+

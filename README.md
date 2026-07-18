@@ -2,7 +2,7 @@
 
 **An open, neutral, well-sourced academic API for the comparative study of sacred traditions.**
 
-*Hierologia* — from Greek *hierós* (“sacred”) and *lógos* — is the study of the
+*Hierologia*, from Greek *hierós* (“sacred”) and *lógos*, is the study of the
 sacred and religious traditions of any people, time, or place. This project
 preserves theological, historical, and sociological knowledge as structured,
 citable data. Every entry is neutral, attributed to its sources, and versioned.
@@ -18,16 +18,16 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 The first tradition is **Islamic theology (*kalam*)**. The dataset models three
 kinds of entity, linked into a graph:
 
-- **Concepts** — doctrines and ideas (e.g. *tawḥīd*, *qadar*, *ʿadl*)
-- **Figures** — theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal)
-- **Schools** — movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, Atharis)
+- **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, *ʿadl*)
+- **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal)
+- **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, Atharis)
 
 Further traditions will follow the same model.
 
 ## The data is the API
 
 Each entity is a single JSON file under `data/`, validated against a schema in
-`schema/`. The same files are served statically as a read-only API — no backend
+`schema/`. The same files are served statically as a read-only API, no backend
 required:
 
 ```
@@ -48,7 +48,7 @@ fetch("https://nurwandi.github.io/hierologia/api/tawhid.json")
 - **Neutrality.** Entries describe traditions and schools on their own terms and
   attribute contested claims; they never adjudicate which belief is correct.
   See [`docs/governance/neutrality.md`](docs/governance/neutrality.md).
-- **Source diversity.** Sources triangulate across scholarly traditions —
+- **Source diversity.** Sources triangulate across scholarly traditions -
   Western academic Islamic studies *and* Muslim/Islamic scholarship (classical
   primary texts, heresiographers, and reputable Muslim scholars alike).
 - **Editorial lifecycle.** Entries move `draft → reviewed → verified`; only
@@ -57,7 +57,7 @@ fetch("https://nurwandi.github.io/hierologia/api/tawhid.json")
 ## Repository layout
 
 ```
-data/       one JSON file per entity (concepts, figures, schools) — the source of truth
+data/       one JSON file per entity (concepts, figures, schools), the source of truth
 schema/     JSON Schemas: the contract for every entity and the API payload
 scripts/    validate.py (schema + relation checks), build_api.py, verify_sources.py
 web/        the static single-page demo

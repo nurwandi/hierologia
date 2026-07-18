@@ -8,7 +8,7 @@ Directory under data/ selects the schema:
 
 ids share one namespace across all entity types, so any entity may reference any
 other by id. Exit non-zero on invalid JSON, schema failure, duplicate id, or
-filename/id mismatch — this doubles as the CI gate. Dangling relation targets
+filename/id mismatch, this doubles as the CI gate. Dangling relation targets
 are reported but NOT fatal: forward references to not-yet-written entities are
 allowed by design.
 """
@@ -95,7 +95,7 @@ def main() -> int:
 
     dangling = sorted(t for t in targets if t not in ids)
     if dangling:
-        print(f"\nDangling relation targets (allowed — future entities): {len(dangling)}")
+        print(f"\nDangling relation targets (allowed, future entities): {len(dangling)}")
         for t in dangling:
             print(f"  {t}  <- referenced by: {', '.join(sorted(set(targets[t])))}")
 

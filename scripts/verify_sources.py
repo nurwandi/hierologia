@@ -33,7 +33,7 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-MAILTO = "hierologia@nurwandi.dev"  # polite-pool contact — adjust to a real inbox
+MAILTO = "hierologia@nurwandi.dev"  # polite-pool contact, adjust to a real inbox
 UA = f"Hierologia-source-verifier (mailto:{MAILTO})"
 STRONG, WEAK = 0.60, 0.35
 

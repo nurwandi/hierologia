@@ -10,7 +10,7 @@
   "roles": ["theologian"],
   "summary": "Wasil ibn Ata (c. 700–748 CE) was a theologian active in Basra who is traditionally regarded as the founder, or a founding figure, of the Mu'tazila school of Islamic speculative theology (kalam). He is associated with the doctrine that a grave sinner occupies an intermediate position between belief and unbelief.",
   "description": "Wasil ibn Ata was active in early-eighth-century Basra and is reported to have been associated with the circle of the ascetic and scholar al-Hasan al-Basri. Traditional accounts trace the origin of the Mu'tazila to a dispute over the status of the grave sinner (the fasiq): Wasil is said to have held that such a person is neither a full believer nor an unbeliever but occupies an intermediate position (al-manzila bayna al-manzilatayn), and to have withdrawn (i'tizal) from al-Hasan's circle, an act from which the name Mu'tazila ('those who withdraw') is derived. The historicity of this etiology is questioned in modern scholarship: variant reports assign the withdrawal to Wasil's contemporary 'Amr ibn 'Ubayd or place the decisive break in a later period, and the derivation of the school's name has more than one proposed explanation. The intermediate-position doctrine is later systematized as one of the Mu'tazila's characteristic principles, connected to their emphasis on divine justice ('adl). The developed 'five principles' of the school belong to its later formulation rather than being securely documented for Wasil himself.",
-  "editorial_notes": "Dates are given as c. 80/699 – 131/748, as commonly reported. Whether Wasil is properly 'the founder' of the Mu'tazila is genuinely contested: the traditional founding narrative (the debate in al-Hasan al-Basri's circle and the act of i'tizal) survives in variant forms, some naming 'Amr ibn 'Ubayd instead, and the etymology of 'Mu'tazila' is itself disputed. This entry reports the traditional attribution and names the dispute without adjudicating it, per the neutrality policy. Because so little survives directly from Wasil, the fully articulated Mu'tazili doctrinal system should not be read back onto him uncritically; the entry restricts firm attribution to the intermediate-position doctrine most consistently linked to his name.",
+  "editorial_notes": "Dates are given as c. 80/699 – 131/748, as commonly reported. Whether Wasil is properly 'the founder' of the Mu'tazila is genuinely contested: the traditional founding narrative (the debate in al-Hasan al-Basri's circle and the act of i'tizal) survives in variant forms, some naming 'Amr ibn 'Ubayd instead, and the etymology of 'Mu'tazila' is itself disputed. This entry reports the traditional attribution and names the dispute without adjudicating it, per the neutrality policy. Because so little survives directly from Wasil, the fully articulated Mu'tazili doctrinal system should not be read back onto him uncritically; the entry restricts firm attribution to the intermediate-position doctrine most consistently linked to his name. A Muslim/Islamic classical source has been added alongside the Western academic references (per neutrality principle #8): al-Shahrastani's heresiography al-Milal wa-l-Nihal, which documents Wasil's teachings; no work survives directly from Wasil himself, so a primary source could not be added.",
   "lifespan": {
     "birth": 699,
     "death": 748,
@@ -26,13 +26,13 @@
     {
       "citation": "\"Ashʿariyya and Muʿtazila,\" Routledge Encyclopedia of Philosophy (on the origins and doctrines of the Mu'tazila).",
       "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/",
-      "license": "Proprietary — cited for reference.",
+      "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "high"
     },
     {
       "citation": "van Ess, Josef. Theology and Society in the Second and Third Centuries of the Hijra, vol. 2 (on Wasil ibn 'Ata and the disputed origins of the Mu'tazila). Trans. Brill. (Cited generally; specific claims here not page-verified.)",
-      "license": "Proprietary — cited for reference.",
+      "license": "Proprietary, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "low"
     },
@@ -42,6 +42,13 @@
       "license": "CC BY-SA (Wikipedia).",
       "accessed": "2026-07-18",
       "confidence": "low"
+    },
+    {
+      "citation": "Al-Shahrastānī, Abū al-Fatḥ Muḥammad ibn ʿAbd al-Karīm. Al-Milal wa-l-Niḥal. Classical heresiographical survey (d. 548/1153) that treats Wāṣil ibn ʿAṭāʾ as founder of the Muʿtazila and summarizes his teachings, including the intermediate position of the grave sinner (al-manzila bayna al-manzilatayn) and the denial of the divine attributes.",
+      "url": "https://en.wikipedia.org/wiki/Al-Milal_wa_al-Nihal",
+      "license": "Classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
     }
   ],
   "status": "draft",

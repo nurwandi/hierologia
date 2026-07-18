@@ -14,10 +14,10 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
   ahmad-ibn-hanbal, al-maturidi, wasil-ibn-ata) and 8 schools (mutazila,
   ashariyya, maturidiyya, murjia, kharijites, qadariyya, athariyya, hanbaliyya),
   all `draft`.
-- `scripts/validate.py` — multi-schema validation + relation integrity (CI gate).
-- `scripts/build_api.py` — generates the static read-only API for the demo.
-- `scripts/verify_sources.py` — cross-checks citations against Crossref.
-- `web/` — static single-page demo/frontend served from the generated API,
+- `scripts/validate.py`, multi-schema validation + relation integrity (CI gate).
+- `scripts/build_api.py`, generates the static read-only API for the demo.
+- `scripts/verify_sources.py`, cross-checks citations against Crossref.
+- `web/`, static single-page demo/frontend served from the generated API,
   deployed to GitHub Pages via `.github/workflows/pages.yml`.
 - Governance: neutrality policy (draft), incl. balanced-coverage for the
   Athari/traditionist position and a source-diversity (triangulation) principle.

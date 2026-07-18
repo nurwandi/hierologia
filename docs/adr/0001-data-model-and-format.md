@@ -10,7 +10,7 @@ sociological knowledge across religious traditions. Before building any
 infrastructure, we need a data model whose credibility can be trusted by
 scholars and whose shape is proven on real entries.
 
-The hardest problem is not infrastructure — it is data: sourcing, provenance,
+The hardest problem is not infrastructure, it is data: sourcing, provenance,
 neutrality, and scope control. The first scope is **Islamic theology (kalam)**,
 with **concepts/doctrines** as the core entity.
 
@@ -21,7 +21,7 @@ with **concepts/doctrines** as the core entity.
    and the API payload.
 2. **File format is JSON, not YAML.** JSON is the native API payload and needs
    no conversion step; its type handling is strict and unambiguous. The known
-   cost — no inline comments, and ugly multi-line strings — is accepted and
+   cost, no inline comments, and ugly multi-line strings, is accepted and
    bounded: editorial commentary lives in a dedicated `editorial_notes` field,
    and long-form essays are deferred to a future `article` entity rather than
    stuffed into `description`.

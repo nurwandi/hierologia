@@ -8,9 +8,9 @@
 The first 13 `Concept` entries produced 15 dangling relation targets. They split
 cleanly into two kinds the `Concept` model cannot represent honestly:
 
-- **People** — al-ashari, ahmad-ibn-hanbal, and others referenced via
+- **People**, al-ashari, ahmad-ibn-hanbal, and others referenced via
   `articulated_by`.
-- **Schools / movements** — mutazila, murjia, kharijites, qadariyya.
+- **Schools / movements**, mutazila, murjia, kharijites, qadariyya.
 
 Forcing a person or a movement into the `Concept` schema would misrepresent them
 (a person has a lifespan; a school has founders and a historical arc). The
@@ -30,7 +30,7 @@ data-first approach surfaced this need rather than us guessing it up front.
    `names`, `sources`, `status`, and versioning structure. For now this is
    **duplicated** in each schema file rather than factored into a shared
    `$defs` file referenced by `$ref`.
-   - *Why:* cross-file `$ref` needs a resolver/registry in `validate.py` — added
+   - *Why:* cross-file `$ref` needs a resolver/registry in `validate.py`, added
      complexity for ~15 lines shared across 3 files that change rarely.
    - *Upgrade path:* if entity types or traditions multiply and the shared
      blocks start to drift, extract `schema/_defs.schema.json` and `$ref` it.
@@ -43,5 +43,5 @@ data-first approach surfaced this need rather than us guessing it up front.
   justified. `validate.py` runs all three, so drift shows up as validation
   failures, not silent inconsistency.
 - Relation vocabularies differ per entity type (a figure `founded` a school; a
-  school is `founded_by` a figure), which is intentional — the direction and
+  school is `founded_by` a figure), which is intentional, the direction and
   verb carry meaning.

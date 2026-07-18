@@ -8,9 +8,9 @@
     "aliases": ["Divine transcendence", "Incomparability of God", "Declaring God free (of defect)"]
   },
   "category": "theology-proper",
-  "summary": "Tanzih is the theological affirmation of God's transcendence and incomparability — declaring God free of the deficiencies, limitations, and likeness that belong to created things. It is standardly paired with, and contrasted against, tashbih, the likening of God to creatures.",
+  "summary": "Tanzih is the theological affirmation of God's transcendence and incomparability, declaring God free of the deficiencies, limitations, and likeness that belong to created things. It is standardly paired with, and contrasted against, tashbih, the likening of God to creatures.",
   "description": "Tanzih derives from a root meaning to declare something pure or free of defect, and in theology denotes purifying the conception of God from any resemblance to creation and from attributes proper to creatures such as body, place, or change. It draws on Qur'anic language of God's uniqueness, especially the statement that \"there is nothing like unto Him\" (Q 42:11), and expresses the negative or apophatic side of the doctrine of divine oneness.\n\nTanzih is generally treated as the counterpart of tashbih (assimilation or anthropomorphism), which carried a pejorative sense as describing God in human terms. The tension between the two was among the formative issues of early and classical kalam. The Mu'tazila are associated with a strong emphasis on transcendence, extending tanzih to a figurative reading of the revealed \"ambiguous\" attributes so as to remove any anthropomorphic implication. Traditionalist and Hanbali currents worried that an unchecked tanzih could empty the scriptural descriptions of God of meaning (a charge they termed taʿṭīl, \"divesting\"), and preferred to affirm the attributes as revealed while denying likeness. The Ash'ari and Maturidi schools sought intermediate formulations that affirmed real attributes while maintaining that God does not resemble His creation.\n\nThe balance between asserting transcendence and affirming the descriptions God gives of Himself remained a persistent axis of theological debate; this entry sets out the positions without endorsing any.",
-  "editorial_notes": "Scope is the classical kalam framing of tanzih as the pair-opposite of tashbih and as the apophatic pole against the danger of taʿṭīl. The association of particular tendencies with particular schools (Mu'tazila with strong tanzih and taʾwīl, Hanbali/Athari with affirmation-without-likeness) is a standard summary that compresses internal variation and should not be read as uniform school doctrine. The Sufi elaboration of tanzih and tashbih as complementary rather than opposed (notably in the Akbari/Ibn ʿArabi tradition) is deliberately out of scope here and is a candidate for a separate entry. One key source consulted (the Oxford Bibliographies article by Mustafa Shah) could not have its full text verified during drafting, so it is marked medium confidence; Q 42:11 is cited via secondary summaries and should be checked against the Qur'an directly.",
+  "editorial_notes": "Scope is the classical kalam framing of tanzih as the pair-opposite of tashbih and as the apophatic pole against the danger of taʿṭīl. The association of particular tendencies with particular schools (Mu'tazila with strong tanzih and taʾwīl, Hanbali/Athari with affirmation-without-likeness) is a standard summary that compresses internal variation and should not be read as uniform school doctrine. The Sufi elaboration of tanzih and tashbih as complementary rather than opposed (notably in the Akbari/Ibn ʿArabi tradition) is deliberately out of scope here and is a candidate for a separate entry. One key source consulted (the Oxford Bibliographies article by Mustafa Shah) could not have its full text verified during drafting, so it is marked medium confidence; Q 42:11 is cited via secondary summaries and should be checked against the Qur'an directly. A Muslim/Islamic scholarly primary text has been added for triangulation and balanced coverage (neutrality principles #7 and #8): Ibn Taymiyya's al-ʿAqīda al-Wāsiṭiyya, which states the Athari understanding of tanzīh (affirmation-without-likening, guarding equally against tashbīh and taʿṭīl), cited at medium confidence as its relevant passages were not read line-by-line.",
   "relations": [
     { "type": "contrasts_with", "target": "tashbih", "note": "Tanzih (incomparability) is standardly opposed to tashbih (likening God to creatures)." },
     { "type": "related_to", "target": "tawhid", "note": "Tanzih expresses the negative/apophatic aspect of divine oneness." },
@@ -26,14 +26,14 @@
     {
       "citation": "van Ess, J. \"Tas̲h̲bīh wa-Tanzīh.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill, 2000.",
       "url": "https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/tashbih-wa-tanzih-COM_1190",
-      "license": "Proprietary — cited for reference; text not reproduced.",
+      "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
       "citation": "Shah, Mustafa. \"Tanzīh and Tashbīh in Classical Islamic Theological Thought.\" In Oxford Bibliographies in Islamic Studies. New York: Oxford University Press.",
       "url": "https://www.oxfordbibliographies.com/display/document/obo-9780195390155/obo-9780195390155-0251.xml",
-      "license": "Proprietary — cited for reference; full text not verified during drafting.",
+      "license": "Proprietary, cited for reference; full text not verified during drafting.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
@@ -43,6 +43,13 @@
       "license": "CC BY-SA 4.0.",
       "accessed": "2026-07-18",
       "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Taymiyya, Taqī al-Dīn Aḥmad. al-ʿAqīda al-Wāsiṭiyya. Classical Athari/traditionist creed holding that God's revealed names and attributes are incomparable (tanzīh) and must be affirmed without likening (tashbīh/tamthīl) or divesting them of meaning (taʿṭīl).",
+      "url": "https://en.wikipedia.org/wiki/Al-Aqidah_al-Wasitiyyah",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
     }
   ],
   "status": "draft",
@@ -50,3 +57,4 @@
   "created": "2026-07-18",
   "updated": "2026-07-18"
 }
+

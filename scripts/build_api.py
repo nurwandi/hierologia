@@ -5,7 +5,7 @@ Copies every entity into web/api/<id>.json (adding an explicit `type`) and write
 web/api/index.json, a lightweight catalog the frontend loads first. ids are unique
 across entity types, so a flat /api/<id>.json namespace is unambiguous.
 
-# ponytail: static JSON *is* the read-only API — no server. Move to a real API
+# ponytail: static JSON *is* the read-only API, no server. Move to a real API
 # (AWS) only when dynamic query / search / scale is actually needed.
 """
 import json

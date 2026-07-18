@@ -1,4 +1,4 @@
-# ADR-0003: Project name — Hierologia
+# ADR-0003: Project name, Hierologia
 
 - **Status:** Accepted
 - **Date:** 2026-07-18
@@ -26,7 +26,7 @@ The project is named **Hierologia** (Greek *hieros*, "sacred" + *logos*).
 
 - **Meaning fits the mission.** *Hierologia* is the study of the sacred and
   religious traditions of any people, time, or place, reconciling faith with
-  reason — and, unlike theology, does not require a god as its focus. It is
+  reason, and, unlike theology, does not require a god as its focus. It is
   inherently comparative and cross-tradition. The name is close to a mission
   statement.
 - **Available everywhere checked.** GitHub, the `.com` domain, PyPI, and npm were

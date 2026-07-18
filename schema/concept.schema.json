@@ -43,7 +43,7 @@
     },
     "editorial_notes": {
       "type": "string",
-      "description": "Internal notes for editors (why a source was chosen, open questions, disputes). Served publicly for transparency — write it to be read."
+      "description": "Internal notes for editors (why a source was chosen, open questions, disputes). Served publicly for transparency, write it to be read."
     },
     "relations": {
       "type": "array",
