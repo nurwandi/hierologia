@@ -1,0 +1,45 @@
+{
+  "id": "nubuwwa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Nubuwwa",
+    "original": "نبوة",
+    "transliteration": "nubuwwa",
+    "aliases": ["Prophethood", "Prophecy", "Nubuwwat"]
+  },
+  "category": "prophetology",
+  "summary": "Nubuwwa is the Islamic doctrine of prophethood: the belief that God appoints chosen human beings to receive and communicate His guidance to humanity. It is a core article of Islamic belief and, in systematic theology (kalam), the subject of a distinct treatise.",
+  "description": "Nubuwwa holds that God, out of grace, sends prophets (sing. nabi) to guide humanity, and that some prophets are also messengers (sing. rasul) entrusted with a scripture or law. Classical theologians commonly distinguished the nabi, who receives revelation, from the rasul, who is additionally sent with a message or law to a community — every rasul being a nabi, but not conversely. Kalam treated prophethood as a rationally examinable institution, addressing questions such as why prophethood is necessary, how a genuine prophet is recognized, and what protects a prophet from error. A prophet's claim was classically held to be authenticated by an evidentiary miracle (mu'jiza), an act exceeding human capacity that accompanies and confirms the claim to be sent by God. Many theologians also affirmed the doctrine of 'isma, the divinely granted protection of prophets from sin or error, though the scope of that protection was debated across schools. The theological schools differed on the underlying rationale: Mu'tazili theologians, emphasizing divine justice and human reason, tended to argue that sending prophets serves an ascertainable good, while Ash'ari theologians grounded prophethood in God's will and framed the miracle as the decisive sign. In Islamic doctrine Muhammad is affirmed as the last of the prophets (khatam al-nabiyyin), the seal of prophethood.",
+  "editorial_notes": "This entry is scoped as an introduction to nubuwwa as a topic of kalam. The nabi/rasul distinction, the miracle (mu'jiza) as proof, 'isma (prophetic protection from sin), and the finality of prophethood are named as classical themes without adjudicating the school-specific disputes over each (e.g. the precise scope of 'isma, or whether prophethood is rationally obligatory upon God). The claim that Wensinck authored the Encyclopaedia of Islam treatment of prophethood surfaced in secondary references but was not directly verified against the Brill entry itself; the EI source below is therefore rated medium confidence. Coverage of Shi'i prophetology (e.g. its close linkage to imama/wilaya) is deferred to dedicated entries.",
+  "relations": [
+    { "type": "related_to", "target": "tawhid", "note": "Prophethood delivers and safeguards the message of God's oneness." },
+    { "type": "part_of", "target": "usul-al-din", "note": "Nubuwwa is classically enumerated among the foundational articles of belief." },
+    { "type": "related_to", "target": "mujiza", "note": "The evidentiary miracle classically authenticates a prophet's claim." },
+    { "type": "related_to", "target": "isma", "note": "Prophetic protection from sin or error." },
+    { "type": "related_to", "target": "khatam-al-nabiyyin", "note": "The finality/seal of prophethood affirmed of Muhammad." }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "Rooted in the earliest Qur'anic revelation; developed as a distinct treatise (nubuwwat) by the theological schools from roughly the 8th–10th centuries CE onward."
+  },
+  "sources": [
+    {
+      "citation": "Wensinck, A. J. et al. \"Nubuwwa.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0895.xml",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

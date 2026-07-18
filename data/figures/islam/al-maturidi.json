@@ -1,0 +1,52 @@
+{
+  "id": "al-maturidi",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Maturidi",
+    "original": "أبو منصور الماتريدي",
+    "transliteration": "Abū Manṣūr Muḥammad ibn Muḥammad al-Māturīdī al-Samarqandī",
+    "aliases": ["Abu Mansur al-Maturidi", "al-Maturidi", "Imam Maturidi"]
+  },
+  "roles": ["theologian", "jurist", "exegete"],
+  "summary": "Abu Mansur al-Maturidi (d. 944 CE) was a Hanafi theologian, jurist, and Qur'an exegete active in Samarqand and the eponymous founder of the Maturidiyya, one of the two principal schools of Sunni kalam. His theology drew on the tradition of Abu Hanifa and gave a substantial role to reason alongside revelation.",
+  "description": "Al-Maturidi took his name from Maturid, a locality of Samarqand in Transoxania (present-day Uzbekistan). Comparatively little is documented about his life; the sources preserve lists of his works and teachers more than a connected biography, and report that he studied under masters in the Hanafi tradition of the region. His two most cited works are the Kitab al-Tawhid, a systematic work of theology, and the Ta'wilat ahl al-sunna (also called Ta'wilat al-Qur'an), a Qur'an commentary. Building on theological positions associated with Abu Hanifa, he defended Sunni doctrine using rational argument, holding that reason can attain knowledge of God's existence while the detailed rulings of the revealed law depend on revelation. On several contested questions, including human acts and the divine attributes, later doxographers describe his school as occupying a position distinct from both the Mu'tazila and the Ash'ariyya. The Maturidiyya came to be associated especially with Hanafi communities and, alongside the Ash'ariyya, is counted as one of the two main schools of Sunni theology; much of its later systematic form is owed to followers such as al-Nasafi rather than to al-Maturidi's own texts alone.",
+  "editorial_notes": "The death date is given as 333/944, which is the standard report; the birth date is not securely known and is therefore omitted rather than guessed. The scarcity of biographical material is itself noted in the scholarship and is reflected in the caution of this entry. Characterizations of the Maturidiyya as a 'middle position' between Mu'tazila and Ash'ariyya come largely from later doxography; this entry reports that framing without endorsing it as al-Maturidi's own self-understanding. The retrospective consolidation of a distinct Maturidi school (partly by later Hanafi theologians) is flagged rather than projected back onto al-Maturidi himself.",
+  "lifespan": {
+    "death": 944,
+    "note": "Died 333 AH / 944 CE in Samarqand; birth date not securely attested and left unspecified."
+  },
+  "relations": [
+    { "type": "founded", "target": "maturidiyya", "note": "Eponymous founder of the Maturidi school of Sunni kalam." },
+    { "type": "member_of", "target": "hanafiyya", "note": "Worked within the Hanafi juristic and theological tradition of Transoxania." },
+    { "type": "influenced_by", "target": "abu-hanifa", "note": "Drew on theological positions associated with Abu Hanifa." },
+    { "type": "articulated", "target": "tawhid", "note": "Author of the Kitab al-Tawhid, a systematic treatment of divine unity." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "Developed a Sunni account of the divine attributes distinct from the Mu'tazila." }
+  ],
+  "sources": [
+    {
+      "citation": "\"Abu Mansur Muhammad al-Maturidi,\" Encyclopædia Britannica.",
+      "url": "https://www.britannica.com/biography/Abu-Mansur-Muhammad-al-Maturidi",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Rudolph, Ulrich. Al-Māturīdī and the Development of Sunnī Theology in Samarqand. Trans. Rodrigo Adem. Islamic History and Civilization. Leiden: Brill, 2015.",
+      "url": "https://brill.com/display/title/24184",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "\"Maturidiyyah,\" Encyclopædia Britannica.",
+      "url": "https://www.britannica.com/topic/Maturidiyah",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

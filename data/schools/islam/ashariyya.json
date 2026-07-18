@@ -1,0 +1,63 @@
+{
+  "id": "ashariyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ash'ariyya",
+    "original": "الأشعرية",
+    "transliteration": "al-Ashʿariyya",
+    "aliases": ["Ash'arism", "Ash'arite school", "Ash'arites", "Asha'ira"]
+  },
+  "summary": "The Ash'ariyya are a Sunni school of theology (kalam) founded by Abu al-Hasan al-Ash'ari, which used the rationalist methods of the theologians while affirming positions closer to the traditionists, notably that the divine attributes are real and the Qur'an uncreated, that God will be seen in the hereafter, and that human acts are created by God but 'acquired' (kasb) by human beings.",
+  "description": "The Ash'ariyya take their name from Abu al-Hasan al-Ash'ari (c. 260-324 AH / 874-935 CE), who was born in Basra and trained under the Basran Mu'tazili master Abu 'Ali al-Jubba'i before publicly renouncing Mu'tazilism, reportedly around 300/912, and moving to Baghdad, where he spent the rest of his life writing against his former school. The school he inspired sought a middle path between the rationalism of the Mu'tazila and the strict traditionism (Atharism) of the Hanbalis and others: it deployed dialectical theology but placed it in the service of doctrines held to be closer to those of the early community. On the divine attributes, al-Ash'ari affirmed that God possesses real attributes such as knowledge, power, will, life, speech, hearing, sight, and the attributes named in scripture (such as 'hand' and 'face'), to be affirmed without asking how (bila kayfa) and without likening God to creatures. Against the Mu'tazila, the school held the Qur'an, as God's eternal speech, to be uncreated, and affirmed that the blessed will see God in the hereafter (ru'yat Allah). On human action, al-Ash'ari taught the doctrine of kasb ('acquisition'): God creates every act, while the human being 'acquires' it through a created capacity, a formula intended to hold together divine omnipotence and human accountability. The school was consolidated and elaborated by later figures including al-Baqillani (d. 403/1013), al-Juwayni (d. 478/1085), al-Ghazali (d. 505/1111), and Fakhr al-Din al-Razi (d. 606/1210), and it became, alongside Maturidism, one of the principal theological schools of Sunni Islam.",
+  "editorial_notes": "Al-Ash'ari's death date (324/935-936) is well attested; his birth date (c. 260/874) and the precise year of his break with the Mu'tazila (reported around 300/912) are given approximately, as sources vary. The account of a dramatic public renunciation in the mosque is the traditional narrative and is reported as such. The label 'Atharism' for the traditionist position the school defined itself against is used descriptively; the precise boundary between early Ash'arism and Hanbali traditionism is a matter of scholarly discussion not adjudicated here. The 'split_from' relation to the Mu'tazila reflects al-Ash'ari's biographical departure from that school and the doctrinal reaction it represents; it is not claimed that the Ash'ariyya is a formal sub-branch of the Mu'tazila. Several relation targets (al-Baqillani, al-Juwayni, al-Ghazali, al-Razi) are not yet separate entries in this dataset.",
+  "period": {
+    "founded": 912,
+    "note": "Approximate; dated to al-Ash'ari's break with the Mu'tazila (c. 300/912) and his subsequent teaching in Baghdad until his death in 324/935. The school remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "al-ashari", "note": "Abu al-Hasan al-Ash'ari (d. 324/935), eponymous founder." },
+    { "type": "split_from", "target": "mutazila", "note": "Al-Ash'ari was trained as a Mu'tazili under al-Jubba'i before renouncing the school; the Ash'ariyya arose in reaction to Mu'tazili doctrine." },
+    { "type": "opposed", "target": "mutazila", "note": "The school argued against characteristic Mu'tazili positions on the attributes, the createdness of the Qur'an, and the vision of God." },
+    { "type": "holds", "target": "kasb", "note": "The doctrine of 'acquisition': God creates the act, the human being acquires it." },
+    { "type": "holds", "target": "ruyat-allah", "note": "Affirms that the blessed will see God in the hereafter, contrary to the Mu'tazila." },
+    { "type": "holds", "target": "al-asma-wa-l-sifat", "note": "Affirms the reality of the divine names and attributes, without likening God to creatures and without asking how (bila kayfa)." },
+    { "type": "rejects", "target": "khalq-al-quran", "note": "Rejects the createdness of the Qur'an, holding God's speech to be eternal and uncreated." },
+    { "type": "related_to", "target": "maturidiyya", "note": "The two schools are the principal theological schools of Sunni Islam and are broadly close in doctrine, differing on several points." },
+    { "type": "key_figure", "target": "al-ghazali", "note": "Al-Ghazali (d. 505/1111), a major later exponent." },
+    { "type": "key_figure", "target": "al-juwayni", "note": "Al-Juwayni (d. 478/1085), an important systematizer of the school." }
+  ],
+  "sources": [
+    {
+      "citation": "Frank, R. M., and Gimaret, D. \"al-Ashʿarī, Abu ’l-Ḥasan.\" Encyclopaedia of Islam and related reference works; see also 'Ash'ariyya' entries.",
+      "url": "https://nasafi.org/ashari-ei2/",
+      "license": "Proprietary EI2 text; cited for reference via reproduction, not reproduced here.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "\"Ash'ariyya and Mu'tazila.\" Routledge Encyclopedia of Philosophy (H052).",
+      "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/v-1",
+      "license": "Proprietary — cited for reference; consulted via muslimphilosophy.com mirror.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "\"Ashʿarī, al- (AH 260-324/874-935 CE).\" Routledge Encyclopedia of Philosophy biographical entry.",
+      "url": "http://www.muslimphilosophy.com/ip/ashari.htm",
+      "license": "Proprietary — cited for reference; consulted via muslimphilosophy.com mirror.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

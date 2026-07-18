@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hierologia.dev/schema/school.schema.json",
+  "title": "School",
+  "description": "A school of thought, theological movement, or sect within a tradition. One file per school. Shares the provenance and lifecycle model of Concept.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "tradition", "names", "summary", "sources", "status", "schema_version", "updated"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable slug; part of the API URL. Never change once published." },
+    "tradition": { "type": "string", "enum": ["islam"] },
+    "names": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary"],
+      "properties": {
+        "primary": { "type": "string" },
+        "original": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "aliases": { "type": "array", "items": { "type": "string" }, "description": "Alternate names, adjectival forms (e.g. 'Ash'arite'), member demonyms." }
+      }
+    },
+    "summary": { "type": "string", "minLength": 1, "description": "One to two neutral sentences." },
+    "description": { "type": "string", "description": "Neutral account of origins, defining doctrines, and historical arc. Claims traceable to sources." },
+    "editorial_notes": { "type": "string", "description": "Editor notes; served publicly for transparency." },
+    "period": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Rough temporal extent. Approximate is fine.",
+      "properties": {
+        "founded": { "type": "integer", "description": "Year CE (negative for BCE)." },
+        "active_until": { "type": "integer", "description": "Omit if still active or diffuse." },
+        "note": { "type": "string" }
+      }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "target"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["founded_by", "key_figure", "holds", "rejects", "opposed", "split_from", "influenced_by", "related_to"]
+          },
+          "target": { "type": "string", "description": "id of the target entity (may not exist yet)." },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["citation", "confidence"],
+        "properties": {
+          "citation": { "type": "string" },
+          "url": { "type": "string" },
+          "license": { "type": "string" },
+          "accessed": { "type": "string", "format": "date" },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "status": { "type": "string", "enum": ["draft", "reviewed", "verified"] },
+    "schema_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "created": { "type": "string", "format": "date" },
+    "updated": { "type": "string", "format": "date" }
+  }
+}

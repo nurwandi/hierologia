@@ -1,0 +1,45 @@
+{
+  "id": "akhira",
+  "tradition": "islam",
+  "names": {
+    "primary": "Akhira",
+    "original": "آخرة",
+    "transliteration": "al-ākhira",
+    "aliases": ["The Hereafter", "The Afterlife", "The Last Things", "Eschatology"]
+  },
+  "category": "eschatology",
+  "summary": "Al-akhira is the Islamic doctrine of the hereafter: the life to come after death, encompassing resurrection, divine judgment, and the recompense of paradise and hell. Belief in the last day is a core article of Islamic faith.",
+  "description": "Al-akhira (\"the last\" or \"the hereafter\") designates the world to come, contrasted with al-dunya, the present world. Closely associated is the term ma'ad (\"the return\" or \"place of return\"), which classical thought used for the resurrection and the return of creatures to God. Belief in the last day is enumerated among the foundational articles of Islamic faith, and death, the end of the world, and resurrection are recurring themes of the Qur'an and hadith. The classical picture includes the resurrection of the dead, a day of judgment on which deeds are weighed, and consignment to paradise (janna) or hell (jahannam). Systematic theology (kalam) took up a series of contested questions around these themes: whether eschatological texts should be read literally or figuratively; whether paradise and hell already exist or are created at the end; whether punishment in hell is everlasting or has a term; and how justice is to be reconciled with predestination. A prominent and much-discussed dispute concerned the nature of resurrection itself. The philosophers in the Avicennian tradition tended toward an account emphasizing the survival of the soul, while theologians insisted on bodily resurrection; al-Ghazali, in his Tahafut al-Falasifa, condemned the philosophers' denial that souls return to bodies as one of three doctrines incompatible with Islamic belief. The schools of kalam differed in emphasis and vocabulary but shared affirmation of a real hereafter in which human beings are held to account.",
+  "editorial_notes": "This entry treats al-akhira as an umbrella for Islamic eschatology and glosses the closely related term ma'ad rather than splitting them; a dedicated 'maad' entry is a candidate for expansion. The literal-vs-figurative reading of eschatological texts, the eternity of hell, and the pre-existence of paradise and hell are named as live classical disputes but not adjudicated, per the neutrality policy. The al-Ghazali / Avicenna dispute over bodily versus spiritual resurrection is presented as attributed positions; the characterization rests on the Stanford Encyclopedia of Philosophy entry on al-Ghazali (high confidence). Intra-school detail (e.g. the barzakh, the intermediate state, and the signs of the Hour) is deferred to future entries.",
+  "relations": [
+    { "type": "related_to", "target": "maad", "note": "Ma'ad (the return / resurrection) is the closely linked term for the eschatological return to God." },
+    { "type": "related_to", "target": "qiyama", "note": "The resurrection and day of judgment." },
+    { "type": "related_to", "target": "adl", "note": "Divine justice frames the recompense of deeds in the hereafter." },
+    { "type": "related_to", "target": "qadar", "note": "The reconciliation of judgment with predestination is a classical eschatological question." },
+    { "type": "contrasts_with", "target": "dunya", "note": "Al-akhira is defined in contrast to al-dunya, the present world." }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "Grounded in Qur'anic revelation; elaborated by the theological schools and the philosophers from roughly the 8th–12th centuries CE."
+  },
+  "sources": [
+    {
+      "citation": "Griffel, Frank. \"al-Ghazali.\" In The Stanford Encyclopedia of Philosophy, ed. Edward N. Zalta. Metaphysics Research Lab, Stanford University.",
+      "url": "https://plato.stanford.edu/entries/al-ghazali/",
+      "license": "Open access (Creative Commons; SEP is free to read online). Cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "\"Islam: Eschatology, Judgment, Afterlife.\" Encyclopædia Britannica.",
+      "url": "https://www.britannica.com/topic/Islam/Eschatology-doctrine-of-last-things",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

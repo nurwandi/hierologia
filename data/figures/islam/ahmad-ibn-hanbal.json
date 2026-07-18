@@ -1,0 +1,52 @@
+{
+  "id": "ahmad-ibn-hanbal",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ahmad ibn Hanbal",
+    "original": "أحمد بن حنبل",
+    "transliteration": "Aḥmad ibn Muḥammad ibn Ḥanbal al-Shaybānī",
+    "aliases": ["Imam Ahmad", "Ibn Hanbal", "Abū ʿAbd Allāh Aḥmad ibn Ḥanbal"]
+  },
+  "roles": ["traditionist", "jurist", "theologian"],
+  "summary": "Ahmad ibn Hanbal (780–855 CE) was a Baghdad-based traditionist (muhaddith) and jurist, eponym of the Hanbali school of law and a central authority for the Athari (traditionist) current in Sunni theology. He is best known for refusing, under the Abbasid mihna, to affirm that the Qur'an was created.",
+  "description": "Ahmad ibn Hanbal was born in Baghdad and devoted himself to the collection and transmission of hadith, travelling widely and compiling the large hadith collection known as the Musnad. His juristic method privileged the Qur'an and prophetic reports over speculative reasoning (ra'y) and gave a restricted role to analogy (qiyas), and the legal school named after him is generally characterized as the most text-oriented of the major Sunni madhhabs. In theology he is a foundational figure for the Athari or traditionist tendency, which affirms the transmitted texts concerning God and generally resists the dialectical method of kalam. His prominence crystallized during the mihna, the inquisition instituted under the caliph al-Ma'mun (from 218/833) to compel scholars to affirm the Mu'tazili doctrine that the Qur'an is created (khalq al-Qur'an). According to the traditional Sunni account, Ibn Hanbal refused to affirm the doctrine despite imprisonment and corporal punishment, holding instead that the Qur'an is the uncreated speech of God; his stance made him, in later Sunni memory, an emblem of resistance to the doctrine. His theology is closely associated with affirming what the sources transmit about God while declining to interpret it away, a stance later invoked within debates over tanzih (divine transcendence) and anthropomorphic-seeming language.",
+  "editorial_notes": "Dates are given as 164/780 – 241/855, standard in the sources. The narrative of Ibn Hanbal's conduct under the mihna comes substantially through later Sunni and Hanbali tradition, which venerates him; this entry reports the tradition and its role in his reputation rather than treating every detail as independently established. Labels such as 'Athari' and 'traditionist' are applied retrospectively; Ibn Hanbal did not author a systematic theology, and the creedal texts ascribed to him raise questions of attribution flagged here but not resolved. His relation to later Hanbali theology (e.g. Ibn Taymiyya) is one of influence claimed by that later tradition, not treated here as doctrinal identity.",
+  "lifespan": {
+    "birth": 780,
+    "death": 855,
+    "note": "164 AH – 241 AH; commonly given as 780–855 CE."
+  },
+  "relations": [
+    { "type": "refuted", "target": "khalq-al-quran", "note": "Refused under the mihna to affirm the createdness of the Qur'an, holding it to be uncreated divine speech." },
+    { "type": "related_to", "target": "tanzih", "note": "His traditionist affirmation of scriptural statements about God bears on later debates over divine transcendence." },
+    { "type": "founded", "target": "hanbaliyya", "note": "Eponym of the Hanbali school of law; the school's formation is attributed to his students and successors." },
+    { "type": "member_of", "target": "athariyya", "note": "Foundational figure for the traditionist (Athari) theological tendency; the label is applied retrospectively." },
+    { "type": "refuted", "target": "mutazila", "note": "Opposed the Mu'tazili theology promoted during the mihna." }
+  ],
+  "sources": [
+    {
+      "citation": "\"Ahmad ibn Hanbal\" and \"Mihna,\" in Tim Winter (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "\"Mihna,\" Encyclopedia.com (drawing on the Encyclopedia of Religion).",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/mihna",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Melchert, Christopher. Ahmad ibn Hanbal. Makers of the Muslim World. Oneworld, 2006. (General scholarly biography; specific claims here not page-verified.)",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "low"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

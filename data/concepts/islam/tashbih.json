@@ -1,0 +1,43 @@
+{
+  "id": "tashbih",
+  "tradition": "islam",
+  "names": {
+    "primary": "Tashbih",
+    "original": "تشبيه",
+    "transliteration": "tashbīh",
+    "aliases": ["Anthropomorphism", "Assimilation", "Likening God to creation"]
+  },
+  "category": "theology-proper",
+  "summary": "Tashbih is the likening or assimilation of God to created things, typically applied to over-literal readings of scriptural descriptions of God's attributes. In Islamic theological discourse it functions largely as a term of critique and stands as the counter-pole to tanzih, the affirmation of God's transcendence.",
+  "description": "Tashbih (from a root meaning \"to liken\" or \"to compare\") denotes describing God in terms drawn from created things — attributing to Him bodily form, location, or human-like qualities. It is closely associated with tajsim (corporealism), the ascription of a body to God. Throughout classical kalam the word carried a pejorative charge: to be labeled a mushabbih (\"assimilationist\") was to be accused of compromising God's uniqueness.\n\nThe concept is best understood in tension with its counter-pole, tanzih, the declaration of God's absolute transcendence and freedom from resemblance to creation. Much of classical theology can be read as an attempt to hold the two in balance: to affirm the scriptural descriptions of God — His \"hand,\" \"face,\" and \"establishment\" upon the throne — without lapsing into either anthropomorphism (tashbih) on one side or, on the other, a stripping-away of the attributes (ta'til) that empties them of meaning.\n\nThe theological schools handled this tension differently. The Mu'tazila leaned strongly toward tanzih and read the anthropomorphic expressions figuratively (ta'wil), so as to deny God any bodily or spatial predicate. Traditionist and later Ash'ari and Maturidi theologians affirmed the attributes as reported while denying that they resemble creaturely attributes; a widely used formula is the affirmation of an attribute bila kayfa (\"without asking how\") and bila tashbih (\"without likening\"). The charge of tashbih was polemically directed at various groups, and its precise scope — which affirmations count as anthropomorphism and which as faithful acceptance of revelation — was itself contested among the schools.",
+  "editorial_notes": "This entry frames tashbih through its standard pairing with tanzih, following the way the two terms are treated jointly in the reference literature (notably van Ess's combined Encyclopaedia of Islam entry \"Tashbih wa-Tanzih\"). It reports the pejorative use of the label and the differing school responses without endorsing any group's judgment about who was or was not a mushabbih — that boundary was itself a live polemical dispute and is deliberately left unadjudicated per the neutrality policy. The related terms tajsim (corporealism), ta'wil (figurative interpretation), and ta'til (negation of attributes) are glossed only briefly and are candidates for their own entries. A dedicated tanzih entry is assumed as the natural contrast target.",
+  "relations": [
+    { "type": "contrasts_with", "target": "tanzih", "note": "Tashbih (likening God to creation) is the counter-pole to tanzih (divine transcendence)." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "The dispute centers on how the divine names and attributes are to be understood." },
+    { "type": "related_to", "target": "tawhid", "note": "Assimilating God to creation was held to compromise His absolute uniqueness." }
+  ],
+  "historical_period": {
+    "start": 700,
+    "note": "Debates over tashbih and tanzih shaped early and classical kalam from roughly the 8th century CE onward; no single origin date applies."
+  },
+  "sources": [
+    {
+      "citation": "van Ess, J. \"Tas̲h̲bīh wa-Tanzīh.\" In Encyclopaedia of Islam, 2nd ed., ed. P. Bearman et al. Leiden: E. J. Brill, 2001.",
+      "url": "https://referenceworks.brill.com/display/entries/EIFO/COM-1190.xml",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Shah, M. \"Tanzīh and Tashbīh in Classical Islamic Theological Thought.\" Oxford Bibliographies in Islamic Studies. Oxford University Press.",
+      "url": "https://www.oxfordbibliographies.com/display/document/obo-9780195390155/obo-9780195390155-0251.xml",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

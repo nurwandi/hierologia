@@ -1,0 +1,54 @@
+{
+  "id": "mutazila",
+  "tradition": "islam",
+  "names": {
+    "primary": "Mu'tazila",
+    "original": "المعتزلة",
+    "transliteration": "al-Muʿtazila",
+    "aliases": ["Mu'tazilism", "Mu'tazilite school", "Mu'tazilites", "Ahl al-'Adl wa-l-Tawhid", "People of Justice and Unity"]
+  },
+  "summary": "The Mu'tazila were an early school of Islamic speculative theology (kalam) that sought a rationally coherent account of Islamic doctrine, distinguished above all by its insistence on divine unity understood as the identity of God's essence and attributes, and on divine justice understood to entail human free will.",
+  "description": "The Mu'tazila emerged in Basra in the first half of the 2nd century AH (8th century CE), its founding conventionally traced to Wasil ibn 'Ata (d. 131/748), who according to the traditional account 'withdrew' (from which the name i'tizal is derived) from the circle of Hasan al-Basri over the status of the Muslim who commits a grave sin, holding such a person to occupy an 'intermediate position' between belief and unbelief. 'Amr ibn 'Ubayd is associated with the movement's early formation. Later thinkers such as Abu al-Hudhayl al-'Allaf, al-Nazzam, the Basran master al-Jubba'i (d. 303/915), and Qadi 'Abd al-Jabbar (d. 415/1025) systematized its doctrine. Muslim heresiographers summarize Mu'tazili teaching under five principles (al-usul al-khamsa): the unity of God (tawhid), divine justice ('adl), the promise and the threat (al-wa'd wa-l-wa'id), the intermediate position (al-manzila bayna al-manzilatayn), and commanding right and forbidding wrong (al-amr bi-l-ma'ruf wa-l-nahy 'an al-munkar). From tawhid the school argued that the divine attributes are not entities distinct from God's essence and, correspondingly, that the Qur'an is created rather than co-eternal with God; it also tended to deny that God can be seen with the eyes in the hereafter, in the interest of divine transcendence. From 'adl it argued that good and evil are objective and knowable by reason and that human beings are the genuine authors of their acts. The school enjoyed official favor during the mihna under the Abbasid caliph al-Ma'mun and his successors in the 3rd/9th century, but later lost its dominant position; its rationalist theology was subsequently opposed by the Ash'ariyya and other schools.",
+  "editorial_notes": "The founding narrative (Wasil's withdrawal from Hasan al-Basri over the grave sinner) is the traditional account preserved by later heresiographers and is reported here as such; scholars note variant and disputed versions of the episode, which this entry does not adjudicate. The formulation of the 'five principles' as a fixed set is itself a later systematization attributed in some sources to Abu al-Hudhayl rather than to Wasil. Dates are given in AH/CE where sources agree; the 131/748 death date for Wasil is well attested. Doctrinal relations (holds 'adl'/'khalq-al-quran', rejects 'ruyat-allah') reflect the school's characteristic positions as described in the cited surveys; individual Mu'tazili thinkers differed on details, and those targets are linked as concepts rather than as unanimous positions. Some relation targets (e.g. key figures beyond Wasil) are not yet separate entries in this dataset.",
+  "period": {
+    "founded": 748,
+    "note": "Approximate; conventionally dated to the activity of Wasil ibn 'Ata (d. 131/748) in Basra. The school remained influential into the 5th/11th century and beyond in some regions, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "wasil-ibn-ata", "note": "Traditional founder; the name i'tizal is linked to his 'withdrawal' from Hasan al-Basri's circle." },
+    { "type": "key_figure", "target": "abu-al-hudhayl", "note": "Abu al-Hudhayl al-'Allaf, an early systematizer credited with formulating the five principles." },
+    { "type": "key_figure", "target": "abd-al-jabbar", "note": "Qadi 'Abd al-Jabbar (d. 415/1025), a major later Mu'tazili theologian whose works preserve much of the school's teaching." },
+    { "type": "holds", "target": "adl", "note": "Divine justice ('adl), one of the five principles; entails human responsibility for acts." },
+    { "type": "holds", "target": "khalq-al-quran", "note": "The createdness of the Qur'an, following from the school's account of divine unity." },
+    { "type": "holds", "target": "tanzih", "note": "Emphasis on divine transcendence, informing its reading of the attributes." },
+    { "type": "rejects", "target": "ruyat-allah", "note": "The school characteristically denied that God will be seen with the eyes in the hereafter." },
+    { "type": "opposed", "target": "ashariyya", "note": "The later Ash'ariyya arose in part in opposition to Mu'tazili positions; the opposition is mutual and post-dates the Mu'tazila's founding." }
+  ],
+  "sources": [
+    {
+      "citation": "Gimaret, D. \"Muʿtazila.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0822.xml",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "\"Ash'ariyya and Mu'tazila.\" Routledge Encyclopedia of Philosophy (H052).",
+      "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/v-1",
+      "license": "Proprietary — cited for reference; consulted via muslimphilosophy.com mirror.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

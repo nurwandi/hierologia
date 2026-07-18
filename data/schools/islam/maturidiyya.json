@@ -1,0 +1,54 @@
+{
+  "id": "maturidiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Maturidiyya",
+    "original": "الماتريدية",
+    "transliteration": "al-Māturīdiyya",
+    "aliases": ["Maturidism", "Maturidi school", "Maturidites", "Maturidiyyah"]
+  },
+  "summary": "The Maturidiyya are a Sunni school of theology (kalam) founded by Abu Mansur al-Maturidi in Samarqand, closely associated with the Hanafi legal tradition, which is generally counted alongside the Ash'ariyya as one of the two principal Sunni theological schools and holds broadly similar positions while differing on several points, notably the capacity of unaided reason to know God and the good.",
+  "description": "The Maturidiyya take their name from Abu Mansur al-Maturidi (d. 333/944), a theologian who worked in Samarqand in Central Asia during the Samanid period and stood within the Hanafi juristic and theological tradition traced back to Abu Hanifa. His principal surviving works are the Kitab al-Tawhid and the Qur'an commentary Ta'wilat al-Qur'an (also known as Ta'wilat Ahl al-Sunna). Like the Ash'ariyya, the school employed dialectical theology in defense of Sunni doctrine and occupied a position between Mu'tazili rationalism and strict traditionism. Scholars commonly identify several points on which Maturidi teaching characteristically differs from Ash'ari teaching: al-Maturidi held that the unaided intellect can attain knowledge of God's existence and can recognize the good and evil of some acts prior to revelation, while maintaining that specific religious obligation is established only by revelation; he affirmed human freedom of choice (ikhtiyar) and a distinction within the human act somewhat more robustly than al-Ash'ari; and he counted God's creative act (takwin) among the eternal attributes. The two schools are nevertheless broadly convergent, and both are embraced under the designation Ahl al-Sunna wa-l-Jama'a. Maturidism became the prevailing theology of the Hanafi communities of Central Asia, the later Ottoman lands, and South Asia. A key later text is the creed ('Aqa'id) of al-Nasafi (d. 537/1142), which distilled the school's doctrine into a widely taught summary.",
+  "editorial_notes": "Al-Maturidi's death date (333/944) is well attested; his birth date is uncertain and is sometimes given as c. 238/853, so no founding-by-birth date is asserted here. The catalog of Maturidi-Ash'ari differences (reason and the knowledge of good and evil, human freedom, the eternity of takwin) follows standard surveys; these differences are widely described as real but limited in scope, and later authors dispute how substantive several of them are. This entry reports the points of difference without adjudicating their weight. The 'related_to' link to the Ash'ariyya reflects their shared status as the two main Sunni kalam schools; it is not claimed that one derived from the other. The relation targets al-maturidi, adl, and al-nasafi may not yet be separate entries in this dataset.",
+  "period": {
+    "founded": 944,
+    "note": "Approximate; anchored to al-Maturidi (d. 333/944), who was active in Samarqand in the late 3rd/9th and early 4th/10th centuries. The school remains active, so no active_until is asserted."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "al-maturidi", "note": "Abu Mansur al-Maturidi (d. 333/944), eponymous founder, working in Samarqand." },
+    { "type": "related_to", "target": "ashariyya", "note": "Counted alongside the Ash'ariyya as one of the two principal Sunni theological schools; broadly convergent, differing on several points." },
+    { "type": "related_to", "target": "hanafi", "note": "Closely associated with the Hanafi legal tradition and its Central Asian scholars." },
+    { "type": "holds", "target": "adl", "note": "Affirms divine justice and human freedom of choice (ikhtiyar), while grounding specific obligation in revelation." },
+    { "type": "holds", "target": "kasb", "note": "Employs a doctrine of acquisition (iktisab) of the human act, framed with more emphasis on human choice than the Ash'ari formulation." },
+    { "type": "holds", "target": "ruyat-allah", "note": "Affirms, with the Ash'ariyya and against the Mu'tazila, that God will be seen in the hereafter." },
+    { "type": "opposed", "target": "mutazila", "note": "Argued against Mu'tazili positions while granting reason a wider role than the Ash'ariyya did." },
+    { "type": "key_figure", "target": "al-nasafi", "note": "Al-Nasafi (d. 537/1142), whose 'Aqa'id became a standard summary of Maturidi doctrine." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, W. \"al-Māturīdī, Abū Manṣūr.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/entries/EIEO/COM-0713.xml",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rudolph, U. Al-Māturīdī and the Development of Sunnī Theology in Samarqand. Trans. R. Adem. Leiden: Brill, 2015.",
+      "url": "https://brill.com/display/title/20807",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

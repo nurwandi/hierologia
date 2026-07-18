@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hierologia.dev/schema/concept.schema.json",
+  "title": "Concept",
+  "description": "A theological concept or doctrine. One file per concept. This schema is the contract for the public API payload; every field here is served as-is.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "tradition", "names", "summary", "sources", "status", "schema_version", "updated"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable slug. Becomes part of the API URL. Never change once published.",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "tradition": {
+      "type": "string",
+      "description": "Religious/theological tradition. Starts with 'islam'; enum will grow as scope widens.",
+      "enum": ["islam"]
+    },
+    "names": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary"],
+      "properties": {
+        "primary": { "type": "string", "description": "Common romanized name used as the display label." },
+        "original": { "type": "string", "description": "Name in its original script (e.g. Arabic)." },
+        "transliteration": { "type": "string", "description": "Scholarly transliteration with diacritics." },
+        "aliases": { "type": "array", "items": { "type": "string" }, "description": "Alternate names / translations." }
+      }
+    },
+    "category": {
+      "type": "string",
+      "description": "Theological subfield. Free-form for now; may become an enum once the taxonomy stabilizes."
+    },
+    "summary": {
+      "type": "string",
+      "description": "One to two neutral sentences. Must not favor any interpretive school.",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "description": "Longer neutral exposition. Claims should be traceable to entries in 'sources'. Keep to a few paragraphs; long-form essays belong to a future 'article' entity."
+    },
+    "editorial_notes": {
+      "type": "string",
+      "description": "Internal notes for editors (why a source was chosen, open questions, disputes). Served publicly for transparency — write it to be read."
+    },
+    "relations": {
+      "type": "array",
+      "description": "Typed links to other entities. This is what turns the dataset into a graph.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "target"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["contrasts_with", "derives_from", "part_of", "related_to", "articulated_by", "refuted_by", "elaborates"]
+          },
+          "target": { "type": "string", "description": "id of the target entity (may not exist yet)." },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "historical_period": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Rough temporal anchor. Years may be approximate; use 'note' to qualify.",
+      "properties": {
+        "start": { "type": "integer", "description": "Year (CE, negative for BCE). Approximate is fine." },
+        "end": { "type": "integer" },
+        "note": { "type": "string" }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "Provenance. The heart of the project's credibility. Every substantive claim should rest on one of these.",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["citation", "confidence"],
+        "properties": {
+          "citation": { "type": "string", "description": "Full scholarly citation." },
+          "url": { "type": "string", "description": "Stable link if available." },
+          "license": { "type": "string", "description": "License / usage terms of the source, if known." },
+          "accessed": { "type": "string", "format": "date", "description": "YYYY-MM-DD the source was consulted." },
+          "confidence": {
+            "type": "string",
+            "enum": ["high", "medium", "low"],
+            "description": "Editor's confidence that this source supports the claims it backs."
+          }
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "verified"],
+      "description": "Editorial lifecycle. Only 'reviewed' and 'verified' are meant to be relied on."
+    },
+    "schema_version": {
+      "type": "string",
+      "description": "SemVer of the schema this file was written against.",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "created": { "type": "string", "format": "date" },
+    "updated": { "type": "string", "format": "date" }
+  }
+}

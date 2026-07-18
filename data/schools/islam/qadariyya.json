@@ -1,0 +1,50 @@
+{
+  "id": "qadariyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Qadariyya",
+    "original": "القدرية",
+    "transliteration": "al-Qadariyya",
+    "aliases": ["Qadarites", "Qadariyyah", "Kadariyya", "Qadari"]
+  },
+  "summary": "The Qadariyya were early Islamic theologians of the Umayyad period who affirmed human free will and moral responsibility, holding that human beings originate their own acts rather than having them determined by God; their positions are widely regarded as a precursor to Mu'tazili theology.",
+  "description": "The Qadariyya arose in the first century AH (later 7th–early 8th century CE), chiefly in Basra and Syria under the Umayyads. The name derives from qadar, the term for divine determining or 'power/measuring out'; it was applied to them by opponents, and its use is somewhat paradoxical, since the group is defined precisely by its emphasis on human rather than divine determination of acts. Against deterministic readings on which God creates and decrees all human actions, the Qadariyya held that human beings possess genuine free will and are the real authors of their own deeds, so that divine justice and human moral accountability are preserved. Early figures associated with these views include Maʿbad al-Juhani (d. c. 699 CE) in Basra and Ghaylan al-Dimashqi (executed under the Umayyads) in Syria; both are reported to have been persecuted, and their prominence in the sources is bound up with the political tensions between the doctrine of free will and Umayyad legitimist appeals to divine decree. The Qadariyya were not a tightly organized school so much as a tendency, and the sources debate the origins of their doctrine, including polemical claims of Christian influence. Their affirmation of human free will and of divine justice is generally treated in the scholarship as a doctrinal antecedent of the Mu'tazila, who systematized comparable positions in the following centuries. As with the other early kalam groups, much of the evidence comes from later and often hostile sources, so specific doctrines attributed to named individuals should be read with caution.",
+  "editorial_notes": "This entry presents the Qadariyya as a doctrinal tendency rather than an organized school, and treats the 'precursor to the Mu'tazila' framing as a widely held scholarly reading rather than a settled genealogy — the exact lines of transmission are debated in the sources and are not adjudicated here. The name 'Qadariyya' is itself an opponents' label and is noted as such. The attribution of specific free-will doctrines to Maʿbad al-Juhani and Ghaylan al-Dimashqi rests on later reports; Steven Judd's chapter explicitly discusses the difficulty of reconstructing their views and the polemical accusations (e.g. of Christian roots) surrounding the movement, so those attributions are flagged rather than asserted as certain. A general source-critical caveat applies across all three early groups drafted in this batch: they are known substantially through the polemics of their opponents and through later heresiography. The 'mutazila' and named-figure targets may not yet exist as entries (dangling targets are permitted).",
+  "period": {
+    "founded": 690,
+    "note": "Approximate. The tendency is documented in the later first century AH (roughly the 680s–690s CE onward) under the Umayyads; no single founding date or founder is securely attested, and 690 CE is an editorial approximation. Maʿbad al-Juhani died c. 699 CE."
+  },
+  "relations": [
+    { "type": "holds", "target": "qadar", "note": "Named for qadar, but distinctively read: the Qadariyya affirmed human free will and human authorship of acts against deterministic readings of divine decree." },
+    { "type": "related_to", "target": "adl", "note": "Their emphasis on human accountability is tied to concern for divine justice (ʿadl), a link later central to the Mu'tazila." },
+    { "type": "influenced_by", "target": "mutazila", "note": "Directionally the Qadariyya are treated as a precursor to the Mu'tazila; this relation flags the widely cited genealogical link (precursor-to), though the exact transmission is debated. Target may not yet exist as an entry." },
+    { "type": "opposed", "target": "jabriyya", "note": "Stood against determinist (Jabri) positions holding that God alone creates human acts. Target may not yet exist as an entry." }
+  ],
+  "sources": [
+    {
+      "citation": "van Ess, J. \"Ḳadariyya.\" In Encyclopaedia of Islam, 2nd ed., vol. IV, pp. 368–372. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/db/eieo",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Judd, S. C. \"The Early Qadariyya.\" In Sabine Schmidtke (ed.), The Oxford Handbook of Islamic Theology. Oxford University Press, 2016.",
+      "url": "https://academic.oup.com/edited-volume/34345/chapter/291394498",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "\"Qadariyyah.\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/topic/Qadariyyah",
+      "license": "Proprietary — cited for reference; consulted for corroboration of dates, figures, and the Mu'tazila linkage.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

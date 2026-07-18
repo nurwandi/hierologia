@@ -1,0 +1,50 @@
+{
+  "id": "murjia",
+  "tradition": "islam",
+  "names": {
+    "primary": "Murji'a",
+    "original": "المرجئة",
+    "transliteration": "al-Murjiʾa",
+    "aliases": ["Murjiites", "Murji'ites", "Murji'ah", "Murji'i"]
+  },
+  "summary": "The Murji'a were an early Islamic movement that suspended (irjaʾ) judgment on the ultimate fate of the Muslim who commits a grave sin, deferring that verdict to God, and tended to treat faith (iman) as distinct from, and unimpaired by, works.",
+  "description": "The Murji'a emerged in the first century AH (later 7th–early 8th century CE) amid the disputes over the status of participants in the early civil wars (fitna) and, more broadly, over how sin bears on a person's standing as a believer. The name derives from the Arabic root r-j-ʾ, understood in the sense of 'to postpone' or 'defer' (irjaʾ): rather than pronouncing the grave sinner (murtakib al-kabira) either a believer bound for paradise or an unbeliever bound for hell, the Murji'a characteristically held that judgment on such a person should be deferred to God on the Day of Judgment. Correlatively, many Murji'a defined faith (iman) primarily as inner assent or confession, held to be complete in itself and not augmented or nullified by works ('amal); on this view a Muslim who sinned gravely remained a believer, though a disobedient one. This position was articulated in explicit contrast to the Kharijites, who declared the grave sinner an unbeliever, and it also differed from the later Mu'tazila, who assigned the grave sinner an 'intermediate position' (al-manzila bayna al-manzilatayn). The movement was not a single organized body but a spectrum of positions and sub-groups; some formulations were later regarded as moderate and were partly absorbed into emerging Sunni orthodoxy, while others were criticized by opponents as excusing wrongdoing or as politically quietist toward unjust rulers. Because the group is known largely through the reports and refutations of its opponents and through later heresiographical literature, the boundaries and internal diversity of the Murji'a are difficult to reconstruct with precision.",
+  "editorial_notes": "This entry is deliberately introductory and treats the Murji'a as a spectrum of related positions rather than a unified sect, following the caution common in the scholarly literature. The etymology of the name is itself contested in the sources — 'irjaʾ' can be read as 'postponement (of judgment)' or, in some early formulations, as 'giving hope' — and this entry foregrounds the more widely cited 'deferral' reading without adjudicating the dispute. A significant source-critical caveat applies to all three early kalam groups drafted here (Murji'a, Kharijites, Qadariyya): they are known substantially through the polemics of their opponents and through later heresiographers (e.g. al-Ashʿari, al-Shahrastani), so attributions of specific doctrines to named individuals should be treated with caution. Relations are asserted at the level of doctrinal contrast (with the Kharijites and Mu'tazila) and topical linkage (to iman and kufr); the Mu'tazila school entry does not yet exist and is a dangling target.",
+  "period": {
+    "founded": 690,
+    "note": "Approximate. The movement crystallized during the first century AH (roughly the later 7th and early 8th centuries CE); no single founding date or founder is securely attested, and the 690 CE figure is an editorial approximation, not a documented event."
+  },
+  "relations": [
+    { "type": "related_to", "target": "iman", "note": "The Murji'a characteristically defined iman as inner assent, complete in itself and not nullified by grave sin." },
+    { "type": "related_to", "target": "kufr", "note": "Central to their position was the refusal to classify the grave sinner as an unbeliever (kafir), deferring that judgment to God." },
+    { "type": "holds", "target": "irja", "note": "The doctrine of deferring (irjaʾ) judgment on the grave sinner to God on the Day of Judgment. Target may not yet exist as an entry." },
+    { "type": "opposed", "target": "kharijites", "note": "Formulated in explicit contrast to the Kharijite position that the grave sinner is an unbeliever." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, W. \"Murd̲j̲iʾa.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/db/eieo",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Winter, T. (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge University Press, 2008.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-classical-islamic-theology/",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "\"Murjiʾah.\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/topic/Murjiah",
+      "license": "Proprietary — cited for reference; consulted for corroboration of dates and the faith/works framing.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}

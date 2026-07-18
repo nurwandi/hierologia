@@ -1,0 +1,44 @@
+{
+  "id": "ruyat-allah",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ru'yat Allah",
+    "original": "رؤية الله",
+    "transliteration": "ruʾyat Allāh",
+    "aliases": ["Vision of God", "Beatific vision", "Seeing God"]
+  },
+  "category": "theology-proper",
+  "summary": "Ru'yat Allah is the theological question of whether God can be seen, especially by the blessed in the hereafter. It was a classic point of dispute in kalam, with the Mu'tazila denying the visibility of God and the Ash'ariyya and other Sunni schools affirming it.",
+  "description": "The question of ru'yat Allah asks whether God may be perceived by sight — most centrally whether the righteous will see God in the world to come. Its scriptural touchstones include Qur'anic verses read by proponents as promising the vision (notably 75:22–23, \"faces that day shall be radiant, looking toward their Lord\") and by opponents as denying it (notably 6:103, \"sight cannot reach Him\"), together with the episode of Moses at 7:143.\n\nThe Mu'tazila denied that God can be seen, in this life or the next. On their account, whatever is seen must occupy a direction and place and stand in a spatial relation to the viewer; since God is not a body and is not localized in space, ascribing visibility to Him would compromise His transcendence (tanzih). Verses appearing to promise the vision were accordingly read figuratively — for example, taking \"looking toward their Lord\" as awaiting His reward.\n\nSunni theologians affirmed the vision. Ash'ari, Maturidi, Hanbali, and related theologians held that the blessed will see God in the hereafter, taking the affirming verses and reports at face value while denying that this seeing implies that God is a body, occupies a direction, or is comprehended in His essence. A common formulation affirms the vision \"without modality\" (bila kayf) and \"without likening\" (bila tashbih), so that the reality of the vision is granted without conceding an anthropomorphic account of how it occurs. Reference literature notes that on this point the Sunni schools were broadly aligned against the Mu'tazila.",
+  "editorial_notes": "This entry presents the two principal poles of the classical dispute — Mu'tazili denial and the affirmation shared across the Sunni theological schools — as reported in the reference literature (Gimaret's Encyclopaedia of Islam treatment of the vision of God, and the Ash'ariyya/Mu'tazila survey in the Routledge Encyclopedia of Philosophy). It does not adjudicate the exegesis of the cited Qur'anic verses; the specific verse references are given as the texts around which the debate is conventionally organized, and the schools' opposed readings are attributed, not endorsed, per the neutrality policy. Internal variation — e.g., among Ash'aris on the precise mechanism of the vision, or distinct Shi'i and Ibadi positions — is out of scope here and noted as a candidate for expansion. Verse translations are the editor's plain renderings for orientation, not authoritative translations.",
+  "relations": [
+    { "type": "related_to", "target": "tanzih", "note": "The Mu'tazili denial of the vision rests on safeguarding God's transcendence." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "Whether God has 'sight' and can be an object of sight belongs to the debate over the divine attributes." },
+    { "type": "contrasts_with", "target": "tashbih", "note": "Affirmers frame the vision so as to avoid likening God to a visible body." },
+    { "type": "articulated_by", "target": "al-ashari", "note": "Ash'ari defended the visibility of God against the Mu'tazila." }
+  ],
+  "historical_period": {
+    "start": 750,
+    "note": "A standing question of classical kalam from roughly the 8th century CE, sharpened in the Mu'tazili–Ash'ari controversies of the 9th–10th centuries."
+  },
+  "sources": [
+    {
+      "citation": "Gimaret, D. \"Ruʾyat Allāh\" / \"Vision de Dieu.\" In Encyclopaedia of Islam, 2nd ed. Leiden: Brill.",
+      "url": "https://referenceworks.brill.com/display/db/eieo",
+      "license": "Proprietary — cited for reference; text not reproduced.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Frank, R. M. et al. \"Ashʿariyya and Muʿtazila.\" In Routledge Encyclopedia of Philosophy. London: Routledge.",
+      "url": "https://www.rep.routledge.com/articles/thematic/ash-ariyya-and-mu-tazila/v-1",
+      "license": "Proprietary — cited for reference.",
+      "accessed": "2026-07-18",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-18",
+  "updated": "2026-07-18"
+}
