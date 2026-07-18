@@ -2,6 +2,10 @@
   <img src="assets/hierologia-banner.png" alt="Hierologia" width="100%">
 </p>
 
+<p align="center">
+  <img src="web/hierologia.svg" alt="Hierologia logo" width="88" height="88">
+</p>
+
 <h1 align="center">Hierologia</h1>
 
 <p align="center"><strong>An open, neutral, well-sourced academic API for the comparative study of sacred traditions.</strong></p>
