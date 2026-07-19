@@ -6,6 +6,28 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.3] - 2026-07-19
+
+Five more entries reach `verified`, and `iman` gains its primary sources while honestly
+staying `reviewed`.
+
+### Changed
+- **`verified` grows from 15 to 20.** `trinity` (the Niceno-Constantinopolitan Creed and
+  Matthew 28:19 / 2 Corinthians 13:14), `incarnation` (John 1:1-14 and the Chalcedonian
+  Definition), `original-sin` (Romans 5:12-21 and the canons of the Second Council of
+  Orange, 529), `qiyama` (Q 75:1-6, 22:7, 36:78-79), and `nubuwwa` (Q 16:36, 4:163-165,
+  21:25, 2:285, 33:40) were verified against their load-bearing primary texts, read
+  directly. Each gains the primary-source objects that carry the claims, rated `high` on
+  the passages read.
+- **`iman`** gains its two primary sources (the Hadith of Gabriel, Sahih Muslim 8, and
+  Q 2:285) at `high` for the articles of faith, but stays `reviewed`: its distinctive
+  content, the definitional dispute and the grave-sinner taxonomy, rests on
+  heresiographical sources not yet read.
+
+### Notes
+- PATCH release: status promotions and sourcing only, no new entities and no schema
+  change. `schema_version` stays 0.5.0.
+
 ## [0.8.2] - 2026-07-19
 
 Six more entries reach `verified` after their load-bearing primary texts were read
