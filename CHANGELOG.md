@@ -6,6 +6,33 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-07-19
+
+The Abrahamic scriptures and patriarchs are added and the Judaism tradition deepens,
+closing the forward references the three traditions had opened onto one another.
+
+### Added
+- **The Abrahamic scriptures**: `tawrat` and `injil` (the Islamic conceptions of the
+  scriptures given to Moses and Jesus) and `ahl-al-kitab` (the People of the Book),
+  each framed strictly as the attributed Islamic category, and the Jewish `torah` (the
+  Pentateuch), with `tawrat compares_with torah` and `injil compares_with
+  new-testament-canon`.
+- **The patriarchs and prophets as cross-tradition pairs**, following the
+  jesus-of-nazareth/isa model (one entity per tradition, joined by compares_with):
+  `abraham` (judaism) and `ibrahim` (islam), `moses` (judaism) and `musa` (islam). The
+  disputed son of the binding (Isaac in Judaism, widely Ishmael in Islam) and the
+  historicity debates are attributed, never adjudicated.
+- **`rabbinic-judaism`**: the post-70 rabbinic movement, heir of the Pharisees and,
+  alongside Christianity, one of the two heirs of Second Temple Judaism, the sibling
+  side of the parting of the ways.
+
+### Notes
+- The dataset is now 174 entities: 111 Islamic, 55 Christian, 7 Jewish, and 1 in the
+  philosophy namespace, 172 `reviewed` and 2 `verified`. The Judaism tradition grows
+  from 3 to 7.
+- MINOR release: it adds entities and closes forward references. No schema change, so
+  `schema_version` stays 0.5.0.
+
 ## [0.7.0] - 2026-07-19
 
 The origins of Christianity open in a neutral historian's register, resting on a new
