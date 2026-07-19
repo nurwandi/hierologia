@@ -1,0 +1,52 @@
+{
+  "id": "ibn-sina",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibn Sina",
+    "original": "أبو علي الحسين بن عبد الله بن سينا",
+    "transliteration": "Abū ʿAlī al-Ḥusayn ibn ʿAbd Allāh ibn Sīnā",
+    "aliases": ["Avicenna", "Ibn Sina", "al-Shaykh al-Ra'is", "Avicenne"]
+  },
+  "roles": ["philosopher", "physician", "theologian"],
+  "summary": "Ibn Sina (c. 980-1037 CE), known in Latin as Avicenna, was a philosopher and physician associated with the falsafa tradition. He composed the philosophical summa al-Shifa' and the later al-Isharat wa-l-Tanbihat, and his medical Qanun and metaphysics were widely transmitted in both the Islamic world and the Latin West.",
+  "description": "Ibn Sina was born near Bukhara in Transoxania and worked across Khurasan and western Iran under various courts, serving as physician and administrator while writing prolifically in philosophy, medicine, and the sciences. Within the tradition of falsafa, the philosophical current that engaged the Greek heritage transmitted into Arabic, he is regarded as having reworked the Aristotelian inheritance into a systematic metaphysics of his own. His large summa al-Shifa' ('The Healing') covers logic, natural philosophy, mathematics, and metaphysics, and his later al-Isharat wa-l-Tanbihat ('Pointers and Reminders') is generally read as an expression of his mature thought. A central feature of his metaphysics, discussed extensively in modern scholarship, is the distinction between essence and existence and the analysis of God as the Necessary Existent (wajib al-wujud) from which other beings derive as contingent (mumkin al-wujud). Dimitri Gutas has argued that Avicenna understood himself as continuing and correcting the Aristotelian tradition rather than merely transmitting it, and Robert Wisnovsky has situated his metaphysics at the meeting point of the late Neoplatonic commentary tradition and Islamic doctrinal theology (kalam). His philosophical positions became a principal target of later critique: al-Ghazali's Tahafut al-Falasifa examined and criticized doctrines associated with the falasifa, in particular the Avicennan tradition. In the Latin world his metaphysics and medical Qanun were translated and studied, and later Christian theologians, including Thomas Aquinas, drew on Avicennan themes such as the essence-existence distinction. His theological engagement extends to questions of prophecy (nubuwwa) and the afterlife (maad), treated within his philosophical framework.",
+  "editorial_notes": "Birth and death years (c. 980-1037 CE) are as commonly reported; the birth year is approximate and given with c. in the lifespan note. Ibn Sina is placed within the falsafa tradition and described in its own terms before any comparison, per neutrality principle #6. The relation to al-Ghazali is stated as al-Ghazali's attributed critique of the falasifa, not as an adjudication of who was correct, per principle #1. The relation to Aquinas records the well-attested Latin reception of Avicennan metaphysics as a matter of intellectual history and is reciprocal to the existing aquinas influenced_by ibn-sina edge; it does not assert doctrinal agreement. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Gutas, Brill, 2nd ed. 2014), (b) Ibn Sina's own primary text (al-Isharat wa-l-Tanbihat in Inati's translation), and (c) a contemporary scholar's study of his metaphysics in its Islamic doctrinal context (Wisnovsky, Cornell 2003). Confidence is medium: the three sources are verified to exist and be on-topic via publisher, journal, and library catalogues and peer-reviewed reviews, but the relevant passages were not read line-by-line.",
+  "lifespan": {
+    "birth": 980,
+    "death": 1037,
+    "note": "c. 370-428 AH / c. 980-1037 CE; born near Bukhara, died at Hamadan. Birth year approximate."
+  },
+  "relations": [
+    { "type": "related_to", "target": "falsafa", "note": "A leading figure of the falsafa tradition, whose systematic metaphysics reworked the Aristotelian inheritance transmitted into Arabic." },
+    { "type": "influenced", "target": "aquinas", "note": "Avicennan metaphysics, including the essence-existence distinction, was transmitted to the Latin West and drawn on by Thomas Aquinas; the borrowing is well attested in scholarship and is reciprocal to the existing aquinas influenced_by ibn-sina edge." },
+    { "type": "related_to", "target": "al-ghazali", "note": "Doctrines associated with Ibn Sina and the falasifa were the principal target of al-Ghazali's Tahafut al-Falasifa; the critique is attributed to al-Ghazali, not adjudicated here." },
+    { "type": "related_to", "target": "maad", "note": "Treated the afterlife and the return within his philosophical framework, a topic on which later critics engaged him." }
+  ],
+  "sources": [
+    {
+      "citation": "Gutas, Dimitri. Avicenna and the Aristotelian Tradition: Introduction to Reading Avicenna's Philosophical Works. Second, Revised and Enlarged Edition. Islamic Philosophy, Theology and Science 89. Leiden: Brill, 2014. ISBN 978-90-04-25580-7.",
+      "url": "https://brill.com/display/title/12267",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Sina (Avicenna). Ibn Sina's Remarks and Admonitions: Physics and Metaphysics. An Analysis and Annotated Translation by Shams C. Inati. New York: Columbia University Press, 2014. Primary source: Avicenna's own al-Isharat wa-l-Tanbihat, a mature statement of his philosophy.",
+      "url": "https://cup.columbia.edu/book/ibn-sinas-remarks-and-admonitions-physics-and-metaphysics/9780231166164/",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wisnovsky, Robert. Avicenna's Metaphysics in Context. Ithaca, NY: Cornell University Press, 2003. ISBN 0-8014-4178-1.",
+      "url": "https://www.cornellpress.cornell.edu/book/9780801441783/avicennas-metaphysics-in-context/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

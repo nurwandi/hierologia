@@ -1,0 +1,49 @@
+{
+  "id": "nestorianism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Nestorianism",
+    "original": "Νεστοριανισμός",
+    "transliteration": "Nestorianismos",
+    "aliases": ["Nestorian controversy", "the teaching associated with Nestorius", "dyophysite (in the sense ascribed to Nestorius)"]
+  },
+  "summary": "Nestorianism is the name given to a fifth-century Christological position associated with Nestorius, bishop of Constantinople (d. c. 450), which emphasized the distinction of the divine and human in Christ and rejected the title Theotokos ('God-bearer') for Mary, preferring Christotokos. It was condemned at the Council of Ephesus (431) in the controversy with Cyril of Alexandria.",
+  "description": "Nestorianism names the Christological position associated with Nestorius (c. 386-450), a monk of Antioch who became bishop of Constantinople in 428, and the controversy that followed. As the label is conventionally used, the position stresses the full distinction of the divine and the human in Christ and is cautious about language that would attribute human experiences directly to the divine Word; Nestorius objected to calling Mary Theotokos ('God-bearer'), proposing Christotokos ('Christ-bearer') or Theodochos as more precise, on the ground that Mary bore the humanity united to the Word rather than the divinity as such. His principal opponent, Cyril of Alexandria, argued for a single subject in Christ and for the propriety of Theotokos, and the Council of Ephesus (431) condemned Nestorius, who was deposed and exiled. Modern scholarship, including John McGuckin's study of Cyril and the controversy and Susan Wessel's account of how Cyril came to be received as a saint and Nestorius as a heretic, has examined how far the condemned 'Nestorianism' corresponds to Nestorius's own views, since much of the charge rests on his opponents' presentation. In his later apology, the Bazaar of Heracleides, surviving in Syriac, Nestorius defended his teaching and argued that he had not divided Christ into two persons as his critics alleged. The wider tradition of the Church of the East, historically labelled 'Nestorian' by outsiders, preserved an Antiochene, dyophysite Christology and developed independently of the churches that received the Council of Chalcedon (451). The controversy turns on how the divine and human are united in the one Christ, a question at the center of the doctrine of the incarnation.",
+  "editorial_notes": "Nestorius's dates (c. 386-450 CE) are approximate and given with c. in the period note. 'Nestorianism' is used here as the label applied by the position's opponents and later tradition, and the entry states the disputed claims (the distinction of divine and human in Christ, and the rejection of Theotokos) as the matter in dispute, attributing positions to their holders, per neutrality principles #1 and #2; the editor does not rule which side was correct, and notes the scholarly caution about how far the condemned label matches Nestorius's own views. The relation to council-of-chalcedon is a forward reference (that entry does not yet exist), used because the churches that received Chalcedon (451) are those in which the Christology associated with Nestorius was rejected; the note records that the formal condemnation came earlier at Ephesus (431), a body not yet an entry in this dataset. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study of the controversy (McGuckin, St Vladimir's Seminary Press 2004), (b) a fifth-century primary source (Nestorius, the Bazaar of Heracleides, Driver and Hodgson translation), and (c) a contemporary scholar's study of the making of saint and heretic (Wessel, OUP 2004). Confidence is medium: the sources are verified to exist and be on-topic via publisher and journal catalogues and peer-reviewed reviews, but the relevant passages were not read line-by-line.",
+  "period": {
+    "founded": 428,
+    "active_until": 431,
+    "note": "Approximate as a controversy: Nestorius (c. 386-450) became bishop of Constantinople in 428 and was condemned at the Council of Ephesus in 431. The associated Antiochene, dyophysite Christology continued in the Church of the East long afterward. Dates are scholarly conventions, not sharp events."
+  },
+  "relations": [
+    { "type": "related_to", "target": "incarnation", "note": "The controversy turns on how the divine and human are united in the one Christ, a central question of the doctrine of the incarnation." },
+    { "type": "related_to", "target": "council-of-ephesus", "note": "Forward reference: the Council of Ephesus (431) formally condemned Nestorius and the Christology later labelled Nestorianism. Chalcedon (451) is often read as partly vindicating Antiochene two-natures language while still rejecting Nestorius. Neither council is yet an entry in this dataset." }
+  ],
+  "sources": [
+    {
+      "citation": "McGuckin, John A. St. Cyril of Alexandria and the Christological Controversy: Its History, Theology, and Texts. Crestwood, NY: St Vladimir's Seminary Press, 2004.",
+      "url": "https://svspress.com/saint-cyril-of-alexandria-and-the-christological-controversy/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nestorius. The Bazaar of Heracleides. Newly translated from the Syriac and edited with an introduction, notes, and appendices by G. R. Driver and Leonard Hodgson. Oxford: Clarendon Press, 1925. Primary source: Nestorius's own defense of his teaching.",
+      "url": "https://www.tertullian.org/fathers/nestorius_bazaar_0_intro.htm",
+      "license": "Historical text; the 1925 translation is out of copyright in many jurisdictions and available online.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wessel, Susan. Cyril of Alexandria and the Nestorian Controversy: The Making of a Saint and of a Heretic. Oxford Early Christian Studies. Oxford: Oxford University Press, 2004. ISBN 0-19-926846-7.",
+      "url": "https://global.oup.com/academic/product/cyril-of-alexandria-and-the-nestorian-controversy-9780199268467",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

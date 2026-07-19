@@ -1,0 +1,50 @@
+{
+  "id": "arianism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Arianism",
+    "original": "Ἀρειανισμός",
+    "transliteration": "Areianismos",
+    "aliases": ["Arian controversy", "Arians", "the party of Arius"]
+  },
+  "summary": "Arianism is the name later tradition gave to a range of fourth-century positions associated with Arius, a presbyter of Alexandria (d. 336), which held that the Son is created and subordinate to the Father and not homoousios (of the same essence) with him. The dispute was a central occasion for the Council of Nicaea (325) and the developing Nicene doctrine of the Trinity.",
+  "description": "Arianism names the theological positions associated with Arius (c. 256-336), a presbyter of Alexandria, and the wider fourth-century controversy his teaching helped precipitate. As the label is conventionally used, the defining claim is that the Son, the divine Word (Logos), is a creature brought into being by the Father, subordinate to him and not co-eternal or of the same essence with him; the slogan attributed to the Arian side, 'there was when he was not', expresses that the Son had a beginning. Modern scholarship stresses that 'Arianism' is a heresiological category that groups together theologians of differing views, and that the surviving evidence for Arius's own thought is fragmentary, preserved chiefly in the writings of his opponents and in fragments of his Thalia. Rowan Williams has argued that Arius is best understood as a theological conservative concerned to safeguard the transcendence and freedom of the Father, rather than as a straightforward innovator, and Lewis Ayres has argued that the fourth-century controversy is better read not as beginning with Arius alone but as arising from tensions among existing theological strategies over how to speak of the Father and the Son. The Council of Nicaea (325) responded by confessing the Son as homoousios with the Father, and figures such as Athanasius of Alexandria developed the case that only a fully divine Son can save. Later councils and the wider reception classed the range of subordinationist positions as heterodox by the standard of Nicaea, though the debate continued through the fourth century in several forms. The dispute over whether the Son is created or uncreated bears a structural resemblance to a later question in Islamic theology about the createdness of the Qur'an.",
+  "editorial_notes": "Arius's dates (c. 256-336 CE) are approximate and given with c. in the period note; he is a figure, not a school, so his death year is recorded as the school's rough origin marker rather than as a founding date in the strict sense. 'Arianism' is used here as the later heresiological label for a range of positions, and the entry states the disputed claim (whether the Son is created and subordinate, or homoousios with the Father) as the matter in dispute and attributes each position to its holders, per neutrality principles #1 and #2; the editor does not rule which side was correct. The relation to athanasius records his documented opposition and is reciprocal to the existing athanasius refuted arianism edge. The cross-tradition compares_with link to khalq-al-quran follows ADR-0005 and neutrality principle #10: both debates turn on whether a reality intimately related to God (the Son as divine Word, or the Qur'an as God's speech) is created or uncreated; the note names the difference in object and tradition and states that the traditions answer differently and that the analogy is structural, not an equation. This cross-tradition comparison is carried here, on arianism as the position that affirms the createdness of the Son, rather than on athanasius, so the created-or-uncreated parallel is not double-counted across two Christian entries. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic monograph on the fourth-century controversy (Ayres, OUP 2004), (b) a fourth-century primary source from within the tradition (Athanasius, Orations against the Arians), and (c) a contemporary theologian's study of Arius (Rowan Williams, Eerdmans rev. ed. 2001). Confidence is medium: the sources are verified to exist and be on-topic via publisher and library catalogues and peer-reviewed reviews, but the relevant passages were not read line-by-line.",
+  "period": {
+    "founded": 320,
+    "active_until": 400,
+    "note": "Approximate. The controversy came to prominence in the 320s (Arius, c. 256-336) and continued through the fourth century in several forms after the Council of Nicaea (325). Dates are scholarly conventions, not sharp events."
+  },
+  "relations": [
+    { "type": "related_to", "target": "trinity", "note": "The Arian controversy was a central occasion for the development of the Nicene doctrine of the Trinity, turning on the status of the Son relative to the Father." },
+    { "type": "opposed", "target": "athanasius", "note": "Athanasius of Alexandria was a leading opponent of the positions grouped as Arianism; this is reciprocal to the existing athanasius refuted arianism edge." },
+    { "type": "compares_with", "target": "khalq-al-quran", "note": "Both debates concern whether a reality intimately related to God is created or uncreated: the fourth-century Arian dispute concerns whether the Son (the divine Word) is a creature or homoousios with the Father, and the Islamic dispute over khalq al-Quran concerns whether the Qur'an as God's speech is created or uncreated. The traditions and their answers differ, and the resemblance is structural, not an equation. This asserts the comparability of the question, not the equivalence of the answer." }
+  ],
+  "sources": [
+    {
+      "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. ISBN 0-19-875506-6.",
+      "url": "https://global.oup.com/academic/product/nicaea-and-its-legacy-9780198755067",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Athanasius of Alexandria. Four Discourses against the Arians (Orationes contra Arianos). Translated by John Henry Newman and Archibald Robertson, in Nicene and Post-Nicene Fathers, Second Series, Vol. 4, edited by Philip Schaff and Henry Wace. Buffalo, NY: Christian Literature Publishing Co., 1892. Primary source: a fourth-century statement of the Nicene case against the Arian positions.",
+      "url": "https://www.newadvent.org/fathers/2816.htm",
+      "license": "Historical text; Greek in the public domain, this English translation in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Williams, Rowan. Arius: Heresy and Tradition. Revised edition. Grand Rapids, MI: Eerdmans, 2001.",
+      "url": "https://www.eerdmans.com/9780802849694/arius/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

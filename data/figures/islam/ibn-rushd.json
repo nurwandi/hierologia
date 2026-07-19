@@ -1,0 +1,52 @@
+{
+  "id": "ibn-rushd",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibn Rushd",
+    "original": "أبو الوليد محمد بن أحمد بن رشد",
+    "transliteration": "Abū al-Walīd Muḥammad ibn Aḥmad ibn Rushd",
+    "aliases": ["Averroes", "Ibn Rushd", "Averroès", "the Commentator"]
+  },
+  "roles": ["philosopher", "jurist", "physician", "commentator"],
+  "summary": "Ibn Rushd (1126-1198 CE), known in Latin as Averroes, was a philosopher of the falsafa tradition and a Maliki jurist in al-Andalus, celebrated for his extensive commentaries on Aristotle. In Tahafut al-Tahafut he answered al-Ghazali's Tahafut al-Falasifa, and in Fasl al-Maqal he argued for the compatibility of philosophy with revealed Law.",
+  "description": "Ibn Rushd was born in Cordoba into a family of Maliki jurists and served as judge (qadi) in Seville and Cordoba and as court physician under the Almohad dynasty. He worked simultaneously as a jurist trained in Maliki law and as a philosopher of the falsafa tradition, and he became known in the later Latin world simply as 'the Commentator' for his short, middle, and long commentaries on Aristotle, which he read as recovering the genuine Aristotelian philosophy. In Tahafut al-Tahafut ('The Incoherence of the Incoherence') he responded point by point to al-Ghazali's Tahafut al-Falasifa, defending philosophical inquiry and contesting al-Ghazali's presentation of the philosophers, often distinguishing his own Aristotelian positions from the Neoplatonizing views al-Ghazali had attributed to them. In Fasl al-Maqal ('The Decisive Treatise') he argued, as Charles Butterworth's translation presents it, that the revealed Law not only permits but enjoins the study of philosophy and demonstrative reasoning for those capable of it. Richard C. Taylor has argued that Averroes proposes a unity of truth rather than the 'double truth' later ascribed to him, holding that demonstrative philosophy and revelation, rightly interpreted, do not conflict. In the Latin West his commentaries generated the movement known as Latin Averroism, and Christian theologians including Thomas Aquinas engaged them closely, often critically. His work on the relation of reason and revelation invites comparison with Latin scholastic theologians who addressed the same question within a different tradition.",
+  "editorial_notes": "Birth and death years (1126-1198 CE) are as standardly reported and given in the lifespan note. Ibn Rushd is placed within the falsafa tradition and the Maliki school of law and described on those terms before any comparison, per neutrality principle #6. His response to al-Ghazali is recorded as his attributed argument in Tahafut al-Tahafut, and the relation is marked refuted in the schema's descriptive sense (he answered al-Ghazali's critique) without the editor adjudicating who was correct, per principle #1. The relation to Aquinas records the well-attested Latin reception (Latin Averroism) as intellectual history; aquinas separately carries a refuted edge to ibn-rushd, which is a distinct relation and not the reciprocal of this influence edge. The cross-tradition compares_with link to aquinas follows ADR-0005 and neutrality principle #10: it names a genuine shared question (the relation of reason and demonstrative philosophy to revelation) and the difference (Ibn Rushd argued within Islamic falsafa and Maliki jurisprudence that the Law enjoins philosophy, Aquinas argued within Latin scholastic theology that reason and revelation do not conflict), asserting comparability of the question, not equivalence of the answer; this compares_with is one-directional, since aquinas's own compares_with edge is to al-ghazali rather than ibn-rushd, and ADR-0005 does not require cross-tradition links to be symmetric. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study (Taylor, in the Cambridge Companion to Arabic Philosophy, CUP 2005), (b) Ibn Rushd's own primary texts (Tahafut al-Tahafut, van den Bergh translation, and Fasl al-Maqal, Butterworth translation), and (c) Taylor's work also serves as a contemporary scholarly voice on Averroes's noetics and unity of truth. Confidence is medium: the sources are verified to exist and be on-topic via publisher and journal catalogues and peer-reviewed reviews, but the relevant passages were not read line-by-line.",
+  "lifespan": {
+    "birth": 1126,
+    "death": 1198,
+    "note": "520-595 AH / 1126-1198 CE; born in Cordoba, died in Marrakesh."
+  },
+  "relations": [
+    { "type": "related_to", "target": "falsafa", "note": "A leading figure of the falsafa tradition and the most influential commentator on Aristotle in the Islamic world." },
+    { "type": "refuted", "target": "al-ghazali", "note": "Answered al-Ghazali's Tahafut al-Falasifa point by point in his Tahafut al-Tahafut, defending philosophical inquiry; the response is attributed to him, not adjudicated here." },
+    { "type": "influenced", "target": "aquinas", "note": "His Aristotle commentaries generated Latin Averroism and were engaged, often critically, by Thomas Aquinas; the reception is well attested and reciprocal to the existing aquinas refuted ibn-rushd edge." },
+    { "type": "compares_with", "target": "aquinas", "note": "Both addressed the relation of reason and demonstrative philosophy to revelation: Ibn Rushd argued in Fasl al-Maqal, within Islamic falsafa and Maliki jurisprudence, that the revealed Law enjoins the study of philosophy, while Aquinas argued within Latin scholastic theology that reason and revelation, rightly understood, do not conflict. They differ in tradition, sources of authority, and conclusions. This asserts the comparability of the question, not the equivalence of the answer." }
+  ],
+  "sources": [
+    {
+      "citation": "Taylor, Richard C. 'Averroes: religious dialectic and Aristotelian philosophical thought.' In The Cambridge Companion to Arabic Philosophy, edited by Peter Adamson and Richard C. Taylor, 180-200. Cambridge: Cambridge University Press, 2005.",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-arabic-philosophy/averroes/97FF8D153EB19CB6F9D54B57B15437D0",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Averroes (Ibn Rushd). Averroes' Tahafut al-Tahafut (The Incoherence of the Incoherence). Translated from the Arabic with introduction and notes by Simon van den Bergh. 2 vols. E. J. W. Gibb Memorial Series. London: Luzac, 1954. Primary source: Ibn Rushd's own reply to al-Ghazali's Tahafut al-Falasifa.",
+      "url": "https://www.gibbtrust.org/averroes-tahafut-al-tahafut-the-incoherence-of-the-incoherence/",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Averroes (Ibn Rushd). Decisive Treatise and Epistle Dedicatory (Fasl al-Maqal). Translated, with introduction and notes, by Charles E. Butterworth. Islamic Translation Series. Provo, UT: Brigham Young University Press, 2001. Primary source: Ibn Rushd's own argument on the relation of philosophy and the revealed Law.",
+      "url": "https://press.uchicago.edu/ucp/books/book/distributed/D/bo3614761.html",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

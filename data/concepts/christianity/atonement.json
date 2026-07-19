@@ -14,7 +14,7 @@
   "category": "soteriology",
   "summary": "The Atonement is the Christian doctrine that the life, and above all the death, of Jesus Christ reconciles sinful humanity to God. Christianity affirms that Christ's death is saving, while offering several models (ransom, satisfaction, penal substitution, moral influence) of how it accomplishes this.",
   "description": "Atonement (an English coinage, 'at-one-ment,' for reconciliation) is the Christian doctrine that through the death and resurrection of Jesus Christ the estrangement between God and humanity caused by sin is overcome and reconciliation is effected. The tradition holds firmly that Christ's death is redemptive; it has never dogmatically fixed a single theory of how it works, and so several models coexist and are debated. The classic or 'ransom' model, prominent in the early Fathers, presents Christ's death as a victory over sin, death, and the devil, sometimes framed as a ransom that liberates captive humanity; the twentieth-century theologian Gustaf Aulen revived this as the Christus Victor motif. The satisfaction model, formulated by Anselm of Canterbury in Cur Deus Homo (c. 1098), holds that sin dishonors God and incurs a debt that only a God-man can repay, so that Christ's death renders the satisfaction humanity owes. The penal substitution model, developed especially by the Reformers, holds that Christ bears in the sinner's place the penalty due for sin. The moral influence model, associated with Peter Abelard and later liberal theology, sees the cross chiefly as a supreme demonstration of divine love that moves humanity to repentance and reconciliation. These models are not always mutually exclusive, and theologians combine and weight them differently; the shared conviction is that in Christ's death God acts to reconcile the world to himself.",
-  "editorial_notes": "The entry describes atonement on Christianity's own terms (principle #6) and, per principle #2, presents the models (ransom / Christus Victor, satisfaction, penal substitution, moral influence) as coexisting attributed positions rather than declaring one correct, noting that the tradition never dogmatized a single theory. Sourcing triangulates three lenses per principles #8-9: academic scholarship (Aulen's Christus Victor, a historical study of the three main types of atonement theory, functioning here as scholarly typology), a classical primary text (Anselm's Cur Deus Homo, the foundational statement of the satisfaction model), and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. The cross-tradition link follows ADR-0005 and marks a structural DIFFERENCE rather than a parallel: Islam has no doctrine of vicarious atonement, holding each soul accountable for its own deeds; the note states the shared underlying question (how sin is dealt with and the human reconciled to God) and the divergence, and ranks neither.",
+  "editorial_notes": "The entry describes atonement on Christianity's own terms (principle #6) and, per principle #2, presents the models (ransom / Christus Victor, satisfaction, penal substitution, moral influence) as coexisting attributed positions rather than declaring one correct, noting that the tradition never dogmatized a single theory. Sourcing triangulates three lenses per principles #8-9. On peer review (2026-07-19) Aulen's Christus Victor was relabelled: it is a partisan theological argument advocating the classic/Christus Victor type, not a neutral survey, and is now cited as a typological/theological source rather than the neutral academic lens. The academic lens is supplied instead by Witt and Scandrett's Mapping Atonement (Baker Academic, 2022), a descriptive scholarly survey of the atonement models across Christian history. The other lenses are a classical primary text (Anselm's Cur Deus Homo, the foundational statement of the satisfaction model) and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. The cross-tradition link follows ADR-0005 and marks a structural DIFFERENCE rather than a parallel: Islam has no doctrine of vicarious atonement, holding each soul accountable for its own deeds; the note states the shared underlying question (how sin is dealt with and the human reconciled to God) and the divergence, and ranks neither.",
   "relations": [
     {
       "type": "compares_with",
@@ -43,7 +43,14 @@
   },
   "sources": [
     {
-      "citation": "Aulen, Gustaf. Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement. Trans. A. G. Herbert. London: SPCK, 1931 (SPCK Classics reprint). A landmark scholarly typology distinguishing the classic/ransom, Latin/satisfaction-and-penal, and subjective/moral-influence types of atonement.",
+      "citation": "Witt, William G., and Joel Scandrett. Mapping Atonement: The Doctrine of Reconciliation in Christian History and Theology. Grand Rapids, MI: Baker Academic, 2022. A scholarly survey tracing the origins, development, and divergent streams of atonement theology across Christian history (ransom/Christus Victor, satisfaction, penal substitution, moral influence, and others). Cited as the descriptive academic lens on the range of atonement models.",
+      "url": "https://bakeracademic.com/p/mapping-atonement-william-g-witt/412538",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Aulen, Gustaf. Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement. Trans. A. G. Herbert. London: SPCK, 1931 (SPCK Classics reprint). Distinguishes the classic/ransom, Latin/satisfaction-and-penal, and subjective/moral-influence types, but is itself a partisan theological argument advocating the classic (Christus Victor) type; cited here as a typological/theological source, not as a neutral survey.",
       "url": "https://spckpublishing.co.uk/christus-victor-pb",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
       "accessed": "2026-07-19",
@@ -63,7 +70,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.2.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"

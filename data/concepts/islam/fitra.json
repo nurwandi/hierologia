@@ -1,0 +1,66 @@
+{
+  "id": "fitra",
+  "tradition": "islam",
+  "names": {
+    "primary": "Fitra",
+    "original": "فطرة",
+    "transliteration": "fiṭra",
+    "aliases": [
+      "Primordial nature",
+      "Innate disposition",
+      "Original human nature",
+      "Fitrah"
+    ]
+  },
+  "category": "theological-anthropology",
+  "summary": "Fitra is the Islamic concept of the innate, sound primordial disposition with which every human being is born, naturally inclined to recognize the oneness of God (tawhid). Islam holds that human beings are born in this original sound state and does not affirm any inherited sin.",
+  "description": "Fitra (Arabic fiṭra) denotes the original, uncorrupted nature that, in Islamic teaching, God instils in every human being at birth: a sound disposition oriented toward recognizing and worshipping the one God. The term is anchored in Qur'an 30:30, which speaks of 'the fiṭra of God upon which He created mankind,' and in the widely transmitted hadith reported in the collections of al-Bukhari and Muslim that every child is born upon the fitra, and that it is the child's parents who subsequently make the child a Jew, a Christian, or a Magian. On this understanding the human being is not born sinful or estranged from God, but in a state of primordial soundness inclined toward faith (islam in the general sense of submission), which upbringing, environment, and choice may later obscure or turn away. Islam locates moral accountability in each person's own deeds after reaching the age of responsibility rather than in an inherited condition, and classical and modern scholars accordingly read the fitra as excluding the notion of transmitted or inherited sin. The concept is closely tied to tawhid, since the disposition the fitra names is above all an innate orientation toward the oneness of God, and to nubuwwa (prophethood), since revelation is understood as a summons that recalls the human being to a nature already latent within, rather than as the repair of an inherited fault. Scholars have discussed how far the fitra guarantees knowledge of God, how it relates to reason and to divine guidance, and how it is affected by sin and habit, and it has been taken up in modern Muslim writing on human nature and education.",
+  "editorial_notes": "The entry describes fitra on Islam's own terms first (neutrality principle #6), presenting the doctrine that the human being is born in a sound primordial state and that Islam does not affirm inherited sin as the tradition's attributed position, not as an adjudication against other traditions. Sourcing triangulates three lenses per neutrality principles #8-9: an academic monograph (Yasien Mohamed, Fitrah: The Islamic Concept of Human Nature, Ta-Ha Publishers, 1996, which surveys the classical treatments of the term and contrasts the Islamic view with rival theories of human nature), the tradition's classical primary texts (the fitra hadith in the Ṣaḥīḥ collections of al-Bukhari and Muslim, together with Qur'an 30:30), and a contemporary Muslim scholar (Seyyed Hossein Nasr, The Heart of Islam, 2002, whose treatment of al-fiṭra explicitly contrasts the Islamic view with the doctrine of original sin). No encyclopedias or tertiary sources are cited. Confidence is medium for the secondary works (relevant passages verified as on-topic but not read line-by-line) and high for the primary hadith and Qur'anic references, which are standard and well attested. The cross-tradition link to original-sin follows ADR-0005 and is reciprocal to the Christian entry: it states the shared question (the moral and spiritual condition of the human being at birth) and the difference (Christianity's inherited fallenness needing grace versus Islam's sound innate nature and rejection of inherited sin), and ranks neither.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "original-sin",
+      "note": "Both address the moral and spiritual condition of the human being at birth. The Christian doctrine of original sin holds that humans are born into a fallen condition inherited from Adam's sin and standing in need of grace; the Islamic concept of fitra holds that each person is born in a sound, innate disposition oriented toward God, and Islam does not affirm inherited sin, locating accountability in each person's own deeds. The link marks a shared question about the human's original condition and an explicit divergence in the answer, Christianity's inherited fallenness versus Islam's sound innate nature, and ranks neither. Reciprocal to the original-sin entry."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The disposition the fitra names is above all an innate orientation toward the oneness of God (tawhid); revelation is understood as recalling the human being to a recognition already latent in this primordial nature."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "In Islamic teaching prophethood (nubuwwa) and revelation summon the human being back to the fitra, a nature already present, rather than repairing an inherited fault."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "Rooted in the earliest Qur'anic revelation (esp. Q30:30) and the prophetic Sunnah (the fitra hadith); elaborated by classical exegetes and theologians and taken up again in modern Muslim thought on human nature."
+  },
+  "sources": [
+    {
+      "citation": "Mohamed, Yasien. Fitrah: The Islamic Concept of Human Nature. London: Ta-Ha Publishers, 1996. Academic monograph examining the classical treatments of fiṭra by scholars such as Ibn ʿAbd al-Barr, al-Rāghib al-Iṣfahānī, and Ibn Taymiyya from the Qur'an and Sunnah, and contrasting the Islamic conception of human nature with rival (including Western psychological) theories.",
+      "url": "https://search.worldcat.org/title/38012203",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The fitra hadith: al-Bukhārī, Ṣaḥīḥ, Kitāb al-Janāʾiz (no. 1358) and Kitāb al-Tafsīr on Sūrat al-Rūm (no. 4775, pairing the hadith with Q30:30); Muslim, Ṣaḥīḥ, Kitāb al-Qadar (nos. 2658, 2659). Classical primary hadith texts reporting that every child is born upon the fitra and that the child's parents make it a Jew, a Christian, or a Magian, together with Qur'an 30:30 (Sūrat al-Rūm), 'the fiṭra of God upon which He created mankind; there is no altering the creation of God.'",
+      "license": "Public-domain classical texts (Arabic originals; standard English translations vary).",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. The Heart of Islam: Enduring Values for Humanity. New York: HarperSanFrancisco (HarperOne), 2002. A work by a leading contemporary Muslim scholar; its treatment of the human being expounds al-fiṭra as the primordial nature still carried within the human being and explicitly contrasts the Islamic view with the doctrine of original sin. Added as the contemporary Muslim scholarly lens.",
+      "url": "https://www.harpercollins.com/products/the-heart-of-islam-seyyed-hossein-nasr",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
