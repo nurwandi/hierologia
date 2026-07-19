@@ -6,6 +6,12 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-07-19
+
+### Added
+- `.zenodo.json` archival metadata. This release is archived to Zenodo and
+  minted a DOI, so the dataset is formally citable.
+
 ## [0.1.0] - 2026-07-19
 
 First public release: the Islamic theology (kalam) dataset, fully reviewed.
