@@ -6,6 +6,32 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-07-19
+
+The clear-cut forward references are closed: twelve figures and texts the dataset had
+pointed at now exist.
+
+### Added
+- **The first three Rashidun caliphs** as figures: `abu-bakr`, `umar`, and `uthman`, with
+  the Sunni/Shi'i divide over their legitimacy attributed on both sides, adjudicated on
+  neither.
+- **Isaac and Ishmael as a cross-tradition pair**: `isaac` (judaism) and `isma-il`
+  (islam), two distinct sons of Abraham joined by `compares_with`, with the disputed
+  Akedah/dhabih son attributed to each tradition (Isaac per Genesis 22, Ishmael in the
+  widely held Islamic exegesis, which the Qur'an does not name).
+- **The early church**: `peter` (the Petrine primacy given as the Catholic reading,
+  attributed), `james-brother-of-jesus`, and the second-century `marcion` (whose teaching
+  is recorded through his hostile opponents, attributed) and `irenaeus`.
+- **`plato`**, the second philosopher (pupil of Socrates, teacher of Aristotle), on his
+  own terms.
+- **The rabbinic corpus**: the `mishnah` and the `talmud` as Jewish works.
+
+### Notes
+- The dataset is now 186 entities: 115 Islamic, 59 Christian, 10 Jewish, and 2 in the
+  philosophy namespace, 155 `reviewed` and 31 `verified`. Dangling forward references drop
+  from 17 to 10.
+- MINOR release: it adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.8.5] - 2026-07-19
 
 The four ecumenical councils and two more Islamic concepts reach `verified`.
