@@ -46,6 +46,11 @@ citable releases.
 
 1. Work happens on `main` (which continuously deploys the demo).
 2. At a milestone, cut a release:
+   - if the scope changed (for example a new tradition), refresh the description
+     and keywords in `.zenodo.json`, `README.md`, and `CITATION.cff` first;
+     Zenodo re-reads `.zenodo.json` at each release, and the concept DOI surfaces
+     the latest version's metadata (older version records stay frozen, which is
+     correct: each snapshot is honest about what it contained);
    - move the `CHANGELOG.md` `[Unreleased]` section to `[X.Y.Z] - DATE`;
    - set `version` and `date-released` in `CITATION.cff`;
    - `git tag vX.Y.Z` and push the tag.
