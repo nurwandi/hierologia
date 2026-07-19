@@ -27,15 +27,19 @@ every entry, not an aspiration.
    represented fully and on its own terms, as an attributed position, alongside
    the rationalist schools. Describing a school sympathetically on its own terms
    is required; the editor endorsing it is forbidden.
-8. **Source diversity, triangulate across scholarly traditions.** Draw on more
-   than one tradition of inquiry: Western academic Islamic studies *and*
-   Muslim/Islamic scholarship, the tradition's own classical primary texts and
-   heresiographers (e.g. al-Ashʿarī's *Maqālāt al-Islāmiyyīn*, al-Shahrastānī's
-   *al-Milal wa-l-Niḥal*, al-Baghdādī's *al-Farq bayn al-Firaq*) and reputable
-   classical and contemporary Muslim scholars. Documenting a tradition only
-   through outside academic sources is itself a bias. Sources are judged by
-   scholarly quality and transparency, not by the author's background; the aim is
-   triangulation, not the replacement of one lens with another.
+8. **Source diversity, triangulate across scholarly lenses.** For any tradition,
+   draw on more than one lens: outside academic scholarship, the tradition's own
+   classical and primary texts, and its modern or contemporary scholars.
+   Documenting a tradition only through outside academic sources is itself a bias;
+   the tradition's own voice, classical and modern, must be present. For Islam
+   this means Western academic Islamic studies alongside the classical corpus
+   (heresiographers such as al-Ashʿarī's *Maqālāt* and al-Shahrastānī's *al-Milal*)
+   and contemporary Muslim scholars; for Christianity, academic historians
+   alongside the primary corpus (the creeds, the Fathers, the scholastics, the
+   Reformers) and contemporary Christian theologians; and analogously for each
+   further tradition. Sources are judged by scholarly quality and transparency,
+   not by the author's background; the aim is triangulation, not the replacement
+   of one lens with another.
 9. **Source quality, scholarship only.** Every source must be a peer-reviewed
    journal article, an academic monograph or scholarly book, or a primary text
    (a classical work). **Encyclopedias and reference works are not acceptable
@@ -44,6 +48,11 @@ every entry, not an aspiration.
    tertiary or popular web sources (Wikipedia, Britannica, and the like). Where a
    claim currently rests on such a source, replace it with the journal article,
    monograph, or primary text that actually carries the claim.
+10. **Cross-tradition comparison compares questions, not answers.** A
+    `compares_with` link asserts that two traditions address a comparable theme or
+    question; it never asserts their answers are equivalent, and it never ranks or
+    harmonizes them. Each such link states the shared theme and the difference,
+    and no tradition is the baseline or measure of another. See ADR-0005.
 
 ## Out of scope (for now)
 
