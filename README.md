@@ -24,21 +24,23 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** The first tradition, Islamic theology (*kalam*), is complete for
-> this release: 75 entities, all peer-`reviewed`. Coverage across traditions is
-> deliberately partial and growing; the project says what it does not yet cover
-> rather than pretending to be complete.
+> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 78
+> entities and Christian theology with 15, all peer-`reviewed`, linked by
+> cross-tradition comparisons. Coverage is deliberately partial and growing; the
+> project says what it does not yet cover rather than pretending to be complete.
 
 ## Scope
 
-The first tradition is **Islamic theology (*kalam*)**. The dataset models three
-kinds of entity, linked into a graph:
+Two traditions are covered: **Islamic theology (*kalam*)** and **Christian
+theology**, linked by cross-tradition comparisons. The dataset models three kinds
+of entity, linked into a graph:
 
-- **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, *ʿadl*)
-- **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal)
-- **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, Atharis)
+- **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, the Trinity, grace)
+- **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal, Augustine, Aquinas)
+- **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, patristics, scholasticism)
 
-Further traditions will follow the same model.
+Cross-tradition `compares_with` links compare a shared question across traditions
+without equating the answers. Further traditions will follow the same model.
 
 ## The data is the API
 
@@ -64,9 +66,10 @@ fetch("https://nurwandi.github.io/hierologia/api/tawhid.json")
 - **Neutrality.** Entries describe traditions and schools on their own terms and
   attribute contested claims; they never adjudicate which belief is correct.
   See [`docs/governance/neutrality.md`](docs/governance/neutrality.md).
-- **Source diversity.** Sources triangulate across scholarly traditions -
-  Western academic Islamic studies *and* Muslim/Islamic scholarship (classical
-  primary texts, heresiographers, and reputable Muslim scholars alike).
+- **Source diversity.** Sources triangulate across scholarly vantages: outside
+  academic scholarship, each tradition's own classical and primary texts, and its
+  modern scholars. An account of one tradition by another is used only where it is
+  scholarship, never polemic.
 - **Editorial lifecycle.** Entries move `draft → reviewed → verified`; only
   `reviewed`/`verified` entries are meant to be relied upon.
 

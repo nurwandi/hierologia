@@ -1,6 +1,6 @@
 {
   "title": "Hierologia: an open academic API for the comparative study of sacred traditions",
-  "description": "Hierologia preserves theological, historical, and sociological knowledge across religious traditions as structured, neutral, well-sourced, and versioned data. The first tradition covered is Islamic theology (kalam): concepts, figures, and schools, linked into a graph, each entry sourced and peer-reviewed.",
+  "description": "Hierologia preserves theological, historical, and sociological knowledge across religious traditions as structured, neutral, well-sourced, and versioned data. This release covers two traditions, Islamic theology (kalam) and Christian theology: concepts, figures, and schools linked into a graph, each entry sourced and peer-reviewed, with cross-tradition links that compare comparable questions across traditions without equating their answers.",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "MIT",
@@ -10,6 +10,7 @@
   "keywords": [
     "Islamic theology",
     "kalam",
+    "Christian theology",
     "religious studies",
     "comparative religion",
     "digital humanities",
