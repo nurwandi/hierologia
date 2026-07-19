@@ -1,0 +1,93 @@
+{
+  "id": "peter",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Simon Peter",
+    "original": "Σίμων Πέτρος / Πέτρος",
+    "transliteration": "Simōn Petros; Aramaic Kēphā (Cephas)",
+    "aliases": [
+      "Peter",
+      "Saint Peter",
+      "Simon",
+      "Simon bar Jonah",
+      "Cephas",
+      "Kephas",
+      "Simeon"
+    ]
+  },
+  "roles": ["apostle", "leader of the Twelve", "early Jerusalem community leader", "missionary"],
+  "summary": "Simon Peter (d. c. 64-68 CE) was a Galilean fisherman whom the Gospels present as the leading member and spokesman of the Twelve apostles gathered by Jesus, remembered for his confession of Jesus at Caesarea Philippi, his denial of Jesus before the crucifixion and subsequent restoration, and his role as an early leader of the Jerusalem community and a missionary. Later tradition holds that he was martyred at Rome, and the saying to Peter in Matthew 16:18 is read by the Catholic tradition as the scriptural basis of the papacy, a reading the Orthodox and Protestant traditions understand differently.",
+  "description": "Simon Peter appears in all four canonical Gospels and the Acts of the Apostles as the most prominent of the Twelve. The Gospels present him as a fisherman of Galilee, brother of Andrew, called by Jesus and given the name Cephas (Aramaic for 'rock', rendered in Greek as Petros); Paul, the earliest witness, calls him Cephas in his letters (Galatians 1-2, 1 Corinthians). He is repeatedly cast as the spokesman of the disciples, most notably in the scene at Caesarea Philippi where, in the Gospels, he confesses Jesus as the Messiah (Christ), and in Matthew's version (Matthew 16:16-19) receives in reply the saying about the 'rock' on which the church will be built and the granting of 'the keys of the kingdom'. The passion narratives describe his denial of Jesus three times during the arrest and trial, and the Gospel of John (chapter 21) recounts a threefold restoration of Peter after the resurrection. In the Acts of the Apostles he is the leading figure of the earliest Jerusalem community, prominent at Pentecost and in the first mission, and he speaks at the meeting over the terms on which Gentiles could belong (Acts 15); Paul's own account of that meeting (Galatians 2) names Cephas among the Jerusalem 'pillars' and also reports a later confrontation with him at Antioch over table fellowship with Gentiles. Two New Testament letters (1 and 2 Peter) are attributed to him, though historical-critical scholarship widely regards 2 Peter, and often 1 Peter, as pseudonymous or of disputed authorship. The tradition that Peter went to Rome and was martyred there under Nero (commonly dated c. 64-68 CE) is not recorded in the New Testament and rests on later sources (for example 1 Clement and later second-century tradition); scholars weigh it critically, and it is presented here as later tradition rather than as a datum of the New Testament. Modern scholarship distinguishes the Galilean disciple reconstructed from the earliest sources from the later development of Peter's memory and authority in the church, and treats the question of his historical leadership, his relationship to Paul, and the growth of the Petrine tradition as matters of ongoing study. The saying to Peter in Matthew 16:18-19 has a long and contested interpretive history: the Catholic tradition reads the 'rock' and the 'keys' as the scriptural basis of a Petrine primacy continued in the bishop of Rome (the papacy); the Eastern Orthodox tradition honours Peter's primacy among the apostles but does not derive from the passage a universal jurisdiction of the Roman see; and much of the Protestant tradition reads the 'rock' as Peter's confession or as Christ rather than as a transferable office. This entry records these as attributed confessional and interpretive positions and does not adjudicate among them.",
+  "editorial_notes": "The most neutrality-sensitive element here is the Petrine primacy reading of Matthew 16:18-19, handled per neutrality principles #1 (describe, do not adjudicate) and #2 (attribute contested claims). The editor's voice never states that the passage does or does not establish the papacy; it attributes the papal reading to the Catholic tradition, notes that the Orthodox tradition honours Peter's apostolic primacy without deriving Roman universal jurisdiction from the text, and notes the common Protestant readings (the 'rock' as Peter's confession or as Christ), ranking none. Oscar Cullmann's study is cited as the standard survey of the passage's interpretive history and frames the differing readings without the editor endorsing any. Peter's martyrdom at Rome is flagged as later tradition (1 Clement and later second-century sources) and explicitly not attested in the New Testament, per the task instruction and the exemplar treatment of Paul's death. The confession at Caesarea Philippi, the denial, and the restoration are reported as what the Gospels narrate (attributed to the primary texts), not asserted by the editor as bare fact. Authorship of 1-2 Peter is given as the standard historical-critical finding (2 Peter widely pseudonymous; 1 Peter disputed). Sources triangulate the three Christianity lenses per #8-9: (a) academic scholarship (Martin Hengel, Saint Peter: The Underestimated Apostle; John P. Meier, A Marginal Jew vol. 3, on the historical circle of the Twelve); (b) the primary corpus (the four Gospels, Acts, Galatians, 1-2 Peter, cited critically as sources); and (c) a contemporary biblical scholar and theologian (Markus Bockmuehl, Simon Peter in Scripture and Memory), with Cullmann as the classic study of the primacy exegesis. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence is medium throughout except the directly-cited scriptural passages: the secondary works were verified to exist and be on-topic via publisher pages, library catalogues, and peer-reviewed reviews, but were not read line-by-line. Relation targets that exist in the dataset: apostles, jesus-of-nazareth, paul-of-tarsus, council-of-jerusalem, roman-catholicism. All are existing entities.",
+  "lifespan": {
+    "death": 66,
+    "note": "Birth in the last years BCE or the early first century CE (a Galilean contemporary of Jesus); no reliable birth year is recorded. Death conventionally placed c. 64-68 CE, traditionally a martyrdom at Rome under Nero; recorded here as about 66. The date and manner of death are not attested in the New Testament and rest on later tradition (1 Clement and later second-century sources)."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "apostles",
+      "note": "The Gospels present Peter as the leading member and spokesman of the Twelve apostles; he heads the New Testament lists of the Twelve (Matthew 10:2; Mark 3:16; Luke 6:14; Acts 1:13)."
+    },
+    {
+      "type": "related_to",
+      "target": "jesus-of-nazareth",
+      "note": "In the Gospels Peter is a disciple called by Jesus, confesses him as the Messiah at Caesarea Philippi (Matthew 16:16), denies him during the passion, and is restored after the resurrection (John 21); reported as what the Gospels narrate, not asserted by the editor."
+    },
+    {
+      "type": "related_to",
+      "target": "paul-of-tarsus",
+      "note": "Paul calls Peter by the Aramaic name Cephas, names him among the Jerusalem 'pillars' (Galatians 2), and reports a confrontation with him at Antioch over table fellowship with Gentiles; the two are the leading apostolic figures of the earliest movement."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-jerusalem",
+      "note": "Peter (called Cephas by Paul) speaks in the Acts 15 account of the meeting over Gentile circumcision and the law, and is named among the Jerusalem leaders in Galatians 2."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "The Catholic tradition reads the saying to Peter in Matthew 16:18-19 (the 'rock' and the 'keys') as the scriptural basis of a Petrine primacy continued in the bishop of Rome (the papacy), and counts Peter as the first pope; recorded here as an attributed Catholic reading, with the Orthodox and Protestant traditions understanding the passage differently, and not adjudicated."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Hengel, Martin. Saint Peter: The Underestimated Apostle. Trans. Thomas H. Trapp. Grand Rapids, MI: William B. Eerdmans, 2010 (English translation of Der unterschätzte Petrus, Tübingen: Mohr Siebeck, 2006). An academic study arguing for Peter's central, foundational role in both the Jewish and the Gentile early church; the outside-scholarship lens.",
+      "url": "https://www.eerdmans.com/9780802827180/saint-peter/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Meier, John P. A Marginal Jew: Rethinking the Historical Jesus, Vol. 3: Companions and Competitors. Anchor Bible Reference Library. New York: Doubleday, 2001. Academic study of the historical Jesus's circle, including the Twelve as a group very probably gathered by Jesus and the place of Peter (Simon) within it; the historical-critical lens on the earliest circle.",
+      "url": "https://archive.org/details/johnp.meieramarginaljewv.3anchorbiblereferencelibrary2001",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bockmuehl, Markus. Simon Peter in Scripture and Memory: The New Testament Apostle in the Early Church. Grand Rapids: Baker Academic, 2012. A contemporary biblical scholar and theologian's study of the New Testament apostle Peter and the shaping of his memory and authority in the early church; the contemporary-scholar lens.",
+      "url": "https://bakeracademic.com/p/Simon-Peter-in-Scripture-and-Memory-Markus-Bockmuehl/40817",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cullmann, Oscar. Peter: Disciple, Apostle, Martyr: A Historical and Theological Study. Trans. Floyd V. Filson. 2nd rev. and expanded ed. Philadelphia: Westminster Press, 1962. A classic historical and exegetical study, widely regarded as the standard survey of the interpretation of Matthew 16:18-19; cited for the interpretive history of the 'rock' saying and the differing Catholic, Orthodox, and Protestant readings, which it lays out without the editor endorsing any.",
+      "url": "https://archive.org/details/peterdiscipleapo0000cull_g6o2",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The New Testament: the four Gospels (esp. Matthew 16:16-19 at Caesarea Philippi; the denial narratives in Matthew 26, Mark 14, Luke 22, John 18; the restoration in John 21) and the Acts of the Apostles (Peter's leadership in the Jerusalem community and Acts 15), together with Paul's letters (Galatians 1-2 and 1 Corinthians, which call him Cephas) and the letters attributed to him (1-2 Peter, whose authorship historical-critical scholarship regards as disputed or pseudonymous). Primary scripture, cited critically as sources for what is narrated of Peter. Directly-cited passages (Matthew 16:16-19; Galatians 2) consulted; full corpus not read line-by-line.",
+      "license": "Primary religious text; underlying Greek in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

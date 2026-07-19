@@ -1,0 +1,69 @@
+{
+  "id": "abu-bakr",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abu Bakr al-Siddiq",
+    "original": "أبو بكر الصديق",
+    "transliteration": "Abū Bakr al-Ṣiddīq",
+    "aliases": ["Abd Allah ibn Abi Quhafa", "ʿAbd Allāh ibn Abī Quḥāfa", "al-Ṣiddīq", "Atiq", "ʿAtīq", "Khalifat Rasul Allah", "Khalīfat Rasūl Allāh"]
+  },
+  "roles": ["caliph", "companion"],
+  "summary": "Abu Bakr al-Siddiq (c. 573-634 CE) was an early and close companion of the Prophet Muhammad and, in the Sunni tradition, the first of the four Rightly Guided (Rashidun) caliphs (r. 632-634). He was acclaimed leader of the Muslim community after deliberation at the gathering of Saqifat Bani Sa'ida following the Prophet's death, and his short reign was dominated by the wars against seceding Arabian tribes (the ridda).",
+  "description": "Abu Bakr, whose given name is generally reported as Abd Allah ibn Abi Quhafa, was among the earliest to accept the Prophet Muhammad's message and one of his closest associates; he is remembered as the Prophet's companion on the migration (hijra) from Mecca to Medina in 622 and as the father of Aisha, whom the Prophet married. On the Prophet's death in 632 a gathering of the Medinan and Meccan Muslims at the portico of Banu Sa'ida (Saqifat Bani Sa'ida) resolved a dispute over leadership by giving the pledge of allegiance (bay'a) to Abu Bakr, who took the title khalifat rasul Allah (successor of the Messenger of God). His caliphate lasted roughly two years and is remembered chiefly for the ridda ('apostasy' or secession) wars, in which he moved to reassert the authority of Medina over Arabian tribes that had withheld allegiance or the alms-tax after the Prophet's death, and for the first campaigns that carried Muslim armies toward the Sasanian and Byzantine frontiers. He designated Umar ibn al-Khattab as his successor before his death in 634. The two major branches of Islam narrate his standing differently. In the Sunni account he is the first and, by common reckoning, the most excellent of the Rashidun caliphs, honored for his early faith, his steadfastness, and the legitimacy of his election by the community, and the title al-Siddiq ('the truthful' or 'the one who affirms') is attached to him in that tradition. In the Shi'i account the outcome at Saqifa is regarded as having set aside the Prophet's designation of Ali ibn Abi Talib as his rightful successor, so that Abu Bakr's caliphate, while a historical fact, is not accorded the same religious authority; the two traditions share the historical outline of his succession and reign but assess its legitimacy in sharply divergent ways.",
+  "editorial_notes": "This is a historically and confessionally sensitive figure at the center of the Sunni/Shi'i divide over the succession to the Prophet, and the entry is written to describe rather than adjudicate (neutrality principles #1, #2, #7). The Sunni honoring of Abu Bakr as the first and foremost Rashidun caliph and the honorific al-Siddiq are presented as attributed valuations of that tradition, not as editorial findings (phrasing such as 'in the Sunni account' and 'is remembered as'). The Shi'i view, that the acclamation at Saqifa set aside the Prophet's designation of Ali, is attributed and stated without ranking either position; the editor takes no view on which is correct. The wars against seceding tribes are given by the term the sources use (ridda) with a neutral gloss, without characterizing the tribes' motives beyond the withholding of allegiance and the alms-tax as the chronicles report. Dates: birth c. 573 CE is approximate and not securely fixed; death 13 AH / 634 CE is standard. Relation targets rashidun, ali, umar, uthman, khilafa, baya, and shura are all existing entries. Per neutrality principle #8 three source lenses are triangulated: modern Western academic scholarship (Madelung, The Succession to Muhammad, which treats the Saqifa episode and Abu Bakr's accession at length, and Donner, The Early Islamic Conquests, on the ridda and the opening conquests); the tradition's own classical primary chronicle (al-Tabari's Ta'rikh in the SUNY translation, Vol. 10 on the succession at Saqifa and the ridda wars, and Vol. 11 on the early conquests under Abu Bakr); and a contemporary Muslim scholar presenting both Sunni and Shi'i perspectives (Ayoub, The Crisis of Muslim History). Madelung, Ayoub, and Donner carry the same confidence ratings they hold in ali.json and rashidun.json (medium). No encyclopedias or tertiary sources are cited. All sources were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "lifespan": {
+    "birth": 573,
+    "death": 634,
+    "note": "Death 13 AH / 634 CE is standard; birth year (c. 573 CE) is approximate and not securely fixed in the sources."
+  },
+  "relations": [
+    { "type": "member_of", "target": "rashidun", "note": "First of the four Rightly Guided (Rashidun) caliphs in Sunni reckoning (r. 632-634); his accession by allegiance at Saqifa opened the period." },
+    { "type": "related_to", "target": "khilafa", "note": "As khalifat rasul Allah he is remembered as the first holder of the caliphate (khilafa); the mode of his accession by communal allegiance is a paradigm case in Sunni theory of the office." },
+    { "type": "related_to", "target": "baya", "note": "His leadership was constituted by the pledge of allegiance (bay'a) given at the gathering of Saqifat Bani Sa'ida after the Prophet's death." },
+    { "type": "related_to", "target": "shura", "note": "The deliberation at Saqifa that produced his acclamation is read in Sunni tradition as an instance of consultation (shura) among the community's leading figures." },
+    { "type": "contemporary_of", "target": "umar", "note": "Umar ibn al-Khattab was his close associate and the successor he designated; Umar's support was decisive at Saqifa." },
+    { "type": "contemporary_of", "target": "uthman", "note": "Uthman ibn Affan, later the third caliph, was among the senior companions of Abu Bakr's generation." },
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; the differing accounts of whether Ali's claim was set aside at Saqifa mark the Sunni/Shi'i divide over Abu Bakr's succession." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. The Succession to Muhammad: A Study of the Early Caliphate. Cambridge: Cambridge University Press, 1997. A major academic study of the conflict over leadership after the Prophet's death, treating the gathering at Saqifat Bani Sa'ida and Abu Bakr's accession in detail; the outside-scholarship lens. The work is noted for arguing in defense of Ali's claim to the succession, itself relevant to the contested evaluation of Abu Bakr's caliphate. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/9780521646963",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Donner, Fred McGraw. The Early Islamic Conquests. Princeton: Princeton University Press, 1981. An academic study of the conquests out of Arabia into Syria and Iraq, distinguishing the causes of the conquests from the causes of their success; treats the ridda wars under Abu Bakr and the opening campaigns toward the Sasanian and Byzantine frontiers. The outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691638898/the-early-islamic-conquests",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 10: The Conquest of Arabia: The Riddah Wars A.D. 632-633/A.H. 11, trans. Fred M. Donner. Albany: State University of New York Press, 1993. The classical Arabic chronicle whose narrative records the succession of Abu Bakr at Saqifa and the ridda wars of his caliphate; the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://www.sunypress.edu/p-1411-the-history-of-al-tabari-vol-10.aspx",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 11: The Challenge to the Empires A.D. 633-635/A.H. 12-13, trans. Khalid Yahya Blankinship. Albany: State University of New York Press, 1993. The classical chronicle's account of the early campaigns against the Sasanian and Byzantine empires begun under Abu Bakr; the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://www.sunypress.edu/p-1288-the-history-of-al-tabari-vol-11.aspx",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oxford: Oneworld Publications, 2003. A contemporary Muslim scholar's account of the era of the first four caliphs, presenting both Sunni and Shi'i perspectives on the succession at Saqifa and its assessment; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

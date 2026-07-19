@@ -1,0 +1,92 @@
+{
+  "id": "isaac",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Isaac",
+    "original": "יִצְחָק",
+    "transliteration": "Yitzhaq (Yitzḥaq)",
+    "aliases": [
+      "Yitzhak Avinu (Isaac our father)",
+      "Yizhak",
+      "the second patriarch",
+      "the son bound in the Akedah",
+      "Ishaq (in Islam)"
+    ]
+  },
+  "roles": [
+    "patriarch",
+    "second of the three patriarchs of Israel",
+    "son of Abraham and Sarah",
+    "son bound in the Akedah (on the Jewish and biblical identification)",
+    "father of Jacob (Israel) and Esau"
+  ],
+  "summary": "Isaac (Hebrew Yitzhak) is the second of the three patriarchs of Israel in the book of Genesis: the long-promised son born to Abraham and Sarah in their old age, the son whom Abraham binds upon the altar in the Akedah (the binding, Genesis 22, on the Jewish and biblical identification), the husband of Rebekah, and the father of Jacob (Israel) and Esau, through whom Jewish tradition traces the covenant line. The same figure is honoured, as Ishaq, in Islam, where he is likewise a prophet and a son of Ibrahim.",
+  "description": "Isaac (Yitzhak) is presented here first on the terms of the Jewish and biblical tradition, and then the historical-critical scholarly view is given as an attributed position, not adjudicated.\n\nIn the book of Genesis, Isaac is the second of the patriarchs, the son of the covenant. He is the child promised to Abraham and Sarah in their old age and born to them when Abraham is a hundred years old; his name (Yitzhak, from the root ṣ-ḥ-q, 'to laugh') is tied in the narrative to the laughter of his parents at the promise of a son (Genesis 17:17, 18:12, 21:1-7). After his birth, Sarah has Abraham send away Hagar and her son Ishmael (Yishmael) (Genesis 21). Isaac is then the son of the episode Jewish tradition calls the Akedah, the binding: God tests Abraham by commanding him to offer up 'your son, your only son, whom you love, Isaac' as a burnt offering in the land of Moriah; Abraham binds Isaac upon the altar, and at the last an angel of the LORD stays his hand and a ram caught in a thicket is offered in Isaac's place (Genesis 22). The Genesis text names the son as Isaac. Isaac later marries Rebekah (Rivkah), who is brought from Abraham's kin (Genesis 24); after a period of barrenness she bears the twins Esau and Jacob (Yaakov), and the covenant blessing and the promise of the land are renewed to Isaac (Genesis 26) and passed, in the narrative, to Jacob, who is renamed Israel and becomes the eponym of the people (Genesis 25, 27-28). In Jewish tradition Isaac is Yitzhak Avinu, Isaac our father, one of the three patriarchs named in the covenant formula 'the God of Abraham, the God of Isaac, and the God of Jacob,' and the second link in the chain of the fathers through whom the covenant passes. In the interpretive tradition studied by Jon Levenson, the Akedah and the figure of the bound and released son became a central text of Jewish memory and liturgy, read on Rosh Hashanah and elaborated in rabbinic midrash, in which Isaac is sometimes read as a willing and mature participant in his own near-offering.\n\nModern biblical scholarship reads the patriarchal narratives with a different set of tools, and this reading is attributed here to scholarship rather than stated as fact about the tradition. The dominant scholarly view holds that the patriarchal stories, including the Isaac cycle, reached their present form in the literary and religious life of ancient Israel long after any period in which such a figure would have lived, and that they function as foundational and identity-shaping tradition rather than as straightforward historical reportage; Ronald Hendel, for instance, treats the patriarchal narratives as cultural memory, a blend of memory, folklore, and literary composition through which Israel constructed its identity, rather than as a documentary record. On this view the historical existence and dating of Isaac cannot be established from the biblical text, which is why no confident lifespan is given below. The editor does not rule between the tradition's account and the scholarly reading; it records the biblical and Jewish tradition on its own terms and the historical-critical view as attributed to scholarship.\n\nIsaac is also read within Christianity and within Islam, and those readings are recorded as belonging to those traditions, not to this Jewish entry. In Islam, Ishaq (Isaac) is a prophet and a son of Ibrahim, treated in his own frame; and the identity of the son of the near-sacrifice is contested between the traditions, since much of Islamic exegesis identifies that son as Ishmael (Isma'il) rather than Isaac. That difference is compared, not adjudicated, in the compares_with link to the Islamic figure isma-il.",
+  "editorial_notes": "This entry follows the per-tradition-pair model of abraham (judaism) / ibrahim (islam) and jesus-of-nazareth (christianity) / isa (islam): a shared figure gets a separate entity per tradition, each on its own terms, joined by a #10 compares_with (here to isma-il, islam). The register separation required by neutrality #1, #6, #7, #10, and #11 is explicit. (a) The BIBLICAL AND JEWISH TRADITION is given on its own terms: the promised birth, the naming (Yitzhak, laughter), the Akedah, the marriage to Rebekah, the twins Esau and Jacob, and Isaac as Yitzhak Avinu, the second of the three patriarchs in the covenant line. (b) The HISTORICAL-CRITICAL VIEW (that the patriarchal narratives are widely read by scholars as later foundational or literary tradition, cultural memory in Hendel's terms, rather than straightforward history, and that Isaac is not securely historically datable) is attributed to scholarship, not stated as fact and not used to overrule the tradition. The DISPUTED AKEDAH SON is handled per the #10/#11 rule, mirroring abraham/ibrahim: this Jewish entry follows Genesis 22 in identifying the son bound on Moriah as Isaac (Yitzhak), stated as the biblical and Jewish identification; the Islamic identification (widely, Ishmael/Isma'il) is left to the isma-il entry and the compares_with note, and the editor does not adjudicate which son it 'really' was, rank the accounts, or harmonize them. NOTE ON NAMES: Isaac (Yitzhak) and Ishmael (Yishmael) are two distinct sons of Abraham; the Islamic Isma'il corresponds to the biblical Ishmael, not to Isaac. The alias field flags this to prevent conflation. Sourcing triangulates the three lenses required for a Jewish/biblical figure per #8-9: (a) academic biblical scholarship (Hendel on the patriarchal narratives as cultural memory), matched to its existing medium rating in abraham.json/moses.json; (b) the primary text, the Tanakh (Genesis 21-28, and Genesis 22 for the Akedah); (c) contemporary Jewish scholars (Jon D. Levenson, The Death and Resurrection of the Beloved Son on the Akedah, and Inheriting Abraham, both matched to their existing medium rating in abraham.json; and Nahum M. Sarna, The JPS Torah Commentary: Genesis). No encyclopedias, no Jewish Encyclopedia, no Wikipedia or tertiary sources. Confidence: the directly cited Tanakh text is high; the secondary works are medium (verified to exist and be on-topic, not read line-by-line). The compares_with target isma-il is authored alongside this entry; related_to targets abraham and tanakh exist, and moses is an existing reference (dangling allowed). No birth or death year is asserted; see lifespan note.",
+  "lifespan": {
+    "note": "No birth or death year is asserted. The biblical text gives Isaac a lifespan of 180 years (Genesis 35:28) and places him, with Abraham and Jacob, in a remote past conventionally set by later chronologies in the early-to-mid second millennium BCE, but modern scholarship does not treat the patriarchal narratives as securely datable history and cannot fix a historical date for Isaac, so no CE/BCE integer is given here rather than force a spurious precision."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "isma-il",
+      "note": "Isaac (Yitzhak) and Isma'il (Ishmael) are not the same person: they are two different sons of Abraham (Ibrahim), and this link compares the shared question that runs across the two traditions, the identity of the son of the binding or near-sacrifice, not the answers, ranking neither and equating neither. Judaism, following Genesis, holds the son whom Abraham binds upon the altar in the Akedah (Genesis 22) to be Isaac, the son of Abraham and Sarah, the second patriarch through whom the covenant line passes to Jacob and Israel. Islam holds Isma'il to be a prophet and a son of Ibrahim (and Hajar) who with his father raised the foundations of the Kaaba, and much of Islamic exegesis identifies the son of the near-sacrifice (the dhabih) of Q 37:100-113, a passage that does not name the son, as Isma'il rather than Isaac. The traditions thus share the question of which son was offered but answer it differently, each identifying a different son; this note records each tradition's identification as attributed to that tradition and does not adjudicate which son it was, rank the two accounts, or harmonize them."
+    },
+    {
+      "type": "related_to",
+      "target": "abraham",
+      "note": "Isaac (Yitzhak) is the son of Abraham (Avraham) by Sarah, the long-promised child of the covenant, and the son bound in the Akedah (Genesis 22) on the Jewish and biblical account; the two are the first and second of the three patriarchs. This entry is the paired counterpart to abraham's related_to reference to isaac."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Isaac cycle is narrated in the Torah, the first division of the Tanakh, chiefly in Genesis 21-28; the Akedah is Genesis 22, the marriage to Rebekah Genesis 24, and the birth and blessing of the twins Genesis 25-28."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "The covenant God who tests Abraham and renews the promise to Isaac (Genesis 26) is identified in the Torah with the God of 'Abraham, Isaac, and Jacob' who later reveals himself to Moses (Exodus 3:6, 3:15); Isaac stands in the patriarchal line to which the Sinai covenant is linked in the narrative."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Tanakh (Hebrew Bible), Masoretic Text, Genesis 21-28, esp. Genesis 21:1-7 (the birth and naming of Isaac), 22 (the Akedah, the binding of Isaac, where the son is named as Isaac), 24 (the marriage to Rebekah), 25:19-34 (the birth of Esau and Jacob), 26 (the renewal of the covenant promise to Isaac), and 27-28 (the blessing passed to Jacob). Primary scripture for the covenant line and the binding of Isaac; cited on the tradition's own terms as the foundational narrative, not as a historical report. English reference translation: JPS Hebrew-English Tanakh, 2nd ed., Philadelphia: Jewish Publication Society, 1999.",
+      "url": "https://jps.org/product-category/jps-tanakh/",
+      "license": "Primary religious text; the Masoretic Hebrew is in the public domain; the JPS translation is proprietary. English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hendel, Ronald. Remembering Abraham: Culture, Memory, and History in the Hebrew Bible. New York: Oxford University Press, 2005. An academic study reading the patriarchal narratives (including the Isaac material) as cultural memory, a blend of history, collective memory, folklore, and literary composition through which biblical Israel constructed its identity, rather than as documentary history. Cited as the academic biblical-scholarship lens on the historicity and function of the patriarchal narratives; matched to its existing medium rating in abraham.json and moses.json. Relevant passages not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/remembering-abraham-9780195177961",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. The Death and Resurrection of the Beloved Son: The Transformation of Child Sacrifice in Judaism and Christianity. New Haven: Yale University Press, 1993. A study of the theme of the beloved son given over to death and restored, treating the Akedah (the binding of Isaac, Genesis 22) and its interpretive afterlife in Judaism (including the rabbinic development of Isaac as a willing participant). Cited as the contemporary Jewish scholarly treatment of the Akedah and the figure of the bound son; matched to its existing medium rating in abraham.json. Relevant passages not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300065114/the-death-and-resurrection-of-the-beloved-son/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. Inheriting Abraham: The Legacy of the Patriarch in Judaism, Christianity, and Islam. Library of Jewish Ideas. Princeton: Princeton University Press, 2012. A contemporary Jewish scholar's reading of the Genesis Abraham-and-Isaac narrative and of how Judaism, Christianity, and Islam each developed the patriarch and his sons, including the divergence over the son of the near-sacrifice. Cited for the cross-tradition framing of Isaac and Ishmael; matched to its existing medium rating in abraham.json. Relevant passages not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691155692/inheriting-abraham",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sarna, Nahum M. The JPS Torah Commentary: Genesis. Philadelphia: The Jewish Publication Society, 1989. A contemporary Jewish scholar's critical and traditional commentary on Genesis, with the Hebrew text, the JPS translation, and commentary drawing on ancient Near Eastern material and classical Jewish sources; cited as the contemporary Jewish scholarly lens on the Isaac narrative (the naming, the Akedah, the covenant line). Relevant passages not read line-by-line.",
+      "url": "https://jps.org/books/jps-torah-commentary-genesis/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

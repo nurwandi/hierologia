@@ -1,0 +1,69 @@
+{
+  "id": "umar",
+  "tradition": "islam",
+  "names": {
+    "primary": "Umar ibn al-Khattab",
+    "original": "عمر بن الخطاب",
+    "transliteration": "ʿUmar ibn al-Khaṭṭāb",
+    "aliases": ["al-Faruq", "al-Fārūq", "Abu Hafs", "Abū Ḥafṣ", "Amir al-Mu'minin", "Amīr al-Muʾminīn"]
+  },
+  "roles": ["caliph", "companion"],
+  "summary": "Umar ibn al-Khattab (c. 584-644 CE) was a companion of the Prophet Muhammad and, in the Sunni tradition, the second of the four Rightly Guided (Rashidun) caliphs (r. 634-644). His reign saw the rapid expansion of Muslim rule out of Arabia into the Sasanian and Byzantine domains and the development of early administrative institutions, including a register of stipends (diwan) and a dating era later known as the hijri calendar; he was assassinated in 644.",
+  "description": "Umar ibn al-Khattab, later given the title al-Faruq in the Sunni tradition, was a companion of the Prophet whose acceptance of Islam is remembered as an early and consequential event in the Meccan community. On the death of Abu Bakr in 634 he succeeded to the caliphate by his predecessor's designation and adopted, according to the tradition, the title amir al-mu'minin (commander of the believers). His decade in office coincided with the most rapid phase of the early conquests: Muslim armies defeated Sasanian forces at al-Qadisiyya and Byzantine forces in Syria, took the Fertile Crescent, Egypt, and much of Iran, and Jerusalem is reported in the chronicles to have come under Muslim control during his reign. Alongside the conquests the tradition credits his caliphate with the shaping of administrative institutions: the register (diwan) recording stipends due to the fighters and the community, the organization of the newly garrisoned provinces and garrison towns, and the establishment of the era that dates events from the Prophet's migration (hijra) to Medina, the basis of the hijri calendar. He was fatally stabbed in 644, the chronicles reporting the assailant as a non-Muslim captive; before he died he is said to have appointed a small consultative council (shura) of senior companions to choose his successor. The two major branches of Islam narrate his standing differently. In the Sunni account he is the second and, by common reckoning, second in excellence of the Rashidun caliphs, honored for justice, administrative firmness, and the expansion of the community, with the title al-Faruq ('the one who distinguishes truth from falsehood') attached to him. In the Shi'i account his caliphate, like that of Abu Bakr, is regarded as having continued the setting aside of the Prophet's designation of Ali ibn Abi Talib as rightful successor, so that his authority is not accorded the same religious standing; the two traditions share the historical outline of his reign and its conquests but assess its legitimacy in sharply divergent ways.",
+  "editorial_notes": "This is a historically and confessionally sensitive figure at the center of the Sunni/Shi'i divide over the succession, and the entry is written to describe rather than adjudicate (neutrality principles #1, #2, #7). The Sunni honoring of Umar as the second Rashidun caliph and the honorific al-Faruq are presented as attributed valuations of that tradition, not as editorial findings ('in the Sunni account', 'the tradition credits'). The Shi'i view, that his caliphate continued the setting aside of Ali's designation, is attributed and stated without ranking either position; the editor takes no view on which is correct. Administrative achievements (the diwan, the organization of the provinces, and the hijri dating era) are given as they are credited in the tradition and chronicles, hedged where the sources hedge; the assassination is reported with the detail the chronicles give (a non-Muslim captive as assailant) without editorial elaboration. Dates: birth c. 584 CE is approximate and not securely fixed; death 23 AH / 644 CE is standard. Relation targets rashidun, ali, abu-bakr, uthman, khilafa, baya, and shura are all existing entries; Umar's appointment of the shura that chose Uthman makes the shura link substantive. Per neutrality principle #8 three source lenses are triangulated: modern Western academic scholarship (Madelung, The Succession to Muhammad, on the reign and the succession he arranged, and Donner, The Early Islamic Conquests, on the conquests and early administration under Umar); the tradition's own classical primary chronicle (al-Tabari's Ta'rikh in the SUNY translation, Vol. 13 on the middle years of Umar's caliphate and the conquests, and Vol. 14 on the later conquests and his assassination); and a contemporary Muslim scholar presenting both Sunni and Shi'i perspectives (Ayoub, The Crisis of Muslim History). Madelung, Ayoub, and Donner carry the same confidence ratings they hold in ali.json, rashidun.json, and abu-bakr.json (medium). No encyclopedias or tertiary sources are cited. All sources were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "lifespan": {
+    "birth": 584,
+    "death": 644,
+    "note": "Death 23 AH / 644 CE is standard; birth year (c. 584 CE) is approximate and not securely fixed in the sources."
+  },
+  "relations": [
+    { "type": "member_of", "target": "rashidun", "note": "Second of the four Rightly Guided (Rashidun) caliphs in Sunni reckoning (r. 634-644), under whom the major conquests and early administrative institutions developed." },
+    { "type": "related_to", "target": "khilafa", "note": "Held the caliphate (khilafa) by Abu Bakr's designation and, according to the tradition, adopted the title amir al-mu'minin; his organization of the office and provinces is a reference point in Sunni accounts of the caliphate." },
+    { "type": "related_to", "target": "baya", "note": "His succession followed Abu Bakr's designation and was confirmed by the community's pledge of allegiance (bay'a)." },
+    { "type": "related_to", "target": "shura", "note": "Before his death he appointed a small consultative council (shura) of senior companions to choose his successor, the mechanism that produced the accession of Uthman." },
+    { "type": "contemporary_of", "target": "abu-bakr", "note": "Umar was Abu Bakr's close associate, decisive in his acclamation at Saqifa, and succeeded him by designation as the second caliph." },
+    { "type": "contemporary_of", "target": "uthman", "note": "Uthman ibn Affan succeeded Umar as third caliph, chosen by the consultative council (shura) that Umar appointed on his deathbed." },
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; Ali sat on the shura Umar appointed, and the Shi'i reading holds that Umar's caliphate continued the setting aside of Ali's right." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. The Succession to Muhammad: A Study of the Early Caliphate. Cambridge: Cambridge University Press, 1997. A major academic study of the early caliphate, treating Umar's reign, his arrangement of the succession, and the consultative council (shura) he appointed; the outside-scholarship lens. The work is noted for arguing in defense of Ali's claim to the succession, itself relevant to the contested evaluation of the period. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/9780521646963",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Donner, Fred McGraw. The Early Islamic Conquests. Princeton: Princeton University Press, 1981. An academic study of the conquests out of Arabia into Syria and Iraq, most of which fell within Umar's caliphate, and of the early administrative organization (garrison towns, the register of stipends) that accompanied them; the outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691638898/the-early-islamic-conquests",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 13: The Conquest of Iraq, Southwestern Persia, and Egypt: The Middle Years of ʿUmar's Caliphate A.D. 636-642/A.H. 15-21, trans. Gautier H. A. Juynboll. Albany: State University of New York Press, 1989. The classical chronicle's account of the conquests and administration during the central years of Umar's reign; the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://sunypress.edu/p-365-the-history-of-al-tabari-vol-13.aspx",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 14: The Conquest of Iran A.D. 641-643/A.H. 21-23, trans. G. Rex Smith. Albany: State University of New York Press, 1994. The classical chronicle's account of the later conquests in Iran and the east, with the reign closing at Umar's death in 644 (23 AH); the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://sunypress.edu/Books/T/The-History-of-al-abari-Vol.-142",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oxford: Oneworld Publications, 2003. A contemporary Muslim scholar's account of the era of the first four caliphs, presenting both Sunni and Shi'i perspectives on Umar's caliphate, the shura he appointed, and its assessment; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

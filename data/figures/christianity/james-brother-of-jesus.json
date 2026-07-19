@@ -1,0 +1,98 @@
+{
+  "id": "james-brother-of-jesus",
+  "tradition": "christianity",
+  "names": {
+    "primary": "James, the brother of Jesus",
+    "original": "Ἰάκωβος",
+    "transliteration": "Iakōbos; Hebrew Yaʿaqov",
+    "aliases": [
+      "James the Just",
+      "James of Jerusalem",
+      "James the brother of the Lord",
+      "James the Righteous",
+      "Ya'aqov"
+    ]
+  },
+  "roles": ["leader of the Jerusalem church", "figure of early Christianity", "letter-writer (by attribution)"],
+  "summary": "James (d. c. 62 CE), called James the Just, is presented in the New Testament as a brother of Jesus (Greek adelphos) and as the leading figure of the early Jerusalem community, prominent at the meeting over the terms on which Gentiles could belong (Acts 15, Galatians 1-2). The Jewish historian Josephus reports his execution by stoning at the instigation of the high priest Ananus around 62 CE. The exact nature of his relationship to Jesus (full brother, cousin, or stepbrother) is understood differently across the Christian traditions.",
+  "description": "James, distinguished in later usage as 'the Just' (or 'the Righteous'), is named in the New Testament as a brother of Jesus. Mark 6:3 and Matthew 13:55 list him first among the brothers of Jesus, and Paul, the earliest witness, calls him 'James the Lord's brother' (Galatians 1:19) and names him first among the Jerusalem 'pillars' alongside Cephas (Peter) and John (Galatians 2:9). The Gospels indicate that Jesus's brothers did not follow him during his ministry (Mark 3:21, 31-35; John 7:5), while Paul reports that the risen Jesus 'appeared to James' (1 Corinthians 15:7); the tradition connects this appearance with James's emergence as a leader. In the Acts of the Apostles he presides over the Jerusalem community: he gives the concluding judgment at the meeting over Gentile circumcision and the law (Acts 15:13-21), and Paul reports to him on a later visit (Acts 21:18). A New Testament letter, the Letter of James, is attributed to him, though historical-critical scholarship is divided over whether he wrote it or whether it is pseudonymous. The Jewish historian Flavius Josephus records that around 62 CE, in the interval between the Roman governors Festus and Albinus, the high priest Ananus (Ananus II) convened the Sanhedrin and had James, 'the brother of Jesus who was called Christ' (ton adelphon Iēsou tou legomenou Christou), together with some others, delivered up to be stoned as breakers of the law, an act for which Ananus was subsequently deposed (Antiquities 20.200); most scholars regard this passage as authentic, while some question whether the phrase 'who was called Christ' is original. Later Christian writers, notably Hegesippus (preserved in Eusebius), transmit a fuller and more legendary account of James's piety and martyrdom. The precise nature of James's kinship to Jesus is understood differently across the traditions and has been so since antiquity, the differing positions being named after their fourth-century proponents: the Helvidian view (that the brothers were later children of Joseph and Mary, so James was a full or uterine brother), held by most modern exegetes; the Epiphanian view (that they were children of Joseph by an earlier marriage, so James was a stepbrother), the traditional Eastern Orthodox position; and the Hieronymian view (that they were cousins), which through Jerome's influence became the traditional Roman Catholic position and is bound up with the doctrine of Mary's perpetual virginity. This entry describes these as attributed positions of the traditions and of scholars and does not rule among them.",
+  "editorial_notes": "Two neutrality-sensitive points are handled per neutrality principles #1 (describe, do not adjudicate) and #2 (attribute contested claims). First, the 'brother of Jesus' relationship: the editor uses the New Testament's own term (adelphos, 'brother', as in Galatians 1:19 and Mark 6:3) descriptively, and then attributes the three classic interpretations of the kinship to their holders, the Helvidian (full/uterine brother, most modern exegetes), the Epiphanian (stepbrother, the traditional Eastern Orthodox view), and the Hieronymian (cousin, the traditional Roman Catholic view, tied to Mary's perpetual virginity), named after Helvidius, Epiphanius, and Jerome, without the editor ruling which is correct. The taxonomy and its attribution to the traditions follow Bauckham's treatment. Second, James's death is given per Josephus (Antiquities 20.200) as the primary external attestation, with the scholarly note that the passage is widely regarded as authentic while the phrase 'who was called Christ' is questioned by some; the fuller Hegesippus/Eusebius martyrdom account is flagged as later and more legendary. Authorship of the Letter of James is given as disputed (the standard historical-critical position). Sources triangulate the three Christianity lenses per #8-9: (a) academic scholarship (John Painter, Just James; Richard Bauckham, Jude and the Relatives of Jesus in the Early Church, and his CBQ article on the brothers and sisters); (b) the primary corpus (Mark, Matthew, John, Acts, Galatians, 1 Corinthians, the Letter of James, and Josephus, Antiquities 20.200, cited critically as sources); and (c) a contemporary biblical scholar and theologian (Richard Bauckham, James: Wisdom of James, Disciple of Jesus the Sage). No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence is medium throughout except the directly-cited scriptural passages: the secondary works and the Josephus passage were verified to exist and be on-topic via publisher pages, library catalogues, peer-reviewed reviews, and the standard critical text, but the monographs were not read line-by-line. Relation targets that exist in the dataset: jesus-of-nazareth, paul-of-tarsus, council-of-jerusalem, apostles, second-temple-judaism. All are existing entities.",
+  "lifespan": {
+    "death": 62,
+    "note": "No birth year is recorded; a contemporary of Jesus, active in Jerusalem from the earliest period of the movement. Death c. 62 CE, by stoning at the instigation of the high priest Ananus (Ananus II), as reported by Josephus, Antiquities 20.200 (in the interval between the governors Festus and Albinus)."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "jesus-of-nazareth",
+      "note": "The New Testament calls James a brother of Jesus (adelphos): Paul writes 'James the Lord's brother' (Galatians 1:19), and Mark 6:3 lists him among the brothers. The exact kinship is understood differently across the traditions (Helvidian: full/uterine brother; Epiphanian: stepbrother; Hieronymian: cousin); recorded here as attributed positions, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "paul-of-tarsus",
+      "note": "Paul names James first among the Jerusalem 'pillars' (Galatians 2:9), reports meeting him (Galatians 1:19), and in Acts reports to him on a later visit (Acts 21:18); the two accounts of their dealings differ in emphasis."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-jerusalem",
+      "note": "James, leader of the Jerusalem community, gives the concluding judgment at the meeting over Gentile circumcision and the law in the Acts 15 account (Acts 15:13-21) and is named among the 'pillars' in Galatians 2."
+    },
+    {
+      "type": "related_to",
+      "target": "apostles",
+      "note": "James is closely associated with the apostolic leadership of the earliest Jerusalem church, though he is not counted among the Twelve; Paul lists a resurrection appearance to him (1 Corinthians 15:7) and ranks him among the 'pillars'."
+    },
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "James led the Jerusalem community as a movement within the Judaism of the Second Temple period; both his Torah-observant leadership and his death by a Sanhedrin under the high priest Ananus (Josephus, Antiquities 20.200) belong to that setting."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Painter, John. Just James: The Brother of Jesus in History and Tradition. Studies on Personalities of the New Testament. Columbia, SC: University of South Carolina Press, 1997; new ed. Minneapolis: Fortress Press, 1999. A comprehensive academic study assembling the ancient evidence (New Testament, church fathers, Nag Hammadi, and other early Christian writings) for James and his role as leader of the Jerusalem community; the outside-scholarship lens.",
+      "url": "https://www.fortresspress.com/store/product/9780800631697/Just-James-The-Brother-of-Jesus-in-History-and-Tradition",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bauckham, Richard. Jude and the Relatives of Jesus in the Early Church. Edinburgh: T&T Clark, 1990. An academic study assembling and assessing the evidence for the role of the relatives of Jesus, including James, in the earliest Palestinian Jewish Christianity; the outside-scholarship lens on the kinship question.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/jude-and-the-relatives-of-jesus-in-the-early-church-by-richard-bauckham-pp-ix-459-edinburgh-t-t-clark-1995-0-567-09573-8/BD469B61135C0AE5F27205EF5EC57230",
+      "license": "Proprietary; cited for reference (verified via the Journal of Ecclesiastical History review), relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bauckham, Richard. 'The Brothers and Sisters of Jesus: An Epiphanian Response to John P. Meier.' Catholic Biblical Quarterly 56, no. 4 (1994): 686-700. A peer-reviewed article setting out the Helvidian, Epiphanian, and Hieronymian views of the kinship of Jesus's brothers and arguing that the Epiphanian view remains a historical option; cited for the attributed taxonomy of the three positions, which the editor reports without ruling among them.",
+      "url": "https://richardbauckham.co.uk/articles/",
+      "license": "Proprietary; cited for reference (bibliographic details verified), relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bauckham, Richard. James: Wisdom of James, Disciple of Jesus the Sage. New Testament Readings. London and New York: Routledge, 1999. A contemporary biblical scholar and theologian's study of James as brother of Jesus, leader of the Jerusalem church, and of the Letter of James and its wisdom teaching; the contemporary-scholar lens.",
+      "url": "https://www.routledge.com/James/Bauckham/p/book/9780415103701",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Josephus, Flavius. Jewish Antiquities, Book 20.200 (c. 93-94 CE): the notice that the high priest Ananus had 'the brother of Jesus who was called Christ, whose name was James' stoned by the Sanhedrin, and was deposed in consequence. The primary external (non-Christian) attestation of James's death; most scholars regard the passage as authentic, while some question whether the phrase 'who was called Christ' is original. Cited critically as a source, not taken at face value.",
+      "url": "https://penelope.uchicago.edu/josephus/ant-20.html",
+      "license": "Primary classical text; underlying Greek in the public domain (Loeb/critical editions proprietary). Antiquities 20.200 consulted for the notice of James's death.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The New Testament: Mark 6:3 and Matthew 13:55 (James among the brothers of Jesus), Galatians 1:19 and 2:9 (James the Lord's brother and a 'pillar'), John 7:5 (the brothers' unbelief during the ministry), 1 Corinthians 15:7 (a resurrection appearance to James), the Acts of the Apostles (esp. 15:13-21 and 21:18, James in the Jerusalem community), and the Letter of James (attributed to him, authorship disputed in scholarship). Primary scripture, cited critically as sources for what is narrated of James. Directly-cited passages consulted; full corpus not read line-by-line.",
+      "license": "Primary religious text; underlying Greek in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

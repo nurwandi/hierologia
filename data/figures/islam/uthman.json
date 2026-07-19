@@ -1,0 +1,62 @@
+{
+  "id": "uthman",
+  "tradition": "islam",
+  "names": {
+    "primary": "Uthman ibn Affan",
+    "original": "عثمان بن عفان",
+    "transliteration": "ʿUthmān ibn ʿAffān",
+    "aliases": ["Dhu al-Nurayn", "Dhū al-Nūrayn", "Abu Amr", "Abū ʿAmr", "Abu Abd Allah", "Amir al-Mu'minin", "Amīr al-Muʾminīn"]
+  },
+  "roles": ["caliph", "companion"],
+  "summary": "Uthman ibn Affan (c. 579-656 CE) was an early companion of the Prophet Muhammad and, in the Sunni tradition, the third of the four Rightly Guided (Rashidun) caliphs (r. 644-656). Chosen by the consultative council (shura) that Umar appointed, his reign is associated with the preparation of a standardized codex (mushaf) of the Qur'an; mounting grievances against his rule led to his killing in 656, an event that opened the first civil war (fitna).",
+  "description": "Uthman ibn Affan, a member of the Umayyad clan of Quraysh and an early companion of the Prophet, is remembered in the tradition as having married two of the Prophet's daughters in succession, from which the honorific Dhu al-Nurayn ('possessor of the two lights') is derived. On the death of Umar in 644 he was selected as caliph by the small consultative council (shura) of senior companions that Umar had appointed to choose a successor. His twelve-year reign saw the conquests continue and consolidate, and it is most closely associated in the tradition with the establishment of a standardized written codex (mushaf) of the Qur'an: the chronicles report that, faced with divergences in the recitation and copying of the text, Uthman had an authoritative recension prepared and copies dispatched to the main centers, with variant copies ordered withdrawn. The later part of his caliphate was marked by mounting grievances against his rule, which the sources variously connect to his appointment of kinsmen to provincial governorships, allegations of favoritism and misuse of the treasury, and grievances from garrisons in Egypt and Iraq. Discontent culminated in 656, when parties from the provinces came to Medina and, after a siege of his residence, killed him. His death precipitated the first civil war (fitna) and the contested accession of Ali ibn Abi Talib. The two major branches of Islam narrate his standing differently. In the Sunni account he is the third of the Rashidun caliphs, honored for his early faith, his generosity, and the collection of the Qur'an into a standard codex, and his killing is generally regarded as a grave wrong, though the assessment of the grievances against him and of his own conduct varies within the tradition. In the Shi'i account his caliphate, like those of Abu Bakr and Umar, is regarded as having continued the setting aside of the Prophet's designation of Ali, and his reign in particular is often read as marked by the very grievances that later accounts record; the two traditions share the historical outline of his reign, the standardization of the codex, and the circumstances of his death, but assess its legitimacy and his conduct in divergent ways.",
+  "editorial_notes": "This is a historically and confessionally sensitive figure at the center of the Sunni/Shi'i divide over the succession and the first fitna, and the entry is written to describe rather than adjudicate (neutrality principles #1, #2, #7). The Sunni honoring of Uthman as the third Rashidun caliph and the honorific Dhu al-Nurayn are presented as attributed valuations of that tradition, not as editorial findings ('in the Sunni account', 'is remembered as'). The Shi'i view, that his caliphate continued the setting aside of Ali's designation, is attributed and stated without ranking either position; the editor takes no view on which is correct. The grievances that led to his killing and the assessment of his conduct are the most contested matter in his biography: the entry reports the range of grievances the sources record (appointment of kinsmen, allegations of favoritism and misuse of the treasury, provincial discontent) and states explicitly that both the assessment of those grievances and the judgment of his conduct vary within and across the traditions, rather than settling whether the grievances were justified or the killing warranted. The standardization of the Qur'anic codex (mushaf) is given as the tradition and chronicles report it, without adjudicating debates over the history of the text. Dates: birth c. 579 CE is approximate and not securely fixed; death 35 AH / 656 CE is standard. Relation targets rashidun, ali, abu-bakr, umar, khilafa, baya, and shura are all existing entries; his selection by the shura Umar appointed makes the shura link substantive. Per neutrality principle #8 three source lenses are triangulated: modern Western academic scholarship (Madelung, The Succession to Muhammad, which treats Uthman's reign, the grievances, and the siege at length, and Afsaruddin, The First Muslims, on the reign and its later memory and the codex); the tradition's own classical primary chronicle (al-Tabari's Ta'rikh in the SUNY translation, Vol. 15, The Crisis of the Early Caliphate: The Reign of ʿUthman, which narrates the reign, the grievances, and the killing); and a contemporary Muslim scholar presenting both Sunni and Shi'i perspectives (Ayoub, The Crisis of Muslim History). Madelung, Afsaruddin, and Ayoub carry the same confidence ratings they hold in ali.json, rashidun.json, and khilafa.json (medium). No encyclopedias or tertiary sources are cited. All sources were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "lifespan": {
+    "birth": 579,
+    "death": 656,
+    "note": "Death 35 AH / 656 CE is standard; birth year (c. 579 CE) is approximate and not securely fixed in the sources."
+  },
+  "relations": [
+    { "type": "member_of", "target": "rashidun", "note": "Third of the four Rightly Guided (Rashidun) caliphs in Sunni reckoning (r. 644-656); his killing precipitated the first civil war (fitna)." },
+    { "type": "related_to", "target": "khilafa", "note": "Held the caliphate (khilafa) by selection of the consultative council; the crisis at the end of his reign is a central episode in accounts of the office and its succession." },
+    { "type": "related_to", "target": "shura", "note": "Chosen as caliph by the small consultative council (shura) of senior companions that Umar appointed on his deathbed to select a successor." },
+    { "type": "related_to", "target": "baya", "note": "His accession was confirmed by the pledge of allegiance (bay'a) following his selection by the shura." },
+    { "type": "contemporary_of", "target": "abu-bakr", "note": "Uthman was among the senior companions of Abu Bakr's generation and the third to hold the caliphate after him." },
+    { "type": "contemporary_of", "target": "umar", "note": "Uthman succeeded Umar as third caliph, chosen by the consultative council (shura) Umar appointed before his death." },
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine, sat on the shura that chose Uthman and acceded to the caliphate amid the turmoil following Uthman's killing." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. The Succession to Muhammad: A Study of the Early Caliphate. Cambridge: Cambridge University Press, 1997. A major academic study of the early caliphate, treating Uthman's selection by the shura, the grievances against his rule, and the siege that ended it at length; the outside-scholarship lens. The work is noted for arguing in defense of Ali's claim to the succession, itself relevant to the contested evaluation of the period. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/9780521646963",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Afsaruddin, Asma. The First Muslims: History and Memory. Oxford: Oneworld Publications, 2008. An academic study of the earliest Muslims, the Rashidun caliphs and the Companions, and of how their era has been remembered; treats Uthman's caliphate, the standardization of the Qur'anic codex, and the later memory of his reign. The outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-first-muslims/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 15: The Crisis of the Early Caliphate: The Reign of ʿUthman A.D. 644-656/A.H. 24-35, trans. R. Stephen Humphreys. Albany: State University of New York Press, 1990. The classical Arabic chronicle's account of Uthman's caliphate, the grievances against his rule, and the siege and killing that opened the first fitna; the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://sunypress.edu/Books/T/The-History-of-al-abari-Vol.-15",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oxford: Oneworld Publications, 2003. A contemporary Muslim scholar's account of the era of the first four caliphs, presenting both Sunni and Shi'i perspectives on Uthman's reign, the grievances against him, and his killing as the opening of the schism; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

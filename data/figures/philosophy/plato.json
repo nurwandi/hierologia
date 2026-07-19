@@ -1,0 +1,61 @@
+{
+  "id": "plato",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Plato",
+    "original": "Πλάτων",
+    "transliteration": "Platōn",
+    "aliases": ["Platon", "Aristocles (reported birth name)", "Aflatun (Arabic: أفلاطون)"]
+  },
+  "roles": ["philosopher"],
+  "summary": "Plato (c. 428-348 BCE) was a Greek philosopher, a pupil of Socrates and the teacher of Aristotle, who founded the Academy at Athens and wrote a body of philosophical dialogues, among them the Republic. His accounts of the Forms, of knowledge and the soul, and of the just city became foundational reference points, later taken up and read in distinct ways within the Neoplatonist tradition and, through it, within Islamic falsafa and Christian and Jewish thought.",
+  "description": "Plato was born into an aristocratic Athenian family around 428 BCE and became a follower of Socrates, whose trial and execution in 399 BCE mark a decisive event in his thought. He founded a school in a grove sacred to the hero Academus, the Academy, which endured for centuries as a centre of philosophical study, and he numbered Aristotle among its members. Almost all of Plato's writing takes the form of dialogues in which characters, most often Socrates, examine questions by argument and cross-examination (the Socratic elenchus) rather than by doctrinal statement, so that his own positions are presented dramatically and are the subject of scholarly interpretation. The dialogues are conventionally grouped by scholars into early, middle, and late phases: the early Socratic dialogues (such as the Euthyphro, Apology, and Crito) pursue definitions of the virtues and often end without resolution; the middle dialogues (the Phaedo, Symposium, Republic, and Phaedrus) develop the more distinctively Platonic positions; and the late dialogues (the Theaetetus, Sophist, Timaeus, and Laws) rework and in places criticise the earlier views. Among the positions the dialogues articulate, the most influential is the theory of Forms (or Ideas): the view, developed in the middle dialogues, that alongside the changing things perceived by the senses there are unchanging, intelligible realities, such as the Beautiful itself or the Just itself, which those sensible things imperfectly instantiate and which are the true objects of knowledge. Bound up with it are Plato's accounts of knowledge as distinct from mere opinion, of the soul as immortal and as the seat of reason, and, in the Republic, of justice in the soul and in the city, argued through the image of an ideal polity ruled by philosophers and illustrated by the allegory of the cave. In the Timaeus he offered an account of the cosmos as the work of a divine craftsman (the demiurge) ordering matter after the model of the Forms. Plato's writings, transmitted and interpreted through late antiquity, gave rise to the traditions later called Middle Platonism and Neoplatonism (Plotinus and his successors), and through those channels and the Graeco-Arabic translation movement his thought was received and reworked within Islamic falsafa and within Christian and Jewish philosophy and theology. In each of those settings his thought was read through that tradition's own questions and commitments, and those readings are attributed to the receiving traditions rather than to Plato himself.",
+  "editorial_notes": "Birth and death years (c. 428-348 BCE, both approximate in the scholarship) are entered as negative integers in the lifespan field per the BCE convention (birth -428, death -348). Plato is written here on his own terms as a philosopher and is filed under the philosophy tradition per ADR-0007: he is not a member of any religious tradition, and the entry does not present him as endorsing or belonging to Islam, Christianity, or Judaism. His later religious receptions, the Neoplatonised Plato read by Islamic falsafa and the Platonism drawn on in Christian and Jewish thought, are attributed to those traditions (through the influenced relations to neoplatonism, falsafa, and scholasticism), described as receptions and not fused into his own commitments. The interpretation of Plato's own doctrine from dialogues in which he never speaks in his own voice is itself a scholarly question, flagged in the description rather than resolved here. The relation to socrates (student_of) is a dangling forward reference to a not-yet-written philosophy entry; the relation to aristotle (teacher_of, related_to) points to the existing aristotle entry, which already records the reciprocal student_of; neoplatonism is a dangling forward reference. Sources triangulate philosophical and classical scholarship with Plato's own primary texts, per neutrality principles #8 and #9: (a) a volume of peer-reviewed academic essays, Kraut (ed.), The Cambridge Companion to Plato; (b) Plato's own dialogues as primary texts, in Cooper (ed.), Plato: Complete Works; (c) two further academic studies, Annas, An Introduction to Plato's Republic, and Irwin, Plato's Ethics. All were web-verified to exist and be on-topic via publisher, journal-review, and catalogue records (2026-07-19). Confidence is medium throughout, as relevant passages were not read line-by-line in this pass. Per the source rule, no encyclopedia is cited, including the Stanford Encyclopedia of Philosophy.",
+  "lifespan": {
+    "birth": -428,
+    "death": -348,
+    "note": "c. 428-348 BCE; the exact years are uncertain in the scholarship (birth sometimes given as 427 BCE, death as 347 BCE). Born and died at Athens. Years are entered as negative integers per the BCE convention."
+  },
+  "relations": [
+    { "type": "student_of", "target": "socrates", "note": "Plato was a follower of Socrates, whose method of question-and-answer examination and whose trial and death shaped Plato's philosophy; Socrates is the principal speaker in most of the dialogues. Forward reference to a not-yet-written philosophy entry." },
+    { "type": "teacher_of", "target": "aristotle", "note": "Aristotle was a member of Plato's Academy for about twenty years and developed his own philosophy in critical dialogue with Plato. The existing aristotle entry records the reciprocal student_of relation." },
+    { "type": "related_to", "target": "aristotle", "note": "Plato and Aristotle are the two central figures of classical Greek philosophy and are persistently read together and against each other; Aristotle both drew on and criticised Plato's theory of Forms." },
+    { "type": "influenced", "target": "neoplatonism", "note": "Plato's thought was reworked in late antiquity into the Neoplatonist tradition (Plotinus and his successors); this development is a reception of Plato attributed to that tradition. Forward reference to a not-yet-written entity." },
+    { "type": "influenced", "target": "falsafa", "note": "Plato's works, largely in Neoplatonised form and transmitted through the Graeco-Arabic translation movement, were received and reworked within Islamic falsafa; this reading is attributed to the falasifa, not to Plato himself." },
+    { "type": "influenced", "target": "scholasticism", "note": "Platonic and Neoplatonic themes were drawn on within Christian and Jewish philosophy and theology, including the scholastic tradition; these readings are attributed to those traditions, not to Plato himself." }
+  ],
+  "sources": [
+    {
+      "citation": "Kraut, Richard, ed. The Cambridge Companion to Plato. Cambridge Companions to Philosophy. Cambridge: Cambridge University Press, 1992 (2nd ed., ed. David Ebrey and Richard Kraut, 2022). Peer-reviewed academic essays on Plato's life, the dialogue form, ethics, political philosophy, epistemology, metaphysics, and psychology; cited as the modern scholarly lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-plato/F6EF4377C2E6B072199913EB9E44625E",
+      "license": "Proprietary; cited for reference (publisher page). Text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Plato. The dialogues, including the Apology, Phaedo, Symposium, Republic, Phaedrus, Theaetetus, Sophist, Timaeus, and Laws. Primary texts, cited in Plato: Complete Works, ed. John M. Cooper, assoc. ed. D. S. Hutchinson. Indianapolis and Cambridge: Hackett Publishing, 1997. The single-volume scholarly collection of the whole surviving Platonic corpus in modern translation; cited as the primary-text lens for the theory of Forms, the soul, and the Republic. Relevant passages not read line-by-line.",
+      "url": "https://hackettpublishing.com/complete-works",
+      "license": "Proprietary translations; the original Greek is in the public domain. Cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Annas, Julia. An Introduction to Plato's Republic. Oxford: Clarendon Press, 1981. Academic monograph working through the argument of the Republic on justice, education, motivation, knowledge, and the Forms; cited as a further scholarly lens on Plato's central dialogue. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://archive.org/details/introductiontopl0000anna",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Irwin, Terence. Plato's Ethics. New York and Oxford: Oxford University Press, 1995. Academic monograph tracing the development of Plato's moral philosophy from the Socratic dialogues to the Republic, on virtue, happiness, reason, and desire; cited as a further scholarly lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/platos-ethics-9780195086454",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "marcion",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Marcion of Sinope",
+    "original": "Μαρκίων",
+    "transliteration": "Markiōn",
+    "aliases": ["Marcion", "Marcion of Pontus"]
+  },
+  "roles": ["teacher", "reformer", "canon-maker"],
+  "summary": "Marcion of Sinope (c. 85-160 CE) was a second-century Christian teacher who drew a sharp distinction between the God of the Hebrew scriptures, whom he identified with the creator, and the higher God revealed in Jesus, rejected the Hebrew Bible, and promoted a restricted collection of Christian writings. He was expelled from the Roman Christian community around 144 CE and is remembered chiefly through the writings of his opponents, who treated him as a leading heretic.",
+  "description": "Marcion, a native of Sinope in Pontus on the Black Sea coast, was active as a Christian teacher in the middle of the second century and spent formative years in the Christian community at Rome, from which he was expelled around 144 CE. Almost nothing survives directly from his own hand; his teaching is reconstructed by scholarship largely from the accounts of the church writers who opposed him, above all Irenaeus of Lyons and Tertullian, together with later reports, and these are hostile witnesses whose polemical purpose shapes what they preserve. As reconstructed, the center of his teaching was a distinction between two divine principles: the God proclaimed in the law and the prophets, whom Marcion identified with the creator of the world (the demiurge in the terminology of his opponents) and characterized as just, severe, and bound to the material order, and a higher, previously unknown God of goodness and mercy, revealed for the first time in Jesus Christ. On this basis Marcion rejected the Hebrew scriptures as the record of the lower creator God rather than of the God of Jesus, and read the mission of Jesus as the disclosure of a God other than the creator. He promoted a restricted collection of authoritative writings consisting of a version of the Gospel of Luke and ten letters of Paul (the Apostolikon), which his opponents charged he had edited to remove material tying the gospel to the creator God and the Jewish scriptures, and he is associated with a work called the Antitheses setting the two Gods and their scriptures in contrast. A rigorous asceticism is also attributed to his communities. Marcion's initiative is widely discussed in scholarship on the formation of the New Testament canon: many scholars treat his restricted collection as a catalyst that pressed the wider church to clarify and define which writings it received, though the extent of that influence is debated. His condemnation by the emerging mainstream church, beginning with his expulsion at Rome around 144 and continued in the heresiological literature, is a matter of historical record; the Marcionite churches nonetheless spread widely and persisted for centuries in some regions. This entry states his condemnation as historical fact without endorsing either the church's verdict or Marcion's own teaching.",
+  "editorial_notes": "Neutrality crux (#11): Marcion left no surviving writings of his own, and his teaching is known mainly through his opponents, principally Irenaeus (Against Heresies) and Tertullian (Against Marcion), who are hostile witnesses writing to refute him. This entry accordingly presents his positions as reconstructed by modern scholarship (Lieu, Moll) and attributes the specific heresiological reports (the charge that he edited the Gospel of Luke, the label of a 'demiurge', the ascription of blasphemy) to those hostile sources rather than stating them as neutral fact; the primary patristic sources are cited AS attributed hostile witnesses. His condemnation and expulsion (Rome, c. 144) are stated as historical fact, but the entry does not endorse the church's verdict against him, nor does it endorse his teaching. Dates (c. 85-160) are approximate and as commonly reported in the scholarship; the expulsion date c. 144 is the conventional one. Sources triangulate three lenses per neutrality principles #8-9: (a) modern academic monographs (Judith Lieu, Cambridge 2015; Sebastian Moll, Mohr Siebeck 2010), the second of which explicitly revises the older Harnack reconstruction, so the entry does not rest on a single scholarly image; (b) the primary patristic reports, cited as attributed hostile sources (Irenaeus, Against Heresies I.27, and Tertullian, Against Marcion), both read in the open Ante-Nicene Fathers translation; (c) Lieu (2015) also serves as the recent contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: medium throughout. The monographs are verified to exist and be on-topic via publisher and review sources but not read line-by-line; the ANF primary texts were opened and the cited passages (AH I.27 on the two Gods) confirmed, but are themselves hostile testimony, so the confidence reflects the reconstructed and contested nature of the underlying claims, not merely source access. Relation targets: new-testament-canon exists; irenaeus exists (refuted_by); tertullian and gnosticism are forward references (dangling) to not-yet-created entities.",
+  "lifespan": {
+    "birth": 85,
+    "death": 160,
+    "note": "c. 85-160 CE, both dates approximate and as commonly reported; born at Sinope in Pontus, active at Rome, expelled from the Roman Christian community c. 144 CE."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "new-testament-canon",
+      "note": "Marcion's restricted collection (a version of Luke and ten Pauline letters) is widely treated in scholarship as a catalyst that pressed the wider church to define its own New Testament canon; the extent of that influence is debated."
+    },
+    {
+      "type": "refuted",
+      "target": "irenaeus",
+      "note": "Irenaeus of Lyons refuted Marcion in Against Heresies (esp. I.27); recorded here as the direction of the polemic, with Irenaeus as a hostile witness for Marcion's teaching. The relation is expressed from Irenaeus's side as refuted_by; entered here as 'refuted' with Marcion as the party opposed."
+    },
+    {
+      "type": "refuted",
+      "target": "tertullian",
+      "note": "Tertullian devoted the five books of Against Marcion (Adversus Marcionem) to refuting him; a principal hostile source for Marcion's teaching. Forward reference to a not-yet-created entity (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "gnosticism",
+      "note": "Marcion is often discussed alongside second-century Gnostic teachers because of his two-God scheme and rejection of the creator, though scholars such as Lieu and Moll stress that he lacked the elaborate cosmogony of the Gnostic systems and is not straightforwardly a Gnostic. Forward reference to a not-yet-created entity (dangling)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Lieu, Judith M. Marcion and the Making of a Heretic: God and Scripture in the Second Century. Cambridge: Cambridge University Press, 2015. xvi+502 pp. ISBN 978-1-107-02904-0. Academic monograph reconstructing Marcion's thought and analysing how the polemical sources (Justin, Irenaeus, Tertullian, Epiphanius, and others) shaped the figure of the heretic; the outside-scholarship and contemporary-scholar lens.",
+      "url": "https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Moll, Sebastian. The Arch-Heretic Marcion. Wissenschaftliche Untersuchungen zum Neuen Testament 250. Tübingen: Mohr Siebeck, 2010. xiv+181 pp. ISBN 978-3-16-150268-2. Academic monograph revising the older Harnack reconstruction and arguing that Marcion's reading of the Old Testament creator God, rather than Paul, stands at the centre of his doctrine; the academic lens, deliberately paired with Lieu so the entry does not rest on a single scholarly image.",
+      "url": "https://www.mohrsiebeck.com/en/book/the-arch-heretic-marcion-9783161502682/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Irenaeus of Lyons. Against Heresies (Adversus Haereses), Book I, Chapter 27 (on the doctrines of Cerdo and Marcion). In Ante-Nicene Fathers, vol. 1, trans. Alexander Roberts and William Rambaut, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Primary source cited AS an attributed hostile witness: Irenaeus reports that Marcion set the God 'proclaimed as God by the law and the prophets' against the Father of Jesus 'above the God that made the world'. Read in the cited translation.",
+      "url": "https://www.newadvent.org/fathers/0103127.htm",
+      "license": "Underlying text public domain; the cited passage read in the ANF translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tertullian. Against Marcion (Adversus Marcionem), five books. In Ante-Nicene Fathers, vol. 3, trans. Peter Holmes, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Primary source cited AS an attributed hostile witness: Tertullian's extended refutation is a principal channel for Marcion's teaching on the two Gods and his edited scriptures. Contents page verified in the cited translation.",
+      "url": "https://www.newadvent.org/fathers/0312.htm",
+      "license": "Underlying text public domain; cited for reference in the ANF translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
