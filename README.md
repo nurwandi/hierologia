@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://nurwandi.github.io/hierologia/"><img src="https://img.shields.io/badge/demo-live-2ea44f" alt="Live demo"></a>
   <a href="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml"><img src="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml/badge.svg" alt="Deploy"></a>
+  <a href="https://doi.org/10.5281/zenodo.21436391"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21436391.svg" alt="DOI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT"></a>
-  <img src="https://img.shields.io/badge/status-early%20draft-orange" alt="Status: early draft">
 </p>
 
 *Hierologia*, from Greek *hierós* (“sacred”) and *lógos*, is the study of the
@@ -24,9 +24,10 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> ⚠️ **Early stage.** The dataset is small and every entry is currently a
-> `draft`. Coverage is deliberately partial and growing; the project says what
-> it does not yet cover rather than pretending to be complete.
+> **Status.** The first tradition, Islamic theology (*kalam*), is complete for
+> this release: 75 entities, all peer-`reviewed`. Coverage across traditions is
+> deliberately partial and growing; the project says what it does not yet cover
+> rather than pretending to be complete.
 
 ## Scope
 
