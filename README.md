@@ -25,16 +25,18 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 102
-> entities and Christian theology with 40, all peer-`reviewed`, linked by
-> cross-tradition comparisons. Coverage is deliberately partial and growing; the
-> project says what it does not yet cover rather than pretending to be complete.
+> **Status.** Islamic theology (*kalam*) with 106 entities and Christian theology
+> with 50 are covered, all peer-`reviewed`, linked by cross-tradition comparisons,
+> alongside a small `philosophy` namespace for the shared Greek substrate each
+> tradition draws on. Coverage is deliberately partial and growing; the project says
+> what it does not yet cover rather than pretending to be complete.
 
 ## Scope
 
-Two traditions are covered: **Islamic theology (*kalam*)** and **Christian
-theology**, linked by cross-tradition comparisons. The dataset models five kinds
-of entity, linked into a graph:
+**Islamic theology (*kalam*)** and **Christian theology** are covered, linked by
+cross-tradition comparisons, alongside a small **`philosophy`** namespace for the
+shared Greek substrate (Aristotle and, in time, others) that each tradition draws
+on. The dataset models five kinds of entity, linked into a graph:
 
 - **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, the Trinity, grace)
 - **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal, Augustine, Aquinas)

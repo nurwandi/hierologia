@@ -6,6 +6,45 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-07-19
+
+A third namespace opens for the shared philosophical substrate, the Christian
+dangling references are closed, and the Islamic side gains its self-understanding
+layer, all linked by two new cross-tradition comparisons.
+
+### Added
+- **A `philosophy` tradition** (ADR-0007) for the Greek substrate that both kalam
+  and scholasticism draw on, with `aristotle` as its first entry, written on his own
+  terms and never annexed to a religion. The `tradition` enum gains `philosophy` in
+  all five schemas; this is the additive schema change that carries `schema_version`
+  from 0.3.0 to 0.4.0.
+- **The Christian dangling references, closed**: the figures Constantine, Pelagius,
+  and Peter Abelard; the concepts predestination, theosis, indulgences, and the Five
+  Ways; the school Pelagianism; the Reformation as an Event; and the ecumenical
+  councils as an institution.
+- **Two cross-tradition comparisons** (#10): `predestination compares_with qadar`
+  (divine determination and human freedom, framed as a shared question, neither
+  answer ranked) and `theosis compares_with fana` (human participation in or nearness
+  to a transcendent God).
+- **The Islamic self-understanding layer**: `islam` (submission, in both the generic
+  sense that all creation and all prophets submit and the specific sense of the final
+  revelation), `hanif` (the primordial pure monotheist), `millat-ibrahim` (the
+  religion of Abraham that Islam understands itself to continue and restore), and
+  `tahrif` (the doctrine that earlier scripture-communities altered their scriptures).
+  Each states the tradition's self-understanding fully on its own terms (#7) while
+  attributing every claim that touches Abraham, Moses, Jesus, or the Jewish and
+  Christian scriptures, rather than asserting it as neutral fact (#1, #11). `tahrif`
+  is written strictly as the attributed Islamic doctrine and its internal debate
+  (distortion of meaning versus corruption of the text), and does not adjudicate the
+  actual textual history of the Bible.
+
+### Notes
+- The dataset is now 157 entities: 106 Islamic, 50 Christian, and 1 in the new
+  philosophy namespace, 155 `reviewed` and 2 `verified`.
+- MINOR release. The schema change (the enum gains `philosophy`) is additive and
+  backward compatible, so `schema_version` moves 0.3.0 to 0.4.0 while existing
+  entities remain valid (ADR-0004: dataset and schema versions are separate axes).
+
 ## [0.5.0] - 2026-07-19
 
 Eleven Islamic entities close the Islamic dangling references, adding the political

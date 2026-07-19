@@ -4,9 +4,10 @@ title: "Hierologia: an open academic API for the comparative study of sacred tra
 abstract: >-
   Hierologia preserves theological, historical, and sociological knowledge across
   religious traditions as structured, neutral, well-sourced, and versioned data.
-  It covers two traditions, Islamic theology (kalam) and Christian theology,
-  linked by cross-tradition comparisons, and a history layer spanning both (the
-  ecumenical councils and creeds, the Abbasid Mihna, and the hadith collections).
+  It covers Islamic theology (kalam) and Christian theology, linked by
+  cross-tradition comparisons, with a history layer spanning both (the ecumenical
+  councils and creeds, the Abbasid Mihna, and the hadith collections) and a
+  philosophy namespace for the shared Greek substrate that each tradition draws on.
   Each concept, figure, school, event, and work is a single JSON entity served as
   a static read-only API. It is compiled with AI assistance under human editorial
   oversight; sources are independently verified and most entries are peer-reviewed
@@ -29,6 +30,6 @@ keywords:
   - comparative religion
   - digital humanities
   - open data
-version: 0.5.0
+version: 0.6.0
 date-released: "2026-07-19"
 doi: 10.5281/zenodo.21436391
