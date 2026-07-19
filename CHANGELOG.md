@@ -6,6 +6,47 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-07-19
+
+The history layer opens and the Christian tradition deepens toward parity: two new
+entity types, the ecumenical councils and creeds, the Islamic account of Jesus,
+and an early Jewish-Christian sect that raises the comparison directly.
+
+### Added
+- **Two entity types, `Event` and `Work`** (ADR-0006). An `Event` is a datable
+  happening (a council, synod, inquisition); a `Work` is a text (a creed,
+  conciliar definition, treatise, canon). Both share the provenance, lifecycle,
+  and neutrality model of the existing types. This is the foundation of the
+  planned history and sociology module, and it is cross-tradition from the start.
+- **The first four ecumenical councils** as Events (Nicaea 325, Constantinople
+  381, Ephesus 431, Chalcedon 451) and **two creeds** as Works (the
+  Niceno-Constantinopolitan Creed and the Definition of Chalcedon). These were
+  dangling forward references and are now sourced, first-class nodes.
+- **The Islamic account of Jesus**, anchoring new cross-tradition comparisons:
+  `isa` (Jesus in Islam), `maryam` (Mary), and `hawariyyun` (the disciples in the
+  Qur'an), with `isa compares_with incarnation` and `hawariyyun compares_with
+  apostles`.
+- **Early Christianity and the direct comparison**: `ebionites`, an early
+  Jewish-Christian movement whose low Christology is compared with `tawhid` and
+  `isa` as a shared question and explicitly never as a claim that Islam derives
+  from it (#10, #11); plus `adoptionism` and the Christian `apostles`.
+- **The Christian tradition deepened toward parity** (now 40 entities): the
+  figures Origen, Cyril of Alexandria, Gregory of Nazianzus, Anselm, Calvin, and
+  Barth; the branches and movements Roman Catholicism, Eastern Orthodoxy, the
+  Reformed tradition, and monasticism; and the concepts homoousios, Eutychianism,
+  sola fide, sola scriptura, the sacraments, and ecclesiology.
+- `docs/governance/build-process.md`, the six-step batch lifecycle (scope, author,
+  validate, review, promote, release) written down as a public methodology.
+- Demo: the detail view now shows an event's date and location, a work's date, and
+  a figure's dates.
+
+### Notes
+- The dataset is now 121 entities: 81 Islamic and 40 Christian, all `reviewed`
+  (2 `verified`). Every new entity passed an independent peer-review audit that
+  verified each citation. With councils and creeds now first-class, the social
+  history layer (the Mihna, the Mudejar and Morisco communities) can follow using
+  the same Event and Work types.
+
 ## [0.2.0] - 2026-07-19
 
 The second tradition and the first cross-tradition comparisons: Hierologia

@@ -24,20 +24,22 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 78
-> entities and Christian theology with 15, all peer-`reviewed`, linked by
+> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 81
+> entities and Christian theology with 40, all peer-`reviewed`, linked by
 > cross-tradition comparisons. Coverage is deliberately partial and growing; the
 > project says what it does not yet cover rather than pretending to be complete.
 
 ## Scope
 
 Two traditions are covered: **Islamic theology (*kalam*)** and **Christian
-theology**, linked by cross-tradition comparisons. The dataset models three kinds
+theology**, linked by cross-tradition comparisons. The dataset models five kinds
 of entity, linked into a graph:
 
 - **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, the Trinity, grace)
 - **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal, Augustine, Aquinas)
 - **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, patristics, scholasticism)
+- **Events**, datable happenings (e.g. the councils of Nicaea, Ephesus, Chalcedon)
+- **Works**, texts and documents (e.g. the Nicene Creed, the Definition of Chalcedon)
 
 Cross-tradition `compares_with` links compare a shared question across traditions
 without equating the answers. Further traditions will follow the same model.
@@ -76,7 +78,7 @@ fetch("https://nurwandi.github.io/hierologia/api/tawhid.json")
 ## Repository layout
 
 ```
-data/       one JSON file per entity (concepts, figures, schools), the source of truth
+data/       one JSON file per entity (concepts, figures, schools, events, works), the source of truth
 schema/     JSON Schemas: the contract for every entity and the API payload
 scripts/    validate.py (schema + relation checks), build_api.py, verify_sources.py
 web/        the static single-page demo

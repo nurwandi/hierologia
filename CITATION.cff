@@ -5,8 +5,9 @@ abstract: >-
   Hierologia preserves theological, historical, and sociological knowledge across
   religious traditions as structured, neutral, well-sourced, and versioned data.
   It covers two traditions, Islamic theology (kalam) and Christian theology,
-  linked by cross-tradition comparisons. Each concept, figure, and school is a
-  single JSON entity served as a static read-only API.
+  linked by cross-tradition comparisons, and a history layer of ecumenical
+  councils and creeds. Each concept, figure, school, event, and work is a single
+  JSON entity served as a static read-only API.
 type: dataset
 authors:
   - family-names: Nurwandi
@@ -23,6 +24,6 @@ keywords:
   - comparative religion
   - digital humanities
   - open data
-version: 0.2.0
+version: 0.3.0
 date-released: "2026-07-19"
 doi: 10.5281/zenodo.21436391
