@@ -8,7 +8,7 @@
   "required": ["id", "tradition", "names", "summary", "sources", "status", "schema_version", "updated"],
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable slug; part of the API URL. Never change once published." },
-    "tradition": { "type": "string", "enum": ["islam"] },
+    "tradition": { "type": "string", "enum": ["islam", "christianity"] },
     "names": {
       "type": "object",
       "additionalProperties": false,
@@ -42,7 +42,7 @@
         "properties": {
           "type": {
             "type": "string",
-            "enum": ["founded_by", "key_figure", "holds", "rejects", "opposed", "split_from", "influenced_by", "related_to"]
+            "enum": ["founded_by", "key_figure", "holds", "rejects", "opposed", "split_from", "influenced_by", "related_to", "compares_with"]
           },
           "target": { "type": "string", "description": "id of the target entity (may not exist yet)." },
           "note": { "type": "string" }
