@@ -1,0 +1,71 @@
+{
+  "id": "chalcedonian-definition",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Chalcedonian Definition",
+    "original": "Ὅρος τῆς Χαλκηδόνος",
+    "transliteration": "Horos tes Chalkedonos",
+    "aliases": [
+      "Definition of Chalcedon",
+      "Chalcedonian Formula",
+      "Chalcedonian Creed"
+    ]
+  },
+  "category": "conciliar definition",
+  "date": {
+    "year": 451,
+    "note": "Adopted at the Council of Chalcedon in 451 CE."
+  },
+  "summary": "The Chalcedonian Definition is the christological statement adopted at the Council of Chalcedon in 451. It confesses one and the same Christ in two natures, divine and human, without confusion, change, division, or separation, united in one person and one subsistence.",
+  "description": "The Chalcedonian Definition is the christological standard of the Council of Chalcedon (451). It confesses one and the same Son, our Lord Jesus Christ, perfect in divinity and perfect in humanity, truly God and truly man, homoousios with the Father as to his divinity and homoousios with us as to his humanity, made known in two natures, without confusion, without change, without division, without separation (in Greek asynchytos, atreptos, adiairetos, achoristos). The distinction of the natures is in no way removed by their union, but rather the property of each nature is preserved and concurs in one person (prosopon) and one subsistence (hypostasis), not parted or divided into two persons but one and the same Son. The Definition was framed to hold a middle course between two rejected positions: the Nestorian tendency, charged with dividing Christ into two persons, and the Eutychian or monophysite position, that after the union Christ had a single nature. It received the creeds of Nicaea and Constantinople, the synodical letters of Cyril of Alexandria, and the Tome of Pope Leo I as its authorities. The Definition became the standard of christological orthodoxy in the Catholic, Orthodox, and most Protestant traditions, while the churches later called Oriental Orthodox did not receive it, a division that endures.",
+  "editorial_notes": "This entry describes the Definition on the tradition's own terms and states the two positions it was framed against without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division rather than evaluated. The four adverbs (without confusion, change, division, separation) and the one-person-two-natures formula are given as they stand in the promulgated text. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). The Definition itself is the primary source for this Work. No encyclopedias or tertiary sources are cited. Confidence: high on the wording of the Definition, read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line.",
+  "relations": [
+    {
+      "type": "adopted_at",
+      "target": "council-of-chalcedon",
+      "note": "Adopted as the christological definition of the Council of Chalcedon (451)."
+    },
+    {
+      "type": "affirms",
+      "target": "incarnation",
+      "note": "Confesses one and the same Christ in two natures, divine and human, united in one person; the classic conciliar statement of the incarnation."
+    },
+    {
+      "type": "condemns",
+      "target": "nestorianism",
+      "note": "Rejects the position charged with dividing Christ into two persons by confessing one person (prosopon) and one subsistence (hypostasis)."
+    },
+    {
+      "type": "responds_to",
+      "target": "nicene-creed",
+      "note": "Receives and builds upon the Nicene and Constantinopolitan creeds, extending their confession of the Son's divinity into a definition of the union of the two natures in the one Christ."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Price, Richard, and Michael Gaddis (trans.). The Acts of the Council of Chalcedon. 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005. Academic translation, introduction, and notes to the acts, including the Definition; the outside-scholarship lens.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9780853230397",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the Definition of Chalcedon (451) in Greek and Latin with facing English translation; the primary conciliar-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar text public domain. Definition read; scholarly apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic-theology textbook whose christology chapters expound the Chalcedonian two-natures settlement; the contemporary Christian theologian lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

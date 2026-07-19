@@ -1,0 +1,72 @@
+{
+  "id": "council-of-constantinople",
+  "tradition": "christianity",
+  "names": {
+    "primary": "First Council of Constantinople",
+    "original": "Σύνοδος τῆς Κωνσταντινουπόλεως",
+    "transliteration": "Synodos tes Konstantinoupoleos",
+    "aliases": [
+      "Constantinople I",
+      "Council of Constantinople (381)",
+      "Second Ecumenical Council"
+    ]
+  },
+  "category": "ecumenical council",
+  "location": "Constantinople",
+  "date": {
+    "year": 381,
+    "note": "Convened in 381 CE by the emperor Theodosius I."
+  },
+  "summary": "The First Council of Constantinople was a gathering of Christian bishops convened in 381 by the emperor Theodosius I. It reaffirmed the Nicene faith and expanded the creed, notably its confession of the Holy Spirit, producing the form commonly called the Niceno-Constantinopolitan Creed.",
+  "description": "The First Council of Constantinople met in 381 under the emperor Theodosius I, half a century after Nicaea, to consolidate the Nicene confession against continuing Arian and other subordinationist currents and against those who denied the full divinity of the Holy Spirit. The council reaffirmed the confession of the Son as homoousios with the Father and expanded the creed of 325, adding an enlarged article on the Holy Spirit that confesses the Spirit as the Lord and giver of life, who proceeds from the Father and is worshipped and glorified together with the Father and the Son. The resulting text is the creed commonly recited as the Nicene Creed and known more precisely as the Niceno-Constantinopolitan Creed. The council is counted as the second of the ecumenical councils. Its settlement, together with the technical vocabulary supplied by the Cappadocian Fathers distinguishing the one essence (ousia) from the three persons (hypostaseis), marks the point at which the conciliar doctrine of the Trinity, embracing Father, Son, and Holy Spirit, reached its classic form in the Greek East and the Latin West.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms, per neutrality principles #1, #4, and #6, and states what the council reaffirmed and expanded without adjudicating the disputes it addressed. Sources triangulate three lenses per neutrality principles #8-9: academic history of doctrine (Ayres, Nicaea and Its Legacy, OUP 2004), the primary conciliar text and creed (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary Christian theologian (Behr, The Nicene Faith, SVS Press 2004). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the expanded creed, whose Holy Spirit clause is read in the promulgated text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line. Relation targets homoousios and nicene-creed are forward references to not-yet-created entities.",
+  "relations": [
+    {
+      "type": "produced",
+      "target": "nicene-creed",
+      "note": "Issued the expanded Niceno-Constantinopolitan form of the creed, enlarging the Nicene core of 325, especially the article on the Holy Spirit."
+    },
+    {
+      "type": "affirmed",
+      "target": "trinity",
+      "note": "By confessing the full divinity of the Holy Spirit alongside the Son, the council gave the conciliar doctrine of the Trinity its classic creedal form."
+    },
+    {
+      "type": "preceded_by",
+      "target": "council-of-nicaea",
+      "note": "Followed and consolidated the First Council of Nicaea (325), whose creed it reaffirmed and expanded."
+    },
+    {
+      "type": "related_to",
+      "target": "homoousios",
+      "note": "Reaffirmed the Nicene confession of the Son as homoousios with the Father. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. Academic account of the fourth-century controversies through the settlement of 381; the outside-scholarship lens.",
+      "url": "https://academic.oup.com/book/3350",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the creed and canons of Constantinople I in Greek and Latin with facing English translation; the primary conciliar-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar texts public domain. Creed read; scholarly apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Behr, John. The Nicene Faith. Formation of Christian Theology, vol. 2. Yonkers, NY: St Vladimir's Seminary Press, 2004. A contemporary Orthodox patristics scholar's study of the fourth-century settlement, including the Cappadocians and the divinity of the Spirit; the modern Christian theologian lens.",
+      "url": "https://svspress.com/nicene-faith-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

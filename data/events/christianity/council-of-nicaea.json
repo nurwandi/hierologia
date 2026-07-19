@@ -1,0 +1,82 @@
+{
+  "id": "council-of-nicaea",
+  "tradition": "christianity",
+  "names": {
+    "primary": "First Council of Nicaea",
+    "original": "Σύνοδος τῆς Νικαίας",
+    "transliteration": "Synodos tes Nikaias",
+    "aliases": [
+      "Nicaea I",
+      "Council of Nicaea (325)",
+      "First Ecumenical Council"
+    ]
+  },
+  "category": "ecumenical council",
+  "location": "Nicaea, Bithynia",
+  "date": {
+    "year": 325,
+    "note": "Met from roughly May to the end of July 325 CE; the emperor Constantine chose Nicaea in Bithynia, near his residence at Nicomedia, so he could attend."
+  },
+  "summary": "The First Council of Nicaea was a gathering of Christian bishops convened in 325 by the emperor Constantine to address the Arian controversy. It confessed the Son as homoousios (of the same essence) with the Father and condemned the teaching of Arius.",
+  "description": "The First Council of Nicaea assembled some two to three hundred bishops in the Bithynian city of Nicaea in 325, at the invitation and expense of the emperor Constantine, who provided imperial transport and presided over the opening. It was called to settle the dispute associated with Arius, a presbyter of Alexandria, over whether the Son of God is truly and fully divine or a created being subordinate to the Father. The council rejected the Arian position and confessed the Son as begotten not made, and as homoousios (of the same essence, consubstantial) with the Father, producing the creed whose core was later expanded at Constantinople in 381 into the form commonly called the Niceno-Constantinopolitan Creed. Arius and two bishops who refused to subscribe were deposed and exiled. The council also issued canons and addressed the date of Easter and the Melitian schism. It is counted as the first of the ecumenical councils by the Catholic, Orthodox, and most Protestant traditions. The emperor's role in convening and enforcing the council made it a landmark in the relationship between the imperial power and the church, while its confession of the Son's full divinity became the reference point for later Trinitarian orthodoxy.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms and states the disputed question (whether the Son is a creature or homoousios with the Father) as the matter in dispute, attributing the Nicene confession to the council rather than adjudicating it, per neutrality principles #1, #4, and #6. 'Arianism' is used as the later heresiological label for the range of positions grouped under Arius. Sources triangulate three lenses per neutrality principles #8-9: academic history of doctrine (Ayres, Nicaea and Its Legacy, OUP 2004), the primary conciliar text and its canons (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990, which prints the Greek and Latin with English translation), and a contemporary Christian theologian (Behr, The Nicene Faith, SVS Press 2004). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the creed and the fact of Arius's condemnation, which are read in the promulgated conciliar text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line. Several relation targets (homoousios, constantine, nicene-creed) are forward references to entities not yet created in this dataset.",
+  "relations": [
+    {
+      "type": "condemned",
+      "target": "arianism",
+      "note": "The council rejected the teaching associated with Arius that the Son is a created, subordinate being, and deposed Arius; the condemnation is reported as the council's act."
+    },
+    {
+      "type": "affirmed",
+      "target": "homoousios",
+      "note": "Confessed the Son as homoousios (of the same essence) with the Father, against the Arian position. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "nicene-creed",
+      "note": "Issued the creed whose Nicene core was later expanded at Constantinople (381) into the Niceno-Constantinopolitan form."
+    },
+    {
+      "type": "participant",
+      "target": "athanasius",
+      "note": "Athanasius, then a deacon accompanying bishop Alexander of Alexandria, attended and later became the leading defender of the Nicene confession."
+    },
+    {
+      "type": "convened_by",
+      "target": "constantine",
+      "note": "The emperor Constantine convened the council, funded it, and presided over its opening. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "The confession of the Son as homoousios with the Father became the reference point for the later conciliar doctrine of the Trinity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. Academic history of the fourth-century Trinitarian controversies and the emergence of pro-Nicene orthodoxy; the outside-scholarship lens.",
+      "url": "https://academic.oup.com/book/3350",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the acts, creed, and canons of Nicaea I in Greek and Latin with facing English translation; the primary conciliar-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar texts public domain. Creed and condemnation read; scholarly apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Behr, John. The Nicene Faith. Formation of Christian Theology, vol. 2. Yonkers, NY: St Vladimir's Seminary Press, 2004. A contemporary Orthodox patristics scholar's study of the fourth-century controversies, Nicaea, and Athanasius; the modern Christian theologian lens.",
+      "url": "https://svspress.com/nicene-faith-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

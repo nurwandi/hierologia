@@ -1,0 +1,76 @@
+{
+  "id": "nicene-creed",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Nicene Creed",
+    "original": "Πιστεύομεν εἰς ἕνα Θεόν",
+    "transliteration": "Pisteuomen eis hena Theon",
+    "aliases": [
+      "Niceno-Constantinopolitan Creed",
+      "Symbol of Nicaea-Constantinople",
+      "Credo in unum Deum"
+    ]
+  },
+  "category": "creed",
+  "date": {
+    "year": 381,
+    "note": "The received form is that of the First Council of Constantinople (381); its Nicene core, including the confession of the Son as homoousios with the Father, is from the First Council of Nicaea (325)."
+  },
+  "summary": "The Nicene Creed, more precisely the Niceno-Constantinopolitan Creed, is the confession of faith whose Nicene core was issued in 325 and whose received form was set at Constantinople in 381. It confesses one God the Father, the Son as homoousios (of the same essence) with the Father, and the Holy Spirit as the Lord and giver of life.",
+  "description": "The Nicene Creed is the most widely shared Christian creed, recited across the Catholic, Orthodox, Anglican, Lutheran, and many other traditions. Its Greek text opens Pisteuomen eis hena Theon (We believe in one God) and its Latin liturgical form opens Credo in unum Deum (I believe in one God). The creed confesses one God the Father almighty, maker of heaven and earth; and one Lord Jesus Christ, the Son of God, begotten of the Father before all ages, God from God, light from light, true God from true God, begotten not made, homoousios (of the same essence, consubstantial) with the Father, through whom all things were made, who for our salvation became incarnate, was crucified, rose, and will come again; and the Holy Spirit, the Lord and giver of life, who proceeds from the Father, who with the Father and the Son is worshipped and glorified. The homoousios clause and the confession of the Son as begotten not made were formulated at Nicaea (325) against the Arian teaching that the Son is a creature. The enlarged article on the Holy Spirit and the received wording were set at Constantinople (381). In the Latin West a further clause, the Filioque (and the Son), was later added to the procession of the Spirit, a difference that remains church-dividing between the Eastern Orthodox and Western churches. The creed functions as a summary rule of faith, a baptismal confession, and a liturgical text.",
+  "editorial_notes": "This entry describes the creed on the tradition's own terms, per neutrality principles #1, #4, and #6, and names the Filioque as a live division between East and West rather than resolving it, consistent with the trinity entry. The original-language incipit given is the Greek opening of the received (381) text; the Latin incipit is the Western liturgical form. Sources triangulate three lenses per neutrality principles #8-9: academic history of doctrine (Ayres, Nicaea and Its Legacy, OUP 2004), the primary creedal text as printed in a critical edition (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary Christian theologian (Behr, The Nicene Faith, SVS Press 2004). The creedal text is itself the primary source for this Work. No encyclopedias or tertiary sources are cited. Confidence: high on the wording of the creed, read in the promulgated text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line. The relation target homoousios is a forward reference to a not-yet-created entity.",
+  "relations": [
+    {
+      "type": "adopted_at",
+      "target": "council-of-nicaea",
+      "note": "The Nicene core, including the confession of the Son as homoousios with the Father, was adopted at the First Council of Nicaea (325)."
+    },
+    {
+      "type": "adopted_at",
+      "target": "council-of-constantinople",
+      "note": "The received Niceno-Constantinopolitan form, with the enlarged article on the Holy Spirit, was set at the First Council of Constantinople (381)."
+    },
+    {
+      "type": "affirms",
+      "target": "trinity",
+      "note": "Confesses the Father, the Son, and the Holy Spirit, giving the doctrine of the Trinity its classic creedal statement."
+    },
+    {
+      "type": "affirms",
+      "target": "homoousios",
+      "note": "Confesses the Son as homoousios (of the same essence) with the Father. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "condemns",
+      "target": "arianism",
+      "note": "The clauses begotten not made and homoousios with the Father were framed against the Arian teaching that the Son is a created being."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. Academic account of the framing and reception of the Nicene faith; the outside-scholarship lens.",
+      "url": "https://academic.oup.com/book/3350",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the creed of 325 and the Niceno-Constantinopolitan Creed of 381 in Greek and Latin with facing English translation; the primary creedal-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying creedal text public domain. Creed read; scholarly apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Behr, John. The Nicene Faith. Formation of Christian Theology, vol. 2. Yonkers, NY: St Vladimir's Seminary Press, 2004. A contemporary Orthodox patristics scholar's study of the theology expressed in the Nicene faith; the modern Christian theologian lens.",
+      "url": "https://svspress.com/nicene-faith-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

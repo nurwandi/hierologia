@@ -1,0 +1,81 @@
+{
+  "id": "council-of-chalcedon",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Council of Chalcedon",
+    "original": "Σύνοδος τῆς Χαλκηδόνος",
+    "transliteration": "Synodos tes Chalkedonos",
+    "aliases": [
+      "Chalcedon (451)",
+      "Fourth Ecumenical Council"
+    ]
+  },
+  "category": "ecumenical council",
+  "location": "Chalcedon",
+  "date": {
+    "year": 451,
+    "note": "Met in 451 CE at Chalcedon in Bithynia, across the Bosphorus from Constantinople, convened by the emperor Marcian."
+  },
+  "summary": "The Council of Chalcedon was a gathering of Christian bishops convened in 451 by the emperor Marcian. It issued the Definition confessing Christ as one person in two natures, without confusion, change, division, or separation, rejecting both Nestorian and Eutychian positions.",
+  "description": "The Council of Chalcedon met in 451 at the urging of the emperor Marcian, the largest of the early ecumenical councils, to settle the christological question left open after Ephesus (431) and after the disputed Second Council of Ephesus of 449. It produced the Chalcedonian Definition, which confesses one and the same Christ, Son, and Lord, acknowledged in two natures, without confusion, without change, without division, without separation, the distinction of the natures being in no way removed by their union but the property of each preserved and concurring in one person (prosopon) and one subsistence (hypostasis). The Definition upheld the earlier condemnation of the Nestorian position, which its critics charged with dividing Christ into two persons, and rejected the Eutychian or monophysite position, which held that after the union Christ had a single nature. It received the Nicene and Constantinopolitan creeds, Cyril of Alexandria's synodical letters, and the Tome of Pope Leo I as authoritative. It is counted as the fourth of the ecumenical councils by the Catholic, Orthodox, and most Protestant traditions. The Definition was not received by the churches later called Oriental Orthodox (miaphysite), producing a division in eastern Christianity that endures. Chalcedon's two-natures formula became the standard of christological orthodoxy in the Greek East and the Latin West.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms and states the christological question and the positions it rejected without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division, not evaluated, in keeping with the policy against flattening a live debate. 'Nestorianism' and 'Eutychianism' are used as the later heresiological labels for the positions in dispute; eutychianism is a forward reference to a not-yet-created entity. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the Definition, whose four adverbs and one-person-two-natures formula are read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line.",
+  "relations": [
+    {
+      "type": "affirmed",
+      "target": "incarnation",
+      "note": "Confessed one and the same Christ in two natures, divine and human, united in one person; the Definition is the classic conciliar statement of the incarnation."
+    },
+    {
+      "type": "condemned",
+      "target": "nestorianism",
+      "note": "Upheld the condemnation of the Nestorian position charged with dividing Christ into two persons; the Definition confesses one person, not two."
+    },
+    {
+      "type": "condemned",
+      "target": "eutychianism",
+      "note": "Rejected the Eutychian or monophysite position that after the union Christ had a single nature. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "chalcedonian-definition",
+      "note": "Issued the Chalcedonian Definition confessing one person in two natures, without confusion, change, division, or separation."
+    },
+    {
+      "type": "preceded_by",
+      "target": "council-of-ephesus",
+      "note": "Followed the Council of Ephesus (431), whose condemnation of Nestorius it upheld while also rejecting the opposite, Eutychian, extreme."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "The christological Definition presupposed the Nicene confession of the Son's full divinity defined by the earlier councils."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Price, Richard, and Michael Gaddis (trans.). The Acts of the Council of Chalcedon. 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005. Academic translation, introduction, and notes to the full acts of the council; the outside-scholarship lens.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9780853230397",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the Definition and canons of Chalcedon (451) in Greek and Latin with facing English translation; the primary conciliar-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar texts public domain. Definition read; scholarly apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. 6th ed. Oxford: Wiley-Blackwell, 2016. A standard modern Christian systematic-theology textbook whose christology chapters expound the Chalcedonian two-natures settlement; the contemporary Christian theologian lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
