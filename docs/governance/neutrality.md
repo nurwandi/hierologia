@@ -53,6 +53,18 @@ every entry, not an aspiration.
     question; it never asserts their answers are equivalent, and it never ranks or
     harmonizes them. Each such link states the shared theme and the difference,
     and no tradition is the baseline or measure of another. See ADR-0005.
+11. **Cross-tradition sourcing is triangulated and non-polemical.** When an entry
+    describes or compares another tradition, its descriptive sources are
+    scholarship or that tradition's own voice, drawn where possible from more than
+    one religious vantage and from both the classical and the modern periods (a
+    Christian topic may rest on Muslim scholars of Christianity and Christian
+    scholars alike, and an Islamic topic on Christian scholars of Islam and Muslim
+    scholars alike). A polemical or heresiographical account of another religion,
+    such as John of Damascus on Islam or a Muslim polemic against Christianity, is
+    never used as a neutral description of what that religion holds. Such a text may
+    be documented as an attributed historical position in its own right, clearly
+    labelled as polemic, but it never stands as evidence for the other tradition's
+    own teaching.
 
 ## Out of scope (for now)
 
