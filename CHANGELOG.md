@@ -6,6 +6,26 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.2] - 2026-07-19
+
+Six more entries reach `verified` after their load-bearing primary texts were read
+directly.
+
+### Changed
+- **`verified` grows from 9 to 15.** `isa` and `maryam` (their Qur'anic portraits,
+  including the crucifixion verse Q 4:157-158), `shirk` (Q 4:48 and 4:116), and `fitra`
+  (Q 30:30 and the fitra hadith in al-Bukhari and Muslim) were verified against directly
+  read scripture; `homoousios` (the Nicene Creed of 325) and `chalcedonian-definition`
+  (the Definition of 451, its four adverbs and double homoousios) against the promulgated
+  conciliar texts read in the open NPNF2-14 editions.
+- `shirk` gains a Qur'an source (Q 4:48/4:116, previously cited only inline), and
+  `homoousios` and `chalcedonian-definition` each gain a reader-open conciliar-text
+  source, all rated `high` on the passages actually read.
+
+### Notes
+- PATCH release: status promotions and sourcing only, no new entities and no schema
+  change. `schema_version` stays 0.5.0.
+
 ## [0.8.1] - 2026-07-19
 
 Seven entries are promoted from `reviewed` to `verified` after their load-bearing
