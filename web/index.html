@@ -118,6 +118,19 @@
   .rel .type{font-size:12px;letter-spacing:.06em;text-transform:uppercase;
     color:var(--muted);padding-top:3px}
   .rel .note{color:var(--muted);font-size:15px;margin-top:2px}
+  .rel .missing{color:var(--muted);border-bottom:1px dotted var(--line)}
+  .rel .soon{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--low);margin-left:8px;font-style:normal}
+  .rel.cross{background:linear-gradient(90deg,var(--accent-soft),transparent 62%);
+    border-radius:9px;padding-left:10px;margin-left:-10px}
+  .rel.cross .xtag{display:inline-block;font-size:10px;letter-spacing:.09em;
+    text-transform:uppercase;font-weight:600;color:#fff;background:var(--accent);
+    padding:2px 8px;border-radius:999px}
+  .rel.cross a{font-weight:500}
+  .rel.cross .xtrad{font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--accent-ink);margin-left:7px;border:1px solid var(--accent);
+    padding:1px 7px;border-radius:999px;vertical-align:1px}
+  .rel.cross .note{color:var(--ink)}
 
   .srchead{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
   .legend{font-size:12px;color:var(--muted);display:flex;gap:12px;flex-wrap:wrap}
@@ -285,9 +298,17 @@ function render(d){
   if(d.description){ const s=sec("Description"); s.appendChild(el("p",null,d.description)); }
 
   if(d.relations&&d.relations.length){ const s=sec("Relations");
-    d.relations.forEach(r=>{ const row=el("div","rel");
-      row.appendChild(el("div","type",r.type.replace(/_/g," ")));
-      const box=el("div"); const a=el("a",null,r.target); a.href=`#${r.target}`; box.appendChild(a);
+    d.relations.forEach(r=>{ const cross=r.type==="compares_with";
+      const row=el("div","rel"+(cross?" cross":""));
+      const typ=el("div","type");
+      if(cross){ typ.appendChild(el("span","xtag","⇄ cross-tradition")); }
+      else typ.textContent=r.type.replace(/_/g," ");
+      row.appendChild(typ);
+      const box=el("div"); const t=INDEX.find(e=>e.id===r.target);
+      if(t){ const a=el("a",null,t.name); a.href=`#${r.target}`; box.appendChild(a);
+        if(cross && t.tradition!==d.tradition) box.appendChild(el("span","xtrad",t.tradition)); }
+      else { box.appendChild(el("span","missing",r.target.replace(/-/g," ")));
+        box.appendChild(el("span","soon","not yet documented")); }
       if(r.note) box.appendChild(el("div","note",r.note)); row.appendChild(box); s.appendChild(row); }); }
 
   if(d.sources&&d.sources.length){ const s=sec("Sources");
