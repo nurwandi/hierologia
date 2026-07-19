@@ -6,6 +6,25 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.5] - 2026-07-19
+
+The four ecumenical councils and two more Islamic concepts reach `verified`.
+
+### Changed
+- **`verified` grows from 25 to 31.** The four ecumenical councils as Events,
+  `council-of-nicaea`, `council-of-constantinople`, `council-of-ephesus`, and
+  `council-of-chalcedon`, verified against the promulgated conciliar acts read in the
+  open NPNF2-14 edition (the homoousios creed and the anathema against Arius; the
+  enlarged Holy Spirit article and Canon 1 against the Pneumatomachi; the deposition of
+  Nestorius and the Theotokos; the Chalcedonian Definition and the Tome of Leo). And two
+  Islamic concepts, `mithaq` (Q 7:172, the covenant of Alast) and `dhikr` (Q 13:28,
+  33:41), against directly read scripture. Each gains an open primary-source object at
+  `high`.
+
+### Notes
+- PATCH release: status promotions and sourcing only, no new entities and no schema
+  change. `schema_version` stays 0.5.0.
+
 ## [0.8.4] - 2026-07-19
 
 Five more entries reach `verified`; `maad` gains its Qur'anic source while honestly
