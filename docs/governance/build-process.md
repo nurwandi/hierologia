@@ -50,6 +50,34 @@ process the Islamic and Christian datasets were built with, written down.
    the README before tagging. The tag triggers the GitHub Release and the Zenodo
    archive and DOI.
 
+## Authorship, AI assistance, and human oversight
+
+This is stated openly, as a matter of scholarly integrity. Hierologia's entries are
+drafted and reviewed with substantial help from AI language models, under the
+maintainer's editorial oversight. In the six steps above, the author and the
+reviewer are AI agents: one set drafts entries against the schema and the sourcing
+rules, and a separate, independent set audits each entry and web-verifies that every
+citation exists and supports its claim. The maintainer scopes the work, directs the
+agents, resolves disagreements, and makes the final call on every promotion and
+release.
+
+Limitations that follow from this, and that a user should weigh:
+
+- The peer review is done by AI, not by credentialed scholars in the relevant
+  fields. It catches fabricated or misattributed sources, neutrality breaches, and
+  factual and date errors, but it is not a substitute for expert human review, which
+  is the dataset's next step toward authority.
+- Most entries are `reviewed`, not `verified`: their sources are confirmed to exist
+  and be on topic, but the exact cited passage has not been read line by line. The
+  `confidence` field records this honestly, and `high` is reserved for claims where
+  a passage was actually read.
+- The operational scaffolding (the agents, their prompts, and the review reports) is
+  kept private; what is public is the method, the data, its sources, and its
+  confidence, so the result can be judged on its provenance rather than its process.
+
+Cite the dataset accordingly: an AI-assisted, human-supervised, openly-sourced
+aggregation, not expert-curated ground truth.
+
 ## Coverage is honest
 
 The dataset is explicitly partial and growing. It says what it does not yet cover

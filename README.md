@@ -76,6 +76,31 @@ fetch("https://nurwandi.github.io/hierologia/api/tawhid.json")
 - **Editorial lifecycle.** Entries move `draft → reviewed → verified`; only
   `reviewed`/`verified` entries are meant to be relied upon.
 
+## How this dataset is made, and its limits
+
+Stated plainly, for integrity: Hierologia is compiled with substantial help from AI
+language models, under the maintainer's editorial oversight. Entries are drafted and
+then independently audited for accuracy, neutrality, and sourcing by separate AI
+review passes that check each citation exists and supports its claim; the maintainer
+directs the process and makes the final editorial decisions.
+
+If you use or cite it:
+
+- **Sources are real and checked, but read them yourself.** Citations are verified
+  to exist and be on topic, and no fabricated source is knowingly included. Most
+  entries are `reviewed` (sources confirmed to exist and be on topic), not
+  `verified` (the cited passage read line by line); each source's `confidence` says
+  which. Check a specific claim against its source before you rely on it, as with
+  any secondary work.
+- **No credentialed-expert review yet.** The data has not been reviewed by named
+  scholars in the relevant fields. That is the next step for its authority.
+- **Corrections are welcome** via GitHub issues; provenance and `editorial_notes`
+  are public so errors can be found and fixed.
+
+Please cite Hierologia as an AI-assisted, human-supervised, openly-sourced
+aggregation, not as expert-curated ground truth. The build process is documented in
+[`docs/governance/build-process.md`](docs/governance/build-process.md).
+
 ## Repository layout
 
 ```
