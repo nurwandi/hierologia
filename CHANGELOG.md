@@ -7,21 +7,30 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
-- Initial `Concept` data model and JSON Schema (`schema/concept.schema.json`).
-- 13 kalam concepts (all `draft`): tawhid, shirk, al-asma-wa-l-sifat, tanzih,
-  tashbih, iman, kufr, qadar, nubuwwa, akhira, adl, khalq-al-quran, ruyat-allah.
-- `Figure` and `School` entity types + schemas; 4 figures (al-ashari,
-  ahmad-ibn-hanbal, al-maturidi, wasil-ibn-ata) and 8 schools (mutazila,
-  ashariyya, maturidiyya, murjia, kharijites, qadariyya, athariyya, hanbaliyya),
-  all `draft`.
-- `scripts/validate.py`, multi-schema validation + relation integrity (CI gate).
-- `scripts/build_api.py`, generates the static read-only API for the demo.
-- `scripts/verify_sources.py`, cross-checks citations against Crossref.
-- `web/`, static single-page demo/frontend served from the generated API,
-  deployed to GitHub Pages via `.github/workflows/pages.yml`.
-- Governance: neutrality policy (draft), incl. balanced-coverage for the
-  Athari/traditionist position and a source-diversity (triangulation) principle.
-- ADR-0001 (data model), ADR-0002 (Figure/School entities).
+- Three entity types (`Concept`, `Figure`, `School`) with JSON Schemas and a
+  unified id namespace.
+- 67 Islamic (kalam) entities: 29 concepts, 20 figures, and 18 schools covering
+  the kalam schools (Mu'tazila, Ash'ari, Maturidi, Athari, Hanbali, Hanafi, and
+  the early groups), the branches (Sunni, Shi'i/Twelver, Ibadi), and the
+  movements (Sufism, Salafism).
+- Sourcing standard: scholarship only (journal articles, academic books, primary
+  texts; no encyclopedias or tertiary sources), triangulated across three lenses
+  (Western academic, classical Muslim, modern Muslim), with honest confidence.
+- Governance: neutrality policy with nine principles, including balanced coverage
+  of the traditionist position (#7), source diversity (#8), and source quality (#9).
+- `scripts/validate.py` (multi-schema validation + relation integrity, the CI
+  gate), `scripts/build_api.py` (static read-only API), and
+  `scripts/verify_sources.py` (Crossref cross-check).
+- `web/` static single-page demo: responsive master-detail layout, a grouped and
+  filterable entry list (religion, type, status), sourced entries with confidence
+  ratings, and per-entry API examples. Deployed to GitHub Pages via GitHub Actions.
+- README with banner and badges, and `CITATION.cff` for citation.
+- ADR-0001 (data model), ADR-0002 (Figure/School entities), ADR-0003 (project name).
+
+### Changed
+- All 67 entities are `reviewed`, promoted from `draft` after a four-batch
+  peer-review audit and the fixes it surfaced.
+- Project writing style: no em dashes.
 
 ## [0.1.0] - 2026-07-18
 
