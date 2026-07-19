@@ -6,6 +6,28 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.4] - 2026-07-19
+
+Five more entries reach `verified`; `maad` gains its Qur'anic source while honestly
+staying `reviewed`.
+
+### Changed
+- **`verified` grows from 20 to 25.** `tanakh` (its tripartite structure read on Sefaria,
+  the tripartite attestation in the Prologue to Ben Sira), `torah` (the five books on
+  Sefaria and Mishnah Avot 1:1), `justification` (Romans 3:28 / Galatians 2:16 / James
+  2:24 and the Council of Trent Decree on Justification), `apostles` (the New Testament
+  lists of the Twelve and the reconstitution in Acts 1), and `hawariyyun` (Q 3:52,
+  5:111-112, 61:14) were verified against directly read primary texts, with the sources
+  that carry their claims raised or added at `high`.
+- **`maad`** gains a Qur'an source (Q 17:51, 75:3-4, 36:78-79, 22:5-7) at `high` for the
+  resurrection core, and an internal confidence contradiction in its notes is fixed, but
+  it stays `reviewed`: its distinctive content, the philosophers-versus-kalam dispute over
+  bodily return, rests on sources not yet read.
+
+### Notes
+- PATCH release: status promotions and sourcing only, no new entities and no schema
+  change. `schema_version` stays 0.5.0.
+
 ## [0.8.3] - 2026-07-19
 
 Five more entries reach `verified`, and `iman` gains its primary sources while honestly
