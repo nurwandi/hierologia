@@ -6,6 +6,25 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.10.1] - 2026-07-20
+
+### Changed
+- Promoted four entries `reviewed` -> `verified` after their load-bearing open primary
+  sources were read line-by-line and independently confirmed: `council-of-trent` and
+  `purgatory` (the Trent decrees at papalencyclicals.net, the cited sessions read verbatim),
+  `adoptionism` (Eusebius, Ecclesiastical History 5.28, the "Little Labyrinth"), and
+  `socrates` (Plato's Apology, verified against an open Stephanus-numbered text). The verified
+  tier is now 35 entries.
+- Accuracy fixes surfaced by the verification reads: `adoptionism` now attributes the "Spirit
+  descended at baptism" characterization to the secondary scholarship rather than to the
+  Eusebius passage (which says only "a mere man"); `socrates` now cites an openly-checkable
+  Apology text so the rating is reader-auditable, and separates the Apology's "unexamined life"
+  maxim from the broader-Plato doctrines ("virtue is knowledge", "no one does wrong willingly").
+
+### Notes
+- PATCH: status and content fixes, no new entities and no schema change. Still 195 entities;
+  160 `reviewed` + 35 `verified`. `schema_version` stays 0.5.0.
+
 ## [0.10.0] - 2026-07-20
 
 The remaining clear-cut forward references are closed: nine more figures, texts, and
