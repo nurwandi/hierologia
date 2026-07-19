@@ -24,7 +24,7 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 81
+> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 91
 > entities and Christian theology with 40, all peer-`reviewed`, linked by
 > cross-tradition comparisons. Coverage is deliberately partial and growing; the
 > project says what it does not yet cover rather than pretending to be complete.
@@ -38,8 +38,8 @@ of entity, linked into a graph:
 - **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, the Trinity, grace)
 - **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal, Augustine, Aquinas)
 - **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, patristics, scholasticism)
-- **Events**, datable happenings (e.g. the councils of Nicaea, Ephesus, Chalcedon)
-- **Works**, texts and documents (e.g. the Nicene Creed, the Definition of Chalcedon)
+- **Events**, datable happenings (e.g. the councils of Nicaea and Chalcedon, the Abbasid Mihna)
+- **Works**, texts and documents (e.g. the Nicene Creed, Ṣaḥīḥ al-Bukhārī)
 
 Cross-tradition `compares_with` links compare a shared question across traditions
 without equating the answers. Further traditions will follow the same model.

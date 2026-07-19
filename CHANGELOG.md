@@ -6,6 +6,32 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-07-19
+
+The Islamic history layer opens, mirroring the Christian one, and the first
+Event-to-Event cross-tradition comparison links the two.
+
+### Added
+- **The Mihna** (the Abbasid inquisition of 833, which enforced the doctrine that
+  the Qur'an is created) as an `Event`, with `mihna compares_with council-of-nicaea`,
+  the first Event-to-Event cross-tradition link. Both are cases of political
+  authority enforcing a created-or-uncreated doctrine, one on the Qur'an and one on
+  the Son; the note compares the question and ranks neither (#10).
+- The Abbasid figures of the Mihna: the caliphs al-Ma'mun, al-Mu'tasim, al-Wathiq,
+  and al-Mutawakkil (who reversed it), and the Mu'tazili chief judge Ibn Abi Du'ad.
+- Four hadith collections as `Work`s: Sahih al-Bukhari, Sahih Muslim, the Muwatta
+  of Malik, and the Musnad of Ibn Hanbal, giving the Islamic side its own text
+  layer alongside the Christian creeds.
+
+### Notes
+- The dataset is now 131 entities: 91 Islamic and 40 Christian, all `reviewed`
+  (2 `verified`). Both traditions now carry a history layer of events and works,
+  and the createdness controversy is a graph quadrangle: the doctrines Arianism and
+  khalq-al-quran, and the Nicaea and Mihna that each enforced a side.
+- This is a MINOR release because it adds entities; the `schema_version` stays
+  0.3.0, since the Event and Work contract is unchanged since ADR-0006. Dataset
+  version and schema version are separate axes (ADR-0004).
+
 ## [0.3.0] - 2026-07-19
 
 The history layer opens and the Christian tradition deepens toward parity: two new
