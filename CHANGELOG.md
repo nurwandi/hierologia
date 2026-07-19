@@ -6,6 +6,38 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-07-20
+
+The remaining clear-cut forward references are closed: nine more figures, texts, and
+movements the dataset had pointed at now exist, and its dangling references fall to four.
+
+### Added
+- **The Reformation cluster**: `purgatory` (the Catholic doctrine, with the Protestant
+  rejection and the Orthodox difference attributed), the reformer `huldrych-zwingli`
+  (Zurich, the memorialist Eucharist, the 1529 Marburg break with Luther), and the
+  `council-of-trent` (1545-1563, the Counter-Reformation's doctrinal core), on a clean id.
+- **The early and medieval church**: `tertullian` (the Latin apologist, later Montanist),
+  `bernard-of-clairvaux` (the Cistercian abbot who opposed Abelard at Sens), and
+  `gnosticism` (the second-century currents, presented through both the hostile
+  heresiologists, attributed, and the primary Nag Hammadi texts, with the scholarly debate
+  over the category itself flagged, not resolved).
+- **Philosophy and Judaism**: `socrates` (the second philosopher-figure, on his own terms,
+  the Socratic problem noted) and `neoplatonism` (the movement of Plotinus, its Christian,
+  Islamic, and Jewish receptions attributed); and `judah-ha-nasi`, the traditional redactor
+  of the Mishnah.
+
+### Changed
+- `reformation` now points to the clean `council-of-trent` id (was `council-of-trent-1545`),
+  and its vague `late-medieval-reform` forward reference is dropped (the precursor context
+  survives in prose) rather than forced into an entity.
+
+### Notes
+- The dataset is now 195 entities: 115 Islamic, 65 Christian, 11 Jewish, and 4 in the
+  philosophy namespace, 164 `reviewed` and 31 `verified`. Dangling forward references drop
+  from 10 to 4, all four newly opened by this batch (council-of-florence, montanism,
+  plotinus, transubstantiation).
+- MINOR release: it adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.9.0] - 2026-07-19
 
 The clear-cut forward references are closed: twelve figures and texts the dataset had
