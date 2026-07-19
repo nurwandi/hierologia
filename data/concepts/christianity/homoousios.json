@@ -15,7 +15,7 @@
   "category": "theology-proper",
   "summary": "Homoousios is the Greek term inserted into the creed of the Council of Nicaea (325) to confess that the Son is of the same essence (ousia) as the Father. It was adopted to exclude the Arian teaching that the Son is a created being of a different or merely similar substance.",
   "description": "Homoousios (from homos, 'same', and ousia, 'essence' or 'substance') is the key technical term of Nicene orthodoxy. At the Council of Nicaea in 325 the assembled bishops confessed the Son to be 'begotten, not made, homoousios with the Father', asserting that the Son shares the one divine essence rather than being a creature. The term was chosen precisely because it could not be read in an Arian sense: Arius and his supporters held that the Son was brought into being out of nothing and was therefore of a different essence (heteroousios) than the unbegotten Father. In the decades after Nicaea the word remained contested, and a range of parties preferred homoiousios ('of like essence') or avoided ousia language altogether, before the pro-Nicene settlement of the later fourth century, associated especially with Athanasius and the Cappadocian Fathers, secured homoousios as the standard of Trinitarian orthodoxy. In the developed doctrine the term does not collapse the persons into one (that would be the modalist error) but affirms that Father, Son, and Holy Spirit are the one same God in essence while remaining distinct as persons (hypostaseis).",
-  "editorial_notes": "This entry closes the dangling 'homoousios' reference used by the trinity entry. It describes the term on the tradition's own terms per neutrality #6, and treats the fourth-century controversy as a live debate among named parties (Arian, homoian, homoiousian, pro-Nicene) rather than adjudicating it, per #1 and #2. Sourcing triangulates three lenses per #8-9: an academic historian of doctrine (Ayres, Nicaea and Its Legacy), the primary conciliar corpus (the Nicene Creed as promulgated in 325, cited from Tanner's critical edition of the councils), and a contemporary theologian and patristics scholar reading the term constructively (Behr, The Nicene Faith). No encyclopedias or tertiary sources are cited. Confidence is medium: the conciliar text is definitive as to the word's use, but the secondary monographs' relevant chapters were not read line-by-line, so their confidence is set to medium and the creed's to high only for the bare fact of the term's presence in it. The 'contrasts_with arianism' and 'part_of nicene-creed' targets already exist in the dataset; 'articulated_by athanasius' and 'related_to trinity' also exist.",
+  "editorial_notes": "This entry closes the dangling 'homoousios' reference used by the trinity entry. It describes the term on the tradition's own terms per neutrality #6, and treats the fourth-century controversy as a live debate among named parties (Arian, homoian, homoiousian, pro-Nicene) rather than adjudicating it, per #1 and #2. Sourcing triangulates three lenses per #8-9: an academic historian of doctrine (Ayres, Nicaea and Its Legacy), the primary conciliar corpus (the Nicene Creed as promulgated in 325, cited from Tanner's critical edition of the councils), and a contemporary theologian and patristics scholar reading the term constructively (Behr, The Nicene Faith). No encyclopedias or tertiary sources are cited. Confidence is medium: the conciliar text is definitive as to the word's use, but the secondary monographs' relevant chapters were not read line-by-line, so their confidence is set to medium and the creed's to high only for the bare fact of the term's presence in it. The 'contrasts_with arianism' and 'part_of nicene-creed' targets already exist in the dataset; 'articulated_by athanasius' and 'related_to trinity' also exist. VERIFIED (2026-07-19): the promulgated Nicene Creed (325) was read directly (NPNF2, vol. 14): the Son 'begotten, not made, of one substance (homoousios) with the Father', with the anathema excluding a Son 'of a different substance or essence' or 'a creature'; an open creedal-text source is added at high confidence and the entry is promoted to verified. The scholarly monographs (Ayres, Behr) remain medium (not read line by line).",
   "relations": [
     {
       "type": "articulated_by",
@@ -45,6 +45,13 @@
   },
   "sources": [
     {
+      "citation": "The Nicene Creed (325), promulgated conciliar text: the Son 'begotten, not made, of one substance (homoousios) with the Father', with the anathema against any who say the Son is 'of a different substance or essence' or 'a creature'. Nicene and Post-Nicene Fathers, series II, vol. 14.",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_First_Ecumenical_Council/The_Nicene_Creed",
+      "license": "Public-domain conciliar text (NPNF2-14). Read directly and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. A leading academic account of the fourth-century controversy, arguing that the debate did not begin with Arius alone and tracing how homoousios was received, resisted, and eventually established as pro-Nicene orthodoxy.",
       "url": "https://global.oup.com/academic/product/nicaea-and-its-legacy-9780198755050",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
@@ -66,7 +73,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"

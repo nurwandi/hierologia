@@ -18,7 +18,7 @@
   },
   "summary": "The Chalcedonian Definition is the christological statement adopted at the Council of Chalcedon in 451. It confesses one and the same Christ in two natures, divine and human, without confusion, change, division, or separation, united in one person and one subsistence.",
   "description": "The Chalcedonian Definition is the christological standard of the Council of Chalcedon (451). It confesses one and the same Son, our Lord Jesus Christ, perfect in divinity and perfect in humanity, truly God and truly man, homoousios with the Father as to his divinity and homoousios with us as to his humanity, made known in two natures, without confusion, without change, without division, without separation (in Greek asynchytos, atreptos, adiairetos, achoristos). The distinction of the natures is in no way removed by their union, but rather the property of each nature is preserved and concurs in one person (prosopon) and one subsistence (hypostasis), not parted or divided into two persons but one and the same Son. The Definition was framed to hold a middle course between two rejected positions: the Nestorian tendency, charged with dividing Christ into two persons, and the Eutychian or monophysite position, that after the union Christ had a single nature. It received the creeds of Nicaea and Constantinople, the synodical letters of Cyril of Alexandria, and the Tome of Pope Leo I as its authorities. The Definition became the standard of christological orthodoxy in the Catholic, Orthodox, and most Protestant traditions, while the churches later called Oriental Orthodox did not receive it, a division that endures.",
-  "editorial_notes": "This entry describes the Definition on the tradition's own terms and states the two positions it was framed against without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division rather than evaluated. The four adverbs (without confusion, change, division, separation) and the one-person-two-natures formula are given as they stand in the promulgated text. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). The Definition itself is the primary source for this Work. No encyclopedias or tertiary sources are cited. Confidence: high on the wording of the Definition, read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line.",
+  "editorial_notes": "This entry describes the Definition on the tradition's own terms and states the two positions it was framed against without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division rather than evaluated. The four adverbs (without confusion, change, division, separation) and the one-person-two-natures formula are given as they stand in the promulgated text. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). The Definition itself is the primary source for this Work. No encyclopedias or tertiary sources are cited. Confidence: high on the wording of the Definition, read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line. VERIFIED (2026-07-19): the promulgated Definition of Chalcedon (451) was read directly (NPNF2, vol. 14): the four adverbs 'without confusion, without change, without division, without separation', the double homoousios (with the Father as to Godhead, with us as to manhood), and 'one person and one subsistence (hypostasis)' all confirmed word for word; an open conciliar-text source is added at high confidence and the entry is promoted to verified.",
   "relations": [
     {
       "type": "adopted_at",
@@ -43,6 +43,13 @@
   ],
   "sources": [
     {
+      "citation": "The Definition of Faith of the Council of Chalcedon (451), promulgated conciliar text: Christ acknowledged 'in two natures, without confusion, without change, without division, without separation', 'consubstantial (homoousios) with the Father as touching his Godhead, and consubstantial with us as touching his manhood', 'concurring in one person (prosopon) and one subsistence (hypostasis)'. Nicene and Post-Nicene Fathers, series II, vol. 14 (Schaff).",
+      "url": "https://biblehub.com/library/schaff/the_seven_ecumenical_councils/the_definition_of_faith_of.htm",
+      "license": "Public-domain conciliar text (NPNF2-14, Schaff). Read directly and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "Price, Richard, and Michael Gaddis (trans.). The Acts of the Council of Chalcedon. 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005. Academic translation, introduction, and notes to the acts, including the Definition; the outside-scholarship lens.",
       "url": "https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9780853230397",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
@@ -64,7 +71,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"
