@@ -1,0 +1,71 @@
+{
+  "id": "justification",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Justification",
+    "original": "δικαίωσις / iustificatio",
+    "transliteration": "dikaiosis / iustificatio",
+    "aliases": [
+      "Justification by faith",
+      "Being made righteous",
+      "Iustificatio"
+    ]
+  },
+  "category": "soteriology",
+  "summary": "Justification is the Christian doctrine of how a sinner comes to stand in a right relationship with God, that is, how the sinner is made or declared righteous. Whether justification is chiefly a forensic declaration by faith alone or a transformative making-righteous became the central dispute of the Reformation.",
+  "description": "Justification (Latin iustificatio, from the biblical language of God 'justifying' the ungodly, especially in Paul's letters to the Romans and Galatians) concerns how a guilty human being is set right with God. All parties within the tradition affirm that this rests on God's grace and on the work of Christ; the enduring dispute is over the nature and manner of justification. The Reformation made this the church-dividing issue. Martin Luther and the Protestant Reformers taught justification by faith alone (sola fide): justification is a forensic act in which God declares the sinner righteous on account of Christ's righteousness received through faith, with the believer reckoned righteous even while still a sinner (simul iustus et peccator). The Catholic position, formalized at the Council of Trent (Decree on Justification, 1547), taught that justification is not only a declaration but a real inner renewal in which grace is infused and the person is genuinely made righteous, with faith, hope, and love working together, so that justification can grow and be lost. Behind the dispute lay differing readings of the Pauline vocabulary of righteousness and differing accounts of grace. Much later ecumenical work, notably the 1999 Joint Declaration on the Doctrine of Justification between the Lutheran World Federation and the Roman Catholic Church, sought a differentiated consensus on the core, while significant differences of formulation remain.",
+  "editorial_notes": "The entry describes justification on Christianity's own terms (principle #6) and, per principle #2, presents the Reformation dispute as a live, attributed disagreement (Reformers' sola fide / forensic declaration vs. Trent's infused-grace / making-righteous) rather than endorsing either, and marks the shared ground (grace and the work of Christ) separately from the contested point. The 1999 Joint Declaration is noted for transparency, without overstating agreement. Sourcing triangulates three lenses per principles #8-9: academic scholarship (McGrath's Iustitia Dei, the standard history of the doctrine), classical primary texts (Luther and the Council of Trent's decree, the two sides in their own words), and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. Cross-tradition link to iman follows ADR-0005: shared question (the role of faith in a right standing before God / salvation), stated difference (justifying faith and infused vs. imputed righteousness in Christianity vs. the Islamic conception of iman and works within a different soteriology), with no equation or ranking.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "iman",
+      "note": "Both concern the place of faith in a person's standing before God and in salvation. The Christian doctrine of justification, especially in its Reformation form, asks how faith relates to being declared or made righteous through Christ; the Islamic concept of iman concerns belief and its relation to works and salvation within Islam's own framework, which has no doctrine of an imputed alien righteousness. The link marks a shared question about faith and salvation, not an equivalence of the two soteriologies, and ranks neither."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "Justification is grounded in grace; the Reformation and Catholic accounts of justification track their differing accounts of grace."
+    },
+    {
+      "type": "related_to",
+      "target": "atonement",
+      "note": "Justification applies to the sinner the reconciliation Christ's atoning work is held to accomplish."
+    },
+    {
+      "type": "articulated_by",
+      "target": "martin-luther",
+      "note": "Luther's articulation of justification by faith alone (sola fide) set the terms of the Reformation debate."
+    }
+  ],
+  "historical_period": {
+    "start": 1517,
+    "end": 1547,
+    "note": "Rooted in the Pauline letters and developed by Augustine; became church-dividing in the Reformation, with the Protestant sola fide (from 1517) and the Catholic response at the Council of Trent (1547)."
+  },
+  "sources": [
+    {
+      "citation": "McGrath, Alister E. Iustitia Dei: A History of the Christian Doctrine of Justification. 4th ed. Cambridge: Cambridge University Press, 2020. The standard scholarly history of the doctrine, tracing its semantic background and its development through the Reformation controversy and beyond.",
+      "url": "https://www.cambridge.org/core/journals/church-history/article/abs/iustitia-dei-a-history-of-the-christian-doctrine-of-justification-fourth-edition-by-alister-e-mcgrath-cambridge-cambridge-university-press-2020-xv-494-pp-13000-hardcover-4499-paper/C52829C5CF353651364FF10BF0F466CD",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Council of Trent, Decree on Justification (Sixth Session, 1547). Primary conciliar text setting out the Catholic doctrine that justification involves the infusion of grace and a real making-righteous. Read alongside Martin Luther's writings on justification by faith (e.g., the 1520 treatises and the Galatians commentary) as the Reformation counter-position.",
+      "license": "Public-domain classical texts. Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose soteriology chapters lay out the forensic vs. transformative accounts of justification and the sola fide debate. Added as the modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

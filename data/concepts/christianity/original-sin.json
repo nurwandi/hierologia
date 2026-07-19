@@ -1,0 +1,71 @@
+{
+  "id": "original-sin",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Original Sin",
+    "original": "peccatum originale",
+    "transliteration": "peccatum originale",
+    "aliases": [
+      "Ancestral sin",
+      "The Fall",
+      "Inherited sinfulness"
+    ]
+  },
+  "category": "hamartiology",
+  "summary": "Original sin is the Christian doctrine that human beings inherit, from the first sin of Adam, a fallen condition marked by estrangement from God and a disordered will, prior to any personal wrongdoing. Its formulation is classically Augustinian and was defined against Pelagius.",
+  "description": "Original sin is the doctrine that the first human transgression, the sin of Adam narrated in Genesis, altered the human condition itself, so that all his descendants are born into a state of fallenness, deprived of original righteousness and inclined toward sin, before and apart from any individual act. The classic Western formulation belongs to Augustine of Hippo, developed in his controversy with Pelagius in the early fifth century. Pelagius, as read by his opponents, denied any inherited corruption and held that each person is born morally neutral and can choose the good by unaided will, treating Adam's sin as a bad example rather than a transmitted condition. Augustine argued that the fall left human nature wounded and the will bound, so that all stand in need of grace from the outset; this position was affirmed against Pelagianism at the Council of Carthage (418) and the Second Council of Orange (529). Traditions differ in emphasis: the Eastern Orthodox generally speak of 'ancestral sin,' stressing inherited mortality and corruption more than inherited guilt, whereas the Augustinian West more strongly affirms inherited guilt (culpa); the Reformers intensified the language of total depravity, while later Catholic teaching connected the doctrine to the practice of infant baptism. The shared core is that the human predicament is not merely the sum of individual choices but a condition inherited from the first sin and remediable only by divine grace.",
+  "editorial_notes": "The entry describes original sin on Christianity's own terms (principle #6) and, per principles #2 and #7, names the internal variation (Eastern ancestral-sin emphasis on inherited corruption vs. the Western Augustinian emphasis on inherited guilt; Reformed total depravity) as attributed positions rather than flattening them. Sourcing triangulates three lenses per principles #8-9: academic scholarship (Pelikan vol. 1, which treats the Augustine-Pelagius controversy in the history of doctrine), a classical primary text (Augustine's anti-Pelagian writings), and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. The cross-tradition link follows ADR-0005 and marks a clear structural DIFFERENCE: fitra (the Islamic notion of an innate, sound original disposition) has no dedicated entry yet, so the target is a forward reference; the note states the shared question (the moral condition of the human being at birth) and the divergence, since Islam rejects inherited sin, and ranks neither. If the fitra entry is never created, the link may be repointed to iman or noted as a divergence per the task guidance.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "fitra",
+      "note": "Both address the moral and spiritual condition of the human being at birth. Christianity's doctrine of original sin holds that humans are born into a fallen condition inherited from Adam's sin and needing grace; the Islamic concept of fitra holds that each person is born in a sound, innate disposition oriented toward God, and Islam explicitly rejects the idea of inherited sin, locating accountability in each person's own deeds. The link marks a shared question about the human's original condition and an explicit divergence in the answer, not a parallel, and ranks neither. (fitra has no entry yet; this is a forward reference.)"
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "The Augustinian doctrine of original sin is the counterpart to the Augustinian doctrine of grace: a bound will inherited from the fall requires prevenient grace."
+    },
+    {
+      "type": "related_to",
+      "target": "atonement",
+      "note": "The condition original sin describes is the predicament the atonement is held to remedy."
+    },
+    {
+      "type": "refuted_by",
+      "target": "pelagianism",
+      "note": "Augustine's doctrine of original sin was framed against the Pelagian denial of any inherited corruption; Pelagianism was in turn condemned by the councils."
+    }
+  ],
+  "historical_period": {
+    "start": 411,
+    "end": 529,
+    "note": "Rooted in Genesis and the Pauline letters (esp. Romans 5); formulated by Augustine in the Pelagian controversy (from c. 411) and affirmed at Carthage (418) and the Second Council of Orange (529)."
+  },
+  "sources": [
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Treats the Augustinian doctrine of sin and grace and the Pelagian controversy within the development of Western doctrine.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Augustine of Hippo. Anti-Pelagian writings, esp. On the Merits and Forgiveness of Sins and on Infant Baptism (De Peccatorum Meritis et Remissione, 412) and On Nature and Grace (De Natura et Gratia, c. 415). Classical primary texts arguing the inheritance of a fallen condition from Adam against the Pelagians.",
+      "license": "Public-domain classical texts (Latin originals; standard English translations vary). Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose anthropology and hamartiology chapters expound original sin, the Augustine-Pelagius debate, and Eastern vs. Western emphases. Added as the modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

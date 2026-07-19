@@ -1,0 +1,53 @@
+{
+  "id": "martin-luther",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Martin Luther",
+    "original": "Martin Luther",
+    "transliteration": "Martin Luther",
+    "aliases": ["Luther", "Martin Luder", "the Reformer"]
+  },
+  "roles": ["theologian", "reformer", "friar", "professor"],
+  "summary": "Martin Luther (1483-1546 CE) was a German friar, priest, and professor of theology whose critique of the medieval church initiated the Protestant Reformation. He is associated with the principles of justification by faith alone (sola fide) and scripture alone (sola scriptura).",
+  "description": "Martin Luther was born at Eisleben in Saxony, became an Augustinian friar, and was appointed professor of biblical theology at the University of Wittenberg. His study of Paul's letters led him to the conviction, central to his theology, that the sinner is justified before God by faith alone (sola fide) as a gift of grace, apart from human merit or works. In 1517 he circulated the Ninety-Five Theses, a set of academic propositions criticizing the sale of indulgences, an event later taken as the symbolic start of the Reformation. In subsequent writings, including the treatises of 1520, his catechisms, and his translation of the Bible into German, he developed his positions and set out the authority of scripture (sola scriptura) over against church tradition and the papacy as the norm for doctrine. Summoned to defend his views, he refused to recant at the Diet of Worms (1521) and was placed under imperial ban. His break with Rome, and the movements that followed, reshaped Western Christianity into distinct confessional traditions. Modern scholarship reads him as a figure deeply shaped by late-medieval piety and by an acute sense of the human being placed between God and the devil, as well as by his own combative temperament; his later polemical writings, including harsh works against Jews, are also part of the historical record.",
+  "editorial_notes": "Birth and death years (1483-1546 CE) are as standardly reported and given in the lifespan note. Luther is described here on Christian terms, per neutrality principle #6, and his central positions (sola fide, sola scriptura) are reported as his attributed theology, not adjudicated. No cross-tradition compares_with link is included: the task instruction was to add such a link only where scholarship genuinely supports it and never to force one, and no comparably established scholarly comparison to an existing Islam figure or concept was identified for Luther in the sources consulted, so none is asserted (dangling or forced links are avoided here per ADR-0005). The editorial note records that his later anti-Jewish writings are part of the historical record, in keeping with the transparency and full-representation principles. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic biography (Oberman, Yale), (b) Luther's own primary texts (the Ninety-Five Theses and the 1520 treatises), and (c) a contemporary historian's treatment (Roper). Confidence is medium: sources verified to exist and be on-topic via publisher and library catalogues and peer-reviewed reviews, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 1483,
+    "death": 1546,
+    "note": "1483-1546 CE; born and died at Eisleben, Saxony. Years as standardly reported."
+  },
+  "relations": [
+    { "type": "articulated", "target": "sola-fide", "note": "Held that the sinner is justified before God by faith alone as a gift of grace, apart from works; reported as his attributed position." },
+    { "type": "articulated", "target": "sola-scriptura", "note": "Argued for the authority of scripture over church tradition and the papacy as the norm for doctrine." },
+    { "type": "founded", "target": "reformation", "note": "His critique of the medieval church, symbolized by the Ninety-Five Theses (1517), initiated the Protestant Reformation." },
+    { "type": "influenced_by", "target": "augustine", "note": "As an Augustinian friar he drew on Augustine's theology of grace, though he developed it in his own direction; appeals to Augustine were contested." },
+    { "type": "refuted", "target": "indulgences", "note": "Criticized the sale of indulgences in the Ninety-Five Theses; the critique is attributed to him, not adjudicated." }
+  ],
+  "sources": [
+    {
+      "citation": "Oberman, Heiko A. Luther: Man Between God and the Devil. Translated by Eileen Walliser-Schwarzbart. New Haven: Yale University Press, 1989.",
+      "url": "https://yalebooks.yale.edu/book/9780300103137/luther/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Luther, Martin. The Ninety-Five Theses (1517) and the 1520 treatises (To the Christian Nobility of the German Nation; The Babylonian Captivity of the Church; The Freedom of a Christian), in Luther's Works, American Edition, edited by Jaroslav Pelikan and Helmut T. Lehmann. St. Louis and Philadelphia: Concordia / Fortress Press, 1955-. Primary source: Luther's own writings.",
+      "url": "https://www.fortresspress.com/store/category/1000000000000121/Luthers-Works",
+      "license": "Proprietary translation of primary texts; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Roper, Lyndal. Martin Luther: Renegade and Prophet. London: Bodley Head, 2016 (US: Random House, 2017).",
+      "url": "https://www.penguinrandomhouse.com/books/236142/martin-luther-by-lyndal-roper/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

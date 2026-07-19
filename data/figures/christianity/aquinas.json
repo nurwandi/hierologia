@@ -1,0 +1,53 @@
+{
+  "id": "aquinas",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Thomas Aquinas",
+    "original": "Thomas de Aquino",
+    "transliteration": "Thomas de Aquino",
+    "aliases": ["Saint Thomas Aquinas", "Thomas Aquinas", "Doctor Angelicus", "the Angelic Doctor", "Doctor Communis"]
+  },
+  "roles": ["theologian", "philosopher", "friar"],
+  "summary": "Thomas Aquinas (1225-1274 CE) was an Italian Dominican friar and theologian whose Summa Theologiae became a central work of Latin scholastic theology. He is known for his synthesis of Aristotelian philosophy with Christian theology and for the Five Ways of arguing for the existence of God.",
+  "description": "Thomas Aquinas was born near Aquino in southern Italy and entered the Dominican order, studying under Albert the Great and teaching at Paris and in Italy. He wrote extensively across theology and philosophy, including commentaries on Aristotle and on scripture, the Summa contra Gentiles, and the unfinished Summa Theologiae, his most influential systematic work. A central feature of his project was the use of Aristotelian philosophy, newly available in Latin, to articulate Christian theology, while distinguishing the truths of reason from those held by faith on the authority of revelation. In the Summa Theologiae he set out the Five Ways (quinque viae), five arguments for the existence of God from motion, causation, contingency, gradation, and the governance of things. His theology treats God's simplicity and attributes, creation, the human being and the moral life ordered to God, grace, and the person and work of Christ. Aquinas read and engaged the Islamic philosophers (falasifa) closely: he drew on Avicenna (Ibn Sina), notably the distinction between essence and existence as a resource for expressing the difference between the Creator and created being, and he engaged, often critically, the commentaries of Averroes (Ibn Rushd) on Aristotle, including in his treatise against the Latin Averroists. He was canonized in 1323 and his thought (Thomism) became a major and continuing school within Catholic theology.",
+  "editorial_notes": "Birth and death years (1225-1274 CE) are as standardly reported and given in the lifespan note; the birth year is sometimes given as 1224/1225. Aquinas is described here on Christian terms, per neutrality principle #6. His documented engagement with Islamic philosophy is recorded as a matter of intellectual history, following the scholarship of David Burrell and others: Aquinas's use of Avicenna and his critical engagement with Averroes are well attested, and are stated as historical fact rather than as endorsement. The cross-tradition compares_with link to al-Ghazali is included per ADR-0005 and rests on scholarship that directly compares the two as systematic theologians treating the relation of reason and revelation and the doctrine of divine simplicity (Burrell, Scottish Journal of Theology 2008); the note names the difference (Aquinas within Latin scholastic theology using Aristotle, al-Ghazali within Ash'ari kalam critiquing the falasifa) and asserts comparability of the question, not equivalence of answer. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study (Torrell, CUA Press), (b) Aquinas's own primary text (the Summa Theologiae), and (c) a contemporary scholar's treatment of his engagement with Islamic thought (Burrell). Confidence is medium: sources verified to exist and be on-topic via publisher and journal catalogues and peer-reviewed reviews, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 1225,
+    "death": 1274,
+    "note": "1225-1274 CE; born near Aquino, died at Fossanova, Italy. Birth sometimes given as 1224/1225."
+  },
+  "relations": [
+    { "type": "articulated", "target": "five-ways", "note": "Set out the quinque viae, five arguments for the existence of God, in the Summa Theologiae." },
+    { "type": "influenced_by", "target": "aristotle", "note": "Drew extensively on Aristotelian philosophy, newly available in Latin, to articulate Christian theology." },
+    { "type": "influenced_by", "target": "ibn-sina", "note": "Drew on Avicenna, including the essence-existence distinction, as a conceptual resource; the borrowing is well attested in scholarship." },
+    { "type": "refuted", "target": "ibn-rushd", "note": "Engaged Averroes's commentaries on Aristotle, often critically, including against the Latin Averroists; the critique is attributed to him, not adjudicated." },
+    { "type": "compares_with", "target": "al-ghazali", "note": "Both were systematic theologians who addressed the relation of reason to revelation and articulated an account of divine simplicity; they differ in tradition and method, Aquinas working within Latin scholastic theology and drawing on Aristotle, al-Ghazali within Ash'ari kalam and critiquing the falasifa. Scholarship makes this comparison directly (e.g. Burrell 2008). This asserts the comparability of the question, not the equivalence of the answer." }
+  ],
+  "sources": [
+    {
+      "citation": "Torrell, Jean-Pierre. Saint Thomas Aquinas, Volume 1: The Person and His Work. Revised edition. Translated by Robert Royal. Washington, DC: Catholic University of America Press, 2005.",
+      "url": "https://www.cuapress.org/9780813214238/saint-thomas-aquinas/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Thomas Aquinas. Summa Theologiae. Latin text and English translation, Blackfriars edition, 60 vols. London and New York: Eyre & Spottiswoode / McGraw-Hill, 1964-1981. Primary source: Aquinas's own systematic theology, including the Five Ways (ST I, q. 2, a. 3).",
+      "url": "https://www.cambridge.org/core/books/summa-theologiae/8AB598D01F0A6E58150C426CCB50FF63",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Burrell, David B. 'Maimonides, Aquinas and Ghazali: distinguishing God from world.' Scottish Journal of Theology 61, no. 3 (2008): 270-287. See also Burrell, Knowing the Unknowable God: Ibn-Sina, Maimonides, Aquinas. Notre Dame: University of Notre Dame Press, 1986.",
+      "url": "https://www.cambridge.org/core/journals/scottish-journal-of-theology/article/abs/maimonides-aquinas-and-ghazali-distinguishing-god-from-world/4A00A1BDD37AA00C0E34165A1B94AF82",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

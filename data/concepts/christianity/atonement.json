@@ -1,0 +1,70 @@
+{
+  "id": "atonement",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Atonement",
+    "original": "καταλλαγή / reconciliatio",
+    "transliteration": "katallage / reconciliatio",
+    "aliases": [
+      "Redemption",
+      "Reconciliation",
+      "At-one-ment"
+    ]
+  },
+  "category": "soteriology",
+  "summary": "The Atonement is the Christian doctrine that the life, and above all the death, of Jesus Christ reconciles sinful humanity to God. Christianity affirms that Christ's death is saving, while offering several models (ransom, satisfaction, penal substitution, moral influence) of how it accomplishes this.",
+  "description": "Atonement (an English coinage, 'at-one-ment,' for reconciliation) is the Christian doctrine that through the death and resurrection of Jesus Christ the estrangement between God and humanity caused by sin is overcome and reconciliation is effected. The tradition holds firmly that Christ's death is redemptive; it has never dogmatically fixed a single theory of how it works, and so several models coexist and are debated. The classic or 'ransom' model, prominent in the early Fathers, presents Christ's death as a victory over sin, death, and the devil, sometimes framed as a ransom that liberates captive humanity; the twentieth-century theologian Gustaf Aulen revived this as the Christus Victor motif. The satisfaction model, formulated by Anselm of Canterbury in Cur Deus Homo (c. 1098), holds that sin dishonors God and incurs a debt that only a God-man can repay, so that Christ's death renders the satisfaction humanity owes. The penal substitution model, developed especially by the Reformers, holds that Christ bears in the sinner's place the penalty due for sin. The moral influence model, associated with Peter Abelard and later liberal theology, sees the cross chiefly as a supreme demonstration of divine love that moves humanity to repentance and reconciliation. These models are not always mutually exclusive, and theologians combine and weight them differently; the shared conviction is that in Christ's death God acts to reconcile the world to himself.",
+  "editorial_notes": "The entry describes atonement on Christianity's own terms (principle #6) and, per principle #2, presents the models (ransom / Christus Victor, satisfaction, penal substitution, moral influence) as coexisting attributed positions rather than declaring one correct, noting that the tradition never dogmatized a single theory. Sourcing triangulates three lenses per principles #8-9: academic scholarship (Aulen's Christus Victor, a historical study of the three main types of atonement theory, functioning here as scholarly typology), a classical primary text (Anselm's Cur Deus Homo, the foundational statement of the satisfaction model), and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. The cross-tradition link follows ADR-0005 and marks a structural DIFFERENCE rather than a parallel: Islam has no doctrine of vicarious atonement, holding each soul accountable for its own deeds; the note states the shared underlying question (how sin is dealt with and the human reconciled to God) and the divergence, and ranks neither.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "adl",
+      "note": "Both bear on how sin, guilt, and divine justice are resolved in the relationship between God and humanity. Christian atonement holds that Christ's death vicariously deals with human sin and reconciles humanity to God; Islamic theology, in which divine justice (adl) is a central concern, has no doctrine of vicarious atonement and holds that each soul is accountable for its own deeds, with forgiveness resting on God's mercy and the person's repentance. The link marks a shared question about sin and divine justice and an explicit structural difference, not a parallel mechanism, and ranks neither."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "The atonement presupposes the Incarnation: on Anselm's account it is precisely a God-man who can render satisfaction."
+    },
+    {
+      "type": "related_to",
+      "target": "justification",
+      "note": "The reconciliation the atonement is held to accomplish is applied to the individual sinner in justification."
+    },
+    {
+      "type": "articulated_by",
+      "target": "anselm-of-canterbury",
+      "note": "Anselm's Cur Deus Homo gave the classic statement of the satisfaction model."
+    }
+  ],
+  "historical_period": {
+    "start": 1098,
+    "note": "Rooted in the New Testament and patristic 'ransom' imagery; the satisfaction model dates from Anselm (c. 1098), penal substitution from the sixteenth-century Reformers, and the modern typology of the models from the twentieth century."
+  },
+  "sources": [
+    {
+      "citation": "Aulen, Gustaf. Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement. Trans. A. G. Herbert. London: SPCK, 1931 (SPCK Classics reprint). A landmark scholarly typology distinguishing the classic/ransom, Latin/satisfaction-and-penal, and subjective/moral-influence types of atonement.",
+      "url": "https://spckpublishing.co.uk/christus-victor-pb",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Anselm of Canterbury. Cur Deus Homo (Why God Became Man), c. 1094-1098. Classical primary text formulating the satisfaction theory of the atonement: sin dishonors God and only a God-man can render the satisfaction owed.",
+      "license": "Public-domain classical text (Latin original; standard English translations vary). Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose chapters on the work of Christ survey the ransom, satisfaction, penal-substitution, and moral-influence models. Added as the modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

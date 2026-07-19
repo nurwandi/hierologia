@@ -1,0 +1,77 @@
+{
+  "id": "incarnation",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Incarnation",
+    "original": "ἐνσάρκωσις / Incarnatio",
+    "transliteration": "Incarnatio",
+    "aliases": [
+      "The Word made flesh",
+      "Enfleshment of the Word",
+      "Hypostatic union"
+    ]
+  },
+  "category": "christology",
+  "summary": "The Incarnation is the Christian doctrine that the eternal Son of God, the divine Word (Logos), became a human being in Jesus Christ, so that Christ is one person who is at once fully God and fully man. The Chalcedonian Definition (451) is its normative formulation.",
+  "description": "The doctrine of the Incarnation holds that in Jesus Christ the second person of the Trinity, the eternal Word, took on a complete human nature, being born, living, suffering, and dying as a man while remaining fully God. The scriptural anchor is the prologue of John's Gospel, 'the Word became flesh' (John 1:14). Christianity does not describe this as God merely inhabiting or appearing as a man, nor as a demigod, but as the union of full deity and full humanity in a single person. The classic formulation was set at the Council of Chalcedon (451), which confessed Christ as one person (hypostasis) in two natures (divine and human) that are united without confusion, without change, without division, and without separation, each nature retaining its own properties. This settlement was framed against several rejected positions: Apollinarianism (the Word replaced Christ's human mind), Nestorianism (as read by its opponents, a division of Christ into two subjects), and Eutychianism or monophysitism (the human nature absorbed into the divine). Athanasius's On the Incarnation gives an influential earlier rationale: the Word became human so that humanity might be restored and, in the patristic phrase, 'deified.' The Chalcedonian Definition remains normative for Catholic, Eastern Orthodox, and most Protestant churches, though the Oriental Orthodox churches, holding a miaphysite Christology, did not receive it.",
+  "editorial_notes": "The entry describes the Incarnation on Christianity's own terms first (neutrality principle #6), foregrounding the Chalcedonian two-natures-one-person formula and naming the positions it excluded as attributed rejected views rather than adjudicating them. The non-reception of Chalcedon by the Oriental Orthodox is noted to avoid falsely presenting the tradition as monolithic (principle #7 analogue). Sourcing triangulates three lenses per principles #8-9: academic history of doctrine (Pelikan vol. 1, which treats the christological controversies through Chalcedon), a classical primary text (Athanasius, On the Incarnation; and the Chalcedonian Definition itself), and a modern Christian systematic voice (McGrath). No encyclopedias or tertiary sources. Confidence medium except the primary conciliar text. The cross-tradition link to nubuwwa follows ADR-0005: shared QUESTION (how God reaches humanity), stated DIFFERENCE (God becoming incarnate in Christ vs. God sending prophets while rejecting incarnation), with no equation or ranking.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "nubuwwa",
+      "note": "Both concern how the transcendent God reaches and communicates with humanity. Christianity holds that God himself became incarnate in the person of Jesus Christ, uniting divine and human natures; Islam holds that God remains utterly transcendent and reaches humanity by sending prophets (nubuwwa) who deliver revelation, and it rejects the idea that God becomes incarnate. The link marks a shared question about divine-human contact, not an equivalence of the answers, and ranks neither."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "The Incarnation presupposes the Trinitarian confession: the one who becomes incarnate is the eternal Son, homoousios with the Father."
+    },
+    {
+      "type": "articulated_by",
+      "target": "council-of-chalcedon",
+      "note": "The 451 council defined Christ as one person in two natures, without confusion, change, division, or separation."
+    },
+    {
+      "type": "refuted_by",
+      "target": "nestorianism",
+      "note": "Chalcedonian Christology was framed partly against a Nestorian division of Christ into two subjects, as construed by its opponents."
+    }
+  ],
+  "historical_period": {
+    "start": 451,
+    "note": "Rooted in the New Testament (esp. John's prologue and the Pauline letters); given normative form at the Council of Chalcedon (451), building on Nicaea and the earlier patristic christology of Athanasius and Cyril of Alexandria."
+  },
+  "sources": [
+    {
+      "citation": "Athanasius of Alexandria. On the Incarnation (De Incarnatione Verbi Dei). Trans. John Behr, Popular Patristics Series 44b. Yonkers, NY: St Vladimir's Seminary Press, 2011. The classic fourth-century primary treatise on why the Word became flesh and its soteriological purpose.",
+      "url": "https://svspress.com/on-the-incarnation-english-only/",
+      "license": "Proprietary translation; classical Greek text public domain. Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Definition of the Council of Chalcedon (451). Primary conciliar text confessing Christ as one person acknowledged in two natures, without confusion, change, division, or separation.",
+      "license": "Public-domain classical text.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Covers the christological controversies from Apollinarianism through Chalcedon.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose christology chapters expound the hypostatic union and the Chalcedonian settlement. Added as the modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

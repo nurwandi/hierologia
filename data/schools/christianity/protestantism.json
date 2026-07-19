@@ -1,0 +1,59 @@
+{
+  "id": "protestantism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Protestantism",
+    "original": "Protestantes",
+    "transliteration": "protestans",
+    "aliases": ["Protestant tradition", "The Reformation", "Reformation churches", "Evangelical (in the sixteenth-century sense)", "Reformers"]
+  },
+  "summary": "Protestantism is the family of Christian traditions originating in the sixteenth-century Reformation, which broke with the authority of the Roman papacy and taught, among other principles, that salvation is by grace through faith alone (sola fide) and that scripture is the supreme authority in matters of faith (sola scriptura); its main early streams are the Lutheran and the Reformed.",
+  "description": "Protestantism designates the movements and churches that arose from the Reformation of the sixteenth century, conventionally dated from Martin Luther's public challenge to indulgences in 1517, and the traditions descended from them. The name derives from the 'protestation' of reforming princes and cities at the Diet of Speyer in 1529. As Diarmaid MacCulloch's history sets out, the Reformation was a many-sided upheaval, religious, intellectual, political, and social, that divided Western Christianity. Its reformers shared a cluster of convictions later summarized in the Latin formulae sola scriptura (scripture alone as the supreme authority for doctrine, over against unwritten tradition and the teaching office of Rome), sola fide (justification by faith alone, apart from meritorious works), and sola gratia (salvation by grace alone), together with an emphasis on the priesthood of all believers. From these principles the reformers criticized practices and doctrines of the late-medieval Western church, including the sale of indulgences, the number and understanding of the sacraments, the authority claimed by the papacy, and clerical celibacy. Protestantism was never a single church: its principal early streams were the Lutheran tradition, following Luther and the Augsburg Confession, and the Reformed tradition, associated with Huldrych Zwingli and, above all, John Calvin at Geneva, with the Radical Reformation (Anabaptists) and the Church of England developing distinctly. As Alister McGrath observes, the principle that each believer may interpret scripture proved both generative and destabilizing, producing continual diversification into many denominations. This entry describes the movement historically and does not take a position in the doctrinal disputes between Protestant and Roman Catholic Christianity, each of which understands the events of the sixteenth century on its own terms.",
+  "editorial_notes": "This entry is written to describe Protestantism neutrally and does not endorse or refute any party in the Reformation-era controversies; the Catholic and Protestant readings of that history and of the doctrines at issue are both live positions held by their adherents, and neither is adjudicated here. The '1517' and '1529' dates are conventional markers (the indulgence controversy and the Speyer protestation respectively) and are stated as such; historians debate when and how sharply a distinct 'Protestantism' emerged. The 'sola' formulae are summary slogans of later systematization and are attributed as the reformers' principles, not presented as correct. The 'compares_with' relation to Salafiyya is included with deliberate caution: scholarship (and popular commentary) has drawn a 'scripture over later tradition' analogy, but specialists such as Henri Lauziere stress that Salafism is a modern formation and that the Reformation analogy can mislead; the relation note therefore states the shared theme and flags the difference and the caveat, and does not equate the two movements. Relation targets (Luther, Calvin, sola scriptura, sola fide) are not yet separate entries in this dataset.",
+  "period": {
+    "founded": 1517,
+    "note": "Approximate. Conventionally dated from Luther's indulgence controversy of 1517; the movement remains active worldwide, so no active_until is asserted. The precise starting point is a matter of scholarly convention."
+  },
+  "relations": [
+    { "type": "key_figure", "target": "martin-luther", "note": "Martin Luther (d. 1546), whose 1517 challenge to indulgences and doctrine of justification by faith initiated the Reformation." },
+    { "type": "key_figure", "target": "john-calvin", "note": "John Calvin (d. 1564), leading theologian of the Reformed tradition and author of the Institutes of the Christian Religion." },
+    { "type": "holds", "target": "sola-scriptura", "note": "Scripture alone as the supreme authority for doctrine, over against the teaching authority claimed by Rome." },
+    { "type": "holds", "target": "sola-fide", "note": "Justification by faith alone, apart from meritorious works, a defining reforming principle." },
+    { "type": "split_from", "target": "roman-catholicism", "note": "The Reformation churches separated from communion with the Roman papacy in the sixteenth century; the causes and legitimacy of the split are understood differently by each side and are not adjudicated here." },
+    { "type": "compares_with", "target": "salafiyya", "note": "A comparison sometimes drawn: both invoke a return to scriptural sources (the Bible; the Qur'an and Sunnah) in preference to accumulated later tradition and established interpretive authorities. The difference and caveat: the movements differ in era, texts, and content, and specialists caution that the analogy is imperfect, since Salafism as commonly defined is a modern (nineteenth to twentieth century) formation rather than a structural counterpart to the sixteenth-century Reformation. The relation asserts a comparable impulse, not an equivalence." }
+  ],
+  "sources": [
+    {
+      "citation": "MacCulloch, Diarmaid. Reformation: Europe's House Divided 1490-1700. London: Allen Lane / Penguin, 2003. Academic history of the European Reformation, its causes, doctrines, principal figures, and streams (Lutheran, Reformed, Radical, English).",
+      "url": "https://books.google.com/books/about/The_Reformation.html?id=rE7uAAAAMAAJ",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christianity's Dangerous Idea: The Protestant Revolution, A History from the Sixteenth Century to the Twenty-First. New York: HarperOne, 2007. Book by a Christian theologian and historian, on the origins, defining principle (private interpretation of scripture), and diversification of Protestantism.",
+      "url": "https://books.google.com/books/about/Christianity_s_Dangerous_Idea.html?id=GtwPAQAAIAAJ",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Calvin, John. Institutes of the Christian Religion, 1536 (final Latin edition 1559). Primary text; the systematic statement of Reformed Protestant theology. Cited as a primary classical work.",
+      "url": "https://www.ccel.org/ccel/calvin/institutes.html",
+      "license": "Historical text in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lauziere, Henri. The Making of Salafism: Islamic Reform in the Twentieth Century. New York: Columbia University Press, 2016. Academic monograph arguing that Salafism as commonly understood is a modern formation; cited for the caveat on the Protestant-Reformation analogy in the cross-tradition relation.",
+      "url": "https://cup.columbia.edu/book/the-making-of-salafism/9780231175500/",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

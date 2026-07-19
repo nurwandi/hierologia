@@ -1,0 +1,53 @@
+{
+  "id": "patristics",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Patristics",
+    "original": "Patres Ecclesiae",
+    "transliteration": "patristica",
+    "aliases": ["Patristic theology", "Patristic era", "Theology of the Church Fathers", "Patrology", "Age of the Fathers"]
+  },
+  "summary": "Patristics is the theology of the early Christian writers known as the Church Fathers, spanning roughly the first through eighth centuries, the era in which the ecumenical councils and creeds formulated the doctrines of the Trinity and the person of Christ that later Christian traditions received as orthodoxy.",
+  "description": "Patristics denotes the body of Christian theology produced by the Fathers of the Church (Latin patres) from the sub-apostolic age to roughly the eighth century, conventionally closing in the West with figures such as Gregory the Great (d. 604) and in the East with John of Damascus (d. c. 749). The period is the one in which, in the account of Jaroslav Pelikan, the fundamental affirmations of Christian dogma emerged from a wide range of competing beliefs and were consolidated into a confessed consensus by around the year 600. Its central doctrinal work was conducted through exegesis of scripture, apologetic and polemical writing against rival teachings, liturgical practice, and above all the ecumenical councils: Nicaea (325), Constantinople (381), Ephesus (431), and Chalcedon (451), which produced the Nicene Creed and the Chalcedonian Definition and settled, for those who received them, the language of one God in three persons and of Christ as one person in two natures, divine and human. The Fathers are conventionally grouped by language and region into Greek Fathers (among them Athanasius, the Cappadocians Basil of Caesarea, Gregory of Nazianzus, and Gregory of Nyssa, and John Chrysostom) and Latin Fathers (among them Ambrose, Jerome, Augustine, and Gregory the Great), with distinct Syriac and other traditions alongside. Augustine of Hippo (d. 430) in particular shaped later Western theology on grace, sin, and the church. The councils and creedal formulae of this era became the shared inheritance from which the medieval scholastic and later Reformation traditions all proceeded, each appealing to the Fathers in support of its own reading.",
+  "editorial_notes": "The boundaries of the patristic era are conventional and approximate; the closing dates given (Gregory the Great in the West, John of Damascus in the East) are the ones commonly used and are stated as such. Which writers count as Fathers, and which councils are 'ecumenical', are themselves matters on which later traditions (Eastern Orthodox, Roman Catholic, Oriental Orthodox, and Protestant) differ; this entry describes the councils of 325-451 as those most widely received and does not adjudicate the disputed status of later councils. The list of Fathers is illustrative, not exhaustive. The 'compares_with' relation to kalam follows Harry Wolfson, who describes the Muslim mutakallimun as in several respects the counterpart of the Christian Church Fathers; the note states both the shared theme and the difference and does not equate the two. Several relation targets (Augustine, the Nicene Creed, the councils, the Trinity, Christology) are not yet separate entries in this dataset.",
+  "period": {
+    "founded": 100,
+    "active_until": 749,
+    "note": "Approximate. Conventionally from the sub-apostolic writers of the early second century to John of Damascus (d. c. 749) in the East and Gregory the Great (d. 604) in the West. Dates are conventional scholarly boundaries, not sharp events."
+  },
+  "relations": [
+    { "type": "key_figure", "target": "augustine", "note": "Augustine of Hippo (d. 430), the most influential of the Latin Fathers for later Western theology." },
+    { "type": "key_figure", "target": "athanasius", "note": "Athanasius of Alexandria (d. 373), central defender of Nicene doctrine on the divinity of the Son." },
+    { "type": "holds", "target": "trinity", "note": "The doctrine of one God in three persons, given creedal formulation at Nicaea (325) and Constantinople (381)." },
+    { "type": "holds", "target": "nicene-creed", "note": "The creed of the first two ecumenical councils, received as a standard of orthodoxy across later Christian traditions." },
+    { "type": "related_to", "target": "ecumenical-councils", "note": "The councils of Nicaea, Constantinople, Ephesus, and Chalcedon are the principal doctrinal instruments of the era." },
+    { "type": "compares_with", "target": "kalam", "note": "Both are the formative rational-doctrinal theology of their tradition, working out orthodoxy through argument in a period of competing teachings. The difference: Christian orthodoxy was consolidated chiefly through ecumenical councils and creeds binding on the whole church, whereas kalam formed through contending theological schools without a conciliar mechanism, and the two address different questions (Trinity and Incarnation versus divine unity and the attributes)." }
+  ],
+  "sources": [
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Volume 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Academic monograph tracing the development of Christian doctrine from the second century to c. 600, including the councils and creeds.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Nicene Creed (325, revised 381) and the Chalcedonian Definition (451), the conciliar and creedal texts of the first four ecumenical councils. Primary sources for the doctrinal formulae of the patristic era; cited as primary conciliar documents.",
+      "url": "https://www.newadvent.org/fathers/3811.htm",
+      "license": "Historical text in the public domain in the original; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wolfson, Harry Austryn. The Philosophy of the Kalam. Cambridge, Mass.: Harvard University Press, 1976. Academic monograph; characterises the Muslim mutakallimun as in several respects the counterpart of the Christian Church Fathers, and traces the relation of kalam to patristic and later Christian thought (cited for the cross-tradition comparison).",
+      "url": "https://www.hup.harvard.edu/books/9780674665804",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

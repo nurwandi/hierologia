@@ -1,0 +1,52 @@
+{
+  "id": "scholasticism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Scholasticism",
+    "original": "scholastica",
+    "transliteration": "scholastica",
+    "aliases": ["Scholastic theology", "Scholastic method", "The Schoolmen", "Medieval scholasticism"]
+  },
+  "summary": "Scholasticism is the method of systematic theology and philosophy developed in the medieval cathedral schools and universities from roughly the eleventh to the fifteenth centuries, which used dialectical reasoning to reconcile authoritative texts and, after the recovery of Aristotle, drew on his logic and philosophy to organize Christian doctrine.",
+  "description": "Scholasticism (from Latin scholasticus, 'of the schools') names both a method and the intellectual culture of the medieval Latin West from about the eleventh to the fifteenth centuries, centred first in the cathedral and monastic schools and then, from the twelfth and thirteenth centuries, in the new universities of Paris, Oxford, Bologna, and elsewhere. As G. R. Evans describes it, the movement arose as Christian thinkers assimilated the tools of secular learning, above all logic (dialectic) and, progressively, the wider corpus of Aristotle, into the study of theology. Its characteristic method proceeded by posing a question (quaestio), setting out authoritative texts and arguments on opposing sides, and resolving the tension through disciplined argument, a technique visible already in Peter Abelard's Sic et Non ('Yes and No'), which juxtaposed apparently conflicting statements of scripture and the Fathers to be reconciled by analysis. Anselm of Canterbury (d. 1109), sometimes called the father of scholasticism, sought understanding of what was already believed (fides quaerens intellectum, 'faith seeking understanding') and offered rational arguments for God's existence and the necessity of the Incarnation. The recovery of Aristotle's fuller works in Latin translation during the twelfth and thirteenth centuries, transmitted in part through Arabic intermediaries and the commentaries of Muslim and Jewish philosophers, transformed the field and raised the problem of how Aristotelian philosophy related to revealed doctrine. Thomas Aquinas (d. 1274), in his Summa Theologiae, produced the most influential synthesis, arguing that reason and revelation, rightly understood, do not conflict. Scholasticism was elaborated by many schools and figures, including Bonaventure, Duns Scotus, and William of Ockham, and its systematic textbooks and disputational method shaped Western theology and philosophy long after the medieval period.",
+  "editorial_notes": "The dating and boundaries of scholasticism are conventional; 'from the eleventh to the fifteenth centuries' is a common scholarly span and is stated as approximate. Describing scholasticism as a 'method' as much as a 'school' follows standard usage; it was internally diverse, and the labels for its sub-schools (Thomism, Scotism, nominalism) are later. The account of Aristotle reaching the Latin West partly through Arabic transmission and the commentaries of Muslim and Jewish philosophers (notably Averroes) is well established in the scholarship and underlies the cross-tradition relation. The 'compares_with' relation to kalam follows Harry Wolfson and others who situate kalam and Latin scholasticism within a shared history of systematic rational theology; the note names both the shared theme and the differences and does not equate them. Several relation targets (Aquinas, Anselm, the Summa) are not yet separate entries in this dataset.",
+  "period": {
+    "founded": 1050,
+    "active_until": 1500,
+    "note": "Approximate. Conventionally from the eleventh-century schools (Anselm) through the high-medieval universities to the close of the fifteenth century, after which later 'second scholasticism' revivals continued the method. Dates are scholarly conventions, not sharp events."
+  },
+  "relations": [
+    { "type": "key_figure", "target": "aquinas", "note": "Thomas Aquinas (d. 1274), author of the Summa Theologiae and the most influential scholastic synthesizer of Aristotle and Christian doctrine." },
+    { "type": "key_figure", "target": "anselm-of-canterbury", "note": "Anselm of Canterbury (d. 1109), sometimes called the father of scholasticism; 'faith seeking understanding'." },
+    { "type": "key_figure", "target": "peter-abelard", "note": "Peter Abelard (d. 1142), early exponent of the dialectical method; author of Sic et Non." },
+    { "type": "influenced_by", "target": "falsafa", "note": "Aristotle reached the Latin scholastics partly through Arabic transmission and the commentaries of Muslim philosophers, notably Averroes (Ibn Rushd), whose readings of Aristotle were widely studied and debated." },
+    { "type": "compares_with", "target": "kalam", "note": "Both are systematic, dialectical rational theology that defends revealed doctrine by argument, and kalam predates and partly influenced the Latin West through translated falsafa and Aristotelian material. The difference: scholasticism operated in the Christian universities on Trinitarian and Christological questions and reached a far-reaching synthesis with Aristotle in Aquinas, whereas kalam developed earlier in a different institutional setting and remained more cautious toward, and often critical of, the philosophers' Aristotelianism." }
+  ],
+  "sources": [
+    {
+      "citation": "Evans, G. R. Philosophy and Theology in the Middle Ages. London: Routledge, 1993. Academic monograph on the medieval assimilation of logic and philosophy into theology, the schools and universities, and the major scholastic figures and questions.",
+      "url": "https://www.routledge.com/Philosophy-and-Theology-in-the-Middle-Ages/Evans/p/book/9780415089098",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Aquinas, Thomas. Summa Theologiae, c. 1265-1274. Primary text; the paradigmatic scholastic synthesis of Aristotelian philosophy and Christian doctrine, organized by the quaestio method. Cited as a primary classical work.",
+      "url": "https://www.newadvent.org/summa/",
+      "license": "Historical text; Latin in the public domain, English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wolfson, Harry Austryn. The Philosophy of the Kalam. Cambridge, Mass.: Harvard University Press, 1976. Academic monograph situating kalam in a shared history of systematic rational theology extending to the Latin scholastics (cited for the cross-tradition comparison).",
+      "url": "https://www.hup.harvard.edu/books/9780674665804",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

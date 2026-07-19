@@ -1,0 +1,70 @@
+{
+  "id": "grace",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Grace",
+    "original": "χάρις / gratia",
+    "transliteration": "charis / gratia",
+    "aliases": [
+      "Divine grace",
+      "Unmerited favor",
+      "Gratia"
+    ]
+  },
+  "category": "soteriology",
+  "summary": "Grace, in Christian theology, is the unmerited favor and saving action of God toward humanity, given freely and not earned by human worth or works. Its relation to human free will became one of the most contested questions in the tradition.",
+  "description": "Grace (Greek charis, Latin gratia) denotes God's free, unmerited favor and the divine help by which, in Christian teaching, human beings are forgiven, renewed, and enabled to turn toward God. It is understood as gift rather than wage: something God gives rather than something the human earns. The classic Western treatment arises from Augustine of Hippo (354-430), especially in his controversy with Pelagius. Pelagius, as read by his opponents, held that human beings can take the first steps toward righteousness by their own unaided will; Augustine argued that after the fall the will is bound and requires prevenient grace even to begin to desire the good, so that salvation is grace 'from first to last.' The councils that followed (notably the Second Council of Orange, 529) affirmed a broadly Augustinian position while rejecting the harder inference that God predestines some to evil. The precise relation of grace to free will resurfaced repeatedly: in the medieval scholastics, in the Reformation (where the Reformers pressed the priority and sole sufficiency of grace, sola gratia), and in later Catholic debates (e.g., between Thomists and Molinists) over how grace and human freedom cooperate. Across these disputes the shared affirmation is that grace is unmerited and prior; the live disagreement concerns how grace and the human will interact.",
+  "editorial_notes": "The entry describes grace on Christianity's own terms (neutrality principle #6) and, per principle #2, names the grace-and-free-will disagreement (Augustine vs. Pelagius; Reformation sola gratia; Thomist vs. Molinist) as a live debate rather than settling it, marking the shared affirmation (grace is unmerited and prior) separately from the contested point (how grace and will interact). Sourcing triangulates three lenses per principles #8-9: academic scholarship (McGrath's Iustitia Dei, a history of the doctrine of justification that treats the Augustinian grace tradition in depth), a classical primary text (Augustine's anti-Pelagian writings), and a modern Christian textbook voice (McGrath, Christian Theology). No encyclopedias or tertiary sources. Confidence medium. Two cross-tradition links follow ADR-0005, to qadar (divine determination) and kasb (human acquisition of acts), each stating a shared question about divine action and human agency and naming the difference without equating the frameworks.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "qadar",
+      "note": "Both address how divine action relates to human action in the economy of salvation and destiny. Christian grace centers on God's unmerited favor freely enabling and effecting human salvation; the Islamic doctrine of qadar concerns God's decree and determination of all that comes to pass. The two frame an overlapping question, the priority and scope of divine action over human deeds, within different theological vocabularies and aims; the link asserts comparability of the question, not sameness of the answer, and ranks neither."
+    },
+    {
+      "type": "compares_with",
+      "target": "kasb",
+      "note": "Both bear on the relation between divine power and human responsibility for action. The Ash'ari doctrine of kasb (acquisition) holds that God creates human acts while the human 'acquires' them and so remains accountable; Christian debates on grace and free will ask how God's prior grace and the human will cooperate. Each tries to hold divine primacy together with human responsibility; the comparison marks the shared problem, not an equivalence of solutions."
+    },
+    {
+      "type": "related_to",
+      "target": "justification",
+      "note": "Grace is the ground on which, in Christian teaching, the sinner is justified; debates over grace and justification are closely linked."
+    },
+    {
+      "type": "related_to",
+      "target": "original-sin",
+      "note": "The Augustinian account of grace is shaped by its account of the fallen, bound will inherited through original sin."
+    }
+  ],
+  "historical_period": {
+    "start": 411,
+    "note": "The doctrine is rooted in the Pauline letters; its classic Western formulation stems from Augustine's Pelagian controversy (from c. 411), with recurring debate through the Reformation and later Catholic scholasticism."
+  },
+  "sources": [
+    {
+      "citation": "McGrath, Alister E. Iustitia Dei: A History of the Christian Doctrine of Justification. 4th ed. Cambridge: Cambridge University Press, 2020. A leading scholarly history that traces the doctrine of grace and justification from the Church Fathers, through Augustine and the medievals, to the Reformation and beyond.",
+      "url": "https://www.cambridge.org/core/journals/church-history/article/abs/iustitia-dei-a-history-of-the-christian-doctrine-of-justification-fourth-edition-by-alister-e-mcgrath-cambridge-cambridge-university-press-2020-xv-494-pp-13000-hardcover-4499-paper/C52829C5CF353651364FF10BF0F466CD",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Augustine of Hippo. Anti-Pelagian writings, esp. On the Spirit and the Letter (De Spiritu et Littera, 412) and On the Predestination of the Saints (De Praedestinatione Sanctorum, c. 429). Classical primary texts arguing the priority and necessity of prevenient grace against the Pelagians.",
+      "license": "Public-domain classical texts (Latin originals; standard English translations vary). Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose soteriology chapters expound grace, the Pelagian controversy, and the Reformation principle of sola gratia. Added as the modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.2.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
