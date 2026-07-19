@@ -1,0 +1,54 @@
+{
+  "id": "muwatta-malik",
+  "tradition": "islam",
+  "names": {
+    "primary": "al-Muwatta of Malik",
+    "original": "الموطأ",
+    "transliteration": "al-Muwaṭṭaʾ",
+    "aliases": [
+      "Muwatta Malik",
+      "The Muwatta of Malik ibn Anas"
+    ]
+  },
+  "category": "hadith collection",
+  "date": {
+    "year": 770,
+    "note": "Compiled by Malik ibn Anas (d. 179/795) in Medina in the later eighth century; the year given is approximate and the text circulated in several recensions (riwayat)."
+  },
+  "summary": "The Muwatta is an early legal-hadith compilation by Malik ibn Anas (d. 179/795) of Medina, gathering prophetic traditions, reports of the Companions, and the settled practice (amal) of Medina, arranged by topics of law. It is among the earliest surviving works of its kind.",
+  "description": "The Muwatta of Malik ibn Anas (d. 179/795) is one of the earliest surviving compilations of Islamic legal material, assembled in Medina and arranged by the topics of ritual and law. Unlike the later Sahih collections that restrict themselves to prophetic hadith, the Muwatta interweaves reports from the Prophet with sayings and rulings of the Companions and their successors and with the settled practice (amal) of the people of Medina, which Malik treated as a source of law in its own right. The work survives in several recensions (riwayat) transmitted by Malik's students, which differ in arrangement and content. Because of its early date, the Muwatta is important both as a hadith collection and as evidence for the formation of Islamic law, and modern scholarship has drawn on it to study how the early jurists derived rulings from the Qur'an and from Medinan practice.",
+  "editorial_notes": "This entry describes the Muwatta as an early legal-hadith compilation and notes its distinctive incorporation of Medinan practice (amal), attributing that method to Malik rather than endorsing it, per neutrality principles #1 and #4. The compiler is linked as a forward reference under the id malik-ibn-anas, as directed. The related_to maliki link was omitted because no entity with the id maliki exists in the dataset (the school directory has hanafiyya and hanbaliyya but not maliki); adding it was conditional on that id existing. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship on the Muwatta and early law (Yasin Dutton, The Origins of Islamic Law, Curzon 1999), the Muwatta itself as the primary text, and a contemporary Muslim scholar of hadith (Jonathan A. C. Brown, Hadith, Oneworld 2009). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note, and the existence of multiple recensions is stated.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "malik-ibn-anas",
+      "note": "Compiled by Malik ibn Anas (d. 179/795) of Medina. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Dutton, Yasin. The Origins of Islamic Law: The Qur'an, the Muwatta' and Madinan 'Amal. London: Curzon Press, 1999. Academic study of the Muwatta and Malik's derivation of law from the Qur'an and Medinan practice; the outside-scholarship lens.",
+      "url": "https://www.routledge.com/The-Origins-of-Islamic-Law-The-Quran-the-Muwatta-and-Madinan-Amal/Dutton/p/book/9780700716692",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Malik ibn Anas. al-Muwatta'. Classical Medinan compilation (d. 179/795) of prophetic hadith, Companion reports, and Medinan legal practice (amal), arranged by topic; the primary-text lens.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith and the early collections, including the Muwatta; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

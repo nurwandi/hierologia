@@ -1,0 +1,50 @@
+{
+  "id": "al-wathiq",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Wathiq",
+    "original": "أبو جعفر هارون الواثق بالله بن محمد المعتصم",
+    "transliteration": "Abū Jaʿfar Hārūn al-Wāthiq bi-Llāh ibn Muḥammad al-Muʿtaṣim",
+    "aliases": ["al-Wathiq", "al-Wathiq billah", "al-Wāthiq", "Harun al-Wathiq"]
+  },
+  "roles": ["caliph"],
+  "summary": "Al-Wathiq (816-847 CE) was the ninth Abbasid caliph, reigning from 842 to 847. He continued the mihna begun under al-Ma'mun and, in the traditional accounts, pressed it with particular severity, extending the interrogation over the createdness of the Qur'an to further scholars and, in some reports, to the ransoming of prisoners.",
+  "description": "Al-Wathiq succeeded his father al-Mu'tasim in 227/842 and reigned until 232/847 from Samarra. The sources present his reign as continuing the administrative and military arrangements of his father, with continued reliance on Turkish commanders. He maintained the mihna, the inquiry requiring officials, judges, and scholars to affirm that the Qur'an is created (khalq al-Qur'an), and the traditional accounts describe his enforcement as more intense than that of his predecessors, including reports that the doctrine was applied even in the exchange or ransoming of Muslim captives. The best-known episode associated with his reign in the traditionist sources is the interrogation and, in some accounts, execution of the scholar Ahmad ibn Nasr al-Khuza'i, who is remembered in Sunni tradition as a martyr of resistance to the doctrine. The doctrine enforced and the resistance to it are here described as positions attributed to their holders; the entry does not adjudicate the theological question of whether the Qur'an is created or uncreated, and neither valorizes the resisters nor vilifies those who imposed the doctrine (neutrality #1, #2, #7). He died in 232/847 and was succeeded by his brother al-Mutawakkil, under whom the mihna was brought to an end.",
+  "editorial_notes": "Dates are given as 200/816 - 232/847 (reign 227/842 - 232/847), standard in the sources. Reports of heightened severity under al-Wathiq, including the case of Ahmad ibn Nasr al-Khuza'i, are transmitted substantially through later traditionist sources; the entry reports them as attributed narratives, not as independently verified events, and treats the enforcement of the doctrine as an attributed policy rather than endorsing or condemning it (neutrality #1, #7). No source passage was read line by line, so no confidence is rated 'high'.",
+  "lifespan": {
+    "birth": 816,
+    "death": 847,
+    "note": "200 AH - 232 AH; reigned 227/842 - 232/847. Commonly given as 816-847 CE."
+  },
+  "relations": [
+    { "type": "related_to", "target": "mihna", "note": "Continued the mihna and, in the traditional accounts, intensified its enforcement over the createdness of the Qur'an." },
+    { "type": "related_to", "target": "al-mutasim", "note": "Father and predecessor of al-Wathiq, whose mihna policy he continued." }
+  ],
+  "sources": [
+    {
+      "citation": "Al-Tabari, Muhammad ibn Jarir. Ta'rikh al-Rusul wa-l-Muluk (The History of al-Tabari), Vol. 34: Incipient Decline: The Caliphates of al-Wathiq, al-Mutawakkil, and al-Muntasir A.D. 841-863/A.H. 227-248. Trans. Joel L. Kraemer. SUNY Press, 1989. Primary source; the classical annalistic account of al-Wathiq's reign, including the case of Ahmad ibn Nasr al-Khuza'i.",
+      "url": "https://www.sunypress.edu/p-369-the-history-of-al-tabari-vol-34.aspx",
+      "license": "Primary text in translation; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kennedy, Hugh. The Prophet and the Age of the Caliphates: The Islamic Near East from the Sixth to the Eleventh Century. 3rd ed. Routledge, 2016. (Academic survey covering the Samarran caliphs and the mihna; general reference, specific claims not page-verified.)",
+      "url": "https://www.routledge.com/The-Prophet-and-the-Age-of-the-Caliphates-The-Islamic-Near-East-from-the-Sixth-to-the-Eleventh-Century/Kennedy/p/book/9780367366896",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    },
+    {
+      "citation": "Zaman, Muhammad Qasim. Religion and Politics under the Early 'Abbasids: The Emergence of the Proto-Sunni Elite. Islamic History and Civilization 16. Brill, 1997. (Contemporary Muslim scholar; study of the caliphs' religious policies and their relations with the scholars, including the continuation of the mihna.)",
+      "url": "https://archive.org/details/religionpolitics0000zama",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

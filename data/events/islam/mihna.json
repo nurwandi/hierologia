@@ -1,0 +1,95 @@
+{
+  "id": "mihna",
+  "tradition": "islam",
+  "names": {
+    "primary": "al-Mihna",
+    "original": "المحنة",
+    "transliteration": "al-Miḥna",
+    "aliases": [
+      "The Mihna",
+      "The Abbasid Inquisition",
+      "The Inquisition of the Created Qur'an"
+    ]
+  },
+  "category": "inquisition",
+  "location": "Baghdad and the Abbasid caliphate",
+  "date": {
+    "year": 833,
+    "end_year": 848,
+    "note": "Instituted by the caliph al-Ma'mun in 218/833, shortly before his death that same year, and continued under his successors al-Mu'tasim and al-Wathiq. It was formally wound down under al-Mutawakkil, who abandoned the policy on his accession (232/847) and issued edicts abolishing the testing in stages around 234-237/848-851 CE."
+  },
+  "summary": "The Mihna was a doctrinal inquisition in the Abbasid caliphate, instituted by the caliph al-Ma'mun in 218/833, in which judges, scholars, and officials were tested (imtihan) and required to profess that the Qur'an is created. It was continued by al-Ma'mun's successors and abandoned under al-Mutawakkil around 234/848.",
+  "description": "The Mihna was a state-enforced examination begun by the Abbasid caliph al-Ma'mun in 218/833. Judges (qadis), traditionists, and officials were summoned and interrogated (imtihan) as to whether they would profess that the Qur'an is created (makhluq) rather than an eternal, uncreated attribute of God. The doctrine tested was the position associated with the Mu'tazila and related rationalist theologians, and its enforcement is generally read as an assertion of the caliph's authority to define religious orthodoxy. Those who refused to affirm createdness could be dismissed from office, imprisoned, or flogged. The policy was continued by al-Ma'mun's successors al-Mu'tasim and al-Wathiq, and the chief judge Ahmad ibn Abi Du'ad is reported as its most prominent administrator. The traditionist scholar Ahmad ibn Hanbal refused to affirm the created Qur'an under interrogation and was imprisoned and, by many accounts, flogged; in later Sunni memory his refusal became the emblem of traditionist resistance to the doctrine. The caliph al-Mutawakkil abandoned the policy after his accession in 232/847 and issued edicts abolishing the testing around 234/848, releasing those held and affirming the position that the Qur'an is uncreated. The reversal is often read in modern scholarship as a turning point that strengthened the traditionist camp within Sunnism, though the intellectual and political motives behind both the institution and the abandonment of the Mihna remain a subject of scholarly debate.",
+  "editorial_notes": "This entry describes the Mihna as a historical episode and states the tested question (whether the Qur'an is created or uncreated) as the matter in dispute, attributing the Mu'tazili/rationalist and traditionist positions to their holders without adjudicating between them, per neutrality principles #1, #2, and #7. The createdness doctrine itself is documented in the concept entry khalq-al-quran. The primary opponent Ibn Hanbal exists in this dataset under the id ahmad-ibn-hanbal (not ibn-hanbal); the related_to link therefore targets ahmad-ibn-hanbal so it resolves. The convener al-mamun and the participants al-mutasim, al-wathiq, al-mutawakkil, and ibn-abi-duad are being created in parallel and are linked as forward references. The cross-tradition compares_with council-of-nicaea link follows neutrality principle #10: it asserts a comparable question (political authority enforcing a doctrinal position on whether something intimately related to God is created or uncreated), states the difference (the Mihna enforced the created side and was reversed; Nicaea affirmed the uncreated Son and endured), and ranks neither tradition. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Nawas, JAOS 1996; Cooperson, Al-Ma'mun, Oneworld 2005), the classical primary chronicle (al-Tabari's Ta'rikh, in the SUNY translation), and a contemporary Muslim scholar of hadith and Islamic intellectual history (Jonathan A. C. Brown, Hadith, Oneworld 2009, which treats the Mihna and its consequences for the traditionists). No encyclopedias or tertiary sources are cited. Confidence is medium across sources: all four were verified to exist and be on-topic but were not read line-by-line, so no high confidence is claimed. Dates are given in both hijri and CE.",
+  "relations": [
+    {
+      "type": "affirmed",
+      "target": "khalq-al-quran",
+      "note": "The Mihna enforced the doctrine that the Qur'an is created (makhluq); officials were tested on their profession of it. The affirmation is reported as the state policy under al-Ma'mun and his successors, not adjudicated as true."
+    },
+    {
+      "type": "convened_by",
+      "target": "al-mamun",
+      "note": "The caliph al-Ma'mun instituted the Mihna in 218/833. Forward reference to an entity being created in parallel."
+    },
+    {
+      "type": "participant",
+      "target": "ibn-abi-duad",
+      "note": "The chief judge Ahmad ibn Abi Du'ad is reported as the leading administrator of the testing under al-Mu'tasim and al-Wathiq. Forward reference to an entity being created in parallel."
+    },
+    {
+      "type": "related_to",
+      "target": "ahmad-ibn-hanbal",
+      "note": "Ahmad ibn Hanbal refused to affirm the created Qur'an under interrogation and was imprisoned and flogged; in later Sunni memory he became the symbol of traditionist resistance to the doctrine."
+    },
+    {
+      "type": "related_to",
+      "target": "mutazila",
+      "note": "The doctrine tested, the createdness of the Qur'an, is the position most associated with the Mu'tazila and the rationalist theologians."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-hadith",
+      "note": "The traditionists (ahl al-hadith) held that the Qur'an is uncreated and were the group most subjected to and identified with resistance to the Mihna."
+    },
+    {
+      "type": "compares_with",
+      "target": "council-of-nicaea",
+      "note": "Compares the question, not the answer, per neutrality principle #10. Both are instances of political authority enforcing a doctrinal position on whether something intimately related to God is created or uncreated (the Qur'an as divine speech; the Son as divine), with dissenters penalized. The difference: the Mihna enforced the created side and was later reversed, while Nicaea affirmed the uncreated Son and endured. This link asserts a comparable question and states the difference; it ranks neither tradition and treats neither as the measure of the other."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Nawas, John A. \"The Mihna of 218 A.H./833 A.D. Revisited: An Empirical Study.\" Journal of the American Oriental Society 116, no. 4 (1996): 698-708. Academic study re-examining the sources for the Mihna and its participants; the outside-scholarship lens.",
+      "url": "https://www.jstor.org/stable/605440",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cooperson, Michael. Al-Ma'mun. Makers of the Muslim World. Oxford: Oneworld Publications, 2005. Academic biography of the caliph who instituted the Mihna, treating him as inquisitor among his other roles; the outside-scholarship lens.",
+      "url": "https://oneworld-publications.com/work/al-mamun/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 32: The Reunification of the 'Abbasid Caliphate: The Caliphate of al-Ma'mun A.D. 813-833/A.H. 198-218, trans. C. E. Bosworth. Albany: State University of New York Press, 1987. The classical Arabic chronicle whose narrative of al-Ma'mun's reign records the institution of the Mihna; the primary-text lens.",
+      "url": "https://archive.org/details/historyofaltabar0001abar",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's study of hadith and its milieu, treating the Mihna and its consequences for the traditionist scholars; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

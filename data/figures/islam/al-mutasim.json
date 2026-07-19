@@ -1,0 +1,57 @@
+{
+  "id": "al-mutasim",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Mu'tasim",
+    "original": "أبو إسحاق محمد المعتصم بالله بن هارون الرشيد",
+    "transliteration": "Abū Isḥāq Muḥammad al-Muʿtaṣim bi-Llāh ibn Hārūn al-Rashīd",
+    "aliases": ["al-Mu'tasim", "al-Mu'tasim billah", "al-Muʿtaṣim", "Abū Isḥāq al-Muʿtaṣim"]
+  },
+  "roles": ["caliph"],
+  "summary": "Al-Mu'tasim (796-842 CE) was the eighth Abbasid caliph, reigning from 833 to 842. He succeeded his brother al-Ma'mun and continued the mihna; the traditional accounts report that under him Ahmad ibn Hanbal was flogged for refusing to affirm that the Qur'an is created. He is also associated with founding the new capital at Samarra and with the growing use of Turkish military forces.",
+  "description": "Al-Mu'tasim succeeded his brother al-Ma'mun as caliph in 218/833 and reigned until 227/842. The sources associate his reign with the foundation of Samarra as a new seat of the caliphate and the army, and with the increased prominence of Turkish and other non-Arab troops. He continued the mihna, the inquiry begun under al-Ma'mun that required officials, judges, and traditionists to affirm the createdness of the Qur'an (khalq al-Qur'an). According to the traditional Sunni and Hanbali accounts, Ahmad ibn Hanbal was brought before the authorities under al-Mu'tasim and flogged when he refused to affirm the doctrine, holding that the Qur'an is the uncreated speech of God; the same accounts report that the public reaction in Baghdad led to his release. Modern scholarship treats the detailed narrative of Ibn Hanbal's conduct as transmitted largely through later traditionist memory that venerates him, and this entry reports the tradition and its role in his reputation rather than treating every detail as independently established. The doctrine imposed and the refusal of it are described here as positions attributed to their holders; the entry does not adjudicate whether the Qur'an is created or uncreated (neutrality #1, #2, #7).",
+  "editorial_notes": "Dates are given as 179/796 - 227/842 (reign 218/833 - 227/842), standard in the sources. The account of Ibn Hanbal's flogging under al-Mu'tasim (commonly dated to 220/835) is transmitted chiefly through later Hanbali and traditionist sources that venerate Ibn Hanbal; the entry reports it as an attributed narrative, not as an independently verified event, and does not valorize Ibn Hanbal or vilify the Mu'tazila (neutrality #1, #7). The continuation of the mihna is described as an attributed policy, not endorsed. The relation target 'ahmad-ibn-hanbal' is the existing id for Ibn Hanbal in this dataset; the brief refers to him as 'ibn-hanbal', one of his aliases. No source passage was read line by line, so no confidence is rated 'high'.",
+  "lifespan": {
+    "birth": 796,
+    "death": 842,
+    "note": "179 AH - 227 AH; reigned 218/833 - 227/842. Commonly given as 796-842 CE."
+  },
+  "relations": [
+    { "type": "related_to", "target": "mihna", "note": "Continued the mihna inherited from al-Ma'mun; under him Ibn Hanbal is reported to have been flogged." },
+    { "type": "related_to", "target": "al-mamun", "note": "Brother and predecessor of al-Mu'tasim, who inherited and continued his mihna policy." },
+    { "type": "related_to", "target": "ahmad-ibn-hanbal", "note": "Traditional accounts report that Ibn Hanbal was flogged under al-Mu'tasim for refusing to affirm the createdness of the Qur'an." }
+  ],
+  "sources": [
+    {
+      "citation": "Al-Tabari, Muhammad ibn Jarir. Ta'rikh al-Rusul wa-l-Muluk (The History of al-Tabari), Vol. 33: Storm and Stress along the Northern Frontiers of the 'Abbasid Caliphate: The Caliphate of al-Mu'tasim A.D. 833-842/A.H. 218-227. Trans. C. E. Bosworth. SUNY Press, 1991. Primary source; the classical annalistic account of al-Mu'tasim's reign.",
+      "url": "https://www.sunypress.edu/p-1078-the-history-of-al-tabari-vol-33.aspx",
+      "license": "Primary text in translation; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hurvitz, Nimrod. The Formation of Hanbalism: Piety into Power. RoutledgeCurzon, 2002. (Academic study integrating Ibn Hanbal's life with the mihna, including the interrogations and flogging under al-Mu'tasim; specific claims here not page-verified.)",
+      "url": "https://www.routledge.com/The-Formation-of-Hanbalism-Piety-into-Power/Hurvitz/p/book/9780415616416",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Melchert, Christopher. Ahmad ibn Hanbal. Makers of the Muslim World. Oneworld, 2006. (Academic biography treating Ibn Hanbal's ordeal under the mihna; general reference, specific claims not page-verified.)",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    },
+    {
+      "citation": "Zaman, Muhammad Qasim. Religion and Politics under the Early 'Abbasids: The Emergence of the Proto-Sunni Elite. Islamic History and Civilization 16. Brill, 1997. (Contemporary Muslim scholar; study of the caliphs' religious policies and their relations with the scholars, including the mihna under al-Mu'tasim.)",
+      "url": "https://archive.org/details/religionpolitics0000zama",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

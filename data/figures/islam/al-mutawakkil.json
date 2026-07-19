@@ -1,0 +1,51 @@
+{
+  "id": "al-mutawakkil",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Mutawakkil",
+    "original": "أبو الفضل جعفر المتوكل على الله بن محمد المعتصم",
+    "transliteration": "Abū al-Faḍl Jaʿfar al-Mutawakkil ʿalā Allāh ibn Muḥammad al-Muʿtaṣim",
+    "aliases": ["al-Mutawakkil", "al-Mutawakkil 'ala Allah", "al-Mutawakkil ʿalā Allāh", "Ja'far al-Mutawakkil"]
+  },
+  "roles": ["caliph"],
+  "summary": "Al-Mutawakkil (822-861 CE) was the tenth Abbasid caliph, reigning from 847 to 861. Around 848-851 he brought the mihna to an end and reversed the caliphate's official theological stance, favoring the traditionist (ahl al-hadith) position that the Qur'an is the uncreated speech of God and withdrawing state support from the doctrine of its createdness.",
+  "description": "Al-Mutawakkil succeeded his brother al-Wathiq in 232/847 and reigned until his death in 247/861. During the early part of his reign, in stages generally placed around 234-237/848-851, he ended the mihna, the inquiry that had required officials and scholars to affirm the createdness of the Qur'an, and he took measures against those who had administered it, including the removal of the chief judge Ahmad ibn Abi Du'ad and his family from power. He is reported to have forbidden public debate over the nature of the Qur'an and to have favored the traditionists (ahl al-hadith), summoning traditionist scholars and endorsing the position that the Qur'an is the uncreated speech of God. Later Sunni tradition remembers this reversal as a restoration of orthodoxy. The present entry describes both the earlier imposition of the created-Qur'an doctrine and its later reversal under al-Mutawakkil as attributed state policies; it does not treat the reversal as a vindication of the traditionist position or a defeat of the Mu'tazila as a theological matter, and it does not adjudicate whether the Qur'an is created or uncreated (neutrality #1, #2, #7). His reign is also associated in the sources with other measures, and it ended with his assassination in 247/861, an event that inaugurated a period of instability at Samarra.",
+  "editorial_notes": "Dates are given as 206/822 - 247/861 (reign 232/847 - 247/861), standard in the sources. The ending of the mihna is placed in stages around 234-237/848-851; the sources vary on precise dating, and the entry gives the range rather than a single year. The reversal is described as an attributed policy and as it is remembered in later Sunni tradition; the entry does not endorse the traditionist position it favored, per neutrality #1 and #7. The relation 'related_to athariyya' reflects that the position al-Mutawakkil favored (affirming the uncreated Qur'an and the transmitted texts) is the one later associated with the Athari tendency; the label is applied retrospectively and the relation is descriptive, not an endorsement. No source passage was read line by line, so no confidence is rated 'high'.",
+  "lifespan": {
+    "birth": 822,
+    "death": 861,
+    "note": "206 AH - 247 AH; reigned 232/847 - 247/861. Commonly given as 822-861 CE."
+  },
+  "relations": [
+    { "type": "related_to", "target": "mihna", "note": "Ended the mihna in stages around 234-237/848-851 and removed those who had administered it." },
+    { "type": "related_to", "target": "ahl-al-hadith", "note": "Favored the traditionists (ahl al-hadith) and endorsed the uncreated-Qur'an position after ending the mihna; described as attributed policy." },
+    { "type": "related_to", "target": "athariyya", "note": "The position he favored is the one later associated with the Athari (traditionist) tendency; the label is retrospective and the relation descriptive, not an endorsement." }
+  ],
+  "sources": [
+    {
+      "citation": "Al-Tabari, Muhammad ibn Jarir. Ta'rikh al-Rusul wa-l-Muluk (The History of al-Tabari), Vol. 34: Incipient Decline: The Caliphates of al-Wathiq, al-Mutawakkil, and al-Muntasir A.D. 841-863/A.H. 227-248. Trans. Joel L. Kraemer. SUNY Press, 1989. Primary source; the classical annalistic account of al-Mutawakkil's reign, including the ending of the mihna.",
+      "url": "https://www.sunypress.edu/p-369-the-history-of-al-tabari-vol-34.aspx",
+      "license": "Primary text in translation; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kennedy, Hugh. The Prophet and the Age of the Caliphates: The Islamic Near East from the Sixth to the Eleventh Century. 3rd ed. Routledge, 2016. (Academic survey covering al-Mutawakkil's reign and the ending of the mihna; general reference, specific claims not page-verified.)",
+      "url": "https://www.routledge.com/The-Prophet-and-the-Age-of-the-Caliphates-The-Islamic-Near-East-from-the-Sixth-to-the-Eleventh-Century/Kennedy/p/book/9780367366896",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "low"
+    },
+    {
+      "citation": "Zaman, Muhammad Qasim. Religion and Politics under the Early 'Abbasids: The Emergence of the Proto-Sunni Elite. Islamic History and Civilization 16. Brill, 1997. (Contemporary Muslim scholar; study of the caliphs' religious policies, including the caliphate's alignment with proto-Sunni positions and the end of the mihna.)",
+      "url": "https://archive.org/details/religionpolitics0000zama",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "musnad-ahmad",
+  "tradition": "islam",
+  "names": {
+    "primary": "Musnad Ahmad ibn Hanbal",
+    "original": "مسند أحمد بن حنبل",
+    "transliteration": "Musnad Aḥmad ibn Ḥanbal",
+    "aliases": [
+      "al-Musnad",
+      "The Musnad of Ahmad ibn Hanbal"
+    ]
+  },
+  "category": "hadith collection",
+  "date": {
+    "year": 850,
+    "note": "Attributed to Ahmad ibn Hanbal (d. 241/855), assembled in the first half of the ninth century and transmitted and supplemented by his son Abd Allah; the year given is approximate."
+  },
+  "summary": "The Musnad of Ahmad ibn Hanbal is a large ninth-century hadith collection attributed to Ahmad ibn Hanbal (d. 241/855), arranged by narrator (musnad) rather than by legal topic. It is one of the most extensive of the early collections.",
+  "description": "The Musnad of Ahmad ibn Hanbal is one of the largest of the early collections of prophetic hadith, attributed to the traditionist scholar Ahmad ibn Hanbal (d. 241/855) and transmitted, with supplements, by his son Abd Allah. It is arranged as a musnad, that is by the Companion who transmits each report, rather than by the topics of law used in the Sahih collections; this makes it a repository organized around chains of transmission. Because of its size and its comparatively inclusive selection, later scholars discussed the relative soundness of its contents, and it did not enter the pair of the two Sahihs, though it is counted among the major hadith works. Its compiler is also the emblematic figure of traditionist resistance during the Mihna, and in Sunni memory the Musnad and its compiler are closely bound to the traditionist (ahl al-hadith) cause.",
+  "editorial_notes": "This entry describes the Musnad and its musnad (by-narrator) arrangement, and notes its comparatively inclusive selection without adjudicating the soundness of its reports, per neutrality principles #1 and #4. The compiler is the existing dataset entity ahmad-ibn-hanbal (the task's shorthand 'ibn-hanbal' resolves to the file ahmad-ibn-hanbal.json), so authored_by targets ahmad-ibn-hanbal and resolves. The related_to mihna link records that the compiler was the Mihna's most famous resister; mihna is created in this same batch. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship on Ibn Hanbal (Christopher Melchert, Ahmad ibn Hanbal, Oneworld 2006), the Musnad itself as the primary text, and a contemporary Muslim scholar of hadith (Jonathan A. C. Brown, Hadith, Oneworld 2009). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note, and the role of the compiler's son Abd Allah in transmission is stated.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "ahmad-ibn-hanbal",
+      "note": "Attributed to Ahmad ibn Hanbal (d. 241/855) and transmitted with supplements by his son Abd Allah. Existing dataset entity."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-hadith",
+      "note": "The collection belongs to the traditionist (ahl al-hadith) project of preserving prophetic reports, with which its compiler is centrally identified."
+    },
+    {
+      "type": "related_to",
+      "target": "mihna",
+      "note": "The Musnad's compiler, Ahmad ibn Hanbal, was the most famous resister of the Mihna, imprisoned and flogged for refusing to affirm the created Qur'an."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Melchert, Christopher. Ahmad ibn Hanbal. Makers of the Muslim World. Oxford: Oneworld Publications, 2006. Academic biography of Ahmad ibn Hanbal treating his hadith work and the Musnad; the outside-scholarship lens.",
+      "url": "https://oneworld-publications.com/work/ahmad-ibn-hanbal/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ahmad ibn Hanbal. al-Musnad. Classical by-narrator (musnad) collection of prophetic hadith attributed to Ahmad ibn Hanbal (d. 241/855), transmitted with supplements by his son Abd Allah; the primary-text lens.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith and the early collections, including the musnad genre; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

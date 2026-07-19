@@ -1,0 +1,64 @@
+{
+  "id": "sahih-muslim",
+  "tradition": "islam",
+  "names": {
+    "primary": "Sahih Muslim",
+    "original": "صحيح مسلم",
+    "transliteration": "Ṣaḥīḥ Muslim",
+    "aliases": [
+      "al-Musnad al-Sahih",
+      "The Sahih of Muslim"
+    ]
+  },
+  "category": "hadith collection",
+  "date": {
+    "year": 860,
+    "note": "Compiled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875) in the mid-ninth century; the year given is approximate."
+  },
+  "summary": "Sahih Muslim is a ninth-century collection of prophetic hadith compiled by Muslim ibn al-Hajjaj (d. 261/875), restricted to reports its compiler judged sound (sahih). Together with Sahih al-Bukhari it forms the pair regarded in later Sunni tradition as the most authoritative of the hadith collections.",
+  "description": "Sahih Muslim is a collection of prophetic traditions (hadith) assembled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875), who like al-Bukhari confined it to reports he judged to meet a strict standard of soundness (sahih), drawn from a much larger circulating corpus. It is noted for grouping the variant chains and wordings of a given tradition together and for a substantial introduction on the science of hadith transmission. In later Sunni scholarship it is paired with Sahih al-Bukhari as the two Sahihs (al-Sahihayn), and the two are regarded as the most authoritative of the six major Sunni collections, though scholars have long discussed how their respective merits and arrangements compare. Modern scholarship examines the process by which this pair came to hold canonical authority within Sunnism.",
+  "editorial_notes": "This entry describes the collection and its standing within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The compiler is linked as a forward reference under the id muslim, as directed; the historical figure is Muslim ibn al-Hajjaj (d. 261/875). The pairing with Sahih al-Bukhari is recorded as a related_to link, reflecting the classical designation of the two Sahihs. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the collection itself as the primary text, and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009); Brown is a contemporary Muslim scholar of hadith, so his monograph fills both the academic and contemporary lenses while the collection supplies the classical primary text. No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "muslim",
+      "note": "Compiled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875). Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "sahih-al-bukhari",
+      "note": "The two are paired in Sunni tradition as the two Sahihs (al-Sahihayn), regarded as the most authoritative of the Sunni hadith collections."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-hadith",
+      "note": "The collection belongs to and is a central text of the traditionist (ahl al-hadith) project of preserving and sifting prophetic reports."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Brown, Jonathan. The Canonization of al-Bukhari and Muslim: The Formation and Function of the Sunni Hadith Canon. Islamic History and Civilization 69. Leiden and Boston: Brill, 2007. Academic monograph tracing how the two Sahihs became the authoritative Sunni hadith canon; the outside-scholarship lens.",
+      "url": "https://brill.com/display/title/12924",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Muslim ibn al-Hajjaj al-Naysaburi. al-Musnad al-Sahih (Sahih Muslim). Classical collection of prophetic hadith judged sound by its compiler (d. 261/875), noted for gathering variant chains of a tradition together; the primary-text lens.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith, its collection, and its authority; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

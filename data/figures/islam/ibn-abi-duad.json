@@ -1,0 +1,60 @@
+{
+  "id": "ibn-abi-duad",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibn Abi Du'ad",
+    "original": "أبو عبد الله أحمد بن أبي دؤاد الإيادي",
+    "transliteration": "Abū ʿAbd Allāh Aḥmad ibn Abī Duʾād al-Iyādī",
+    "aliases": ["Ahmad ibn Abi Du'ad", "Aḥmad ibn Abī Duʾād", "Ibn Abī Duʾād al-Iyādī"]
+  },
+  "roles": ["judge", "chief judge (qadi al-qudat)", "theologian"],
+  "summary": "Ibn Abi Du'ad (c. 776/777-854 CE) was an Abbasid chief judge (qadi al-qudat) associated with Mu'tazili theology who held great influence under the caliphs al-Mu'tasim and al-Wathiq. In that office he administered and was a leading agent of the mihna, the state inquiry that required officials and scholars to affirm that the Qur'an is created (khalq al-Qur'an); his standing declined late in life under al-Mutawakkil.",
+  "description": "Ibn Abi Du'ad, of the tribe of Iyad, was appointed chief judge of the Abbasid caliphate around 218/833 and remained a dominant figure at court through the reigns of al-Mu'tasim (r. 833-842) and al-Wathiq (r. 842-847). The classical and modern sources associate him with Mu'tazili theology and report that he sought to maintain the doctrine of the created Qur'an as the position enforced by the state. In his judicial role he administered and, according to the sources, was a driving force of the mihna, the inquiry begun under al-Ma'mun by which officials, judges, and traditionists were examined and required to profess that the Qur'an is created (khalq al-Qur'an); those who refused were liable to dismissal, loss of testimony, imprisonment, or corporal punishment. According to the traditional Sunni and Hanbali accounts, Ibn Abi Du'ad presided over aspects of the interrogation of Ahmad ibn Hanbal, who refused to affirm the doctrine and was flogged; the present entry reports this as an attributed historical narrative, transmitted largely through later traditionist memory, and does not treat every detail as independently established. The doctrine that the Qur'an is created was one the Mu'tazila and others held, and one that traditionist scholars such as Ibn Hanbal refused to affirm, maintaining that the Qur'an is the uncreated speech of God; this entry describes both positions as attributed to their holders and does not adjudicate between them (neutrality #1, #2, #7). The same sources also preserve a reputation for generosity and for interceding on behalf of others. After suffering a stroke in 233/848 he transferred the chief judgeship to his son Muhammad; under al-Mutawakkil, who moved away from the Mu'tazili policy and brought the mihna to an end, Ibn Abi Du'ad and his family fell from favour, and their property was confiscated before his death in 240/854.",
+  "editorial_notes": "Dates are given as c. 160/776-777 - 240/854, following the sources; his birth year is approximate. This entry describes Ibn Abi Du'ad's administration of the mihna and the doctrine of the created Qur'an as an attributed historical policy; it does not endorse that doctrine or the traditionist counter-position, and does not adjudicate the theological question (neutrality #1, #2, #7). Per neutrality #7 the entry does not vilify Ibn Abi Du'ad or the Mu'tazila, nor valorize their opponents; his role is stated as attributed historical fact and his reputation for generosity is noted alongside his role in the inquisition. His presiding over aspects of Ibn Hanbal's interrogation is transmitted chiefly through later Sunni and Hanbali sources that venerate Ibn Hanbal, and is reported here as an attributed narrative rather than as an independently verified event. The relation target 'ahmad-ibn-hanbal' is the existing id for Ibn Hanbal in this dataset; the brief refers to him as 'ibn-hanbal', one of his aliases. No source passage was read line by line, so no confidence is rated 'high'.",
+  "lifespan": {
+    "birth": 776,
+    "death": 854,
+    "note": "Born c. 160 AH (776/777 CE), death 240 AH (854 CE); chief judge c. 218/833 - 233/848. Birth year approximate."
+  },
+  "relations": [
+    { "type": "member_of", "target": "mutazila", "note": "Associated in the sources with Mu'tazili theology, which he is reported to have sought to maintain as the state's official position during his chief judgeship." },
+    { "type": "related_to", "target": "mihna", "note": "As chief judge he administered and, according to the sources, was a driving force of the mihna under al-Mu'tasim and al-Wathiq." },
+    { "type": "related_to", "target": "khalq-al-quran", "note": "The mihna he administered required affirmation that the Qur'an is created (khalq al-Qur'an); he is associated with upholding this doctrine." },
+    { "type": "related_to", "target": "al-mutasim", "note": "Chief judge and dominant court figure under al-Mu'tasim, during whose reign he administered the mihna." },
+    { "type": "related_to", "target": "ahmad-ibn-hanbal", "note": "Traditional Sunni and Hanbali accounts report that he presided over aspects of the interrogation of Ibn Hanbal, who refused to affirm the createdness of the Qur'an; stated here as attributed historical narrative." }
+  ],
+  "sources": [
+    {
+      "citation": "Melchert, Christopher. \"Religious Policies of the Caliphs from al-Mutawakkil to al-Muqtadir, A.H. 232-295/A.D. 847-908.\" Islamic Law and Society 3, no. 3 (1996): 316-342. (Peer-reviewed article on Abbasid judicial appointments and religious policy across the period of the end of the mihna; treats the chief judgeship and the shift under al-Mutawakkil. Specific claims here not page-verified.)",
+      "url": "https://www.jstor.org/stable/3399413",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nawas, John A. \"A Reexamination of Three Current Explanations for al-Ma'mun's Introduction of the Mihna.\" International Journal of Middle East Studies 26, no. 4 (1994): 615-629. (Peer-reviewed article on the mihna and the competing scholarly explanations for its introduction, the inquiry Ibn Abi Du'ad later administered.)",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/reexamination-of-three-current-explanations-for-almamuns-introduction-of-the-mihna/7DC51FB0E209B4FBEB7F5EF16B4CA230",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Khallikan, Shams al-Din Ahmad ibn Muhammad. Wafayat al-A'yan wa-Anba' Abna' al-Zaman (Ibn Khallikan's Biographical Dictionary). Trans. Baron Mac Guckin de Slane. Paris: Oriental Translation Fund, 1842-1871. Primary source; the classical biographical dictionary, which includes an entry on Ahmad ibn Abi Du'ad recording his career as chief judge, his role in the mihna, and his reputation for generosity. Relevant passage not read line-by-line.",
+      "url": "https://catalogue.nla.gov.au/catalog/910012",
+      "license": "Primary text in translation; public domain, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Zaman, Muhammad Qasim. Religion and Politics under the Early 'Abbasids: The Emergence of the Proto-Sunni Elite. Islamic History and Civilization 16. Brill, 1997. (Contemporary Muslim scholar; study of the early Abbasid caliphs' religious policies, the mihna, and the role of the judiciary and the scholars, including figures such as the chief judge.)",
+      "url": "https://archive.org/details/religionpolitics0000zama",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

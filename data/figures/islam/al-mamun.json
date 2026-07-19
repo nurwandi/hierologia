@@ -1,0 +1,58 @@
+{
+  "id": "al-mamun",
+  "tradition": "islam",
+  "names": {
+    "primary": "Al-Ma'mun",
+    "original": "أبو العباس عبد الله المأمون بن هارون الرشيد",
+    "transliteration": "Abū al-ʿAbbās ʿAbd Allāh al-Maʾmūn ibn Hārūn al-Rashīd",
+    "aliases": ["al-Ma'mun", "Abdallah al-Ma'mun", "al-Maʾmūn", "Abū al-ʿAbbās al-Maʾmūn"]
+  },
+  "roles": ["caliph", "patron of scholarship"],
+  "summary": "Al-Ma'mun (786-833 CE) was the seventh Abbasid caliph, reigning from 813 to 833. In 833 he issued the edict that inaugurated the mihna, requiring scholars and officials to affirm that the Qur'an is created (khalq al-Qur'an); his reign is also associated with Abbasid patronage of the translation of Greek scientific and philosophical works into Arabic.",
+  "description": "Al-Ma'mun came to the caliphate in 813 after a civil war with his brother al-Amin and ruled until his death in 833. The classical and modern sources associate his reign with intellectual patronage, including the translation of Greek, Syriac, and other scientific, medical, and philosophical works into Arabic, an activity later scholarship treats as part of a broader Abbasid translation movement rather than the project of a single caliph. In 218/833, in the final months of his reign, al-Ma'mun sent letters to his governor in Baghdad instructing that judges, traditionists, and officials be examined and made to profess that the Qur'an is created; those who refused were to be barred from office and testimony. This inquiry, later termed the mihna, was administered by state judges and continued under his successors. The doctrine the mihna enforced, that the Qur'an is created, is one that the Mu'tazila and some others held and that traditionist scholars such as Ahmad ibn Hanbal refused to affirm, maintaining that the Qur'an is the uncreated speech of God; the present entry describes both positions as attributed to their holders and does not adjudicate between them. Al-Ma'mun's motives are debated in modern scholarship: proposals include an assertion of caliphal religious authority over the scholars, alignment with Mu'tazili or rationalist theology, and pro-Alid and other political considerations. He died on campaign in 833 and was succeeded by his brother al-Mu'tasim.",
+  "editorial_notes": "Dates are given as 170/786 - 218/833 (reign 198/813 - 218/833), standard in the sources. This entry describes al-Ma'mun's imposition of the doctrine of the created Qur'an as an attributed historical policy; it does not endorse that doctrine, nor the traditionist counter-position, and does not adjudicate the theological question (neutrality #1, #2). The characterization of his reign as inaugurating a 'translation movement' is drawn from modern scholarship and is stated as such rather than as the achievement of one person. His motives for the mihna are genuinely disputed; the entry names the competing scholarly explanations (Nawas and others) without selecting one. The relation target 'ahmad-ibn-hanbal' is the existing id for Ibn Hanbal in this dataset (the brief lists it as 'ibn-hanbal', which is one of his aliases). No source passage was read line by line, so no confidence is rated 'high'.",
+  "lifespan": {
+    "birth": 786,
+    "death": 833,
+    "note": "170 AH - 218 AH; reigned 198/813 - 218/833. Commonly given as 786-833 CE."
+  },
+  "relations": [
+    { "type": "related_to", "target": "mihna", "note": "Inaugurated the mihna by his edict of 218/833 requiring officials and scholars to affirm the createdness of the Qur'an." },
+    { "type": "related_to", "target": "mutazila", "note": "The doctrine enforced under the mihna is associated with Mu'tazili theology; al-Ma'mun's degree of doctrinal alignment with the Mu'tazila is debated in the scholarship." },
+    { "type": "related_to", "target": "khalq-al-quran", "note": "The mihna he instituted required affirmation that the Qur'an is created (khalq al-Qur'an)." }
+  ],
+  "sources": [
+    {
+      "citation": "Cooperson, Michael. Classical Arabic Biography: The Heirs of the Prophets in the Age of al-Ma'mun. Cambridge University Press, 2000. (Academic study of al-Ma'mun's reign, including the mihna and the biographical traditions surrounding al-Ma'mun and Ibn Hanbal; specific claims here not page-verified.)",
+      "url": "https://www.cambridge.org/core/books/classical-arabic-biography/09BA76D4F13BB42DB8F7A22ADB053564",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nawas, John A. \"A Reexamination of Three Current Explanations for al-Ma'mun's Introduction of the Mihna.\" International Journal of Middle East Studies 26, no. 4 (1994): 615-629. (Peer-reviewed article surveying and testing the competing scholarly explanations for al-Ma'mun's motives.)",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/reexamination-of-three-current-explanations-for-almamuns-introduction-of-the-mihna/7DC51FB0E209B4FBEB7F5EF16B4CA230",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Al-Tabari, Muhammad ibn Jarir. Ta'rikh al-Rusul wa-l-Muluk (The History of al-Tabari), Vol. 32: The Reunification of the 'Abbasid Caliphate: The Caliphate of al-Ma'mun A.D. 813-833/A.H. 198-218. Trans. C. E. Bosworth. SUNY Press, 1987. Primary source; the classical annalistic account of al-Ma'mun's reign, including the mihna letters of 218/833.",
+      "url": "https://www.sunypress.edu/Books/T/The-History-of-al-abari-Volume-XXXII",
+      "license": "Primary text in translation; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Zaman, Muhammad Qasim. Religion and Politics under the Early 'Abbasids: The Emergence of the Proto-Sunni Elite. Islamic History and Civilization 16. Brill, 1997. (Contemporary Muslim scholar; study of the caliphs' religious policies and their relations with the scholars across this period.)",
+      "url": "https://archive.org/details/religionpolitics0000zama",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
