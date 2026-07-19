@@ -10,7 +10,8 @@
   <a href="https://nurwandi.github.io/hierologia/"><img src="https://img.shields.io/badge/demo-live-2ea44f" alt="Live demo"></a>
   <a href="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml"><img src="https://github.com/nurwandi/hierologia/actions/workflows/pages.yml/badge.svg" alt="Deploy"></a>
   <a href="https://doi.org/10.5281/zenodo.21436391"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21436391.svg" alt="DOI"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-blue" alt="Data license: CC BY 4.0"></a>
+  <a href="LICENSE-CODE"><img src="https://img.shields.io/badge/code-MIT-yellow" alt="Code license: MIT"></a>
 </p>
 
 *Hierologia*, from Greek *hierós* (“sacred”) and *lógos*, is the study of the
@@ -96,11 +97,10 @@ python3 scripts/validate.py     # 0 errors required (also the CI gate)
 
 ## License
 
-The code (`scripts/`, `schema/`, `web/`) is released under the
-[MIT License](LICENSE). The dataset (`data/` and the API payloads built from it) is
-released under the
-[Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE-DATA):
-you may share and adapt it, including commercially, provided you give appropriate
-credit and indicate changes. Please attribute via the dataset DOI
+The dataset (`data/` and the API payloads built from it) is released under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE): you
+may share and adapt it, including commercially, provided you give appropriate credit
+and indicate changes. Please attribute via the dataset DOI
 ([10.5281/zenodo.21436391](https://doi.org/10.5281/zenodo.21436391)) and
-[`CITATION.cff`](CITATION.cff).
+[`CITATION.cff`](CITATION.cff). The code (`scripts/`, `schema/`, `web/`) is released
+under the [MIT License](LICENSE-CODE).
