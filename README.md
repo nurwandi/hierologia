@@ -96,6 +96,11 @@ python3 scripts/validate.py     # 0 errors required (also the CI gate)
 
 ## License
 
-Code is released under the [MIT License](LICENSE). The dataset is intended for
-open scholarly reuse with attribution; a formal data license (e.g. CC BY 4.0) is
-being finalized.
+The code (`scripts/`, `schema/`, `web/`) is released under the
+[MIT License](LICENSE). The dataset (`data/` and the API payloads built from it) is
+released under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE-DATA):
+you may share and adapt it, including commercially, provided you give appropriate
+credit and indicate changes. Please attribute via the dataset DOI
+([10.5281/zenodo.21436391](https://doi.org/10.5281/zenodo.21436391)) and
+[`CITATION.cff`](CITATION.cff).

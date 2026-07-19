@@ -16,7 +16,9 @@ authors:
     alias: nurwandi
 repository-code: "https://github.com/nurwandi/hierologia"
 url: "https://nurwandi.github.io/hierologia/"
-license: MIT
+license:
+  - MIT
+  - CC-BY-4.0
 keywords:
   - Islamic theology
   - kalam
