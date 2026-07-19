@@ -1,0 +1,61 @@
+{
+  "id": "rashidun",
+  "tradition": "islam",
+  "names": {
+    "primary": "Rashidun Caliphate",
+    "original": "الخلافة الراشدة",
+    "transliteration": "al-Khilāfa al-Rāshida",
+    "aliases": ["The Rightly Guided Caliphate", "al-Khulafa' al-Rashidun", "The Rightly Guided Caliphs", "the four caliphs", "the patriarchal caliphate"]
+  },
+  "category": "caliphate",
+  "location": "Medina and the early Islamic empire (Arabia, the Fertile Crescent, Egypt, and Iran)",
+  "date": {
+    "year": 632,
+    "end_year": 661,
+    "note": "From the death of the Prophet Muhammad in 11/632, which occasioned the succession of Abu Bakr, to the death of Ali ibn Abi Talib in 40/661, after which authority passed to the Umayyad dynasty under Mu'awiya. The four caliphates are conventionally dated: Abu Bakr (632-634), Umar ibn al-Khattab (634-644), Uthman ibn Affan (644-656), and Ali ibn Abi Talib (656-661)."
+  },
+  "summary": "The Rashidun Caliphate is the period of the first four successors to the Prophet Muhammad (Abu Bakr, Umar, Uthman, and Ali, 632-661 CE), whom Sunni tradition honors as al-Khulafa' al-Rashidun, the 'rightly guided' caliphs. It saw the consolidation of the Muslim community after the Prophet's death and rapid territorial expansion, and it ended in civil strife (the first fitna); Sunni and Shi'i traditions evaluate its early caliphs very differently.",
+  "description": "The term Rashidun ('rightly guided') is, in Sunni usage, an honorific for the first four caliphs who led the Muslim community in the roughly thirty years after the Prophet Muhammad's death in 632 CE: Abu Bakr (r. 632-634), Umar ibn al-Khattab (r. 634-644), Uthman ibn Affan (r. 644-656), and Ali ibn Abi Talib (r. 656-661). Each accession is remembered as having been constituted differently: Abu Bakr through the deliberation and allegiance (bay'a) at the gathering of Saqifat Bani Sa'ida; Umar through Abu Bakr's designation; Uthman through a small consultative council (shura) appointed by the dying Umar; and Ali through allegiance amid the turmoil following Uthman's killing. Under Abu Bakr the community was reconsolidated in the wars against the seceding tribes (the ridda), and under Umar and Uthman the armies expanded rapidly out of Arabia into the Sasanian and Byzantine domains, taking the Fertile Crescent, Egypt, and much of Iran, while administrative institutions (the register of stipends, garrison towns, and a standardized codex of the Qur'an under Uthman) took shape. The period closed in internal conflict: the killing of Uthman in 656 and the ensuing first civil war (fitna), including the Battle of the Camel and the Battle of Siffin, during Ali's caliphate, which ended with his assassination in 661 and the passage of authority to the Umayyad Mu'awiya. In Sunni memory this era, and especially the persons of the four caliphs, became a normative reference point, and a widely transmitted prophetic report designating the caliphate of the 'rightly guided' successors underpins the honorific and the model of legitimate, non-dynastic succession associated with it. The Shi'i tradition evaluates the period differently: it holds that Ali was the rightful successor by the Prophet's designation and regards the caliphates of the first three, Abu Bakr, Umar, and Uthman, as a usurpation of his right, while venerating Ali himself; the two traditions therefore share the historical outline of the period but assess its legitimacy and its leading figures in sharply divergent ways.",
+  "editorial_notes": "This event/period entry is written as the historical anchor for the khilafa concept, which names the Rashidun as the paradigm of the caliphate, and is read alongside baya and shura, the mechanisms by which the four accessions are remembered as constituted. Per neutrality principles #1, #2, and #7 the descriptor 'rightly guided' (rashidun) is presented as an attributed Sunni valuation and honorific, not as an editorial finding: the summary and description mark it as 'in Sunni usage' and 'in Sunni memory', and the divergent Shi'i evaluation (that Ali was the designated successor and the first three caliphates a usurpation of his right) is attributed and stated without ranking either tradition's judgment. The shared factual outline (the sequence of four caliphs, the ridda wars, the conquests, the first fitna, the dates) is given as the common historical frame both traditions recognize, while the assessment of legitimacy is left to the traditions. The prophetic report underpinning the honorific is described as widely transmitted in Sunni tradition, not adjudicated as authentic. Relation targets: khilafa and ali are existing entries; abu-bakr, umar, and uthman are forward references (figures not yet written), permitted as dangling targets and flagged as such. Per neutrality principles #8 and #9 the sources triangulate three lenses: outside academic scholarship on the early caliphate (Madelung, The Succession to Muhammad, CUP 1997, and Afsaruddin, The First Muslims, Oneworld 2008, which specifically treats the history and later memory of the Rashidun), the tradition's own classical primary chronicle (al-Tabari's Ta'rikh, in the SUNY translation, vol. 10, covering the succession of Abu Bakr and the ridda), and a contemporary Muslim scholar of the period presenting both Sunni and Shi'i perspectives (Ayoub, The Crisis of Muslim History, Oneworld 2003). Madelung is noted here as an academic study that argues in defense of Ali's claim, which is itself relevant to representing the contested evaluation of the period; it is cited as scholarship, not as endorsement. No encyclopedias or tertiary sources are cited. All four were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "relations": [
+    { "type": "related_to", "target": "khilafa", "note": "The Rashidun caliphates are, in Sunni thought, the paradigm and normative model of the caliphate (khilafa); the concept entry names this period as its exemplar." },
+    { "type": "participant", "target": "abu-bakr", "note": "Abu Bakr al-Siddiq, first of the four caliphs (r. 632-634), whose accession by allegiance at Saqifa began the period. Forward reference to a figure entry not yet written." },
+    { "type": "participant", "target": "umar", "note": "Umar ibn al-Khattab, second caliph (r. 634-644), under whom the major conquests and administrative institutions developed; appointed the shura that chose his successor. Forward reference to a figure entry not yet written." },
+    { "type": "participant", "target": "uthman", "note": "Uthman ibn Affan, third caliph (r. 644-656), chosen by the consultative council, under whom the Qur'anic codex was standardized; his killing precipitated the first fitna. Forward reference to a figure entry not yet written." },
+    { "type": "participant", "target": "ali", "note": "Ali ibn Abi Talib, fourth caliph in Sunni reckoning (r. 656-661) and, in the Shi'i tradition, the first divinely designated imam and rightful successor; his caliphate ended in civil war and his assassination. Existing figure entry." }
+  ],
+  "sources": [
+    {
+      "citation": "Madelung, Wilferd. The Succession to Muhammad: A Study of the Early Caliphate. Cambridge: Cambridge University Press, 1997. A major academic study of the conflict over leadership after the Prophet's death, tracing it through the reigns of the four 'rightly guided' caliphs to the first civil war; the outside-scholarship lens. The work is noted for arguing in defense of Ali's claim to the succession, itself relevant to the contested evaluation of the period. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/9780521646963",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Afsaruddin, Asma. The First Muslims: History and Memory. Oxford: Oneworld Publications, 2008. An academic study of the earliest Muslims, especially the Rashidun caliphs and the Companions, and of how their era has been remembered and invoked in later and contemporary times; directly treats the 'rightly guided' designation as remembered valuation. The outside-scholarship lens (author of Muslim background writing academically). Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-first-muslims/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 10: The Conquest of Arabia. The Riddah Wars A.D. 632-633/A.H. 11, trans. Fred M. Donner. Albany: State University of New York Press, 1993. The classical Arabic chronicle whose narrative records the succession of Abu Bakr at Saqifa and the ridda wars that opened the Rashidun period; the primary-text lens. Relevant passages not read line by line for this draft.",
+      "url": "https://www.sunypress.edu/p-1411-the-history-of-al-tabari-vol-10.aspx",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oxford: Oneworld Publications, 2003. A contemporary Muslim scholar's account of the era of the first four caliphs, from Abu Bakr to Ali, presenting both Sunni and Shi'i perspectives on the succession and the disputes (the Battles of the Camel and Siffin) that led to the schism; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

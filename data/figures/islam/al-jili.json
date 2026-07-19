@@ -1,0 +1,57 @@
+{
+  "id": "al-jili",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abd al-Karim al-Jili",
+    "original": "عبد الكريم الجيلي",
+    "transliteration": "ʿAbd al-Karīm ibn Ibrāhīm al-Jīlī",
+    "aliases": ["al-Jili", "al-Jilani", "Abd al-Karim ibn Ibrahim al-Jili", "Qu/b al-Din al-Jili"]
+  },
+  "roles": ["sufi", "metaphysician"],
+  "summary": "Abd al-Karim al-Jili (b. c. 767/1365, d. disputed, reported c. 811-832 AH / c. 1408-1428 CE) was a Sufi metaphysician of the school of Ibn Arabi, active mainly in Zabid in Yemen. He is best known for his treatise al-Insan al-Kamil (The Perfect Human), which gave the doctrine of the Perfect Human its most sustained and systematic treatment.",
+  "description": "Abd al-Karim al-Jili worked within the speculative, metaphysical current of Sufism that developed from Ibn Arabi (d. 1240) and his commentators. He was active mainly in Zabid, a center of Islamic learning and Sufi activity in Yemen, in the later 8th/14th and early 9th/15th centuries. His name is variously vocalized (al-Jili, al-Jilani), and his biography is thinly documented, so several dates in his life, including his death, are reported only approximately.\n\nHis principal work, al-Insan al-Kamil fi ma'rifat al-awakhir wa-l-awa'il ('The Perfect Human in the Knowledge of Things Last and First'), systematized and named the doctrine of al-insan al-kamil, the Perfect Human, drawn from Ibn Arabi and the Akbarian tradition: the fully realized human being as the microcosm that comprehensively reflects the divine names and serves as the link between God and the cosmos, identified above all with the reality of Muhammad (al-haqiqa al-muhammadiyya). Modern scholarship, from Reynold Nicholson's 1921 study onward and more recently in Fitzroy Morrissey's monograph, has traced al-Jili's development of the idea and his debt to Ibn Arabi, while noting his own contributions, including his treatment of divine transcendence and immanence and his symbolic exegesis of the Qur'anic letters. Because his thought belongs to the same current as wahdat al-wujud, it participates in the wider contestation surrounding that tradition; this entry describes his position and reception without adjudicating those disputes.",
+  "editorial_notes": "Scope: al-Jili as a Sufi metaphysician of the Akbarian (Ibn Arabi) school and as the author of al-Insan al-Kamil. His death date is disputed and given as a range (born c. 767/1365; died c. 811-832 AH / c. 1408-1428 CE, with reference works commonly giving c. 1424); this follows the range already used in the al-insan-al-kamil entry, which flags 826/1422 and 832/1428 as both attested. Note a geographical qualification: Nicholson and most reference literature place al-Jili's activity in Zabid, Yemen, whereas Lo Polito's thesis situates him within a Persianate cultural context; the entry follows the majority placement (Zabid) and notes his origin name (al-Jili/al-Jilani) is itself contested. Relations: articulated al-insan-al-kamil, related_to al-insan-al-kamil, influenced_by ibn-arabi (al-insan-al-kamil has an entry; ibn-arabi is a dangling forward reference, which is permitted). English-language scholarship specifically on al-Jili is comparatively thin, as the sources themselves observe (Morrissey and Lo Polito both note his relative neglect since Nicholson); the entry is honest about this and does not inflate the record. Sources triangulate three lenses per neutrality principle #8: (a) modern Western academic studies (Nicholson, Studies in Islamic Mysticism, ch. II 'The Perfect Man'; and Morrissey, Sufism and the Perfect Human, Routledge 2020, a recent dedicated monograph); (b) the primary text, al-Jili's own al-Insan al-Kamil; and (c) Lo Polito's University of Birmingham PhD thesis (2010), a modern academic study devoted to al-Jili, included as corroborating. All were web-verified as existing works on al-Jili; none was read line-by-line in this pass, so confidence is medium. The thesis author's own tradition/background is not established, so it is not presented as the contemporary-Muslim lens; it is cited on scholarly merit per neutrality principle #8. No citation here is fabricated; where scholarship is limited, only genuinely existing works are cited and confidence is set accordingly.",
+  "lifespan": {
+    "birth": 1365,
+    "death": 1424,
+    "note": "b. c. 767/1365; d. disputed, reported c. 811-832 AH / c. 1408-1428 CE, with 826/1422 and 832/1428 both attested and reference works commonly giving c. 1424 (used here as a representative value). Dates approximate; his biography is thinly documented."
+  },
+  "relations": [
+    { "type": "articulated", "target": "al-insan-al-kamil", "note": "His treatise al-Insan al-Kamil gave the doctrine of the Perfect Human its most sustained and systematic treatment." },
+    { "type": "related_to", "target": "al-insan-al-kamil", "note": "Al-Jili is the figure most closely identified with the developed form of the Perfect Human doctrine." },
+    { "type": "influenced_by", "target": "ibn-arabi", "note": "Al-Jili worked within the Akbarian school; scholarship traces his doctrine of the Perfect Human to Ibn Arabi and his commentators (dangling forward reference)." }
+  ],
+  "sources": [
+    {
+      "citation": "Nicholson, Reynold A. Studies in Islamic Mysticism. Cambridge: Cambridge University Press, 1921. Chapter II, 'The Perfect Man' (pp. 77-142), studies al-Jili's life and his mystical philosophy of the Insan al-Kamil and traces his debt to Ibn Arabi. Available in full on the Internet Archive.",
+      "url": "https://archive.org/details/studiesinislamyst00nichuoft",
+      "license": "Public domain (1921); cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Jili, Abd al-Karim. al-Insan al-Kamil fi ma'rifat al-awakhir wa-l-awa'il (The Perfect Human in the Knowledge of Things Last and First), early 9th/15th c. Classical primary source: al-Jili's systematic treatment of the Perfect Human doctrine. Relevant passages not read line-by-line.",
+      "license": "Public-domain classical Arabic text; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Morrissey, Fitzroy. Sufism and the Perfect Human: From Ibn 'Arabi to al-Jili. Routledge Sufi Series 24. London and New York: Routledge, 2020. A recent scholarly monograph, based on close reading of the Arabic and Persian primary sources, on the development of the Perfect Human doctrine from Ibn Arabi to al-Jili.",
+      "url": "https://www.routledge.com/Sufism-and-the-Perfect-Human-From-Ibn-Arabi-to-al-Jili/Morrissey/p/book/9781032174273",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lo Polito, Nicholas. Abd Al-Karim Al-Jili: Tawhid, Transcendence and Immanence. PhD thesis, University of Birmingham, 2010. A modern academic study devoted to al-Jili's thought, his historical placement, and his doctrine of God's transcendence and immanence; includes an edition of his al-Kahf wa-l-Raqim. Cited as corroborating scholarship.",
+      "url": "https://etheses.bham.ac.uk/1193/",
+      "license": "Open-access doctoral thesis; cited for reference, not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

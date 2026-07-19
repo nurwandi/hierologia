@@ -1,0 +1,50 @@
+{
+  "id": "kitab-al-tawhid",
+  "tradition": "islam",
+  "names": {
+    "primary": "Kitab al-Tawhid",
+    "original": "كتاب التوحيد",
+    "transliteration": "Kitāb al-Tawḥīd",
+    "aliases": ["Kitab at-Tawhid", "The Book of Monotheism", "The Book of the Oneness of God", "Book of Tawheed", "Kitab al-Tawhid alladhi huwa haqq Allah 'ala al-'abid"]
+  },
+  "category": "treatise",
+  "date": {
+    "year": 1745,
+    "note": "Composed by Muhammad ibn 'Abd al-Wahhab (d. 1206/1792) in the mid-18th century, during the formative decades of the Najdi revival; the precise composition date is not securely established and is given here as approximate."
+  },
+  "summary": "Kitab al-Tawhid (The Book of the Oneness of God) is the foundational theological treatise of Muhammad ibn 'Abd al-Wahhab (d. 1206/1792) and the Najdi reform movement. Organized around Qur'anic verses and hadith, it argues that worship in all its forms must be reserved for God alone and treats devotion directed to created intermediaries (for example intercession at graves) as shirk, associating partners with God.",
+  "description": "Kitab al-Tawhid ('The Book of the Oneness of God', its fuller title indicating tawhid as 'the right of God over His servants') is a short treatise by Muhammad ibn 'Abd al-Wahhab, the Najdi Hanbali scholar whose revival movement grounded the modern Salafi-Athari tradition. The work is composed chiefly of Qur'anic verses and prophetic hadith arranged into thematic chapters, each headed by a proof-text and followed by the reports and points the author draws from it, so that its argument is presented as an assemblage of scriptural evidence rather than as speculative reasoning. Its central aim, on its own terms, is to establish that worship in all its forms (supplication, sacrifice, vows, oaths, reliance, seeking aid) is owed to God alone, and to warn against directing any act of worship to created things. The treatise identifies as shirk (associating partners with God) a range of practices the author held to be widespread among the Muslims of his region: seeking intercession at graves and tombs, vowing to or invoking saints and the dead, veneration of trees and stones, amulets, and recourse to soothsayers, holding that such acts nullify the worshipper's tawhid whatever their verbal profession of God's oneness. The book thus centres the category later systematized as tawhid al-uluhiyya (the oneness of worship) within the threefold division of tawhid characteristic of the Salafi-Athari tradition, and presupposes that acknowledgement of God's lordship (tawhid al-rububiyya) does not by itself constitute true monotheism. Kitab al-Tawhid remains a foundational text of the movement, taught with a large commentary literature (including works by 'Abd al-Rahman al-Sa'di and Salih al-Fawzan) and widely translated. Its classification of specific devotional practices as shirk is a central point of contention: critics, including Sunni scholars of other schools, dispute both the classification and the takfir (charge of unbelief) some read it to license, while the movement and its heirs present the work as a recovery of the pure monotheism of the Qur'an and the earliest generations. Those assessments are reported here as attributed positions and are not adjudicated.",
+  "editorial_notes": "Per neutrality principles #1, #2, and #7, this entry presents Kitab al-Tawhid's aims on its own terms, as the work and its tradition understand them: that worship must be reserved for God alone and that certain devotional practices constitute shirk. That thesis, and the work's characterization of the practices it targets as idolatry, are reported as the work's attributed position, not endorsed by the editor. Critiques of the work (the dispute over its classification of practices as shirk, and over the takfir it is read to license) are attributed to its critics, including Sunni scholars of other schools, rather than asserted; the entry does not rule that the work is correct or that its critics are correct. The placement of the work within the threefold division of tawhid, centring tawhid al-uluhiyya and presupposing tawhid al-rububiyya, is described as the Salafi-Athari framing and is kept consistent with the tawhid-al-uluhiyya, tawhid-al-rububiyya, and muhammad-ibn-abd-al-wahhab entries. This entry closes the kitab-al-tawhid dangling target held by the muhammad-ibn-abd-al-wahhab figure entry. The composition date (c. 1740s) is approximate and qualified in the date note; the author's death year (1206/1792) is as commonly reported. Relation targets muhammad-ibn-abd-al-wahhab, tawhid-al-uluhiyya, and salafiyya are existing entries; tawhid-al-rububiyya is authored in the same pass. The label 'Wahhabism' is applied from outside and by critics and is avoided here in favour of the existing school id salafiyya, consistent with the corpus. Per neutrality principle #8 the sources triangulate three lenses: an outside academic history of the movement and its foundational treatise (Commins, The Wahhabi Mission and Saudi Arabia, I.B. Tauris 2006); the primary text itself (Ibn 'Abd al-Wahhab, Kitab al-Tawhid); and a contemporary Salafi scholarly voice presenting the work on its own terms (Salih al-Fawzan's Concise Commentary on the Book of Tawhid). All sources were web-verified as existing and on-topic; none was read line by line in this pass, so confidence is set to medium.",
+  "relations": [
+    { "type": "authored_by", "target": "muhammad-ibn-abd-al-wahhab", "note": "Written by Muhammad ibn 'Abd al-Wahhab (d. 1206/1792), the Najdi Hanbali scholar whose revival grounded the modern Salafi-Athari tradition." },
+    { "type": "related_to", "target": "tawhid-al-uluhiyya", "note": "The work's organizing concern is the reservation of worship to God alone, later systematized as tawhid al-uluhiyya (the oneness of worship) within the threefold division of tawhid." },
+    { "type": "related_to", "target": "tawhid-al-rububiyya", "note": "The work presupposes that acknowledgement of God's exclusive lordship (tawhid al-rububiyya) does not by itself constitute true monotheism, since the decisive test on its framing is whether worship too is reserved for God." },
+    { "type": "related_to", "target": "salafiyya", "note": "A foundational text of the Najdi revival and the modern Salafi-Athari tradition; the movement is termed Wahhabiyya by others, a label its adherents reject, hence the salafiyya id is used." }
+  ],
+  "sources": [
+    {
+      "citation": "Commins, David. The Wahhabi Mission and Saudi Arabia. Library of Modern Middle East Studies 50. London: I.B. Tauris, 2006. A modern academic history of the movement that treats Ibn 'Abd al-Wahhab's treatise on monotheism (Kitab al-Tawhid), its scriptural method, its condemnation of practices it deems shirk, and the debate over the movement's character; the outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://archive.org/details/wahhabimissionsa0000comm_v9y1",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn 'Abd al-Wahhab, Muhammad (d. 1206/1792). Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The primary text itself: a treatise assembling Qur'anic verses and hadith into thematic chapters, arguing that worship in all its forms is owed to God alone and classing devotion directed to created intermediaries (intercession at graves, vows to saints, amulets, and the like) as shirk. Classical primary source; not read line by line for this draft.",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Fawzan, Salih ibn Fawzan. Concise Commentary on the Book of Tawhid (a commentary on Muhammad ibn 'Abd al-Wahhab's Kitab al-Tawhid), trans. from the Arabic. Riyadh: Al-Maiman Publishing House, 2009. A contemporary Salafi scholar's chapter-by-chapter exposition of Kitab al-Tawhid, presenting the work's aims (the exclusive worship of God and the warning against shirk) on its own terms; the contemporary Salafi-scholarly lens. Relevant passages not read line-by-line for this draft.",
+      "url": "https://archive.org/details/ConciseCommentaryOnTheBookOfTawhidbySalehAl-fawzan",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

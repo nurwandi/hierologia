@@ -1,0 +1,50 @@
+{
+  "id": "baqa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Baqa",
+    "original": "بقاء",
+    "transliteration": "baqāʾ",
+    "aliases": ["Subsistence", "Abiding", "Abiding in God", "Baqa' bi-Allah", "subsistence in God", "permanence"]
+  },
+  "category": "mysticism",
+  "summary": "Baqa is the Sufi doctrine of subsistence or abiding in God, the state in which the wayfarer, having passed through the annihilation of the ego-self (fana'), returns to ordinary awareness while remaining established in the consciousness of the divine reality. It is classically treated as the counterpart of fana' and, in the standard ordering, as the state that follows it.",
+  "description": "In the technical vocabulary of Sufism (tasawwuf), baqa' denotes the subsistence or abiding of the servant in God that is paired with fana', the passing away of the ego-self. The manuals treat the two as a single movement in two moments: the effacement (fana') of the wayfarer's own attributes, acts, or consciousness of self, and the subsistence (baqa') in which what passes away is replaced by an abiding in God, so that the servant returns to the duties of the religious law and to ordinary awareness while remaining established in the divine presence. Sufi authors commonly gloss the pair through the contrast of what is annihilated and what abides: blameworthy human attributes pass away and praiseworthy ones abide; the servant's consciousness of his own acts passes away and his witnessing of God as their true agent abides.\n\nThe pairing is often read in the light of the primordial covenant (mithaq) of Qur'an 7:172, in which the souls testified to God's lordship before creation: in the 'sober' (sahw) framing associated with al-Junayd al-Baghdadi (d. c. 910), fana' is the passing away of the wayfarer's separate self-existence and baqa' is the abiding in the state the soul knew at that covenant, now recovered and made to endure. Classical manuals such as al-Qushayri's Risala set out fana' and baqa' among the states and stations of the path, and later commentators in the school of Ibn Arabi related baqa' to their wider metaphysics of the divine names. Whether baqa' amounts to a subsistence of the servant alongside God, an abiding of God's attributes in the servant, or something the tradition guards from the language of union (ittihad) is a contested point among Sufi authors and their critics; this entry reports the positions as attributed to their holders and does not adjudicate them.",
+  "editorial_notes": "Scope: baqa' as a technical term of Sufi psychology and as the counterpart of fana' (which has its own entry). The entry presents the fana'/baqa' pairing, the 'sober' (sahw) reading tied to the primordial covenant (mithaq), and the language of what is annihilated versus what abides as descriptive schemes used by the tradition and by scholarship, not as endorsements, per neutrality principles #2, #4 and #7. Whether baqa' entails union (ittihad) with God, or is precisely the tradition's guard against that language, is the contested point between Sufi authors and their critics; the entry attributes the positions and leaves the dispute unadjudicated. The attribution of the 'sober' covenant-based reading to al-Junayd follows the tradition's own and the scholarly literature's characterizations. Relations: related_to fana, sufism, al-junayd (fana and al-junayd have entries; sufism may be dangling, which is permitted). Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph on the technical vocabulary of the path (Chittick, SUNY 1989, which treats annihilation and subsistence as a paired opposition actualized together); (b) the tradition's own classical primary manual, al-Qushayri's Risala, which sets out fana'/baqa' among the states and stations; and (c) a contemporary Muslim scholar (Nasr, Garden of Truth). All three were web-verified as existing works that treat this material; none was read line-by-line in this pass, so confidence is medium.",
+  "relations": [
+    { "type": "related_to", "target": "fana", "note": "Baqa' (subsistence) is the classical counterpart of fana' (annihilation); in the standard ordering it is the state that follows and completes it." },
+    { "type": "part_of", "target": "sufism", "note": "A technical term of the Sufi path (tasawwuf), naming the abiding in God that follows the effacement of the ego-self." },
+    { "type": "related_to", "target": "al-junayd", "note": "Associated with al-Junayd's 'sober' (sahw) framing, in which baqa' is read as the abiding in the state of the primordial covenant (mithaq), recovered after fana'." }
+  ],
+  "historical_period": {
+    "start": 850,
+    "note": "The vocabulary of fana'/baqa' crystallized in the formative Sufism of 3rd/9th-century Baghdad and Khurasan (al-Junayd, al-Bistami) and was systematized in the manuals of the 5th/11th century (al-Qushayri) and after."
+  },
+  "sources": [
+    {
+      "citation": "Chittick, William C. The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination. Albany, NY: State University of New York Press, 1989. Treats annihilation (fana') and subsistence (baqa') as a paired opposition that must be actualized together within Ibn 'Arabi's technical vocabulary.",
+      "url": "https://sunypress.edu/Books/T/The-Sufi-Path-of-Knowledge",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Qushayri, Abu 'l-Qasim. al-Risala al-Qushayriyya fi 'ilm al-tasawwuf (5th/11th c.), trans. Alexander D. Knysh as Al-Qushayri's Epistle on Sufism. Reading: Garnet Publishing, 2007. Classical Sufi manual expounding the states and stations, including fana' and baqa'.",
+      "url": "https://www.garnetpublishing.co.uk/product/al-qushayris-epistle-on-sufism-al-risala-al-qushayriyya-fi-ilm-al-tasawwuf/",
+      "license": "Primary source in scholarly translation; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. The Garden of Truth: The Vision and Promise of Sufism, Islam's Mystical Tradition. New York: HarperOne, 2007. A contemporary Muslim scholar's exposition of Sufism, treating the effacement of the self and the abiding in God that follows; added as the modern-Muslim lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/gardenoftruthvis0000nasr",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

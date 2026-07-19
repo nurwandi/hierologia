@@ -1,0 +1,73 @@
+{
+  "id": "bukhari",
+  "tradition": "islam",
+  "names": {
+    "primary": "Muhammad ibn Isma'il al-Bukhari",
+    "original": "محمد بن إسماعيل البخاري",
+    "transliteration": "Muḥammad ibn Ismāʿīl al-Bukhārī",
+    "aliases": [
+      "al-Bukhari",
+      "Abu Abd Allah al-Bukhari",
+      "Imam al-Bukhari"
+    ]
+  },
+  "roles": ["traditionist", "hadith critic", "jurist"],
+  "summary": "Muhammad ibn Isma'il al-Bukhari (810–870 CE) was a traditionist (muhaddith) and hadith critic, best known as the compiler of the collection al-Jami' al-Sahih (Sahih al-Bukhari). In later Sunni tradition his collection, paired with that of Muslim ibn al-Hajjaj, is regarded as the most authoritative of the hadith collections.",
+  "description": "Al-Bukhari was born in Bukhara in Transoxiana and travelled widely across the eastern Islamic lands in pursuit of prophetic reports (hadith), studying with a large number of transmitters. He is remembered above all for compiling al-Jami' al-Sahih, a topically arranged collection restricted to reports he judged to meet a strict standard of soundness (sahih), selected from a far larger circulating corpus. He belongs to the generation of hadith critics who developed and applied the disciplines of transmitter criticism (al-jarh wa-l-taʿdil) and the evaluation of chains of transmission (isnad), and modern scholarship situates him within the traditionist (ahl al-hadith) current that made the sifting and preservation of prophetic reports central to Sunni scholarship. Beyond assembling reports, al-Bukhari arranged his collection under headings of ritual, law, creed, and conduct, and his chapter headings (tarajim) have been read as expressing juristic and doctrinal positions. In later Sunni scholarship his collection came to be treated, together with Sahih Muslim, as the pair known as the two Sahihs (al-Sahihayn), regarded as second in authority only to the Qur'an among books; the process by which it reached that canonical standing is a subject of modern study.",
+  "editorial_notes": "Dates are given as 194/810 – 256/870, standard in the biographical tradition. This entry describes al-Bukhari's activity and the standing of his collection within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The relation to sahih-al-bukhari records authorship (that work links back to this figure via authored_by); the articulated link to ahl-al-hadith reflects his role in the traditionist project of transmitter criticism and preservation, following Lucas. The three lenses per neutrality principles #8 and #9 are covered: outside academic scholarship (Lucas, Constructive Critics, Brill 2004; Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the primary text (al-Bukhari's own al-Jami' al-Sahih), and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009; Brown is a contemporary Muslim scholar of hadith, so his monograph also serves the academic lens). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line; the same Brown works carry the same medium rating as in the related work entries. No dangling targets: ahl-al-hadith and sahih-al-bukhari both exist in the dataset.",
+  "lifespan": {
+    "birth": 810,
+    "death": 870,
+    "note": "194 AH – 256 AH; commonly given as 810–870 CE. Born in Bukhara; the birth year is approximate in the sources."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sahih-al-bukhari",
+      "note": "Compiler of al-Jami' al-Sahih (Sahih al-Bukhari); that work links back to this figure via authored_by."
+    },
+    {
+      "type": "articulated",
+      "target": "ahl-al-hadith",
+      "note": "A central figure of the traditionist (ahl al-hadith) current, applying transmitter criticism and isnad evaluation to sift prophetic reports."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-hadith",
+      "note": "His collection is a central text of the traditionist project of preserving and evaluating prophetic reports."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Lucas, Scott C. Constructive Critics, Hadith Literature, and the Articulation of Sunni Islam: The Legacy of the Generation of Ibn Sa'd, Ibn Ma'in, and Ibn Hanbal. Islamic History and Civilization 51. Leiden: Brill, 2004. Academic monograph on the hadith critics and the traditionist articulation of Sunni Islam, treating al-Bukhari's criticism and legal method; the outside-scholarship lens.",
+      "url": "https://brill.com/view/title/8727",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan. The Canonization of al-Bukhari and Muslim: The Formation and Function of the Sunni Hadith Canon. Islamic History and Civilization 69. Leiden and Boston: Brill, 2007. Academic monograph tracing how the two Sahihs became the authoritative Sunni hadith canon; the outside-scholarship lens.",
+      "url": "https://brill.com/display/title/12924",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Bukhari, Muhammad ibn Isma'il. al-Jami' al-Sahih (Sahih al-Bukhari). Classical topically-arranged collection of prophetic hadith judged sound by its compiler (d. 256/870); the primary-text lens for his compiling and critical activity.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith, its collection, and its authority, including al-Bukhari; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

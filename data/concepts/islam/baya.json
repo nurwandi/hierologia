@@ -1,0 +1,58 @@
+{
+  "id": "baya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Bay'a",
+    "original": "البيعة",
+    "transliteration": "al-bayʿa",
+    "aliases": ["Bay'ah", "Bayah", "Baya", "pledge of allegiance", "oath of allegiance", "the allegiance"]
+  },
+  "category": "leadership and authority",
+  "summary": "The bay'a is the pledge of allegiance by which, in mainstream Sunni political theory, a caliph's authority is constituted: those qualified to bind and loose (ahl al-hall wa-l-'aqd) tender it to the candidate, and the wider community follows, so that the office is held to rest on a contract of mutual obligation between ruler and ruled rather than on a divinely designated succession. The term also names the general oath of obedience given to an established ruler.",
+  "description": "Bay'a (from the root b-y-', 'to sell' or 'to conclude a transaction', by extension 'to strike a bargain by clasping hands') denotes the act of pledging allegiance to a leader. In the Sunni juristic theory of the caliphate it is one of the principal mechanisms by which the imamate is validly constituted: the persons qualified to bind and loose (ahl al-hall wa-l-'aqd), understood as the community's leading scholars, notables, and representatives, extend the bay'a to a candidate, after which the general body of Muslims is held to owe the ruler obedience in what is lawful. On this construction the bay'a functions as a contract ('aqd) creating reciprocal duties: the ruler undertakes to uphold religion and administer the community's affairs, and the community undertakes obedience. Classical statements of the theory, such as al-Mawardi's al-Ahkam al-Sultaniyya, treat the contract of the imamate as concluded either by this allegiance of the electors or by the designation (nass or 'ahd) of a reigning caliph, and debate how many electors are required for a valid contract. Scholarship distinguishes the special or 'contracting' bay'a of the qualified electors, which is held to establish the office, from the general bay'a of obedience subsequently rendered by the population; the two are related but not identical acts. Historically the gesture and its vocabulary are attested from the earliest community, and modern studies of accession ceremonial trace how the bay'a was performed, ritualized, and recorded across the Rashidun, Umayyad, and Abbasid periods, sometimes as a genuine act of selection and sometimes as a ratification of a succession already arranged. Sunni thought thus locates a large part of the caliph's legitimacy in this conferral by the community or its representatives, which distinguishes the Sunni account from the Shi'i doctrine of the imamate, on which post-prophetic authority passes by divine designation (nass) through the Prophet's family and is not constituted by any human pledge, though the Shi'i tradition also employs the vocabulary of bay'a in other senses.",
+  "editorial_notes": "This concept is written as the counterpart to khilafa, which references it as one of the mechanisms constituting the caliph's authority, and to shura and rashidun, with which it is read together. Per neutrality principles #1, #2, and #7 the entry presents the Sunni contractual conception of the bay'a on its own terms (a conferral of authority by the qualified electors and then the community, creating reciprocal ruler-community obligations) and attributes the contrasting Shi'i doctrine of divinely designated succession rather than adjudicating between them; phrasing such as 'is held to rest on', 'on this construction', and 'held to owe' marks attributed positions, not editorial claims. The distinction between the special contracting bay'a of ahl al-hall wa-l-'aqd and the general bay'a of obedience is drawn from the scholarship and the juristic sources and is flagged so the concept is not flattened. ID SPELLING: the concept's Arabic name is bay'a (the apostrophe rendering the 'ayn), but the schema id pattern ^[a-z0-9]+(-[a-z0-9]+)*$ forbids apostrophes, so the schema-valid id is baya (filename baya.json), with the display name 'Bay'a' preserved in names.primary. The khilafa entry, which references this concept, has been updated to target baya so its relation resolves to this entry. Per neutrality principles #8 and #9 the sources triangulate three lenses: outside academic scholarship on early caliphal authority and on accession ritual (Crone and Hinds, God's Caliph, CUP 1986; Marsham, Rituals of Islamic Monarchy, EUP 2009), the tradition's own classical juristic primary text (al-Mawardi, al-Ahkam al-Sultaniyya), and a contemporary Muslim scholar of early Islamic political history (Ayoub, The Crisis of Muslim History, Oneworld 2003). No encyclopedias or tertiary sources are cited. All four were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "relations": [
+    { "type": "related_to", "target": "khilafa", "note": "The bay'a is one of the principal means by which the caliphate (khilafa) is constituted in Sunni theory; the caliph's authority is held to rest in large part on this conferral by the qualified electors and the community." },
+    { "type": "related_to", "target": "shura", "note": "The allegiance of the qualified electors is closely linked to consultation (shura): the deliberation by which a candidate is selected precedes and issues in the contracting bay'a." },
+    { "type": "related_to", "target": "rashidun", "note": "The pledges of allegiance to the first four caliphs (632-661 CE) are, in Sunni memory, the paradigm cases of the bay'a constituting the office; target is a forward reference to the event/period entry." },
+    { "type": "contrasts_with", "target": "imama", "note": "The Sunni conception of authority conferred by human allegiance is set against the Shi'i doctrine of the imamate, on which post-prophetic authority passes by divine designation (nass) and is not constituted by any pledge. The link states a comparable question (how legitimate authority arises after the Prophet) and the differing answers, without ranking them." }
+  ],
+  "historical_period": {
+    "start": 632,
+    "note": "The gesture and its vocabulary are attested from the earliest community following the Prophet's death in 632 CE (11 AH) and were formalized in the juristic theory of the caliphate in the classical period; the practice continued through the Umayyad, Abbasid, and later caliphates. No end date is given, as the concept remains in use in later Islamic political thought."
+  },
+  "sources": [
+    {
+      "citation": "Crone, Patricia, and Martin Hinds. God's Caliph: Religious Authority in the First Centuries of Islam. University of Cambridge Oriental Publications 37. Cambridge: Cambridge University Press, 1986. A modern academic study of religious and political authority in early Islam, treating how caliphal legitimacy and allegiance were understood in the formative period; the outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/core/books/gods-caliph/1F8CA4D35B362EF97EE20004F53763B2",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Marsham, Andrew. Rituals of Islamic Monarchy: Accession and Succession in the First Muslim Empire. Edinburgh Studies in Classical Islamic History and Culture. Edinburgh: Edinburgh University Press, 2009. The first comprehensive academic account of Islamic accession ceremonial, treating the bay'a (its Qur'anic vocabulary, its performance, and its documentary record) across the Rashidun, Umayyad, and Abbasid periods; the outside-scholarship lens on ritual practice. Specific claims not page-verified for this draft.",
+      "url": "https://edinburghuniversitypress.com/book-rituals-of-islamic-monarchy.html",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Mawardi, Abu al-Hasan Ali ibn Muhammad (d. 450/1058). al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya (The Ordinances of Government). Trans. Wafaa H. Wahba. Reading: Garnet Publishing, 1996. The classical Shafi'i juristic statement treating the contract ('aqd) of the imamate: its conclusion by the allegiance (bay'a) of the electors or by designation, the number of electors required, and the reciprocal duties of ruler and community. Classical primary source; relevant chapters not read line by line for this draft.",
+      "url": "https://www.garnetpublishing.co.uk/product/the-ordinances-of-government-al-ahkam-as-sultaniyyah-wat-wilayat-al-dinniyya/",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. The Crisis of Muslim History: Religion and Politics in Early Islam. Oxford: Oneworld Publications, 2003. A contemporary Muslim scholar's account of the succession and politics of the earliest community from Abu Bakr to Ali, drawing on Sunni and Shi'i primary sources; treats the allegiance to the first caliphs and the disputes it occasioned. The contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://oneworld-publications.com/work/the-crisis-of-muslim-history/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

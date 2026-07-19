@@ -1,0 +1,56 @@
+{
+  "id": "malik-ibn-anas",
+  "tradition": "islam",
+  "names": {
+    "primary": "Malik ibn Anas",
+    "original": "مالك بن أنس",
+    "transliteration": "Mālik ibn Anas ibn Mālik al-Aṣbaḥī",
+    "aliases": [
+      "Imam Malik",
+      "Abu Abd Allah Malik",
+      "Malik of Medina"
+    ]
+  },
+  "roles": ["jurist", "traditionist"],
+  "summary": "Malik ibn Anas (711–795 CE) was a jurist and traditionist of Medina and the eponym of the Maliki school of law. He is best known as the author of the Muwatta, an early compilation of prophetic reports, Companion reports, and the settled practice (amal) of Medina, arranged by topics of law.",
+  "description": "Malik ibn Anas lived and taught in Medina, where he transmitted prophetic reports and issued legal rulings, and the school of law that bears his name (the Maliki madhhab) traces its authority to him and his students. He is the author of the Muwatta, one of the earliest surviving works of Islamic legal literature, which gathers prophetic hadith together with reports from the Companions and their successors and with the settled practice (amal) of the people of Medina, which Malik treated as a source of law in its own right. Modern scholarship draws on the Muwatta as evidence for the formation of Islamic law and for the way early jurists derived rulings from the Qur'an and from Medinan practice, and it studies Malik as a figure whose legal method gave a distinctive weight to the living tradition of his city. His juristic activity places him among the traditionists who transmitted and evaluated prophetic reports, while his incorporation of Medinan practice distinguishes his method from collections restricted to prophetic hadith alone. The eponymous Maliki school became one of the major Sunni schools of law and spread especially in North and West Africa and al-Andalus.",
+  "editorial_notes": "Dates are given as 93/711 – 179/795, standard in the biographical tradition, with the birth year approximate. This entry describes Malik's activity and legal method, attributing the reliance on Medinan practice (amal) to Malik rather than endorsing it, per neutrality principles #1 and #4. The relation to muwatta-malik records authorship (that work links back to this figure via authored_by). The eponymy of the Maliki school is described in prose; no related_to link to a maliki school id is added because no such entity exists in the dataset yet (the school directory has hanafiyya, hanbaliyya, ashariyya, maturidiyya and others, but not maliki), following the same choice recorded in the muwatta-malik entry. The three lenses per neutrality principles #8 and #9 are covered: outside academic scholarship (Dutton, The Origins of Islamic Law, Curzon 1999), the primary text (Malik's own Muwatta), and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line; the same Dutton and Brown works carry the same medium rating as in the muwatta-malik entry. No dangling targets: muwatta-malik exists in the dataset.",
+  "lifespan": {
+    "birth": 711,
+    "death": 795,
+    "note": "c. 93 AH – 179 AH; commonly given as c. 711–795 CE. The birth year is approximate in the sources."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "muwatta-malik",
+      "note": "Author of the Muwatta; that work links back to this figure via authored_by."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Dutton, Yasin. The Origins of Islamic Law: The Qur'an, the Muwatta' and Madinan 'Amal. London: Curzon Press, 1999. Academic study of the Muwatta and Malik's derivation of law from the Qur'an and Medinan practice; the outside-scholarship lens.",
+      "url": "https://www.routledge.com/The-Origins-of-Islamic-Law-The-Quran-the-Muwatta-and-Madinan-Amal/Dutton/p/book/9780700716692",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Malik ibn Anas. al-Muwatta'. Classical Medinan compilation (d. 179/795) of prophetic hadith, Companion reports, and Medinan legal practice (amal), arranged by topic; the primary-text lens for Malik's transmission and legal method.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith and the early collections, including the Muwatta and Malik; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

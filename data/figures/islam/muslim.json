@@ -1,0 +1,78 @@
+{
+  "id": "muslim",
+  "tradition": "islam",
+  "names": {
+    "primary": "Muslim ibn al-Hajjaj al-Naysaburi",
+    "original": "مسلم بن الحجاج النيسابوري",
+    "transliteration": "Muslim ibn al-Ḥajjāj al-Naysābūrī",
+    "aliases": [
+      "Muslim ibn al-Hajjaj",
+      "Abu al-Husayn Muslim",
+      "Imam Muslim"
+    ]
+  },
+  "roles": ["traditionist", "hadith critic"],
+  "summary": "Muslim ibn al-Hajjaj al-Naysaburi (c. 820–875 CE) was a traditionist (muhaddith) and hadith critic, best known as the compiler of the collection al-Musnad al-Sahih (Sahih Muslim). In later Sunni tradition his collection is paired with that of al-Bukhari as the two Sahihs, regarded as the most authoritative of the hadith collections.",
+  "description": "Muslim ibn al-Hajjaj was associated with Nishapur (Naysabur) in Khurasan and, like al-Bukhari, travelled in pursuit of prophetic reports and studied with many transmitters, among them al-Bukhari himself according to the biographical tradition. He is remembered above all for compiling al-Musnad al-Sahih, a collection restricted to reports he judged to meet a strict standard of soundness (sahih), which is noted for gathering the variant chains and wordings of a given tradition together and for a substantial introduction on the science of hadith transmission. He belongs to the generation of hadith critics who developed the disciplines of transmitter criticism and isnad evaluation, and modern scholarship places him within the traditionist (ahl al-hadith) current. In later Sunni scholarship his collection is paired with Sahih al-Bukhari as the two Sahihs (al-Sahihayn), regarded as the most authoritative of the six major Sunni collections, and the relative merits and arrangements of the two have long been discussed within that tradition. Modern scholarship examines the process by which this pair came to hold canonical authority within Sunnism.",
+  "editorial_notes": "Dates are given as c. 204/820 – 261/875, with the birth year approximate in the biographical tradition (204 AH corresponds to c. 819/820 CE; variants of 202 and 206 AH are also reported). This entry describes Muslim's activity and the standing of his collection within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The relation to sahih-muslim records authorship (that work links back via authored_by); the contemporary_of and related_to links to bukhari reflect the classical designation of the two Sahihs and the report that Muslim studied with al-Bukhari, stated as attributed tradition rather than as an independently established fact. The three lenses per neutrality principles #8 and #9 are covered: outside academic scholarship (Brown, The Canonization of al-Bukhari and Muslim, Brill 2007; Lucas, Constructive Critics, Brill 2004), the primary text (Muslim's own al-Musnad al-Sahih), and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009; Brown is a contemporary Muslim scholar of hadith, so his monograph also serves the academic lens). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line; the same Brown works carry the same medium rating as in the related work entries. No dangling targets: sahih-muslim and bukhari both exist in the dataset.",
+  "lifespan": {
+    "birth": 820,
+    "death": 875,
+    "note": "c. 204 AH – 261 AH; commonly given as c. 820–875 CE (204 AH corresponds to c. 819/820 CE). The birth year is approximate in the sources, with variants of 202 and 206 AH also reported."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sahih-muslim",
+      "note": "Compiler of al-Musnad al-Sahih (Sahih Muslim); that work links back to this figure via authored_by."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "bukhari",
+      "note": "A contemporary of al-Bukhari; the biographical tradition reports that Muslim studied with him. Their two collections are paired in Sunni tradition as the two Sahihs (al-Sahihayn)."
+    },
+    {
+      "type": "related_to",
+      "target": "bukhari",
+      "note": "The two compilers' Sahihs are paired in Sunni tradition as the most authoritative of the hadith collections."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-hadith",
+      "note": "A central figure of the traditionist (ahl al-hadith) current of preserving and evaluating prophetic reports."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Brown, Jonathan. The Canonization of al-Bukhari and Muslim: The Formation and Function of the Sunni Hadith Canon. Islamic History and Civilization 69. Leiden and Boston: Brill, 2007. Academic monograph tracing how the two Sahihs became the authoritative Sunni hadith canon; the outside-scholarship lens.",
+      "url": "https://brill.com/display/title/12924",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lucas, Scott C. Constructive Critics, Hadith Literature, and the Articulation of Sunni Islam: The Legacy of the Generation of Ibn Sa'd, Ibn Ma'in, and Ibn Hanbal. Islamic History and Civilization 51. Leiden: Brill, 2004. Academic monograph on the hadith critics and the traditionist articulation of Sunni Islam; the outside-scholarship lens.",
+      "url": "https://brill.com/view/title/8727",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Muslim ibn al-Hajjaj al-Naysaburi. al-Musnad al-Sahih (Sahih Muslim). Classical collection of prophetic hadith judged sound by its compiler (d. 261/875), noted for gathering variant chains of a tradition together and for its introduction on hadith transmission; the primary-text lens.",
+      "license": "Public-domain classical text; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Hadith: Muhammad's Legacy in the Medieval and Modern World. Foundations of Islam. Oxford: Oneworld Publications, 2009. A contemporary Muslim scholar's survey of hadith, its collection, and its authority, including Muslim ibn al-Hajjaj; the contemporary Muslim scholar lens.",
+      "url": "https://oneworld-publications.com/work/hadith/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

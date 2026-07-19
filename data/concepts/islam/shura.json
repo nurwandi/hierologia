@@ -1,0 +1,50 @@
+{
+  "id": "shura",
+  "tradition": "islam",
+  "names": {
+    "primary": "Shura",
+    "original": "الشورى",
+    "transliteration": "al-shūrā",
+    "aliases": ["Shurah", "consultation", "mutual consultation", "the consultation"]
+  },
+  "category": "leadership and authority",
+  "summary": "Shura is consultation, treated in Sunni political and ethical thought as both a value grounded in the Qur'an (notably Q 3:159 and 42:38) and a mechanism of collective decision-making, invoked in classical and modern discussions of how leaders are chosen and how the community's affairs are conducted. Its scope, whether it binds the ruler or merely advises, and its relation to representative government are matters of ongoing debate among Muslim scholars.",
+  "description": "Shura (from the root sh-w-r, 'to consult' or 'to extract', as honey from a comb) names the practice and value of consultation. Two Qur'anic passages anchor its status: Q 3:159, which directs the Prophet to consult the believers in affairs (wa-shawirhum fi l-amr), and Q 42:38, which praises the believers as those whose affair is conducted by mutual consultation among them (amruhum shura baynahum), a verse that also names the sura in which it appears (Surat al-Shura). On the strength of these texts, and of reports that the early community deliberated over major decisions, Sunni thought came to treat consultation as a governing value in the conduct of the community's affairs and, in particular, as bound up with the selection of a leader: the deliberation of those qualified to bind and loose (ahl al-hall wa-l-'aqd) issues in the pledge of allegiance (bay'a) that constitutes the caliph's authority. In Sunni memory the second caliph Umar's appointment of a small consultative council (shura) to choose his successor is a paradigm instance, and the term acquired this technical sense of an electoral body alongside its broader meaning. Classical jurists and ethicists discussed whether consultation obliges the ruler to follow the counsel he receives or only to seek it, a question left without a single settled answer. In the modern period shura has become a central term in Muslim political thought: many contemporary scholars read it as a scriptural warrant for participatory, accountable, or representative government and debate its relation to democracy, while others resist equating it with Western democratic forms and stress its distinctively Islamic frame. The concept is thus at once classical and contested, invoked across a wide range of positions on how legitimate authority is exercised.",
+  "editorial_notes": "This concept is written alongside khilafa, baya, and rashidun, which reference consultation as a mechanism in the constitution of the caliph's authority. Per neutrality principles #1 and #2 the entry describes shura as a value and mechanism and attributes the live disagreements (whether consultation binds or merely advises the ruler; whether it warrants or is distinct from democratic government) to their holders without adjudicating; phrasing such as 'came to treat', 'many contemporary scholars read it as', and 'others resist' marks attributed positions. The two Qur'anic anchor verses (Q 3:159 and 42:38) are cited by reference as the textual basis the tradition itself invokes, not as the editor's proof of any doctrine. The technical sense of shura as an electoral council (Umar's six-man shura) is distinguished from the broader value so the concept is not flattened to one meaning. Per neutrality principles #8 and #9 the sources triangulate three lenses: outside academic scholarship on Islamic political thought (Crone, God's Rule, Columbia 2004), the tradition's own classical juristic primary text (al-Mawardi, al-Ahkam al-Sultaniyya), and a contemporary Muslim scholar treating shura directly (al-Raysuni, Al-Shura: The Qur'anic Principle of Consultation, IIIT 2011). The al-Raysuni volume is a modern Muslim scholarly treatment (published by the International Institute of Islamic Thought, a scholarly press, and translated by Nancy Roberts), not an encyclopedia or tertiary work. No encyclopedias or tertiary sources are cited. All three were web-verified to exist and be on-topic; none was read line by line in this pass, so confidence is medium throughout.",
+  "relations": [
+    { "type": "related_to", "target": "khilafa", "note": "Consultation (shura) is one of the mechanisms Sunni theory invokes for constituting the caliph's authority; the deliberation of the qualified electors issues in the caliph's selection." },
+    { "type": "related_to", "target": "baya", "note": "Shura (the deliberation by which a candidate is chosen) precedes and issues in the pledge of allegiance (bay'a) that constitutes the office; the two are linked stages in the Sunni account of legitimate succession." },
+    { "type": "related_to", "target": "rashidun", "note": "The consultative selection of the early caliphs, especially the six-man council (shura) that Umar appointed to choose his successor, is a paradigm instance of the concept in Sunni memory; target is a forward reference to the event/period entry." }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic verses grounding shura (Q 3:159, 42:38) belong to the period of the Prophet's mission (c. 610-632 CE); the concept was elaborated in the classical juristic and ethical literature and has been extensively reworked in modern Muslim political thought. No end date is given, as the concept remains actively debated."
+  },
+  "sources": [
+    {
+      "citation": "Crone, Patricia. God's Rule: Government and Islam. Six Centuries of Medieval Islamic Political Thought. New York: Columbia University Press, 2004. A modern academic reconstruction of Islamic political thought treating the theory of the caliphate/imamate, the qualified electors, and the mechanisms (including consultation and allegiance) by which authority was constituted; the outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "url": "https://cup.columbia.edu/book/gods-rule-government-and-islam/9780231132909/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Mawardi, Abu al-Hasan Ali ibn Muhammad (d. 450/1058). al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya (The Ordinances of Government). Trans. Wafaa H. Wahba. Reading: Garnet Publishing, 1996. The classical Shafi'i juristic statement of the caliphate, treating the electors (ahl al-hall wa-l-'aqd) and the deliberation and agreement by which an imam is chosen; the classical primary-text lens. Relevant chapters not read line by line for this draft.",
+      "url": "https://www.garnetpublishing.co.uk/product/the-ordinances-of-government-al-ahkam-as-sultaniyyah-wat-wilayat-al-dinniyya/",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Raysuni, Ahmad. Al-Shura: The Qur'anic Principle of Consultation. Trans. Nancy Roberts. Herndon, VA: International Institute of Islamic Thought, 2011. A contemporary Muslim scholar's monograph specifically on shura: its Qur'anic basis, its scope and bindingness, its history, and its relation to modern participatory government; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "url": "https://archive.org/details/al-shura-the-quranic-principle-of-consultation-ahmad-al-raysuni",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
