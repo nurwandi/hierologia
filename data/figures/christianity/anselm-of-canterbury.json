@@ -1,0 +1,51 @@
+{
+  "id": "anselm-of-canterbury",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Anselm of Canterbury",
+    "original": "Anselmus Cantuariensis",
+    "transliteration": "Anselmus Cantuariensis",
+    "aliases": ["Saint Anselm", "Anselm of Canterbury", "Anselm of Aosta", "Anselm of Bec", "Doctor Magnificus"]
+  },
+  "roles": ["theologian", "philosopher", "archbishop", "monk"],
+  "summary": "Anselm of Canterbury (1033-1109 CE) was an early scholastic theologian and Archbishop of Canterbury, known for the argument for the existence of God in the Proslogion, later called the ontological argument, and for the satisfaction theory of the atonement in Cur Deus Homo (Why God Became Man).",
+  "description": "Anselm was born at Aosta in northern Italy and entered the Benedictine abbey of Bec in Normandy, where he became prior and abbot and taught before being made Archbishop of Canterbury in 1093. He is commonly described as a father or founding figure of scholasticism, and his program is summarized in the phrase fides quaerens intellectum, faith seeking understanding: he held that faith comes first and reason then seeks to understand what is believed. In the Monologion and Proslogion he offered arguments for the existence and nature of God, including the argument of the Proslogion that God is that than which nothing greater can be conceived, and that such a being must exist not only in the understanding but in reality; this argument was later termed the ontological argument. In Cur Deus Homo (Why God Became Man) he set out the satisfaction theory of the atonement, arguing that human sin incurs a debt to God's honour that humanity cannot repay and God alone need not, so that salvation requires one who is both God and man, whose voluntary death offers the satisfaction due. His method and his atonement theology shaped the later medieval scholastic tradition. As Archbishop of Canterbury he was also drawn into conflicts with the English kings over the relation of church and crown, going into exile more than once during his tenure.",
+  "editorial_notes": "Birth and death years (1033-1109 CE) are as standardly reported. Anselm is described here on Christian terms, per neutrality principle #6. The influenced aquinas edge is qualified: Anselm's method (faith seeking understanding) and his satisfaction theory of the atonement shaped the later scholastic tradition within which Aquinas worked, but Aquinas explicitly rejected Anselm's ontological argument (Summa Theologiae I, q. 2, a. 1, holding that God's existence is not self-evident to us), so the relation note names the shaping of the tradition and flags the rejection rather than implying that Aquinas accepted the argument. The member_of scholasticism edge reflects the common scholarly description of Anselm as a founding figure of scholasticism. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic biography (Southern, Cambridge University Press), (b) Anselm's own primary texts, the Proslogion and Cur Deus Homo, in the Major Works edition (Davies and Evans, Oxford University Press), and (c) a contemporary scholarly study of his thought (Visser and Williams, Oxford University Press). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and peer-reviewed journal reviews, but the relevant passages were not read line by line. This entry closes the anselm-of-canterbury forward reference.",
+  "lifespan": {
+    "birth": 1033,
+    "death": 1109,
+    "note": "1033-1109 CE; born at Aosta, Archbishop of Canterbury from 1093."
+  },
+  "relations": [
+    { "type": "articulated", "target": "atonement", "note": "Set out the satisfaction theory of the atonement in Cur Deus Homo, arguing that salvation requires one who is both God and man to render the satisfaction due for human sin; reported as his attributed position." },
+    { "type": "member_of", "target": "scholasticism", "note": "Commonly described as a father or founding figure of scholasticism; his method of faith seeking understanding shaped the medieval tradition." },
+    { "type": "influenced", "target": "aquinas", "note": "His method and satisfaction theology shaped the later scholastic tradition within which Aquinas worked; note that Aquinas rejected Anselm's ontological argument (Summa Theologiae I, q. 2, a. 1), so the influence concerns the broader program, not that argument." }
+  ],
+  "sources": [
+    {
+      "citation": "Southern, R. W. Saint Anselm: A Portrait in a Landscape. Cambridge: Cambridge University Press, 1990.",
+      "url": "https://www.cambridge.org/9780521438186",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Anselm of Canterbury. The Major Works. Edited by Brian Davies and G. R. Evans. Oxford World's Classics. Oxford: Oxford University Press, 1998. Primary source: contains the Proslogion and Cur Deus Homo, Anselm's own arguments for the existence of God and for the atonement.",
+      "url": "https://global.oup.com/academic/product/anselm-of-canterbury-the-major-works-9780199540082",
+      "license": "Proprietary edition of classical texts; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Visser, Sandra, and Thomas Williams. Anselm. Great Medieval Thinkers. Oxford and New York: Oxford University Press, 2009.",
+      "url": "https://global.oup.com/academic/product/anselm-9780195309393",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "eastern-orthodoxy",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Eastern Orthodoxy",
+    "original": "Orthodoxia",
+    "transliteration": "orthodoxia",
+    "aliases": ["Eastern Orthodox Church", "Orthodox Church", "the Orthodox Church", "Byzantine Orthodoxy", "Chalcedonian Orthodoxy", "the Christian East"]
+  },
+  "summary": "Eastern Orthodoxy is the communion of Eastern Christian churches that hold the doctrinal authority of the seven ecumenical councils and the patristic tradition, teach salvation as theosis (deification), and reject the Western addition of the Filioque to the creed and the claim of papal supremacy; it became estranged from the Latin West in the schism conventionally dated to 1054.",
+  "description": "Eastern Orthodoxy designates the family of autocephalous Eastern Christian churches (among them the churches of Constantinople, Alexandria, Antioch, Jerusalem, Russia, and others) that understand themselves as continuous with the church of the apostles and the Fathers. As Kallistos Ware describes it, Orthodoxy sees itself above all as the church of the seven ecumenical councils, from Nicaea (325) to the Second Council of Nicaea (787), and grounds doctrine in the conciliar and patristic tradition rather than in a single teaching office. Central to Orthodox theology is theosis, the teaching that the goal of salvation is the human person's transforming union with God through participation in the divine energies, a theme developed by the Fathers and later by the Palamite tradition; this account is stated as Orthodoxy's own. Orthodoxy holds the Chalcedonian definition of Christ (451) and thereby distinguishes itself from the non-Chalcedonian Eastern churches. It rejects two Western developments in particular: the Filioque, the insertion of the phrase 'and the Son' into the Nicene-Constantinopolitan Creed's clause on the procession of the Holy Spirit, which the East regarded as an unauthorized alteration of a conciliar creed and, for many Orthodox, a doctrinal error; and the claim of universal jurisdiction and supremacy for the bishop of Rome, as against the Orthodox model of a communion of churches with the see of Rome accorded a primacy of honor. The estrangement of the Greek East and Latin West, long in developing, is conventionally marked by the mutual excommunications of 1054 and hardened after the sack of Constantinople in 1204. This entry describes Eastern Orthodoxy on its own terms and does not adjudicate the disputes between it and the Latin West.",
+  "editorial_notes": "This entry describes Eastern Orthodoxy neutrally and takes no side in the East-West disputes over the Filioque, papal supremacy, or the schism; these are live positions held by their adherents and are not adjudicated here (neutrality #6, #2). Theosis and the rejection of the Filioque and papal supremacy are stated as Orthodox teaching and self-understanding, attributed, not endorsed. The '1054' date is the conventional marker for a long process of estrangement, and the split_from note records that the excommunications were mutual; framing the East as having 'split from' Rome is one convention and the reciprocity is flagged so as not to make either see the baseline. Relation targets patristics and council-of-chalcedon exist; roman-catholicism is created in this same batch; the held concept theosis is a forward reference not yet an entry.",
+  "period": {
+    "founded": 33,
+    "note": "Approximate. Orthodoxy understands itself as continuous with the apostolic and patristic church; as a communion distinctly estranged from the Latin West, the conventional marker is the schism of 1054, hardened after 1204. The communion remains active worldwide, so no active_until is asserted. Any single founding year reflects the tradition's self-understanding and scholarly convention."
+  },
+  "relations": [
+    { "type": "related_to", "target": "patristics", "note": "Orthodoxy grounds its theology in the conciliar and patristic tradition of the Greek and Eastern Fathers, which it regards as a continuing and authoritative witness rather than a closed past." },
+    { "type": "split_from", "target": "roman-catholicism", "note": "The Greek East and Latin West became estranged over the Filioque, papal claims, and other matters; the schism is conventionally dated to the MUTUAL excommunications of 1054 (Cardinal Humbert and Patriarch Cerularius) and hardened after 1204. The split was reciprocal, and neither see is treated here as the baseline from which the other departed; its causes and legitimacy are understood differently by each side and are not adjudicated." },
+    { "type": "holds", "target": "theosis", "note": "Orthodoxy teaches theosis, the deification or transforming union of the human person with God through the divine energies, as the goal of salvation; forward reference, not yet a separate entry." },
+    { "type": "related_to", "target": "council-of-chalcedon", "note": "Orthodoxy receives Chalcedon (451) and its two-natures definition, and is thereby a Chalcedonian communion, distinct from the non-Chalcedonian Eastern churches." }
+  ],
+  "sources": [
+    {
+      "citation": "Ware, Timothy (Bishop Kallistos of Diokleia). The Orthodox Church. New ed. London: Penguin, 1993. Standard introduction to Orthodoxy by a contemporary Orthodox scholar and bishop; covers the church of the seven councils, the Filioque dispute, the schism of 1054, papal claims, and theosis. Straddles the academic and contemporary-Orthodox lenses.",
+      "url": "https://www.penguin.co.uk/books/34260/the-orthodox-church-by-ware-timothy/9780140146561",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Nicene-Constantinopolitan Creed (First Council of Constantinople, 381) and the canons of the seven ecumenical councils (Nicaea I 325 to Nicaea II 787). Primary conciliar and patristic corpus. The creed's clause on the procession of the Holy Spirit is the text the Filioque dispute concerns; the councils define the doctrinal authority Orthodoxy receives. Cited as primary classical texts.",
+      "url": "https://www.ccel.org/ccel/schaff/npnf214.html",
+      "license": "Historical texts in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lossky, Vladimir. The Mystical Theology of the Eastern Church. Trans. members of the Fellowship of St Alban and St Sergius. Crestwood, NY: St Vladimir's Seminary Press, 1976 (French orig. 1944). Book by a contemporary Orthodox theologian of the neo-patristic revival, articulating theosis and the divine energies and the Eastern critique of the Filioque.",
+      "url": "https://svspress.com/mystical-theology-of-the-eastern-church-the/",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

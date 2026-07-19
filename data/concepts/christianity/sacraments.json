@@ -1,0 +1,75 @@
+{
+  "id": "sacraments",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Sacraments",
+    "original": "sacramentum / μυστήριον",
+    "transliteration": "sacramentum",
+    "aliases": [
+      "sacrament",
+      "ordinances",
+      "mysteries",
+      "means of grace"
+    ]
+  },
+  "category": "sacramental-theology",
+  "summary": "The sacraments are the ritual acts that Christian traditions regard as means or signs of divine grace, classically defined as outward signs of an inward grace instituted by Christ. Traditions differ on their number and theology: the Roman Catholic and Eastern Orthodox churches count seven, while most Protestant churches recognize two, baptism and the eucharist.",
+  "description": "A sacrament (Latin sacramentum, rendering the Greek mysterion, 'mystery') is, in the classic Western definition associated with Augustine and developed by the scholastics, an outward and visible sign of an inward and spiritual grace. Thomas Aquinas gave the medieval theology of the sacraments its systematic form, treating them as efficacious signs that both signify and confer the grace they represent, instituted by Christ and operating through the church. The Roman Catholic and Eastern Orthodox traditions enumerate seven sacraments: baptism, confirmation (chrismation), the eucharist, penance (reconciliation), anointing of the sick, holy orders, and matrimony; the Council of Trent fixed this number of seven for the Catholic Church and taught that the sacraments confer grace on those who place no obstacle (ex opere operato). Most Protestant traditions, following the Reformers, recognize two sacraments or 'ordinances', baptism and the Lord's Supper (eucharist), on the ground that only these were directly instituted by Christ with an attached sign; and they differ among themselves and from Catholic teaching on how the sacraments relate to grace, ranging from strong sacramental realism to a more memorial or symbolic understanding. This entry records the difference in number and theology as attributed positions and does not adjudicate which enumeration or account is correct.",
+  "editorial_notes": "Per neutrality #1-2 this entry notes the Catholic/Orthodox seven and the Protestant two, and the range of theologies of sacramental grace, as attributed positions without ruling on the correct number or the correct account of how grace is conferred. Sourcing triangulates three lenses per #8-9: a contemporary academic historian and systematic theologian for sacramental theology across the traditions (Jenson, Systematic Theology, vol. 2, which treats the church and sacraments), the primary corpus from both sides of the Reformation divide (Trent's decree on the sacraments in the Tanner councils edition, and Luther's On the Babylonian Captivity of the Church for the Protestant reduction to two), and the medieval scholastic articulation (Aquinas via Wawrykow's academic study). This deliberately draws the primary corpus from both Catholic and Protestant sources per #11 so neither side is described only through the other. Confidence is medium: the conciliar and Reformation primary texts are definitive for what each communion holds, but the secondary works' relevant sections were not read line-by-line. Targets 'articulated_by aquinas' and 'related_to grace' exist in the dataset; 'related_to ecclesiology' is created in this same batch.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "ecclesiology",
+      "note": "The sacraments are administered by and within the church; their theology is bound up with the doctrine of the church."
+    },
+    {
+      "type": "articulated_by",
+      "target": "aquinas",
+      "note": "Aquinas gave the medieval Western theology of the seven sacraments its systematic form as efficacious signs that confer the grace they signify."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "The sacraments are classically understood as means or signs of grace, though traditions differ on how grace is conferred through them."
+    }
+  ],
+  "historical_period": {
+    "start": 400,
+    "end": 1563,
+    "note": "Rooted in the patristic definition of a sacrament (Augustine), given scholastic systematization by Aquinas (13th c.), the sevenfold enumeration fixed at Trent and the twofold Protestant reckoning set out by the Reformers (16th c.)."
+  },
+  "sources": [
+    {
+      "citation": "Jenson, Robert W. Systematic Theology, Volume 2: The Works of God. New York: Oxford University Press, 1999. A major contemporary systematic theology treating the doctrine of the church and the sacraments across the Western traditions.",
+      "url": "https://global.oup.com/academic/product/systematic-theology-9780195145991",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Decree on the Sacraments of the Council of Trent (Seventh Session, 1547), in Tanner, Norman P., ed. Decrees of the Ecumenical Councils, Vol. 2: Trent to Vatican II. Washington, DC: Georgetown University Press; London: Sheed and Ward, 1990. Primary conciliar text defining seven sacraments of the New Law for the Roman Catholic Church.",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780878404902",
+      "license": "Proprietary edition; underlying conciliar text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Luther, Martin. On the Babylonian Captivity of the Church (De captivitate Babylonica ecclesiae praeludium, 1520). In The Babylonian Captivity of the Church, 1520: The Annotated Luther Study Edition, ed. Erik H. Herrmann and Paul W. Robinson. Minneapolis: Fortress Press, 2016. Primary Reformation text restricting the name 'sacrament' to baptism and the Lord's Supper as instituted by Christ with an attached sign.",
+      "url": "https://www.fortresspress.com/store/product/9781506413471/The-Babylonian-Captivity-of-the-Church-1520",
+      "license": "Proprietary translation; underlying text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Wawrykow, Joseph P. The Westminster Handbook to Thomas Aquinas. Louisville: Westminster John Knox Press, 2005. An academic reference study of Aquinas's theology, including his account of the sacraments as efficacious signs of grace; cited as the scholarly lens on the scholastic articulation.",
+      "url": "https://www.christianbook.com/the-westminster-handbook-to-thomas-aquinas/joseph-wawrykow/9780664224691/pd/224695",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

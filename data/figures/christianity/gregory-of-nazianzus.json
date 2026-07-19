@@ -1,0 +1,51 @@
+{
+  "id": "gregory-of-nazianzus",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Gregory of Nazianzus",
+    "original": "Γρηγόριος ὁ Ναζιανζηνός",
+    "transliteration": "Gregorios ho Nazianzenos",
+    "aliases": ["Saint Gregory of Nazianzus", "Gregory Nazianzen", "Gregory the Theologian", "Gregory the Divine"]
+  },
+  "roles": ["theologian", "bishop", "poet"],
+  "summary": "Gregory of Nazianzus (329-390 CE) was a Cappadocian theologian, one of the three Cappadocian Fathers, and the author of the five Theological Orations defending the Nicene doctrine of the Trinity. He presided briefly over the First Council of Constantinople in 381 before resigning.",
+  "description": "Gregory of Nazianzus was born in Cappadocia in eastern Asia Minor and was educated at Athens, where he studied alongside Basil of Caesarea. He is counted, with Basil and Basil's brother Gregory of Nyssa, among the three Cappadocian Fathers, whose work is read in modern scholarship as consolidating the Nicene position in the later fourth century. He was ordained priest and later bishop, and served for a period as leader of the pro-Nicene community in Constantinople. There he delivered the five Theological Orations (Orations 27-31), a defense of the full divinity of the Son and of the Holy Spirit against the positions later grouped as Arianism and, in his own setting, the teaching associated with Eunomius. In these orations he argued that the one God is confessed as three hypostases or persons, Father, Son, and Holy Spirit, distinguished by their relations of origin while sharing one divine essence, and he pressed the case for the deity of the Spirit, a point still contested in his day. Later tradition gave him the title 'the Theologian', an epithet shared in Greek Christianity only with the evangelist John. He presided briefly over the First Council of Constantinople in 381, which reaffirmed and expanded the Nicene creed, but resigned the presidency and the see of Constantinople amid disputes over his appointment, retiring to Cappadocia where he continued to write orations, letters, and poetry.",
+  "editorial_notes": "Birth and death years (329-390 CE) are as standardly reported. Gregory is described here on Christian terms, per neutrality principle #6. 'Arianism' and the teaching associated with Eunomius are named as the later heresiological categories for the positions Gregory opposed; the entry states the matter in dispute (whether the Son and the Spirit are fully divine and of the same essence as the Father) and attributes the pro-Nicene position to Gregory rather than adjudicating it, per the policy against flattening a live debate. No contemporary_of edge is asserted: although Gregory's life overlapped that of Athanasius (d. 373) and Augustine (354-430), his decisive public career came after Athanasius's death, and he had no substantive interaction with the Latin West of Augustine, so a contemporary_of link would overstate a meaningful peer relation. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study of fourth-century Trinitarian theology (Ayres, Oxford University Press), (b) Gregory's own primary text (the Theological Orations, in the Williams and Wickham translation), and (c) a contemporary scholar's monograph on Gregory's Trinitarian theology (Beeley, Oxford University Press). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and peer-reviewed journal reviews, but the relevant passages were not read line by line.",
+  "lifespan": {
+    "birth": 329,
+    "death": 390,
+    "note": "329-390 CE; born in Cappadocia. One of the three Cappadocian Fathers."
+  },
+  "relations": [
+    { "type": "articulated", "target": "trinity", "note": "Defended the confession of one God in three persons, Father, Son, and Holy Spirit, in the Theological Orations; reported as his attributed position." },
+    { "type": "refuted", "target": "arianism", "note": "Argued against the range of views grouped as Arianism, and against the teaching associated with Eunomius, which denied the full divinity of the Son; the critique is attributed to him, not adjudicated." },
+    { "type": "related_to", "target": "council-of-constantinople", "note": "Presided briefly over the First Council of Constantinople in 381 before resigning; the council reaffirmed and expanded the Nicene creed." }
+  ],
+  "sources": [
+    {
+      "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004.",
+      "url": "https://global.oup.com/academic/product/nicaea-and-its-legacy-9780198755050",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gregory of Nazianzus. On God and Christ: The Five Theological Orations and Two Letters to Cledonius. Translated by Frederick Williams and Lionel Wickham. Popular Patristics Series 23. Crestwood, NY: St Vladimir's Seminary Press, 2002. Primary source: Gregory's own defense of the divinity of the Son and the Holy Spirit.",
+      "url": "https://svspress.com/on-god-and-christ-the-five-theological-orations-and-two-letters-to-cledonius-st-gregory-of-nazianzus/",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Beeley, Christopher A. Gregory of Nazianzus on the Trinity and the Knowledge of God: In Your Light We Shall See Light. Oxford Studies in Historical Theology. Oxford and New York: Oxford University Press, 2008.",
+      "url": "https://academic.oup.com/book/27783",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cyril-of-alexandria",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Cyril of Alexandria",
+    "original": "Κύριλλος Ἀλεξανδρείας",
+    "transliteration": "Kyrillos Alexandreias",
+    "aliases": ["Saint Cyril of Alexandria", "Cyril of Alexandria", "Cyril the Great", "Pillar of Faith"]
+  },
+  "roles": ["theologian", "bishop"],
+  "summary": "Cyril of Alexandria (c. 376-444 CE) was bishop of Alexandria who led the case against Nestorius at the Council of Ephesus in 431, defended the title Theotokos (God-bearer) for Mary, and articulated the union of divine and human in the one person of Christ. He is a theologically influential but historically controversial figure.",
+  "description": "Cyril became bishop of Alexandria in 412 and led the Alexandrian church until his death in 444. He is best known for his role in the Christological controversy with Nestorius, bishop of Constantinople, over how the divine and human in Christ are related and whether Mary may properly be called Theotokos (God-bearer). Cyril defended the title Theotokos and argued that the eternal Son of God is the single subject of both the divine acts and the human experiences of Christ, so that the Word did not merely dwell in a man but truly became human while remaining God. His central formulas expressed a union of divine and human natures in the one hypostasis or person of Christ, later summarized as the hypostatic union. He set out the case in a series of letters, including his Second Letter to Nestorius and the Twelve Anathemas (Twelve Chapters) appended to a further letter, and in the treatise On the Unity of Christ. At the Council of Ephesus in 431 he led the proceedings that condemned and deposed Nestorius; the council affirmed the Theotokos. Cyril's Second Letter to Nestorius and his later Letter to John of Antioch were subsequently received as authoritative statements of orthodox Christology at the Council of Chalcedon in 451, seven years after his death. Modern scholarship treats Cyril as both theologically decisive and historically contested, revered as a saint and Doctor of the Church for his Christology while also criticized for his combative methods in the Nestorian controversy and for his role in communal conflicts in Alexandria.",
+  "editorial_notes": "Birth year (c. 376) is a standard estimate and given with c. in the lifespan note; the death year (444) is secure. Cyril is described here on Christian terms, per neutrality principle #6. The dispute with Nestorius is presented as a live theological debate: the entry states the matter in dispute (how the divine and human in Christ are related and whether Mary may be called Theotokos) and attributes Cyril's position to him, while the refuted nestorianism edge attributes the critique to Cyril rather than adjudicating it, per the policy against flattening a debate. Following the sourcing, the entry records that Cyril is a historically controversial figure, criticized for his methods at Ephesus and for his role in communal conflicts in Alexandria; it does not assert direct personal responsibility for the death of the philosopher Hypatia (415), whose killing is associated with partisans and the charged climate of his episcopate but whose direct culpability is debated in scholarship, so the entry does not name it as established fact. This entry closes the cyril-of-alexandria forward reference. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study of the controversy (McGuckin, St Vladimir's Seminary Press), (b) Cyril's own primary text (On the Unity of Christ), and (c) a contemporary scholar's study with translated texts (Russell, Routledge). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and peer-reviewed journal reviews, but the relevant passages were not read line by line.",
+  "lifespan": {
+    "birth": 376,
+    "death": 444,
+    "note": "c. 376-444 CE; bishop of Alexandria from 412. Birth year an estimate; death year secure."
+  },
+  "relations": [
+    { "type": "refuted", "target": "nestorianism", "note": "Led the case against Nestorius over the union of divine and human in Christ and the title Theotokos; the critique is attributed to him, not adjudicated." },
+    { "type": "articulated", "target": "incarnation", "note": "Argued that the eternal Son truly became human while remaining God, the single subject of Christ's divine acts and human experiences; his formulas were later summarized as the hypostatic union." },
+    { "type": "related_to", "target": "council-of-ephesus", "note": "Led the proceedings of the Council of Ephesus in 431, which condemned Nestorius and affirmed the title Theotokos." },
+    { "type": "influenced", "target": "council-of-chalcedon", "note": "His Second Letter to Nestorius and Letter to John of Antioch were received as authoritative statements of Christology at the Council of Chalcedon in 451, after his death." }
+  ],
+  "sources": [
+    {
+      "citation": "McGuckin, John Anthony. Saint Cyril of Alexandria and the Christological Controversy: Its History, Theology, and Texts. Crestwood, NY: St Vladimir's Seminary Press, 2004. Originally published Leiden: E. J. Brill, 1994 (Supplements to Vigiliae Christianae 23).",
+      "url": "https://svspress.com/saint-cyril-of-alexandria-and-the-christological-controversy/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cyril of Alexandria. On the Unity of Christ (Quod unus sit Christus). Translated by John Anthony McGuckin. Popular Patristics Series 13. Crestwood, NY: St Vladimir's Seminary Press, 1995. Primary source: Cyril's own defense of the single subject of the incarnate Word.",
+      "url": "https://svspress.com/on-the-unity-of-christ-st-cyril-of-alexandria/",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Russell, Norman. Cyril of Alexandria. The Early Church Fathers. London and New York: Routledge, 2000.",
+      "url": "https://www.routledge.com/Cyril-of-Alexandria/Russell/p/book/9780415182515",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

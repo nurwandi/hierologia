@@ -1,0 +1,49 @@
+{
+  "id": "monasticism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Christian monasticism",
+    "original": "Monachismus",
+    "transliteration": "monachos",
+    "aliases": ["monasticism", "the monastic movement", "cenobitism and eremitism", "religious life", "monks and nuns"]
+  },
+  "summary": "Christian monasticism is the movement of ascetic Christian life, lived either alone (eremitic) or in community (cenobitic), that arose in the deserts of Egypt and Syria in the fourth century; its formative figures and texts include the desert fathers, Athanasius's Life of Antony, Pachomius's communal rule, and, in the West, the Rule of Benedict.",
+  "description": "Christian monasticism is the movement of men and women who withdraw from ordinary society to pursue a life of ascetic discipline, prayer, and (in most forms) poverty, chastity, and obedience, in pursuit of union with God. As Marilyn Dunn's history sets out, it emerged in the fourth century in the deserts of Egypt and Syria, in the context of the religious and social climate of the late Roman world, and took two broad forms: the eremitic or solitary life of the hermit, and the cenobitic or communal life of monks and nuns living together under a common discipline. The eremitic model was made famous by Antony of Egypt, whose life the bishop Athanasius recorded in the Life of Antony, a text that circulated widely and helped spread the monastic ideal; the desert fathers and mothers of Egypt, whose sayings were collected, became exemplars of the ascetic life. The cenobitic form was organized by Pachomius, who gathered monks into communities under a written rule. From these roots monasticism spread across the Christian world and developed distinct Eastern and Western forms: in the East it remained closely tied to the ideal of hesychia and continuous prayer, while in the West the sixth-century Rule of Benedict, with its ordered balance of prayer, work, and communal stability, became the dominant pattern and shaped medieval Western religious life. This entry describes monasticism historically and across its Eastern and Western branches, and does not privilege any one form or tradition's account of it.",
+  "editorial_notes": "This entry describes Christian monasticism neutrally and across both its Eastern and Western forms, privileging neither (neutrality #6). Founding figures and dates are the conventional scholarly ones; the movement's origins are diffuse and debated, and Dunn is cited for that account. The key_figure relation is to athanasius, an existing figure, as the author of the Life of Antony that propagated the eremitic ideal, rather than to Antony or Benedict, who are not yet entries (either would be an apt forward reference). The held concept grace is chosen as an existing target apt to the ascetic pursuit of union with God; theosis would also be apt but is not yet an entry. Relation target patristics exists; athanasius and grace exist.",
+  "period": {
+    "founded": 270,
+    "note": "Approximate. Antony of Egypt is traditionally said to have withdrawn to the desert around 270-285 CE, and organized monasticism developed across the fourth century (Pachomius's communities from c. 320); the Rule of Benedict dates to the sixth century. The movement remains active worldwide, so no active_until is asserted. These dates are conventional and the origins are diffuse."
+  },
+  "relations": [
+    { "type": "related_to", "target": "patristics", "note": "Monasticism arose within the patristic period and was closely bound to it: Athanasius, a Father, wrote the Life of Antony, and much desert and monastic literature belongs to the patristic corpus." },
+    { "type": "key_figure", "target": "athanasius", "note": "Athanasius of Alexandria (d. 373), whose Life of Antony recorded and propagated the eremitic ideal and became, in scholarly judgment, a foundational document of early monasticism." },
+    { "type": "holds", "target": "grace", "note": "Monastic asceticism is directed toward union with God and the reception of divine grace; the concept is linked here as apt to the movement's spiritual aim. An existing target is preferred; theosis would also be apt but is not yet an entry." }
+  ],
+  "sources": [
+    {
+      "citation": "Dunn, Marilyn. The Emergence of Monasticism: From the Desert Fathers to the Early Middle Ages. Oxford: Blackwell, 2000. Academic history of the origins of Christian monasticism, its eremitic and cenobitic forms, the desert fathers, and the transition to the medieval West including the Rule of Benedict.",
+      "url": "https://www.wiley.com/en-us/The+Emergence+of+Monasticism%3A+From+the+Desert+Fathers+to+the+Early+Middle+Ages-p-9780631220794",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Athanasius of Alexandria. The Life of Antony (Vita Antonii), c. 360 CE; and Benedict of Nursia. The Rule of Saint Benedict (Regula Benedicti), sixth century. Primary corpus of Christian monasticism: the Life of Antony as the model account of the eremitic ideal, and the Rule of Benedict as the foundational text of Western cenobitic life. Cited as primary classical texts.",
+      "url": "https://www.newadvent.org/fathers/2811.htm",
+      "license": "Historical texts in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Stewart, Columba. Prayer and Community: The Benedictine Tradition. Traditions of Christian Spirituality Series. Maryknoll, NY: Orbis Books, 1998. Book by a contemporary scholar and Benedictine monk (of St John's Abbey, an Oxford-trained specialist in early monasticism and Cassian), on the shape and spirituality of the Benedictine monastic tradition.",
+      "url": "https://orbisbooks.com/products/prayer-and-community",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

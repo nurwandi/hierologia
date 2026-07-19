@@ -1,0 +1,64 @@
+{
+  "id": "eutychianism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Eutychianism",
+    "aliases": [
+      "Monophysitism (in the strict Eutychian sense)",
+      "Eutychian monophysitism"
+    ]
+  },
+  "category": "christology",
+  "summary": "Eutychianism is the christological position associated with the Constantinopolitan archimandrite Eutyches, holding that after the union Christ has a single nature in which the humanity is absorbed into the divinity. It was condemned at the Council of Chalcedon in 451, which confessed Christ as one person in two natures.",
+  "description": "Eutychianism is named for Eutyches (c. 380-456), a monk of Constantinople, who reacted against Nestorian teaching by so stressing the unity of Christ that he was understood to deny that Christ's humanity remained a complete nature after the incarnation. The position attributed to him held that before the union there were two natures but after it only one, so that the human nature was taken up into, and effectively absorbed by, the divine. Because this collapses the two natures into one (Greek mia physis, hence 'monophysite'), it was judged to compromise the full and abiding humanity of Christ. Eutyches was condemned at a synod in Constantinople in 448, controversially rehabilitated at the so-called 'Robber Synod' of Ephesus in 449, and finally condemned at the Council of Chalcedon in 451, whose Definition confessed one and the same Christ 'in two natures, without confusion, without change, without division, without separation'. The term 'monophysite' is used broadly in older scholarship for all who rejected Chalcedon, but many historians now distinguish the extreme Eutychian view from the miaphysite Christology of the Oriental Orthodox churches, which affirms one incarnate nature of the Word while maintaining that the humanity is neither diminished nor absorbed; those churches themselves rejected Eutyches.",
+  "editorial_notes": "This entry closes the dangling 'eutychianism' reference. It presents the position as an attributed one (what Eutyches was understood to teach and what Chalcedon condemned) per neutrality #1-2, and explicitly flags the modern scholarly distinction between strict Eutychian monophysitism and Oriental Orthodox miaphysitism so the entry does not tar the latter with the condemned view. Sourcing triangulates three lenses per #8-9: the primary conciliar acts (Price and Gaddis's translation of the Acts of the Council of Chalcedon, which is at once the critical scholarly edition and the primary text), an academic doctrinal historian focused on the christological controversy (McGuckin), and the conciliar Definition itself as promulgated. Confidence is medium overall: the Chalcedonian Definition is definitive for the condemnation, but the secondary works' relevant sections were not read line-by-line. The 'contrasts_with nestorianism' and 'related_to incarnation' targets exist in the dataset; 'refuted_by council-of-chalcedon' also exists.",
+  "relations": [
+    {
+      "type": "contrasts_with",
+      "target": "nestorianism",
+      "note": "Eutychianism and Nestorianism are the two opposite christological errors Chalcedon defined against: Eutyches was taken to merge the natures into one, Nestorius to divide the one Christ into two subjects."
+    },
+    {
+      "type": "refuted_by",
+      "target": "council-of-chalcedon",
+      "note": "The Council of Chalcedon (451) condemned Eutyches and confessed Christ as one person acknowledged in two natures without confusion or change."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "The dispute concerns how the divine and human are united in the one incarnate Christ."
+    }
+  ],
+  "historical_period": {
+    "start": 448,
+    "end": 451,
+    "note": "Eutyches condemned at Constantinople (448), rehabilitated at Ephesus II (449), and finally condemned at Chalcedon (451)."
+  },
+  "sources": [
+    {
+      "citation": "Price, Richard, and Michael Gaddis, trans. The Acts of the Council of Chalcedon. 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005-2007. The critical scholarly translation, with introduction and notes, of the primary conciliar acts recording the examination and condemnation of Eutyches and the promulgation of the Chalcedonian Definition.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9780853230397",
+      "license": "Proprietary translation; underlying conciliar acts are a public-domain classical source. Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGuckin, John Anthony. Saint Cyril of Alexandria and the Christological Controversy: Its History, Theology, and Texts. Crestwood, NY: St Vladimir's Seminary Press, 2004. An academic study of the fifth-century christological controversy and its councils, distinguishing the several positions in the dispute over the natures of Christ.",
+      "url": "https://svspress.com/saint-cyril-of-alexandria-and-the-christological-controversy/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Definition of the Council of Chalcedon (451), in Tanner, Norman P., ed. Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. Washington, DC: Georgetown University Press; London: Sheed and Ward, 1990. Primary conciliar text confessing one Christ in two natures 'without confusion, without change, without division, without separation', against Eutyches.",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780878404902",
+      "license": "Proprietary edition; underlying conciliar text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

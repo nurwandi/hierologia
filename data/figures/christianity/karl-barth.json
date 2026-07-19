@@ -1,0 +1,51 @@
+{
+  "id": "karl-barth",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Karl Barth",
+    "original": "Karl Barth",
+    "transliteration": "Karl Barth",
+    "aliases": ["Karl Barth"]
+  },
+  "roles": ["theologian", "pastor", "professor"],
+  "summary": "Karl Barth (1886-1968 CE) was a Swiss Reformed theologian, author of the unfinished Church Dogmatics and the Epistle to the Romans, and the chief drafter of the Barmen Declaration. His work is associated with dialectical or neo-orthodox theology and a reaction against liberal Protestant theology.",
+  "description": "Karl Barth was born in Basel, Switzerland, and trained in the liberal Protestant theology of his day before breaking sharply with it during his years as a pastor at Safenwil. That break was expressed in his commentary The Epistle to the Romans (Der Roemerbrief), whose radically rewritten second edition of 1922 is widely regarded as a turning point that reasserted the transcendence and freedom of God over against the confidence of liberal theology in religious experience and cultural progress. He went on to teach at several German universities and became a leading voice of what is variously called dialectical, neo-orthodox, or kerygmatic theology. In 1934 he was the chief drafter of the Barmen Declaration, the founding statement of the Confessing Church, which resisted the attempt to align the German church with National Socialism and its pro-Nazi German Christian movement; Barth was subsequently removed from his chair and returned to Switzerland, teaching at Basel. His major work is the Church Dogmatics (Kirchliche Dogmatik), a vast systematic theology issued in numerous part-volumes between 1932 and 1967 and left unfinished at his death, centered on the self-revelation of God in Jesus Christ. He stood within and creatively re-engaged the Reformed tradition, lecturing on Calvin and the Reformed confessions, while also criticizing aspects of later Calvinism, so that his relation to that tradition is one of critical retrieval rather than simple continuity.",
+  "editorial_notes": "Birth and death years (1886-1968 CE) are secure. Barth is described here on Christian terms, per neutrality principle #6. The influenced_by calvin edge is framed as critical retrieval rather than discipleship: Barth stood within the Reformed tradition and lectured on Calvin but was also critical of aspects of later Calvinism, so the note names this qualification rather than implying uncritical continuity. The Church Dogmatics is described as issued in numerous part-volumes and left unfinished, avoiding a contested exact volume count. The Barmen Declaration is attributed to him as chief drafter, recognizing it was a synodal, collective document of the Confessing Church. The related_to grace edge reflects the centrality of grace and the free self-revelation of God in Barth's theology, especially his reworked doctrine of election; it is stated as related_to rather than as a claim to have originated the concept. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic study (McCormack, Clarendon Press), (b) Barth's own primary texts (the Church Dogmatics and the Epistle to the Romans), and (c) a contemporary scholarly reference volume (Webster, ed., Cambridge University Press). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and peer-reviewed reviews, but the relevant passages were not read line by line.",
+  "lifespan": {
+    "birth": 1886,
+    "death": 1968,
+    "note": "1886-1968 CE; born in Basel, Switzerland; taught in Germany and later at Basel."
+  },
+  "relations": [
+    { "type": "related_to", "target": "protestantism", "note": "A Swiss Reformed theologian and a leading twentieth-century Protestant thinker." },
+    { "type": "influenced_by", "target": "john-calvin", "note": "Stood within and creatively re-engaged the Reformed tradition, lecturing on Calvin and the Reformed confessions, while also criticizing aspects of later Calvinism; a relation of critical retrieval." },
+    { "type": "related_to", "target": "grace", "note": "His theology centers on the free grace and self-revelation of God in Jesus Christ, especially in his reworked doctrine of election; stated as a related theme, not a claim to have originated the concept." }
+  ],
+  "sources": [
+    {
+      "citation": "McCormack, Bruce L. Karl Barth's Critically Realistic Dialectical Theology: Its Genesis and Development, 1909-1936. Oxford: Clarendon Press, 1995.",
+      "url": "https://academic.oup.com/book/25742",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Barth, Karl. Church Dogmatics (Die Kirchliche Dogmatik). Edited by G. W. Bromiley and T. F. Torrance. Edinburgh: T&T Clark, 1956-1975 (German Kirchliche Dogmatik, 1932-1967). See also Barth, The Epistle to the Romans, translated by Edwyn C. Hoskyns from the 6th German edition, Oxford: Oxford University Press, 1933. Primary sources: Barth's own systematic theology and his commentary on Romans.",
+      "url": "https://global.oup.com/academic/product/the-epistle-to-the-romans-9780195002942",
+      "license": "Proprietary translation of primary texts; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Webster, John, ed. The Cambridge Companion to Karl Barth. Cambridge: Cambridge University Press, 2000.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-karl-barth/09621FDE3E7A2493D0C6B02949E89D45",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

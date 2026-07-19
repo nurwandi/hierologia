@@ -1,0 +1,78 @@
+{
+  "id": "sola-fide",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Sola fide",
+    "original": "sola fide",
+    "transliteration": "sola fide",
+    "aliases": [
+      "justification by faith alone",
+      "faith alone"
+    ]
+  },
+  "category": "soteriology",
+  "summary": "Sola fide (Latin, 'by faith alone') is the Reformation principle that a sinner is justified before God by faith alone, apart from works of the law. It became a defining Protestant doctrine, articulated by Martin Luther and confessed in the Augsburg Confession, and was rejected in its Reformation sense by the Council of Trent.",
+  "description": "Sola fide is one of the 'solas' of the Protestant Reformation. It holds that justification, God's declaration that a sinner stands righteous before him, is received by faith alone and not on the basis of human merit or works. Luther arrived at the doctrine through his reading of Paul, especially Romans and Galatians, understanding the 'righteousness of God' not as a standard by which God condemns but as a righteousness God freely grants to those who trust in Christ. On the Reformation account, good works follow from justifying faith as its fruit but do not contribute to the verdict of justification itself, which rests on the imputed righteousness of Christ received by faith. The doctrine was confessed publicly in the Augsburg Confession (1530), the foundational Lutheran statement, and became a watchword of Reformation churches more broadly. The Roman Catholic Council of Trent (1545-1563), in its decree on justification, rejected the doctrine as the Reformers stated it, affirming instead that justification involves an inward renewal in which grace, faith, and cooperation with grace, including works done in grace, all have a place; Trent anathematized the proposition that the sinner is justified by faith alone if 'alone' excludes the necessity of cooperation. The two positions are represented here as the attributed teachings of their respective communions, not adjudicated.",
+  "editorial_notes": "This entry closes the dangling 'sola-fide' reference. Per neutrality #1-2 it states the Protestant doctrine on its own terms and the Roman Catholic (Tridentine) position as a distinct attributed position, without ruling on which reading of Paul is correct. Sourcing triangulates three lenses per #8-9: an academic historian of the doctrine (McGrath, Iustitia Dei, the standard history of justification), the primary Reformation corpus (Luther's works and the Augsburg Confession in the Kolb-Wengert Book of Concord), and a contemporary Christian systematic theologian for the doctrine's continuing exposition (McGrath's textbook). The Tridentine decree on justification is named via the same Tanner councils edition already used elsewhere in the dataset, so the Catholic position rests on its own primary text rather than a Protestant characterization of it, per #11. Confidence is medium: the primary confessional and conciliar texts are definitive for what each side confessed, but the secondary works' relevant sections were not read line-by-line. Targets 'articulated_by martin-luther', 'related_to justification', and 'part_of protestantism' exist in the dataset; 'contrasts_with roman-catholicism' is a forward reference to an entity not yet created.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "martin-luther",
+      "note": "Luther gave the doctrine its classic Reformation formulation from his reading of Paul on the righteousness of God."
+    },
+    {
+      "type": "related_to",
+      "target": "justification",
+      "note": "Sola fide is a claim about the ground and instrument of justification: it is received by faith alone."
+    },
+    {
+      "type": "part_of",
+      "target": "protestantism",
+      "note": "Justification by faith alone is one of the defining 'solas' of the Protestant Reformation."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "roman-catholicism",
+      "note": "The Council of Trent's decree on justification rejected sola fide as the Reformers stated it, affirming an inward renewal in which cooperation with grace has a place. Both are presented as attributed positions, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 1517,
+    "end": 1563,
+    "note": "Formulated by Luther from the 1510s, confessed in the Augsburg Confession (1530), and rejected in its Reformation sense by the Council of Trent's decree on justification (1547)."
+  },
+  "sources": [
+    {
+      "citation": "McGrath, Alister E. Iustitia Dei: A History of the Christian Doctrine of Justification. 4th ed. Cambridge: Cambridge University Press, 2020. The standard scholarly history of the doctrine of justification across twenty centuries, including the medieval background, Luther's breakthrough, and the Tridentine response.",
+      "url": "https://www.cambridge.org/core/journals/church-history/article/abs/iustitia-dei-a-history-of-the-christian-doctrine-of-justification-fourth-edition-by-alister-e-mcgrath-cambridge-cambridge-university-press-2020-xv-494-pp-13000-hardcover-4499-paper/C52829C5CF353651364FF10BF0F466CD",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Augsburg Confession (1530), Article IV (Justification), in Kolb, Robert, and Timothy J. Wengert, eds. The Book of Concord: The Confessions of the Evangelical Lutheran Church. Minneapolis: Fortress Press, 2000. Primary Reformation confessional text stating that human beings are justified freely on account of Christ through faith.",
+      "url": "https://www.fortresspress.com/store/product/9780800627409/The-Book-of-Concord-New-Translation-The-Confessions-of-the-Evangelical-Lutheran-Church",
+      "license": "Proprietary translation; underlying confessional text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. 6th ed. Oxford: Wiley-Blackwell, 2016. A standard modern Christian systematic-theology textbook whose chapters on soteriology expound justification by faith and the Reformation debate; cited as the contemporary Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Decree on Justification of the Council of Trent (Sixth Session, 1547), in Tanner, Norman P., ed. Decrees of the Ecumenical Councils, Vol. 2: Trent to Vatican II. Washington, DC: Georgetown University Press; London: Sheed and Ward, 1990. Primary conciliar text setting out the Roman Catholic doctrine of justification against the Reformation formulation.",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780878404902",
+      "license": "Proprietary edition; underlying conciliar text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

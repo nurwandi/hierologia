@@ -1,0 +1,51 @@
+{
+  "id": "reformed-tradition",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Reformed tradition",
+    "original": "Reformata",
+    "transliteration": "ecclesia reformata",
+    "aliases": ["Reformed churches", "Calvinism", "Calvinist tradition", "the Reformed", "Reformed Protestantism"]
+  },
+  "summary": "The Reformed tradition is the stream of Protestantism descending from the Swiss Reformation of Huldrych Zwingli and, above all, John Calvin; it is marked by Calvin's Institutes of the Christian Religion, a covenant (federal) theology, a strong doctrine of God's sovereignty and predestination, and a body of confessions such as the Westminster Confession.",
+  "description": "The Reformed tradition, often called Calvinism, is the stream of the sixteenth-century Reformation that grew from the Swiss cities, beginning with Huldrych Zwingli at Zurich and reaching its most influential systematic form in John Calvin at Geneva. As Bruce Gordon's biography sets out, Calvin's Institutes of the Christian Religion, first published in 1536 and expanded through 1559, became the tradition's defining theological statement, and Geneva became a center from which Reformed ideas spread across Europe to France, the Netherlands, Scotland, England, and beyond. The tradition is distinguished within Protestantism by several emphases: a strong doctrine of the sovereignty of God and, connected to it, the doctrine of predestination or election, the teaching that God from eternity chooses those who will be saved; a covenant or 'federal' theology that reads God's dealings with humanity through a structure of covenants; a characteristically Reformed understanding of the Lord's Supper distinct from both the Lutheran and the memorialist positions; and a distinctive approach to worship and church order. Reformed churches express their doctrine in a body of confessions and catechisms, among them the Heidelberg Catechism (1563), the Belgic Confession, the Canons of Dort (1618-1619), and the Westminster Confession of Faith (1646). This entry describes the Reformed tradition on its own terms; the doctrines at issue between it and other Christian traditions, including the debates over predestination, are live positions held by their adherents and are not adjudicated here.",
+  "editorial_notes": "This entry describes the Reformed tradition neutrally and takes no position on predestination, the Lord's Supper, or other contested doctrines; these are attributed as the tradition's teaching, not endorsed (neutrality #6, #2). The category is 'movement' (a stream of the Reformation), as specified in the batch scope. Predestination is stated as a Reformed emphasis and attributed; the internal Reformed and Arminian debate on it is noted as live, not resolved. Relation targets protestantism exists and roman-catholicism is created in this batch; john-calvin and predestination are forward references not yet entries in this dataset. The tradition is here called both 'Reformed tradition' and 'Calvinism'; the batch scope names Calvinism, and 'Calvinism' is given as an alias while the more common scholarly self-designation 'Reformed' is used as the primary name.",
+  "period": {
+    "founded": 1536,
+    "note": "Approximate. Conventionally associated with Zwingli's reform at Zurich (from 1519) and, above all, the first edition of Calvin's Institutes in 1536; the confessional identity hardened across the later sixteenth and early seventeenth centuries. The tradition remains active worldwide, so no active_until is asserted. Any single founding year is a matter of scholarly convention."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "john-calvin", "note": "John Calvin (d. 1564), the Geneva reformer whose Institutes gave the tradition its defining systematic form; alongside Zwingli, its principal founder. Forward reference, not yet a separate entry." },
+    { "type": "key_figure", "target": "john-calvin", "note": "John Calvin, author of the Institutes of the Christian Religion and the leading theologian of the Reformed stream. Forward reference, not yet a separate entry." },
+    { "type": "split_from", "target": "roman-catholicism", "note": "The Reformed churches separated from communion with Rome in the sixteenth-century Reformation; the causes and legitimacy of the split are understood differently by each side and are not adjudicated here." },
+    { "type": "related_to", "target": "protestantism", "note": "The Reformed tradition is one of the two principal early streams of Protestantism, alongside the Lutheran tradition." },
+    { "type": "holds", "target": "predestination", "note": "The Reformed tradition characteristically emphasizes the doctrine of predestination or election, God's eternal choice of those to be saved; the doctrine is attributed here as the tradition's teaching. Forward reference, not yet a separate entry." }
+  ],
+  "sources": [
+    {
+      "citation": "Gordon, Bruce. Calvin. New Haven: Yale University Press, 2009. Academic biography of John Calvin by the Titus Street Professor of Ecclesiastical History at Yale, setting Calvin, the Institutes, and the Reformed reform of Geneva in their sixteenth-century context.",
+      "url": "https://yalebooks.yale.edu/book/9780300170849/calvin/",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Calvin, John. Institutes of the Christian Religion, 1536 (final Latin edition 1559); and The Westminster Confession of Faith (1646). Primary corpus of the Reformed tradition: the Institutes as its foundational systematic theology, and the Westminster Confession as a representative Reformed confessional statement (its chapter III sets out the doctrine of God's eternal decree). Cited as primary classical texts.",
+      "url": "https://www.ccel.org/ccel/calvin/institutes.html",
+      "license": "Historical texts in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Barth, Karl. Church Dogmatics II/2: The Doctrine of God (The Election and Command of God). Trans. G. W. Bromiley et al. Edinburgh: T&T Clark, 1957 (German orig. 1942). Book by a leading twentieth-century Reformed theologian, whose christological reconstruction of the doctrine of election consciously departs from Calvin's formulation while working within the Reformed tradition; cited for the contemporary Reformed lens on predestination.",
+      "url": "https://www.tandfclark.com/page/church-dogmatics",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

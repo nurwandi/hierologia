@@ -1,0 +1,51 @@
+{
+  "id": "origen",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Origen of Alexandria",
+    "original": "Ὠριγένης",
+    "transliteration": "Origenes",
+    "aliases": ["Origen", "Origen Adamantius", "Origenes Adamantius"]
+  },
+  "roles": ["theologian", "exegete", "biblical scholar"],
+  "summary": "Origen of Alexandria (c. 185 - c. 253 CE) was an Alexandrian theologian and biblical scholar known for his allegorical interpretation of scripture and for On First Principles, often regarded as the first systematic treatment of Christian theology. Some views associated with him were later regarded as controversial.",
+  "description": "Origen was born around 185, most likely at Alexandria, and became a leading teacher and prolific writer of the early Greek Christian tradition, working at Alexandria and later at Caesarea in Palestine. He was among the most productive scholars of Christian antiquity, undertaking large works of textual scholarship, notably the Hexapla, a multi-column comparison of versions of the Old Testament, alongside extensive commentaries and homilies on scripture. He is the paradigmatic exponent of allegorical or spiritual interpretation, reading the biblical text on multiple levels beyond the literal sense in order to draw out its theological and moral meaning. In On First Principles (Peri Archon), he set out a systematic account of God, the rational creatures, the world, free will, and scripture; the treatise is often described as the first systematic exposition of Christian theology, though it survives chiefly in the later Latin translation of Rufinus, with only fragments of the original Greek preserved. His reflection on the relation of the Father, the Son (the Logos), and the Holy Spirit contributed to the developing pre-Nicene theology of the Trinity, and his thought exercised a wide influence on later Greek theology, including on Athanasius and the Cappadocians. Certain positions associated with Origen or with later Origenism, such as apokatastasis (the final restoration of all rational beings) and the pre-existence of souls, became controversial, and Origenism was anathematized in the sixth century in connection with the Second Council of Constantinople (553).",
+  "editorial_notes": "Birth and death years (c. 185 - c. 253 CE) are approximate and given with c. in the lifespan note. Origen is described here on Christian terms, per neutrality principle #6. Two accuracy points from the sourcing are carried into the entry: On First Principles survives mainly in Rufinus's Latin translation rather than intact Greek, and the description of it as the first systematic Christian theology is given as the common scholarly characterization ('often regarded as') rather than as an absolute claim. The later condemnations are stated as reception history and attributed, not adjudicated: scholarship debates both whether apokatastasis and the pre-existence of souls represent Origen's own settled teaching or later Origenist developments, and the precise conciliar status of the sixth-century anti-Origenist anathemas, so the entry says Origenism was anathematized in connection with the Second Council of Constantinople rather than flatly asserting that Origen was condemned as a heretic by an ecumenical council. The influenced athanasius edge records the well-attested influence of Origen's theology on later Greek writers; it is stated as intellectual history, not endorsement. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic reference study (McGuckin, ed., Westminster John Knox Press), (b) Origen's own primary text (On First Principles, in the Behr edition), and (c) a contemporary scholar's monograph on Origen's exegesis (Martens, Oxford University Press). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and peer-reviewed journal reviews, but the relevant passages were not read line by line.",
+  "lifespan": {
+    "birth": 185,
+    "death": 253,
+    "note": "c. 185 - c. 253/254 CE; worked at Alexandria and later Caesarea in Palestine. Both dates approximate."
+  },
+  "relations": [
+    { "type": "related_to", "target": "patristics", "note": "A leading figure of the early Greek patristic tradition, active in the pre-Nicene period at Alexandria and Caesarea." },
+    { "type": "influenced", "target": "athanasius", "note": "Origen's theology of the Logos and his exegesis exercised a wide influence on later Greek theology, including on Athanasius and the Cappadocians; stated as intellectual history." },
+    { "type": "related_to", "target": "trinity", "note": "His reflection on the relation of the Father, the Son, and the Holy Spirit contributed to the developing pre-Nicene theology of the Trinity." }
+  ],
+  "sources": [
+    {
+      "citation": "McGuckin, John Anthony, ed. The Westminster Handbook to Origen. Westminster Handbooks to Christian Theology. Louisville, KY: Westminster John Knox Press, 2004.",
+      "url": "https://www.wjkbooks.com/Products/0664224725/the-westminster-handbook-to-origen.aspx",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Origen. On First Principles (Peri Archon). Edited and translated by John Behr. 2 vols. Oxford Early Christian Texts. Oxford: Oxford University Press, 2017. Primary source: Origen's systematic account of God, the rational creatures, the world, free will, and scripture; the work survives chiefly in Rufinus's Latin translation with Greek fragments.",
+      "url": "https://global.oup.com/academic/product/origen-9780199684021",
+      "license": "Proprietary edition of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Martens, Peter W. Origen and Scripture: The Contours of the Exegetical Life. Oxford Early Christian Studies. Oxford: Oxford University Press, 2012.",
+      "url": "https://global.oup.com/academic/product/origen-and-scripture-9780198717560",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

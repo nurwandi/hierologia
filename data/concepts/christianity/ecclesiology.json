@@ -1,0 +1,65 @@
+{
+  "id": "ecclesiology",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Ecclesiology",
+    "original": "ἐκκλησία / ecclesia",
+    "transliteration": "ekklesia",
+    "aliases": [
+      "doctrine of the church",
+      "theology of the church"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "Ecclesiology is the Christian doctrine of the church: its nature, its distinguishing marks, and the structure of its ministry and authority. Traditions differ over church government, offering episcopal, presbyterian, and congregational models, and over the relation of the visible institution to the church as a spiritual communion.",
+  "description": "Ecclesiology (from Greek ekklesia, 'assembly' or 'church') is the branch of theology concerned with the church, what it is, how it is recognized, and how it is governed. The Nicene-Constantinopolitan Creed confesses belief in 'one, holy, catholic, and apostolic church', and these four marks (unity, holiness, catholicity, apostolicity) have served as a shared reference point across the traditions, even as they interpret them differently. Theologians distinguish various images and models of the church, for example the church as institution, as mystical communion, as sacrament, as herald of the word, and as servant, and hold that no single model is by itself sufficient. Questions of church order divide the traditions: the episcopal model locates authority in bishops standing in apostolic succession (as in the Roman Catholic, Eastern Orthodox, and Anglican traditions); the presbyterian model vests it in assemblies of elders; and the congregational model in the gathered local congregation. Related and contested questions include the relation between the visible institutional church and the invisible communion of the faithful, the basis of the church's authority, and the place of the sacraments and the apostolic ministry in constituting the church. This entry records these as the attributed positions of the several traditions rather than adjudicating among them.",
+  "editorial_notes": "Per neutrality #1-2 this entry names the episcopal, presbyterian, and congregational models, and the institutional/communion distinction, as attributed positions without ranking them, and grounds the shared vocabulary in the creed's four marks rather than in any one communion's self-description. Sourcing triangulates three lenses per #8-9: an academic ecclesiology monograph (Healy, Church, World and the Christian Life, Cambridge Studies in Christian Doctrine), the primary corpus (the Nicene-Constantinopolitan Creed's 'one holy catholic and apostolic church' and conciliar texts, via the Tanner councils edition), and a contemporary theologian's typology of models of the church (Dulles, Models of the Church). Confidence is medium: the creedal text is definitive for the four marks, but the secondary works' relevant sections were not read line-by-line. Targets 'related_to apostles' exists in the dataset; 'related_to sacraments' is created in this same batch; 'related_to roman-catholicism' is a forward reference to an entity not yet created.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sacraments",
+      "note": "The church's identity and authority are closely tied to the administration of the sacraments; many traditions include the right administration of the sacraments among the marks of the true church."
+    },
+    {
+      "type": "related_to",
+      "target": "apostles",
+      "note": "Apostolicity is one of the creedal marks of the church, and models of church order differ over how the apostolic ministry is continued."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "The Roman Catholic tradition holds a distinctive episcopal and papal ecclesiology, one attributed position among several models of the church."
+    }
+  ],
+  "historical_period": {
+    "start": 381,
+    "note": "The four creedal marks of the church were fixed in the Nicene-Constantinopolitan Creed (381); models of church government developed and diverged especially from the Reformation onward and remain live."
+  },
+  "sources": [
+    {
+      "citation": "Healy, Nicholas M. Church, World and the Christian Life: Practical-Prophetic Ecclesiology. Cambridge Studies in Christian Doctrine 7. Cambridge: Cambridge University Press, 2000. An academic study of the doctrine of the church, critiquing idealized 'blueprint' ecclesiologies and analyzing the models and methods of modern ecclesiology.",
+      "url": "https://www.cambridge.org/core/books/church-world-and-the-christian-life/E1E01472CAE717C8A724C55E02BB8458",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Niceno-Constantinopolitan Creed (381), in Tanner, Norman P., ed. Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. Washington, DC: Georgetown University Press; London: Sheed and Ward, 1990. Primary conciliar text confessing 'one, holy, catholic, and apostolic church', the four marks that anchor Christian ecclesiology.",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780878404902",
+      "license": "Proprietary edition; underlying conciliar text is a public-domain classical source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Dulles, Avery. Models of the Church. Expanded ed. New York: Doubleday, 1987 (orig. 1974). A contemporary theologian's influential typology of the church as institution, mystical communion, sacrament, herald, servant, and community of disciples, arguing that no single model is sufficient.",
+      "url": "https://archive.org/details/modelsofchurc00dull",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

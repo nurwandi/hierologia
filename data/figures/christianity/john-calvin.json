@@ -1,0 +1,52 @@
+{
+  "id": "john-calvin",
+  "tradition": "christianity",
+  "names": {
+    "primary": "John Calvin",
+    "original": "Jean Calvin",
+    "transliteration": "Jean Calvin",
+    "aliases": ["Jean Calvin", "John Calvin", "Ioannes Calvinus", "Jean Cauvin"]
+  },
+  "roles": ["theologian", "reformer", "pastor"],
+  "summary": "John Calvin (1509-1564 CE) was a French Reformer and a formative figure of the Reformed tradition, author of the Institutes of the Christian Religion. He is associated with the doctrine of predestination and led the Reformation in Geneva.",
+  "description": "John Calvin was born at Noyon in Picardy, France, and trained in law and humanist letters before aligning himself with the Protestant Reformation. He is best known as the author of the Institutes of the Christian Religion (Institutio Christianae Religionis), a systematic account of Reformation theology first published in 1536 in a short form and expanded across successive editions to the definitive Latin edition of 1559, arranged in four books. Calvin spent most of his career in Geneva, where he shaped the doctrine, worship, and church order of the city's reformed church and trained pastors who carried his theology across Europe. His theology emphasized the sovereignty of God, salvation by grace through faith, the authority of scripture, and the doctrine of predestination or election, the teaching that God from eternity chooses those who will be saved. He drew heavily on Augustine, especially on grace and predestination, and is reported to have said that he could compose his whole confession from Augustine's writings. Modern scholarship treats him as the principal systematizer and one of the most formative figures of the Reformed tradition, which took shape within the wider Protestant Reformation alongside earlier reformers such as Zwingli and Bullinger.",
+  "editorial_notes": "Birth and death years (1509-1564 CE) are secure and as standardly reported. Calvin is described here on Christian terms, per neutrality principle #6. The founded reformed-tradition edge is qualified in its note: the Reformed tradition predates Calvin (Zwingli, Bullinger, Oecolampadius), so the entry describes him as its principal systematizer and most formative figure rather than its sole founder, per the policy against overstatement. The influenced_by augustine edge reflects a mainstream and well-attested scholarly claim: Calvin quoted Augustine more than any other church father, especially on grace and predestination. The predestination and reformed-tradition targets are forward references to not-yet-written entities. This entry closes the john-calvin forward reference. Sources triangulate three lenses per neutrality principle #8: (a) a modern academic biography (Gordon, Yale University Press), (b) Calvin's own primary text (the Institutes, in the McNeill and Battles edition), and (c) a contemporary scholarly reference volume (Selderhuis, ed., Eerdmans). Confidence is medium: the three sources were verified to exist and be on-topic via publisher pages and library catalogues, but the relevant passages were not read line by line.",
+  "lifespan": {
+    "birth": 1509,
+    "death": 1564,
+    "note": "1509-1564 CE; born at Noyon, France; worked mainly in Geneva, where he died."
+  },
+  "relations": [
+    { "type": "member_of", "target": "protestantism", "note": "A leading reformer of the Protestant Reformation, active mainly in Geneva." },
+    { "type": "founded", "target": "reformed-tradition", "note": "The principal systematizer and most formative figure of the Reformed tradition; the tradition also drew on earlier reformers such as Zwingli and Bullinger, so this records his formative role rather than sole authorship. Forward reference." },
+    { "type": "influenced_by", "target": "augustine", "note": "Drew heavily on Augustine, especially on grace and predestination; the borrowing is well attested in scholarship." },
+    { "type": "articulated", "target": "predestination", "note": "Articulated the doctrine of predestination or election, that God from eternity chooses those who will be saved; reported as his attributed position. Forward reference." }
+  ],
+  "sources": [
+    {
+      "citation": "Gordon, Bruce. Calvin. New Haven and London: Yale University Press, 2009.",
+      "url": "https://yalebooks.yale.edu/book/9780300170849/calvin/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Ford Lewis Battles. The Library of Christian Classics, vols. XX-XXI. Philadelphia: Westminster Press, 1960. Primary source: Calvin's own systematic theology, including his account of predestination.",
+      "url": "https://www.christianbook.com/institutes-of-the-christian-religion-vols/john-calvin/9780664220280/pd/22028",
+      "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Selderhuis, Herman J., ed. The Calvin Handbook. Translated by Henry J. Baron et al. Grand Rapids: William B. Eerdmans, 2009.",
+      "url": "https://www.eerdmans.com/9780802862303/the-calvin-handbook/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

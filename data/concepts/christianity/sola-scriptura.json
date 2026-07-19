@@ -1,0 +1,66 @@
+{
+  "id": "sola-scriptura",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Sola scriptura",
+    "original": "sola scriptura",
+    "transliteration": "sola scriptura",
+    "aliases": [
+      "Scripture alone",
+      "by Scripture alone"
+    ]
+  },
+  "category": "authority-and-revelation",
+  "summary": "Sola scriptura (Latin, 'by Scripture alone') is the Reformation principle that Scripture is the supreme and final authority for Christian faith and practice. Articulated by Martin Luther and the Reformers, it distinguishes Protestantism from the Roman Catholic account of authority, in which Scripture is read within the church's tradition and magisterium.",
+  "description": "Sola scriptura holds that the canonical Scriptures are the highest authority in the church, the norm against which all doctrine, tradition, and ecclesiastical teaching are to be measured. In the Reformation debates the principle emerged from Luther's insistence, pressed at the Leipzig Disputation and the Diet of Worms, that popes and councils can err and that his conscience was bound by the word of God in Scripture. Sola scriptura in its classic Protestant form does not reject tradition or the creeds outright; rather it subordinates them to Scripture as ministerial rather than magisterial authorities, so that tradition is received insofar as it accords with the biblical text. This is often distinguished by later scholars from a stricter 'solo scriptura' or 'nuda scriptura' that would set the individual reader over all tradition. The principle stands in contrast to the Roman Catholic understanding, in which the authority of Scripture is inseparable from the living tradition of the church and its teaching office (magisterium), a relationship later articulated at the Council of Trent and in subsequent Catholic teaching. Both accounts of authority are presented here as the attributed positions of their communions.",
+  "editorial_notes": "This entry closes the dangling 'sola-scriptura' reference. Per neutrality #1-2 it states the Protestant principle on its own terms and the Roman Catholic account of Scripture-and-tradition as a distinct attributed position, without ruling between them, and it notes the scholarly distinction between sola scriptura and a stricter solo scriptura so the doctrine is not caricatured. Sourcing triangulates three lenses per #8-9: an academic historian of the Reformation (MacCulloch, The Reformation: A History), the primary Reformation corpus (Luther's works, including his statements at Worms and On the Babylonian Captivity of the Church), and a contemporary Christian theologian (McGrath's textbook) for continuing exposition. Confidence is medium: Luther's primary texts are definitive for what he claimed, but the secondary works' relevant sections were not read line-by-line. Targets 'articulated_by martin-luther' and 'part_of protestantism' exist in the dataset; 'contrasts_with roman-catholicism' is a forward reference to an entity not yet created.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "martin-luther",
+      "note": "Luther pressed the supremacy of Scripture over popes and councils at the Leipzig Disputation and the Diet of Worms."
+    },
+    {
+      "type": "part_of",
+      "target": "protestantism",
+      "note": "Scripture alone is one of the defining 'solas' of the Protestant Reformation and its principle of authority."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "roman-catholicism",
+      "note": "Roman Catholic teaching holds Scripture and tradition together under the church's magisterium rather than Scripture as sole supreme authority. Both are presented as attributed positions, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 1519,
+    "end": 1563,
+    "note": "Emerged in Luther's disputes of 1519-1521 (Leipzig, Worms) and hardened as a Protestant principle against the Roman Catholic account of Scripture and tradition affirmed at Trent (1546)."
+  },
+  "sources": [
+    {
+      "citation": "MacCulloch, Diarmaid. Reformation: Europe's House Divided, 1490-1700. London: Allen Lane / Penguin, 2003 (US ed.: The Reformation: A History. New York: Viking, 2004). A prize-winning academic survey of the European Reformation, including the Reformers' appeal to Scripture as the norm of doctrine.",
+      "url": "https://www.penguin.co.uk/books/25416/reformation-by-diarmaid-macculloch/9780140285345",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Luther, Martin. On the Babylonian Captivity of the Church (De captivitate Babylonica ecclesiae praeludium, 1520), and Luther's statement at the Diet of Worms (1521). In The Annotated Luther, ed. Erik H. Herrmann and Paul W. Robinson. Minneapolis: Fortress Press, 2016. Primary Reformation texts asserting Scripture's authority over ecclesiastical tradition and the binding of conscience to the word of God.",
+      "url": "https://www.fortresspress.com/store/product/9781506413471/The-Babylonian-Captivity-of-the-Church-1520",
+      "license": "Proprietary translation; underlying texts are public-domain classical sources.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. 6th ed. Oxford: Wiley-Blackwell, 2016. A standard modern Christian systematic-theology textbook whose chapters on Scripture, tradition, and authority expound the sola scriptura principle and its Catholic counterpart; cited as the contemporary Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
