@@ -1,0 +1,83 @@
+{
+  "id": "neoplatonism",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Neoplatonism",
+    "original": "Πλατωνισμός (later)",
+    "transliteration": "Platōnismos",
+    "aliases": [
+      "Neo-Platonism",
+      "Late Platonism",
+      "The Platonism of late antiquity",
+      "the school of Plotinus"
+    ]
+  },
+  "summary": "Neoplatonism is the philosophical movement of late antiquity, conventionally dated from the third century CE and founded by Plotinus, whose treatises were gathered by his pupil Porphyry as the Enneads. Developing Plato's thought into a systematic metaphysics, it describes reality as an ordered procession from a first principle, the One, through Intellect (Nous) and Soul, and the return of the soul toward its source; it was hugely influential on later Christian, Islamic, and Jewish thought, which received and reworked it in distinct ways.",
+  "description": "Neoplatonism is the name modern scholars give to the form of Platonist philosophy that developed in the Roman Empire from the third century CE onward, taking its decisive shape in the work of Plotinus (c. 204/5-270 CE), whose treatises his pupil Porphyry edited and arranged into six sets of nine, the Enneads (from Greek ennea, nine). The Neoplatonists did not regard themselves as innovators but as faithful interpreters of Plato; the 'neo-' is a later coinage marking the distinctive metaphysical system they built out of Plato's dialogues, read together with elements of Aristotle and earlier Platonism.\n\nAt the centre of that system, presented here on the movement's own terms, is a hierarchy of levels of reality (later called hypostases) proceeding from a single ultimate principle. Highest is the One (to hen), also called the Good, which is beyond being, beyond thought, and beyond description, the source from which all else derives. From the One proceeds, without diminishing it, Intellect (Nous), the level of being and of the Platonic Forms, in which thinker and thought are one; from Intellect proceeds Soul (Psyche), which orders and animates the cosmos and includes individual souls. This outward procession or emanation of reality from the One is matched by a corresponding return (epistrophe): the soul, fallen into concern with the body and the sensible world, ascends back through Intellect toward union with the One, an ascent that is at once philosophical and, in Plotinus's account, occasionally mystical. Later Neoplatonists, notably Iamblichus (d. c. 325) in Syria and Proclus (d. 485) in the Athenian school, elaborated the hierarchy into a far more intricate metaphysics and, in some cases, integrated religious ritual (theurgy) into the soul's ascent; the tradition continued in the schools of Athens and Alexandria until late antiquity.\n\nNeoplatonism became one of the most influential currents in the later history of thought, and its reception by the monotheistic traditions is attributed here to those traditions rather than fused into the movement itself. In Christianity its vocabulary and metaphysics were drawn on by Augustine, who recounts reading 'the books of the Platonists', and by the writer known as Pseudo-Dionysius the Areopagite, whose hierarchical and apophatic theology is deeply Neoplatonic. In the Islamic world Plotinian material circulated, partly under the mistaken title the Theology of Aristotle, and shaped the metaphysics of the falasifa such as al-Farabi and Ibn Sina (Avicenna), whose accounts of emanation from a first principle owe much to it. In Jewish thought Neoplatonic themes appear in figures such as Solomon ibn Gabirol. In each case the reading is that of the receiving tradition, worked into its own theological commitments, and is attributed to it rather than to the Neoplatonists themselves.",
+  "editorial_notes": "Neoplatonism is presented here on its own terms as a philosophical movement and is filed under the philosophy tradition per ADR-0007: it is described as philosophy, not annexed to any religion, and is not presented as endorsing or belonging to Christianity, Islam, or Judaism. Its religious receptions (Augustine and Pseudo-Dionysius in Christianity; al-Farabi and Ibn Sina in Islamic falsafa; Ibn Gabirol in Jewish thought) are attributed to those traditions through the related_to relations and described as receptions, not fused into the movement's own commitments. The term 'Neoplatonism' is a modern scholarly coinage; the ancient figures took themselves to be Platonists, and this is stated in the description. The One/Intellect/Soul hierarchy, emanation, and return are given as the movement's own doctrine following the Enneads and the standard scholarship. Dating is conventional: the movement is placed from the third century CE (Plotinus) and the later schools of Athens and Alexandria are noted as continuing into late antiquity; no sharp end date is given. Sources triangulate scholarship with the primary text per neutrality #8-9: (a) a peer-reviewed academic essay collection, Lloyd P. Gerson (ed.), The Cambridge History of Philosophy in Late Antiquity (Cambridge, 2010); (b) the primary text, Plotinus's Enneads in Armstrong's Loeb edition (also MacKenna); (c) two contemporary studies, Pierre Hadot, Plotinus, or The Simplicity of Vision (Chicago, 1993), and Dominic J. O'Meara, Plotinus: An Introduction to the Enneads (Oxford, 1993). All were web-verified to exist and be on-topic via publisher and journal-review records (2026-07-20). Confidence is medium throughout, as relevant passages were not read line-by-line. Per the source rule, no encyclopedia is cited, including the Stanford Encyclopedia of Philosophy. Relation targets plato and aristotle exist; falsafa and scholasticism exist and stand as receptions; the key_figure relation to plotinus is a dangling forward reference to a not-yet-written philosophy entry.",
+  "period": {
+    "founded": 204,
+    "note": "Conventionally dated from the third century CE, taking the birth of Plotinus (c. 204/5 CE) as a marker; his teaching at Rome and the Enneads (edited by Porphyry) are the movement's foundation. The later schools of Athens (Iamblichus, Proclus) and Alexandria continued the tradition into late antiquity; no sharp end date is given. The founding date is a conventional scholarly marker, not a precise event."
+  },
+  "relations": [
+    {
+      "type": "influenced_by",
+      "target": "plato",
+      "note": "The Neoplatonists understood themselves as interpreters of Plato and built their metaphysics of the One, Intellect, and Soul out of his dialogues; the existing plato entry records the reciprocal influence."
+    },
+    {
+      "type": "related_to",
+      "target": "aristotle",
+      "note": "Neoplatonism read Plato together with elements of Aristotle, especially his logic and his account of intellect; later Neoplatonists wrote commentaries on Aristotle. The aristotle entry exists."
+    },
+    {
+      "type": "key_figure",
+      "target": "plotinus",
+      "note": "Plotinus (c. 204/5-270 CE), whose treatises, edited by his pupil Porphyry as the Enneads, are the founding texts of the movement. Forward reference to a not-yet-written philosophy entry."
+    },
+    {
+      "type": "related_to",
+      "target": "falsafa",
+      "note": "Plotinian material, circulating partly under the title the Theology of Aristotle, shaped the metaphysics of emanation in Islamic falsafa (al-Farabi, Ibn Sina); this reading is attributed to the falasifa, not to the Neoplatonists themselves."
+    },
+    {
+      "type": "related_to",
+      "target": "scholasticism",
+      "note": "Neoplatonic themes reached Christian thought and the Latin schools through Augustine and Pseudo-Dionysius; these readings are attributed to those Christian receivers rather than to the Neoplatonists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Gerson, Lloyd P., ed. The Cambridge History of Philosophy in Late Antiquity. 2 vols. Cambridge: Cambridge University Press, 2010. Peer-reviewed academic essays on the philosophy of late antiquity, including Plotinus, Porphyry, Iamblichus, Proclus, the One, Intellect, Soul, emanation, and the later Athenian and Alexandrian schools; cited as the modern scholarly lens. Verified to exist and be on-topic (Notre Dame Philosophical Reviews; HOPOS), not read line-by-line.",
+      "url": "https://ndpr.nd.edu/reviews/the-cambridge-history-of-philosophy-in-late-antiquity/",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Plotinus. The Enneads. Trans. A. H. Armstrong. 7 vols. Loeb Classical Library 440-445, 468. Cambridge, Mass.: Harvard University Press, 1966-1988; also trans. Stephen MacKenna, rev. B. S. Page, London: Faber, 1956. Primary text; the founding treatises of Neoplatonism, edited into six enneads by Porphyry, cited as the primary-text lens for the One, Intellect, Soul, procession, and return. Relevant passages not read line-by-line.",
+      "url": "https://www.loebclassics.com/view/LCL440/1969/pb_LCL440.xxxiii.xml",
+      "license": "Proprietary translation; original Greek in the public domain. Cited for reference (Loeb Classical Library record).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hadot, Pierre. Plotinus, or The Simplicity of Vision. Trans. Michael Chase, with an introduction by Arnold I. Davidson. Chicago: University of Chicago Press, 1993 (French original Plotin ou la simplicite du regard, 1963). Academic study of Plotinus on the self, existence, virtue, and the vision of the One; cited as a contemporary scholarly lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3684060.html",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "O'Meara, Dominic J. Plotinus: An Introduction to the Enneads. Oxford: Clarendon Press, 1993. Academic introduction placing Plotinus in his intellectual context and working through the central texts of the Enneads on the One, Intellect, Soul, and the soul's ascent; cited as a further contemporary scholarly lens. Verified to exist and be on-topic (Bryn Mawr Classical Review), not read line-by-line.",
+      "url": "https://bmcr.brynmawr.edu/1993/1993.04.06/",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

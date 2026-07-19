@@ -1,0 +1,90 @@
+{
+  "id": "huldrych-zwingli",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Huldrych Zwingli",
+    "original": "Huldrych Zwingli",
+    "transliteration": "Huldrych Zwingli",
+    "aliases": [
+      "Ulrich Zwingli",
+      "Huldreich Zwingli",
+      "Zwingli",
+      "the Reformer of Zurich"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "reformer",
+    "priest",
+    "preacher"
+  ],
+  "summary": "Huldrych (Ulrich) Zwingli (1484-1531 CE) was the leading reformer of Zurich and, with Calvin and Bullinger, a founder of the Reformed tradition of Protestantism. He is associated with a symbolic or memorialist reading of the Eucharist, which divided him from Martin Luther at the Marburg Colloquy of 1529, and he died at the Battle of Kappel.",
+  "description": "Huldrych Zwingli was born at Wildhaus in the Toggenburg valley of the Swiss Confederation, was trained as a humanist and admirer of Erasmus, and served as a parish priest before becoming people's priest at the Grossmunster in Zurich in 1519. From that pulpit he led the reform of the city, preaching consecutively through the New Testament and pressing, on the authority of scripture, against practices he judged unwarranted by it, including compulsory fasting, images in churches, clerical celibacy, and the doctrine of purgatory, culminating in the rejection of the sacrificial understanding of the Mass. His reform was carried through in cooperation with the Zurich magistracy and was tested in a series of public disputations from 1523. Zwingli taught a symbolic or memorialist understanding of the Lord's Supper, holding that Christ's words 'this is my body' are to be read figuratively (the 'is' meaning 'signifies') and that the Supper is a commemoration and public profession of faith rather than a bodily eating of Christ, whose ascended body he held to be locally in heaven; he grounded this in his reading of scripture and in a distinction between sign and thing signified. This brought him into a sharp and unresolved disagreement with Martin Luther, who insisted on the real bodily presence of Christ in the Supper, at the Marburg Colloquy of 1529, where the two reformers agreed on many articles but not on the Supper. Zwingli also opposed the more radical Anabaptists of Zurich over infant baptism. He died in 1531 at the Battle of Kappel, serving as a chaplain to Zurich's forces in a war between the Protestant and Catholic cantons; his work in Zurich was continued by Heinrich Bullinger. Scholarship treats him as a founder of the Reformed tradition alongside Calvin, distinct from the Lutheran wing above all over the Eucharist, and as a reformer whose thought was shaped by biblical humanism and a strong doctrine of divine sovereignty and providence.",
+  "editorial_notes": "Birth and death years (1484-1531 CE) are as standardly reported and given in the lifespan note. Zwingli is described here on Christian and Reformed terms per neutrality principle #6, and his distinctive positions (the symbolic or memorialist reading of the Eucharist, the rejection of purgatory and of the sacrificial Mass) are reported as his attributed theology, not adjudicated; the unresolved disagreement with Luther at Marburg is stated as a historical fact of division, not settled in either reformer's favor, per principles #1, #2, and #4. No cross-tradition compares_with link is asserted: no established scholarly comparison to an existing Islam figure or concept was identified for Zwingli in the sources consulted, and per ADR-0005 a forced or dangling comparison is avoided. Sources triangulate three lenses per neutrality principle #8 as adapted for Christianity: (a) an academic monograph on his theology (Stephens, The Theology of Huldrych Zwingli, Clarendon Press) and an academic biography (Potter, Zwingli, Cambridge University Press); (b) Zwingli's own primary texts in translation (the Library of Christian Classics volume, including On the Lord's Supper and An Exposition of the Faith); (c) a contemporary Christian scholar's treatment (Stephens serves this lens as a living Reformation scholar, and MacCulloch's Reformation history situates him). Confidence is medium: sources verified to exist and be on-topic via publisher pages, archive.org, and peer-reviewed reviews, but relevant passages not read line-by-line. Relation targets reformation, protestantism, reformed-tradition, martin-luther, and john-calvin are present in the dataset.",
+  "lifespan": {
+    "birth": 1484,
+    "death": 1531,
+    "note": "1484-1531 CE; born at Wildhaus in the Toggenburg, died at the Battle of Kappel serving Zurich's forces. Years as standardly reported."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "Zwingli led the reform of Zurich from 1519 and was one of the principal reformers of the first Protestant generation; reported as a historical role."
+    },
+    {
+      "type": "member_of",
+      "target": "protestantism",
+      "note": "Zwingli belongs to the first generation of Protestant reformers who broke with the authority of the papacy."
+    },
+    {
+      "type": "founded",
+      "target": "reformed-tradition",
+      "note": "With Calvin and Bullinger, Zwingli is reckoned by scholarship a founder of the Reformed wing of Protestantism, distinct from the Lutheran wing above all over the Eucharist; reported as an attributed historical assessment."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "martin-luther",
+      "note": "Zwingli and Luther met at the Marburg Colloquy (1529) and agreed on many articles but not on the real presence in the Lord's Supper; the disagreement is reported as a historical fact of division, not adjudicated."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "john-calvin",
+      "note": "Calvin, of the next reforming generation, shaped the Reformed tradition Zwingli helped found; a later Zurich-Geneva agreement (the Consensus Tigurinus, 1549, between Bullinger and Calvin) partly bridged their Eucharistic views. The link marks their shared Reformed lineage."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Stephens, W. P. The Theology of Huldrych Zwingli. Oxford: Clarendon Press, 1986. The standard scholarly monograph on Zwingli's theology in English, treating his doctrine of scripture, God and providence, the sacraments, and the Lord's Supper; the outside-scholarship lens.",
+      "url": "https://global.oup.com/academic/product/the-theology-of-huldrych-zwingli-9780198266976",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via publisher page and peer-reviewed reviews (Scottish Journal of Theology; Theology Today).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Potter, G. R. Zwingli. Cambridge: Cambridge University Press, 1976. A scholarly biography covering the stages of the Zurich reform (fasting, images, purgatory, the Mass) and Zwingli's life through the Battle of Kappel; the academic-biography lens.",
+      "url": "https://archive.org/details/zwingli0000pott",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Archive.org copy for verification.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Zwingli, Huldrych. Selected writings (including Of the Clarity and Certainty of the Word of God, On the Lord's Supper, and An Exposition of the Faith), in Zwingli and Bullinger, ed. and trans. G. W. Bromiley, Library of Christian Classics vol. 24, Philadelphia: Westminster Press, 1953. Zwingli's own writings, in which he sets out the symbolic reading of the Supper and the authority of scripture; the primary-corpus lens.",
+      "url": "https://archive.org/details/zwinglibullinger0000brom",
+      "license": "Underlying Reformation texts public domain; the Bromiley translation is proprietary. Cited for reference; substance read in summary, full apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "MacCulloch, Diarmaid. The Reformation: A History. New York: Viking, 2004 (UK title Reformation: Europe's House Divided, 1490-1700, London: Allen Lane, 2003). A standard scholarly narrative history situating Zwingli, the Zurich reform, and the Marburg division within the wider Reformation; the contemporary-historian lens.",
+      "url": "https://archive.org/details/reformation00diar_0",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Archive.org copy for verification.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

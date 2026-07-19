@@ -1,0 +1,104 @@
+{
+  "id": "purgatory",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Purgatory",
+    "original": "purgatorium",
+    "transliteration": "purgatorium",
+    "aliases": [
+      "Purgation",
+      "The state of purification after death",
+      "Purgatorial fire"
+    ]
+  },
+  "category": "eschatology",
+  "summary": "In Catholic teaching, purgatory is a state or process of purification after death for those who die in God's grace and friendship but imperfectly purified, by which they are cleansed before entering the joy of heaven. The doctrine, developed in the medieval Latin West and defined at the Councils of Florence and Trent, is bound up with prayer for the dead and, historically, with indulgences; it was rejected by the Protestant Reformers and is understood differently in Eastern Orthodoxy.",
+  "description": "Purgatory, in Roman Catholic theology, is the state or condition of those who die in the grace and friendship of God but are still imperfectly purified, in which they undergo a purification so as to attain the holiness necessary to enter heaven. It is distinguished from both heaven and hell: it concerns the saved, not the damned, and is held to be temporary, ending in the beatific vision. On this account the temporal consequences of forgiven sin, the penalty or imperfection held to remain after guilt itself is remitted, are purged after death, and the living are said to be able to assist the dead through prayer, almsgiving, and above all the sacrifice of the Mass, as well as by applying indulgences to them by way of intercession. The word purgatorium appears in Latin only in the late twelfth century, and the historian Jacques Le Goff argued that purgatory as a distinct place and doctrine took shape in the Latin West in the twelfth and thirteenth centuries, drawing on older beliefs and practices of prayer for the dead and on scriptural texts (notably 2 Maccabees 12:39-46 and 1 Corinthians 3:11-15) read in that light. The doctrine was defined for the Catholic Church at the Second Council of Lyon (1274), the Council of Florence (1439), and the Council of Trent, whose Decree Concerning Purgatory (Twenty-Fifth Session, 1563) affirmed that there is a purgatory and that the souls detained there are helped by the suffrages of the faithful, principally by the sacrifice of the Mass, while ordering that the doctrine be preached soberly and that speculation and anything savoring of financial gain be avoided. The Protestant Reformers rejected purgatory: Martin Luther came to deny it, and Reformed theologians such as Huldrych Zwingli and John Calvin repudiated it as unscriptural and as bound up with the abuses of the indulgence traffic, holding that the deuterocanonical 2 Maccabees was not canonical scripture and that Christ's finished work leaves no penalty to be purged after death, a position the Catholic Church rejected. Eastern Orthodoxy prays for the dead and holds that the departed may be aided by the prayers of the living, but has generally declined to define an intermediate state in the specific Latin terms of purgatory (a purging fire, a defined satisfaction for temporal punishment), and at the Councils of Ferrara-Florence the Greek delegates resisted the Latin formulation; the difference is one of formulation and emphasis as much as of the practice of prayer for the dead. These positions are recorded here as the attributed teachings of their respective holders, and none is adjudicated.",
+  "editorial_notes": "This entry presents purgatory as the doctrine of the Roman Catholic Church, stated on its own terms per neutrality principle #6, and records the Protestant rejection and the Eastern Orthodox difference as attributed positions rather than adjudicating any of them, per principles #1, #2, and #4. The shared background (belief in prayer for the dead across the ancient and medieval church) is stated before the point of dispute (whether there is a defined purgatorial purification and satisfaction for temporal punishment). The historical claim that the word purgatorium and the doctrine as a distinct place emerged in the twelfth to thirteenth centuries is attributed to Le Goff as a scholarly thesis, not asserted as settled theology; it is the object of scholarly debate. Sources triangulate three lenses per neutrality principles #8-9 as adapted for Christianity: an academic monograph on the historical emergence of the doctrine (Le Goff, The Birth of Purgatory, University of Chicago Press), the primary corpus giving the Catholic definition in its own document (the Council of Trent's Decree Concerning Purgatory, and for the Reformation counter-position Zwingli's writings in the Library of Christian Classics), and a contemporary historian of doctrine (Pelikan, The Christian Tradition, vol. 4, whose treatment covers the Reformation dispute over purgatory). No encyclopedias or tertiary sources are cited. Confidence: high on the Trent Decree Concerning Purgatory, whose affirmation that there is a purgatory and that the souls detained there are helped by the suffrages of the faithful, principally by the sacrifice of the Mass, was read directly at papalencyclicals.net (Twenty-Fifth Session, 3-4 December 1563); medium on the scholarly works, verified to exist and be on-topic via publisher pages and peer-reviewed reviews but not read line-by-line. Relation targets indulgences, atonement, grace, sacraments, reformation, roman-catholicism, eastern-orthodoxy, martin-luther, and huldrych-zwingli are present in the dataset (huldrych-zwingli is authored in the same batch as this entry); council-of-florence is a forward reference to a not-yet-created entity.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "indulgences",
+      "note": "Indulgences were held to be applicable by intercession to the souls in purgatory, remitting the temporal punishment purged there; the connection is recorded without adjudicating the Catholic doctrine."
+    },
+    {
+      "type": "related_to",
+      "target": "atonement",
+      "note": "The Catholic account distinguishes the guilt of sin (remitted through Christ's atoning work) from the temporal penalty held to remain and be purged in purgatory; the Reformers held that Christ's finished work leaves no such penalty. Both framings are attributed, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "Purgatory in Catholic teaching concerns those who die in God's grace and friendship but imperfectly purified; the concept is situated within the tradition's account of grace."
+    },
+    {
+      "type": "part_of",
+      "target": "sacraments",
+      "note": "The souls in purgatory are said to be helped principally by the sacrifice of the Mass; the link records that placement of purgatory within the Catholic sacramental system."
+    },
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "The Protestant Reformers rejected purgatory as unscriptural and as bound up with the indulgence traffic; reported as the reformers' attributed position and not adjudicated."
+    },
+    {
+      "type": "refuted_by",
+      "target": "huldrych-zwingli",
+      "note": "Zwingli repudiated purgatory in the course of the Zurich reform; reported as his attributed position, not endorsed. Authored in the same batch as this entry."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "Purgatory is a defined doctrine of the Roman Catholic Church, affirmed at Lyon II (1274), Florence (1439), and Trent (1563)."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "eastern-orthodoxy",
+      "note": "Eastern Orthodoxy prays for the dead and holds the departed may be aided by the living, but has generally declined to define an intermediate state in the specific Latin terms of purgatory (a purging fire, satisfaction for temporal punishment). The link marks a difference of formulation and emphasis, attributed and not ranked."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-florence",
+      "note": "The doctrine of purgatory was set out in the union decree of the Council of Florence (1439). Forward reference to a not-yet-created entity."
+    }
+  ],
+  "historical_period": {
+    "start": 1150,
+    "end": 1563,
+    "note": "Belief in prayer for the dead is ancient; the word purgatorium and purgatory as a distinct doctrine took shape in the Latin West in the later twelfth and thirteenth centuries (Le Goff's thesis), and the doctrine was defined at Lyon II (1274), Florence (1439), and Trent (Decree Concerning Purgatory, 1563). The doctrine continues in Catholicism to the present; the range marks the period of its formation and conciliar definition."
+  },
+  "sources": [
+    {
+      "citation": "The Council of Trent, Decree Concerning Purgatory (Twenty-Fifth Session, 3-4 December 1563), affirming that there is a purgatory and that the souls there detained are helped by the suffrages of the faithful, but principally by the acceptable sacrifice of the altar, and directing that the doctrine be preached soberly and free of anything savoring of gain. The primary-corpus lens giving the Catholic definition in its own document.",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-fifth-session.htm",
+      "license": "Underlying conciliar text public domain. Read directly (2026-07-19) and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Le Goff, Jacques. The Birth of Purgatory. Translated by Arthur Goldhammer. Chicago: University of Chicago Press, 1984 (French: La naissance du Purgatoire, Paris: Gallimard, 1981). The standard academic monograph on the historical emergence of purgatory as a distinct place and doctrine in the Latin West of the twelfth and thirteenth centuries; the outside-scholarship lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/B/bo5972676.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via publisher page and peer-reviewed reviews.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Zwingli, Huldrych. Selected writings, in Zwingli and Bullinger, ed. and trans. G. W. Bromiley, Library of Christian Classics vol. 24, Philadelphia: Westminster Press, 1953. Zwingli's repudiation of purgatory belongs to his account of scripture and the finished work of Christ; cited as the primary-corpus lens on the Reformation counter-position (read alongside the Trent decree above, the two sides in their own documents).",
+      "url": "https://archive.org/details/zwinglibullinger0000brom",
+      "license": "Underlying Reformation texts public domain; the Bromiley translation is proprietary. Cited for reference; substance read in summary, full apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 4: Reformation of Church and Dogma (1300-1700). Chicago: University of Chicago Press, 1984. A contemporary historian of doctrine's account, covering the medieval development of purgatory and the Reformation dispute over it; the modern historian-of-doctrine lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3618533.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

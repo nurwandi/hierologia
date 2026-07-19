@@ -1,0 +1,88 @@
+{
+  "id": "tertullian",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Tertullian",
+    "original": "Quintus Septimius Florens Tertullianus",
+    "transliteration": "Quintus Septimius Florens Tertullianus",
+    "aliases": [
+      "Tertullian of Carthage",
+      "Quintus Septimius Florens Tertullianus"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "apologist",
+    "polemicist",
+    "moralist"
+  ],
+  "summary": "Tertullian (c. 155-220 CE) was an early Christian writer of Carthage in Roman North Africa and the first major Christian theologian to write in Latin. He composed the Apology (Apologeticum) in defence of Christians against Roman charges and the five books Against Marcion (Adversus Marcionem), coined or fixed much of the Latin theological vocabulary later standard in the West (including trinitas, persona, and substantia), and in his later career was associated with the rigorist movement known as the New Prophecy (Montanism).",
+  "description": "Tertullian was a Christian writer active at Carthage in the Roman province of Africa around the turn of the third century, and the first Christian author of note to write theology in Latin rather than Greek. Little of his biography is secure: the older report that he was a trained jurist and a presbyter is now treated by scholars such as Geoffrey Dunn and Eric Osborn as uncertain and probably legendary, and his dates (c. 155-220) are approximate. His large surviving corpus is in Latin and ranges across apologetics, anti-heretical polemic, and moral and disciplinary treatises. In the Apology (Apologeticum), addressed to the Roman authorities, he defended Christians against the charges brought against them, argued that they were condemned by rumour rather than by proven crime, and pressed the injustice of persecuting a group whose conduct he presented as blameless. Against the second-century teacher Marcion of Sinope he wrote the five books Against Marcion (Adversus Marcionem), an extended refutation of Marcion's distinction between the creator God of the Hebrew scriptures and a higher, previously unknown God revealed in Jesus; because the treatise reports and quotes in order to refute, it is also, alongside Irenaeus, one of the principal channels through which Marcion's teaching is known, a hostile channel whose polemical purpose scholars weigh. Tertullian is credited in the scholarship with coining or fixing a large part of the Latin vocabulary of later Western theology: in the treatise Against Praxeas he used trinitas (Trinity) and articulated the formula of one substance (substantia) in three persons (personae), language that fed into the later Latin doctrine of the Trinity, and he contributed to the Latin vocabulary of the person and natures of Christ. In his later writings he aligned himself with the New Prophecy, a rigorist charismatic movement originating in Phrygia and known to later tradition as Montanism, which emphasised new prophetic revelation and a stricter discipline; the extent and nature of his adherence, and whether he formally separated from the wider church, are debated in modern scholarship. His anti-Marcionite and anti-heretical polemic, and his rigorist positions, are his own attributed positions, presented here as such and not adjudicated.",
+  "editorial_notes": "Dates (c. 155-220 CE) are approximate and as commonly reported in the scholarship; the traditional biography (jurist, presbyter) is treated by Dunn and Osborn as insecure and is flagged rather than asserted. Tertullian's polemic against Marcion is his own attributed position (neutrality principles #1-2), presented as such; where Against Marcion is used as a source for Marcion's own teaching it is a hostile witness, the mirror image of the handling in the marcion entry, and this is noted. His later association with the New Prophecy (Montanism) is recorded with its debated points (degree of adherence, whether he separated from the wider church) flagged, not resolved. His coinage of Latin theological terms (trinitas, persona, substantia) is the standard characterisation in the history of doctrine and is attributed to that scholarship. Sources triangulate the three Christian lenses per neutrality principles #8-9: (a) modern academic studies, Dunn (Routledge, 2004) and Osborn (Cambridge, 1997); (b) the primary corpus, Tertullian's own Apology and Against Marcion, both read in the open Ante-Nicene Fathers translation with the cited pages opened; (c) Osborn (1997) also serves as the recent contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: medium throughout; the monographs are verified to exist and be on-topic via publisher, review, and catalogue records but not read line-by-line, and the ANF primary pages (Apology; Against Marcion Book I on the two Gods) were opened and their content confirmed. Relation targets that exist in the dataset: new-testament-canon, patristics, and marcion. Forward references to not-yet-created entities (dangling): trinity exists as a concept but the note is a related_to; montanism is a dangling forward reference.",
+  "lifespan": {
+    "birth": 155,
+    "death": 220,
+    "note": "c. 155-220 CE, both dates approximate and as commonly reported; active at Carthage in Roman North Africa. The traditional report that he was a jurist and presbyter is treated as insecure in recent scholarship."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "patristics",
+      "note": "Tertullian is counted among the early Church Fathers and is the first major Latin Christian theologian; his corpus is a principal body of Latin patristic writing from Roman North Africa."
+    },
+    {
+      "type": "refuted",
+      "target": "marcion",
+      "note": "Tertullian devoted the five books of Against Marcion (Adversus Marcionem) to refuting Marcion's distinction between the creator God and a higher God; presented as Tertullian's own attributed polemical position. Because the work reports in order to refute, it is also a principal hostile source for Marcion's own teaching, as noted in the marcion entry."
+    },
+    {
+      "type": "related_to",
+      "target": "new-testament-canon",
+      "note": "In Against Marcion Tertullian defended the scriptural texts the wider church received against Marcion's restricted collection (his edited Luke and ten Pauline letters), and is discussed in scholarship on the formation of the New Testament canon as an early Latin witness to the received writings."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "In Against Praxeas Tertullian used the Latin term trinitas and articulated a formula of one substance (substantia) in three persons (personae); the scholarship credits him with much of the Latin vocabulary later standard in the Western doctrine of the Trinity. The characterisation is attributed to the history of doctrine and not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "montanism",
+      "note": "In his later career Tertullian was associated with the New Prophecy, a rigorist charismatic movement later known as Montanism; the degree of his adherence and whether he separated from the wider church are debated. Forward reference to a not-yet-created entity (dangling)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Dunn, Geoffrey D. Tertullian. The Early Church Fathers. London: Routledge, 2004. ISBN 978-0-415-28231-4. Academic study with introduction and translations of selected works, treating the traditional biography as insecure and setting Tertullian's apologetic and polemical writing in its North African context; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://www.routledge.com/Tertullian/Dunn/p/book/9780415282314",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Osborn, Eric. Tertullian, First Theologian of the West. Cambridge: Cambridge University Press, 1997. ISBN 978-0-521-59035-8 (paperback 0-521-52495-4). Academic monograph on Tertullian's theology, his refutation of Marcion and Praxeas, and his debt to the classical philosophical tradition; the contemporary-scholar lens.",
+      "url": "https://www.cambridge.org/core/books/tertullian-first-theologian-of-the-west/58E3B0104FB87A9A670830BA245C2D98",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tertullian. The Apology (Apologeticum). In Ante-Nicene Fathers, vol. 3, trans. S. Thelwall, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Tertullian's own primary text, a defence of Christians against Roman charges; read in the cited translation.",
+      "url": "https://www.newadvent.org/fathers/0301.htm",
+      "license": "Underlying text public domain; the cited work read in the ANF translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tertullian. Against Marcion (Adversus Marcionem), five books; esp. Book I (arguing the unity and uniqueness of God against Marcion's two Gods). In Ante-Nicene Fathers, vol. 3, trans. Peter Holmes, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Tertullian's own primary text; Book I read in the cited translation, and cited both as his attributed polemic and, per the marcion entry, as a hostile witness for Marcion's teaching.",
+      "url": "https://www.newadvent.org/fathers/03121.htm",
+      "license": "Underlying text public domain; the cited book read in the ANF translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

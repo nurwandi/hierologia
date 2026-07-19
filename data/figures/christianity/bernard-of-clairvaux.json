@@ -1,0 +1,85 @@
+{
+  "id": "bernard-of-clairvaux",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Bernard of Clairvaux",
+    "original": "Bernardus Claraevallensis",
+    "transliteration": "Bernardus Claraevallensis",
+    "aliases": [
+      "Saint Bernard",
+      "Bernard of Fontaines",
+      "Doctor Mellifluus"
+    ]
+  },
+  "roles": [
+    "abbot",
+    "monastic reformer",
+    "mystic",
+    "preacher",
+    "theologian"
+  ],
+  "summary": "Bernard of Clairvaux (1090-1153 CE) was a French Cistercian abbot, monastic reformer, and mystical writer, founding abbot of Clairvaux and a central figure in the twelfth-century expansion of the Cistercian order. He wrote the treatise On Loving God (De diligendo Deo) and the unfinished Sermons on the Song of Songs, preached in support of the Second Crusade, and opposed the teaching of Peter Abelard, whose propositions were condemned at the Council of Sens (1141).",
+  "description": "Bernard was born near Dijon in Burgundy and in 1113 entered the recently founded reforming monastery of Citeaux, the origin of the Cistercian order; two years later he was sent to found and lead the abbey of Clairvaux, which he governed as abbot until his death and from which a large number of daughter houses were established. He became, as G. R. Evans and Brian McGuire describe him, one of the most influential figures of the twelfth century, a monastic reformer, a prolific writer, and an active participant in the ecclesiastical and political affairs of his age. His writings include the treatise On Loving God (De diligendo Deo), which sets out degrees by which human love moves from self-interest toward the love of God for God's own sake, and the long series of Sermons on the Song of Songs (Sermones super Cantica Canticorum), an unfinished cycle of eighty-six sermons that reads the biblical love poetry as an allegory of the soul's union with God and is a major text of medieval monastic exegesis and mysticism. Bernard promoted the reform of monastic life on austere Cistercian lines and defended it in controversy with other currents of monasticism. He was drawn repeatedly into wider affairs: he preached in support of the Second Crusade (1146-1147), an outcome he is reported later to have regretted, and he intervened in doctrinal disputes. Among these, he opposed the teaching of the logician and theologian Peter Abelard, charging that Abelard's application of dialectic to matters of faith led to error; through Bernard's involvement a set of propositions attributed to Abelard was condemned at the Council of Sens (1141), after which Abelard submitted and retired to Cluny. Bernard's mystical and monastic writings were widely influential in the later medieval and early modern periods. His polemic against Abelard and his crusade preaching are his own attributed positions, presented here as such and not adjudicated.",
+  "editorial_notes": "Birth and death years (1090-1153 CE) are as standardly reported in the scholarship. Bernard's opposition to Peter Abelard and his preaching of the Second Crusade are his own attributed positions (neutrality principles #1-2); the condemnation of propositions attributed to Abelard at the Council of Sens (1141) is recorded as a historical fact, and the entry takes no position on its theological merits, mirroring the handling in the peter-abelard entry. The date of the Council of Sens follows Constant Mews's redating to 1141 (previously often 1140), consistent with the peter-abelard entry. The relation to peter-abelard is reciprocal to the existing peter-abelard contemporary_of bernard-of-clairvaux edge; it is entered as 'refuted' here to record the direction of Bernard's opposition, and also 'contemporary_of', with the note distinguishing the historical fact (the condemnation) from Bernard's attributed position (his charge against Abelard). The relation to scholasticism records that Bernard was a monastic critic of the emerging dialectical theology associated with Abelard and the schools, attributed and not adjudicated. Sources triangulate the three Christian lenses per neutrality principles #8-9: (a) a modern academic monograph, Evans (Oxford, 2000); (b) Bernard's own primary texts, On Loving God (read in the open CCEL translation) and the Sermons on the Song of Songs (Cistercian Fathers critical translation); (c) a recent biography, McGuire (Cornell, 2020), as the contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: medium throughout; the monographs are verified to exist and be on-topic via publisher, journal-review, and catalogue records but not read line-by-line, and Bernard's On Loving God was opened in the open CCEL translation. Relation targets that exist in the dataset: monasticism, peter-abelard, and scholasticism.",
+  "lifespan": {
+    "birth": 1090,
+    "death": 1153,
+    "note": "1090-1153 CE; born near Dijon in Burgundy, entered Citeaux in 1113, founding abbot of Clairvaux from 1115 until his death. Dates are standard in the scholarship."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "monasticism",
+      "note": "A Cistercian abbot and monastic reformer, founding abbot of Clairvaux; a central figure in the twelfth-century expansion of the Cistercian order and a defender of austere monastic reform."
+    },
+    {
+      "type": "refuted",
+      "target": "peter-abelard",
+      "note": "Bernard opposed Peter Abelard's application of dialectic to matters of faith and was instrumental in the condemnation of propositions attributed to Abelard at the Council of Sens (1141). The charge is Bernard's own attributed position; the condemnation is a historical fact, not an editorial endorsement. Reciprocal to the peter-abelard contemporary_of bernard-of-clairvaux edge."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "peter-abelard",
+      "note": "Bernard (1090-1153) and Abelard (1079-1142) were contemporaries whose dispute over the use of dialectic in theology culminated in the Council of Sens (1141); recorded here to match the reciprocal edge in the peter-abelard entry."
+    },
+    {
+      "type": "related_to",
+      "target": "scholasticism",
+      "note": "Bernard was a monastic critic of the emerging dialectical theology of the schools associated with Abelard, contrasting a monastic and contemplative approach to divine truth with the schools' logical method. His criticism is attributed to him and not adjudicated."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Evans, G. R. Bernard of Clairvaux. Great Medieval Thinkers. New York: Oxford University Press, 2000. x + 220 pp. ISBN 978-0-19-512526-9. Academic introduction to Bernard's life, monastic reform, spirituality, and theology of the political life of the Church; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/bernard-of-clairvaux-9780195125269",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGuire, Brian Patrick. Bernard of Clairvaux: An Inner Life. Ithaca, NY: Cornell University Press, 2020. ISBN 978-1-5017-5104-2. Recent scholarly biography by a historian of the Cistercians, tracing Bernard from his birth in 1090 to his death in 1153, including his role in the Second Crusade (which he came to regret); the contemporary-scholar lens. Relevant passages not read line-by-line.",
+      "url": "https://www.cornellpress.cornell.edu/book/9781501751042/bernard-of-clairvaux/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bernard of Clairvaux. On Loving God (De diligendo Deo). English translation in the Christian Classics Ethereal Library (from the edition of the Religious Tract Society / A Religious of C.S.M.V.). Bernard's own primary text, setting out the degrees by which love moves from self-interest to the love of God for God's sake; read in the cited open translation.",
+      "url": "https://www.ccel.org/ccel/bernard/loving_god.html",
+      "license": "Underlying text public domain; the cited translation open and read.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bernard of Clairvaux. On the Song of Songs (Sermones super Cantica Canticorum), 4 vols., trans. Kilian Walsh and Irene Edmonds. Cistercian Fathers Series 4, 7, 31, 40. Kalamazoo, MI / Spencer, MA: Cistercian Publications, 1971-1980. Bernard's own primary text, an unfinished cycle of eighty-six sermons reading the Song of Songs as an allegory of the soul's union with God; the standard scholarly translation, cited for reference and not read line-by-line.",
+      "url": "https://litpress.org/Products/CF004/Sermons-on-the-Song-of-Songs-Volume-1",
+      "license": "Proprietary translation of a classical text; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

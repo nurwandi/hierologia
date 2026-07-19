@@ -1,0 +1,105 @@
+{
+  "id": "council-of-trent",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Council of Trent",
+    "original": "Concilium Tridentinum",
+    "transliteration": "Concilium Tridentinum",
+    "aliases": [
+      "Trent (1545-1563)",
+      "Tridentine Council",
+      "Nineteenth Ecumenical Council"
+    ]
+  },
+  "category": "ecumenical council",
+  "location": "Trent (Trento), Prince-Bishopric of Trent, Holy Roman Empire (with sessions also at Bologna)",
+  "date": {
+    "year": 1545,
+    "end_year": 1563,
+    "note": "Met in three periods (1545-1547, 1551-1552, 1562-1563), with a session moved briefly to Bologna and long suspensions, under the popes Paul III, Julius III, and Pius IV. Reckoned by the Catholic Church as the nineteenth ecumenical council; Protestant and Orthodox traditions do not accept it as ecumenical."
+  },
+  "summary": "The Council of Trent was the Roman Catholic Church's central doctrinal and reforming response to the Protestant Reformation, meeting in three periods between 1545 and 1563. It reaffirmed Catholic teaching on scripture and tradition, justification, the seven sacraments, the Eucharist, purgatory, and the biblical canon, condemned the corresponding Protestant positions, and enacted a wide program of disciplinary reform.",
+  "description": "The Council of Trent was the general council by which the Roman Catholic Church answered the Protestant Reformation, both by defining doctrine against the reformers and by reforming clergy and discipline; it is the doctrinal core of what is often called the Counter-Reformation or Catholic Reformation. It met at Trent in the Holy Roman Empire in three periods (1545-1547, 1551-1552, and 1562-1563), interrupted by war, plague, a move to Bologna, and long suspensions; its span crossed five pontificates, though it sat only under three popes (Paul III, Julius III, and Pius IV). Against the Protestant principle of scripture alone (sola scriptura), its Fourth Session (1546) decreed that the church receives and venerates the unwritten apostolic traditions with an equal affection of piety and reverence as it does the scriptures, and fixed the canon of scripture to include the deuterocanonical books (Tobias, Judith, Wisdom, Ecclesiasticus, Baruch, and 1-2 Maccabees), which the Reformers set apart as apocrypha. Against the principle of faith alone (sola fide), its Decree on Justification (Sixth Session, 1547) taught that justification is not only a forensic declaration but a real inner renewal through infused grace, in which faith, hope, and love cooperate, so that justification can grow and be lost, and it condemned in a series of canons those who said the sinner is justified by faith alone in the Protestant sense. It reaffirmed that there are seven sacraments, defined the Eucharist in terms of transubstantiation (the Thirteenth Session, 1551, teaching that the whole substance of the bread and wine is changed into the body and blood of Christ), and, in its final Twenty-Fifth Session (1563), affirmed the existence of purgatory and the invocation of the saints and the veneration of relics and images, and issued a decree on indulgences affirming the church's power to grant them while condemning abuses and forbidding all gain from them. Alongside these doctrinal decrees it enacted extensive reform: the establishment of diocesan seminaries for training priests, the requirement that bishops reside in their dioceses, the reform of preaching and of the administration of the sacraments, and the tightening of clerical discipline. Trent's decrees shaped Roman Catholic doctrine, worship, and church order for the following four centuries, until the Second Vatican Council (1962-1965). The doctrinal affirmations recorded here are stated as the teaching of the Roman Catholic Church defined at the council; the condemnations of the Protestant positions are stated as a matter of historical record; neither is endorsed by the editor.",
+  "editorial_notes": "This entry states the doctrinal decrees of Trent as the attributed teaching of the Roman Catholic Church (per neutrality principles #1, #4, and #6) and the council's condemnations (anathemas) of the Protestant positions as historical fact, without adjudicating whether the Catholic or the Protestant side was correct; where a decree opposes a Reformation principle, both are named (Trent's affirmation and the Protestant position it condemned) so that neither is flattened into 'the answer', per principle #2. 'Counter-Reformation' and 'Catholic Reformation' are given as the two scholarly labels for the movement without choosing between them, a live historiographical question (O'Malley discusses the terms). The council is called an ecumenical council in the Catholic reckoning, and the note records that Protestant and Orthodox traditions do not accept it as such. Sources triangulate three lenses per neutrality principles #8-9 as adapted for Christianity: an academic history (O'Malley, Trent: What Happened at the Council, Belknap/Harvard, and Jedin's classic History of the Council of Trent); the primary corpus (the Trent decrees themselves at papalencyclicals.net, read directly for the Fourth and Twenty-Fifth Sessions); and a contemporary historian of doctrine (Pelikan, The Christian Tradition, vol. 4). No encyclopedias or tertiary sources are cited. Confidence: high on the Trent decrees source, because the Fourth Session (canon of scripture and scripture-and-tradition, 1546) and the Twenty-Fifth Session (purgatory, indulgences, invocation of saints, 1563) were read directly at papalencyclicals.net; medium on the secondary works, verified to exist and be on-topic via publisher pages and peer-reviewed reviews but not read line-by-line. Relation targets reformation, sola-fide, sola-scriptura, justification, purgatory, sacraments, indulgences, and roman-catholicism are present in the dataset (purgatory is authored in the same batch as this entry); transubstantiation is a forward reference to a not-yet-created entity. This entity is the fuller Council of Trent that reformation.json previously referenced as the forward reference 'council-of-trent-1545'; that relation has been repointed to this id.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "Trent was the Roman Catholic Church's central doctrinal and reforming response to the Protestant Reformation (the Counter-Reformation / Catholic Reformation); reported as a historical relation."
+    },
+    {
+      "type": "condemned",
+      "target": "sola-fide",
+      "note": "The Decree on Justification (Sixth Session, 1547) condemned in its canons those who held that the sinner is justified by faith alone in the Protestant sense. Stated as a historical fact of the council's action, not as a judgment on the doctrine."
+    },
+    {
+      "type": "condemned",
+      "target": "sola-scriptura",
+      "note": "The Fourth Session (1546) decreed that unwritten apostolic traditions are received with equal reverence as the scriptures, against the Protestant principle of scripture alone. Stated as a historical fact of the council's action, not adjudicated."
+    },
+    {
+      "type": "affirmed",
+      "target": "justification",
+      "note": "The Decree on Justification (Sixth Session, 1547) taught justification as infused grace and a real making-righteous in which faith, hope, and love cooperate. Attributed to the Catholic Church as its defined teaching, not endorsed by the editor."
+    },
+    {
+      "type": "affirmed",
+      "target": "purgatory",
+      "note": "The Twenty-Fifth Session (1563) affirmed that there is a purgatory and that the souls detained there are helped by the suffrages of the faithful, principally by the sacrifice of the Mass; read directly at papalencyclicals.net. Attributed to the Catholic Church, not endorsed. Purgatory is authored in the same batch as this entry."
+    },
+    {
+      "type": "affirmed",
+      "target": "sacraments",
+      "note": "Trent reaffirmed that there are seven sacraments and defined the Eucharist in terms of transubstantiation (Thirteenth Session, 1551). Attributed to the Catholic Church as its defined teaching."
+    },
+    {
+      "type": "affirmed",
+      "target": "indulgences",
+      "note": "The Decree on Indulgences (Twenty-Fifth Session, 1563) affirmed the church's power to grant indulgences while condemning abuses and forbidding all gain from them; read directly at papalencyclicals.net. Attributed to the Catholic Church, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "Trent's decrees shaped Roman Catholic doctrine, worship, and church order for some four centuries, until the Second Vatican Council (1962-1965)."
+    },
+    {
+      "type": "affirmed",
+      "target": "transubstantiation",
+      "note": "The Thirteenth Session (1551) defined that the whole substance of the bread and wine is changed into the body and blood of Christ, calling this change transubstantiation. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Council of Trent, the decrees and canons, at papalencyclicals.net: the Fourth Session (8 April 1546) on the canon of the sacred books (including the deuterocanonical books Tobias, Judith, Wisdom, Ecclesiasticus, Baruch, and 1-2 Maccabees) and on receiving the unwritten apostolic traditions with an equal affection of piety and reverence as the scriptures; and the Twenty-Fifth Session (3-4 December 1563) on purgatory, the invocation of the saints, and indulgences. The primary-corpus lens giving the council's teaching in its own documents.",
+      "url": "https://www.papalencyclicals.net/councils/trent/fourth-session.htm",
+      "license": "Underlying conciliar text public domain. The Fourth and Twenty-Fifth Session decrees read directly (2026-07-19) and confirmed; other sessions (Sixth on justification, Thirteenth on the Eucharist) consulted in summary at the same source.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "O'Malley, John W. Trent: What Happened at the Council. Cambridge, MA: The Belknap Press of Harvard University Press, 2013. A leading modern narrative and analytical history of the council, its politics, its doctrinal work, and the historiography of the terms 'Counter-Reformation' and 'Catholic Reformation'; the academic-history lens.",
+      "url": "https://www.hup.harvard.edu/books/9780674066977",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via publisher page and peer-reviewed reviews (Church History; Journal of Modern History).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Jedin, Hubert. A History of the Council of Trent. Translated by Dom Ernest Graf. 2 vols. (I: The Struggle for the Council; II: The First Sessions at Trent, 1545-47). Edinburgh and London: Thomas Nelson / St. Louis: B. Herder, 1957, 1961 (German original Geschichte des Konzils von Trient, 4 vols., 1949-1975). The classic scholarly history of the council; the academic-history lens.",
+      "url": "https://archive.org/stream/AHistoryOfTheCouncilOfTrJedinHubertGrafDomErne5676.o_201810/A%20History%20of%20the%20Council%20of%20Tr%20-%20Jedin,%20Hubert%20&%20Graf,%20Dom%20Erne_5676.o_djvu.txt",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Vol. II (The First Sessions at Trent, 1545-47) confirmed on archive.org (title page and translator verified 2026-07-19); existence and topic also confirmed via peer-reviewed reviews (American Historical Review; Church History; Journal of Ecclesiastical History).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 4: Reformation of Church and Dogma (1300-1700). Chicago: University of Chicago Press, 1984. A contemporary historian of doctrine's account of the doctrinal work of Trent in relation to the Reformation; the modern historian-of-doctrine lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3618533.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

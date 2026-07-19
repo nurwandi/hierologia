@@ -1,0 +1,86 @@
+{
+  "id": "judah-ha-nasi",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Judah ha-Nasi",
+    "original": "יְהוּדָה הַנָּשִׂיא",
+    "transliteration": "Yehudah ha-Nasi",
+    "aliases": [
+      "Judah the Prince",
+      "Rabbi (Rabbenu ha-Kadosh, 'our holy teacher')",
+      "Rabbi Yehuda ha-Nasi",
+      "Rebbi"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "patriarch (nasi)",
+    "sage"
+  ],
+  "summary": "Judah ha-Nasi (Judah the Prince, c. 135-217 CE), known in the rabbinic tradition simply as 'Rabbi', was the Jewish patriarch (nasi) in Roman Palestine and a leading sage of the Tannaim. He is traditionally credited with the redaction of the Mishnah around 200 CE, the first great written compilation of the Jewish oral law and the foundational text of rabbinic Judaism.",
+  "description": "Judah ha-Nasi (Judah the Prince), called in the rabbinic sources simply Rabbi ('the master') and also Rabbenu ha-Kadosh ('our holy teacher'), was the leading Jewish sage of his generation in Roman Palestine around the turn of the second and third centuries CE, conventionally dated c. 135-217 CE. He held the office of nasi (patriarch), the head of the Jewish leadership recognized under Roman rule, and is counted among the last generation of the Tannaim, the rabbinic teachers whose traditions the Mishnah records. The rabbinic tradition remembers him as a figure of both great learning and worldly standing, of considerable wealth, and on cordial terms with the Roman authorities; a body of aggadic tradition pairs 'Rabbi' with a Roman emperor called Antoninus in accounts of their friendship and discussions.\n\nJudah ha-Nasi is above all associated with the Mishnah, the topically arranged compilation of the oral law organized into six orders (sedarim), which became the foundational legal text of rabbinic Judaism. In the tradition's account, and in the standard scholarly reconstruction, he gathered, selected, and edited the accumulated teachings of the earlier Tannaim into this single authoritative work around 200 CE. It is important to state the character of this ascription precisely: that Judah ha-Nasi redacted the Mishnah is the traditional attribution, and the critical scholarship treats it as such rather than as a documented editorial act, since the traditions the Mishnah gathers are older than him, its final form may post-date him somewhat, and the sources for his exact role are internal to the later rabbinic literature. On any account he stands at, or very near, the point at which the oral law was first given comprehensive written shape.\n\nAs patriarch, Judah ha-Nasi consolidated the authority of the office and of the rabbinic academy; Aharon Oppenheimer's study profiles him as at once statesman, reformer, and redactor, and Lee Levine's work on the third-century patriarchate sets his leadership within the institutional and political setting of Roman Palestine. In the rabbinic memory his death marks the end of the tannaitic age and the transition to the period of the Amoraim, the sages of the Talmuds who took the Mishnah he had edited as their base text. He is presented here on Judaism's own terms, as the tradition remembers and honours him, with the historical-critical qualifications recorded alongside as attributed scholarship.",
+  "editorial_notes": "This entry presents Judah ha-Nasi on Judaism's own terms as the tradition remembers him, its patriarch and the redactor of the Mishnah (neutrality #1, #4, #6). The central editorial caution, made explicit in the description, is that the ascription of the Mishnah's redaction to him is the traditional attribution, and the critical scholarship treats it as such: the traditions the Mishnah gathers predate him, its final editing may fall somewhat after him, and the evidence for his precise editorial role is internal to the later rabbinic corpus. This matches the handling in mishnah.json, which records the redaction as 'traditionally ascribed' to him, and rabbinic-judaism.json ('traditionally associated with the redaction of Rabbi Judah ha-Nasi'). The Antoninus traditions are noted as aggadah, not as documented biography. Dating (c. 135-217 CE) is conventional and approximate in the scholarship. Sources triangulate three lenses per neutrality #8-9: academic historians of rabbinic Judaism and the patriarchate (Cohen; Levine; Strack and Stemberger); the primary rabbinic text (the Mishnah in Danby's translation, cited for the six orders and the Avot chain that places 'Rabbi' in the transmission of the oral law); and a contemporary Jewish scholar's dedicated study of the figure (Oppenheimer). No encyclopedias (including the Encyclopaedia Judaica and the Jewish Encyclopedia), Wikipedia, or tertiary sources. Confidence: the Mishnah (Danby) is high where directly cited for the six orders and the shape of the work (verified against the text), carrying the same high rating it holds in mishnah.json and rabbinic-judaism.json; Cohen carries the same medium rating he holds across the judaism entries; Levine, Strack and Stemberger, and Oppenheimer are medium. Relation targets mishnah, rabbinic-judaism, and tanakh exist; the reciprocal authored_by from mishnah to this figure is already recorded there.",
+  "lifespan": {
+    "birth": 135,
+    "death": 217,
+    "note": "c. 135-217 CE; the years are approximate and conventional in the scholarship (his death is variously placed in the early third century). He lived and led in Roman Palestine (Bet She'arim and Sepphoris are associated with him)."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "Judah ha-Nasi is traditionally credited with the redaction of the Mishnah around 200 CE; this is the tradition's ascription, treated as such by scholarship. The existing mishnah entry records the reciprocal authored_by relation."
+    },
+    {
+      "type": "member_of",
+      "target": "rabbinic-judaism",
+      "note": "As patriarch (nasi) and a leading sage of the last generation of the Tannaim, Judah ha-Nasi is a central figure of the rabbinic movement, whose foundational text (the Mishnah) is associated with his redaction. The rabbinic-judaism entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "As a Tanna and redactor of the oral law, Judah ha-Nasi stood within a tradition that received, read, and interpreted the Tanakh (the Written Torah and the wider Hebrew Bible); the Mishnah he is credited with editing derives and organizes law in relation to it. The tanakh entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the history of Judaism through the emergence of rabbinic Judaism and the making of the Mishnah; cited for Judah ha-Nasi's place in the tannaitic period and the traditional ascription of the Mishnah's redaction to him. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levine, Lee I. 'The Jewish Patriarch (Nasi) in Third Century Palestine.' In Aufstieg und Niedergang der romischen Welt II.19.2, ed. Hildegard Temporini and Wolfgang Haase, 649-688. Berlin and New York: Walter de Gruyter, 1979. Peer-reviewed academic study of the patriarchate (the office of nasi) in Roman Palestine, its authority, and its Roman setting, the institutional context of Judah ha-Nasi's leadership; cited as an academic lens on the office he held. Verified to exist and be on-topic (De Gruyter record, DOI 10.1515/9783110839043-012), not read line-by-line.",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110839043-012/html",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Mishnah. Trans. Herbert Danby. Oxford: Oxford University Press, 1933. Primary rabbinic text; the compilation traditionally credited to Judah ha-Nasi's redaction, cited for the six orders (sedarim) and for the chain of transmission of the oral law from Sinai to the sages (tractate Avot), within which 'Rabbi' stands. Cited as the primary rabbinic source, not as a neutral reference work. The six orders and overall structure verified against the text; the whole not read for this entry.",
+      "url": "https://archive.org/details/DanbyMishnah",
+      "license": "Danby translation (1933); Hebrew original in the public domain. Cited for reference.",
+      "accessed": "2026-07-20",
+      "confidence": "high"
+    },
+    {
+      "citation": "Oppenheimer, Aharon. Rabbi Judah ha-Nasi: Statesman, Reformer, and Redactor of the Mishnah. Texts and Studies in Ancient Judaism 155. Tubingen: Mohr Siebeck, 2017. Contemporary Jewish scholar's dedicated monograph on Judah ha-Nasi, his patriarchate, his relations with Rome, and his role in the redaction of the Mishnah; cited as the contemporary scholarly lens on the figure. Verified to exist and be on-topic (Mohr Siebeck record), not read line-by-line.",
+      "url": "https://www.mohrsiebeck.com/en/book/rabbi-judah-ha-nasi-9783161506857/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Strack, H. L., and Gunter Stemberger. Introduction to the Talmud and Midrash. Trans. and ed. Markus Bockmuehl. 2nd English ed., Minneapolis: Fortress Press, 1996. The standard one-volume critical introduction to rabbinic literature; cited for the redaction of the Mishnah and the tannaitic period within which Judah ha-Nasi worked. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.fortresspress.com/store/product/9780800625245/Introduction-to-the-Talmud-and-Midrash",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

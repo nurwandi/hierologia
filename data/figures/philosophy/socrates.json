@@ -1,0 +1,76 @@
+{
+  "id": "socrates",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Socrates",
+    "original": "Σωκράτης",
+    "transliteration": "Sōkratēs",
+    "aliases": [
+      "Sokrates",
+      "Socrates of Athens",
+      "Suqrat (Arabic: سقراط)"
+    ]
+  },
+  "roles": [
+    "philosopher"
+  ],
+  "summary": "Socrates (c. 470-399 BCE) was an Athenian philosopher who wrote nothing himself and is known chiefly through the writings of others, above all his pupil Plato. He is associated with a method of question-and-answer examination (the elenchus), a turn of philosophy toward ethics and the search for definitions of the virtues, and his trial and execution at Athens in 399 BCE; his example and method shaped the whole later course of Greek and Western philosophy.",
+  "description": "Socrates was born at Athens around 470 BCE and lived through the city's fifth-century height and the Peloponnesian War, dying by state-ordered execution in 399 BCE. He wrote nothing, and what is known of him comes from others who portray him in different and not wholly reconcilable ways, a difficulty scholars call the Socratic problem: he appears as the searching moral questioner of Plato's dialogues, as the practical and pious teacher of Xenophon's Memorabilia, and as the caricatured natural philosopher and sophist of Aristophanes' comedy the Clouds, while Aristotle reports views about him at a further remove. Because of this, reconstructing the historical Socrates, and distinguishing his own thought from the doctrines Plato places in his mouth, is itself a matter of scholarly debate rather than settled fact.\n\nThe activity most consistently attributed to him is a form of philosophical conversation, later called the elenchus (examination or refutation): Socrates would question an interlocutor who claimed to know what some virtue, such as courage, piety, or justice, is, draw out the implications of the answers, and expose contradictions among them, so that the confident claim to knowledge collapsed. He is portrayed as professing his own ignorance (the so-called Socratic irony) and as seeking definitions of the virtues, turning philosophical attention from the natural cosmos, the concern of his predecessors, toward ethics and the conduct of life; Plato's Apology presents the resulting way of life under the maxim that the unexamined life is not worth living, and attaches to him the claim that no one does wrong willingly and that virtue is a kind of knowledge. In 399 BCE he was tried before an Athenian court on charges of impiety and of corrupting the young, convicted, and sentenced to death by drinking hemlock; Plato's Apology (his defence speech), Crito (on why he would not escape), and Phaedo (his last day and death) are the classic literary accounts of the trial and its aftermath, and Xenophon also wrote an Apology.\n\nSocrates founded no school and left no doctrine in writing, yet his method and example stand at the head of the Western philosophical tradition. Through Plato, who made him the central speaker of the dialogues, and through the several 'Socratic' schools that traced themselves to his circle, his practice of definitional inquiry and moral examination passed into the whole later course of Greek philosophy and, through it, into the philosophical inheritance drawn on by Islamic, Jewish, and Christian thinkers. He is presented here on his own terms as a philosopher, filed under the philosophy tradition per ADR-0007, and is not annexed to any religious tradition.",
+  "editorial_notes": "Socrates is written here on his own terms as a philosopher and is filed under the philosophy tradition per ADR-0007: he is not a member of any religious tradition, and the entry does not present him as endorsing or belonging to Islam, Christianity, or Judaism. Birth and death (c. 470-399 BCE) are entered as negative integers per the BCE convention (birth -470, death -399); the birth year is approximate in the scholarship (c. 470/469 BCE) and the death year (399 BCE) is firmly fixed. The Socratic problem is stated openly in the description and is the central editorial caution here: Socrates wrote nothing, and the entry attributes the differing portraits to their authors (Plato, Xenophon, Aristophanes, Aristotle) rather than fusing them into a single settled biography or resolving which is the historical Socrates. Doctrines such as 'virtue is knowledge' and 'no one does wrong willingly' are given as they are attributed to him chiefly through Plato, not asserted as his verified teaching. Sources triangulate philosophical and classical scholarship with the primary texts, per neutrality principles #8 and #9: (a) an academic monograph, Gregory Vlastos, Socrates: Ironist and Moral Philosopher (Cambridge, 1991); (b) the primary texts, Plato's Socratic dialogues (Apology, Crito) and Xenophon's Memorabilia, in scholarly editions; (c) a further academic study, Debra Nails, The People of Plato (Hackett, 2002). All were web-verified to exist and be on-topic via publisher, journal-review, and catalogue records (2026-07-20). Confidence is medium throughout, with Plato's Apology high only for the trial, the charges, and the 'unexamined life' maxim, which are directly attested in the text; relevant passages of the secondary works were not read line-by-line. Per the source rule, no encyclopedia is cited, including the Stanford Encyclopedia of Philosophy. The relations to plato exist (plato records the reciprocal student_of); the influenced relation to neoplatonism points to the school authored in this same batch.",
+  "lifespan": {
+    "birth": -470,
+    "death": -399,
+    "note": "c. 470-399 BCE; born and died at Athens. The birth year is approximate (c. 470/469 BCE); the death by execution in 399 BCE is firmly dated. Years are entered as negative integers per the BCE convention."
+  },
+  "relations": [
+    {
+      "type": "teacher_of",
+      "target": "plato",
+      "note": "Plato was a follower of Socrates and made him the central speaker of most of his dialogues; the existing plato entry records the reciprocal student_of relation. What of the resulting philosophy is Socrates's own and what is Plato's is the scholarly Socratic problem, flagged in the description."
+    },
+    {
+      "type": "related_to",
+      "target": "plato",
+      "note": "Socrates is known above all through Plato, who is at once his pupil and his principal witness; the two are inseparable in the tradition, and Plato's dialogues are the fullest surviving portrait of Socrates."
+    },
+    {
+      "type": "influenced",
+      "target": "neoplatonism",
+      "note": "Through Plato and the later Platonist tradition, the Socratic turn to ethics and definitional inquiry passed into the philosophy of late antiquity, including Neoplatonism; this is a reception mediated by Plato rather than a direct doctrine of Socrates. Authored in the same batch."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Vlastos, Gregory. Socrates: Ironist and Moral Philosopher. Cornell Studies in Classical Philology 50. Cambridge and Ithaca: Cambridge University Press / Cornell University Press, 1991. Academic monograph on the historical Socrates, the elenchus, Socratic irony, and the relation of the Socratic to the Platonic dialogues; cited as the modern scholarly lens on the Socratic problem and Socrates's method. Verified to exist and be on-topic (Polis and Classical Review notices), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/polis/article/abs/gregory-vlastos-socrates-ironist-and-moral-philosopher-cambridge-cambridge-university-press-1991/",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Plato. Apology and Crito, in Plato: Complete Works, ed. John M. Cooper, assoc. ed. D. S. Hutchinson. Indianapolis and Cambridge: Hackett Publishing, 1997. Primary texts; the Apology (Socrates's defence at his trial) and Crito are the classic Socratic dialogues, cited as the primary-text lens for the trial, the charges of impiety and corrupting the young, and the maxim that the unexamined life is not worth living. The trial, charges, and 'unexamined life' passage verified against the Apology; other passages not read line-by-line.",
+      "url": "https://hackettpublishing.com/complete-works",
+      "license": "Proprietary translation; the original Greek is in the public domain. Cited for reference.",
+      "accessed": "2026-07-20",
+      "confidence": "high"
+    },
+    {
+      "citation": "Xenophon. Memorabilia (Memoirs of Socrates), in Memorabilia. Oeconomicus. Symposium. Apology, trans. E. C. Marchant and O. J. Todd, rev. ed. Loeb Classical Library 168. Cambridge, Mass.: Harvard University Press, 2013; also in Conversations of Socrates, trans. Hugh Tredennick and Robin Waterfield, Penguin Classics, 1990. Primary text; Xenophon's portrait of Socrates as a practical and pious teacher, cited alongside Plato's as an independent ancient witness bearing on the Socratic problem. Verified to exist in scholarly editions, not read line-by-line.",
+      "url": "https://www.loebclassics.com/view/xenophon_athens-memorablia_2013/2013/pb_LCL168.3.xml",
+      "license": "Proprietary translation; original Greek in the public domain. Cited for reference (Loeb Classical Library record).",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nails, Debra. The People of Plato: A Prosopography of Plato and Other Socratics. Indianapolis and Cambridge: Hackett Publishing, 2002. Academic prosopography identifying the historical persons of the Socratic literature, including Socrates and his circle, and weighing the biographical evidence; cited as a further scholarly lens on the sources for Socrates's life. Verified to exist and be on-topic (Bryn Mawr Classical Review notice), not read line-by-line.",
+      "url": "https://bmcr.brynmawr.edu/2003/2003.10.09/",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-20",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}

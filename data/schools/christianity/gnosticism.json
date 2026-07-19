@@ -1,0 +1,85 @@
+{
+  "id": "gnosticism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Gnosticism",
+    "original": "γνῶσις",
+    "transliteration": "gnōsis",
+    "aliases": [
+      "Gnostic movements",
+      "Gnosis",
+      "the Gnostics"
+    ]
+  },
+  "summary": "Gnosticism is the modern collective name for a diverse set of religious currents, chiefly of the second century CE and in and around early Christianity, associated in the scholarship with an emphasis on saving knowledge (gnosis), and in many of the systems with a distinction between a lower creator (the demiurge) and a higher unknowable God. It is known both from hostile heresiological reports by writers such as Irenaeus and Tertullian and, since the 1945 discovery of the Coptic Nag Hammadi library, from primary texts; the mainstream church condemned these currents as heresy, and modern scholars debate whether 'Gnosticism' names a single coherent category at all.",
+  "description": "'Gnosticism' is a modern scholarly term, coined in the early modern period and elaborated since, for a range of religious currents that flourished especially in the second century CE in the eastern Mediterranean, many of them in contact with early Christianity and with Hellenistic Judaism and Platonism. As commonly reconstructed by scholarship, the currents grouped under the label share, in varying combinations, an emphasis on gnosis, a saving knowledge of the divine and of the self's origin and destiny, and, in many systems, a distinction between the God of the material world, a lower creator often called the demiurge, and a higher, transcendent, and previously unknown God. Several of the systems present an elaborate cosmology of divine emanations (aeons) within a fullness (pleroma), a fall or rupture within the divine world that produces the lower cosmos, and the presence in some human beings of a divine spark that saving knowledge awakens and returns to its source; a docetic Christology, in which Christ's suffering or bodily reality is qualified, and a dualist or world-denying stance toward the material order are attributed to several of the traditions. Among the currents distinguished in the scholarship are the Valentinian school, associated with the teacher Valentinus and described at length by Irenaeus, and the so-called Sethian texts. The evidence is of two kinds, which modern study reads together. The first is the reports of the heresiologists, the church writers who described these teachings in order to refute them, above all Irenaeus of Lyons in Against Heresies, and Tertullian; these are hostile witnesses whose polemical purpose shapes what they preserve, and their accounts are cited here as attributed hostile sources rather than as neutral description. The second, transforming the field since its discovery, is the primary Coptic library found near Nag Hammadi in Upper Egypt in 1945, a collection of codices containing texts such as the Apocryphon of John, the Gospel of Truth, and the Gospel of Thomas, which for the first time gave scholars these movements' own writings rather than only their opponents' summaries. The mainstream church condemned these currents as heresy, a matter of historical record stated here without the editor endorsing that verdict. A substantial strand of recent scholarship, notably Michael Allen Williams and Karen King, questions whether 'Gnosticism' is a coherent single category at all, arguing that the term inherits and reinscribes the heresiologists' polemical construction and flattens real differences among the texts; this debate is live and is flagged rather than resolved. This entry presents the reconstructed features as scholarship reconstructs them, attributes the heresiological reports to their hostile sources, and records the condemnation as historical fact without adjudicating it.",
+  "editorial_notes": "Neutrality crux (#11): the currents grouped as 'Gnosticism' are known partly through hostile heresiologists (Irenaeus, Tertullian) who wrote to refute them, and partly, since 1945, through the primary Coptic Nag Hammadi library. This entry accordingly presents the reconstructed features as reconstructed by scholarship (Layton, Williams, King), attributes the specific heresiological reports (the Valentinian aeons and pleroma, the label 'demiurge', the charge of dualism and docetism) to the hostile sources rather than stating them as neutral fact, and balances those reports against the primary Nag Hammadi texts, which give the movements' own voice. The condemnation of these currents as heresy by the mainstream church is stated as historical fact, but the entry does not endorse the church's verdict, nor does it endorse the Gnostic teachings. The scholarly debate over whether 'Gnosticism' is a single coherent category (Williams argues for dismantling the category; King argues it is a modern reification of a heresiological discourse) is flagged as live and unresolved, not adjudicated. Dates are given as an approximate floruit; the currents are diffuse and their origins debated. Sources triangulate three lenses per neutrality principles #8-9: (a) modern academic scholarship, Layton's annotated translation and study (Doubleday, 1987), Williams (Princeton, 1996), and King (Harvard, 2003); (b) the primary evidence of both kinds, the Nag Hammadi library in Robinson's edition and the heresiological reports of Irenaeus (Against Heresies I, on the Valentinians) cited as an attributed hostile source, both consulted in open translations where noted; (c) King (2003) also serves as the recent contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: medium throughout; the monographs are verified to exist and be on-topic via publisher, review, and catalogue records but not read line-by-line, and the ANF Irenaeus Book I.1 (Valentinian system) was opened and its content confirmed, but is itself hostile testimony, so the confidence reflects the reconstructed and contested nature of the underlying claims. Relation targets that exist in the dataset: marcion, irenaeus, new-testament-canon, and patristics. School relation enum used: related_to and opposed (per schema/school.schema.json).",
+  "period": {
+    "founded": 100,
+    "active_until": 400,
+    "note": "Approximate. The currents grouped as Gnosticism flourished especially in the second century CE, with roots debated and with texts and communities persisting into the fourth century (the Nag Hammadi codices are mid-fourth-century copies of earlier works). Dates are scholarly conventions for a diffuse phenomenon, not sharp events."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "marcion",
+      "note": "Marcion of Sinope is often discussed alongside the Gnostic currents because of his distinction between the creator God and a higher God, though scholars such as Lieu and Moll stress that he lacked the elaborate cosmogony of the Gnostic systems and is not straightforwardly a Gnostic. Reciprocal to the marcion related_to gnosticism edge."
+    },
+    {
+      "type": "opposed",
+      "target": "irenaeus",
+      "note": "Irenaeus of Lyons wrote Against Heresies (esp. Book I) to describe and refute the Gnostic systems, above all the Valentinians; recorded here as the direction of the polemic, with Irenaeus as a hostile witness whose reports are cited as an attributed hostile source, balanced against the primary Nag Hammadi texts."
+    },
+    {
+      "type": "related_to",
+      "target": "new-testament-canon",
+      "note": "The circulation of Gnostic gospels and revelations (for example the Gospel of Truth and the Gospel of Thomas) is part of the second- to fourth-century context in which the wider church clarified which writings it received; the relationship of these texts to the forming canon is discussed in the scholarship."
+    },
+    {
+      "type": "related_to",
+      "target": "patristics",
+      "note": "Much of the surviving pre-1945 evidence for the Gnostic currents comes from the patristic heresiologists (Irenaeus, Tertullian, and later Epiphanius), who described these teachings in order to refute them; their reports are hostile witnesses and are cited here as attributed hostile sources."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Layton, Bentley. The Gnostic Scriptures: A New Translation with Annotations and Introductions. Anchor Bible Reference Library. Garden City, NY: Doubleday, 1987. ISBN 978-0-385-17447-3. Scholarly translation, with introductions and annotations, of the primary Gnostic texts (Greek, Latin, and Coptic), organised to reflect the history of the currents in the second to fourth centuries; the outside-scholarship and primary-text lens. Relevant passages not read line-by-line.",
+      "url": "https://www.jstor.org/stable/j.ctv1mgmcxj",
+      "license": "Proprietary translation and study; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Williams, Michael Allen. Rethinking 'Gnosticism': An Argument for Dismantling a Dubious Category. Princeton: Princeton University Press, 1996. xix + 335 pp. ISBN 978-0-691-01127-1. Academic monograph arguing that 'Gnosticism' is not a coherent single category and that no single set of traits fits all the texts so labelled; cited for the scholarly debate over the category. Relevant passages not read line-by-line.",
+      "url": "https://www.amazon.com/Rethinking-Gnosticism-Argument-Dismantling-Category/dp/0691011273",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "King, Karen L. What Is Gnosticism? Cambridge, MA: The Belknap Press of Harvard University Press, 2003. 343 pp. ISBN 978-0-674-01071-7. Academic monograph arguing that 'Gnosticism' is a modern reification of an early Christian discourse of orthodoxy and heresy, and tracing how modern scholarship has reinscribed and deviated from that discourse; the contemporary-scholar lens and a principal source for the category debate.",
+      "url": "https://www.hup.harvard.edu/books/9780674017627",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Robinson, James M., ed. The Nag Hammadi Library in English. 3rd, rev. ed. Leiden: Brill / San Francisco: HarperSanFrancisco, 1988. Scholarly English edition of the Coptic codices discovered near Nag Hammadi in 1945 (including the Apocryphon of John, the Gospel of Truth, and the Gospel of Thomas); the primary-text lens giving the movements' own writings rather than their opponents' summaries. Cited for reference; relevant texts not read line-by-line.",
+      "url": "https://brill.com/display/title/32671",
+      "license": "Proprietary edition and translation; underlying Coptic texts are ancient. Cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Irenaeus of Lyons. Against Heresies (Adversus Haereses), Book I, Chapter 1 and following (on the Valentinian system: the aeons, Bythos/Depth, and the Pleroma). In Ante-Nicene Fathers, vol. 1, trans. Alexander Roberts and William Rambaut, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Primary source cited AS an attributed hostile witness: Irenaeus describes the Valentinian cosmology in order to refute it, and his report is a principal pre-1945 channel for the Gnostic systems. Book I.1 read in the cited translation.",
+      "url": "https://www.newadvent.org/fathers/0103101.htm",
+      "license": "Underlying text public domain; the cited chapter read in the ANF translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-20"
+}
