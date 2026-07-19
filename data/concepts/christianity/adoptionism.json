@@ -1,0 +1,71 @@
+{
+  "id": "adoptionism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Adoptionism",
+    "original": "υἱοθεσία (huiothesia, adoption)",
+    "transliteration": "Adoptionismus",
+    "aliases": [
+      "Adoptianism",
+      "adoptionist Christology",
+      "dynamic Monarchianism (of the early form)"
+    ]
+  },
+  "category": "christology",
+  "summary": "Adoptionism is the name for Christologies holding that Jesus was a human being who was adopted as, or exalted to be, the Son of God, rather than being the eternal, pre-existent divine Son by nature. Scholars distinguish an early form associated with second- and third-century figures such as Theodotus and Paul of Samosata from a distinct eighth-century Spanish controversy over Christ's human 'adoptive' sonship.",
+  "description": "Adoptionism is a modern umbrella term for positions in which Jesus's divine sonship is understood as conferred rather than eternal: on such a view, Jesus is a man who is adopted, empowered, or exalted as Son of God, typically located at his baptism or his resurrection, and is not a pre-existent divine Word co-eternal with the Father. An early cluster of such views appears in the second and third centuries. Eusebius, quoting an earlier treatise (the so-called Little Labyrinth), reports that Theodotus of Byzantium taught that Jesus was a man on whom the Spirit descended at baptism, and that the group around him and Artemon claimed this was the church's original teaching, a claim the source disputes; modern scholars often label this early current 'dynamic Monarchianism'. Paul of Samosata, bishop of Antioch, was condemned by a council there (c. 268) for a Christology his opponents read as making the Word a power in the man Jesus rather than a distinct pre-existent person. A quite distinct controversy, the Spanish Adoptionism of the eighth century, is associated with Elipandus of Toledo and Felix of Urgell, who held that Christ in his human nature is Son of God by adoption while being Son by nature in his divinity; this was opposed by Alcuin and others and condemned at the Council of Frankfurt (794) and by Pope Leo III (798). The two forms differ: the early current tends toward denying Christ's eternal divine sonship altogether, while the Spanish form works within Nicene and Chalcedonian orthodoxy and predicates 'adoptive' sonship only of the human nature. In the developing mainstream, all such positions were judged to fall short of the confession that the Son is eternally and by nature God, framed against them; this entry states that judgment as the position of the councils and their tradition, attributed to its holders, without adjudicating the underlying dispute.",
+  "editorial_notes": "The entry distinguishes the early adoptionism / dynamic Monarchianism of the second and third centuries (Theodotus, Artemon, Paul of Samosata) from the distinct eighth-century Spanish adoptionism (Elipandus, Felix), as the prompt requires, and states the doctrinal difference between them. The conciliar verdicts (Antioch c. 268; Frankfurt 794; Leo III 798) are reported as the attributed position of the councils and the mainstream tradition, per neutrality #1 and #2; the editor does not rule the dispute. Sourcing triangulates three lenses per #8-9: outside academic scholarship on early Christological diversity (Ehrman, How Jesus Became God, which treats exaltation/adoption Christology), a primary patristic testimony (Eusebius, Ecclesiastical History 5.28, preserving the report on Theodotus and Artemon), and a contemporary scholar (John Behr, The Way to Nicaea, whose account reaches Paul of Samosata and the Council of Antioch). No encyclopedias or tertiary sources. Confidence is medium except the primary patristic text, which is high for the fact of the attributed report though not for its polemical claims. Relations place adoptionism on the Christian dogmatic map: related_to ebionites (a Jewish-Christian movement reported to have held a low/adoptionist Christology, created in this batch), related_to arianism (both are subordinationist currents the Nicene tradition opposed, arianism already exists), related_to incarnation and related_to trinity (the doctrines against which adoptionism is defined; both already exist). No compares_with link is asserted, as the batch's cross-tradition edges on Jesus's status are carried by isa, incarnation, and ebionites; adding another here would double-count the same question.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "ebionites",
+      "note": "The Ebionites, an early Jewish-Christian movement, are reported by hostile heresiographers to have held a low or adoptionist Christology in which Jesus is a human Messiah designated as Son of God rather than a pre-existent divine Word. The link connects adoptionism to one of the groups associated with it."
+    },
+    {
+      "type": "related_to",
+      "target": "arianism",
+      "note": "Adoptionism and Arianism are distinct but both are subordinationist currents that the developing Nicene tradition opposed: adoptionism by denying the eternal, natural divine sonship of Christ, Arianism by holding the Son to be a creature. The Nicene confession of the Son as eternally God was framed against both."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "Adoptionism is defined largely by contrast with the doctrine of the Incarnation: where the Incarnation holds that the eternal, pre-existent Son of God became man, adoptionism holds that a human Jesus was adopted or exalted as Son of God."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "The early adoptionist and Monarchian currents bear on Trinitarian doctrine: by treating the Son as an adopted man or a power rather than a distinct, co-eternal divine person, they were read as incompatible with the Nicene confession of the Son as homoousios with the Father."
+    }
+  ],
+  "historical_period": {
+    "start": 190,
+    "note": "Approximate. An early current appears in the late second and third centuries (Theodotus, c. 190; Paul of Samosata, condemned c. 268); a distinct Spanish adoptionist controversy runs in the later eighth century (condemned 794-798). Dates mark the disputes, not a single continuous school."
+  },
+  "sources": [
+    {
+      "citation": "Ehrman, Bart D. How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee. New York: HarperOne, 2014. Academic-trade study by a scholar of early Christianity arguing for an early 'exaltation' or adoption Christology and mapping the diversity of early Christological views. Serves as the outside academic lens.",
+      "url": "https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Eusebius of Caesarea. Ecclesiastical History (Historia Ecclesiastica) 5.28, early 4th c. CE, quoting an earlier anti-adoptionist treatise (the 'Little Labyrinth'). Trans. in Nicene and Post-Nicene Fathers, Second Series, Vol. 1, ed. Philip Schaff and Henry Wace. Buffalo, NY: Christian Literature Publishing Co., 1890. Primary patristic testimony: the report that Theodotus of Byzantium and the circle around Artemon taught that Jesus was a man (adoptionism / dynamic Monarchianism), cited as an attributed and polemical account.",
+      "url": "https://www.newadvent.org/fathers/250105.htm",
+      "license": "Historical text; Greek in the public domain, this English translation in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Behr, John. The Way to Nicaea. Formation of Christian Theology, Vol. 1. Crestwood, NY: St Vladimir's Seminary Press, 2001. A contemporary patristics scholar's study of pre-Nicene Christology, treating the third-century debates in Rome and Paul of Samosata and the Council of Antioch. Serves as the contemporary scholarly lens.",
+      "url": "https://svspress.com/way-to-nicaea-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

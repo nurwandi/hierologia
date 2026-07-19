@@ -1,0 +1,78 @@
+{
+  "id": "ebionites",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Ebionites",
+    "original": "Ἐβιωναῖοι",
+    "transliteration": "Ebiōnaioi",
+    "aliases": [
+      "the Ebionites",
+      "Ebionaeans",
+      "the poor (from Hebrew ebyonim)"
+    ]
+  },
+  "summary": "The Ebionites were an early Jewish-Christian movement, attested for roughly the second through fourth centuries, whom later heresiographers describe as holding a low or adoptionist Christology (Jesus the human Messiah, not pre-existent or divine), observing the Torah, and rejecting the apostle Paul. Almost all of what is reported about them survives through hostile heresiological sources, and scholars debate how far the label fits any single historical group.",
+  "description": "Ebionites is the name given in early Christian heresiological writing to one or more Jewish-Christian groups, active from roughly the second century into the fourth or fifth. The designation is usually connected to the Hebrew ebyonim, 'the poor', and Oskar Skarsaune and others argue it may have begun as a self-description of some Jewish believers before hostile writers made it a sect-name. According to the church fathers who describe them, the Ebionites held a low Christology: Jesus was a human being, the son of Joseph and Mary, chosen or empowered as Messiah, and not a pre-existent or divine Word; several reports connect them to an adoptionist view in which Jesus was designated Son of God rather than being so by eternal nature. The same reports credit them with continued observance of the Jewish Law (circumcision, sabbath, dietary rules) and with rejecting the apostle Paul as an apostate from the Law, while using a gospel associated with Matthew or a distinct Jewish-Christian gospel. It is essential to the historical caution here that this portrait comes almost entirely through their opponents. Irenaeus of Lyons (Against Heresies, c. 180) is the earliest to name them; Origen distinguishes classes of Ebionites; and Epiphanius of Salamis (Panarion 30, c. 375) gives the longest account, but Epiphanius is a late, polemical heresiographer who conflates sources and whose reliability modern scholars treat with reserve. Because the movement left no undisputed writings of its own, its reconstruction depends on reading these hostile testimonia critically. Petri Luomanen and others stress that 'Ebionites' likely covers a diversity of Jewish-Christian profiles rather than one organized sect, and that the fathers' heresiological framework itself shaped, and may distort, the picture that survives.",
+  "editorial_notes": "This entry carries a heightened neutrality burden and is written to the guardrail in neutrality principles #10 and #11. First, the sourcing: the primary references to the Ebionites are the church fathers Irenaeus (Against Heresies) and Epiphanius (Panarion 30), which are cited strictly as attributed, hostile testimonia, labelled as heresiology and polemic (#11), never as neutral fact; the entry's own descriptive backbone is modern scholarly reconstruction (Skarsaune and Hvalvik, eds., Jewish Believers in Jesus, as the academic lens; Luomanen, Recovering Jewish-Christian Sects and Gospels, as the contemporary scholarly lens), which reads those testimonia critically and stresses that the label likely covers a diversity of groups. The three lenses per #8 are thus: academic monograph (Skarsaune and Hvalvik), primary testimonia (Irenaeus, Epiphanius, cited as hostile), and a contemporary scholar (Luomanen). Second, and critically, the two cross-tradition compares_with links to tawhid and isa are each framed as a comparable QUESTION with a stated difference per ADR-0005 and #10, and each EXPLICITLY DISCLAIMS the contested genealogical thesis: the entry does NOT assert or imply that Islam derives, descends, or borrows from the Ebionites or from Jewish Christianity. That derivation thesis exists in older polemical and some scholarly literature but is contested and is not asserted here; the links compare the shared questions (strict monotheism; the status of Jesus as human versus divine) only. The related_to adoptionism and related_to incarnation links place the movement's reported Christology within the Christian dogmatic map, incarnation being named as the doctrine the Ebionites did not hold. Confidence is medium: the sources are verified to exist and to be on-topic, but their passages were not read line-by-line, and the underlying evidence is itself fragmentary and mediated by hostile witnesses, which the entry states openly. Targets tawhid, isa, incarnation, and adoptionism: tawhid and incarnation already exist; isa and adoptionism are created in this same batch.",
+  "period": {
+    "founded": 100,
+    "active_until": 400,
+    "note": "Approximate and contested. The movement is attested from roughly the second century (Irenaeus, c. 180) into the fourth or fifth (Epiphanius, c. 375); dates are scholarly conventions built on hostile testimonia, not sharp events, and the very existence of a single continuous group is debated."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "adoptionism",
+      "note": "Several heresiological reports connect the Ebionites to an adoptionist Christology, in which Jesus is a human being designated or empowered as Son of God rather than a pre-existent divine Word. The connection is drawn from hostile sources and is one strand of a diverse picture."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "The Ebionites are reported to have rejected precisely what the later doctrine of the Incarnation affirms: that in Jesus the eternal, pre-existent Son of God became man. This entry names the Incarnation as the doctrine the movement, on the heresiographers' account, did not hold."
+    },
+    {
+      "type": "compares_with",
+      "target": "tawhid",
+      "note": "Both bear on the question of strict divine oneness. The Ebionites, as described by hostile sources, held a strict monotheism in which Jesus is not divine; Islamic tawhid affirms the absolute oneness of God admitting no partner, and likewise denies Jesus's divinity. The link marks a comparable question about the oneness of God and does NOT assert or imply any historical derivation of Islam from the Ebionites or from Jewish Christianity; it compares the question, not the answers, and ranks neither."
+    },
+    {
+      "type": "compares_with",
+      "target": "isa",
+      "note": "Both bear on the status of Jesus. The Ebionites, on the heresiographers' account, held Jesus to be a human Messiah, not pre-existent or divine; the Islamic Isa is likewise a human prophet and Messiah, honored but not divine and not the son of God. The link marks a comparable question about whether Jesus is human or divine, states that difference in framing, and does NOT assert or imply that Islam descends from or was shaped by the Ebionites; it compares the question, not the answers, and ranks neither."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Skarsaune, Oskar, and Reidar Hvalvik, eds. Jewish Believers in Jesus: The Early Centuries. Peabody, MA: Hendrickson, 2007. Academic collection; Skarsaune's chapter 'The Ebionites' (pp. 419-462) reconstructs the movement critically from the patristic evidence and argues 'Ebionites' likely began as a self-designation covering diverse Jewish believers. Serves as the outside academic lens.",
+      "url": "https://archive.org/details/jewishbelieversi0000unse",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Irenaeus of Lyons. Against Heresies (Adversus Haereses), c. 180 CE, esp. I.26.2. Trans. in Ante-Nicene Fathers, Vol. 1, ed. Alexander Roberts and James Donaldson. Buffalo, NY: Christian Literature Publishing Co., 1885. PRIMARY SOURCE, cited as a hostile, heresiological testimonium: the earliest naming of the Ebionites and their reported low Christology, Law observance, and rejection of Paul, written to refute them, not to describe them neutrally.",
+      "url": "https://www.newadvent.org/fathers/0103126.htm",
+      "license": "Historical text; Greek/Latin in the public domain, this English translation in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Epiphanius of Salamis. Panarion (Refutation of All Heresies), Book 30 (on the Ebionites), c. 375 CE. Trans. Frank Williams, The Panarion of Epiphanius of Salamis, Book I. Leiden: Brill, 2nd rev. ed. 2009. PRIMARY SOURCE, cited as a late and hostile heresiographical testimonium: the longest ancient account of the Ebionites, whose reliability modern scholars treat with reserve because Epiphanius conflates sources and writes as a polemicist.",
+      "url": "https://brill.com/display/title/17400",
+      "license": "Proprietary translation; classical Greek text in the public domain. Cited for reference as attributed polemic, not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Luomanen, Petri. Recovering Jewish-Christian Sects and Gospels. Supplements to Vigiliae Christianae 110. Leiden: Brill, 2012. Academic monograph reassessing the patristic sources on the Ebionites and other Jewish-Christian groups, arguing that the fathers' heresiological discourse is artificial and that 'Ebionites' covers diverse profiles. Serves as the contemporary scholarly lens.",
+      "url": "https://brill.com/display/title/13759",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

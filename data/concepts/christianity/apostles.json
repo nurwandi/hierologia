@@ -1,0 +1,61 @@
+{
+  "id": "apostles",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Apostles",
+    "original": "ἀπόστολοι",
+    "transliteration": "apostoloi",
+    "aliases": [
+      "the Twelve",
+      "the Twelve Apostles",
+      "the disciples of Jesus",
+      "apostolic authority"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "In Christianity, the Apostles are the followers Jesus gathered and commissioned, above all the inner circle of the Twelve, understood as sent by Christ to witness to his resurrection and to found and lead the church. Their commissioning grounds the Christian notion of apostolic authority, the foundational teaching role that later tradition connects to Scripture and to the offices of the church.",
+  "description": "The Greek apostolos means 'one who is sent', and in the New Testament it designates those commissioned by Jesus, especially the Twelve whom the Gospels present him as choosing from among his disciples (Mark 3:13-19 and parallels). The Gospels and Acts portray the Twelve as companions of Jesus during his ministry, witnesses of his resurrection, and recipients of a commission to preach, baptize, and make disciples of all nations (Matthew 28:16-20; Acts 1:8). Acts 1:15-26 describes the reconstitution of the Twelve after the loss of Judas, underlining the symbolic completeness of the number, often read against the twelve tribes of Israel. Peter is frequently given a leading or representative place among them (Matthew 16:16-19), and Paul, though not one of the Twelve, claims the title apostle on the basis of his encounter with the risen Christ and his commission to the Gentiles. From this commissioning Christianity develops the idea of apostolic authority: the apostles as authoritative witnesses and teachers whose testimony stands at the foundation of the church, an authority that later tradition links to the New Testament writings, to the rule of faith, and, in the churches that hold it, to apostolic succession in the episcopate. Modern scholarship distinguishes the historical circle of Jesus's followers from the later theological elaboration of apostleship: John P. Meier treats the Twelve as a group Jesus himself very probably gathered, while studies of figures such as Peter trace how the memory and authority of an apostle were shaped in the early church.",
+  "editorial_notes": "The entry describes the Apostles on Christianity's own terms first (neutrality #6): the followers Jesus gathered and commissioned, the Twelve as resurrection witnesses and foundation of the church, and the resulting notion of apostolic authority, with the distinction between the historical circle and its later theological elaboration attributed to scholarship rather than asserted as dogma. Sourcing triangulates three lenses per #8-9: outside academic scholarship (Meier, A Marginal Jew vol. 3, on the historical circle of the Twelve), the tradition's own primary texts (the Gospels and Acts), and a contemporary theologian and biblical scholar (Bockmuehl, Simon Peter in Scripture and Memory, on apostleship and its reception). No encyclopedias or tertiary sources. Confidence is medium except the primary scriptural text. The compares_with link to hawariyyun is the reciprocal of the Islamic entry and follows ADR-0005 and #10: both traditions name the followers Jesus gathered; the note states the DIFFERENCE, that Christianity vests the Twelve with a foundational, authoritative role in the church while the Qur'an frames the hawariyyun chiefly as sincere helpers and believers in a prophet; it compares the question, not the answers, and ranks neither. related_to incarnation is included because apostolic witness in Christian thought is witness to the incarnate and risen Christ, which is apt. Target hawariyyun is created in this same batch; incarnation already exists.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "Christian tradition frames the apostles as authoritative witnesses to the incarnate and risen Christ; their testimony to who Jesus is stands at the foundation of the church's confession, including the doctrine of the Incarnation."
+    },
+    {
+      "type": "compares_with",
+      "target": "hawariyyun",
+      "note": "Both name the followers Jesus gathered around himself. Christianity frames the Twelve Apostles as bearers of a foundational and authoritative role in the church, commissioned by Christ to witness to his resurrection and to teach; the Qur'an presents the hawariyyun chiefly as sincere believers and helpers of God (ansar Allah) supporting a prophet, without developing a doctrine of apostolic office. The link marks a comparable question about Jesus's followers and their role, not an equivalence of the two framings, and ranks neither."
+    }
+  ],
+  "historical_period": {
+    "start": 30,
+    "note": "The apostolic circle belongs to the ministry of Jesus and the earliest church (c. 30-60 CE); the theology of apostolic authority and succession is elaborated across the following centuries."
+  },
+  "sources": [
+    {
+      "citation": "Meier, John P. A Marginal Jew: Rethinking the Historical Jesus, Vol. 3: Companions and Competitors. Anchor Bible Reference Library. New York: Doubleday, 2001. Academic study of the historical Jesus's circle, including a detailed treatment of the disciples and the Twelve as a group very probably gathered by Jesus himself.",
+      "url": "https://archive.org/details/johnp.meieramarginaljewv.3anchorbiblereferencelibrary2001",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The New Testament: the Gospels (esp. Mark 3:13-19; Matthew 10:1-4; 16:16-19; 28:16-20; Luke 6:12-16) and the Acts of the Apostles (esp. 1:8, 1:15-26). Primary scripture: the calling and commissioning of the Twelve, their role as resurrection witnesses, and the reconstitution of their number.",
+      "license": "Primary religious text; Greek in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Bockmuehl, Markus. Simon Peter in Scripture and Memory: The New Testament Apostle in the Early Church. Grand Rapids: Baker Academic, 2012. A contemporary biblical scholar and theologian's study of the New Testament apostle Peter and the shaping of apostolic authority and memory in the early church. Serves as the contemporary theologian lens.",
+      "url": "https://bakeracademic.com/p/Simon-Peter-in-Scripture-and-Memory-Markus-Bockmuehl/40817",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

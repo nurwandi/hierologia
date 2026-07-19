@@ -1,0 +1,66 @@
+{
+  "id": "hawariyyun",
+  "tradition": "islam",
+  "names": {
+    "primary": "al-Hawariyyun (the disciples of Jesus)",
+    "original": "الحواريون",
+    "transliteration": "al-Ḥawāriyyūn",
+    "aliases": [
+      "the disciples of Isa",
+      "the helpers of God (ansar Allah)",
+      "the Apostles in the Qur'an"
+    ]
+  },
+  "category": "prophetology",
+  "summary": "In the Qur'an, al-hawariyyun are the loyal disciples and helpers of the prophet Isa, who answered his call by declaring themselves the helpers of God (ansar Allah). They appear in Q3:52, Q5:111-112, and Q61:14 as a model of faith and support for a prophet.",
+  "description": "The hawariyyun are named in the Qur'an as the close companions and helpers whom the prophet Isa gathered. When Isa perceived rejection and unbelief among his people, he asked, 'Who will be my helpers toward God?' and the hawariyyun answered, 'We are the helpers of God (nahnu ansar Allah); we believe in God, so bear witness that we submit' (Q3:52). Q5:111 describes God inspiring the hawariyyun to believe in Him and His messenger, and Q5:112-115 relates their request that a table (ma'ida) be sent down from heaven, granted as a sign. In Q61:14 believers are exhorted to be helpers of God as the hawariyyun were helpers to Isa, universalizing their loyalty into a model for the Muslim community. The Qur'an presents them as sincere believers and faithful supporters of a prophet within the single line of prophecy; classical commentators discussed the derivation of the term (variously linked to hawar, whiteness or purity, or to the fullers' trade) and their number, often twelve by analogy with the biblical disciples. The Qur'anic frame does not develop a doctrine of ecclesial office or teaching authority vested in them; their role is faith in and support of the prophet Isa and, through the exhortation of Q61:14, an example for later believers.",
+  "editorial_notes": "The entry describes the hawariyyun on Islam's own terms first (neutrality #6): the loyal helpers (ansar Allah) of the prophet Isa who confessed faith and support, presented as a model for believers, with the derivation of the name and their number noted as matters classical commentators discussed rather than settled. Sourcing triangulates three lenses per #8-9: outside academic scholarship (Robinson's study of the Qur'anic Jesus, which treats the disciples), the tradition's own primary scripture (the three Qur'anic passages Q3:52, Q5:111-112, Q61:14) with a classical tafsir (Ibn Kathir), and a contemporary Muslim scholar (Tarif Khalidi, The Muslim Jesus). No encyclopedias or tertiary sources. Confidence is medium except for the primary Qur'anic text. The compares_with link to apostles follows ADR-0005 and #10: both traditions name the followers Jesus gathered, and the note states the DIFFERENCE, that the Qur'an frames the hawariyyun chiefly as sincere helpers and believers in a prophet without developing a doctrine of apostolic office or teaching authority, whereas Christianity vests the Twelve Apostles with a foundational, authoritative role in the church; the link marks the comparable question (who Jesus's followers were and what their role is), not an equivalence of the answers, and ranks neither. The target apostles is created in this same batch as its reciprocal; isa is also in this batch.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "isa",
+      "note": "The hawariyyun are the disciples and helpers of the prophet Isa, gathered by him and confessing faith in God as narrated in Q3:52 and Q5:111-112."
+    },
+    {
+      "type": "compares_with",
+      "target": "apostles",
+      "note": "Both name the followers Jesus gathered around himself. The Qur'an presents the hawariyyun chiefly as sincere believers and helpers of God (ansar Allah) supporting a prophet, and does not develop a doctrine of ecclesial office or teaching authority from them; Christianity frames the Twelve Apostles as bearers of a foundational and authoritative role in the church, sent and commissioned by Christ. The link marks a comparable question about Jesus's followers and their role, not an equivalence of the two framings, and ranks neither."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic account of the hawariyyun is given in the revelation (610-632 CE) and elaborated in the classical tafsir; the disciples themselves are placed by the tradition in the time of the prophet Isa."
+  },
+  "sources": [
+    {
+      "citation": "Robinson, Neal. Christ in Islam and Christianity: The Representation of Jesus in the Qur'an and the Classical Muslim Commentaries. Albany: State University of New York Press, 1991. Academic study of the Qur'anic Jesus and the classical commentaries, including the disciples and the table (ma'ida) narrative.",
+      "url": "https://archive.org/details/christinislamchr0000robi",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, Surah Al Imran (3:52-53), Surah al-Ma'ida (5:111-115), and Surah al-Saff (61:14). Primary scripture: the hawariyyun's declaration that they are the helpers of God, God's inspiring them to belief and the table sign, and the exhortation to believers to be helpers of God as they were.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ibn Kathir, Isma'il ibn 'Umar. Tafsir al-Qur'an al-'Azim (14th c. CE), commentary on Q3:52, Q5:111-112, and Q61:14. Classical Sunni tafsir explaining the hawariyyun's confession as ansar Allah and drawing the parallel with the ansar of the Prophet Muhammad. Cited for reference; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Khalidi, Tarif. The Muslim Jesus: Sayings and Stories in Islamic Literature. Convergences. Cambridge, MA: Harvard University Press, 2001. A contemporary Muslim scholar's collection and study of the Islamic image of Jesus, including his disciples, across the classical literature. Serves as the modern Muslim scholarly lens.",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674011151",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

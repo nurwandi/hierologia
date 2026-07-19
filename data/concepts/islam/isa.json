@@ -1,0 +1,95 @@
+{
+  "id": "isa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Isa (Jesus)",
+    "original": "عيسى ابن مريم",
+    "transliteration": "ʿĪsā ibn Maryam",
+    "aliases": [
+      "Isa al-Masih",
+      "Jesus son of Mary",
+      "al-Masih (the Messiah)",
+      "the Word of God (kalimat Allah)",
+      "a Spirit from God (ruh min Allah)"
+    ]
+  },
+  "category": "prophetology",
+  "summary": "In Islam, Isa (Jesus) is one of the greatest prophets and messengers of God, born of the virgin Maryam by God's word and titled al-Masih (the Messiah), who performed miracles by God's leave and delivered the Injil (Gospel). The Qur'an honors him as a servant of God and rejects that he is divine or the son of God.",
+  "description": "Isa ibn Maryam is presented in the Qur'an as a human prophet and messenger sent to the Children of Israel, one of the ulu al-azm (those of firm resolve) among the messengers. Surah Al Imran (Q3) narrates the annunciation to Maryam that she would bear a son by God's command though no man had touched her, so Islam affirms the virgin conception of Jesus. He is called al-Masih (the Messiah), a word (kalima) from God, and a spirit (ruh) from Him (Q4:171). By God's leave he is described as speaking in the cradle, healing the blind and the leper, forming a bird from clay and breathing life into it, and raising the dead (Q3:49, Q5:110), miracles the Qur'an frames as signs granted by God rather than as proofs of a divine nature. He is understood to have foretold a messenger to come after him (Q61:6). Central to the Islamic account is a firm boundary: Isa is a servant ('abd) of God and a prophet, not God, not a partner with God, and not a son of God; the Qur'an states that God does not beget (Q19:35, Q112:3) and, in Q5:72-75 and Q5:116-117, has Jesus himself disavow any claim to divinity, framing worship directed to him or to his mother as error. On the end of his earthly life, mainstream tafsir on Q4:157-158 holds that Jesus was not killed and not crucified but that it was made to appear so to his opponents (shubbiha lahum), and that God raised him to Himself; many exegetes further expect his return before the end of time, though the Qur'anic text itself is terse and its interpretation is debated among commentators. The Islamic Jesus thus stands within the single line of prophecy (nubuwwa) that runs from Adam through Muhammad, honored highly yet located firmly on the creature side of the creature-Creator distinction that tawhid guards.",
+  "editorial_notes": "The entry describes Isa on Islam's own terms first (neutrality #6): a human prophet and messenger, born of a virgin by God's word, a worker of miracles by God's leave, and explicitly not divine and not the son of God, with the non-crucifixion reading of Q4:157 given as the mainstream exegetical position while noting that the details (the substitution, the return) are debated among commentators rather than settled by the bare text. Sourcing triangulates three lenses per #8-9: outside academic scholarship (Reynolds, an academic monograph reading the Qur'anic Jesus against its biblical and late-antique subtext; and Neal Robinson's monograph on Jesus in the Qur'an and classical tafsir), the tradition's own primary and classical texts (the Qur'an, Surahs Al Imran, al-Nisa 157, and al-Maida; and al-Tabari's classical Jami al-bayan as the classical tafsir on Q4:157), and a contemporary Muslim scholar (Mahmoud Ayoub's 'Towards an Islamic Christology II'). No encyclopedias or tertiary sources. Confidence is medium throughout except the primary Qur'anic text; relevant passages of the secondary works were not read line-by-line. The compares_with link to incarnation follows ADR-0005 and #10: it marks a shared QUESTION (whether and how Jesus relates to God) and states the DIFFERENCE (Islam holds him a human prophet, Christianity holds him God incarnate) without equating, ranking, or harmonizing the answers. The compares_with link to trinity is included because a clean question and difference can be stated (whether God is a single undivided reality or one God in three persons, bearing on Jesus's status), again comparing the question, not the answers. Several targets (maryam, hawariyyun) are created in this same batch; incarnation, trinity, nubuwwa, and tawhid already exist in the dataset.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Isa is one of the messengers within the single line of Islamic prophecy (nubuwwa); his miracles and message are understood as signs given by God to a human prophet."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The Qur'anic portrayal of Isa is governed by tawhid: he is honored as a prophet and the Messiah but placed firmly on the creature side of the Creator-creature distinction, so that calling him God or son of God is treated as a breach of God's oneness."
+    },
+    {
+      "type": "related_to",
+      "target": "maryam",
+      "note": "Isa is always named as ibn Maryam, son of Mary, and the Qur'an ties his virgin conception to her as a sign; the two entries are mutually referential."
+    },
+    {
+      "type": "related_to",
+      "target": "hawariyyun",
+      "note": "The hawariyyun are the loyal disciples and helpers (ansar Allah) whom Isa gathered, as narrated in Q3:52 and Q5:111-112."
+    },
+    {
+      "type": "compares_with",
+      "target": "incarnation",
+      "note": "Both address whether and how Jesus relates to God. Islam holds that Isa is a human prophet and servant of God, born of a virgin by God's word but not divine and not the son of God; Christianity's doctrine of the Incarnation holds that in Jesus the eternal Son of God became man, fully God and fully human. The link marks a comparable question about Jesus's relation to God, not an equivalence of the two answers, and ranks neither."
+    },
+    {
+      "type": "compares_with",
+      "target": "trinity",
+      "note": "Both bear on the oneness of God and Jesus's place within it. Islamic tawhid affirms an absolute divine oneness admitting no partner or division and reads calling Jesus God or son of God as error; the Christian Trinity affirms one God in three persons, the Son among them. The link asserts the comparability of the question about God's oneness and Jesus's status, not the equivalence of the answers, and ranks neither."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Islamic account of Isa is given in the Qur'an (revealed 610-632 CE) and elaborated in the classical tafsir and qisas al-anbiya literature; the figure himself is placed by the tradition in the line of prophets before Muhammad."
+  },
+  "sources": [
+    {
+      "citation": "Reynolds, Gabriel Said. The Qur'an and its Biblical Subtext. Routledge Studies in the Qur'an. London: Routledge, 2010. An academic monograph reading Qur'anic passages, including those on Jesus and the crucifixion (Q4:157-158), against their biblical and late-antique subtext.",
+      "url": "https://www.routledge.com/The-Quran-and-its-Biblical-Subtext/Reynolds/p/book/9780415524247",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Robinson, Neal. Christ in Islam and Christianity: The Representation of Jesus in the Qur'an and the Classical Muslim Commentaries. Albany: State University of New York Press, 1991. Academic study of the Qur'anic Jesus and five classical Sunni commentaries on his miracles, virginal conception, and the crucifixion.",
+      "url": "https://archive.org/details/christinislamchr0000robi",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, Surah Al Imran (3:42-59), Surah al-Nisa (4:157-158, 171), and Surah al-Ma'ida (5:72-75, 110-117). Primary scripture: the annunciation and virgin conception, the miracles by God's leave, the denial of Jesus's divinity, and the non-crucifixion passage.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; the commentary on Q4:157-158 records the mainstream reading that Jesus was not killed or crucified but that another was made to resemble him (shubbiha lahum) and that God raised him. Cited for reference; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayoub, Mahmoud M. 'Towards an Islamic Christology II: The Death of Jesus, Reality or Delusion.' The Muslim World 70, no. 2 (April 1980): 91-121. A contemporary Muslim scholar's study of the Qur'anic and exegetical treatment of the end of Jesus's earthly life and the interpretation of Q4:157-158.",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1478-1913.1980.tb03405.x",
+      "license": "Proprietary journal article; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.3.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
