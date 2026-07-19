@@ -1,0 +1,92 @@
+{
+  "id": "abraham",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Abraham",
+    "original": "אַבְרָהָם",
+    "transliteration": "ʾAvraham (earlier ʾAvram, אַבְרָם)",
+    "aliases": [
+      "Avraham Avinu (Abraham our father)",
+      "Abram",
+      "the first patriarch",
+      "Ibrahim (in Islam)"
+    ]
+  },
+  "roles": [
+    "patriarch",
+    "founding ancestor of the people of Israel",
+    "recipient of the covenant (brit) in Genesis",
+    "figure of the binding of Isaac (the Akedah)"
+  ],
+  "summary": "Abraham (Hebrew Avraham, earlier Avram) is the first of the three patriarchs of Israel in the book of Genesis: the man God calls from Mesopotamia to the land of Canaan, with whom God makes a covenant (brit) promising land and innumerable descendants, and who is tested in the binding of his son Isaac (the Akedah, Genesis 22). In Jewish tradition he is Avraham Avinu, Abraham our father, the ancestor of the Jewish people through Isaac and Jacob; the same figure is honoured in Christianity and, as Ibrahim, in Islam.",
+  "description": "Abraham (Avraham) is presented here first on the terms of the Jewish and biblical tradition, and then the historical-critical scholarly view and the Christian reading are given as attributed positions, not adjudicated.\n\nIn the book of Genesis, Abraham is the first of the patriarchs. God calls Abram out of Ur of the Chaldeans and Haran to a land God will show him, with the promise 'I will make of you a great nation' and 'in you all the families of the earth shall be blessed' (Genesis 12:1-3). Across the Abraham cycle (Genesis 12-25) God repeatedly renews a covenant (brit) with him: the promise of the land of Canaan to his offspring (Genesis 15), and the covenant of circumcision as its sign, at which Abram and Sarai are renamed Abraham and Sarah and promised a son through Sarah despite their old age (Genesis 17). After the long-awaited birth of Isaac (Yitzhak) and the sending away of Hagar and her son Ishmael (Yishmael), Abraham is tested in the episode Jewish tradition calls the Akedah, the binding: God commands him to offer up Isaac as a burnt offering on a mountain in the land of Moriah, Abraham binds his son upon the altar, and at the last moment an angel of the Lord stays his hand and a ram is offered in Isaac's place (Genesis 22). In the Jewish tradition Abraham is Avraham Avinu, Abraham our father: the founding ancestor of the people of Israel through Isaac and Jacob, the exemplar of faithfulness to the one God and of the covenant, and a figure elaborated at length in rabbinic midrash (including as the one who turns from idolatry to the God of heaven and earth). The Akedah in particular became a central text of Jewish memory and liturgy, read on Rosh Hashanah and interpreted across the centuries as the supreme trial of faith and, in the interpretive tradition studied by Jon Levenson, as bound up with the theme of the beloved son given over and restored.\n\nModern biblical scholarship reads the patriarchal narratives with a different set of tools, and this reading is attributed here to scholarship rather than stated as fact about the traditions. The dominant scholarly view holds that the Abraham stories reached their present form in the literary and religious life of ancient Israel long after any period in which such a figure would have lived, and that they function as foundational and identity-shaping tradition rather than as straightforward historical reportage; Ronald Hendel, for instance, treats the patriarchal narratives as cultural memory, a blend of memory, folklore, and literary composition through which Israel constructed its identity, rather than as a documentary record. On this view the historical existence and dating of Abraham cannot be established from the biblical text, which is why no confident lifespan is given below. The editor does not rule between the tradition's account and the scholarly reading; it records the biblical and Jewish tradition on its own terms and the historical-critical view as attributed to scholarship.\n\nAbraham is also claimed by Christianity and by Islam, and those claims are recorded here as belonging to those traditions, not to this Jewish entry. In particular the Christian appropriation of Abraham as the father of faith, developed by Paul in Romans 4 and Galatians 3 (where Abraham is 'reckoned as righteous' by faith and becomes the father of all who believe, gentiles included, prior to and apart from circumcision and the law), is a Christian reading and is noted here as such; it is not the claim of this Jewish entry, and Jon Levenson has argued at length that the modern flattening of Abraham into a single shared 'Abrahamic' figure can obscure and even work against the distinctively Jewish Abraham of covenant and peoplehood. The Islamic figure of Ibrahim, the hanif and friend of God and builder of the Kaaba, is treated in its own entry and compared, not merged, with this one.",
+  "editorial_notes": "This entry follows the per-tradition-pair model of jesus-of-nazareth (christianity) and isa (islam): the shared patriarch gets a separate entity per tradition, each on its own terms, joined by a #10 compares_with to ibrahim (islam). The register separation required by neutrality #1, #7, #10, and #11 is explicit here. (a) The BIBLICAL AND JEWISH TRADITION is given on its own terms: the call, the covenant (brit), the promise of land and descendants, the Akedah, and Abraham as Avraham Avinu, ancestor of the Jewish people through Isaac and Jacob. (b) The HISTORICAL-CRITICAL VIEW (that the patriarchal narratives are widely read by scholars as later foundational or literary tradition, cultural memory in Hendel's terms, rather than straightforward history, and that Abraham is not securely historically datable) is attributed to scholarship, not stated as fact and not used to overrule the tradition. (c) The CHRISTIAN READING (Paul's Abraham as father of faith, Romans 4, Galatians 3) is attributed explicitly to Christianity as a Christian appropriation, and is flagged as NOT the claim of this Jewish entry, with Levenson's argument that the generic 'Abrahamic' framing can work against the distinctively Jewish Abraham noted per #11. The Akedah 'son' is handled per the #10/#11 rule: this Jewish entry follows Genesis in identifying the son bound on Moriah as Isaac (Yitzhak), which is stated as the biblical and Jewish identification; the Islamic identification (widely, Ishmael) is left to the ibrahim entry and the compares_with note, and the editor does not adjudicate which son it 'really' was. Sourcing triangulates the three lenses required for a Jewish/biblical figure per #8-9: (a) academic biblical scholarship (Hendel on the patriarchal narratives as cultural memory; the standard historical-critical view that they are late foundational tradition); (b) the primary text, the Tanakh (Genesis 12-25, and Genesis 22 for the Akedah); (c) a contemporary Jewish scholar (Jon D. Levenson, Inheriting Abraham, and The Death and Resurrection of the Beloved Son on the Akedah). No encyclopedias, no Jewish Encyclopedia, no Wikipedia or tertiary sources. Confidence: the directly cited Tanakh text is high; the secondary works are medium (verified to exist and be on-topic, not read line-by-line). The compares_with target ibrahim is authored alongside this entry; related_to targets tanakh (a work entry that exists) and torah, second-temple-judaism, isaac, and moses are forward or existing references (dangling allowed). No birth or death year is asserted; see lifespan note.",
+  "lifespan": {
+    "note": "No birth or death year is asserted. Jewish tradition and later chronologies place Abraham in a remote past (conventionally in the early-to-mid second millennium BCE), and the biblical text gives him a lifespan of 175 years (Genesis 25:7), but modern scholarship does not treat the patriarchal narratives as securely datable history and cannot fix a historical date for Abraham, so no CE/BCE integer is given here rather than force a spurious precision."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "ibrahim",
+      "note": "Abraham (Avraham) and the Qur'anic Ibrahim are the same patriarch read across two traditions, and this link compares the shared figure and the shared questions about him, not the answers, ranking neither and equating neither. Judaism, following Genesis, holds Abraham to be the first patriarch and the founding ancestor of the Jewish people through Isaac and Jacob, bound to God by the covenant (brit) of land and descendants, and identifies the son bound in the Akedah (Genesis 22) as Isaac. Islam holds Ibrahim to be a prophet and messenger, a hanif (pure monotheist) and khalil Allah (friend of God), who with his son Ishmael (Isma'il) built the Kaaba and who is the model of submission (islam), and the near-sacrifice of his son is widely understood in Islam to concern Ishmael. The traditions thus share the patriarch but differ on the line of descent and covenant (through Isaac and the people of Israel, versus prophethood and the Kaaba through Ishmael) and on the identity of the son of the binding; this note records each tradition's identification as attributed to that tradition and does not adjudicate which son it was, rank the two accounts, or harmonize them."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Abraham cycle is narrated in the Torah, the first division of the Tanakh, chiefly in Genesis 12-25; the Akedah is Genesis 22."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The narratives of Abraham stand in the book of Genesis within the Torah; the covenant (brit) and the promise of land and descendants are foundational Torah themes. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "isaac",
+      "note": "Isaac (Yitzhak) is Abraham's son by Sarah, the son bound in the Akedah (Genesis 22) on the Jewish and biblical account, and the patriarch through whom Jewish tradition traces the covenant line. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "The God who covenants with Abraham is identified in the Torah with the God who later reveals himself to Moses and gives the Torah at Sinai; the patriarchal covenant and the Sinai covenant are linked across the narrative. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "Abraham was a central figure of memory, covenant identity, and interpretation across Second Temple Judaism and into the rabbinic tradition that followed. Forward reference."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Tanakh (Hebrew Bible), Genesis 12-25, esp. Genesis 12:1-3 (the call and promise), 15 (the covenant of the pieces and the promise of the land), 17 (the covenant of circumcision, the renaming of Abram to Abraham and Sarai to Sarah), and 22 (the Akedah, the binding of Isaac). Primary scripture for the covenant (brit), the promise of land and descendants, and the binding of Isaac; cited on the tradition's own terms as the foundational narrative, not as a historical report.",
+      "license": "Primary religious text; the Masoretic Hebrew is in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hendel, Ronald. Remembering Abraham: Culture, Memory, and History in the Hebrew Bible. New York: Oxford University Press, 2005. An academic study reading the patriarchal narratives (including the Abraham stories) as cultural memory, a blend of history, collective memory, folklore, and literary composition through which biblical Israel constructed its identity, rather than as documentary history. Cited as the academic biblical-scholarship lens on the historicity and function of the Abraham narratives. Relevant passages not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/remembering-abraham-9780195177961",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. Inheriting Abraham: The Legacy of the Patriarch in Judaism, Christianity, and Islam. Library of Jewish Ideas. Princeton: Princeton University Press, 2012. A contemporary Jewish scholar's close reading of the Genesis Abraham narrative and of how Judaism, Christianity, and Islam each developed their own Abraham, arguing that the modern generic 'Abrahamic' figure can obscure the distinctively Jewish Abraham of covenant and peoplehood. Cited as the contemporary Jewish scholarly lens and for the cross-tradition framing. Relevant passages not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691155692/inheriting-abraham",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. The Death and Resurrection of the Beloved Son: The Transformation of Child Sacrifice in Judaism and Christianity. New Haven: Yale University Press, 1993. A study of the theme of the beloved son given over to death and restored, including the Akedah (the binding of Isaac, Genesis 22) and its interpretive afterlife in Judaism. Cited specifically as the scholarly treatment of the Akedah. Relevant passages not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300065114/the-death-and-resurrection-of-the-beloved-son/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

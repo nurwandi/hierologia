@@ -1,0 +1,96 @@
+{
+  "id": "tawrat",
+  "tradition": "islam",
+  "names": {
+    "primary": "Tawrat",
+    "original": "التوراة",
+    "transliteration": "al-Tawrāt",
+    "aliases": [
+      "the Torah (in Islamic usage)",
+      "the scripture given to Musa (Moses)",
+      "Tawrah",
+      "the Book of Moses in the Qur'an"
+    ]
+  },
+  "category": "scripture",
+  "summary": "The Tawrat is, in Islam, the scripture God revealed to the prophet Musa (Moses), named repeatedly in the Qur'an as genuine revelation containing guidance and light. On the Islamic account it is one of the earlier books God sent down, affirmed as true revelation, while on the doctrine of tahrif many Muslim scholars hold that it differs from the Torah now in circulation.",
+  "description": "The Tawrat is the name the Qur'an gives to the scripture God revealed to Musa (Moses), and in Islamic theology it is a category of God's revelation rather than a description of any particular book as it stands today. The Qur'an names the Tawrat in a series of passages: it is sent down alongside the Injil as guidance for people (Q 3:3), taught to Isa together with wisdom and the Injil (Q 3:48, 3:50), described as containing 'guidance and light' by which the prophets, rabbis, and scholars judged (Q 5:44), confirmed by Isa who came after it (Q 5:46), and named as one of the scriptures the People of the Book are called to uphold (Q 5:66, 5:68). The Qur'an also presents Muhammad as foretold in it (a reading of Q 7:157). In classical tafsir, for example al-Tabari (d. 923) and Ibn Kathir (d. 1373), the Tawrat is glossed straightforwardly as 'the Book God sent down to Musa son of Imran', set within a single sequence of revelation running Tawrat, Injil, Qur'an.\n\nOn the Islamic account the Tawrat is affirmed as authentic divine revelation: the Qur'an describes itself as confirming (musaddiq) what came before it, and in places directs the People of the Book to judge by what God revealed in their own scripture. At the same time, the Islamic doctrine of tahrif holds that the scripture-communities altered, concealed, or misread what they had received, and Muslim scholars have long debated whether this concerns distortion of the meaning of a preserved text or corruption of its wording; on the stronger reading the Tawrat in the Qur'anic sense is held to differ from the Torah now current. This entry describes the Islamic theological category, the Tawrat as the scripture Islam says God gave to Musa. It does not describe the actual Pentateuch or the Torah as Judaism holds and reads it, and it does not adjudicate the textual history of the Jewish scriptures, which lies outside its scope. The Tawrat sits within Islamic prophetology (nubuwwa) as one of the revealed books given along the single line of prophecy, and it is bound to the Islamic conception of the ahl al-kitab, the People of the Book, as the community entrusted with it.",
+  "editorial_notes": "This entry carries the heightened cross-tradition neutrality burden of principles #10 and #11 and is written strictly to them. The Tawrat is presented ONLY as an attributed Islamic theological category, that is, as the scripture the Qur'an says God revealed to Musa, using framing such as 'in Islam', 'on the Islamic account', 'the Qur'an names', and 'on the doctrine of tahrif Muslim scholars hold'. The entry does NOT describe the actual Pentateuch, does NOT state what Judaism teaches or how it reads the Torah, and the editor at no point asserts in his own voice that the Torah or Bible was in fact altered; the tahrif material is reported strictly as the attributed Islamic doctrine and its internal Muslim debate (distortion of meaning versus corruption of wording). The Qur'anic affirmation of the Tawrat as genuine revelation (musaddiq) is given alongside the tahrif doctrine because both belong to the Islamic account and the tension between them is exactly what Muslim scholars have debated. Sourcing triangulates the three lenses required by #8 and #11: (a) Western academic study of the Qur'an and the Bible (Reynolds, The Qur'an and the Bible, reading the Qur'anic material against its biblical subtext; Griffith, The Bible in Arabic, on the scriptures of the People of the Book in Islamic usage); (b) the primary and classical corpus (the Qur'an's Tawrat verses; al-Tabari's and Ibn Kathir's tafsir as attributed classical Muslim glosses); (c) a contemporary Muslim scholar (Mun'im Sirry, Scriptural Polemics, on the Qur'an's treatment of earlier scriptures and its modern Muslim reinterpretation). No encyclopedias or tertiary sources are cited (Wikipedia and Britannica surfaced in research only as corroboration and are excluded per #9). Confidence is high only for the directly quotable Qur'anic text and medium for secondary and classical works, which were verified to exist and be on-topic but not read line-by-line. The compares_with link to torah follows ADR-0005 and #10: it states a shared theme and the difference and ranks neither, comparing the question, not the answers. The partner torah (the Pentateuch, the five books of Moses) exists as a Jewish work entity and is the precise counterpart to the Islamic Tawrat; the broader Tanakh is the tripartite Hebrew Bible of which the Torah is the first division. Forward references: tahrif, nubuwwa, isa, musa, ahl-al-kitab, and torah all exist in the dataset.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "musa",
+      "note": "The Tawrat is, in Islam, the scripture God revealed to the prophet Musa (Moses); the two entries are mutually referential. Forward reference: musa is being authored in the same batch and may not yet exist at write time."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "The Tawrat is one of the revealed books within the single line of Islamic prophecy (nubuwwa), sent down along the sequence Tawrat, Injil, Qur'an on the Islamic account of revelation to successive prophets."
+    },
+    {
+      "type": "related_to",
+      "target": "tahrif",
+      "note": "On the Islamic doctrine of tahrif, the community entrusted with the Tawrat is held to have altered, concealed, or misread it; Muslim scholars debate whether this means distortion of meaning or corruption of the wording, so that on the stronger reading the Tawrat in the Qur'anic sense is held to differ from the Torah now in circulation. Reported as attributed Islamic doctrine."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-kitab",
+      "note": "The Tawrat is, in Islamic usage, the scripture given to one of the communities of the ahl al-kitab (People of the Book); the Qur'an calls the People of the Book to uphold the Tawrat (Q 5:66, 5:68). Authored in the same batch."
+    },
+    {
+      "type": "compares_with",
+      "target": "torah",
+      "note": "Shared theme: a scripture associated with Moses and the giving of the law. Difference: the Tawrat is the Islamic tradition's own theological category, the scripture Islam holds God revealed to Musa, whereas the Torah is the Pentateuch, the five books of Moses as Judaism holds, reads, and transmits them (the first division of the Tanakh). The two are not synonyms; the link marks a comparable question about a Mosaic scripture and ranks neither reading as the measure of the other (neutrality #10)."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Islamic conception of the Tawrat is given in the Qur'an (revealed 610-632 CE) and elaborated in the classical tafsir (al-Tabari d. 923, Ibn Kathir d. 1373). As a theological category it refers back to the revelation the tradition places with Musa in the line of earlier prophets; no composition date is asserted for the scripture itself, since the entry describes the Islamic category and not the actual Pentateuch."
+  },
+  "sources": [
+    {
+      "citation": "Reynolds, Gabriel Said. The Qur'an and the Bible: Text and Commentary. Qur'an translation by Ali Quli Qarai. New Haven: Yale University Press, 2018. Academic commentary reading the Qur'an, including its references to the Tawrat and Injil, in relation to biblical and late-antique traditions. Cited as scholarship on the Qur'anic material, not as a description of the Bible or of Judaism.",
+      "url": "https://yalebooks.yale.edu/book/9780300181326/the-quran-and-the-bible/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Griffith, Sidney H. The Bible in Arabic: The Scriptures of the 'People of the Book' in the Language of Islam. Princeton, NJ: Princeton University Press, 2013. Academic monograph on the Bible in the Arabic-Islamic milieu and the Qur'anic vocabulary for earlier scriptures (Tawrat, Injil) and their communities. Cited as scholarship on Islamic usage, not as a verdict on the Jewish or Christian scriptures.",
+      "url": "https://press.princeton.edu/books/paperback/9780691168081/the-bible-in-arabic",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, Tawrat verses: Surah Al Imran (3:3, 3:48, 3:50), Surah al-Ma'ida (5:44, 5:46, 5:66, 5:68), and Surah al-A'raf (7:157). Primary scripture: the Tawrat named as revelation sent down containing guidance and light, taught to Isa, confirmed by the Qur'an as musaddiq, and named as the scripture the People of the Book are to uphold. Cited as the doctrinal basis for the Islamic category of the Tawrat.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; glosses the Tawrat as the Book God sent down to Musa within the sequence of revealed scriptures. Cited as an attributed classical Muslim reading; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Kathir, Abu al-Fida' Isma'il ibn 'Umar. Tafsir al-Qur'an al-'Azim (Commentary on the Great Qur'an), 8th/14th century. Classical Sunni tafsir; identifies the Tawrat as the Book God sent down to Musa son of Imran, set within the sequence Tawrat, Injil, Qur'an. Cited as an attributed classical Muslim reading; not read line-by-line.",
+      "url": "https://quran.com/3:49/tafsirs/en-tafisr-ibn-kathir",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sirry, Mun'im. Scriptural Polemics: The Qur'an and Other Religions. Oxford: Oxford University Press, 2014. A contemporary Muslim scholar's study of the Qur'an's treatment of earlier scriptures and religious others and of how modern Muslim exegetes have reinterpreted these passages. Serves as the contemporary Muslim scholarly lens.",
+      "url": "https://global.oup.com/academic/product/scriptural-polemics-9780199359363",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

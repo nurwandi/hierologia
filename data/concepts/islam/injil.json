@@ -1,0 +1,96 @@
+{
+  "id": "injil",
+  "tradition": "islam",
+  "names": {
+    "primary": "Injil",
+    "original": "الإنجيل",
+    "transliteration": "al-Injīl",
+    "aliases": [
+      "the Gospel (in Islamic usage)",
+      "the scripture given to Isa (Jesus)",
+      "the Evangel",
+      "the Gospel of Jesus in the Qur'an"
+    ]
+  },
+  "category": "scripture",
+  "summary": "The Injil is, in Islam, the scripture God gave to the prophet Isa (Jesus), named in the Qur'an as genuine revelation containing guidance and light. On the Islamic account it is a single revelation to one prophet, affirmed as true, while on the doctrine of tahrif many Muslim scholars hold that it differs from the Christian Gospels now in circulation.",
+  "description": "The Injil is the name the Qur'an gives to the scripture God gave to Isa (Jesus), and in Islamic theology it is a category of God's revelation rather than a description of the Christian Gospels as they stand today. The Qur'an names the Injil in several passages: it is sent down along with the Tawrat as guidance (Q 3:3), taught to Isa together with the Tawrat and wisdom (Q 3:48), given to Isa 'in which was guidance and light, confirming the Tawrat before it' (Q 5:46), by which its people are told to judge (Q 5:47), named among the scriptures the People of the Book are to uphold (Q 5:68), and associated with the compassion and mercy God placed in the hearts of Isa's followers (Q 57:27). On the Islamic account the Injil is a single book revealed by God to a single prophet, Isa, and the classical tafsir, for example al-Tabari (d. 923) and Ibn Kathir (d. 1373), gloss it as 'the Book God sent down to Isa son of Maryam', set within the one sequence of revelation running Tawrat, Injil, Qur'an.\n\nOn the Islamic account the Injil is affirmed as authentic divine revelation: the Qur'an describes itself as confirming (musaddiq) what came before it and directs the followers of the Injil to judge by what God revealed in it. At the same time, the Islamic doctrine of tahrif holds that the scripture-communities altered, concealed, or misread what they had received, and Muslim scholars have long debated whether this concerns distortion of meaning or corruption of the wording; on the stronger reading the Injil in the Qur'anic sense is held to differ from the Gospels now current. This entry describes the Islamic theological category, the Injil as the single scripture Islam says God gave to Isa. It does not describe the Christian New Testament or its four canonical Gospels as Christianity holds and reads them, and it does not adjudicate the textual history of the Christian scriptures, which lies outside its scope. The Injil sits within Islamic prophetology (nubuwwa) as one of the revealed books along the single line of prophecy, and it is bound to the Islamic conception of the ahl al-kitab, the People of the Book.",
+  "editorial_notes": "This entry carries the heightened cross-tradition neutrality burden of principles #10 and #11 and is written strictly to them. The Injil is presented ONLY as an attributed Islamic theological category, the scripture the Qur'an says God gave to Isa, using framing such as 'in Islam', 'on the Islamic account', 'the Qur'an names', and 'on the doctrine of tahrif Muslim scholars hold'. The entry does NOT describe the Christian New Testament or the four canonical Gospels, does NOT state what Christianity teaches or how it reads the Gospel, and the editor at no point asserts in his own voice that the Christian Gospels were in fact altered; the tahrif material is reported strictly as the attributed Islamic doctrine and its internal Muslim debate. A key point of the Islamic category, foregrounded here per #11, is that the Injil is conceived as ONE revealed book given to ONE prophet, which is structurally different from the Christian canon; this difference is stated descriptively, not as a criticism. The Qur'anic affirmation of the Injil as genuine revelation (musaddiq) is given alongside the tahrif doctrine because both belong to the Islamic account. Sourcing triangulates the three lenses required by #8 and #11: (a) Western academic study of the Qur'an and the Bible (Reynolds, The Qur'an and the Bible; McAuliffe, Qur'anic Christians, on ten centuries of Muslim exegesis of the Qur'an's remarks about Christians and their scripture); (b) the primary and classical corpus (the Qur'an's Injil verses; al-Tabari's and Ibn Kathir's tafsir as attributed classical glosses); (c) a contemporary Muslim scholar (Mun'im Sirry, Scriptural Polemics). No encyclopedias or tertiary sources are cited per #9. Confidence is high only for the directly quotable Qur'anic text and medium for secondary and classical works, verified to exist and be on-topic but not read line-by-line. The compares_with link to new-testament-canon follows ADR-0005 and #10: it states a shared theme and the difference and ranks neither, comparing the question, not the answers. Forward reference: musa does not feature; isa, tahrif, and nubuwwa already exist; ahl-al-kitab is authored in this same batch. The compares_with partner new-testament-canon already exists as a christianity concept.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "isa",
+      "note": "The Injil is, in Islam, the scripture God gave to the prophet Isa (Jesus); the Qur'an associates the two directly (Q 3:48, 5:46). The two entries are mutually referential."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "The Injil is one of the revealed books within the single line of Islamic prophecy (nubuwwa), sent down along the sequence Tawrat, Injil, Qur'an on the Islamic account of revelation to successive prophets."
+    },
+    {
+      "type": "related_to",
+      "target": "tahrif",
+      "note": "On the Islamic doctrine of tahrif, the community entrusted with the Injil is held to have altered, concealed, or misread it; Muslim scholars debate whether this means distortion of meaning or corruption of the wording, so that on the stronger reading the Injil in the Qur'anic sense is held to differ from the Gospels now in circulation. Reported as attributed Islamic doctrine."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-kitab",
+      "note": "The Injil is, in Islamic usage, the scripture given to one of the communities of the ahl al-kitab (People of the Book); the Qur'an calls the People of the Book to uphold the Injil (Q 5:68). Authored in the same batch."
+    },
+    {
+      "type": "compares_with",
+      "target": "new-testament-canon",
+      "note": "Shared theme: the Gospel associated with Jesus. Difference: the Injil is the Islamic tradition's own theological category, a single revealed book Islam holds God gave to Isa, whereas the Christian New Testament canon is a collection of twenty-seven writings, including four Gospels attributed to human authors alongside letters and other texts, whose boundary was drawn gradually over the second to fourth centuries and still differs at the edges among communions. The two are not the same kind of thing; the link marks a comparable question about a Gospel associated with Jesus and ranks neither reading as the measure of the other (neutrality #10)."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Islamic conception of the Injil is given in the Qur'an (revealed 610-632 CE) and elaborated in the classical tafsir (al-Tabari d. 923, Ibn Kathir d. 1373). As a theological category it refers back to the revelation the tradition places with Isa; no composition date is asserted for the scripture itself, since the entry describes the Islamic category and not the Christian Gospels."
+  },
+  "sources": [
+    {
+      "citation": "Reynolds, Gabriel Said. The Qur'an and the Bible: Text and Commentary. Qur'an translation by Ali Quli Qarai. New Haven: Yale University Press, 2018. Academic commentary reading the Qur'an, including its references to the Injil and to Jesus, in relation to biblical and late-antique traditions. Cited as scholarship on the Qur'anic material, not as a description of the Bible or of Christianity.",
+      "url": "https://yalebooks.yale.edu/book/9780300181326/the-quran-and-the-bible/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McAuliffe, Jane Dammen. Qur'anic Christians: An Analysis of Classical and Modern Exegesis. Cambridge: Cambridge University Press, 1991. Academic study of Qur'anic passages concerning Christians and their scripture through ten centuries of Muslim exegesis. Cited as scholarship on how Muslim exegetes read the Qur'an's remarks about Christians and the Injil, not as a description of Christianity.",
+      "url": "https://www.cambridge.org/us/universitypress/subjects/religion/islam/quranic-christians-analysis-classical-and-modern-exegesis",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, Injil verses: Surah Al Imran (3:3, 3:48), Surah al-Ma'ida (5:46, 5:47, 5:68), and Surah al-Hadid (57:27). Primary scripture: the Injil named as revelation given to Isa containing guidance and light, confirming the Tawrat, by which its people are to judge, and named as a scripture the People of the Book are to uphold. Cited as the doctrinal basis for the Islamic category of the Injil.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; glosses the Injil as the Book God sent down to Isa within the sequence of revealed scriptures. Cited as an attributed classical Muslim reading; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Kathir, Abu al-Fida' Isma'il ibn 'Umar. Tafsir al-Qur'an al-'Azim (Commentary on the Great Qur'an), 8th/14th century. Classical Sunni tafsir; identifies the Injil as the Book God sent down to Isa son of Maryam, set within the sequence Tawrat, Injil, Qur'an. Cited as an attributed classical Muslim reading; not read line-by-line.",
+      "url": "https://quran.com/3:49/tafsirs/en-tafisr-ibn-kathir",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sirry, Mun'im. Scriptural Polemics: The Qur'an and Other Religions. Oxford: Oxford University Press, 2014. A contemporary Muslim scholar's study of the Qur'an's treatment of earlier scriptures and religious others and of how modern Muslim exegetes have reinterpreted these passages. Serves as the contemporary Muslim scholarly lens.",
+      "url": "https://global.oup.com/academic/product/scriptural-polemics-9780199359363",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

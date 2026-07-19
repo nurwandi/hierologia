@@ -1,0 +1,66 @@
+{
+  "id": "rabbinic-judaism",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Rabbinic Judaism",
+    "original": "יהדות רבנית",
+    "transliteration": "Yahadut Rabbanit",
+    "aliases": [
+      "Rabbinism",
+      "Rabbinical Judaism",
+      "The Judaism of the rabbis",
+      "Talmudic Judaism",
+      "Chazal (the sages) tradition"
+    ]
+  },
+  "summary": "Rabbinic Judaism is the form of Judaism that became normative after the destruction of the Second Temple in 70 CE, centred on the rabbis as teachers and legal authorities, on the twofold Torah (the Written Torah together with the Oral Torah), and on the study and application of Jewish law (halakha). Its foundational works are the Mishnah (edited c. 200 CE) and the Talmuds; scholars widely regard it as the heir of the Pharisees and, alongside Christianity, one of the two enduring developments to emerge from the diverse world of Second Temple Judaism.",
+  "description": "Rabbinic Judaism is the name for the form of Judaism that took shape in the centuries after the destruction of the Second Temple by Rome in 70 CE and became the normative mainstream of Jewish religious life. With the loss of the Temple, its sacrificial cult, and its priesthood, the religious centre of gravity shifted to the rabbis (from Hebrew rav, master or teacher), a class of scholars and legal authorities, and to the study, interpretation, and application of the Torah in the life of the community. In place of sacrifice, the tradition developed prayer, Torah study, and the observance of the commandments (mitzvot) as the means of serving God, mediated through the accumulated legal and interpretive reasoning of the sages (Chazal).\n\nA defining feature of rabbinic Judaism, presented here on its own terms, is the doctrine of the twofold Torah: alongside the Written Torah (Torah she-bi-khtav) the rabbis hold that an Oral Torah (Torah she-be-al peh) was also given to Moses at Sinai and transmitted through the generations. The Mishnah opens (tractate Avot 1:1) with just such a chain of transmission, from Moses at Sinai through Joshua, the elders, the prophets, and the men of the Great Assembly to the sages. On this self-understanding the rabbis are the authorized bearers of an ongoing revelation of law and teaching. The first great monument of this tradition is the Mishnah, a topically organized collection of law traditionally associated with the redaction of Rabbi Judah ha-Nasi around 200 CE; the Mishnah in turn became the basis of sustained commentary and debate (Gemara), producing the two Talmuds, the Jerusalem (Palestinian) Talmud (c. fourth-fifth century CE) and the larger and more influential Babylonian Talmud (redacted roughly by the sixth-seventh century CE), together with the midrashic literature.\n\nIn the scholarly reconstruction of its origins, rabbinic Judaism is widely regarded as the heir of the Pharisees, the Second Temple movement most associated with the ancestral traditions later called the Oral Torah; Shaye J. D. Cohen traces the emergence of the rabbis from the Maccabean and Second Temple background through the making of the Mishnah, and Lawrence Schiffman follows the movement from scriptural text to authoritative rabbinic tradition. This Pharisee-to-rabbi continuity is a scholarly reconstruction offered with due caution rather than a simple equation: the sources are uneven, the rabbinic movement took clear institutional shape only gradually after 70 CE, and Seth Schwartz has argued that rabbinic influence over the wider Jewish population was limited and localized in the earlier centuries and became broadly dominant only later, so that the rabbis' normative status should not be read back as immediate or total. Rabbinic Judaism and Christianity are commonly described as the two enduring heirs of Second Temple Judaism, sibling developments that emerged along separate paths from the same matrix after the Temple's loss; the gradual separation of the two is treated on the Christian side under the parting of the ways, and neither is the baseline or measure of the other. From late antiquity onward the rabbinic tradition, through the Talmud, the later codes, and continuing halakhic and interpretive activity, became the framework within which the major streams of Judaism have understood and practised the tradition.",
+  "editorial_notes": "This entry presents rabbinic Judaism on its own terms (neutrality #1, #4, #6, #7), including its self-understanding of the twofold Torah (Written and Oral Torah given at Sinai) and the rabbis as authorized bearers of the tradition, stated as the tradition's attributed position rather than asserted or denied by the editor. The Pharisee-to-rabbi continuity is handled with the same caution the pharisees entry uses: it is a scholarly reconstruction, not a straightforward equation, the sources are uneven, and later rabbinic Judaism is not read anachronistically back into the first-century movement (per Cohen, Schiffman, and the broader scholarship). Schwartz's argument that rabbinic dominance over the wider Jewish population was limited early on and grew later is recorded so that the movement's normative status is not overstated for its earliest phase. Because the sibling relationship with Christianity crosses traditions (#10-#11), it is stated as two heirs of a shared matrix without treating either as the baseline, and the Christian-side process is deferred to parting-of-the-ways rather than described polemically here. Sources triangulate three lenses per neutrality #8-9: academic historians of ancient and rabbinic Judaism (Cohen, Schwartz, Schiffman); the primary rabbinic text itself (the Mishnah, in Danby's translation, cited for the chain of transmission and the shape of the tradition); and, through Cohen, a contemporary Jewish scholar's voice. No encyclopedias, Wikipedia, or tertiary sources. Confidence: the Mishnah is high where directly cited for the Avot chain of transmission; the secondary scholarship is medium (Cohen and Schiffman carry the same medium rating they hold in second-temple-judaism, pharisees, and tanakh; Schwartz medium). Relation targets torah and tanakh exist or are authored alongside this entry; second-temple-judaism and pharisees exist; parting-of-the-ways exists (Christian-side concept); mishnah and talmud are forward references to not-yet-created entities.",
+  "period": {
+    "founded": 70,
+    "note": "Conventionally dated from the destruction of the Second Temple by Rome in 70 CE, the pivot after which the rabbinic movement took shape as the normative form of Judaism; the Mishnah was edited around 200 CE and the Talmuds over the following centuries. Rabbinic Judaism remains active and is the framework of the major streams of Judaism to the present, so no end date is given. The 70 CE marker is a conventional scholarly starting point, and the emergence of rabbinic normativity was gradual rather than immediate."
+  },
+  "relations": [
+    { "type": "split_from", "target": "second-temple-judaism", "note": "Rabbinic Judaism is widely described as one of the two enduring developments (alongside Christianity) to emerge from the diverse matrix of Second Temple Judaism after the Temple's destruction in 70 CE. The continuity is a scholarly reconstruction stated with caution, not a sharp single break." },
+    { "type": "related_to", "target": "pharisees", "note": "Scholars widely regard rabbinic Judaism as the heir of the Pharisees, the Second Temple movement associated with the ancestral traditions later called the Oral Torah; this is a scholarly reconstruction offered with due caution, not a straightforward equation of the two." },
+    { "type": "related_to", "target": "tanakh", "note": "The rabbis received, read, and interpreted the Tanakh (the Hebrew Bible) as scripture; rabbinic literature is in large part interpretation and application of it." },
+    { "type": "related_to", "target": "torah", "note": "Rabbinic Judaism centres on the Torah, understood as the twofold Torah: the Written Torah together with an Oral Torah held to have been given at Sinai and later set down in the Mishnah and the wider rabbinic corpus." },
+    { "type": "compares_with", "target": "parting-of-the-ways", "note": "Shared theme: the emergence of two distinct religions from Second Temple Judaism. Rabbinic Judaism and Christianity are commonly described as sibling heirs of that matrix; the parting-of-the-ways entry treats the separation from the Christian side. Difference and caution: the parting was gradual, uneven, and its dating is debated, and neither tradition is the baseline or measure of the other (neutrality #10)." },
+    { "type": "related_to", "target": "mishnah", "note": "The Mishnah (edited c. 200 CE) is the foundational legal collection of rabbinic Judaism and the basis of the Talmuds. Forward reference to a not-yet-created entity." },
+    { "type": "related_to", "target": "talmud", "note": "The Talmuds (the Jerusalem/Palestinian and the Babylonian) are the central rabbinic works of law and commentary built upon the Mishnah. Forward reference to a not-yet-created entity." }
+  ],
+  "sources": [
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the history, literature, and religion of Judaism from the Maccabean period through the emergence of rabbinic Judaism and the making of the Mishnah, including the cautious account of the Pharisee-to-rabbi relationship. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schwartz, Seth. Imperialism and Jewish Society, 200 B.C.E. to 640 C.E. Jews, Christians, and Muslims from the Ancient to the Modern World. Princeton: Princeton University Press, 2001. Academic monograph on Jewish society under Persian, Greek, and Roman rule; cited for the argument that rabbinic influence over the wider Jewish population was limited and localized in the earlier centuries and became broadly dominant only later. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://press.princeton.edu/books/paperback/9780691117812/imperialism-and-jewish-society",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schiffman, Lawrence H. From Text to Tradition: A History of Second Temple and Rabbinic Judaism. Hoboken, NJ: Ktav Publishing House, 1991. Academic history tracing the movement from scriptural text to authoritative rabbinic tradition across the Second Temple and rabbinic periods, including the Mishnah and the Talmuds. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://ktav.com/products/from-text-to-tradition",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Mishnah. Trans. Herbert Danby. Oxford: Oxford University Press, 1933. Primary rabbinic text; cited for the shape of rabbinic law and for the chain of transmission of the Oral Torah from Sinai to the sages (tractate Avot 1:1). Cited as the primary rabbinic source, not as a neutral reference work.",
+      "url": "https://archive.org/details/DanbyMishnah",
+      "license": "Danby translation (1933); Hebrew original in the public domain. The Avot 1:1 passage and overall structure verified; the whole not read for this entry.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

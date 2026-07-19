@@ -1,0 +1,78 @@
+{
+  "id": "torah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Torah",
+    "original": "תּוֹרָה",
+    "transliteration": "Torah",
+    "aliases": [
+      "The Five Books of Moses",
+      "Pentateuch",
+      "Chumash (Ḥumash)",
+      "The Written Torah (Torah she-bi-khtav)",
+      "The Law of Moses",
+      "Torat Moshe"
+    ]
+  },
+  "category": "scripture",
+  "date": {
+    "note": "No single year applies. In the traditional Jewish view the Torah was given to Moses at Sinai and is received as a unity of divine revelation. In historical-critical scholarship the Torah is a composite work whose sources and redaction are dated across several centuries of the first millennium BCE (commonly stretching from around the monarchic period into the Persian period, roughly the ninth or eighth through the fifth centuries BCE, with the timing and number of the sources debated). The Torah was authoritative as scripture earliest among the three divisions of the Tanakh, and functioned as such by the Persian and early Second Temple period. The two datings answer different questions (who received it, and how the text came to be) and are recorded here as attributed positions, not adjudicated."
+  },
+  "summary": "The Torah is the first and most authoritative division of the Tanakh, comprising the five books of Moses: Genesis (Bereshit), Exodus (Shemot), Leviticus (Vayikra), Numbers (Bamidbar), and Deuteronomy (Devarim), also called the Pentateuch. In Judaism it is the foundational revelation and law, received in the tradition as the Torah given to Moses at Sinai; in historical-critical scholarship its composition is analysed as the work of multiple sources redacted over centuries. The word Torah also carries wider senses, from the narrower Pentateuch to the whole of Jewish teaching, written and oral.",
+  "description": "The Torah (Hebrew Torah, teaching, instruction, or law) is, in its primary and narrowest sense, the first of the three divisions of the Tanakh: the five books traditionally ascribed to Moses, Genesis, Exodus, Leviticus, Numbers, and Deuteronomy, known collectively in Greek-derived usage as the Pentateuch (the five-part work) and in Hebrew as the Chumash (from ḥamesh, five). It opens with creation and the primeval history, follows the ancestors of Israel through Genesis, narrates the exodus from Egypt and the covenant and law-giving at Sinai across Exodus through Numbers, and closes with Moses's addresses in Deuteronomy on the plains of Moab; interwoven with its narrative are the great bodies of law, the covenant, the commandments (mitzvot), and the ritual, ethical, and civil legislation that make it, in Judaism, the foundational law as well as the foundational story.\n\nIn the traditional Jewish view, the Torah is divine revelation: the Written Torah (Torah she-bi-khtav) given by God to Moses at Mount Sinai, transmitted in an unbroken chain, and accompanied in rabbinic Judaism by an Oral Torah (Torah she-be-al peh) understood as given alongside it and later set down in the Mishnah and later rabbinic literature. On this understanding the five books form a single, unified, and authoritative revelation, and this is the sense in which the Torah is read, chanted from the scroll in the synagogue, and lived as commandment within the tradition.\n\nModern historical-critical scholarship approaches the question of the Torah's composition differently, treating the five books as a composite text edited from earlier sources over a long period rather than authored by a single hand. The classical form of this approach is the Documentary Hypothesis, associated in its influential nineteenth-century formulation with Julius Wellhausen and presented for a wide readership by Richard Elliott Friedman (Who Wrote the Bible?), which distinguishes several once-separate sources (in the classic sigla J, E, P, and D) later combined by redactors. That model has been revised, defended, and contested: Joel Baden (The Composition of the Pentateuch) argues for a renewed documentary approach, while Jean-Louis Ska surveys the range of source-, fragment-, and supplementary models and the ongoing debate over the number, dating, and character of the sources. These are scholarly reconstructions of how the text came to be, offered by their proponents as historical analysis; they are recorded here as attributed positions alongside the traditional view of Sinaitic revelation, and this entry does not rule which account is correct.\n\nBeyond the Pentateuch, the word Torah bears wider senses within Judaism. It can denote the whole of the Tanakh, and more broadly still the entire body of Jewish teaching, the Written Torah together with the Oral Torah and the accumulated tradition of study and interpretation, so that to speak of Torah is often to speak of the sum of Jewish revelation and learning rather than only the five books.",
+  "editorial_notes": "This entry describes the Torah on Judaism's own terms (neutrality #1, #4, #6) while recording, as attributed positions, both the traditional Jewish view (the Torah given to Moses at Sinai, received as a unified divine revelation with an accompanying Oral Torah) and the historical-critical account of its composition (the Documentary Hypothesis and its successor and rival models, multiple sources redacted over centuries). Per neutrality #1-#2 the editor does not adjudicate between these: they are presented as answering different questions (who received the Torah, and how the text came to be) and neither is ruled correct. Named holders are attached to the critical positions (Wellhausen and Friedman for the classical Documentary Hypothesis, Baden for its renewal, Ska for the survey of the debate) so the scholarship is attributed rather than asserted as fact. The three senses of Torah (the Pentateuch; the whole Tanakh; the whole of written-plus-oral Jewish teaching) are distinguished so the term is not flattened. Sources triangulate three lenses per neutrality #8-9: the primary text itself (the Torah, cited for its books, structure, and content, with the Mishnah cited as the primary rabbinic text that sets down the traditional understanding of Torah and its oral counterpart); academic historical-critical scholarship on Pentateuchal composition (Friedman, Baden, Ska); and a contemporary Jewish scholar of the Hebrew Bible (Brettler). No encyclopedias, Wikipedia, or tertiary sources. Confidence: the Torah text and the Mishnah are high where directly cited for their own content and structure; secondary scholarship is medium (not read line-by-line in this pass). Relation targets moses and rabbinic-judaism are authored alongside this entry or in the same batch; tawrat is a forward reference to a not-yet-created entity in another tradition; tanakh already exists.",
+  "relations": [
+    { "type": "part_of", "target": "tanakh", "note": "The Torah is the first of the three divisions of the Tanakh (the T of TaNaKh) and holds the highest authority within it." },
+    { "type": "related_to", "target": "moses", "note": "In the traditional Jewish view the Torah is the revelation given to Moses at Sinai (the five books of Moses, Torat Moshe); the historical-critical account of composition, recorded here alongside it, is a separate scholarly question and neither is adjudicated. Authored in the same batch." },
+    { "type": "compares_with", "target": "tawrat", "note": "Shared theme: a scripture associated with Moses and the giving of the law. Difference: the Torah is the Jewish Pentateuch, the first division of the Tanakh received on Jewish terms, whereas the Tawrat is the Islamic tradition's own conception of the scripture given to Moses; the terms are not synonyms and neither reading is treated as the measure of the other (neutrality #10). Forward reference to a not-yet-created entity in another tradition." },
+    { "type": "related_to", "target": "rabbinic-judaism", "note": "Rabbinic Judaism centres on the study and application of the Torah, understood as the Written Torah together with the Oral Torah; the traditional doctrine of Torah min ha-shamayim (Torah from Heaven) and of the twofold Torah is developed in the rabbinic literature. Authored alongside this entry." }
+  ],
+  "sources": [
+    {
+      "citation": "The Torah (Pentateuch), Masoretic Text: Bereshit (Genesis), Shemot (Exodus), Vayikra (Leviticus), Bamidbar (Numbers), and Devarim (Deuteronomy). Primary scripture; cited as the primary source for its own books, structure, narrative, and law. English reference translation: JPS Hebrew-English Tanakh, 2nd ed., Philadelphia: Jewish Publication Society, 1999.",
+      "url": "https://jps.org/product-category/jps-tanakh/",
+      "license": "Hebrew text in the public domain; the JPS translation is proprietary. Structure and contents verified against the primary text.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Mishnah. Trans. Herbert Danby. Oxford: Oxford University Press, 1933. Primary rabbinic text; cited for the traditional rabbinic understanding of the Torah as revelation transmitted from Sinai and of the accompanying oral tradition (e.g. the chain of transmission opening tractate Avot 1:1). Cited as the primary rabbinic source for the traditional doctrine, not as a neutral reference work.",
+      "url": "https://archive.org/details/DanbyMishnah",
+      "license": "Danby translation (1933); Hebrew original in the public domain. Structure and the Avot passage verified; the whole not read for this entry.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Friedman, Richard Elliott. Who Wrote the Bible? New York: Summit Books, 1987 (rev. ed. HarperSanFrancisco, 1997). A widely read presentation of the Documentary Hypothesis and of the historical-critical account of the Torah's composition from multiple sources; cited for the classical documentary approach as an attributed scholarly position. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://archive.org/details/whowrotebible0000frie",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Baden, Joel S. The Composition of the Pentateuch: Renewing the Documentary Hypothesis. Anchor Yale Bible Reference Library. New Haven: Yale University Press, 2012. Academic monograph re-arguing and revising the Documentary Hypothesis with detailed textual case studies; cited for the renewed documentary approach as an attributed scholarly position. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300152630/the-composition-of-the-pentateuch/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ska, Jean-Louis. Introduction to Reading the Pentateuch. Trans. Sr. Pascale Dominique. Winona Lake, IN: Eisenbrauns, 2006 (orig. Introduzione alla lettura del Pentateuco). Academic introduction surveying the literary problems of the Pentateuch, the history of research, and the range of source, fragment, and supplementary models and the current debate over the sources; cited for the state and diversity of Pentateuchal composition scholarship. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.eisenbrauns.org/books/titles/978-1-57506-122-1.html",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brettler, Marc Zvi. How to Read the Jewish Bible. Oxford: Oxford University Press, 2007 (orig. published as How to Read the Bible, Jewish Publication Society, 2005). Contemporary Jewish scholar's introduction to reading the Hebrew Bible in its historical and literary context; cited for the Torah read on Jewish terms and for the wider senses of the term. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/how-to-read-the-jewish-bible-9780195325225",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "moses",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Moses",
+    "original": "מֹשֶׁה",
+    "transliteration": "Mosheh",
+    "aliases": [
+      "Moshe",
+      "Moshe Rabbenu (Moses our Teacher)",
+      "Musa (in Islam)"
+    ]
+  },
+  "roles": [
+    "prophet",
+    "lawgiver",
+    "leader of the Exodus",
+    "mediator of the covenant"
+  ],
+  "summary": "Moses (Mosheh, Moshe Rabbenu) is, in Jewish tradition, the prophet and lawgiver of the Torah who leads Israel out of Egypt, receives the Torah and the Law at Sinai, and mediates the covenant between God and Israel. The Torah remembers him as the supreme prophet of Israel, the one whom the LORD knew face to face (Deuteronomy 34:10); the historicity of Moses and of the Exodus is debated among modern scholars, who treat the narrative as a foundational tradition whose historical kernel is uncertain.",
+  "description": "Moses is presented here on the terms of the Jewish and biblical tradition, with the historical-critical assessment given separately and attributed to scholarship; the editor neither affirms nor denies that Moses was a historical person or that the Exodus occurred.\n\nIn the account of the Torah (Exodus through Deuteronomy), Moses is born to an Israelite family in Egypt during Pharaoh's oppression, is drawn from the Nile and raised in Pharaoh's household, flees to Midian after killing an Egyptian, and is called by God at the burning bush to lead the Israelites out of slavery. He confronts Pharaoh, and after the plagues and the departure from Egypt he leads the people through the sea and to Mount Sinai, where he receives the Torah, the Ten Words (the Decalogue), and the body of law that constitutes the covenant between God and Israel. He mediates that covenant, intercedes for the people, transmits the commandments (mitzvot), and leads Israel through the wilderness for forty years, dying within sight of the promised land, which he does not enter. In the tradition's own idiom he is Moshe Rabbenu, Moses our Teacher, and the Torah's closing testimony holds that no prophet has arisen in Israel like Moses, whom the LORD knew face to face (Deuteronomy 34:10); later Jewish thought treats the Torah given through him as the enduring covenantal law and reads his prophecy as unique in its directness. This is the received biblical and Jewish portrait, given as the tradition's own account.\n\nModern historical-critical scholarship approaches the same material differently, and its assessment is recorded here as scholarship, not as the tradition's claim and not as the editor's verdict. Many scholars regard the narratives of Exodus and Deuteronomy as texts composed and edited over a long span, later than the events they depict, and treat the figure of Moses and the Exodus as a foundational cultural memory whose underlying historical kernel is uncertain and contested. Some, such as Jan Assmann, study Moses primarily as a figure of memory rather than of documented history; commentators such as Brevard Childs and William Propp analyse the growth and composition of the Exodus tradition; and scholars such as Ronald Hendel read the Exodus as a focus of Israelite cultural memory whose relation to actual events is debated, with a range of positions from a minimal historical core to the view that the narrative does not record events as told. The editor does not adjudicate this debate: it records that the tradition receives Moses as the prophet and lawgiver of the covenant, and that scholarship treats his historicity and that of the Exodus as an open and debated question.\n\nOther traditions read this same figure on their own terms, and those readings are attributed to them here, not folded into the Jewish entry. Christianity has often read Moses typologically, as a type or foreshadowing of Christ and within a law-and-gospel relation in which the Mosaic law is set in relation to the gospel; this is a Christian appropriation of the figure, recorded as an attributed Christian reading and not as a claim of the Jewish tradition. Islam holds Musa to be a prophet and messenger who receives the Tawrat, treated in the paired entry musa. These cross-tradition readings are noted, not harmonized.",
+  "editorial_notes": "The entry describes Moses on the Jewish and biblical tradition's own terms first (neutrality #6, #7), with a clearly separated register for the historical-critical assessment (following the register-separation device used in jesus-of-nazareth): the Torah's account is given as the tradition's account, and the scholarly view that the historicity of Moses and the Exodus is uncertain and debated is attributed to named scholarship (Assmann, Childs, Propp, Hendel), not asserted or denied in the editor's voice. The editor does not rule that Moses was or was not historical, nor that the Exodus did or did not occur; both the tradition's reception and the scholarly debate are attributed to their holders. The Christian typological reading (Moses as type of Christ, the law-gospel relation) is attributed as a Christian appropriation, not presented as the Jewish entry's claim (ADR-0008; neutrality #7, #10). Sourcing triangulates three lenses per #8-9: outside academic scholarship on Moses and the Exodus (Assmann's Moses the Egyptian; Childs's and Propp's critical Exodus commentaries; Hendel), the primary text (the Tanakh, Exodus through Deuteronomy), and the contemporary-Jewish-scholarship lens (Hendel, a Hebrew Bible scholar, who also carries the historicity debate). No encyclopedias, Wikipedia, or tertiary sources. Confidence is high only for the directly cited primary Tanakh text and medium for the secondary works, which were verified to exist and be on-topic but not read line-by-line. No BCE year is given: Moses is not securely datable, and forcing a year would overstate the evidence, so the lifespan carries only a heavily qualified note. The compares_with target musa and the related_to targets tanakh, nubuwwa, second-temple-judaism, torah, and abraham all exist in the dataset.",
+  "lifespan": {
+    "note": "No secure dates. The Torah presents Moses as living before the settlement in Canaan, and traditional and scholarly attempts to place the Exodus have ranged across the second millennium BCE (proposals commonly cluster in the fifteenth or the thirteenth century BCE), but there is no consensus and the historicity of the figure and the events is itself debated. No birth or death year is asserted here, since the evidence does not support one; any BCE dating would be a scholarly estimate, not a fixed fact."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "musa",
+      "note": "Moses (Mosheh) and the Qur'anic Musa are the same figure read across two traditions, and this link compares the shared question of who he is, not the answers, ranking neither. The shared figure is the prophet and lawgiver of the Exodus who confronts Pharaoh, leads Israel out of Egypt, and receives the revelation at Sinai. The difference: in Judaism he is Moshe Rabbenu, the supreme prophet of Israel and the lawgiver of the Torah and the covenant, unequalled among the prophets (Deuteronomy 34:10); in Islam he is Musa, a prophet and messenger (rasul) of firm resolve (ulu al-azm) who receives the Tawrat, located within the single sequence of prophets that Islam holds to be sealed by Muhammad. The link marks the comparable figure and question and states the difference; it does not equate the two portraits, treat either tradition's account as the measure of the other, or rank them (neutrality #10)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The account of Moses is given in the Torah, the first division of the Tanakh, across the books of Exodus, Leviticus, Numbers, and Deuteronomy; the Tanakh is the primary Jewish source for the figure."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "In the tradition Moses is the prophet through whom the Torah, the Law given at Sinai, is transmitted, and the five books are called the books of Moses."
+    },
+    {
+      "type": "related_to",
+      "target": "abraham",
+      "note": "The covenant mediated through Moses at Sinai is understood in the tradition to stand in continuity with the earlier covenant with Abraham and the patriarchs."
+    },
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "By the Second Temple period the Torah associated with Moses had become the central authoritative scripture of Judaism, read and interpreted as the foundational law of the people."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Assmann, Jan. Moses the Egyptian: The Memory of Egypt in Western Monotheism. Cambridge, MA: Harvard University Press, 1997. An academic study that treats Moses primarily as a figure of cultural memory rather than of documented history, tracing how the memory of Moses and of Egyptian monotheism was transmitted and transformed in Western thought.",
+      "url": "https://www.hup.harvard.edu/books/9780674587397",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Childs, Brevard S. The Book of Exodus: A Critical, Theological Commentary. The Old Testament Library. Philadelphia: Westminster Press, 1974. A critical commentary on Exodus treating the composition and growth of the tradition alongside its theological reading; cited for the historical-critical analysis of the Exodus narrative and the figure of Moses.",
+      "url": "https://www.wjkbooks.com/bookproduct/0664229689-the-book-of-exodus/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Propp, William H. C. Exodus 1-18: A New Translation with Introduction and Commentary. Anchor Bible 2. New York: Doubleday, 1999. A detailed critical commentary and translation of Exodus 1-18, covering the Egypt narratives, the call of Moses, and the departure from Egypt; cited for the philological and historical-critical treatment of the Exodus material.",
+      "url": "https://www.amazon.com/Exodus-1-18-Translation-Comments-Anchor/dp/0385148046",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hendel, Ronald. Remembering Abraham: Culture, Memory, and History in the Hebrew Bible. Oxford: Oxford University Press, 2005. A Hebrew Bible scholar's study of the Exodus and the patriarchs as foci of Israelite cultural memory, discussing the debated relation between the remembered past and actual historical events; carries the contemporary-Jewish-scholarship lens and the historicity debate.",
+      "url": "https://academic.oup.com/jaar/article-abstract/76/3/690/695195",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Tanakh (Hebrew Bible), Masoretic Text: the Torah, especially Exodus, Leviticus, Numbers, and Deuteronomy (including the call at the burning bush, Exodus 3; the Decalogue and the Sinai covenant, Exodus 19-24; and the testimony that no prophet arose in Israel like Moses, Deuteronomy 34:10). Primary scripture for the Jewish and biblical account of Moses. English reference translation: JPS Hebrew-English Tanakh, 2nd ed., Philadelphia: Jewish Publication Society, 1999.",
+      "url": "https://jps.org/product-category/jps-tanakh/",
+      "license": "Hebrew text in the public domain; the JPS translation is proprietary. Cited passages verified against the primary text.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

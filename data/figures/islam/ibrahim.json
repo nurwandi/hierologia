@@ -1,0 +1,99 @@
+{
+  "id": "ibrahim",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ibrahim (Abraham)",
+    "original": "إبراهيم",
+    "transliteration": "Ibrāhīm",
+    "aliases": [
+      "Ibrāhīm khalīl Allāh (Abraham, friend of God)",
+      "Abu al-Anbiya (father of the prophets)",
+      "the hanif",
+      "Abraham (in Judaism and Christianity)"
+    ]
+  },
+  "roles": [
+    "prophet (nabi)",
+    "messenger (rasul)",
+    "hanif (pure monotheist)",
+    "khalil Allah (friend of God)",
+    "builder of the Kaaba with Isma'il"
+  ],
+  "summary": "In Islam, Ibrahim (Abraham) is one of the greatest prophets and messengers of God, a hanif (pure, upright monotheist) and khalil Allah (the friend, or intimate, of God), who rejected idolatry for the worship of the one God, who with his son Isma'il (Ishmael) raised the foundations of the Kaaba, and who is the Qur'anic model of submission (islam) to God. The near-sacrifice of his son, at which God ransomed the boy, is widely understood in Islam to concern Ishmael.",
+  "description": "Ibrahim is presented here on the terms of the Qur'an and the Islamic tradition. In the Qur'an he is a prophet (nabi) and messenger (rasul), one of the great line of prophets, and a central exemplar of the true religion. He is the hanif, the pure and upright monotheist who is 'neither a Jew nor a Christian' but turns wholly to the one God (Q 3:67), and the Qur'an directs believers to follow 'the religion of Abraham, a hanif' (millat Ibrahim, Q 2:135, 3:95, 16:123). God 'took Abraham as an intimate friend' (khalil, Q 4:125), the title from which the tradition calls him khalil Allah. The Qur'an narrates his rejection of idolatry: he reasons away from the worship of star, moon, and sun to the Creator (Q 6:74-79), confronts his people and his father over their idols (Q 19:41-48, Q 21:51-70, Q 37:83-98), and is delivered from the fire into which they cast him. With his son Isma'il (Ishmael) he raises the foundations of the House (the Kaaba) at Mecca and prays that God accept it and make of their descendants a people submitting to God, and the passage ties him to the sanctuary and the rites of pilgrimage (Q 2:124-129, Q 22:26-27, Q 14:35-41). Q 2:124 has God try Abraham with certain commands which he fulfils, and make him an imam (leader) for humankind; Q 22:78 speaks of 'the religion of your father Abraham'; and Q 3:67-68 and Q 4:125 present him as the model of the one who submits his face to God. The episode of the near-sacrifice is given in Q 37:99-113: Abraham sees in a vision that he is to sacrifice his son, father and son both submit to God's command, and at the point of the act God calls out that the vision has been fulfilled and ransoms the boy with 'a great sacrifice.' The Qur'anic text of this passage does not name the son; classical and later Islamic exegesis widely, though not unanimously in the earliest period, identifies him as Ishmael (Isma'il), and Reuven Firestone has traced how Islamic exegesis moved over time toward the identification of Ishmael as the intended son (the dhabih). Across these passages Ibrahim stands as a servant and prophet of the one God, the eponym of millat Ibrahim, the friend of God, and the pattern of islam, submission, that the Qur'an presents as true religion, honoured within the single line of prophecy (nubuwwa) that the tradition holds runs from Adam through Muhammad.",
+  "editorial_notes": "This entry follows the per-tradition-pair model of isa (islam) and jesus-of-nazareth (christianity): the shared patriarch gets a separate entity per tradition, each on its own terms, joined by a #10 compares_with to abraham (judaism). Ibrahim is described on Islam's own terms first (neutrality #6, #7): a prophet and messenger, hanif and khalil Allah, rejecter of idolatry, builder of the Kaaba with Isma'il, and the model of submission (islam), with the relevant ayat cited (Q 2:124-132, 3:67, 4:125, 6:74-79, 14:35-41, 19:41-48, 21:51-70, 22:26-27 and 78, 37:83-113). The Akedah/near-sacrifice 'son' is handled per the #10/#11 rule: the entry notes accurately that the Qur'anic text of Q 37:99-113 does not name the son, and that classical and later Islamic exegesis widely identifies him as Ishmael (Isma'il), attributed to that exegesis (with Firestone cited on the historical evolution of the identification, which was not unanimous in the earliest period); it does NOT assert as neutral fact which son it 'really' was, and it leaves the Genesis identification (Isaac) to the abraham entry and the compares_with note. Sourcing triangulates the three lenses required per #8-9: (a) academic (Reuven Firestone, Journeys in Holy Lands, on the Abraham-Ishmael legends in Islamic exegesis, and Firestone's JAAR article on Abraham's sacrifice for the disputed son); (b) primary, the Qur'an (the cited ayat) with al-Tabari's classical Sunni tafsir; (c) a contemporary Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an, on prophethood, matched to its existing medium rating in the corpus). No encyclopedias (no Encyclopaedia of Islam), no Wikipedia or tertiary sources. Confidence: the directly cited Qur'anic text is high; the secondary works are medium (verified to exist and be on-topic, not read line-by-line). The compares_with target abraham is authored alongside this entry; related_to targets millat-ibrahim and hanif exist, and islam, nubuwwa, and isma'il are forward or existing references (dangling allowed).",
+  "lifespan": {
+    "note": "No birth or death year is asserted. The Islamic tradition places Ibrahim among the prophets of a remote past, long before Muhammad, and the Qur'an is not a chronicle giving his dates; his historical dating is not established, so no CE/BCE integer is given here rather than force a spurious precision. The Qur'anic account of Ibrahim belongs to the revelation of 610-632 CE and its classical exegesis."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "abraham",
+      "note": "The Qur'anic Ibrahim and the Genesis Abraham (Avraham) are the same patriarch read across two traditions, and this link compares the shared figure and the shared questions about him, not the answers, ranking neither and equating neither. Islam holds Ibrahim to be a prophet and messenger, a hanif (pure monotheist) and khalil Allah (friend of God), who with his son Ishmael (Isma'il) built the Kaaba and who is the model of submission (islam), and the near-sacrifice of his son (Q 37:99-113, where the text does not name the son) is widely understood in Islamic exegesis to concern Ishmael. Judaism, following Genesis, holds Abraham to be the first patriarch and the founding ancestor of the Jewish people through Isaac and Jacob, bound to God by the covenant (brit) of land and descendants, and identifies the son bound in the Akedah (Genesis 22) as Isaac. The traditions thus share the patriarch but differ on the line of descent and covenant (prophethood and the Kaaba through Ishmael, versus covenant and peoplehood through Isaac) and on the identity of the son of the binding; this note records each tradition's identification as attributed to that tradition and does not adjudicate which son it was, rank the two accounts, or harmonize them."
+    },
+    {
+      "type": "related_to",
+      "target": "millat-ibrahim",
+      "note": "Ibrahim is the eponym of millat Ibrahim, 'the religion of Abraham', the upright primordial monotheism the Qur'an directs believers to follow (Q 2:135, 3:95, 16:123); the concept entry and this figure are mutually referential."
+    },
+    {
+      "type": "related_to",
+      "target": "hanif",
+      "note": "Ibrahim is the pre-eminent hanif, the pure upright monotheist 'neither a Jew nor a Christian' (Q 3:67), who turns from idolatry to the one God (Q 6:74-79)."
+    },
+    {
+      "type": "related_to",
+      "target": "isma-il",
+      "note": "Isma'il (Ishmael) is Ibrahim's son with whom he raises the foundations of the Kaaba (Q 2:127) and who, in the widely held Islamic exegetical identification, is the son of the near-sacrifice (Q 37:99-113); the two are closely linked in the Qur'anic account of the sanctuary and the pilgrimage. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Ibrahim is one of the great prophets within the single line of Islamic prophecy (nubuwwa), called an imam (leader) for humankind (Q 2:124) and honoured among the messengers."
+    },
+    {
+      "type": "related_to",
+      "target": "islam",
+      "note": "The Qur'an presents Ibrahim as the model of submission to God, the sense of islam, one who 'submitted his face to God while doing good' (Q 4:125), and Q 22:78 speaks of the religion of Abraham. Forward reference."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Qur'an, esp. Q 2:124-132 (Abraham tried and made an imam; raising the foundations of the House with Ishmael), 3:67-68 (Abraham a hanif, a muslim, neither Jew nor Christian), 4:125 (God took Abraham as an intimate friend, khalil), 6:74-79 (Abraham's reasoning from the heavenly bodies to the Creator), 14:35-41 (Abraham's prayer at the sanctuary), 19:41-48 and 21:51-70 and 37:83-98 (his rejection of the idols and deliverance from the fire), 22:26-27 and 78 (the sanctuary, the pilgrimage, and 'the religion of your father Abraham'), and 37:99-113 (the near-sacrifice, in which the son is not named and is ransomed with a great sacrifice). Primary scripture, cited on the tradition's own terms.",
+      "license": "Primary religious text; the classical Arabic is in the public domain; English translations vary.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Firestone, Reuven. Journeys in Holy Lands: The Evolution of the Abraham-Ishmael Legends in Islamic Exegesis. Albany: State University of New York Press, 1990. An academic monograph presenting and analysing the Islamic legends about Abraham and Ishmael from the Qur'an and early exegesis (the journeys, the building of the Kaaba, the sacrifice) in relation to Jewish, Christian, and pre-Islamic Arabian traditions. Cited as the academic lens on the Islamic Abraham-Ishmael material and the Kaaba narrative. Relevant passages not read line-by-line.",
+      "url": "https://sunypress.edu/Books/J/Journeys-in-Holy-Lands",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Firestone, Reuven. 'Merit, Mimesis, and Martyrdom: Aspects of Shiʿite Meta-Historical Exegesis on Abraham's Sacrifice in Light of Jewish, Christian, and Sunni Muslim Tradition.' Journal of the American Academy of Religion 66, no. 1 (1998): 93-116. A peer-reviewed article on the exegesis of Abraham's near-sacrifice across traditions, bearing on the question of the intended son (the dhabih) and the movement of Islamic exegesis toward the identification of Ishmael. Cited specifically for the disputed identity of the son of the sacrifice. Relevant passages not read line-by-line.",
+      "url": "https://academic.oup.com/jaar/article-abstract/66/1/93/779108",
+      "license": "Proprietary journal article; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; the foundational classical commentary on the Qur'anic passages on Ibrahim, including Q 37:99-113 on the near-sacrifice, where the exegetical tradition debates and largely settles on the identity of the son. Cited as the classical primary-exegesis lens; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'ān. 2nd ed. Chicago: University of Chicago Press, 2009 (1st ed. Minneapolis: Bibliotheca Islamica, 1980). A monograph by a leading modern Muslim scholar; its chapter on prophethood and revelation treats Abraham among the prophets and the Qur'anic account of prophetic submission to God. Cited as the contemporary Muslim scholarly lens; matched to its existing medium rating in the corpus. Relevant passages not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ahl-al-kitab",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ahl al-Kitab",
+    "original": "أهل الكتاب",
+    "transliteration": "ahl al-kitāb",
+    "aliases": [
+      "People of the Book",
+      "People of Scripture",
+      "the scripture-communities (in Islamic usage)",
+      "those given the Book"
+    ]
+  },
+  "category": "theological anthropology",
+  "summary": "Ahl al-Kitab, the People of the Book, is the Qur'anic category for communities God had given an earlier revealed scripture, understood principally as the Jews and the Christians (and, in some readings, the Sabians). In Islamic theology and law the category carries a distinctive status, marking these communities off from both the Muslim community and from those held to have no revealed book.",
+  "description": "Ahl al-Kitab (literally 'people of the Book' or 'people of scripture') is the Qur'anic term for the communities God is held to have given an earlier revelation, and in Islamic thought it functions as both a theological and a legal category. The Qur'an addresses the ahl al-kitab directly and often: it calls them to a shared word, 'that we worship none but God' (Q 3:64); it distinguishes among them, describing an upright community that recites God's signs and enjoins right (Q 3:113-115) while elsewhere rebuking others; it permits, on the standard juristic reading, the food of the People of the Book and marriage with their chaste women (Q 5:5); it instructs Muslims to dispute with the People of the Book 'only in the best way' (Q 29:46); and it notes that among them are those who believe (Q 3:199). On the Islamic account the category rests on the premise that these communities received genuine revelation from God, the Tawrat given to Musa and the Injil given to Isa, so that they stand apart from those the tradition regards as having no scripture.\n\nIn classical exegesis and law the category is principally applied to Jews and Christians; the status of the Sabians (al-sabi'un), named in the Qur'an (Q 2:62, 5:69, 22:17), was debated among jurists, some extending the People-of-the-Book status to them and others withholding it, and in some later juristic discussion Zoroastrians (Majus) were treated analogously for certain purposes. The category grounds a distinctive legal-theological standing: on the classical juristic elaboration, People of the Book living under Muslim rule could hold the status of dhimmis, protected non-Muslims, and certain dealings with them (their food, intermarriage) were permitted that were not permitted with others. This entry describes the Qur'anic and juristic category as Islamic tradition has framed and debated it. It is an attributed Islamic classification of others, not a neutral description of Judaism or Christianity or of how Jews and Christians understand themselves; the premise that these communities hold an 'earlier scripture' is stated as the Islamic conception (bound to the Islamic categories of the Tawrat and Injil and to the doctrine of tahrif), not as a claim about the actual content or history of the Jewish and Christian scriptures. The category sits within Islamic prophetology (nubuwwa), since it concerns communities of earlier prophets, and is governed by the framework of tawhid.",
+  "editorial_notes": "This entry carries the heightened cross-tradition neutrality burden of principles #10 and #11. Ahl al-Kitab is described as an attributed Qur'anic and juristic category, that is, as Islam's own classification of certain other communities, using framing such as 'the Qur'anic term', 'on the Islamic account', 'in classical exegesis and law', and 'on the standard juristic reading'. Per #11 the entry does NOT present the category as a neutral fact about Jews and Christians and does NOT describe what Judaism or Christianity teaches or how Jews and Christians understand themselves; the premise that these communities were 'given a scripture' is flagged explicitly as the Islamic conception, tied to the Islamic categories Tawrat and Injil and to the doctrine of tahrif, and not as a claim about the actual Jewish or Christian scriptures. The internal juristic debates (the disputed status of the Sabians, the analogical treatment of Zoroastrians, the dhimma framework) are reported as attributed positions within Islamic law, not endorsed. Sourcing triangulates the three lenses required by #8 and #11: (a) Western academic study (Griffith, The Bible in Arabic, on the People of the Book and their scriptures in the language of Islam; McAuliffe, Qur'anic Christians, on the Muslim exegesis of Qur'anic passages about the People of the Book); (b) the primary and classical corpus (the Qur'an's ahl al-kitab verses; al-Tabari's tafsir as an attributed classical gloss); (c) a contemporary Muslim scholar (Mun'im Sirry, Scriptural Polemics, on the Qur'an's treatment of other religious communities and its modern reinterpretation). No encyclopedias or tertiary sources are cited; Wikipedia, Britannica, and Encyclopedia.com surfaced in research only as corroboration and are excluded per #9. Confidence is high only for the directly quotable Qur'anic text and medium for secondary and classical works, verified to exist and be on-topic but not read line-by-line. No compares_with link is used: the entry is an Islamic classification OF other communities, so a compares_with would risk reading as the editor comparing the actual communities rather than a shared theological question; attribution through the description is safer here, as in the tahrif model. Relation targets that already exist: tahrif, isa, nubuwwa, tawhid. Forward references authored in the same batch: tawrat, injil (and musa, referenced only in prose).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tawrat",
+      "note": "On the Islamic account the ahl al-kitab include the community given the Tawrat, the scripture Islam holds God revealed to Musa; the Qur'an calls the People of the Book to uphold it. Authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "injil",
+      "note": "On the Islamic account the ahl al-kitab include the community given the Injil, the scripture Islam holds God gave to Isa; the Qur'an calls the People of the Book to uphold it. Authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "tahrif",
+      "note": "The Islamic charge of tahrif is directed at the ahl al-kitab, as the communities held on that doctrine to have altered, concealed, or misread the scriptures they were given. The category and the charge are two sides of the same Islamic account of earlier revelation and are reported as attributed doctrine."
+    },
+    {
+      "type": "related_to",
+      "target": "isa",
+      "note": "Isa (Jesus) is, in the Islamic account, the prophet given the Injil to the community that became one of the ahl al-kitab; the Qur'anic treatment of the People of the Book overlaps heavily with its treatment of Isa and his followers."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "The category ahl al-kitab presupposes Islamic prophetology (nubuwwa): the People of the Book are, on the Islamic account, the communities of earlier prophets who received genuine revelation before the Qur'an."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The Qur'an frames its address to the ahl al-kitab through tawhid, calling them to 'a common word', that none be worshipped but God (Q 3:64); the category is bound to the Islamic insistence on divine oneness."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic category of the ahl al-kitab is established in the Qur'an (revealed 610-632 CE) and elaborated in the classical tafsir and in Islamic law, where the dhimma framework and the disputed status of the Sabians and (by analogy) Zoroastrians were worked out across the classical period."
+  },
+  "sources": [
+    {
+      "citation": "Griffith, Sidney H. The Bible in Arabic: The Scriptures of the 'People of the Book' in the Language of Islam. Princeton, NJ: Princeton University Press, 2013. Academic monograph on the People of the Book and their scriptures within the Arabic-Islamic milieu and the Qur'anic framing of earlier scripture-communities. Cited as scholarship on the Islamic category, not as a description of Judaism or Christianity.",
+      "url": "https://press.princeton.edu/books/paperback/9780691168081/the-bible-in-arabic",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McAuliffe, Jane Dammen. Qur'anic Christians: An Analysis of Classical and Modern Exegesis. Cambridge: Cambridge University Press, 1991. Academic study of Qur'anic passages concerning Christians among the People of the Book through ten centuries of Muslim exegesis. Cited as scholarship on how Muslim exegetes read the Qur'an's treatment of the ahl al-kitab, not as a description of Christianity.",
+      "url": "https://www.cambridge.org/us/universitypress/subjects/religion/islam/quranic-christians-analysis-classical-and-modern-exegesis",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, ahl al-kitab verses: Surah Al Imran (3:64, 3:113-115, 3:199), Surah al-Ma'ida (5:5), Surah al-Ankabut (29:46), and the Sabians in al-Baqara (2:62), al-Ma'ida (5:69), and al-Hajj (22:17). Primary scripture: the call to a common word, the distinctions drawn among the People of the Book, the permission of their food and intermarriage, the instruction to dispute in the best way, and the naming of the Sabians. Cited as the doctrinal basis for the Islamic category.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; glosses the ahl al-kitab verses and the identity of the scripture-communities. Cited as an attributed classical Muslim reading; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sirry, Mun'im. Scriptural Polemics: The Qur'an and Other Religions. Oxford: Oxford University Press, 2014. A contemporary Muslim scholar's study of the Qur'an's treatment of other religious communities, including the People of the Book, and of how modern Muslim exegetes have reinterpreted these passages. Serves as the contemporary Muslim scholarly lens.",
+      "url": "https://global.oup.com/academic/product/scriptural-polemics-9780199359363",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

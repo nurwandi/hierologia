@@ -1,0 +1,81 @@
+{
+  "id": "musa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Musa (Moses)",
+    "original": "مُوسَىٰ",
+    "transliteration": "Musa",
+    "aliases": [
+      "Musa ibn Imran",
+      "Kalim Allah (the one to whom God spoke)",
+      "Moses (in Judaism and Christianity)"
+    ]
+  },
+  "roles": [
+    "prophet (nabi)",
+    "messenger (rasul)",
+    "one of the ulu al-azm (those of firm resolve)"
+  ],
+  "summary": "In Islam, Musa (Moses) is a prophet (nabi) and messenger (rasul) of God, counted among the ulu al-azm, the messengers of firm resolve, and the most frequently mentioned prophet in the Qur'an. Sent to Pharaoh (Fir'awn), he confronts him, leads the Israelites out of Egypt, and receives the Tawrat, standing within the single line of prophecy that Islam holds to be sealed by Muhammad.",
+  "description": "Musa is presented in the Qur'an as a human prophet and messenger sent by God, and this entry describes him on Islam's own terms. He is the prophet named most often in the Qur'an, and his story is told across many surahs, among them Q 2:51-53, 7:103-156, 20:9-98, and 28:3-46. Born among the Children of Israel under the tyranny of Pharaoh (Fir'awn), he is placed as an infant in the river and raised in Pharaoh's household (Q 28:7-13), later flees to Madyan after an unintended killing (Q 28:15-22), and is called by God at the sacred valley of Tuwa, where God speaks to him directly and grants him signs, including the staff and the hand (Q 20:9-24). He is sent, with his brother Harun (Aaron), to summon Pharaoh to God (Q 20:42-47); Pharaoh refuses, his sorcerers are confounded and believe, and after the confrontation Musa leads the Israelites out while Pharaoh and his hosts are drowned (Q 26:52-66). Musa receives the Tawrat, described in the Qur'an as a scripture, guidance, and light given to him for his people (Q 5:44, Q 6:154), and the tradition remembers the episode at the mountain and the appointed forty nights (Q 2:51, Q 7:142-145). Because God spoke to him directly, he is given the honorific Kalim Allah, the one to whom God spoke (cf. Q 4:164). Classical tafsir, such as al-Tabari's Jami al-bayan, elaborates these narratives and situates Musa among the prophets sent to particular peoples. In Islamic prophetology (nubuwwa) Musa is one of the ulu al-azm, the messengers of firm resolve, a rank the tradition associates with a small number of great messengers, and he stands within the single unbroken line of prophecy that runs from Adam through to Muhammad, honored as a bearer of God's guidance and located, like every prophet, on the creature side of the Creator-creature distinction that tawhid guards.",
+  "editorial_notes": "The entry describes Musa on Islam's own terms first (neutrality #6, #7): a human prophet and messenger, one of the ulu al-azm, the most frequently mentioned prophet in the Qur'an, who confronts Pharaoh, leads the Israelites out, and receives the Tawrat, framed within Islamic prophetology (nubuwwa) and tawhid. Sourcing triangulates three lenses per #8-9: outside academic Qur'anic studies (Wheeler's Moses in the Quran and Islamic Exegesis; Reynolds's The Qur'an and the Bible), the tradition's own primary and classical texts (the Qur'an, with ayat cited, and al-Tabari's classical Sunni tafsir Jami al-bayan), and a contemporary Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an, on prophethood and revelation). No encyclopedias or tertiary sources. Confidence is high only for the directly cited primary Qur'anic text and medium for the secondary and classical-tafsir works, verified to exist and be on-topic but not read line-by-line. The historicity of Moses and the Exodus, debated in modern scholarship, is not adjudicated here and is addressed in the paired Jewish entry moses; this entry gives the Islamic account as the tradition's own, without asserting or denying the events as history. The compares_with target moses is authored in the same batch; related_to targets tawrat and nubuwwa exist in the dataset.",
+  "lifespan": {
+    "note": "The Qur'an and Islamic tradition place Musa in the line of prophets before Muhammad, in the era of Pharaoh and the Children of Israel in Egypt, but assign no calendar dates; no birth or death year is asserted here. The historicity and dating of Moses and the Exodus are debated in modern scholarship and are treated in the paired entry moses, not adjudicated here."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "moses",
+      "note": "Musa and the biblical Moses (Mosheh) are the same figure read across two traditions, and this link compares the shared question of who he is, not the answers, ranking neither. The shared figure is the prophet and lawgiver of the Exodus who confronts Pharaoh, leads Israel out of Egypt, and receives the revelation at Sinai. The difference: in Judaism he is Moshe Rabbenu, the supreme prophet of Israel and the lawgiver of the Torah and the covenant, unequalled among the prophets (Deuteronomy 34:10); in Islam he is Musa, a prophet and messenger (rasul) of firm resolve (ulu al-azm) who receives the Tawrat, located within the single sequence of prophets that Islam holds to be sealed by Muhammad. The link marks the comparable figure and question and states the difference; it does not equate the two portraits, treat either tradition's account as the measure of the other, or rank them (neutrality #10)."
+    },
+    {
+      "type": "related_to",
+      "target": "tawrat",
+      "note": "The Qur'an holds that Musa received the Tawrat, described as a scripture, guidance, and light given to him (Q 5:44, Q 6:154); the Tawrat is the Islamic tradition's own conception of the scripture given to Moses."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Musa is one of the messengers within the single line of Islamic prophecy (nubuwwa) and is counted among the ulu al-azm, the messengers of firm resolve; his signs and message are understood as guidance given by God to a human prophet."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Wheeler, Brannon M. Moses in the Quran and Islamic Exegesis. RoutledgeCurzon Studies in the Qur'an. London: RoutledgeCurzon, 2002. An academic study of the Qur'anic Moses and his treatment in classical Islamic exegesis, including the narratives of Musa and Pharaoh and the exegesis of Q 18:60-82; the outside-academic lens.",
+      "url": "https://www.routledge.com/Moses-in-the-Quran-and-Islamic-Exegesis/Wheeler/p/book/9780415554183",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Reynolds, Gabriel Said. The Qur'an and the Bible: Text and Commentary (Qur'an translation by Ali Quli Qarai). New Haven: Yale University Press, 2018. An academic verse-by-verse commentary reading the Qur'an, including its extensive Moses (Musa) material, in relation to biblical and late-antique traditions; the outside-academic lens.",
+      "url": "https://yalebooks.yale.edu/book/9780300181326/the-quran-and-the-bible/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, esp. Surah al-Baqara (2:51-53), Surah al-A'raf (7:103-156), Surah Ta Ha (20:9-98), Surah al-Shu'ara (26:10-68), Surah al-Qasas (28:3-46), and the notices that God spoke to Musa (4:164) and gave him the Tawrat (5:44, 6:154). Primary scripture for the Islamic account of Musa: his birth and rescue, his call at Tuwa, the mission to Pharaoh with Harun, the Exodus, and the giving of the Tawrat.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Jami' al-bayan 'an ta'wil ay al-Qur'an (The Comprehensive Exposition of the Interpretation of the Verses of the Qur'an), completed c. 883 CE. Classical Sunni tafsir; cited for the classical exegetical elaboration of the Musa narratives (the call, the confrontation with Pharaoh, and the giving of the Tawrat). Cited for reference; the Arabic passages were not read line-by-line in this pass.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'an. Minneapolis: Bibliotheca Islamica, 1980. A contemporary Muslim scholar's thematic study of the Qur'an, including its treatment of prophethood and revelation within which the messengers, Musa among them, are understood; the contemporary-Muslim-scholarship lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
