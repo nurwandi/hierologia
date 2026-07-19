@@ -8,7 +8,9 @@ abstract: >-
   linked by cross-tradition comparisons, and a history layer spanning both (the
   ecumenical councils and creeds, the Abbasid Mihna, and the hadith collections).
   Each concept, figure, school, event, and work is a single JSON entity served as
-  a static read-only API.
+  a static read-only API. It is compiled with AI assistance under human editorial
+  oversight; sources are independently verified and most entries are peer-reviewed
+  rather than expert-verified.
 type: dataset
 authors:
   - family-names: Nurwandi
