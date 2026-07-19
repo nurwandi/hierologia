@@ -24,6 +24,8 @@ SCHEMA_BY_TYPE = {
     "concepts": "concept.schema.json",
     "figures": "figure.schema.json",
     "schools": "school.schema.json",
+    "events": "event.schema.json",
+    "works": "work.schema.json",
 }
 
 

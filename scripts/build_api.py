@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 OUT = ROOT / "web" / "api"
-TYPE = {"concepts": "concept", "figures": "figure", "schools": "school"}
+TYPE = {"concepts": "concept", "figures": "figure", "schools": "school", "events": "event", "works": "work"}
 
 
 def main():
