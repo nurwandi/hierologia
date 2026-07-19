@@ -25,7 +25,7 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 91
+> **Status.** Two traditions are covered: Islamic theology (*kalam*) with 102
 > entities and Christian theology with 40, all peer-`reviewed`, linked by
 > cross-tradition comparisons. Coverage is deliberately partial and growing; the
 > project says what it does not yet cover rather than pretending to be complete.

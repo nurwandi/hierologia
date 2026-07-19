@@ -6,6 +6,46 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-07-19
+
+Eleven Islamic entities close the Islamic dangling references, adding the political
+theology of the caliphate, the Sufi vocabulary of annihilation and covenant, the
+great hadith compilers, and the Salafi-Athari account of divine unity.
+
+### Added
+- **The theology of leadership**: `baya` (the pledge of allegiance) and `shura`
+  (consultation) as the mechanisms Sunni thought invokes to constitute the
+  caliphate, and `rashidun` as an Event (the "rightly guided" caliphate, 632-661).
+  "Rightly guided" is carried only as an attributed Sunni honorific, and the Shi'i
+  view is attributed and not ranked (#1, #7).
+- **The hadith compilers** as Figures: al-Bukhari, Muslim ibn al-Hajjaj, and Malik
+  ibn Anas, the authors behind the Work entries added in 0.4.0.
+- **The Sufi path**: `baqa` (subsistence, the state paired with fana') and `mithaq`
+  (the primordial covenant of the Day of Alast), plus `al-jili`, the metaphysician
+  of the Perfect Human (al-insan al-kamil). Whether these amount to union with God
+  is attributed to the tradition and its critics, not settled.
+- **The Salafi-Athari account of divine unity**: `tawhid-al-rububiyya` (the oneness
+  of lordship) and `kitab-al-tawhid` (Ibn Abd al-Wahhab's treatise), presented on
+  the tradition's own terms, with critiques attributed and left unadjudicated (#7).
+- **ADR-0007**: a decision to add a `philosophy` tradition for the shared
+  philosophical substrate (Aristotle and the Greeks) that both kalam and
+  scholasticism draw on; the schema change and first entity land in a later batch.
+
+### Changed
+- `khilafa` now resolves its reference to `baya` (the id drops the apostrophe the
+  schema forbids), and `ali`'s confidence for Ayoub, The Crisis of Muslim History is
+  aligned to `medium` to match that source elsewhere (same source, same rating).
+
+### Notes
+- The dataset is now 142 entities: 102 Islamic and 40 Christian, 140 `reviewed` and
+  2 `verified`. The Islamic dangling references are closed; the remaining forward
+  references are Christian (the Reformation, Aquinas's sources, and others), the
+  first three caliphs (Abu Bakr, Umar, Uthman), and the Greek philosophers awaiting
+  the `philosophy` tradition.
+- MINOR release: it adds entities. `schema_version` stays 0.3.0; ADR-0007 records a
+  decision but ships no contract change yet (ADR-0004: dataset and schema versions
+  are separate axes).
+
 ## [0.4.0] - 2026-07-19
 
 The Islamic history layer opens, mirroring the Christian one, and the first
