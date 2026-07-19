@@ -6,6 +6,28 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.8.1] - 2026-07-19
+
+Seven entries are promoted from `reviewed` to `verified` after their load-bearing
+primary sources were read directly, line by line, and confirmed.
+
+### Changed
+- **The first `verified` promotions beyond the original two.** The cited primary
+  sources of `tawrat`, `injil`, `ahl-al-kitab`, and `hanif` (their Qur'anic verses,
+  read at quran.com), `new-testament-canon` (Athanasius's 39th Festal Letter listing
+  the twenty-seven books), `nicene-creed` (the 381 creed text), and `theosis` (2 Peter
+  1:4 and Athanasius, On the Incarnation 54) were read directly and confirmed by an
+  independent second check. These move to `verified`, and their read sources carry
+  honest `high` confidence. The dataset now has 9 `verified` entries, up from 2.
+- `theosis` splits its bundled patristic and scriptural source into two separate,
+  directly-read `high` sources. `khatam-al-nabiyyin` gains its previously missing
+  Qur'anic source (Q 33:40, read directly) but stays `reviewed`, because its
+  distinctive historical claim still rests on a paywalled study not yet read.
+
+### Notes
+- PATCH release: status promotions and sourcing only, no new entities and no schema
+  change. `schema_version` stays 0.5.0.
+
 ## [0.8.0] - 2026-07-19
 
 The Abrahamic scriptures and patriarchs are added and the Judaism tradition deepens,
