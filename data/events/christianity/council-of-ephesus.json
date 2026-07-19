@@ -19,7 +19,7 @@
   },
   "summary": "The Council of Ephesus was a gathering of Christian bishops convened in 431 by the emperor Theodosius II. It condemned the teaching of Nestorius and affirmed that Mary may be called Theotokos (God-bearer), upholding the unity of the divine and human in the one Christ.",
   "description": "The Council of Ephesus met in 431, convened by the emperor Theodosius II, to resolve the dispute between Cyril of Alexandria and Nestorius, patriarch of Constantinople, over how the divine and human are united in Christ. Nestorius resisted the title Theotokos (God-bearer) for Mary, preferring Christotokos (Christ-bearer), because he so stressed the distinction of the divine and human in Christ that his critics charged him with dividing Christ into two subjects. Cyril, supported by Pope Celestine I, insisted that the one Christ is a single subject, so that the one born of Mary is the incarnate Word, and that Theotokos is therefore proper. The council, meeting under Cyril's presidency before the arrival of the Syrian bishops sympathetic to Nestorius, condemned and deposed Nestorius and affirmed the Theotokos, confirming the Nicene faith. It is counted as the third of the ecumenical councils. A formula of reconciliation, the Formula of Union of 433, later mediated between the Alexandrian and Antiochene emphases. The council's affirmation that Mary is Theotokos was a statement about the person of Christ, safeguarding the unity of the incarnate Word, and it set the terms for the christological debates that continued to Chalcedon in 451.",
-  "editorial_notes": "This entry describes the council on the tradition's own terms and states the disputed question (how the divine and human are united in Christ, and whether Mary is properly called Theotokos) as the matter in dispute, attributing positions to Cyril and Nestorius rather than adjudicating them, per neutrality principles #1, #2, #4, and #6. The contested and politically charged sequence of the sessions is noted rather than smoothed over. 'Nestorianism' is used as the later heresiological label for the range of positions associated with Nestorius. Cyril of Alexandria is referenced as a forward relation target (cyril-of-alexandria); Athanasius is not listed as a participant because he had died in 373, well before this council. Sources triangulate three lenses per neutrality principles #8-9: an academic monograph on the controversy (McGuckin, St Cyril of Alexandria and the Christological Controversy, Brill 1994, which also translates the key texts), the primary conciliar acts (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the definition and canons regarding Nestorius and the Theotokos, read in the promulgated acts; medium on the secondary works, verified to exist and be on-topic but not read line-by-line.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms and states the disputed question (how the divine and human are united in Christ, and whether Mary is properly called Theotokos) as the matter in dispute, attributing positions to Cyril and Nestorius rather than adjudicating them, per neutrality principles #1, #2, #4, and #6. The contested and politically charged sequence of the sessions is noted rather than smoothed over. 'Nestorianism' is used as the later heresiological label for the range of positions associated with Nestorius. Cyril of Alexandria is referenced as a forward relation target (cyril-of-alexandria); Athanasius is not listed as a participant because he had died in 373, well before this council. Sources triangulate three lenses per neutrality principles #8-9: an academic monograph on the controversy (McGuckin, St Cyril of Alexandria and the Christological Controversy, Brill 1994, which also translates the key texts), the primary conciliar acts (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the definition and canons regarding Nestorius and the Theotokos, read in the promulgated acts; medium on the secondary works, verified to exist and be on-topic but not read line-by-line. VERIFIED (2026-07-19): the promulgated acts were read directly (NPNF2-14): the deposition of Nestorius, the reception of Cyril's letter, and the affirmation of the Theotokos in 431; an open NPNF2-14 source is added at high and the entry is promoted to verified.",
   "relations": [
     {
       "type": "condemned",
@@ -49,6 +49,13 @@
   ],
   "sources": [
     {
+      "citation": "The promulgated acts of the Council of Ephesus (431), in Nicene and Post-Nicene Fathers, series II, vol. 14 (Schaff, ed.): the sentence deposing Nestorius ('that Nestorius be excluded from the episcopal dignity and from all priestly communion'), the reception of Cyril of Alexandria's letter as orthodox, and the affirmation of the Holy Virgin as Theotokos (Mother of God). The public-domain conciliar text.",
+      "url": "https://www.newadvent.org/fathers/3810.htm",
+      "license": "Public-domain conciliar text (NPNF2-14). Read directly (2026-07-19) and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "McGuckin, John A. St Cyril of Alexandria: The Christological Controversy, Its History, Theology, and Texts. Supplements to Vigiliae Christianae 23. Leiden: Brill, 1994. Academic monograph on the Ephesus controversy that also translates the key documents; the outside-scholarship lens.",
       "url": "https://brill.com/display/title/8213",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
@@ -70,7 +77,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"

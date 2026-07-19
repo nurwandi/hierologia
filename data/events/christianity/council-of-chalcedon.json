@@ -18,7 +18,7 @@
   },
   "summary": "The Council of Chalcedon was a gathering of Christian bishops convened in 451 by the emperor Marcian. It issued the Definition confessing Christ as one person in two natures, without confusion, change, division, or separation, rejecting both Nestorian and Eutychian positions.",
   "description": "The Council of Chalcedon met in 451 at the urging of the emperor Marcian, the largest of the early ecumenical councils, to settle the christological question left open after Ephesus (431) and after the disputed Second Council of Ephesus of 449. It produced the Chalcedonian Definition, which confesses one and the same Christ, Son, and Lord, acknowledged in two natures, without confusion, without change, without division, without separation, the distinction of the natures being in no way removed by their union but the property of each preserved and concurring in one person (prosopon) and one subsistence (hypostasis). The Definition upheld the earlier condemnation of the Nestorian position, which its critics charged with dividing Christ into two persons, and rejected the Eutychian or monophysite position, which held that after the union Christ had a single nature. It received the Nicene and Constantinopolitan creeds, Cyril of Alexandria's synodical letters, and the Tome of Pope Leo I as authoritative. It is counted as the fourth of the ecumenical councils by the Catholic, Orthodox, and most Protestant traditions. The Definition was not received by the churches later called Oriental Orthodox (miaphysite), producing a division in eastern Christianity that endures. Chalcedon's two-natures formula became the standard of christological orthodoxy in the Greek East and the Latin West.",
-  "editorial_notes": "This entry describes the council on the tradition's own terms and states the christological question and the positions it rejected without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division, not evaluated, in keeping with the policy against flattening a live debate. 'Nestorianism' and 'Eutychianism' are used as the later heresiological labels for the positions in dispute; eutychianism is a forward reference to a not-yet-created entity. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the Definition, whose four adverbs and one-person-two-natures formula are read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms and states the christological question and the positions it rejected without adjudicating them, per neutrality principles #1, #2, #4, and #6. That the Definition was not received by the churches later called Oriental Orthodox is stated as a fact of division, not evaluated, in keeping with the policy against flattening a live debate. 'Nestorianism' and 'Eutychianism' are used as the later heresiological labels for the positions in dispute; eutychianism is a forward reference to a not-yet-created entity. Sources triangulate three lenses per neutrality principles #8-9: an academic translation-and-study of the acts (Price and Gaddis, The Acts of the Council of Chalcedon, Liverpool University Press 2005), the primary conciliar text (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary systematic theologian (McGrath, Christian Theology: An Introduction). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the Definition, whose four adverbs and one-person-two-natures formula are read in the promulgated text; medium on the scholarly works, verified to exist and be on-topic but not read line-by-line. VERIFIED (2026-07-19): the promulgated Definition was read directly (NPNF2-14): the two natures 'without confusion, without change, without division, without separation' in one person and hypostasis, the removal of Eutyches' error, and the reception of the Tome of Leo in 451; an open NPNF2-14 source is added at high and the entry is promoted to verified.",
   "relations": [
     {
       "type": "affirmed",
@@ -53,6 +53,13 @@
   ],
   "sources": [
     {
+      "citation": "The promulgated Definition of Faith of the Council of Chalcedon (451), in Nicene and Post-Nicene Fathers, series II, vol. 14 (Schaff, ed.): Christ confessed 'in two natures, without confusion, without change, without division, without separation ... the peculiar property of each nature being preserved and being united in one Person and subsistence', the removal of the errors of Eutyches, and the reception of the creeds of Nicaea and Constantinople, Cyril's synodical letters, and the Tome of Leo. The public-domain conciliar text.",
+      "url": "https://www.ccel.org/ccel/schaff/npnf214.xi.xiii.html",
+      "license": "Public-domain conciliar text (NPNF2-14). Read directly (2026-07-19) and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "Price, Richard, and Michael Gaddis (trans.). The Acts of the Council of Chalcedon. 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005. Academic translation, introduction, and notes to the full acts of the council; the outside-scholarship lens.",
       "url": "https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9780853230397",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
@@ -74,7 +81,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"

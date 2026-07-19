@@ -19,7 +19,7 @@
   },
   "summary": "The First Council of Constantinople was a gathering of Christian bishops convened in 381 by the emperor Theodosius I. It reaffirmed the Nicene faith and expanded the creed, notably its confession of the Holy Spirit, producing the form commonly called the Niceno-Constantinopolitan Creed.",
   "description": "The First Council of Constantinople met in 381 under the emperor Theodosius I, half a century after Nicaea, to consolidate the Nicene confession against continuing Arian and other subordinationist currents and against those who denied the full divinity of the Holy Spirit. The council reaffirmed the confession of the Son as homoousios with the Father and expanded the creed of 325, adding an enlarged article on the Holy Spirit that confesses the Spirit as the Lord and giver of life, who proceeds from the Father and is worshipped and glorified together with the Father and the Son. The resulting text is the creed commonly recited as the Nicene Creed and known more precisely as the Niceno-Constantinopolitan Creed. The council is counted as the second of the ecumenical councils. Its settlement, together with the technical vocabulary supplied by the Cappadocian Fathers distinguishing the one essence (ousia) from the three persons (hypostaseis), marks the point at which the conciliar doctrine of the Trinity, embracing Father, Son, and Holy Spirit, reached its classic form in the Greek East and the Latin West.",
-  "editorial_notes": "This entry describes the council on the tradition's own terms, per neutrality principles #1, #4, and #6, and states what the council reaffirmed and expanded without adjudicating the disputes it addressed. Sources triangulate three lenses per neutrality principles #8-9: academic history of doctrine (Ayres, Nicaea and Its Legacy, OUP 2004), the primary conciliar text and creed (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary Christian theologian (Behr, The Nicene Faith, SVS Press 2004). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the expanded creed, whose Holy Spirit clause is read in the promulgated text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line. Relation targets homoousios and nicene-creed are forward references to not-yet-created entities.",
+  "editorial_notes": "This entry describes the council on the tradition's own terms, per neutrality principles #1, #4, and #6, and states what the council reaffirmed and expanded without adjudicating the disputes it addressed. Sources triangulate three lenses per neutrality principles #8-9: academic history of doctrine (Ayres, Nicaea and Its Legacy, OUP 2004), the primary conciliar text and creed (Tanner, ed., Decrees of the Ecumenical Councils, vol. 1, Georgetown University Press 1990), and a contemporary Christian theologian (Behr, The Nicene Faith, SVS Press 2004). No encyclopedias or tertiary sources are cited. Confidence: high on the primary text of the expanded creed, whose Holy Spirit clause is read in the promulgated text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line. Relation targets homoousios and nicene-creed are forward references to not-yet-created entities. VERIFIED (2026-07-19): the promulgated acts were read directly (NPNF2-14): the enlarged Holy Spirit article (without filioque), Canon 1 against the Pneumatomachi, and the convening by Theodosius I in 381; an open NPNF2-14 source is added at high and the entry is promoted to verified. The scholarly works remain medium (not read line by line).",
   "relations": [
     {
       "type": "produced",
@@ -44,6 +44,13 @@
   ],
   "sources": [
     {
+      "citation": "The promulgated acts and creed of the First Council of Constantinople (381), in Nicene and Post-Nicene Fathers, series II, vol. 14 (Schaff, ed.): the enlarged Holy Spirit article ('the Lord and Giver-of-Life, who proceeds from the Father, who with the Father and the Son together is worshipped and glorified'), without the later Western filioque, and Canon 1 anathematizing the Pneumatomachi (Macedonians) among others, convened by the emperor Theodosius I. The public-domain conciliar text.",
+      "url": "https://www.newadvent.org/fathers/3808.htm",
+      "license": "Public-domain conciliar text (NPNF2-14). Read directly (2026-07-19) and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "Ayres, Lewis. Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. Academic account of the fourth-century controversies through the settlement of 381; the outside-scholarship lens.",
       "url": "https://academic.oup.com/book/3350",
       "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
@@ -65,7 +72,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"
