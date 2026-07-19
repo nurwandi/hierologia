@@ -1,0 +1,56 @@
+{
+  "id": "pharisees",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Pharisees",
+    "original": "פְּרוּשִׁים",
+    "transliteration": "Perushim",
+    "aliases": [
+      "Perushim",
+      "Pharisaic movement",
+      "Pharisaic party",
+      "the fellowship of the Pharisees"
+    ]
+  },
+  "summary": "The Pharisees were a lay movement or party of Second Temple Judaism, prominent from roughly the second century BCE to the first century CE, known for their commitment to the ancestral traditions (later called the oral Torah) alongside the written law and for applying the Torah's purity and other requirements to everyday life; scholars widely regard them as the principal forerunners of rabbinic Judaism.",
+  "description": "The Pharisees (Hebrew Perushim) were one of the prominent movements of Second Temple Judaism, attested from the Hasmonean period (second century BCE) through the first century CE. They were, in Anthony Saldarini's sociological description, chiefly a lay group of religious experts and their adherents rather than a priestly caste, drawn from various social levels, who sought to live the whole of life in accordance with the Torah. Their distinctive commitment, reported both by Josephus and in later Jewish tradition, was to the paradosis, the traditions of the fathers handed down beyond the written text of the Torah, a body of ancestral legal interpretation that rabbinic Judaism would later call the oral Torah. Josephus, himself claiming a Pharisaic affiliation, reports that the Pharisees were the most precise interpreters of the law, that they affirmed the resurrection of the dead and a combination of divine providence with human responsibility, and that they were influential with the common people, in these respects distinguishing them from the Sadducees. The Pharisees gave particular attention to the application of priestly purity, tithing, and Sabbath law to the daily life of ordinary Jews. After the destruction of the Temple in 70 CE, the movement most closely associated with the rabbis who reconstituted Judaism around Torah study and law, and the Mishnah and later rabbinic literature trace a chain of transmission that scholars connect, with due caution, to the Pharisaic tradition. The Pharisees also appear prominently in the Christian Gospels and in the letters of Paul, who identifies himself as having been a Pharisee. The Gospel portrayal, which frequently casts the Pharisees as hypocritical opponents of Jesus, is a Christian polemical source composed in the context of the emerging separation of church and synagogue; it is a witness to early Christian perspective and conflict, not a neutral description of Pharisaic religion, and modern scholarship reads it critically rather than adopting its characterization.",
+  "editorial_notes": "This entry describes the Pharisees on their own terms, per neutrality principles #1, #4, #6, and #7, drawing on scholarship and on Josephus rather than on hostile sources. Per neutrality principle #11, the Gospel portrayal of the Pharisees is treated as an attributed Christian source, a witness to early Christian conflict and to the parting of the ways, and is explicitly not adopted as the neutral description of the movement; the polemical caricature of the Pharisee as hypocrite is named as such and set aside in favor of the scholarly and primary-source account. A deliberate caution, stressed by Saldarini and by the wider scholarship: the sources for the Pharisees are limited and partly external (Josephus, the New Testament, and later rabbinic texts, each with its own interests), the identification of the Pharisees with the later rabbis is a scholarly reconstruction and not a straightforward equation, and later rabbinic Judaism must not be read anachronistically back into the first-century movement. Sources triangulate three lenses per neutrality principles #8-9: an academic monograph devoted to the Pharisees (Saldarini), a primary ancient source (Josephus), and a contemporary Jewish scholar (Cohen). The relation targets paul-of-tarsus and jesus-of-nazareth are forward references to entities in the Christianity tradition; second-temple-judaism and tanakh are authored alongside this entry.",
+  "period": {
+    "founded": -150,
+    "active_until": 70,
+    "note": "Approximate. Attested from the Hasmonean period (second century BCE) and prominent through the first century CE; after the destruction of the Temple in 70 CE the Pharisaic tradition is widely connected by scholars to the emergence of rabbinic Judaism. BCE years are negative. Boundaries are conventional scholarly markers."
+  },
+  "relations": [
+    { "type": "related_to", "target": "second-temple-judaism", "note": "The Pharisees were one of the prominent parties or movements of Second Temple Judaism, alongside the Sadducees and Essenes." },
+    { "type": "related_to", "target": "tanakh", "note": "The Pharisees were interpreters of the written Torah and the wider scriptures, distinguished by their commitment to the ancestral traditions (later called the oral Torah) alongside them." },
+    { "type": "related_to", "target": "paul-of-tarsus", "note": "Paul of Tarsus identifies himself as having been a Pharisee (Philippians 3:5); the Pharisaic movement is part of his formation. Forward reference to an entity in another tradition." },
+    { "type": "related_to", "target": "jesus-of-nazareth", "note": "The Pharisees appear prominently in the Gospels' accounts of Jesus; that portrayal is a Christian source read critically here, not adopted as a description of the movement. Forward reference to an entity in another tradition." }
+  ],
+  "sources": [
+    {
+      "citation": "Saldarini, Anthony J. Pharisees, Scribes and Sadducees in Palestinian Society: A Sociological Approach. Biblical Resource Series. Grand Rapids: Wm. B. Eerdmans, 2001 (orig. 1988). Academic monograph applying a sociological approach to the Pharisees, scribes, and Sadducees as groups within Jewish society c. 200 BCE-100 CE; the principal scholarly lens for the Pharisees. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://books.google.com/books/about/Pharisees_Scribes_and_Sadducees_in_Pales.html?id=Bre6P-OPfEEC",
+      "license": "Proprietary; cited for reference. Original 1988 Michael Glazier edition, reprinted 2001 by Eerdmans; publisher and ISBN (9780802843586) confirmed via retailer and library listings.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Josephus, Flavius. Jewish Antiquities, Book XVIII.11-17 (and XIII.171-173, 297-298); Jewish War II.162-166. Trans. Louis H. Feldman, Loeb Classical Library 433, Cambridge, MA: Harvard University Press, 1965. Primary first-century source; describes the Pharisees as precise interpreters of the law who follow the traditions of the fathers, affirm the resurrection, and are influential with the people. Cited as an attributed ancient source, not a neutral reference work.",
+      "url": "https://www.loebclassics.com/view/LCL433/1965/volume.xml",
+      "license": "Greek original in the public domain; the Feldman translation and Loeb apparatus are proprietary. Passages read in translation for the Pharisees; apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's account of the Second Temple sects and of the debated relationship between the Pharisees and the later rabbis, with the caution against equating the two. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

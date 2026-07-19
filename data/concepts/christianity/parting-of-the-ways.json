@@ -1,0 +1,81 @@
+{
+  "id": "parting-of-the-ways",
+  "tradition": "christianity",
+  "names": {
+    "primary": "The Parting of the Ways",
+    "aliases": [
+      "The Partings of the Ways",
+      "Jewish-Christian separation",
+      "The separation of Christianity and Judaism"
+    ]
+  },
+  "category": "history (Jewish-Christian relations)",
+  "summary": "The parting of the ways is the scholarly name for the gradual process by which the early Jesus movement, at first a current within Second Temple Judaism, became a distinct religion separate from Judaism over roughly the first two centuries CE. It is understood by scholars as an extended and uneven process rather than a single datable event, and how early, how uniform, and how complete the separation was is actively debated.",
+  "description": "The phrase 'the parting of the ways' names the historical question of when, how, and how completely the early Christian movement became distinct from Judaism. In the first decades after Jesus, his followers were a movement within the Judaism of the Second Temple period, keeping to the synagogue and the Temple and arguing over the Torah as an internal Jewish dispute; the letters of Paul and the book of Acts still presuppose that setting. Over the following generations, factors including the mission to gentiles and the terms of their inclusion, disputes over the Torah and its observance, the destruction of the Second Temple in 70 CE, the growth of a distinct Christian self-understanding centred on Jesus, and (later and more locally) measures such as the birkat ha-minim are variously invoked to explain how two separate religions emerged.\n\nThe scholarship on this process is itself divided, and the entry records the debate rather than settling it. James D. G. Dunn framed the topic influentially as 'the partings of the ways' (deliberately plural), locating decisive strains already in the first century while treating separation as a set of overlapping processes rather than one break. A subsequent body of work has pressed back against an early, clean separation: Daniel Boyarin (Border Lines) argues that the border between Judaism and Christianity was constructed by heresiologists over late antiquity rather than reflecting a natural early split, and the essays edited by Adam H. Becker and Annette Yoshiko Reed (The Ways That Never Parted) argue that Jews and Christians continued to interact, overlap, and blur into each other well into late antiquity and the early Middle Ages, so that any 'parting' was late, uneven, regionally varied, and in places never complete. The disagreement turns on how early the separation began, how uniform it was across regions and communities, and whether it was ever fully finished; the entry presents these as live scholarly positions and does not adjudicate among them.",
+  "editorial_notes": "The entry keeps to a neutral historian's register and, per neutrality #1-#2, presents the parting as a contested scholarly question rather than a settled fact: the two main scholarly camps (an earlier and more decisive parting, associated with Dunn; and a late, uneven, or never-completed separation, associated with Boyarin and with Becker and Reed) are named and attributed, and the editor does not rule between them. Because the topic sits on the boundary between Christianity and Judaism, #10 and #11 govern it: the separation is described as a process affecting both communities without treating either as the baseline or the deviation, and no tradition's polemic about the other is used as description. This entity is filed under tradition 'christianity' because it concerns the emergence of Christianity as a distinct religion, but the process is equally a Jewish-history topic and links to Jewish nodes accordingly (ADR-0008).\n\nSourcing rests on the standard academic scholarship on the question: Dunn's monograph, Boyarin's Border Lines, and the Becker and Reed edited volume, the three works that define the current debate, plus the primary evidence (Paul's letters and Acts) cited critically for the earliest setting. No encyclopedias, Wikipedia, or tertiary sources. Confidence is medium throughout; the works were cited for reference and not read line-by-line in this pass, so none is rated high. Relation targets second-temple-judaism, pharisees, paul-of-tarsus, council-of-jerusalem, and jesus-of-nazareth are forward references (allowed); jesus-of-nazareth is created in this same batch.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "The Jesus movement began as a current within Second Temple Judaism, so the parting is measured from that shared starting point. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "jesus-of-nazareth",
+      "note": "The movement that gradually separated from Judaism formed around Jesus of Nazareth and the confession of his followers; the parting is the process by which that movement became a distinct religion after him."
+    },
+    {
+      "type": "related_to",
+      "target": "paul-of-tarsus",
+      "note": "Paul's gentile mission and his disputes over the terms of gentile inclusion and Torah observance are central to debates over how and how early the separation began. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-jerusalem",
+      "note": "The Jerusalem meeting over the terms of gentile inclusion (Acts 15; cf. Galatians 2) is a key early episode in the negotiation of the movement's relation to Jewish practice. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "pharisees",
+      "note": "The Pharisees and the rabbinic movement that developed in part from them are the Jewish side against which the emerging separation is often measured, including in debates over the birkat ha-minim. Forward reference."
+    }
+  ],
+  "historical_period": {
+    "start": 30,
+    "end": 200,
+    "note": "Roughly the first two centuries CE, from the earliest Jesus movement within Second Temple Judaism to the emergence of Christianity and rabbinic Judaism as distinct religions. The end point is contested: some scholars see a substantial parting by the early second century, others hold that the separation was late, regionally uneven, and in places never complete."
+  },
+  "sources": [
+    {
+      "citation": "Dunn, James D. G. The Partings of the Ways Between Christianity and Judaism and Their Significance for the Character of Christianity. London: SCM Press; Philadelphia: Trinity Press International, 1991 (2nd ed. SCM, 2006). The influential study that framed the question as plural 'partings' and located decisive strains already in the first century.",
+      "url": "https://www.cambridge.org/core/journals/scottish-journal-of-theology/article/abs/partings-of-the-ways-between-christianity-and-judaism-and-their-significance-for-the-character-of-christianity-by-james-d-g-dunn-london-scm-and-philadelphia-trinity-press-international-1991-pp-xvi-368-indexed-1750/46106439D911860E7A8E99856A29D749",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. URL is a scholarly review notice confirming the edition.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Boyarin, Daniel. Border Lines: The Partition of Judaeo-Christianity. Divinations: Rereading Late Ancient Religion. Philadelphia: University of Pennsylvania Press, 2004. Argues that the border between Judaism and Christianity was constructed by heresiologists over late antiquity rather than reflecting a natural early split.",
+      "url": "https://www.pennpress.org/9780812219869/border-lines/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Becker, Adam H., and Annette Yoshiko Reed, eds. The Ways That Never Parted: Jews and Christians in Late Antiquity and the Early Middle Ages. Texts and Studies in Ancient Judaism 95. Tübingen: Mohr Siebeck, 2003 (repr. Minneapolis: Fortress, 2007). Seventeen essays arguing that Jewish and Christian identities continued to overlap and interact well into late antiquity, so that any parting was late, uneven, and in places never complete.",
+      "url": "https://www.mohrsiebeck.com/en/book/the-ways-that-never-parted-9783161479663",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The letters of Paul (esp. Galatians 1-2; Romans 9-11) and the Acts of the Apostles (esp. Acts 15). Primary Christian sources cited critically as evidence for the earliest setting of the Jesus movement within Judaism and for the disputes over gentile inclusion and Torah observance that bear on the separation.",
+      "license": "Primary religious texts; underlying Greek in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -8,7 +8,7 @@
   "required": ["id", "tradition", "names", "summary", "sources", "status", "schema_version", "updated"],
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable slug; part of the API URL. Never change once published." },
-    "tradition": { "type": "string", "enum": ["islam", "christianity", "philosophy"] },
+    "tradition": { "type": "string", "enum": ["islam", "christianity", "judaism", "philosophy"] },
     "names": {
       "type": "object",
       "additionalProperties": false,

@@ -1,0 +1,93 @@
+{
+  "id": "new-testament-canon",
+  "tradition": "christianity",
+  "names": {
+    "primary": "New Testament canon",
+    "aliases": [
+      "canon of the New Testament",
+      "New Testament canonization"
+    ]
+  },
+  "category": "canon",
+  "summary": "The New Testament canon is the list of writings recognized as authoritative Christian scripture alongside the Old Testament. Its formation was a gradual process from roughly the second to the fourth centuries, and the twenty-seven books that make up the received New Testament first appear together in Athanasius's festal letter of 367 CE, though the canon still differs at the edges among Christian communions.",
+  "description": "The word canon (Greek kanon, a rule or measuring rod) came to denote the fixed list of writings a community held to be scripture. Early Christian communities read a range of gospels, letters, and other writings, and the boundary between authoritative and non-authoritative texts was drawn only gradually over the second, third, and fourth centuries. Scholarship commonly notes several markers along the way. In the mid-second century Marcion of Sinope proposed a restricted collection (a version of Luke and ten letters of Paul) and rejected the Old Testament; his selection is widely treated as a catalyst that pressed the wider church to clarify which writings it received, though scholars debate how much it shaped the outcome. The Muratorian Fragment, a Latin canon list usually dated to the late second century (its dating is contested, with some placing it in the fourth), enumerates most of the writings later received while noting disputed and rejected texts. Around the same time Irenaeus of Lyons argued that there could be only four Gospels, the fourfold Gospel later taken for granted. Through the third and fourth centuries writers such as Origen and Eusebius classified books as acknowledged, disputed, or spurious, and the status of works like Hebrews, James, 2 Peter, 2 and 3 John, Jude, and Revelation remained unsettled in various regions. The festal letter that Athanasius of Alexandria issued for Easter 367 (his thirty-ninth) lists exactly the twenty-seven books of the received New Testament and is often called the first surviving statement to do so; regional synods near the end of the fourth century affirmed similar lists in the West. The canon was never fixed by a single ecumenical decree, and it still differs at the edges: the Ethiopian Orthodox tradition receives a broader New Testament, and some Eastern churches were long hesitant about Revelation. This entry attributes the received lists to the communions that hold them rather than presenting any one as the canon simply.",
+  "editorial_notes": "This entry describes the canon's formation as a historical process and attributes differing final canons to their communions per neutrality principles #1-2 and the task instruction, without ruling any list the correct one. The markers named (Marcion as catalyst, the Muratorian Fragment, Irenaeus and the fourfold Gospel, Athanasius's 367 list) are given as the standard scholarly account, with contested points flagged: Marcion's precise influence is debated, and the dating of the Muratorian Fragment (late second century vs. fourth century) is a live scholarly dispute, noted as such rather than asserted. Sources triangulate three lenses per neutrality principles #8-9: academic scholarship on the canon (Metzger; Gamble; McDonald), the primary corpus (Athanasius's 39th Festal Letter and the Muratorian Fragment), and the standard reference monographs serving as the contemporary scholarly voice (McDonald, 2017). No encyclopedias or tertiary sources are cited. Confidence: high on the fact that Athanasius's 367 letter lists the twenty-seven books, read in the primary text; medium on the scholarly monographs, verified to exist and be on-topic but not read line-by-line, and on the contested points (Marcion's influence, the Muratorian dating), which are reported as debated. Relation targets that exist in the dataset: sola-scriptura, ecumenical-councils, patristics, and athanasius (a figure). Forward references to not-yet-created entities: marcion and irenaeus.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sola-scriptura",
+      "note": "The Reformation principle of Scripture's supreme authority presupposes a recognized canon; the two are distinct questions (which books are scripture, and what authority scripture holds)."
+    },
+    {
+      "type": "related_to",
+      "target": "ecumenical-councils",
+      "note": "The canon was not fixed by a single ecumenical decree; regional synods and individual bishops' lists, not the early ecumenical councils, are the main markers of its formation."
+    },
+    {
+      "type": "related_to",
+      "target": "patristics",
+      "note": "The main evidence for the canon's formation is patristic: Irenaeus, Origen, Eusebius, and Athanasius among others classified and listed the writings."
+    },
+    {
+      "type": "related_to",
+      "target": "athanasius",
+      "note": "Athanasius's thirty-ninth festal letter (367) is often called the first surviving list of exactly the twenty-seven received books."
+    },
+    {
+      "type": "related_to",
+      "target": "marcion",
+      "note": "Marcion of Sinope's restricted mid-second-century collection is widely treated as a catalyst for the wider church to clarify its canon; his precise influence is debated. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "irenaeus",
+      "note": "Irenaeus of Lyons argued for a fourfold Gospel, later taken for granted. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "historical_period": {
+    "start": 140,
+    "end": 397,
+    "note": "The main formative period runs from roughly the mid-second century (Marcion, the Muratorian Fragment) through Athanasius's list of 367 and the western synods of the 390s. Dates approximate; the canon differs at the edges among communions thereafter."
+  },
+  "sources": [
+    {
+      "citation": "Metzger, Bruce M. The Canon of the New Testament: Its Origin, Development, and Significance. Oxford: Clarendon Press, 1987. The standard academic history of the recognition of the New Testament books, including Marcion, the Muratorian Fragment, and the patristic evidence; the outside-scholarship lens.",
+      "url": "https://global.oup.com/academic/product/the-canon-of-the-new-testament-9780198269540",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gamble, Harry Y. The New Testament Canon: Its Making and Meaning. Guides to Biblical Scholarship, New Testament Series. Philadelphia: Fortress Press, 1985. A concise academic guide to how the collection formed and what authority attached to it; the outside-scholarship lens.",
+      "url": "https://www.fortresspress.com/store/product/9781579109097/The-New-Testament-Canon",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McDonald, Lee Martin. The Formation of the Biblical Canon, Volume II: The New Testament: Its Authority and Canonicity. London: Bloomsbury T&T Clark, 2017. A recent full-length academic overview of the New Testament canon's development and its still-fluid edges; the contemporary-scholar lens.",
+      "url": "https://www.bloomsburycollections.com/monograph?docid=b-9780567668875",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Athanasius of Alexandria. Letter 39 (Thirty-Ninth Festal Letter, for Easter 367 CE), which lists the twenty-seven books of the New Testament. In Nicene and Post-Nicene Fathers, Second Series, vol. 4, ed. Philip Schaff and Henry Wace. Primary source for the earliest surviving list of exactly the twenty-seven received books.",
+      "url": "https://www.newadvent.org/fathers/2806039.htm",
+      "license": "Underlying text public domain; the twenty-seven-book list read in the cited translation.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Muratorian Fragment (Muratorian Canon), a Latin canon list conventionally dated to the late second century; text and commentary in Metzger, The Canon of the New Testament (Oxford: Clarendon Press, 1987), Appendix IV. Primary source: an early list enumerating received, disputed, and rejected writings. Note: the fragment's dating is contested, with some scholars placing it in the fourth century.",
+      "url": "https://www.bible-researcher.com/muratorian.html",
+      "license": "Underlying text public domain; consulted in Metzger's edition and in the cited translation.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

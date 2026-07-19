@@ -15,7 +15,7 @@
     "tradition": {
       "type": "string",
       "description": "Religious/theological tradition. Starts with 'islam'; enum will grow as scope widens.",
-      "enum": ["islam", "christianity", "philosophy"]
+      "enum": ["islam", "christianity", "judaism", "philosophy"]
     },
     "names": {
       "type": "object",

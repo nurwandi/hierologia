@@ -1,0 +1,115 @@
+{
+  "id": "jesus-of-nazareth",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Jesus of Nazareth",
+    "original": "Ἰησοῦς / ישוע",
+    "transliteration": "Iēsous (Greek); Yeshuaʿ (Hebrew/Aramaic)",
+    "aliases": [
+      "Jesus Christ",
+      "Jesus the Nazarene",
+      "Yeshua",
+      "Jesus of Galilee",
+      "Isa ibn Maryam (in Islam)"
+    ]
+  },
+  "roles": [
+    "Jewish teacher",
+    "preacher",
+    "itinerant healer and exorcist (in the Gospel tradition)",
+    "founding figure of Christianity"
+  ],
+  "summary": "Jesus of Nazareth (c. 4 BCE to c. 30/33 CE) was a first-century Galilean Jew whom most historians reconstruct as a Jewish teacher, healer, and apocalyptic preacher who proclaimed the coming kingdom of God, gathered disciples, and was crucified in Jerusalem under the prefect Pontius Pilate. He is the central figure of Christianity, which confesses him as the risen Son of God and the Messiah (Christ); Judaism does not accept him as the messiah, and Islam honours him (as Isa) as a prophet and messiah but not divine.",
+  "description": "Jesus of Nazareth is approached here in two clearly separated registers: the portrait reconstructed by historical-critical scholarship, given as scholarship, and the claims of the faith traditions, given as attributed confessions. The editor neither affirms nor denies any confessional claim.\n\nOn the historical side, most scholars working with the standard critical tools regard it as securely established that a Jewish man named Jesus lived in early first-century Galilee, was from or associated with Nazareth, was baptized by John the Baptist, gathered a circle of disciples, taught and was remembered as a healer and exorcist, proclaimed the kingdom (or reign) of God, drew a following in Galilee, went up to Jerusalem, and was crucified there under the Roman prefect Pontius Pilate around 30 to 33 CE. Many scholars (for example Sanders, Vermes, Ehrman, and Allison) read him within the setting of Second Temple Judaism, variously as an eschatological or apocalyptic prophet, a charismatic Galilean holy man, or a teacher of the Torah's demands, and treat his crucifixion and his baptism by John as among the most historically certain data about him precisely because the early movement is unlikely to have invented episodes it found awkward. His birth is conventionally dated a few years before the common era (c. 4 BCE, on the Gospel synchronism with Herod the Great) and his death around 30 or 33 CE. The critical portrait is a reconstruction from sources written a generation or more after his death (the canonical Gospels and Paul's letters), supplemented by brief external notices in Josephus and Tacitus; scholars weigh these sources critically and disagree over many details, so the reconstruction is a scholarly consensus on a core, not a biography.\n\nThe faith traditions read this same figure differently, and their readings are recorded here as attributed positions, not adjudicated. Christianity confesses Jesus as the Christ (Messiah), the incarnate Son of God, crucified and risen from the dead; the resurrection and his divine sonship are the centre of Christian confession. Judaism, in its mainstream, does not accept Jesus as the messiah or as divine, holding that the messianic expectations (an era of peace, the ingathering of Israel, the rebuilding of the Temple) were not fulfilled. Islam holds that Isa ibn Maryam was a human prophet and messenger and the Messiah (al-Masih), born of the virgin Maryam by God's word, but not divine and not the son of God; on the mainstream reading of Q 4:157 he was not killed and not crucified, but was made to appear so, and was raised by God to himself. The editor does not rule on the resurrection, the divinity, the messiahship, or whether the crucifixion occurred; it records that historians treat the crucifixion as historically secure and that Islam, on the mainstream reading of its scripture, denies it, and it attributes each claim to its holder without harmonizing or ranking them.",
+  "editorial_notes": "This is the most neutrality-sensitive entry in the project, and its handling follows neutrality #1 (describe, do not adjudicate), #10, and #11 deliberately and explicitly. The register separation is the core device: (a) what MOST HISTORIANS hold is attributed to the historical-critical consensus and its named scholars (Sanders, Meier, Vermes, Ehrman, Allison), and (b) what each FAITH confesses is attributed to Christianity, to Judaism, and to Islam respectively. The editor's voice NEVER states that Jesus rose from the dead, was divine, or was the Messiah, and NEVER states that he was not: the resurrection, divinity, and messiahship are recorded only as attributed confessions (Christianity affirms; Judaism does not accept; Islam affirms prophethood and messiahship but denies divinity). Roles list him as a Jewish teacher and preacher, historically framed, not as 'Son of God', which would assert a confession.\n\nThe crucifixion is handled per the #10/#11 rule and is the sharpest test: the historical-critical view (that it is historically secure) is attributed to scholarship, and the Islamic difference (that on the mainstream reading of Q 4:157 he was not crucified) is attributed to Islam and recorded in the compares_with isa note. The editor does NOT use the historical consensus to overrule the Islamic reading in its own voice, and does NOT present the Qur'anic reading as historical fact; both are attributed to their holders and neither is ranked. The Islamic side is framed exactly as the existing isa.json entry frames it (human prophet and Messiah, not divine, virgin-born by God's word, non-crucifixion as the mainstream tafsir reading of Q 4:157-158 with the details debated among commentators), so the two entries are mutually consistent.\n\nSourcing triangulates the three Christianity/history lenses required for a historical figure: (a) academic historical-Jesus scholarship (Sanders, Meier, Vermes, Ehrman, Allison); (b) the primary corpus, cited critically as sources rather than as neutral fact (the canonical Gospels and Paul's letters, plus the external notices in Josephus, Antiquities 18, and Tacitus, Annals 15); (c) a contemporary scholar (Allison, 2010; Ehrman, 1999). The Islamic and Jewish confessional descriptions rest on the tradition's own voice and on the cross-tradition partner isa.json, per #11, and no tradition's polemic about another is used as a description of it. No encyclopedias, Wikipedia, or tertiary sources. Confidence is medium throughout: the works are cited for reference and were not read line-by-line in this pass, and no source is rated high. The compares_with target isa exists; related_to targets incarnation and trinity exist, while apostles, paul-of-tarsus, and second-temple-judaism are forward references (allowed).",
+  "lifespan": {
+    "birth": -4,
+    "death": 30,
+    "note": "Birth conventionally placed c. 4 BCE (the Gospel synchronism with Herod the Great, who died 4 BCE); the year is uncertain and estimates range across the last years BCE. Death around 30 CE on the common reconstruction, with 33 CE also widely defended; recorded here as birth about -4 and death about 30 (or 33). All dates are scholarly estimates, not fixed."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "isa",
+      "note": "Jesus of Nazareth and the Qur'anic Isa ibn Maryam are the same figure read across three traditions, and this link compares the shared question of who he is and what happened to him, not the answers, ranking none. Christianity confesses him as the incarnate Son of God, the Messiah (Christ), crucified and risen. Judaism, in its mainstream, does not accept him as the messiah or as divine. Islam holds Isa to be a human prophet and messenger and the Messiah (al-Masih), born of the virgin Maryam by God's word but not divine and not the son of God; on the mainstream reading of Q 4:157-158 he was not killed and not crucified but was made to appear so (shubbiha lahum) and was raised by God to himself. On the crucifixion specifically the traditions diverge: most historians treat the crucifixion under Pontius Pilate as historically secure, while Islam on that mainstream reading denies it; this note records the historical view as attributed to scholarship and the Islamic view as attributed to Islam, without using either to overrule the other and without ranking them."
+    },
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "Jesus was a Jew of the Second Temple period, and most historians reconstruct his teaching, his proclamation of the kingdom of God, and his baptism by John the Baptist within that Jewish milieu rather than apart from it. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "The Christian doctrine of the Incarnation is the confession that in Jesus the eternal Son of God became man; recorded here as an attributed Christian claim about this figure, not as a historical statement."
+    },
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "Christian Trinitarian doctrine places Jesus as the eternal Son, the second person of the Trinity; recorded as an attributed Christian confession about this figure, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "apostles",
+      "note": "The Gospel tradition presents Jesus as gathering a circle of disciples, a core of whom (the Twelve, later called apostles) became the leadership of the early Jesus movement. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "paul-of-tarsus",
+      "note": "Paul, a Jew who did not know the earthly Jesus, became the most influential early interpreter of him, and his letters are the earliest surviving Christian sources bearing on Jesus. Forward reference."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Sanders, E. P. The Historical Figure of Jesus. London: Allen Lane / The Penguin Press, 1993. A leading historical-critical account that distinguishes what can be known with confidence about Jesus (including his baptism by John, his Galilean ministry, his proclamation of the kingdom, and his crucifixion under Pilate) from the uncertain, and situates him within first-century Judaism.",
+      "url": "https://www.penguinrandomhouse.com/books/327976/the-historical-figure-of-jesus-by-e-p-sanders/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Meier, John P. A Marginal Jew: Rethinking the Historical Jesus. Vol. 1: The Roots of the Problem and the Person. Anchor Bible Reference Library. New York: Doubleday, 1991. A major critical study of the sources and methods of historical-Jesus research and of what can be reconstructed of Jesus's Jewish life and setting.",
+      "url": "https://yalebooks.yale.edu/book/9780300140187/a-marginal-jew-rethinking-the-historical-jesus-volume-i/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Vermes, Geza. Jesus the Jew: A Historian's Reading of the Gospels. London: Collins, 1973. A historian's reading that places Jesus as a charismatic Galilean holy man within first-century Judaism and reads the Gospel titles (prophet, lord, messiah, son of man, son of God) against their Jewish background; the Jewish-context lens.",
+      "url": "https://www.fortresspress.com/store/product/1659/Jesus-the-Jew-A-Historian-Reading-of-the-Gospels",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ehrman, Bart D. Jesus: Apocalyptic Prophet of the New Millennium. New York: Oxford University Press, 1999. A critical introduction arguing that Jesus is best reconstructed as an apocalyptic prophet who expected an imminent divine intervention; the contemporary-scholarship lens on the historical Jesus.",
+      "url": "https://global.oup.com/academic/product/jesus-9780195124743",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Allison, Dale C., Jr. Constructing Jesus: Memory, Imagination, and History. Grand Rapids: Baker Academic, 2010. A contemporary reassessment of historical-Jesus method that reads the tradition for its general patterns (including Jesus's apocalyptic outlook and his death) rather than for isolated authenticated sayings; the contemporary-scholarship lens.",
+      "url": "https://www.bakeracademic.com/p/constructing-jesus-dale-c-allison-jr/351856",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The canonical Gospels (Matthew, Mark, Luke, John) and the letters of Paul (esp. 1 Corinthians 15; Galatians 1-2). Primary Christian sources for the life, teaching, death, and confession of Jesus, written a generation or more after his death and cited here critically as sources to be weighed, not as neutral reportage.",
+      "license": "Primary religious texts; underlying Greek in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Josephus, Flavius. Jewish Antiquities, Book 18 (the Testimonium Flavianum, 18.63-64, and the notice on John the Baptist, 18.116-119), c. 93-94 CE; and Tacitus, Annals 15.44, c. 116 CE (the notice that 'Christus' was executed under Pontius Pilate during the reign of Tiberius). Non-Christian primary notices cited critically as external attestation; the Testimonium is widely held to be partly a later Christian interpolation, and both are weighed, not taken at face value.",
+      "license": "Primary classical texts; underlying Greek and Latin in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "second-temple-judaism",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Second Temple Judaism",
+    "original": "יהדות בית שני",
+    "transliteration": "Yahadut Bayit Sheni",
+    "aliases": [
+      "Judaism of the Second Temple period",
+      "Early Judaism",
+      "Middle Judaism",
+      "Second Temple period"
+    ]
+  },
+  "summary": "Second Temple Judaism denotes the forms of Judaism that flourished in the period of the rebuilt Jerusalem Temple, from its completion around 516 BCE to its destruction by Rome in 70 CE, an era marked by the centrality of the Temple, the emergence of authoritative scripture and the synagogue, and a diversity of movements (among them Pharisees, Sadducees, and Essenes) from which both rabbinic Judaism and Christianity later emerged.",
+  "description": "Second Temple Judaism is the scholarly name for the religion of the Jewish people during the period bounded by the rebuilding of the Jerusalem Temple after the Babylonian exile (dedicated around 516 BCE, under Persian rule) and the destruction of that Temple by the armies of Rome in 70 CE. It is not a single school but the whole matrix of Jewish practice and belief across those roughly six centuries, spanning Persian, Hellenistic (Ptolemaic and Seleucid), Hasmonean, and Roman rule. In the account of E. P. Sanders, the shared framework of the period was a common Judaism centered on the one God of Israel, the covenant, the Torah, and the Temple with its sacrificial cult and priesthood, observed by ordinary priests and people alongside the more distinctive programs of the parties. The Temple in Jerusalem was the ritual center, the place of sacrifice and pilgrimage; alongside it the institution of the synagogue emerged as a place of prayer and the reading of scripture, and the writings that would form the Hebrew Bible came to function as authoritative texts, read, translated (as in the Greek Septuagint of the diaspora), and interpreted. The period was religiously diverse. Josephus, writing in the first century as an attributed ancient source, describes three prominent parties or philosophies among the Jews: the Pharisees, who held to the traditions of the fathers beyond the written law and affirmed resurrection and providence; the Sadducees, associated with the priestly and aristocratic elite, who recognized the written Torah and are reported to have denied the resurrection; and the Essenes, a strict and communal movement widely connected by scholars to the community behind the Dead Sea Scrolls at Qumran. Beyond these, the era saw vigorous apocalyptic and eschatological currents (visions of divine judgment and a coming age), messianic expectation, wisdom and Hellenistic-Jewish literature (such as the works of Philo of Alexandria), and a large Greek-speaking diaspora. This was the world in which Jesus of Nazareth and, after him, Paul of Tarsus lived and taught, and out of this diverse matrix both rabbinic Judaism, after the loss of the Temple, and the early Christian movement developed along their separate paths.",
+  "editorial_notes": "The period boundaries are conventional and approximate. The completion and dedication of the Second Temple is dated to around 516 BCE (with the return under Persian authority beginning around 538 BCE), and the terminus is the destruction of the Temple by Rome in 70 CE; these are the standard scholarly markers and are stated as such. The label Second Temple Judaism is a modern scholarly category for a diverse religious world, not a self-designation of the period, and this entry follows the established scholarship in treating it as an era and matrix rather than a single doctrine. A deliberate caution, emphasized by Sanders and Cohen: the sources for the parties are uneven and partly external (Josephus, the New Testament, and later rabbinic texts), and later rabbinic Judaism should not be read anachronistically back into the Second Temple period, since rabbinic Judaism took shape after 70 CE and the relationship of the Pharisees to the later rabbis is itself debated. Josephus is cited as an attributed ancient primary source, valuable but shaped by his own aims and audience, not as a neutral encyclopedia of the period. Sources triangulate three lenses per neutrality principles #8-9: an academic historian of ancient Judaism (Sanders), a contemporary Jewish scholar (Cohen), and a primary ancient text (Josephus). The relation targets jesus-of-nazareth, paul-of-tarsus, and parting-of-the-ways are forward references to entities authored in the same batch or not yet created; pharisees and tanakh are authored alongside this entry.",
+  "period": {
+    "founded": -516,
+    "active_until": 70,
+    "note": "Approximate. From the dedication of the rebuilt Jerusalem Temple around 516 BCE (following the return from Babylonian exile under Persian rule) to the destruction of that Temple by Rome in 70 CE. BCE years are negative. The boundaries are conventional scholarly markers, not sharp religious events."
+  },
+  "relations": [
+    { "type": "related_to", "target": "pharisees", "note": "The Pharisees were one of the prominent movements or parties of Second Temple Judaism, widely regarded by scholars as forerunners of rabbinic Judaism." },
+    { "type": "related_to", "target": "tanakh", "note": "The writings that came to form the Tanakh (the Hebrew Bible) took on authoritative scriptural status during this period, read in Temple, synagogue, and diaspora." },
+    { "type": "related_to", "target": "jesus-of-nazareth", "note": "Jesus of Nazareth lived and taught within Second Temple Judaism; the early Christian movement began as a movement within this Jewish world. Forward reference to an entity in another tradition." },
+    { "type": "related_to", "target": "paul-of-tarsus", "note": "Paul of Tarsus, who describes himself as a Pharisee, was formed within Second Temple Judaism before his mission to the gentiles. Forward reference to an entity in another tradition." },
+    { "type": "related_to", "target": "parting-of-the-ways", "note": "The gradual separation of Christianity from Judaism (the parting of the ways) proceeded from this shared matrix, chiefly after the Temple's destruction in 70 CE. Forward reference to an entity being authored in the same batch." }
+  ],
+  "sources": [
+    {
+      "citation": "Sanders, E. P. Judaism: Practice and Belief, 63 BCE-66 CE. London: SCM Press; Philadelphia: Trinity Press International, 1992. Academic monograph reconstructing the common Judaism of the late Second Temple period, the Temple and its cult, and the Pharisees, Sadducees, and Essenes in relation to ordinary priests and people. Cited for the era's shared framework and its diversity; verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/ajs-review/article/abs/e-p-sanders-judaism-practice-and-belief-63-bce66-ce-london-scm-press-1992-xix-580-pp/99ACFF5C520DF310F39082163869CBEF",
+      "license": "Proprietary; cited for reference. URL is a scholarly review confirming the monograph's publication details.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the history, literature, and religion of Judaism from the Maccabean period through the emergence of rabbinic Judaism, including the sects and the caution against reading later rabbinic Judaism back into the Second Temple period. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Josephus, Flavius. Jewish Antiquities, Book XVIII.11-25 (also Jewish War II.119-166). Trans. Louis H. Feldman, Loeb Classical Library 433, Cambridge, MA: Harvard University Press, 1965. Primary first-century source; describes the Pharisees, Sadducees, and Essenes as the three schools of philosophy among the Jews. Cited as an attributed ancient source, shaped by Josephus's own aims, not as a neutral reference work.",
+      "url": "https://www.loebclassics.com/view/LCL433/1965/volume.xml",
+      "license": "Greek original in the public domain; the Feldman translation and Loeb apparatus are proprietary. Passage read in translation for the parties; apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
