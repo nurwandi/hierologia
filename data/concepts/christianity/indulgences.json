@@ -1,0 +1,87 @@
+{
+  "id": "indulgences",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Indulgences",
+    "original": "indulgentia",
+    "transliteration": "indulgentia",
+    "aliases": [
+      "Indulgence",
+      "Remission of temporal punishment",
+      "Pardon"
+    ]
+  },
+  "category": "penance",
+  "summary": "In Catholic teaching, an indulgence is the remission before God of the temporal punishment due to sins whose guilt has already been forgiven, granted by the church out of the treasury of the merits of Christ and the saints. The preaching and sale of indulgences in the early sixteenth century, and the criticism of that practice, are conventionally taken as the trigger of the Protestant Reformation.",
+  "description": "An indulgence, in Catholic theology, is the remission before God of the temporal punishment due to sin, that is, the penalty held to remain after the guilt of sin and its eternal punishment have been forgiven, whether in this life or in purgatory. On this account the church, holding the power to bind and loose, dispenses from a treasury of the superabundant merits of Christ and the saints, applying that remission to the living under prescribed conditions and, by way of intercession, to the souls in purgatory. Indulgences could be partial or plenary, and in the late Middle Ages they were attached to pilgrimages, jubilees, charitable gifts, and other works; their grant was frequently tied to almsgiving, which shaded in practice into the raising of money for building projects and other ends. In the years before 1517 a campaign preaching a plenary indulgence, associated with the rebuilding of St. Peter's in Rome and preached in Germany by the Dominican Johann Tetzel, occasioned Martin Luther's Ninety-Five Theses (1517), which questioned the theology and the abuses of indulgence preaching. Luther and the reformers argued that the practice as preached obscured repentance and the free forgiveness of God, that the pope could remit only penalties the pope himself imposed, and that a Christian truly penitent had full remission of penalty and guilt without letters of pardon; from this the reformers pressed a wider critique of the doctrine and of papal authority, a position their opponents rejected. The Roman Catholic Church, at the Council of Trent, affirmed that the power of granting indulgences was given to the church by Christ and condemned those who called them useless or denied the church's power to grant them, while ordering the correction of abuses and forbidding all traffic in them for gain. The two positions are recorded here as the attributed teachings of their respective holders, and neither is adjudicated.",
+  "editorial_notes": "This entry presents both sides of the sixteenth-century controversy as attributed positions and adjudicates neither, per neutrality principles #1, #2, and #4. The Catholic doctrine (remission of temporal punishment from the treasury of merits, the church's power to grant indulgences) is stated as the teaching affirmed at the Council of Trent, and the Reformation critique (that the practice as preached obscured repentance and the free forgiveness of God, and that papal remission extends only to penalties the pope imposes) is stated as the reformers' attributed position drawn from Luther's Ninety-Five Theses; the shared background (forgiveness of guilt as prior, the question being over remaining temporal penalty) is stated before the point of dispute. The word 'sale' is used descriptively for the historical practice of granting indulgences in connection with almsgiving and fundraising, which contemporaries and Trent itself criticized, without ruling on the theological status of the doctrine. Sources triangulate three lenses per neutrality principles #8-9: an academic monograph specifically on the theology and practice of indulgences (Swanson), the primary corpus giving each side in its own document (the Council of Trent's Decree on Indulgences and Luther's Ninety-Five Theses), and a contemporary Christian theologian's introduction to Reformation thought (McGrath). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic via publisher pages and a peer-reviewed review, but relevant passages not read line-by-line, except that the substance of the Ninety-Five Theses and the Trent decree was read in summary form. Relation targets reformation and martin-luther, and the concepts atonement, justification, grace, and sacraments, are present in the dataset; purgatory is a forward reference to a not-yet-created entity.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "The dispute over indulgence preaching is conventionally taken as the trigger of the Protestant Reformation; the critique is attributed to the reformers and the Catholic doctrine is not adjudicated."
+    },
+    {
+      "type": "articulated_by",
+      "target": "martin-luther",
+      "note": "Luther's Ninety-Five Theses (1517) framed the influential critique of indulgence preaching; reported as his attributed position, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "justification",
+      "note": "The reformers set their critique of indulgences within their account of justification and the free forgiveness of God; the Catholic account situates indulgences within the sacrament of penance and satisfaction. Both framings are attributed, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "The Catholic doctrine draws on the treasury of the merits of Christ and the saints; the reformers pressed their objection in terms of grace and free forgiveness. Attributed positions."
+    },
+    {
+      "type": "related_to",
+      "target": "atonement",
+      "note": "The 'treasury of merits' from which indulgences are said to draw is grounded in the merits of Christ; the link marks that connection without adjudicating the doctrine."
+    },
+    {
+      "type": "part_of",
+      "target": "sacraments",
+      "note": "In Catholic theology indulgences are connected to the sacrament of penance and its satisfaction for sin; the link records that placement in the Catholic system."
+    },
+    {
+      "type": "related_to",
+      "target": "purgatory",
+      "note": "Indulgences were held to be applicable by intercession to the souls in purgatory. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "historical_period": {
+    "start": 1300,
+    "end": 1563,
+    "note": "Indulgence practice was widespread in the late medieval church (developed across the twelfth to fifteenth centuries); the controversy over it peaked with Luther's Ninety-Five Theses (1517) and the Roman Catholic response ran through the Council of Trent's Decree on Indulgences (1563). The doctrine and practice continue in Catholicism to the present; the range marks the period of the controversy central to this entry."
+  },
+  "sources": [
+    {
+      "citation": "Swanson, R. N. Indulgences in Late Medieval England: Passports to Paradise? Cambridge: Cambridge University Press, 2007. An academic monograph on the theology, canon law, and social practice of indulgences before the Reformation; the outside-scholarship lens.",
+      "url": "https://www.cambridge.org/ca/academic/subjects/history/british-history-1066-1450/indulgences-late-medieval-england-passports-paradise",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via publisher page and a peer-reviewed review in The Medieval Review.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Council of Trent, Decree on Indulgences (Twenty-Fifth Session, 3-4 December 1563), affirming that the power of granting indulgences was conferred on the church by Christ, condemning those who deny that power or call indulgences useless, and ordering the correction of abuses and the prohibition of all gain from them. Read alongside Martin Luther, Ninety-Five Theses (Disputation on the Power and Efficacy of Indulgences, 1517), which gives the Reformation critique. The two attributed positions in their own documents; the primary-corpus lens.",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-fifth-session.htm",
+      "license": "Underlying conciliar and disputation texts public domain. Cited for reference; substance read in summary, full apparatus not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Reformation Thought: An Introduction. 4th ed. Chichester: Wiley-Blackwell, 2012 (5th ed. 2021). A contemporary Christian theologian's standard introduction to the ideas of the Reformation, including the doctrine of justification and the controversy over indulgences; the modern Christian theologian lens.",
+      "url": "https://www.wiley.com/en-us/Reformation+Thought:+An+Introduction,+4th+Edition-p-x000588605",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

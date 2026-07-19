@@ -1,0 +1,84 @@
+{
+  "id": "constantine",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Constantine I",
+    "original": "Flavius Valerius Constantinus",
+    "transliteration": "Kōnstantinos",
+    "aliases": [
+      "Constantine the Great",
+      "Constantine I",
+      "Saint Constantine",
+      "Constantine (emperor)"
+    ]
+  },
+  "roles": [
+    "Roman emperor",
+    "convener of the First Council of Nicaea",
+    "patron of the Christian church"
+  ],
+  "summary": "Constantine I (c. 272-337) was the Roman emperor who ended the persecution of Christians, extended imperial favor and legal toleration to Christianity, and in 325 convened the First Council of Nicaea. His personal religious commitments and the sincerity and character of his conversion are matters of ongoing scholarly debate.",
+  "description": "Constantine I ruled the Roman Empire from 306, first as one of several contending emperors and, after his defeat of Licinius in 324, as sole ruler until his death in 337. He is remembered in Christian history chiefly for reversing the imperial policy of persecution: following the so-called Edict of Milan of 313, an agreement between Constantine and Licinius, Christians were granted legal toleration and the restoration of confiscated property, and the church came increasingly under imperial patronage. Constantine funded the building of churches, granted privileges to the clergy, and intervened repeatedly in the internal affairs of the church, first in the Donatist dispute in North Africa and then in the controversy over Arius.\n\nIn 325 Constantine convened and funded the First Council of Nicaea, presiding over its opening session and lending imperial authority to the enforcement of its decisions; the council confessed the Son as homoousios (of the same essence) with the Father and condemned the teaching of Arius. His involvement made Nicaea a landmark in the relationship between imperial power and the church, and the arrangement that followed, in which emperor and episcopate each held a role in defining and enforcing orthodoxy, is often discussed under the later shorthand of the 'Constantinian' settlement. Constantine's own theological allegiances were not fixed: in the years after Nicaea he came to favor bishops sympathetic to Arius, permitted Arius's partial rehabilitation, and was baptized on his deathbed in 337 by Eusebius of Nicomedia, a bishop associated with the anti-Nicene party.\n\nThe principal contemporary narrative of his life, Eusebius of Caesarea's Life of Constantine, is a laudatory work written by a bishop who admired him, and modern historians read it as panegyric rather than as neutral reportage. Scholars continue to debate when and how far Constantine adopted Christianity, whether his patronage was driven by conviction, political calculation, or both, and how his own religious outlook related to the solar and traditional Roman cults he had earlier honored. The Eastern Orthodox and Byzantine Catholic churches venerate him as a saint (Equal-to-the-Apostles); this entry records that veneration as an attributed tradition and does not itself canonize or endorse him.",
+  "editorial_notes": "This entry describes Constantine's role in Christian history neutrally and deliberately does not valorize or canonize him: his sainthood in the Eastern churches is reported as an attributed tradition, not asserted as a fact about his merit (neutrality #1, #2, #4). The contested points, the timing and sincerity of his conversion, whether his church patronage was conviction or calculation, and his post-Nicene tilt toward the Arian party, are flagged as live debates and left unadjudicated. Per the task's source caution, Eusebius's Life of Constantine is cited AS a contemporary primary source and explicitly labelled panegyric/laudatory, not treated as neutral fact, and is balanced against modern critical scholarship (Barnes, two works). Sourcing triangulates three lenses per neutrality #8: (a) modern academic history (Barnes 1981; Barnes 2011); (b) the primary corpus (Eusebius, Life of Constantine, in the Cameron-Hall critical translation, flagged as panegyric; and the Nicene conciliar text in Tanner's Decrees); (c) the contemporary-scholarship reading is carried by Barnes's 2011 revision. No encyclopedias or tertiary sources are cited. Confidence: medium throughout. All four sources were verified to exist and be on-topic; the Tanner conciliar text and the Cameron-Hall edition were consulted for the fact and framing of Nicaea and the Life's panegyric character, and the Barnes monographs for the critical history, but none was read line-by-line for a load-bearing claim in this pass, so none is rated high. All relation targets exist in the dataset except none flagged: council-of-nicaea (event), arianism (school), homoousios (concept), and nicene-creed (work) all have entries.",
+  "lifespan": {
+    "birth": 272,
+    "death": 337,
+    "note": "Birth c. 272 CE (some scholars place it slightly later, c. 273-274) at Naissus in Moesia; died May 337 near Nicomedia. Sole emperor from 324 after defeating Licinius; baptized shortly before death."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "council-of-nicaea",
+      "note": "Constantine convened and funded the First Council of Nicaea (325), presided over its opening, and lent imperial authority to enforcing its decisions."
+    },
+    {
+      "type": "related_to",
+      "target": "arianism",
+      "note": "The controversy over Arius was the occasion for Nicaea; after the council Constantine came to favor bishops sympathetic to Arius and permitted Arius's partial rehabilitation. His theological allegiance is described as shifting, not fixed."
+    },
+    {
+      "type": "related_to",
+      "target": "homoousios",
+      "note": "The council he convened confessed the Son as homoousios (of the same essence) with the Father; scholars associate the term's adoption with imperial pressure for a settlement, though its precise authorship is debated."
+    },
+    {
+      "type": "related_to",
+      "target": "nicene-creed",
+      "note": "The creed issued by the council Constantine convened; its Nicene core was later expanded at Constantinople (381)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Barnes, Timothy D. Constantine and Eusebius. Cambridge, MA: Harvard University Press, 1981. Standard academic history of the reigns of Diocletian and Constantine and of Eusebius's writings; analyzes Constantine's rise to power, his government, and his relation to Christianity. The modern academic-history lens.",
+      "url": "https://www.hup.harvard.edu/books/9780674165311",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Barnes, Timothy D. Constantine: Dynasty, Religion and Power in the Later Roman Empire. Blackwell Ancient Lives. Chichester: Wiley-Blackwell, 2011. Barnes's later reassessment of the first Christian emperor, thirty years after Constantine and Eusebius; carries the contemporary critical scholarship on the debated questions of conversion, motive, and religious policy.",
+      "url": "https://www.wiley.com/en-us/Constantine:+Dynasty,+Religion+and+Power+in+the+Later+Roman+Empire-p-9781444396256",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Eusebius of Caesarea. Life of Constantine. Introduction, translation and commentary by Averil Cameron and Stuart G. Hall. Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. The principal contemporary primary source for Constantine's life, written by an admiring bishop. FLAGGED AS PANEGYRIC / LAUDATORY: cited as a contemporary source and for how the tradition presented him, not as neutral fact; the Cameron-Hall introduction and commentary themselves treat it critically.",
+      "url": "https://global.oup.com/academic/product/life-of-constantine-9780198149170",
+      "license": "Proprietary translation and commentary; underlying classical Greek text public domain. Cited as a laudatory primary source and not adjudicated as fact; the introduction and framing were consulted but no specific passage is relied on line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, Vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. Prints the acts, creed, and canons of Nicaea I in Greek and Latin with facing English translation; the primary conciliar-text lens for Constantine's role in convening Nicaea.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar texts public domain. The Nicene creed and canons were consulted, but no specific passage is relied on line-by-line for a load-bearing claim here (Constantine's role in convening Nicaea rests on Eusebius and Barnes, not on the printed decrees).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "aristotle",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Aristotle",
+    "original": "Ἀριστοτέλης",
+    "transliteration": "Aristotelēs",
+    "aliases": ["Aristoteles", "the Stagirite", "the Philosopher", "Aristu (Arabic: أرسطو)"]
+  },
+  "roles": ["philosopher"],
+  "summary": "Aristotle (384-322 BCE) was a Greek philosopher and polymath, a student of Plato and founder of the Lyceum, whose works in logic, physics, metaphysics, biology, and ethics shaped later philosophy across many traditions. His accounts of the unmoved mover, act and potency, the four causes, and hylomorphism became foundational reference points, later taken up and read in distinct ways within Islamic falsafa and Christian scholasticism.",
+  "description": "Aristotle was born at Stagira in northern Greece, the son of a physician, and came as a young man to Athens, where he studied for about twenty years in Plato's Academy. He later tutored Alexander the Great and, returning to Athens, founded his own school, the Lyceum, whose members were known as the Peripatetics. The surviving corpus, largely lecture-related treatises rather than the polished dialogues he is also reported to have written, ranges across logic, natural science, metaphysics, psychology, ethics, politics, rhetoric, and poetics. In logic (the treatises later collected as the Organon) he developed the theory of the syllogism and the analysis of terms, propositions, and demonstration, work that dominated the discipline for two millennia. In natural philosophy (the Physics and related works) he analysed change through the correlative notions of potentiality and actuality (potency and act) and matter and form (hylomorphism), and explained things by four causes or modes of explanation, the material, formal, efficient, and final. His teleology treats natural processes as directed toward ends. In the works gathered as the Metaphysics he investigated being as such and argued toward an unmoved mover, a first cause of motion that is itself unchanging, which he characterised as thought thinking itself. In the Nicomachean Ethics he set out an account of the good life as activity of the soul in accordance with virtue, culminating in a discussion of contemplation. Aristotle's writings, transmitted through late-antique commentators and, from the ninth century, through the Graeco-Arabic translation movement, became a shared philosophical inheritance: they were studied and elaborated within Islamic falsafa by figures such as al-Farabi and Ibn Sina and commented on by Ibn Rushd, and, recovered in the Latin West in the twelfth and thirteenth centuries, they were assimilated into Christian scholasticism, most influentially by Thomas Aquinas. In each setting his thought was read through that tradition's own questions and commitments.",
+  "editorial_notes": "Birth and death years (384-322 BCE) are standard in the scholarship and are entered as negative integers in the lifespan field per the BCE convention (birth -384, death -322). Aristotle is written here on his own terms as a philosopher and is filed under the philosophy tradition per ADR-0007: he is not a member of any religious tradition, and the entry does not present him as endorsing or belonging to Islam or Christianity. The 'scholastic Aristotle' read by the Latin schoolmen and the 'Avicennan Aristotle' of the falasifa are attributed receptions of his thought by those traditions, described as such and not fused into his own commitments; the relations to aquinas, scholasticism, and falsafa record that he influenced or was drawn on by each, with the reading attributed to the receiving tradition. The relation to plato is a dangling forward reference to a not-yet-written philosophy entry. Sources are philosophical and classical scholarship together with Aristotle's own primary texts, per neutrality principles #8 and #9: (a) an academic reference volume of peer-reviewed essays, Barnes (ed.), The Cambridge Companion to Aristotle (Cambridge, 1995); (b) a classic academic monograph, W. D. Ross, Aristotle (Methuen, 1923; reissued Routledge, 1995); (c) Aristotle's own works (Metaphysics, Physics, Nicomachean Ethics, and the logical Organon) as primary texts. All were web-verified to exist and be on-topic via publisher and catalogue records. Confidence is medium as relevant passages were not read line-by-line. Per the source rule, no encyclopedia (including the Stanford Encyclopedia of Philosophy) is cited.",
+  "lifespan": {
+    "birth": -384,
+    "death": -322,
+    "note": "384-322 BCE; born at Stagira, died at Chalcis on Euboea. Years are entered as negative integers per the BCE convention."
+  },
+  "relations": [
+    { "type": "student_of", "target": "plato", "note": "Studied for about twenty years in Plato's Academy at Athens; he developed his own positions in critical dialogue with Plato. Forward reference to a not-yet-written philosophy entry." },
+    { "type": "influenced", "target": "aquinas", "note": "Thomas Aquinas drew extensively on Aristotle, newly available in Latin, to articulate Christian theology; the resulting 'scholastic Aristotle' is a reading attributed to Aquinas and the Latin schools, not to Aristotle himself." },
+    { "type": "related_to", "target": "scholasticism", "note": "The recovery of Aristotle's fuller corpus in the twelfth and thirteenth-century Latin West transformed scholastic theology and philosophy; the scholastics' assimilation of his thought is attributed to that tradition." },
+    { "type": "related_to", "target": "falsafa", "note": "Aristotle's works, transmitted through the Graeco-Arabic translation movement, were foundational for Islamic falsafa (al-Farabi, Ibn Sina, and Ibn Rushd's commentaries); the 'Avicennan Aristotle' is a reading attributed to the falasifa, not to Aristotle himself." }
+  ],
+  "sources": [
+    {
+      "citation": "Barnes, Jonathan, ed. The Cambridge Companion to Aristotle. Cambridge Companions to Philosophy. Cambridge: Cambridge University Press, 1995. Peer-reviewed academic essays on Aristotle's life, logic, metaphysics, science, psychology, ethics, politics, and poetics; cited as the modern scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/us/universitypress/subjects/philosophy/classical-philosophy/cambridge-companion-aristotle",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ross, W. D. Aristotle. London: Methuen, 1923; 6th edition reissued with a new introduction by J. L. Ackrill, London and New York: Routledge, 1995. Classic academic monograph surveying Aristotle's life, works, and philosophy; cited as a further scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://www.routledge.com/Aristotle/Ross/p/book/9780415328579",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Aristotle. Metaphysics, Physics, Nicomachean Ethics, and the logical works (the Organon: Categories, On Interpretation, Prior and Posterior Analytics, Topics, Sophistical Refutations). Primary texts in scholarly editions and translations, e.g. The Complete Works of Aristotle: The Revised Oxford Translation, ed. Jonathan Barnes, 2 vols. (Princeton: Princeton University Press, 1984). Cited as the primary-text lens; relevant passages not read line-by-line.",
+      "url": "https://press.princeton.edu/books/paperback/9780691016511/complete-works-of-aristotle-volume-1",
+      "license": "Proprietary translation; original Greek in the public domain. Cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

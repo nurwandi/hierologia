@@ -1,0 +1,51 @@
+{
+  "id": "pelagius",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Pelagius",
+    "original": "Pelagius",
+    "transliteration": "Pelagius",
+    "aliases": ["Pelagius the Briton"]
+  },
+  "roles": ["ascetic", "moral teacher", "theologian"],
+  "summary": "Pelagius (c. 354 - after 418 CE) was a British ascetic and moral teacher active at Rome who stressed the freedom of the human will and human moral responsibility, and who, as read by his opponents, denied the inheritance of Adam's sin. His teaching became the occasion for the Pelagian controversy with Augustine of Hippo and was condemned at the Council of Carthage (418) and the Council of Ephesus (431).",
+  "description": "Pelagius was a lay ascetic, most likely of British origin, who came to Rome around the year 380 and gained a reputation as a spiritual director and moral reformer among clergy and laity. His known concern was the reform of Christian conduct: he pressed that God does not command the impossible, that human beings retain a real capacity (posse) to obey the divine commandments, and that they are therefore accountable for their choices. As his opponents read him, he treated Adam's sin as a bad example rather than a transmitted condition, denied that infants inherit guilt, and held that a person can take the first steps toward the good by unaided free will. Pelagius himself, in extant works such as the Letter to Demetrias (c. 413) and his commentary on the Pauline epistles, presented his emphasis on human capacity as a defense of divine justice and of the seriousness of the moral life, and he affirmed grace in the senses of creation, the law, and the example and teaching of Christ. His follower Caelestius drew the anti-traditional inferences more sharply and provoked earlier condemnation. After Rome was threatened in 410 Pelagius travelled to North Africa and then to Palestine, where he was examined and acquitted at the Synod of Diospolis (415). The African churches pressed the case against him; a council at Carthage in 418 issued canons against the positions grouped as Pelagian, and Pope Zosimus, reversing an earlier leniency, excommunicated Pelagius and Caelestius. The Council of Ephesus (431) reaffirmed the condemnation. Pelagius disappears from the record after this point; the date and place of his death are unknown. Modern scholarship stresses that much of what is called 'Pelagianism' derives from the polemical construction of his opponents, that the surviving authentic works show a more moderate figure than the heresiological label suggests, and that the boundaries of his own teaching, that of Caelestius, and that of later followers such as Julian of Eclanum are not identical.",
+  "editorial_notes": "Pelagius's dates are given as c. 354 - after 418 CE and qualified in the lifespan note: the birth year is a scholarly approximation and the death is only securely datable to after his 418 condemnation, with place unknown, so no death year is asserted in the structured field. His British origin is the standard scholarly view but not certain and is worded accordingly. The entry deliberately distinguishes Pelagius's own attested position (from his extant Letter to Demetrias and Pauline commentary) from 'Pelagianism' as constructed by his opponents, and from the sharper formulations of Caelestius, per neutrality principles #1 and #2; both the Pelagian and the Augustinian sides are presented as attributed positions and neither is ruled correct. The condemnations at Carthage (418) and Ephesus (431) and the excommunication by Zosimus are stated as historical facts, not as an editorial endorsement of Augustine's theology. Augustine's documented opposition is recorded on the augustine entry's existing refuted-pelagius edge (the figure schema has no refuted_by type, so it is not duplicated here in the reverse direction); pelagius carries only the contemporary_of link, attributed and not adjudicated. Sources triangulate three Christian lenses per neutrality principle #8: (a) a modern academic monograph (B. R. Rees, Pelagius: A Reluctant Heretic, Boydell Press), (b) Pelagius's own primary text in scholarly translation (the Letter to Demetrias, in Rees, Pelagius: Life and Letters), and (c) an academic history of doctrine covering the controversy (Pelikan, The Christian Tradition, vol. 1). Pelikan vol. 1 is rated medium here to match its rating in original-sin.json. Confidence is medium throughout: sources verified to exist and be on-topic via publisher listings, journal reviews, and library catalogues, but relevant passages not read line-by-line.",
+  "lifespan": {
+    "birth": 354,
+    "note": "Born c. 354 CE, most likely in Britain (not certain). Died after 418 CE; the exact year and place of death are unknown, so no death year is asserted here. Active at Rome from c. 380 and later in Palestine."
+  },
+  "relations": [
+    { "type": "founded", "target": "pelagianism", "note": "The movement and body of teaching grouped under his name, though scholarship distinguishes his own attested position from the 'Pelagianism' constructed by his opponents and from the sharper formulations of Caelestius." },
+    { "type": "contemporary_of", "target": "augustine", "note": "Pelagius (c. 354 - after 418) and Augustine of Hippo (354-430) were near-exact contemporaries and the principals of the early fifth-century controversy over grace, free will, and original sin." },
+    { "type": "related_to", "target": "original-sin", "note": "Pelagius, as read by his opponents, denied the transmission of Adam's sin; the doctrine of original sin was formulated by Augustine partly against the position attributed to him." },
+    { "type": "related_to", "target": "grace", "note": "The controversy turned on the relation of grace to the human will; Pelagius affirmed grace in the senses of creation, law, and Christ's example and teaching, while his opponents charged that he denied the prevenient, interior grace they held necessary to begin the good." }
+  ],
+  "sources": [
+    {
+      "citation": "Rees, B. R. Pelagius: A Reluctant Heretic. Woodbridge, Suffolk: The Boydell Press, 1988. A scholarly re-examination of the evidence for Pelagius and the Pelagian controversy, arguing for a more moderate Pelagius than the heresiological label suggests.",
+      "url": "https://archive.org/details/pelagiusreluctan0000rees",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelagius. Letter to Demetrias (Epistula ad Demetriadem, c. 413), translated in B. R. Rees, Pelagius: Life and Letters. Woodbridge: The Boydell Press, 1991. Primary source: Pelagius's own exhortation to the ascetic Demetrias, setting out his understanding of the human capacity to obey God's commandments and the freedom of the will.",
+      "url": "https://earlychurchtexts.com/public/pelagius_letter_to_demetrias.htm",
+      "license": "Latin original public domain (PL 33:1099-1120); this scholarly English translation proprietary, cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Treats the Augustine-Pelagius controversy and the conciliar condemnations within the development of Western doctrine.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

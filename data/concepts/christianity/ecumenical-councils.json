@@ -1,0 +1,96 @@
+{
+  "id": "ecumenical-councils",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Ecumenical Councils",
+    "original": "Σύνοδοι Οἰκουμενικαί / Concilia Oecumenica",
+    "transliteration": "Synodoi Oikoumenikai",
+    "aliases": [
+      "General councils",
+      "Universal councils",
+      "Oecumenical councils",
+      "the Seven Councils"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "An ecumenical council is a gathering of bishops from across the church claiming to represent the whole (Greek oikoumene, 'the inhabited world') and to define doctrine and settle disputes with universal authority. The institution begins with Nicaea (325), but the traditions differ on how many councils count as ecumenical and on which they receive.",
+  "description": "The ecumenical council is the mechanism by which, from the fourth century onward, the church sought to settle contested questions of doctrine and discipline through an assembly of bishops claiming to speak for the universal church. The pattern was set at the First Council of Nicaea (325), convened by the emperor Constantine, and continued through Constantinople (381), Ephesus (431), and Chalcedon (451), which between them fixed the creedal language of the Trinity and the two-natures Christology that later traditions received as orthodoxy. Councils claimed their authority on the ground that they represented the whole church and, in the Eastern understanding, were received (accepted) by the body of the faithful; the conciliar decrees, creeds, definitions, and canons were promulgated as binding.\n\nWhich councils are 'ecumenical', and how many there are, is itself a point on which the communions differ, and this entry attributes the tallies to their respective bodies rather than privileging one. The Eastern Orthodox Church recognizes seven ecumenical councils, from Nicaea I (325) to the Second Council of Nicaea (787), and treats the era of the seven councils as normative. The Roman Catholic Church accepts those seven and counts fourteen further councils as ecumenical, from later Western and general councils down to the First and Second Vatican Councils, for a total of twenty-one; on the Catholic account a council's ecumenicity depends on confirmation by the bishop of Rome. The Oriental Orthodox churches (Coptic, Syriac, Armenian, Ethiopian, and others) receive only the first three councils and reject the Chalcedonian definition of 451, while the Assyrian Church of the East receives only the first two. The Protestant Reformers generally honored the doctrinal decisions of the early councils, especially the first four, as faithful summaries of scripture rather than as independently binding authorities, and Protestant bodies differ among themselves on how much conciliar authority to grant.\n\nThe institution thus functioned both as the church's principal instrument for defining orthodoxy and as a site where the boundaries of communion were drawn, since a community's reception or rejection of a council marked its place among the divided Christian traditions. This entry describes the councils and the competing receptions on the terms of the communions that hold them and does not adjudicate which tally or which reception is correct.",
+  "editorial_notes": "This entry presents the ecumenical council as an institution and attributes the differing tallies and receptions to the respective communions (Eastern Orthodox seven; Roman Catholic twenty-one, contingent on papal confirmation; Oriental Orthodox first three; Assyrian Church of the East first two; Protestant honoring chiefly the first four as summaries of scripture) without privileging any of them, per neutrality #2 and #7. The claim that a council's authority rests on its representing and being received by the whole church is stated as the traditions' own self-understanding, not endorsed. Sourcing triangulates three lenses per neutrality #8: (a) academic history of doctrine (Pelikan vol. 1, which treats the conciliar era; Wilken, The First Thousand Years, a global history that foregrounds the councils and the divergent receptions); (b) the primary conciliar corpus (Tanner, ed., Decrees of the Ecumenical Councils, which prints the acts, creeds, definitions, and canons); (c) a contemporary Christian scholar's synthesis (Norman Tanner, The Councils of the Church: A Short History, by the editor of the Decrees), and, because the entry's burden is not to privilege the Catholic tally, an Eastern Orthodox scholarly voice (Ware, The Orthodox Church) so the divergent-reception claims rest in part on that communion's own account and not only on Western/Catholic scholarship. No encyclopedias or tertiary sources are cited. Confidence: medium throughout; the Tanner Decrees prints the primary conciliar texts and the other works were verified to exist and be on-topic, but none was read line-by-line for a load-bearing claim in this pass, and the entry's substance (the differing tallies and receptions) rests on the narrative and Orthodox sources rather than on the printed decrees. All relation targets exist in the dataset: council-of-nicaea, council-of-constantinople, council-of-ephesus, council-of-chalcedon (events), and patristics (school) and ecclesiology (concept).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "council-of-nicaea",
+      "note": "Nicaea (325) is the first ecumenical council and set the pattern for the institution; recognized as ecumenical by Orthodox, Catholic, Oriental Orthodox, Assyrian, and most Protestant traditions alike."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-constantinople",
+      "note": "The First Council of Constantinople (381), the second ecumenical council, which expanded the Nicene Creed into the Niceno-Constantinopolitan form."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-ephesus",
+      "note": "Ephesus (431), the third ecumenical council, is the last council received by the Oriental Orthodox churches, which reject the Chalcedonian definition of 451. The Assyrian Church of the East receives only the first two councils and does not receive Ephesus."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-chalcedon",
+      "note": "Chalcedon (451), the fourth ecumenical council; its two-natures definition is received by Orthodox, Catholic, and most Protestant traditions but rejected by the Oriental Orthodox, marking a lasting division."
+    },
+    {
+      "type": "related_to",
+      "target": "patristics",
+      "note": "The ecumenical councils are the principal doctrinal instruments of the patristic era, in which the creeds and christological definitions were formulated."
+    },
+    {
+      "type": "part_of",
+      "target": "ecclesiology",
+      "note": "The council is an institution of church order and authority; how much authority it carries, and how it relates to the papacy or to the reception of the faithful, is understood differently across the communions."
+    }
+  ],
+  "historical_period": {
+    "start": 325,
+    "note": "The institution begins with Nicaea I (325). The seven councils recognized by the Orthodox run to Nicaea II (787); the twenty-one counted by Rome run to Vatican II (1962-1965). The tallies and end points differ by communion."
+  },
+  "sources": [
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils, 2 vols. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990. The standard scholarly edition printing the acts, creeds, definitions, and canons of the councils in the original languages with facing English translation; the primary conciliar-text lens.",
+      "url": "https://press.georgetown.edu/Book/Decrees-of-the-Ecumenical-Councils",
+      "license": "Proprietary edition; underlying conciliar texts public domain. Creeds and definitions consulted, but not read line-by-line for a load-bearing claim here: the entry's substance is the reception history, carried by the narrative and Orthodox sources rather than by the printed decrees.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Academic history of doctrine covering the conciliar era from Nicaea through the councils of the first six centuries. The academic-history lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wilken, Robert Louis. The First Thousand Years: A Global History of Christianity. New Haven: Yale University Press, 2012. Academic global history of the church's first millennium that gives sustained attention to the ecumenical councils and to the divergent receptions of Ephesus and Chalcedon among the Eastern churches. Corroborates the differing tallies and receptions.",
+      "url": "https://yalebooks.yale.edu/book/9780300118841/the-first-thousand-years/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. The Councils of the Church: A Short History. New York: Crossroad; New York: Herder & Herder, 2001. A concise scholarly history of conciliar teaching from the early and medieval councils to Vatican II, by the editor of the Decrees; a contemporary Christian scholar's synthesis. Note: written from a Roman Catholic scholarly vantage; used here for the history of the institution, with the differing receptions attributed to their communions.",
+      "url": "https://books.google.com/books/about/The_Councils_of_the_Church.html?id=grXYAAAAMAAJ",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Timothy (Bishop Kallistos of Diokleia). The Orthodox Church. New ed. London: Penguin, 1993. A standard exposition of Orthodox Christianity by a contemporary Orthodox scholar and bishop, presenting the era of the seven ecumenical councils and their normative status from within the Eastern Orthodox tradition; added as the Eastern Orthodox scholarly voice so the divergent-reception claims rest in part on that communion's own account. Same source and rating as used in the eastern-orthodoxy entry.",
+      "url": "https://www.penguin.co.uk/books/34260/the-orthodox-church-by-ware-timothy/9780140146561",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

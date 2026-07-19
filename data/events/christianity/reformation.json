@@ -1,0 +1,99 @@
+{
+  "id": "reformation",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Protestant Reformation",
+    "original": "Reformation",
+    "transliteration": "Reformation",
+    "aliases": [
+      "The Reformation",
+      "Protestant Reformation",
+      "Magisterial Reformation",
+      "Reformation (16th century)"
+    ]
+  },
+  "category": "reform movement",
+  "location": "Western and Central Europe (originating in Wittenberg, Electoral Saxony)",
+  "date": {
+    "year": 1517,
+    "end_year": 1648,
+    "note": "Conventionally dated from Luther's Ninety-Five Theses (1517); no single closing date is agreed. The Peace of Westphalia (1648) is often used as an end point for the confessional settlement of the Holy Roman Empire, but historians also treat the Reformation as an ongoing movement with no fixed terminus. Dates are period markers, not sharp boundaries."
+  },
+  "summary": "The Protestant Reformation was a sixteenth-century movement of religious reform in Western Christianity, conventionally dated from Martin Luther's Ninety-Five Theses of 1517, that broke with the authority of the papacy and gave rise to the Protestant churches. It reshaped the doctrine, worship, and institutions of large parts of Europe around principles such as justification by faith alone and the primacy of scripture.",
+  "description": "The Protestant Reformation was a movement of doctrinal, ecclesial, and social reform in Western Christianity in the sixteenth century. It is conventionally dated from 1517, when the Wittenberg professor Martin Luther circulated the Ninety-Five Theses, a set of academic propositions questioning the preaching and sale of indulgences, though historians stress that reforming currents, grievances against the papacy, and calls for renewal long predated that date. What began as a scholarly dispute over indulgences widened into a challenge to the authority of the pope and the councils and to the theology of grace, the sacraments, and the church. The reformers associated with the movement, among them Luther, Huldrych Zwingli in Zurich, and John Calvin in Geneva, taught that a sinner is justified before God by faith alone (sola fide), that scripture rather than church tradition is the final norm for doctrine (sola scriptura), and that salvation is by grace alone, positions that their opponents in the Roman obedience rejected. After Luther refused to recant at the Diet of Worms (1521) and was placed under imperial ban, the movement spread through preaching, the printing press, and the decisions of territorial rulers and city councils, producing distinct confessional traditions (Lutheran, Reformed, and later others) and, in England, a separate settlement. The Roman Catholic Church responded with its own reform and with a doctrinal counter-statement at the Council of Trent (1545-1563). The resulting division of Western Christendom was accompanied by prolonged political and military conflict, and 1648, the year of the Peace of Westphalia, is often taken as a marker for the stabilization of the confessional map, though the Reformation's effects on theology, worship, and society continued long afterward.",
+  "editorial_notes": "This entry models the Reformation as a period and movement rather than a single dated event, per ADR-0006 and the schema's allowance for a date range; date.year (1517) and date.end_year (1648) are conventional markers, and date.note qualifies both that reform predated 1517 and that no fixed terminus is agreed, so the boundaries are not presented as sharp. The distinctively Protestant positions (sola fide, sola scriptura, grace alone) are reported as the reformers' attributed theology and the Roman rejection of them as an attributed counter-position, without adjudicating which side was correct, per neutrality principles #1, #2, and #4. Sources triangulate three lenses per neutrality principles #8-9 as adapted for Christianity: an academic historian of the Reformation (MacCulloch), the primary corpus of the events (Luther's Ninety-Five Theses and Leo X's bull Exsurge Domine, the two sides in their own documents), and a contemporary historian of doctrine (Pelikan, The Christian Tradition, vol. 4). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic via publisher pages, archive.org, and a peer-reviewed review, but relevant passages not read line-by-line. Several relation targets (indulgences and reformation are the entities authored in this batch; huldrych-zwingli, diet-of-worms, council-of-trent-1545, peace-of-westphalia) are forward references to entities that may not yet exist in the dataset; martin-luther, john-calvin, protestantism, sola-fide, and sola-scriptura are present in the data.",
+  "relations": [
+    {
+      "type": "participant",
+      "target": "martin-luther",
+      "note": "Luther's Ninety-Five Theses (1517) and refusal to recant at Worms (1521) are conventionally taken as the movement's opening; reported as a historical role, not a judgment on his theology."
+    },
+    {
+      "type": "participant",
+      "target": "john-calvin",
+      "note": "Calvin led the reform in Geneva and shaped the Reformed wing of the movement; his role is reported historically."
+    },
+    {
+      "type": "participant",
+      "target": "huldrych-zwingli",
+      "note": "Zwingli led the early reform in Zurich. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "protestantism",
+      "note": "The movement gave rise to the Protestant churches and confessional traditions grouped under Protestantism."
+    },
+    {
+      "type": "related_to",
+      "target": "indulgences",
+      "note": "The dispute over the preaching and sale of indulgences, addressed in Luther's Ninety-Five Theses, is conventionally taken as the movement's trigger; the critique is attributed to the reformers, and the Catholic doctrine is not adjudicated here."
+    },
+    {
+      "type": "related_to",
+      "target": "sola-fide",
+      "note": "Justification by faith alone was a defining principle of the reformers, reported as their attributed position."
+    },
+    {
+      "type": "related_to",
+      "target": "sola-scriptura",
+      "note": "The primacy of scripture over church tradition as the norm for doctrine was a defining principle of the reformers, reported as their attributed position."
+    },
+    {
+      "type": "preceded_by",
+      "target": "late-medieval-reform",
+      "note": "Reforming currents, conciliarism, and grievances against the papacy long predated 1517. Forward reference to late-medieval context not yet modeled as an entity."
+    },
+    {
+      "type": "followed_by",
+      "target": "council-of-trent-1545",
+      "note": "The Roman Catholic Council of Trent (1545-1563) responded to the Reformation with reform and a doctrinal counter-statement. Forward reference to a not-yet-created entity (distinct from the earlier councils already in the dataset)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "MacCulloch, Diarmaid. The Reformation: A History. New York: Viking, 2004 (UK title Reformation: Europe's House Divided, 1490-1700, London: Allen Lane, 2003). A standard scholarly narrative history of the European Reformation; the academic-historian lens.",
+      "url": "https://archive.org/details/reformation00diar_0",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Archive.org copy for verification.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Luther, Martin. Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences (the Ninety-Five Theses), 1517, and the papal bull of Leo X, Exsurge Domine (1520), which censured forty-one propositions drawn from Luther's writings. Primary documents of the opening controversy; the Ninety-Five Theses are printed in Luther's Works, American Edition, vol. 31 (Career of the Reformer I), ed. Harold J. Grimm, Philadelphia: Fortress / Muhlenberg Press, 1957. The primary-corpus lens.",
+      "url": "https://en.wikisource.org/wiki/Works_of_Martin_Luther,_with_introductions_and_notes/Volume_1/Disputation_on_Indulgences",
+      "license": "Underlying texts public domain (Ninety-Five Theses; Exsurge Domine). The Luther's Works edition is a proprietary translation. Cited for reference; the text of the theses read, the surrounding apparatus not.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 4: Reformation of Church and Dogma (1300-1700). Chicago: University of Chicago Press, 1984. A contemporary historian of doctrine's account of the doctrinal development of the Reformation; the modern Christian theologian / historian-of-doctrine lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3618533.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

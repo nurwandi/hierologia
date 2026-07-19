@@ -1,0 +1,91 @@
+{
+  "id": "theosis",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Theosis",
+    "original": "θέωσις",
+    "transliteration": "theōsis",
+    "aliases": [
+      "Deification",
+      "Divinization",
+      "Deiformity",
+      "Participation in the divine nature"
+    ]
+  },
+  "category": "soteriology",
+  "summary": "Theosis (deification or divinization) is the doctrine, central to Eastern Orthodoxy, that the goal of salvation is the human person's transforming union with God, becoming by grace a 'partaker of the divine nature' (2 Peter 1:4) without becoming God in essence. It is classically associated with the distinction between God's unknowable essence and his communicable energies.",
+  "description": "Theosis names the teaching that salvation consists not merely in forgiveness or the remission of sin but in the human person's real participation in the life of God, a transforming union in which the believer is progressively conformed to God and comes to share, by grace, in the divine life. Its principal scriptural anchor is 2 Peter 1:4, that believers may become 'partakers of the divine nature' (theias koinonoi physeos), together with the patristic reading of the image and likeness of God in Genesis 1:26. The idea is expressed in the influential patristic formula, found in Irenaeus and Athanasius, that God became human so that the human being might become god (or be deified); in the Greek Fathers this deification is understood to raise humanity to God without erasing the creator-creature distinction.\n\nThe doctrine is guarded by a central qualification: the human person becomes god by grace and by participation, not by nature, and does not become identical with God or absorbed into the divine essence. In the later Byzantine tradition this is articulated through the distinction, associated above all with Gregory Palamas (1296-1359) in the hesychast controversy, between the divine essence (ousia), which remains forever unknowable and incommunicable, and the divine energies (energeiai), the uncreated activities or operations of God in which creatures genuinely participate. On this account the person deified in theosis is united to God's energies, not to his essence, so that union with God is real without the essence being breached. This entry presents theosis as the (especially Eastern) tradition's doctrine on its own terms.\n\nTheosis is most prominent and systematically developed in Eastern Orthodoxy, where it is treated as the organizing category of the whole economy of salvation and is bound up with the Incarnation, the sacraments, and the ascetic and contemplative life. Western Christianity has received the theme differently: the language of deification is present in Augustine and in the medieval and mystical traditions and has drawn renewed Roman Catholic and Protestant attention, but the essence/energies distinction in its Palamite form was not generally received in the West and has been contested there. This entry notes that Western reception differs and attributes the essence/energies formulation to the Eastern (Palamite) tradition rather than presenting it as the common Christian teaching.",
+  "editorial_notes": "This entry presents theosis primarily as the Eastern Orthodox tradition's doctrine on its own terms (neutrality #6), states the essence/energies distinction as the Palamite tradition's formulation (attributed, not endorsed), and explicitly notes that Western reception differs and that the Palamite form was not generally received in the West and remains contested there, so as not to present one communion's doctrine as the common Christian teaching (neutrality #2, #7). The scriptural and patristic anchors (2 Peter 1:4; the Irenaeus/Athanasius formula) are reported as the tradition's own basis. Sourcing triangulates three lenses per neutrality #8: (a) academic history of doctrine (Russell, The Doctrine of Deification in the Greek Patristic Tradition, OUP 2004, the standard scholarly monograph); (b) the primary corpus (the New Testament text of 2 Peter 1:4; Athanasius, On the Incarnation; and Gregory Palamas, The Triads, the classic primary text of the essence/energies distinction); (c) a contemporary Orthodox theologian (Russell, Fellow Workers with God: Orthodox Thinking on Theosis, SVS Press 2009; and Ware, The Orthodox Church). No encyclopedias or tertiary sources. Confidence: medium on the monographs and translations, verified to exist and be on-topic but not read line-by-line; the 2 Peter 1:4 text is a public-domain primary source and its wording is read. The optional cross-tradition compares_with to the Islamic fana is included, done per neutrality #10 (shared question, stated difference, neither equated nor ranked); fana.json and baqa.json were read first. All Christian relation targets exist in the dataset: eastern-orthodoxy (school), grace, incarnation, atonement (concepts); fana is an Islamic concept that exists.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "eastern-orthodoxy",
+      "note": "Theosis is central to Eastern Orthodox soteriology, treated as the organizing category of the whole economy of salvation; the school entry lists theosis as a doctrine it holds."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "Theosis is held to be effected by grace and by participation, not by nature: the human person becomes god by grace without becoming God in essence. The synergy of divine grace and human effort (synergeia) is integral to the Orthodox account."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "Theosis is grounded in the Incarnation via the patristic formula that God became human so that the human might be deified; Athanasius's On the Incarnation gives the classic statement of this soteriological rationale."
+    },
+    {
+      "type": "related_to",
+      "target": "atonement",
+      "note": "Theosis frames salvation as transforming union and participation in the divine life rather than primarily as a juridical or satisfaction transaction; it is often contrasted with, though not necessarily opposed to, Western atonement models, a difference of emphasis attributed to the respective traditions."
+    },
+    {
+      "type": "compares_with",
+      "target": "fana",
+      "note": "Both address the shared question of how a human being can attain the highest nearness to or union with God while God remains transcendent. Christian theosis holds that the person is really united to God by grace and participates in the divine energies while remaining a creature, and it guards the creator-creature distinction so that the human never becomes God in essence; Sufi fana' describes the passing away (annihilation) of the ego-self before God, classically paired with baqa' (abiding in God), and whether it entails union with God is itself contested within the Islamic tradition. The link marks a comparable theme, human participation in or nearness to the divine, and states the difference in how each frames it; it does not equate the two answers and ranks neither."
+    }
+  ],
+  "historical_period": {
+    "start": 100,
+    "note": "Rooted in the New Testament (esp. 2 Peter 1:4) and developed by the Greek Fathers from the second century (Irenaeus, Athanasius) through Maximus the Confessor; given its distinctive Byzantine articulation via the essence/energies distinction by Gregory Palamas (d. 1359). No end date: it remains living Orthodox doctrine."
+  },
+  "sources": [
+    {
+      "citation": "Russell, Norman. The Doctrine of Deification in the Greek Patristic Tradition. Oxford Early Christian Studies. Oxford: Oxford University Press, 2004. The standard academic monograph tracing deification from a second-century metaphor to a doctrine central to Byzantine spiritual life, from Irenaeus to Maximus the Confessor. The academic history-of-doctrine lens.",
+      "url": "https://global.oup.com/academic/product/the-doctrine-of-deification-in-the-greek-patristic-tradition-9780199205974",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gregory Palamas. The Triads. Edited with an introduction by John Meyendorff, translated by Nicholas Gendle. Classics of Western Spirituality. New York: Paulist Press, 1983. The classic primary text of the hesychast controversy, expounding deification in Christ, the uncreated divine glory, and the distinction between the essence and the energies of God. The primary-corpus lens for the essence/energies formulation.",
+      "url": "https://www.amazon.com/Gregory-Palamas-Classics-Western-Spirituality/dp/0809124475",
+      "license": "Proprietary translation; underlying fourteenth-century Greek text public domain. Cited as a primary text; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Athanasius of Alexandria. On the Incarnation (De Incarnatione Verbi Dei), and The Second Epistle of Peter 1:4 ('partakers of the divine nature'). Primary patristic and scriptural sources for the deification formula ('God became human so that the human might become god') and for its scriptural anchor. Cited as primary classical and scriptural texts.",
+      "url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A4",
+      "license": "Public-domain scriptural and classical texts; English translations vary. Wording of 2 Peter 1:4 read.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Russell, Norman. Fellow Workers with God: Orthodox Thinking on Theosis. Foundations Series. Yonkers, NY: St Vladimir's Seminary Press, 2009. A contemporary presentation of Orthodox thinking on theosis, including synergeia and the Palamite tradition. The contemporary-Orthodox lens.",
+      "url": "https://www.amazon.com/Fellow-Workers-God-Orthodox-Foundations/dp/0881413399",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Timothy (Bishop Kallistos of Diokleia). The Orthodox Church. New ed. London: Penguin, 1993. Standard introduction to Orthodoxy by a contemporary Orthodox scholar and bishop; treats theosis as the goal of the Christian life and the participation in the divine energies. Same source and rating as used in the eastern-orthodoxy entry.",
+      "url": "https://www.penguin.co.uk/books/34260/the-orthodox-church-by-ware-timothy/9780140146561",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

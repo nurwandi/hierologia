@@ -1,0 +1,83 @@
+{
+  "id": "millat-ibrahim",
+  "tradition": "islam",
+  "names": {
+    "primary": "Millat Ibrahim",
+    "original": "ملة إبراهيم",
+    "transliteration": "millat Ibrāhīm",
+    "aliases": [
+      "The religion of Abraham",
+      "The creed of Abraham",
+      "Dīn Ibrāhīm",
+      "Millat Ibrāhīm ḥanīfan"
+    ]
+  },
+  "category": "core-doctrine",
+  "summary": "Millat Ibrahim (Arabic millat Ibrāhīm), 'the religion' or 'creed of Abraham', is the Qur'anic idea that the true religion is the upright, primordial monotheism of Abraham. In Islamic self-understanding, Islam does not found a new religion but continues and restores this religion of Abraham.",
+  "description": "Millat Ibrāhīm, literally 'the milla (religion, community, or creed) of Abraham', is a Qur'anic expression for the pure, upright monotheism that the Qur'an identifies with Abraham and, through him, with what the Qur'an presents as true religion as such. The Qur'an calls the believer to follow 'the religion of Abraham, a hanif' (millat Ibrāhīm ḥanīfan, Q 2:135, 3:95, 16:123), asks 'who is better in religion than one who submits (aslama) his face to God while doing good and follows the religion of Abraham, a hanif, for God took Abraham as an intimate friend (khalīl)' (Q 4:125), and presents Abraham himself as choosing this religion for his descendants (Q 2:130-133). Q 6:161 has the Prophet directed to an 'upright religion, the religion of Abraham, a hanif', and Q 22:78 declares 'the religion of your father Abraham; He named you muslims (al-muslimīn) before' and in this. On this basis Islam understands itself not as the founding of a novel faith but as the continuation and restoration of the original Abrahamic monotheism, which later communities are held to have received and in the tradition's view partly departed from. Western Qur'anic scholarship has situated this Abrahamic self-definition within its late-antique setting: Reuven Firestone has studied the association of Abraham with the Meccan sanctuary in the pre-Islamic and early Islamic periods, and Angelika Neuwirth has read the recurring phrase millat Ibrāhīm ḥanīfan as central to the Qur'an's account of Abraham as the model of established, exemplary monotheistic piety within the late-antique milieu. Classical exegetes such as Fakhr al-Din al-Razi and Ibn Kathir expounded these verses as establishing the primacy and continuity of Abraham's religion, and contemporary Muslim scholars such as Fazlur Rahman likewise read the Abrahamic religion in the Qur'an as the archetype of the self-surrender to God that the Qur'an presents as authentic religion. Millat Ibrahim is bound up with the figure of the hanif, the pure monotheist, with tawhid, the oneness of God it affirms, with prophethood (nubuwwa), through which the tradition holds this religion to be transmitted, and with islām itself in its generic sense of submission to the one God.",
+  "editorial_notes": "This entry states the Islamic self-understanding that Islam continues and restores the religion of Abraham, represented fully on its own terms (neutrality #6, #7). The load-bearing claims that touch other traditions are the Qur'anic characterizations of Abraham as the model of the true religion (millat Ibrāhīm) and especially Q 22:78, 'the religion of your father Abraham; He named you muslims', and Q 4:125, 'God took Abraham as an intimate friend.' Per the #7-and-#11 balance these are presented explicitly as the ATTRIBUTED ISLAMIC/QUR'ANIC VIEW ('the Qur'an calls', 'in Islamic self-understanding', 'in the tradition's view') and never as a neutral fact about Abraham nor as a claim that Judaism or Christianity accepts; the entry reports that Islam understands itself to restore Abraham's religion without adjudicating whether that self-understanding is correct or ranking it against the Jewish and Christian relationships to Abraham. Sourcing triangulates three lenses per neutrality #8: a Western academic lens (Reuven Firestone's peer-reviewed article in Le Muséon on Abraham and the Meccan sanctuary, and Angelika Neuwirth's monograph The Qur'an and Late Antiquity); the primary texts (the Qur'anic ayat and the classical tafsir of al-Razi and Ibn Kathir); and a contemporary Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an). No encyclopedias or tertiary sources are cited. Confidence is medium throughout: sources verified as extant and on-topic but not read line-by-line; Firestone and Neuwirth are new to the corpus and rated medium, Rahman is matched to its existing medium rating. The relation to ibrahim is a dangling forward reference (no figure entry for Abraham exists in data/figures/islam at the time of writing); relations to hanif and islam are forward references authored in the same batch; tawhid and nubuwwa exist.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "hanif",
+      "note": "The Qur'anic phrase is millat Ibrāhīm ḥanīfan, 'the religion of Abraham, a hanif'; the religion of Abraham is the hanifiyya, the pure primordial monotheism. Forward reference authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "islam",
+      "note": "Q 22:78 has God name the followers of Abraham's religion muslims; millat Ibrahim is identified with islām in its generic sense of submission to the one God, which Islam holds itself to continue. Forward reference authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The religion of Abraham is characterized above all by the exclusive worship of the one God; millat Ibrahim is a name for the affirmation of tawhid in its Abrahamic, primordial form."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "In Islamic understanding the religion of Abraham is transmitted through the line of prophets (nubuwwa) and restored in its final form through Muhammad."
+    },
+    {
+      "type": "related_to",
+      "target": "ibrahim",
+      "note": "Abraham (Ibrāhīm) is the eponymous figure of millat Ibrahim, the friend of God (khalīl) whose religion the Qur'an holds up as the model. Dangling forward reference: no figure entry for Abraham exists yet."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The expression is Qur'anic (revelation from c. 610 CE), invoking Abraham (a figure the tradition places long before) as the archetype of what the tradition regards as true religion; expounded by classical exegetes and read by modern scholarship within the late-antique milieu of the Qur'an."
+  },
+  "sources": [
+    {
+      "citation": "Firestone, Reuven. 'Abraham's Association with the Meccan Sanctuary and the Pilgrimage in the Pre-Islamic and Early Islamic Periods.' Le Muséon 104, no. 3-4 (1991): 359-387. A peer-reviewed study of how Islamic tradition brings Abraham from a biblical into a Qur'anic (Meccan) geographical and religious context, bearing on the Qur'an's identification of the true religion with the religion of Abraham. Cited as the Western academic lens. Relevant passages not read line-by-line.",
+      "url": "https://www.researchgate.net/publication/230563023_Abraham's_Association_with_the_Meccan_Sanctuary_and_the_Pilgrimage_in_the_Pre-Islamic_and_Early_Islamic_Periods",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Neuwirth, Angelika. The Qur'an and Late Antiquity: A Shared Heritage. Trans. Samuel Wilder. Oxford Studies in Late Antiquity. New York: Oxford University Press, 2019. An academic monograph reading the Qur'an as the product of a late-antique community; it treats the recurring phrase millat Ibrāhīm ḥanīfan and the figure of Abraham as central to the Qur'an's account of exemplary monotheistic piety. Cited as a further Western academic lens on the Abrahamic self-definition. Relevant passages not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/the-quran-and-late-antiquity-9780199928958",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, with al-Rāzī, Fakhr al-Dīn, Mafātīḥ al-ghayb (al-Tafsīr al-kabīr), and Ibn Kathīr, Tafsīr al-Qurʾān al-ʿAẓīm (classical tafsir). Primary texts: Q 2:130-135 (Abraham choosing the religion for his sons; 'the religion of Abraham, a hanif'), 3:95, 4:125 ('God took Abraham as an intimate friend'), 6:161 ('the religion of Abraham, a hanif'), 16:123, and 22:78 ('the religion of your father Abraham; He named you muslims'). The classical commentaries of al-Razi and Ibn Kathir expound these verses on the primacy and continuity of Abraham's religion. Cited as the primary-text lens.",
+      "license": "Public-domain classical texts (Qur'an and the tafsir of al-Razi and Ibn Kathir in Arabic; English translations vary).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'ān. 2nd ed. Chicago: University of Chicago Press, 2009 (1st ed. Minneapolis: Bibliotheca Islamica, 1980). A monograph by a leading modern Muslim scholar; it reads the Abrahamic religion in the Qur'an as the archetype of the self-surrender to God that the Qur'an presents as authentic religion. Cited as the contemporary Muslim scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

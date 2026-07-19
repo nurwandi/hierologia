@@ -1,0 +1,52 @@
+{
+  "id": "peter-abelard",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Peter Abelard",
+    "original": "Petrus Abaelardus",
+    "transliteration": "Petrus Abaelardus",
+    "aliases": ["Pierre Abélard", "Petrus Abailardus", "Abelard", "Peripateticus Palatinus"]
+  },
+  "roles": ["philosopher", "theologian", "logician", "teacher"],
+  "summary": "Peter Abelard (1079-1142 CE) was a French logician, philosopher, and theologian, an early exponent of the scholastic dialectical method whose Sic et Non arranged apparently conflicting authorities for reasoned reconciliation. He is known for a conceptualist position on universals, an exemplarist reading of Christ's atoning work, and for the condemnation of doctrines attributed to him at the Council of Sens (1141).",
+  "description": "Peter Abelard was born at Le Pallet near Nantes in Brittany and became one of the most influential and controversial teachers of the early twelfth century, active chiefly in and around Paris. Trained in logic (dialectic), he taught at the schools of the city and drew large numbers of students, and his career is documented in part by his autobiographical Historia calamitatum and by the correspondence with Heloise. In logic and metaphysics he addressed the problem of universals, and, as John Marenbon argues, developed a constructive position often labelled conceptualism: universals are not things (contra realism) but neither are they mere sounds; Abelard analysed general words in terms of a common status that things share and of the mental conceptions (intellectus) to which such words give rise. His theological method is exemplified by the Sic et Non ('Yes and No'), which set out apparently contradictory statements from scripture and the Church Fathers on a series of questions, with a prologue giving rules for resolving the discrepancies through analysis of terms, context, and authenticity; this dialectical procedure fed directly into the developing scholastic quaestio. In ethics, his treatise Scito te ipsum ('Know Yourself', also called the Ethics) located the moral quality of an act above all in the agent's inner consent and intention rather than in the external deed. In his commentary on Paul's Epistle to the Romans he advanced what later scholarship describes as a moral-influence or exemplarist account of Christ's saving work, emphasising the transformative effect of Christ's love shown in the Passion on the believer, a reading that his critics contrasted with accounts centred on satisfaction or ransom. Abelard's teaching drew opposition, notably from Bernard of Clairvaux, and a set of propositions attributed to him was condemned at the Council of Sens in 1141, after which he submitted and retired to Cluny, dying the following year. His logical works, theological writings, and dialectical method were widely influential on the twelfth-century schools and on the later scholastic tradition.",
+  "editorial_notes": "Birth and death years (1079-1142 CE) are as standardly reported in the scholarship and given in the lifespan note. Abelard is described here on Christian and philosophical terms, per neutrality principle #6. The 'exemplarist' or 'moral-influence' label for his reading of the atonement is the characterization found in the scholarship of the history of doctrine and is attributed as such; the entry does not adjudicate whether his account is correct, and the atonement relation is to the doctrine's own entry. His condemnation at the Council of Sens (1141) is recorded as a historical fact, following Constant Mews's redating of the council to 1141 (previously often dated 1140); the entry takes no position on the theological merits of the condemnation, per neutrality principles #1 and #2. Sources triangulate the three Christian lenses per neutrality principle #8: (a) a modern academic monograph, Marenbon's The Philosophy of Peter Abelard (Cambridge, 1997); (b) Abelard's own primary text, the Ethics (Scito te ipsum) in Luscombe's critical edition and translation (Clarendon, 1971); (c) a peer-reviewed journal article, Mews in Speculum (2002), on the Council of Sens. All were web-verified to exist and be on-topic via publisher, journal, and catalogue records. Confidence is medium as relevant passages were not read line-by-line. The relation to aristotle is a forward reference authored in this same batch under the philosophy tradition; the relation to bernard-of-clairvaux is a dangling forward reference to a not-yet-written entry.",
+  "lifespan": {
+    "birth": 1079,
+    "death": 1142,
+    "note": "1079-1142 CE; born at Le Pallet, Brittany, died at the priory of Saint-Marcel near Chalon-sur-Saone. Dates are standard in the scholarship."
+  },
+  "relations": [
+    { "type": "member_of", "target": "scholasticism", "note": "An early exponent of the scholastic dialectical method; his Sic et Non modelled the juxtaposition and reconciliation of authorities that shaped the scholastic quaestio." },
+    { "type": "related_to", "target": "atonement", "note": "In his commentary on Romans, Abelard advanced what later scholarship terms a moral-influence or exemplarist reading of Christ's saving work, attributed to him and not adjudicated here." },
+    { "type": "influenced_by", "target": "aristotle", "note": "Abelard worked within the logica vetus, the early-medieval Aristotelian logic then available in Latin (chiefly the Categories and On Interpretation with Porphyry's Isagoge and Boethius's commentaries), which framed his treatment of universals. Forward reference; the aristotle entry is authored in this batch." },
+    { "type": "contemporary_of", "target": "bernard-of-clairvaux", "note": "Bernard of Clairvaux opposed Abelard and was a leading figure in the proceedings that led to the condemnation at the Council of Sens (1141). Forward reference to a not-yet-written entry." }
+  ],
+  "sources": [
+    {
+      "citation": "Marenbon, John. The Philosophy of Peter Abelard. Cambridge: Cambridge University Press, 1997. Academic monograph offering a full reassessment of Abelard's logic, metaphysics (including his conceptualist treatment of universals), and ethics; cited as the modern academic lens. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/philosophy-of-peter-abelard/1A8E9B8BB9081C855FD15E74DB2A5589",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Abelard, Peter. Peter Abelard's Ethics (Scito te ipsum). Edited and translated by D. E. Luscombe. Oxford Medieval Texts. Oxford: Clarendon Press, 1971. Critical Latin edition with English translation of Abelard's treatise locating moral quality in the agent's inner consent and intention; cited as the primary-text lens. Relevant passages not read line-by-line.",
+      "url": "https://www.oxfordscholarlyeditions.com/display/10.1093/actrade/9780198222170.book.1/actrade-9780198222170-book-1",
+      "license": "Proprietary edition and translation of a classical text; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Mews, Constant J. 'The Council of Sens (1141): Abelard, Bernard, and the Fear of Social Upheaval.' Speculum 77, no. 2 (2002): 342-382. Peer-reviewed article on the council that condemned propositions attributed to Abelard, redating it to 1141; cited for the condemnation as a historical event. Relevant passages not read line-by-line.",
+      "url": "https://research.monash.edu/en/publications/the-council-of-sens-1141-abelard-bernard-and-the-fear-of-social-u",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "tahrif",
+  "tradition": "islam",
+  "names": {
+    "primary": "Tahrif",
+    "original": "تحريف",
+    "transliteration": "taḥrīf",
+    "aliases": [
+      "alteration",
+      "distortion",
+      "corruption (of scripture)",
+      "tahrif al-ma'ani (distortion of meaning)",
+      "tahrif al-nass / tahrif al-lafz (corruption of the text)"
+    ]
+  },
+  "category": "scripture",
+  "summary": "Tahrif is the Islamic doctrine that earlier scripture-communities, principally the Jews and Christians (the ahl al-kitab, People of the Book), altered, misrepresented, or distorted the scriptures God had given them. Muslim scholars have long debated what the charge amounts to, ranging from distortion of the meaning or interpretation of a preserved text (tahrif al-ma'ani) to corruption of the wording of the text itself (tahrif al-nass).",
+  "description": "Tahrif (from the Arabic root ḥ-r-f, to turn aside or bend) is, in Islamic theology, the claim that communities entrusted with earlier revelation altered or misrepresented it. The doctrine is grounded in a cluster of Qur'anic verses, especially Q 2:75, 3:78, 4:46, 5:13, and 5:41, several of which use the phrase yuḥarrifūna al-kalim, rendered 'they distort the words' or 'they alter the words from their places'. On the Islamic account, these verses accuse groups among the People of the Book of tampering with, hiding, or twisting what they had received. This entry describes that doctrine as Muslims have held and argued it; it does not adjudicate the actual textual history or integrity of the Jewish or Christian scriptures, which is a separate question outside its scope.\n\nA central and long-running debate internal to Islamic scholarship concerns what tahrif actually means, and this debate is the scholarly heart of the topic. On one reading, tahrif al-ma'ani, the distortion is of meaning or interpretation: the scriptural text is essentially preserved, but its custodians misread it, conceal parts of it, or expound it wrongly (for example, on this doctrine, by not recognizing predictions of the prophet Muhammad). On a stronger reading, tahrif al-nass (also tahrif al-lafz), the very wording of the text was corrupted, so that the scriptures now in circulation are held to differ from what was revealed. Modern scholarship of the doctrine (Nickel, Whittingham, Saeed) finds that many early Qur'an commentators and classical scholars leaned toward the milder distortion-of-meaning view, and that the systematic textual-corruption thesis was developed and pressed later. The Andalusian scholar Ibn Ḥazm (d. 456/1064) is commonly identified as the figure who built a sustained case for wholesale textual corruption of the Bible; the Damascene scholar Ibn Taymiyya (d. 728/1328) argued a more layered position, on which some scriptural text was altered while other portions were preserved and could even be cited. Contemporary Muslim scholars continue to hold a spectrum of positions, some emphasizing the meaning-distortion reading and the limited Qur'anic vocabulary of tahrif.\n\nWhat keeps the doctrine internally contested, on the account of these scholars, is that the Qur'an also speaks of itself as confirming (muṣaddiq) the scriptures that came before it, naming the Tawrat (Torah) given to Moses and the Injil (Gospel) associated with Jesus, and in places calls the People of the Book to judge by what is in their own scripture. Muslim thinkers have therefore had to reconcile a scripture that both affirms the earlier revelations and charges their communities with distorting them, and the range of answers to that tension is precisely what the tahrif debate consists of. The doctrine bears directly on Islamic prophetology (nubuwwa), since it concerns how the line of revelation to earlier prophets was transmitted, and on the Islamic understanding of the People of the Book.",
+  "editorial_notes": "This entry carries a heightened neutrality burden under principles #10 and #11 and is written strictly to them. Tahrif is presented ONLY as the attributed Islamic doctrine, that is, as what Muslims have claimed and debated about earlier scriptures, using framing such as 'on this doctrine', 'on the Islamic account', and 'Muslim scholars debated'. The entry describes the Islamic doctrine as attributed and does not adjudicate the actual integrity, authenticity, or textual history of the Bible, the Torah, or the Gospel; the editor at no point asserts as fact that these scriptures were corrupted or altered, and the entry is not used to characterize what Judaism or Christianity teaches or contains. To avoid flattening the doctrine into its most polemical form (a #10/#11 requirement), the entry foregrounds the internal Muslim disagreement between tahrif al-ma'ani (distortion of meaning/interpretation of a largely preserved text) and tahrif al-nass/al-lafz (corruption of the wording itself), and traces the historical range from early commentators and classical scholars who leaned to the milder view, through Ibn Hazm's systematized textual-corruption thesis and Ibn Taymiyya's layered position, to contemporary Muslim scholars, and it notes the Qur'an's own affirmation of the earlier scriptures as muṣaddiq, which is why the internal debate exists. Per #11, no Muslim polemic against the Bible is cited as a description of the Bible, and no Christian polemic against tahrif is cited as the description of tahrif; the sources are scholarship that STUDIES the doctrine plus the primary texts cited as attributed positions. Sourcing triangulates three lenses per #8: (a) Western academic study OF THE DOCTRINE (Lazarus-Yafeh's Intertwined Worlds, the foundational study; Nickel's Narratives of Tampering, on the earliest tafsir; Whittingham's History of Muslim Views of the Bible), plus Keating's chapter as further scholarship on the charge; (b) primary texts cited carefully as attributed Islamic positions (the Qur'an's tahrif verses; Ibn Hazm's al-Fisal; Ibn Taymiyya's al-Jawab al-Sahih in Michel's translation); (c) a contemporary Muslim scholarly voice (Abdullah Saeed, University of Melbourne). Keating is a Catholic scholar; her chapter is used as academic study of the doctrine's early development, not as a Christian verdict on it, consistent with #11. No compares_with link is used: for a cross-tradition-sensitive doctrine like this it is safer to attribute via the description than to force a comparison, and a compares_with here would risk reading as the editor comparing the ACTUAL scriptures rather than a shared question. Confidence is medium throughout except the primary Qur'anic text; the secondary and classical works were verified to exist and to be on-topic but were not read line-by-line. Forward references: ahl-al-kitab and injil do not yet exist in the dataset (dangling targets); nubuwwa, isa, and shirk already exist. The Keating and Ibn Taymiyya publisher pages returned HTTP 403 on direct fetch but their bibliographic details are corroborated across multiple search results, and open-access copies are linked where available.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "Tahrif bears on Islamic prophetology: it concerns how the revelations given to earlier prophets were transmitted and whether their communities preserved or distorted them. On the doctrine, the earlier scriptures were genuine revelation whose custodians altered the meaning or, on the stronger reading, the text."
+    },
+    {
+      "type": "related_to",
+      "target": "ahl-al-kitab",
+      "note": "The charge of tahrif is directed at the ahl al-kitab (People of the Book), principally Jews and Christians, as the communities said on this doctrine to have distorted their scriptures. Forward reference: ahl-al-kitab does not yet exist in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "injil",
+      "note": "The Injil (the Gospel associated with Jesus in the Qur'an) is one of the earlier scriptures to which the tahrif debate applies; the Qur'an both names the Injil as revelation it confirms (muṣaddiq) and, on the doctrine, charges its community with distortion. Forward reference: injil does not yet exist in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "isa",
+      "note": "Isa (Jesus) is the prophet associated in the Qur'an with the Injil, so the Islamic account of tahrif touches how his message is held to have been transmitted and, on the doctrine, altered by later communities."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The tahrif verses belong to the Qur'an (revealed 610-632 CE). The interpretive debate over meaning-distortion versus textual-corruption develops in the tafsir and polemical literature across the classical period, with the systematized textual-corruption thesis commonly dated to Ibn Hazm (d. 1064) and a layered position to Ibn Taymiyya (d. 1328); the debate continues among modern Muslim scholars."
+  },
+  "sources": [
+    {
+      "citation": "Lazarus-Yafeh, Hava. Intertwined Worlds: Medieval Islam and Bible Criticism. Princeton, NJ: Princeton University Press, 1992. Foundational academic monograph on medieval Muslim critical attitudes to the Bible, including the doctrine that earlier scripture was tampered with or falsified and the arguments Muslim authors marshalled for it. Cited as a study OF the doctrine, not as a description of the Bible.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691635712/intertwined-worlds",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nickel, Gordon. Narratives of Tampering in the Earliest Commentaries on the Qur'an. History of Christian-Muslim Relations 13. Leiden and Boston: Brill, 2011. Academic monograph examining how the earliest Qur'an commentaries (Muqatil ibn Sulayman, al-Tabari) interpreted the tahrif and tabdil verses, arguing that early exegesis tended toward tentative meaning-focused readings rather than the later confident charge of textual corruption. Cited as a study of how Muslims interpreted the doctrine.",
+      "url": "https://brill.com/display/title/19538",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Whittingham, Martin. A History of Muslim Views of the Bible: The First Four Centuries. Berlin and Boston: De Gruyter, 2020. Academic monograph surveying Sunni, Imami Shi'i, and Isma'ili Muslim responses to the Bible up to Ibn Hazm (d. 1064), distinguishing corruption of interpretation (tahrif al-ma'ani) from corruption of the text and tracing which view dominated in which period. Cited as a study of the doctrine's development.",
+      "url": "https://www.degruyterbrill.com/document/isbn/9783110389272/html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, tahrif verses: Surah al-Baqara (2:75), Al Imran (3:78), al-Nisa (4:46), and al-Ma'ida (5:13, 5:41), several using the phrase yuḥarrifūna al-kalim ('they distort/alter the words'); together with the Qur'an's description of itself as confirming (muṣaddiq) the earlier Tawrat and Injil (e.g. 3:3, 5:48). Primary scripture cited as the doctrinal basis for the charge of distortion and for the affirmation of earlier revelation that makes the internal debate possible.",
+      "license": "Primary religious text; classical Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ibn Ḥazm, Abu Muhammad ʿAli ibn Ahmad. Kitab al-Fiṣal fi al-Milal wa-l-Ahwaʾ wa-l-Niḥal (The Book of Distinctions on Religions, Heresies, and Sects), 5th/11th century. PRIMARY SOURCE cited as an attributed Islamic position: Ibn Hazm's heresiographical work, commonly identified as the first to build a sustained, systematic case for wholesale textual corruption (tahrif al-nass) of the Jewish and Christian scriptures. Cited as evidence of what Ibn Hazm argued, not as a neutral description of the Bible.",
+      "license": "Primary classical text; Arabic in the public domain.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Taymiyya, Taqi al-Din Ahmad. al-Jawab al-Ṣaḥiḥ li-man baddala din al-Masiḥ (The Correct Answer to Those Who Altered the Religion of Christ), early 14th century. Trans. and ed. Thomas F. Michel, A Muslim Theologian's Response to Christianity. Delmar, NY: Caravan Books, 1984. PRIMARY SOURCE cited as an attributed Islamic position: Ibn Taymiyya's layered view on which some earlier scriptural text was altered while other portions were preserved. Cited as evidence of what Ibn Taymiyya argued, not as a description of Christianity or its scripture.",
+      "url": "https://archive.org/details/muslimtheologian0000ibnt",
+      "license": "Proprietary translation; classical Arabic text in the public domain. Cited for reference; not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saeed, Abdullah. 'The Charge of Distortion of Jewish and Christian Scriptures.' The Muslim World 92, nos. 3-4 (Fall 2002): 419-436. A contemporary Muslim scholar (University of Melbourne) surveying the Islamic doctrine of tahrif, distinguishing distortion of meaning (tahrif al-maʿna) from corruption of the text (tahrif al-lafẓ) and examining the Qur'anic vocabulary of the charge. Serves as the contemporary Muslim scholarly lens.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1478-1913.2002.tb03751.x",
+      "license": "Proprietary journal article; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Keating, Sandra Toenies. 'Revisiting the Charge of Taḥrīf: The Question of Supersessionism in Early Islam and the Qurʾān.' In Nicholas of Cusa and Islam: Polemic and Dialogue in the Late Middle Ages, ed. Ian Christopher Levy, Rita George-Tvrtković, and Donald F. Duclow. Studies in Medieval and Reformation Traditions 183. Leiden: Brill, 2014. Academic chapter examining the early development of the charge of tahrif and its relation to supersessionism. Used as scholarship studying the doctrine (the author is a Catholic scholar; the chapter is cited as academic study of the charge, not as a Christian verdict on it).",
+      "url": "https://library.oapen.org/bitstream/id/df0ae312-a0a5-46d4-a414-616de93d322d/external_content.pdf",
+      "license": "Open access (OAPEN); cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "five-ways",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Five Ways",
+    "original": "quinque viae",
+    "transliteration": "quinque viae",
+    "aliases": ["Quinque Viae", "The Five Ways", "Aquinas's Five Proofs", "the five proofs for the existence of God"]
+  },
+  "category": "natural theology",
+  "summary": "The Five Ways (quinque viae) are the five arguments for the existence of God set out by Thomas Aquinas in the Summa Theologiae (I, q. 2, a. 3): from motion, from efficient causation, from contingency and necessity, from the gradation found in things, and from the governance or ordering of things. They draw substantially on Aristotelian physics and metaphysics.",
+  "description": "The Five Ways (Latin quinque viae, 'five ways') are the five arguments that Thomas Aquinas offers for the existence of God in the Summa Theologiae, part I, question 2, article 3, presented as five distinct routes by which God's existence can be shown from features of the observable world. As standardly enumerated: the first argues from motion or change to a first mover that is not itself moved by another; the second argues from the ordered series of efficient causes to a first efficient cause; the third argues from the contingency of things, that come to be and pass away, to something whose existence is necessary; the fourth argues from the gradation or degrees of perfection found in things (more and less good, true, and noble) to a maximal source of such perfections; and the fifth argues from the way natural bodies act toward an end, the governance or teleological ordering of things, to an intelligent orderer. In each case Aquinas concludes with the formula that 'this all understand to be God' (or the equivalent), a conclusion he treats as the terminus of the argument rather than a full account of the divine nature, which the subsequent questions develop. As Anthony Kenny's study emphasises, the arguments are compressed and depend on premises Aquinas argues at greater length elsewhere and inherits from the broader philosophical tradition. Their conceptual materials are substantially Aristotelian: the analysis of motion and of act and potency, the treatment of causal series, and the teleology of natural things all derive from Aristotle's Physics and Metaphysics, transmitted to the Latin West in the twelfth and thirteenth centuries in part through Arabic intermediaries, while Aquinas sets them within a Christian doctrine of God. The Five Ways became a much-discussed locus for later philosophy of religion, both in exposition and in criticism.",
+  "editorial_notes": "The location (Summa Theologiae I, q. 2, a. 3) and the standard fivefold enumeration are as reported in the scholarship and in Aquinas's own text; the labels 'motion', 'efficient causation', 'contingency/necessity', 'gradation', and 'teleology/governance' are the conventional shorthand. The entry presents the Five Ways as Aquinas's arguments and does not adjudicate whether they succeed, per neutrality principles #1 and #2; that they have been both defended and criticised in later philosophy of religion is noted as a matter of intellectual history. The Aristotelian provenance of the arguments' conceptual materials is well established in the scholarship and grounds the relation to aristotle (a philosophy-tradition entry authored in this same batch). No cross-tradition compares_with link is asserted: while Islamic kalam and falsafa developed cosmological and contingency arguments for God's existence, the dataset does not currently contain a single specific argument entity to which a neutral question-level comparison could be drawn, so per the batch instruction none is forced here; the shared Aristotelian substrate is instead captured through the common aristotle node. Sources triangulate the three Christian lenses per neutrality principle #8: (a) Aquinas's own primary text, the Summa Theologiae; (b) an academic monograph, Kenny's The Five Ways (Routledge and Kegan Paul, 1969); (c) a further academic study for the transmission and intellectual context, Colish's Medieval Foundations of the Western Intellectual Tradition (Yale, 1997). All were web-verified to exist and be on-topic. Confidence is medium as relevant passages were not read line-by-line.",
+  "relations": [
+    { "type": "articulated_by", "target": "aquinas", "note": "Thomas Aquinas set out the quinque viae in the Summa Theologiae (I, q. 2, a. 3)." },
+    { "type": "derives_from", "target": "aristotle", "note": "The conceptual materials of the arguments (motion and change, act and potency, efficient causal series, and the teleology of natural things) derive substantially from Aristotle's Physics and Metaphysics, which Aquinas set within a Christian doctrine of God. Forward reference; the aristotle entry is authored in this batch." },
+    { "type": "related_to", "target": "scholasticism", "note": "The Five Ways are a paradigmatic product of the scholastic quaestio method and of the high-medieval synthesis of Aristotelian philosophy with Christian theology." }
+  ],
+  "historical_period": {
+    "start": 1265,
+    "end": 1274,
+    "note": "Composed as part of the Summa Theologiae (prima pars), c. 1265-1268, within the larger work written c. 1265-1274 and left unfinished at Aquinas's death. Dates are scholarly conventions."
+  },
+  "sources": [
+    {
+      "citation": "Aquinas, Thomas. Summa Theologiae, prima pars, q. 2, a. 3 ('Whether God exists'), c. 1265-1268. Primary text: Aquinas's own statement of the quinque viae. Cited as a classical primary work; relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/summa-theologiae/8AB598D01F0A6E58150C426CCB50FF63",
+      "license": "Latin text public domain; English translations vary. Cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kenny, Anthony. The Five Ways: St Thomas Aquinas' Proofs of God's Existence. Studies in Ethics and the Philosophy of Religion. London: Routledge and Kegan Paul, 1969. Academic monograph analysing each of the Five Ways and its premises; cited as the modern academic lens. Relevant passages not read line-by-line.",
+      "url": "https://philpapers.org/rec/KENTFW-4",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Colish, Marcia L. Medieval Foundations of the Western Intellectual Tradition, 400-1400. Yale Intellectual History of the West 1. New Haven: Yale University Press, 1997. Academic study of the medieval intellectual tradition, including the recovery of Aristotle (partly through Arabic transmission) and its assimilation in scholastic theology; cited for the Aristotelian context and transmission. Relevant passages not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300078527/medieval-foundations-of-the-western-intellectual-tradition/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

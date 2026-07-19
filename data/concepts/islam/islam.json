@@ -1,0 +1,86 @@
+{
+  "id": "islam",
+  "tradition": "islam",
+  "names": {
+    "primary": "Islam",
+    "original": "إسلام",
+    "transliteration": "islām",
+    "aliases": [
+      "Submission",
+      "Self-surrender to God",
+      "Islām",
+      "Al-Islam"
+    ]
+  },
+  "category": "core-doctrine",
+  "summary": "Islam is the Arabic term for submission or self-surrender to God, from the verb aslama (to submit, to hand oneself over). In Islamic self-understanding the word carries two senses: a generic sense, that submission to the one God is the right relation of every creature and the religion of every true prophet, and a specific sense, the final revealed religion brought through Muhammad.",
+  "description": "The word islām is a verbal noun of the fourth-form Arabic verb aslama (from the root s-l-m, associated with wholeness and peace), meaning to submit, to surrender, or to hand oneself over wholly; a muslim is accordingly one who so submits. Western Qur'anic scholarship (for example the semantic study of Toshihiko Izutsu) reads islām and its correlate īmān (faith) as central key-terms of the Qur'anic worldview, denoting the total self-surrender of the human being to the will and command of the one God. On the tradition's own account the term operates at two levels. In the generic or universal sense, submission to God is the condition of all being: the Qur'an states that 'to Him has submitted (aslama) whoever is in the heavens and the earth' (Q 3:83), and Muslims hold, on the Qur'anic account, that the prophets before Muhammad and their true followers were already muslim in the sense of submitters to the one God, Abraham and his sons enjoining the same submission upon their descendants (Q 2:131-133), the disciples of Jesus declaring themselves muslimun (Q 3:52), and the People of the Book called to a shared word of worship of God alone (Q 3:64). In this sense the Qur'an declares that 'the religion (dīn) with God is islām' (Q 3:19) and that whoever seeks a religion other than islām will not have it accepted (Q 3:85), and it names Abraham neither Jew nor Christian but a muslim (Q 3:67, cf. the concept hanif). In the specific sense, islām names the concrete final religion revealed through Muhammad and completed in his mission, the Qur'an describing the religion (dīn) as thereby perfected (Q 5:3). Contemporary Muslim scholars such as Fazlur Rahman likewise present islām as, at root, the self-surrender of the human being to God that the Qur'an holds to be the substance of all authentic religion. The two senses are understood in the tradition as continuous rather than opposed: the specific religion is taken to be the full and final form of the universal submission that God has always required. Islam relates closely to the innate disposition (fitra) oriented toward God, to the oneness of God (tawhid) that is the content of the submission, to faith (iman) as its inward correlate, and to prophethood (nubuwwa) and its sealing (khatam al-nabiyyin), through which the tradition holds the final form of submission to have been delivered.",
+  "editorial_notes": "This entry states Islamic self-understanding of the term islām and represents it fully on its own terms (neutrality #6, #7): both the generic sense (all creation and all true prophets as submitters to God) and the specific sense (the final revealed religion). Several claims here concern figures that other traditions revere differently, notably the Qur'anic characterization that the earlier prophets and their true followers, and Abraham (Q 3:67) and the disciples of Jesus (Q 3:52), were muslim in the sense of submitters to the one God. Per the #7-and-#11 balance these are presented explicitly as the ATTRIBUTED ISLAMIC VIEW ('Muslims hold, on the Qur'anic account', 'the Qur'an states', 'in Islamic self-understanding') and never as a neutral fact about those figures nor as a claim that Judaism or Christianity accepts; the entry does not adjudicate whose reading of Abraham or the disciples is correct. Sourcing triangulates three lenses per neutrality #8: a Western academic Qur'anic-studies lens (Toshihiko Izutsu, Ethico-Religious Concepts in the Qur'an, McGill, 1966, a semantic analysis of islām and īmān as Qur'anic key-terms); the primary texts (the Qur'anic ayat cited and al-Tabari's classical tafsir Jami' al-bayan on them); and a contemporary Muslim scholar (Fazlur Rahman, Major Themes of the Qur'an). No encyclopedias or tertiary sources are cited. Confidence is medium throughout: sources verified as extant and on-topic but not read line-by-line. Izutsu is new to the corpus and rated medium. Rahman's Major Themes already appears in the corpus (e.g. tawhid) at medium and is matched here. Relations to iman, millat-ibrahim, and hanif are forward references at the time of writing (iman exists; hanif and millat-ibrahim are authored in the same batch); fitra, tawhid, nubuwwa, and khatam-al-nabiyyin exist.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "fitra",
+      "note": "The submission the word islām names is understood to answer to the innate primordial disposition (fitra) with which the human being is born, oriented toward God."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The object of the submission is the one God; tawhid (the oneness of God) is the content that islām as submission acknowledges."
+    },
+    {
+      "type": "related_to",
+      "target": "iman",
+      "note": "Islām (outward submission and religion) and īmān (inward faith) are treated in the Qur'an and in kalam as closely paired correlates, their exact relation being itself a classical topic. Forward reference: iman entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "nubuwwa",
+      "note": "In Islamic understanding the final form of submission was delivered through prophethood (nubuwwa); the generic submission is held to be the religion of all the prophets."
+    },
+    {
+      "type": "related_to",
+      "target": "khatam-al-nabiyyin",
+      "note": "The specific religion of islām is understood to be completed with Muhammad as the seal of the prophets (khatam al-nabiyyin)."
+    },
+    {
+      "type": "related_to",
+      "target": "millat-ibrahim",
+      "note": "In the generic sense, islām is identified with the upright monotheism of Abraham (millat Ibrahim) that the tradition understands itself to continue. Forward reference authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "hanif",
+      "note": "The Qur'an calls Abraham a hanif and a muslim (Q 3:67), linking the pure primordial monotheist (hanif) to submission (islām). Forward reference authored in the same batch."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The term is anchored in the Qur'anic revelation (from c. 610 CE); its generic sense (submission as the religion of all creation and all prophets) and its specific sense (the final revealed religion) are both Qur'anic and were elaborated by classical exegetes and theologians."
+  },
+  "sources": [
+    {
+      "citation": "Izutsu, Toshihiko. Ethico-Religious Concepts in the Qur'an. McGill Islamic Studies, I. Montreal: McGill University Press (for the McGill University Institute of Islamic Studies), 1966. A semantic study of the key ethico-religious terms of the Qur'an, including islām and īmān, analysing islām as the total self-surrender of the human being to God within the Qur'anic worldview. Cited as the Western academic Qur'anic-studies lens on the meaning of the term. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/ethico-religious-concepts-in-the-quran-by-toshihiko-izutsu",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Qur'an, with al-Ṭabarī, Abū Jaʿfar Muḥammad ibn Jarīr. Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān (classical tafsir). Primary texts: Q 3:19 ('the religion with God is islām'), 3:83 ('to Him has submitted whoever is in the heavens and the earth'), 3:85, 3:67 (Abraham as a hanif and muslim), 3:52 (the disciples of Jesus as muslimun), 3:64 (the common word to the People of the Book), 2:131-133 (Abraham and his sons enjoining submission), and 5:3 ('this day I have perfected for you your religion'). Al-Tabari's Jāmiʿ al-bayān is the foundational classical exegesis expounding these verses. Cited as the primary-text lens.",
+      "license": "Public-domain classical texts (Qur'an and al-Tabari's tafsir in Arabic; English translations vary).",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'ān. 2nd ed. Chicago: University of Chicago Press, 2009 (1st ed. Minneapolis: Bibliotheca Islamica, 1980). A monograph by a leading modern Muslim scholar; its treatment of God, prophethood, and the Muslim community presents islām as, at root, the human being's self-surrender to God that the Qur'an holds to be the substance of all authentic religion. Cited as the contemporary Muslim scholarly lens. Relevant passages not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "pelagianism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Pelagianism",
+    "original": "Pelagianismus",
+    "transliteration": "Pelagianismus",
+    "aliases": ["the Pelagian movement", "the Pelagians", "the party of Pelagius"]
+  },
+  "summary": "Pelagianism is the name later tradition gave to the teaching associated with Pelagius (c. 354 - after 418) and his follower Caelestius, which stressed the freedom of the human will and human moral capacity and, as its opponents characterized it, denied the transmission of Adam's sin and the necessity of an interior, prevenient grace to begin the good. It was condemned as heresy at the Council of Carthage (418) and the Council of Ephesus (431).",
+  "description": "Pelagianism denotes the cluster of positions associated with Pelagius and, in a sharper form, with his follower Caelestius, together with the wider early fifth-century controversy their teaching precipitated. As the label is conventionally used by its opponents, the defining claims are that Adam's sin harmed only himself and was transmitted to his descendants by example rather than by inheritance, that infants are born in the same condition as Adam before the fall and so without inherited guilt, that human beings retain an unimpaired natural capacity to fulfil God's commandments, and that a person can take the initial steps toward salvation by free will without a special infusion of interior grace, grace being understood chiefly as the gift of nature and free will, the law, and the teaching and example of Christ. Against this, Augustine of Hippo argued that the fall left the will bound, so that prevenient grace is required even to begin to desire the good, and that all inherit a fallen condition from Adam. The movement's opponents secured its condemnation: Caelestius was rejected at Carthage in 411, Pelagius was acquitted at the Synod of Diospolis in Palestine in 415 but the African councils pressed on, the Council of Carthage in 418 issued canons against the Pelagian positions on original sin and grace, and Pope Zosimus excommunicated both men. The Council of Ephesus (431) reaffirmed the condemnation, and the Second Council of Orange (529) settled a broadly Augustinian doctrine of grace while also rejecting the harder inference of predestination to evil. Modern scholarship emphasizes that 'Pelagianism' is to a significant degree a construction of its opponents, that the surviving authentic works of Pelagius are more moderate than the label implies, and that the views of Pelagius, Caelestius, and the later Julian of Eclanum should not simply be identified with one another; a later, milder set of positions on the beginning of faith is often distinguished as Semi-Pelagianism.",
+  "editorial_notes": "This entry presents Pelagianism as an attributed position and records its condemnation as historical fact, without endorsing either the Pelagian or the Augustinian side; per neutrality principles #1 and #2 the disputed claims (whether Adam's sin is inherited, whether interior prevenient grace is necessary to begin the good) are stated as the matter in dispute and each position is attributed to its holders, and the editor does not rule which is correct. The defining doctrines are given as 'characterized by its opponents' because much of the label derives from anti-Pelagian polemic; scholarship (Rees) is cited for the caution that the constructed 'Pelagianism' overstates the extremity of Pelagius's own attested teaching, and that Pelagius, Caelestius, and Julian of Eclanum are not interchangeable. Semi-Pelagianism is named as a distinct, later development rather than folded in. The opposed edge to augustine records the historically documented opposition, not an editorial verdict, and is the counterpart to the augustine refuted pelagius edge. Sources triangulate three Christian lenses per neutrality principle #8: (a) a modern academic monograph (Rees, Pelagius: A Reluctant Heretic, Boydell Press) and an academic history of doctrine (Pelikan vol. 1); (b) a primary conciliar source (the Canons of the Council of Carthage, 418); (c) a standard modern Christian systematic text (McGrath, Christian Theology). Pelikan vol. 1 and McGrath, Christian Theology, are rated medium to match their ratings in original-sin.json. Confidence is medium throughout: sources verified to exist and be on-topic via publisher listings, journal reviews, and text repositories, but relevant passages not read line-by-line.",
+  "period": {
+    "founded": 411,
+    "active_until": 431,
+    "note": "Approximate. Emerged with Pelagius's teaching at Rome (from c. 380) and Caelestius's condemnation at Carthage (411); condemned at Carthage (418) and Ephesus (431). A later, milder current known as Semi-Pelagianism continued and was addressed at the Second Council of Orange (529). Dates are scholarly conventions, not sharp events."
+  },
+  "relations": [
+    { "type": "founded_by", "target": "pelagius", "note": "Named for and associated with Pelagius; scholarship distinguishes his own attested teaching from the 'Pelagianism' constructed by his opponents." },
+    { "type": "key_figure", "target": "pelagius", "note": "Pelagius is the principal figure whose ascetic and moral teaching the movement is named after." },
+    { "type": "opposed", "target": "augustine", "note": "Augustine of Hippo was the leading opponent of the Pelagian positions on grace, free will, and original sin; this reciprocates the existing augustine refuted pelagius edge and records the opposition as historical, not adjudicated." },
+    { "type": "related_to", "target": "original-sin", "note": "The doctrine of original sin was formulated by Augustine partly against the Pelagian denial that Adam's sin is transmitted by inheritance rather than by example; the councils condemned the Pelagian position on this point." },
+    { "type": "related_to", "target": "grace", "note": "The controversy centered on grace: Pelagianism, as characterized by its opponents, held that the initial movement toward salvation is possible by free will without a special interior grace, which the Augustinian side denied." }
+  ],
+  "sources": [
+    {
+      "citation": "Rees, B. R. Pelagius: A Reluctant Heretic. Woodbridge, Suffolk: The Boydell Press, 1988. A scholarly re-examination of the Pelagian controversy, cautioning that 'Pelagianism' is substantially a construction of Pelagius's opponents.",
+      "url": "https://archive.org/details/pelagiusreluctan0000rees",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Treats the Pelagian controversy and its conciliar condemnation within the development of Western doctrine.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Canons of the Council of Carthage (418) on sin and grace. Primary conciliar source: the African council's canons condemning the positions grouped as Pelagian, on the mortality of Adam, infant baptism for the remission of sin, and the necessity of grace. English text in the Nicene and Post-Nicene Fathers tradition.",
+      "url": "https://earlychurchtexts.com/public/carthage_canons_on_sin_and_grace.htm",
+      "license": "Historical conciliar text; Latin in the public domain, standard English translations vary. Cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McGrath, Alister E. Christian Theology: An Introduction. Oxford: Wiley-Blackwell. A standard modern Christian systematic textbook whose hamartiology and soteriology chapters expound the Pelagian controversy, the Augustinian response, and the distinction between Pelagianism and Semi-Pelagianism. The modern Christian scholarly lens.",
+      "url": "https://alistermcgrath.org/books/christian-theology-an-introduction/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.4.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
