@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/hierologia-banner.png" alt="Hierologia" width="100%">
-</p>
-
-<p align="center">
   <img src="web/hierologia.svg" alt="Hierologia logo" width="88" height="88">
 </p>
 
@@ -21,6 +17,10 @@
 sacred and religious traditions of any people, time, or place. This project
 preserves theological, historical, and sociological knowledge as structured,
 citable data. Every entry is neutral, attributed to its sources, and versioned.
+
+<p align="center">
+  <img src="assets/hierologia-banner.jpg" alt="Hierologia" width="100%">
+</p>
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
