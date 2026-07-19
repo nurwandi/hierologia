@@ -14,7 +14,7 @@
   "category": "christology",
   "summary": "The Incarnation is the Christian doctrine that the eternal Son of God, the divine Word (Logos), became a human being in Jesus Christ, so that Christ is one person who is at once fully God and fully man. The Chalcedonian Definition (451) is its normative formulation.",
   "description": "The doctrine of the Incarnation holds that in Jesus Christ the second person of the Trinity, the eternal Word, took on a complete human nature, being born, living, suffering, and dying as a man while remaining fully God. The scriptural anchor is the prologue of John's Gospel, 'the Word became flesh' (John 1:14). Christianity does not describe this as God merely inhabiting or appearing as a man, nor as a demigod, but as the union of full deity and full humanity in a single person. The classic formulation was set at the Council of Chalcedon (451), which confessed Christ as one person (hypostasis) in two natures (divine and human) that are united without confusion, without change, without division, and without separation, each nature retaining its own properties. This settlement was framed against several rejected positions: Apollinarianism (the Word replaced Christ's human mind), Nestorianism (as read by its opponents, a division of Christ into two subjects), and Eutychianism or monophysitism (the human nature absorbed into the divine). Athanasius's On the Incarnation gives an influential earlier rationale: the Word became human so that humanity might be restored and, in the patristic phrase, 'deified.' The Chalcedonian Definition remains normative for Catholic, Eastern Orthodox, and most Protestant churches, though the Oriental Orthodox churches, holding a miaphysite Christology, did not receive it.",
-  "editorial_notes": "The entry describes the Incarnation on Christianity's own terms first (neutrality principle #6), foregrounding the Chalcedonian two-natures-one-person formula and naming the positions it excluded as attributed rejected views rather than adjudicating them. The non-reception of Chalcedon by the Oriental Orthodox is noted to avoid falsely presenting the tradition as monolithic (principle #7 analogue). Sourcing triangulates three lenses per principles #8-9: academic history of doctrine (Pelikan vol. 1, which treats the christological controversies through Chalcedon), a classical primary text (Athanasius, On the Incarnation; and the Chalcedonian Definition itself), and a modern Christian systematic voice (McGrath). No encyclopedias or tertiary sources. Confidence medium except the primary conciliar text. The cross-tradition link to nubuwwa follows ADR-0005: shared QUESTION (how God reaches humanity), stated DIFFERENCE (God becoming incarnate in Christ vs. God sending prophets while rejecting incarnation), with no equation or ranking. Several Christian relation targets (council-of-chalcedon, nestorianism) are forward references to entities not yet created in this dataset, as original-sin already notes for its own targets.",
+  "editorial_notes": "The entry describes the Incarnation on Christianity's own terms first (neutrality principle #6), foregrounding the Chalcedonian two-natures-one-person formula and naming the positions it excluded as attributed rejected views rather than adjudicating them. The non-reception of Chalcedon by the Oriental Orthodox is noted to avoid falsely presenting the tradition as monolithic (principle #7 analogue). Sourcing triangulates three lenses per principles #8-9: academic history of doctrine (Pelikan vol. 1, which treats the christological controversies through Chalcedon), a classical primary text (Athanasius, On the Incarnation; and the Chalcedonian Definition itself), and a modern Christian systematic voice (McGrath). No encyclopedias or tertiary sources. Confidence medium except the primary conciliar text. The cross-tradition link to nubuwwa follows ADR-0005: shared QUESTION (how God reaches humanity), stated DIFFERENCE (God becoming incarnate in Christ vs. God sending prophets while rejecting incarnation), with no equation or ranking. Several Christian relation targets (council-of-chalcedon, nestorianism) are forward references to entities not yet created in this dataset, as original-sin already notes for its own targets. VERIFIED (2026-07-19): the load-bearing texts were read directly, John 1:1-14 ('the Word became flesh') and the Chalcedonian Definition (two natures 'without confusion, without change, without division, without separation', one hypostasis), and confirmed, with a second check; a John source is added at high, and the entry is promoted to verified. The secondary works remain medium (not read line by line).",
   "relations": [
     {
       "type": "compares_with",
@@ -43,6 +43,13 @@
   },
   "sources": [
     {
+      "citation": "The Gospel of John, prologue, 1:1-14: 'In the beginning was the Word, and the Word was with God, and the Word was God ... And the Word became flesh and dwelt among us.' The scriptural anchor of the incarnation.",
+      "url": "https://biblehub.com/john/1-14.htm",
+      "license": "Public-domain scriptural text. Read directly and confirmed.",
+      "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
       "citation": "Athanasius of Alexandria. On the Incarnation (De Incarnatione Verbi Dei). Trans. John Behr, Popular Patristics Series 44b. Yonkers, NY: St Vladimir's Seminary Press, 2011. The classic fourth-century primary treatise on why the Word became flesh and its soteriological purpose.",
       "url": "https://svspress.com/on-the-incarnation-english-only/",
       "license": "Proprietary translation; classical Greek text public domain. Cited for reference, relevant passages not read line-by-line.",
@@ -70,7 +77,7 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.2.0",
   "created": "2026-07-19",
   "updated": "2026-07-19"
