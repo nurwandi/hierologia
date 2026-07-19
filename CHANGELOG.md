@@ -6,6 +6,37 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-07-19
+
+The origins of Christianity open in a neutral historian's register, resting on a new
+Judaism tradition, the third Abrahamic tradition.
+
+### Added
+- **A `judaism` tradition** (ADR-0008), modeled like Islam and Christianity:
+  `second-temple-judaism` and `pharisees` (schools) and the `tanakh` (the Hebrew Bible,
+  a work). The `tradition` enum gains `judaism` in all five schemas, carrying
+  `schema_version` from 0.4.0 to 0.5.0. It anchors Christian origins and gives the
+  Islamic entries about Jewish scripture and figures a tradition to compare with.
+- **The origins of Christianity** in a historian's register: `jesus-of-nazareth` (the
+  historical Jesus, a first-century Galilean Jew), `paul-of-tarsus`, the
+  `council-of-jerusalem` (c. 50 CE, an Event), the `parting-of-the-ways` (the gradual
+  separation from Judaism), and the `new-testament-canon`. Historical-critical claims are
+  attributed to scholarship and each faith's confessional claims to that faith, with
+  neither adjudicated.
+- **`jesus-of-nazareth compares_with isa`** (#10): the same figure read across
+  Christianity, Judaism, and Islam (who he is and what happened to him, including the
+  crucifixion, historically secure to most scholars but denied on the mainstream Islamic
+  reading of Q 4:157-158), ranking no answer. Also `tanakh compares_with tawrat`.
+
+### Notes
+- The dataset is now 165 entities: 106 Islamic, 55 Christian, 3 Jewish, and 1 in the
+  philosophy namespace, 163 `reviewed` and 2 `verified`.
+- MINOR release. The enum gains `judaism` (additive, backward compatible), so
+  `schema_version` moves 0.4.0 to 0.5.0 while existing entities remain valid.
+- The historical-Jesus entry passed a strict sentence-by-sentence neutrality audit: it
+  records the resurrection, divinity, and messiahship only as attributed confessions and
+  takes no editorial position on them.
+
 ## [0.6.0] - 2026-07-19
 
 A third namespace opens for the shared philosophical substrate, the Christian
