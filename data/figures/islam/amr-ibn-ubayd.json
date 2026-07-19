@@ -10,7 +10,7 @@
   "roles": ["theologian", "ascetic"],
   "summary": "Amr ibn Ubayd (d. 761 CE) was an early Basran ascetic and theologian counted among the founders of the Mu'tazila. He was associated with the circle of al-Hasan al-Basri and with Wasil ibn Ata, and some classical reports credit him alongside Wasil with the movement's initial 'withdrawal' (i'tizal).",
   "description": "Amr ibn Ubayd belonged to the study circle of al-Hasan al-Basri in Basra and is remembered in the sources both for pronounced asceticism and piety and for his role in the early formation of Mu'tazili theology. Classical accounts link him closely with Wasil ibn Ata, his contemporary, and some heresiographical reports name the two together as the figures whose separation from al-Hasan's circle gave the Mu'tazila its name, though the details and the attribution of the term i'tizal vary across the sources. He is presented as an advocate of human free will and moral responsibility within the debate over qadar, holding that God's justice requires genuine human agency, and after Wasil's death he is reported to have taken a leading role among the group. Later tradition also preserves reports questioning his reliability as a transmitter of hadith, reflecting the tension between the emerging rationalist theologians and the traditionist circles; the entry records this as attributed testimony rather than a settled judgment.",
-  "editorial_notes": "The death date is given as 761 CE (144 AH) following the common report; the birth year is not securely recorded and is left blank. The claim that Amr, alongside Wasil, is the origin of the name 'Mu'tazila' and of the term i'tizal is contested in the classical sources, which offer several competing accounts; the summary and description therefore attribute it ('some reports credit') rather than assert it. The later hadith criticism of Amr is itself a partisan tradition and is presented as attributed testimony per neutrality principles #1 and #2. Relations record contemporaneity with wasil-ibn-ata and study under al-hasan-al-basri as reported, and thematic association with qadar. Sourcing triangulates three lenses per principle #8: (a) a modern Western academic history (van Ess, Theology and Society, vol. 2, which treats Amr, Wasil, and al-Hasan at length); (b) a classical Muslim heresiography (al-Shahrastani, al-Milal wa-l-Nihal); (c) a peer-reviewed article by a contemporary Muslim scholar on the pre-Ma'mun Mu'tazila. Encyclopedia and tertiary web sources were excluded per principle #9. Confidence is honest: medium for the academic and classical sources, whose general framing is well established, and lower where specific early details are disputed.",
+  "editorial_notes": "The death date is given as 761 CE (144 AH) following the common report; the birth year is not securely recorded and is left blank. The claim that Amr, alongside Wasil, is the origin of the name 'Mu'tazila' and of the term i'tizal is contested in the classical sources, which offer several competing accounts; the summary and description therefore attribute it ('some reports credit') rather than assert it. The later hadith criticism of Amr is itself a partisan tradition and is presented as attributed testimony per neutrality principles #1 and #2. Relations record contemporaneity with wasil-ibn-ata and study under al-hasan-al-basri as reported, and thematic association with qadar. Sourcing triangulates three lenses per principle #8: (a) a modern Western academic history (van Ess, Theology and Society, vol. 2, which treats Amr, Wasil, and al-Hasan at length); (b) a classical Muslim heresiography (al-Shahrastani, al-Milal wa-l-Nihal); (c) a peer-reviewed article on the pre-Ma'mun Mu'tazila. Citation completeness fix (2026-07-19, peer review): the European Scientific Journal source previously omitted authors, volume, issue, and year; these were completed and web-verified as Mohammad Alesa and Khaled Aldafheeri, European Scientific Journal 12, no. 32 (2016), confirmed via the journal's article record. Encyclopedia and tertiary web sources were excluded per principle #9. Confidence is honest: medium for the academic and classical sources, whose general framing is well established, and lower for the ESJ article (an open-access journal of variable editorial rigour), retained as a low-rated third lens, and lower still where specific early details are disputed.",
   "lifespan": {
     "death": 761,
     "note": "Died 144/761 as commonly reported. Birth year not securely recorded."
@@ -36,15 +36,15 @@
       "confidence": "medium"
     },
     {
-      "citation": "Al-Mu'tazila Before Caliph Al-Ma'mun's Era. European Scientific Journal (ESJ) peer-reviewed article treating the early Mu'tazila, including Amr ibn Ubayd and Wasil ibn Ata in the circle of al-Hasan al-Basri.",
-      "url": "https://eujournal.org/index.php/esj/article/view/8399/8037",
+      "citation": "Alesa, Mohammad, and Khaled Aldafheeri. \"Al-Mu'tazila Before Caliph Al-Ma'mun's Era.\" European Scientific Journal 12, no. 32 (2016). Peer-reviewed article treating the early Mu'tazila, including Amr ibn Ubayd and Wasil ibn Ata in the circle of al-Hasan al-Basri.",
+      "url": "https://eujournal.org/index.php/esj/article/view/8399",
       "license": "Open access, cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "low"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-07-19"
 }

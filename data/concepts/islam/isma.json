@@ -15,7 +15,7 @@
   "category": "prophetology",
   "summary": "Isma is the doctrine of divine protection from sin and error, applied across Islam to the prophets, who are held to be preserved (ma'sum) in transmitting revelation. In Shi'i theology it is extended to the Imams.",
   "description": "Isma (ʿiṣma) is the theological doctrine of divine protection from sin and error. It is applied across Islam to the prophets, who are held to be preserved (ma'sum) in their reception and transmission of revelation and, in the majority view, safeguarded from grave sin. Among Sunni theologians the precise scope and degree of prophetic sinlessness was debated: for example whether protection extends to the period before as well as after the call to prophethood, whether it covers minor as well as major sins, and whether it excludes inadvertent as well as deliberate lapses. In Shi'i, and especially Twelver, theology the doctrine is extended to the Imams, who alongside the Prophet and Fatima are regarded as the Infallibles (ma'sumun); this extension is a position of Shi'i kalam and is recorded here as attributed, not adjudicated. Isma is thus best presented as a concept shared across the tradition in its application to prophets, internally contested as to its exact scope, and extended in scope by Shi'i theology.",
-  "editorial_notes": "This entry states isma as a doctrine held across Islam for prophets and, per neutrality principles #1 and #2, presents both the Sunni internal debate over the scope of prophetic sinlessness and the Shi'i extension to the Imams as attributed positions rather than adjudicating a correct view. Sources triangulate three lenses per principle #8: (a) a modern Western academic monograph, Maria Dakake's The Charismatic Community, on the spiritual authority (walaya) of the Shi'i Imams and community, the matrix in which imamate isma sits (verified via the SUNY Press page; note the book foregrounds walaya/charisma rather than the word infallibility, so it is cited as context on the divinely guided Imam); (b) a classical Muslim primary text, al-Sharif al-Murtada's Tanzih al-Anbiya, a foundational Imami kalam treatise arguing the isma of the prophets, verified as a real, classical, on-topic work though the exact modern edition line (Dar al-Adwa, 1989) could be corroborated but not fetched from a single authoritative catalog, so it is cited at medium confidence with that caveat; (c) a contemporary Muslim scholarly work, Tabataba'i's Shi'ite Islam (trans. and ed. Seyyed Hossein Nasr), which discusses prophetic and imamate isma directly (verified via SUNY Press). All lenses were web-verified; nothing was fabricated. Confidence is medium as relevant passages were not read line-by-line.",
+  "editorial_notes": "This entry states isma as a doctrine held across Islam for prophets and, per neutrality principles #1 and #2, presents both the Sunni internal debate over the scope of prophetic sinlessness and the Shi'i extension to the Imams as attributed positions rather than adjudicating a correct view. Sourcing per principle #8, with a peer-review follow-up on 2026-07-19: (a) the Western academic lens on isma itself is Shahab Ahmed's Before Orthodoxy: The Satanic Verses in Early Islam (Harvard University Press, 2017), which treats prophetic infallibility directly and traces how the settled Sunni doctrine of an infallible Prophet emerged (web-verified: author, title, publisher, year, and its isma focus confirmed against the Harvard University Press listing); this also supplies the Sunni-side anchor so the entry is not Shi'i-weighted. Maria Dakake's The Charismatic Community is retained as context on the walaya/spiritual-authority matrix in which imamate isma sits, but the peer reviewer correctly noted that it foregrounds walaya rather than isma as such, so it is no longer the load-bearing academic source for isma and is labelled as context only. (b) The classical Muslim primary text is al-Sharif al-Murtada's Tanzih al-Anbiya (wa-l-a'imma), a foundational Imami kalam treatise arguing the isma of the prophets; the edition line has been reconfirmed as Dar al-Adwa, Beirut (2nd ed., 1409/1989, with an earlier 1982 printing). (c) The contemporary Muslim scholarly lens is Tabataba'i's Shi'ite Islam (trans. and ed. Seyyed Hossein Nasr, SUNY Press), which discusses prophetic and imamate isma directly. All sources were web-verified; nothing was fabricated. The entry now carries a Sunni-focused academic anchor (Ahmed) alongside the Shi'i-tradition primary text and contemporary Shi'i scholar, correcting the earlier Shi'i weighting. Confidence is medium as relevant passages were not read line-by-line.",
   "relations": [
     {
       "type": "related_to",
@@ -34,16 +34,23 @@
   },
   "sources": [
     {
-      "citation": "Dakake, Maria Massi. The Charismatic Community: Shi'ite Identity in Early Islam. Albany: State University of New York Press, 2007. An academic monograph on the walaya and spiritual authority of the Shi'i Imams and community, the theological setting of imamate isma; cited as the Western academic lens. Foregrounds walaya/charisma rather than isma as such; relevant passages not read line-by-line.",
+      "citation": "Dakake, Maria Massi. The Charismatic Community: Shi'ite Identity in Early Islam. Albany: State University of New York Press, 2007. An academic monograph on the walaya and spiritual authority of the Shi'i Imams and community, the theological setting in which imamate isma sits; cited as context on the divinely guided Imam, not as the load-bearing source on isma. Foregrounds walaya/charisma rather than isma as such; relevant passages not read line-by-line.",
       "url": "https://sunypress.edu/Books/T/The-Charismatic-Community",
       "license": "Proprietary; cited for reference.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
-      "citation": "al-Sharif al-Murtada, Ali ibn al-Husayn al-Musawi (d. 436/1044). Tanzih al-Anbiya (The Exoneration of the Prophets). Beirut: Dar al-Adwa, 1989. A foundational Imami kalam treatise arguing the isma of the prophets by resolving Qur'anic passages that appear to impute error to them. Classical Muslim primary source; work verified, exact edition line corroborated but not confirmed against a single authoritative catalog.",
-      "license": "Public-domain classical text; modern edition proprietary. Cited for reference; edition line to be reconfirmed.",
-      "accessed": "2026-07-18",
+      "citation": "al-Sharif al-Murtada, Ali ibn al-Husayn al-Musawi (d. 436/1044). Tanzih al-Anbiya wa-l-a'imma (The Exoneration of the Prophets and the Imams). Beirut: Dar al-Adwa, 2nd ed., 1409/1989 (an earlier Dar al-Adwa printing appeared in 1982). A foundational Imami kalam treatise, cast in question-and-answer form, arguing the isma of the prophets (and, in the Imami extension, the Imams) by resolving Qur'anic passages that appear to impute error to them. Classical Muslim primary source; edition line reconfirmed against the Dar al-Adwa Beirut printings. Relevant passages not read line-by-line.",
+      "license": "Public-domain classical text; modern edition proprietary. Cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ahmed, Shahab. Before Orthodoxy: The Satanic Verses in Early Islam. Cambridge, MA: Harvard University Press, 2017 (xii + 336 pp.). An academic monograph tracing how the doctrine of prophetic infallibility (isma) took hold: it argues that early Muslims accepted the Satanic-verses episode as historical, and that the later ahl al-hadith, committed to portraying an infallible Prophet, worked to discredit it, so that the settled Sunni doctrine of prophetic isma emerged over time. Added as the Western academic lens that treats isma itself (rather than walaya) and as a Sunni-side anchor on prophetic infallibility. Relevant passages not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674047426",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
       "confidence": "medium"
     },
     {
@@ -54,8 +61,8 @@
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-07-19"
 }

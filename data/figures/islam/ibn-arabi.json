@@ -10,7 +10,7 @@
   "roles": ["sufi", "metaphysician", "theologian", "poet"],
   "summary": "Ibn Arabi (1165-1240 CE) was an Andalusian Sufi and metaphysician, honoured in much of the later tradition as al-Shaykh al-Akbar ('the Greatest Master'). His vast corpus, above all the Futuhat al-Makkiyya and the Fusus al-Hikam, is associated with the doctrine later termed wahdat al-wujud ('the oneness of being'), a teaching both deeply revered and sharply criticized within Islam.",
   "description": "Ibn Arabi was born in Murcia in al-Andalus and travelled through North Africa and the Islamic east, settling finally in Damascus, where he died. He left an enormous body of work; the multi-volume al-Futuhat al-Makkiyya ('The Meccan Openings') and the shorter Fusus al-Hikam ('The Ringstones of Wisdom', also rendered 'The Bezels of Wisdom') are the most studied. His thought is centrally concerned with the relation of God to the world, the divine names, the perfect human being (al-insan al-kamil), and the imaginal realm; the later tradition and modern scholarship associate his metaphysics with the doctrine termed wahdat al-wujud, the oneness or unity of being, although the phrase itself is largely the coinage of later interpreters rather than his own consistent term. Around this teaching a major and enduring controversy formed within Islam. A school of interpreters and defenders, including Sadr al-Din al-Qunawi and later commentators, elaborated and defended his metaphysics, and his influence on Sufi and philosophical thought across the later Islamic world was immense. At the same time his doctrine drew sharp criticism, most prominently from the Hanbali scholar Ibn Taymiyya, who is reported to have charged that wahdat al-wujud collapsed the distinction between Creator and creation and to have judged aspects of it as unbelief; the interpretation of what Ibn Arabi intended, and whether his critics read him rightly, remains contested among Muslim scholars and in modern academic study. This entry records both the veneration and the criticism as attributed positions and does not adjudicate between them.",
-  "editorial_notes": "Birth and death (560/1165 - 638/1240) are as commonly reported. Ibn Arabi is among the most contested figures in the tradition: revered as al-Shaykh al-Akbar by much of later Sufism and sharply criticized by others, above all Ibn Taymiyya. Per neutrality principles #2 and #7 the entry attributes both the veneration and the wahdat al-wujud controversy and does not resolve it; the note that 'wahdat al-wujud' is largely a later term rather than Ibn Arabi's own is a scholarly observation, flagged as such. The 'refuted' relation to ibn-taymiyya records an attributed opposition, not the editor's verdict on who was right. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph drawing on the primary texts (Chittick, SUNY 1989), (b) Ibn Arabi's own Fusus al-Hikam in Dagli's scholarly translation, and (c) a peer-reviewed study of Ibn Taymiyya's critique of wahdat al-wujud (Kanz Philosophia), included to represent the contested reception. Relations to sufism, wahdat-al-wujud, and al-insan-al-kamil are to entities that may not yet exist in the dataset (dangling targets permitted); tawhid and ibn-taymiyya exist. Confidence is medium: sources verified to exist and be on-topic via publisher catalogues and the journal's DOAJ listing, but relevant passages not read line-by-line.",
+  "editorial_notes": "Birth and death (560/1165 - 638/1240) are as commonly reported. Ibn Arabi is among the most contested figures in the tradition: revered as al-Shaykh al-Akbar by much of later Sufism and sharply criticized by others, above all Ibn Taymiyya. Per neutrality principles #2 and #7 the entry attributes both the veneration and the wahdat al-wujud controversy and does not resolve it; the note that 'wahdat al-wujud' is largely a later term rather than Ibn Arabi's own is a scholarly observation, flagged as such. The 'refuted' relation to ibn-taymiyya records an attributed opposition, not the editor's verdict on who was right. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph drawing on the primary texts (Chittick, SUNY 1989), (b) Ibn Arabi's own Fusus al-Hikam in Dagli's scholarly translation, and (c) a peer-reviewed study of Ibn Taymiyya's critique of wahdat al-wujud (Kanz Philosophia), included to represent the contested reception. Relations to sufism, wahdat-al-wujud, and al-insan-al-kamil are to entities that may not yet exist in the dataset (dangling targets permitted); tawhid and ibn-taymiyya exist. Citation completeness fix (2026-07-19, peer review): the Kanz Philosophia journal source previously omitted authors, volume, issue, and pages; these were completed and web-verified as Lukmanul Hakim, Ahmad Ahmad, and Rahmad Tri Hadi, vol. 10, no. 2 (December 2024): 229-250, confirmed via the journal's article record and the DOAJ listing. The Fusus (Dagli) url, previously a retailer link (islamicbookstore.com), was replaced with a stable WorldCat catalogue record (OCLC 61243121) and the imprint corrected to Great Books of the Islamic World (distributed by Kazi Publications). Confidence is medium: sources verified to exist and be on-topic via the journal record, the DOAJ listing, and publisher/WorldCat catalogues, but relevant passages not read line-by-line.",
   "lifespan": {
     "birth": 1165,
     "death": 1240,
@@ -32,22 +32,22 @@
       "confidence": "medium"
     },
     {
-      "citation": "Ibn al-'Arabi, Muhyi al-Din. The Ringstones of Wisdom (Fusus al-Hikam). Translated with introduction and glosses by Caner K. Dagli. Chicago: Kazi Publications, 2004. Primary source: Ibn Arabi's own work.",
-      "url": "https://www.islamicbookstore.com/b8452.html",
+      "citation": "Ibn al-'Arabi, Muhyi al-Din. The Ringstones of Wisdom (Fusus al-Hikam). Translated with introduction and glosses by Caner K. Dagli. Great Books of the Islamic World; distributed by Kazi Publications, Chicago, 2004. Primary source: Ibn Arabi's own work.",
+      "url": "https://search.worldcat.org/title/61243121",
       "license": "Proprietary translation of a classical text; cited for reference (relevant passages not read line-by-line).",
       "accessed": "2026-07-19",
       "confidence": "medium"
     },
     {
-      "citation": "\"Ibn Taymiyyah's Philosophical Critique to Ibn 'Arabi's Wahdat al-Wujud Thought.\" Kanz Philosophia: A Journal for Islamic Philosophy and Mysticism. Peer-reviewed study of the contested reception of Ibn Arabi's doctrine.",
+      "citation": "Hakim, Lukmanul, Ahmad Ahmad, and Rahmad Tri Hadi. \"Ibn Taymiyyah's Philosophical Critique to Ibn 'Arabi's Wahdat al-Wujud Thought.\" Kanz Philosophia: A Journal for Islamic Philosophy and Mysticism 10, no. 2 (2024): 229-250. Peer-reviewed study of the contested reception of Ibn Arabi's doctrine.",
       "url": "https://journal.sadra.ac.id/ojs/index.php/kanz/article/view/366",
       "license": "Open access (DOAJ-listed journal); cited for reference.",
       "accessed": "2026-07-19",
       "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-07-19"
 }

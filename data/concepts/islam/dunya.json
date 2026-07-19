@@ -10,7 +10,7 @@
   "category": "ethics",
   "summary": "Al-dunya (\"the nearer\" or \"lower\") is the Islamic term for this world, the present life, defined in contrast to al-akhira, the hereafter. In the Qur'an and later ethical and devotional literature it is characteristically framed as the transient, testing world whose goods are not to be preferred to the enduring life to come.",
   "description": "Al-dunya, from a root meaning \"nearer\" or \"lower,\" designates the present world and the earthly life, and stands in the Qur'an as the standing counterpart to al-akhira, the hereafter. The pairing is one of the recurrent structures of Qur'anic ethics: this life is described as near and passing, and the life to come as distant and enduring, so that the two are set against each other as the transient against the lasting. The Qur'an frames al-dunya not as evil in itself but as a place of testing and provision, whose pleasures and adornments are real yet liable to become a delusion when preferred to the hereafter; a family of parables likens worldly life to vegetation that flourishes after rain and then withers. Later ethical and devotional literature developed this framing into a sustained discipline of detachment. Al-Ghazali, in the Book of the Censure of This World within his Ihyaʾ ʿUlum al-Din, gathers scriptural and traditional material on the perils of attachment to the world and offers a series of metaphors for its deceptive character, while the wider tradition held that engagement with al-dunya is nonetheless the necessary arena in which deeds are sown for al-akhira. The concept thus functions less as a cosmological locus than as an ethical orientation: the disposition of the believer toward the transient world in light of the enduring one.",
-  "editorial_notes": "This entry treats al-dunya primarily as an ethical and devotional concept (hence category 'ethics') defined by its contrast with al-akhira, to which it is linked as contrasts_with, mirroring the reciprocal link already present in the akhira entry. The characteristic framing of the world as transient and as a place of testing is presented as the Qur'anic and traditional framing, attributed rather than asserted as fact, per neutrality principle #1, and the devotional register of the sources (e.g. al-Ghazali's censure of the world) is reported descriptively without the editor adopting it, per principle #4. Sourcing (principle #8) pairs a Western academic monograph (Smith and Haddad, which treats the dunya / akhira contrast within Islamic eschatology) with the tradition's own classical primary text (al-Ghazali's Kitab Dhamm al-dunya, Book 26 of the Ihyaʾ, in the Fons Vitae translation). A modern/contemporary Muslim scholarly lens dedicated to al-dunya as such is flagged as not yet secured and is a gap to close before promotion beyond draft; Fazlur Rahman's Major Themes treats the dunya / akhira relation within its eschatology chapter and is a candidate. Confidence is honest: the primary text and monograph are cited at medium confidence as their relevant passages were not read line-by-line here.",
+  "editorial_notes": "This entry treats al-dunya primarily as an ethical and devotional concept (hence category 'ethics') defined by its contrast with al-akhira, to which it is linked as contrasts_with, mirroring the reciprocal link already present in the akhira entry. The characteristic framing of the world as transient and as a place of testing is presented as the Qur'anic and traditional framing, attributed rather than asserted as fact, per neutrality principle #1, and the devotional register of the sources (e.g. al-Ghazali's censure of the world) is reported descriptively without the editor adopting it, per principle #4. Sourcing follow-up (2026-07-19, peer-review gaps): the peer reviewer flagged that the Smith and Haddad monograph is about death and resurrection and is off-topic as the academic anchor for an ethics concept. A better academic anchor has been added, Leah Kinberg's peer-reviewed article \"What Is Meant by Zuhd\" (Studia Islamica 61, 1985), which treats zuhd fi l-dunya, the ascetic devaluing of worldly life against the hereafter, i.e. the dunya/akhira contrast as an ethical orientation, exactly the framing of this entry (web-verified: author, title, journal, volume, year, and topical fit confirmed). Smith and Haddad is retained only as secondary context on where the dunya/akhira pairing sits in the eschatological picture, not as the load-bearing academic source. A modern/contemporary Muslim scholarly lens has also been added, Fazlur Rahman's Major Themes of the Qur'an, which treats the transient world against the enduring hereafter (web-verified: the fit is thematic across its chapters on man and on eschatology rather than a chapter dedicated to al-dunya, so it is cited at medium confidence with that caveat). The entry now triangulates three lenses per principle #8: Western academic (Kinberg), the tradition's own classical primary text (al-Ghazali's Kitab Dhamm al-dunya, Book 26 of the Ihyaʾ, in the Fons Vitae translation), and a modern Muslim scholar (Rahman). Confidence is honest: sources are cited at medium confidence as their relevant passages were not read line-by-line here.",
   "relations": [
     { "type": "contrasts_with", "target": "akhira", "note": "Al-dunya, the present world, is defined against al-akhira, the hereafter." },
     { "type": "related_to", "target": "qiyama", "note": "The present world ends at the Day of Resurrection, when the hereafter begins." },
@@ -23,7 +23,7 @@
   },
   "sources": [
     {
-      "citation": "Smith, Jane Idleman, and Yvonne Yazbeck Haddad. The Islamic Understanding of Death and Resurrection. Albany: State University of New York Press, 1981; repr. Oxford University Press, 2002. An academic monograph on Islamic eschatology that situates al-dunya, the present life, in its Qur'anic and theological contrast with al-akhira, the hereafter, as the transient world set against the enduring one. Cited at medium confidence as its relevant passages on the dunya / akhira contrast were not read line-by-line here.",
+      "citation": "Smith, Jane Idleman, and Yvonne Yazbeck Haddad. The Islamic Understanding of Death and Resurrection. Albany: State University of New York Press, 1981; repr. Oxford University Press, 2002. An academic monograph on Islamic eschatology. Retained here as secondary context on where the dunya/akhira pairing sits in the eschatological picture, not as the load-bearing academic source for al-dunya as an ethical concept (see Kinberg). Cited at medium confidence as its relevant passages were not read line-by-line here.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
@@ -33,10 +33,24 @@
       "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
       "accessed": "2026-07-18",
       "confidence": "medium"
+    },
+    {
+      "citation": "Kinberg, Leah. \"What Is Meant by Zuhd.\" Studia Islamica 61 (1985): 27-44. A peer-reviewed study of the concept of zuhd (renunciation, ascetic detachment) in early Islamic ethics, analysing zuhd fi l-dunya, the disciplined devaluing of worldly life (al-dunya) in favour of the hereafter (al-akhira). Added as the academic anchor treating the dunya/akhira contrast as an ethical orientation rather than an eschatological event. Cited for reference; relevant passages not read line-by-line.",
+      "url": "https://www.jstor.org/stable/1595412",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'an. Minneapolis and Chicago: Bibliotheca Islamica, 1980; 2nd ed. Chicago: University of Chicago Press, 1994 (repr. 2009). In its treatment of Qur'anic themes (notably the chapters on man and on eschatology), this study by a leading modern Muslim scholar sets the transient life of this world (al-dunya) against the enduring hereafter (al-akhira) and treats the believer's orientation between them. Added as the modern/contemporary Muslim scholarly lens; cited at medium confidence, as the fit is thematic rather than a chapter dedicated to al-dunya as such, and its relevant passages were not read line-by-line here.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-07-19"
 }

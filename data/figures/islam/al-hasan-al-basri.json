@@ -10,7 +10,7 @@
   "roles": ["ascetic", "preacher", "traditionist"],
   "summary": "Al-Hasan al-Basri (c. 642–728 CE) was an early ascetic, preacher, and traditionist of Basra, remembered as a central figure of piety in the first Islamic century. His legacy is bound up with the early debates over divine determining (qadar) and human responsibility, and later tradition places the origins of the Mu'tazila in his teaching circle.",
   "description": "Al-Hasan al-Basri was one of the most prominent religious authorities of Basra in the Umayyad period, active as a preacher (khatib), transmitter of prophetic reports, and exemplar of ascetic piety (zuhd) centered on fear of God, self-examination, and detachment from worldly attachments. His figure became a focal point around which many later religious currents claimed descent, so that reports about him accumulated across Sunni piety literature, Sufi genealogies, and theological histories. A letter (risala) on qadar addressed to the Umayyad caliph Abd al-Malik is attributed to him; if authentic it would place him among those who affirmed human responsibility for acts against a strong predestinarian reading, and the attribution and interpretation of this epistle are debated in modern scholarship. Later heresiographical tradition frames the Mu'tazila as arising from his circle, reporting that his associate Wasil ibn Ata (and in variant accounts Amr ibn Ubayd) withdrew (i'tizal) over the status of the grave sinner; the historicity of this founding narrative is contested. Because so much of what is reported about al-Hasan reflects the concerns of later groups claiming his authority, historians treat the layers of his legacy with caution, distinguishing the historical figure from the composite image built around him.",
-  "editorial_notes": "Dates are commonly given as 21/642 to 110/728 and are treated as approximate. The attribution of the Risala fi al-Qadar to al-Hasan is genuinely disputed: some scholars (e.g. Ritter, van Ess) accept it, while others (e.g. Michael Cook, and cautiously Suleiman Mourad) question its authenticity; the entry reports the letter as attributed and names the dispute without adjudicating, per neutrality principles #1 and #2. The relation to Wasil ibn Ata is recorded as 'teacher_of' at the level of the reported teaching circle, mirroring the reciprocal 'student_of' relation in the existing wasil-ibn-ata entry; both entries flag that the founding narrative of the Mu'tazila is contested. Sources triangulate per neutrality principle #8: (a) a modern Western academic monograph (Mourad) that specifically studies the formation of al-Hasan's legacy; (b) a peer-reviewed journal article (Schwarz) on the qadar epistle; (c) the classical primary text of the attributed Risala itself. Encyclopedias and tertiary web sources were excluded per neutrality principle #9. Confidence ratings reflect that the Risala's authenticity is uncertain (rated low) while the modern studies are rated medium.",
+  "editorial_notes": "Dates are commonly given as 21/642 to 110/728 and are treated as approximate. The attribution of the Risala fi al-Qadar to al-Hasan is genuinely disputed: some scholars (e.g. Ritter, van Ess) accept it, while others (e.g. Michael Cook, and cautiously Suleiman Mourad) question its authenticity; the entry reports the letter as attributed and names the dispute without adjudicating, per neutrality principles #1 and #2. The relation to Wasil ibn Ata is recorded as 'teacher_of' at the level of the reported teaching circle, mirroring the reciprocal 'student_of' relation in the existing wasil-ibn-ata entry; both entries flag that the founding narrative of the Mu'tazila is contested. Sources triangulate per neutrality principle #8: (a) a modern Western academic monograph (Mourad) that specifically studies the formation of al-Hasan's legacy; (b) a peer-reviewed journal article on the qadar epistle; (c) the classical primary text of the attributed Risala itself. Encyclopedias and tertiary web sources were excluded per neutrality principle #9. Confidence ratings reflect that the Risala's authenticity is uncertain (rated low) while the modern studies are rated medium. Citation fix (2026-07-19, peer review): the journal article at DOI 10.1111/muwo.12039 was previously mis-cited to Michael Schwarz at pages 66-83; the actual peer-reviewed article is by Feryal Salem, The Muslim World 104, no. 1-2 (2014): 198-219, verified via the Wiley DOI record and the article's indexed listings (a separate Internet Archive scan carries a Schwarz attribution, which appears to be the source of the earlier error). The Mourad source url was corrected from a Cambridge review-of-the-book page to the Brill title page (https://brill.com/display/title/12063), verified as the publisher record for the monograph.",
   "lifespan": {
     "birth": 642,
     "death": 728,
@@ -24,13 +24,13 @@
   "sources": [
     {
       "citation": "Mourad, Suleiman Ali. Early Islam between Myth and History: Al-Ḥasan al-Baṣrī (d. 110H/728CE) and the Formation of His Legacy in Classical Islamic Scholarship. Islamic Philosophy, Theology and Science 62. Leiden: Brill, 2006.",
-      "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/D92FBD99DB28D47117D2699C50CE90CE",
+      "url": "https://brill.com/display/title/12063",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
       "confidence": "medium"
     },
     {
-      "citation": "Schwarz, Michael. \"Freewill, Qadar, and Kasb in the Epistle of Ḥasan al-Baṣrī to ʿAbd al-Malik.\" The Muslim World 104, no. 1-2 (2014): 66-83.",
+      "citation": "Salem, Feryal. \"Freewill, Qadar, and Kasb in the Epistle of Ḥasan al-Baṣrī to ʿAbd al-Malik.\" The Muslim World 104, no. 1-2 (2014): 198-219.",
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/muwo.12039",
       "license": "Proprietary, cited for reference; text not reproduced.",
       "accessed": "2026-07-18",
@@ -43,8 +43,8 @@
       "confidence": "low"
     }
   ],
-  "status": "draft",
+  "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-07-19"
 }
