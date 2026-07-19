@@ -1,0 +1,52 @@
+{
+  "id": "tawhid-al-uluhiyya",
+  "tradition": "islam",
+  "names": {
+    "primary": "Tawhid al-Uluhiyya",
+    "original": "توحيد الألوهية",
+    "transliteration": "tawḥīd al-ulūhiyya",
+    "aliases": ["Tawhid al-Uluhiyyah", "oneness of divinity", "oneness of worship", "tawhid al-ibada", "tawhid al-'ibada", "unity of worship", "oneness of Godhood"]
+  },
+  "category": "theology proper (divine oneness)",
+  "summary": "Tawhid al-uluhiyya (the oneness of divinity, also called tawhid al-ibada, the oneness of worship) is the category holding that God alone may be made the object of worship. In the threefold division of tawhid prominent in the Salafi/Wahhabi tradition, it is the component distinguished from the oneness of lordship (tawhid al-rububiyya) and the oneness of the divine names and attributes (tawhid al-asma' wa-l-sifat), and directing any act of worship to other than God is on this framing the essence of shirk (associating partners with God).",
+  "description": "Tawhid al-uluhiyya (from ilah, 'god' or 'object of worship', hence 'the oneness of divinity'), also termed tawhid al-ibada ('the oneness of worship'), is the affirmation that worship in all its forms, supplication, sacrifice, vows, reliance, and the like, is owed to God alone and may not be directed to any created thing. In the threefold scheme of tawhid that became characteristic of the modern Salafi/Wahhabi tradition, tawhid is divided into three: tawhid al-rububiyya (the oneness of lordship, that God alone is creator, sustainer, and disposer of the cosmos), tawhid al-uluhiyya (that God alone is to be worshipped), and tawhid al-asma' wa-l-sifat (the oneness of the divine names and attributes, affirmed as revealed without figurative reinterpretation or likening to creatures). On this framing the first category, lordship, is held to be widely acknowledged even by those the tradition regards as idolaters, so that the decisive test of true monotheism is the second: whether worship is reserved for God alone. Muhammad ibn 'Abd al-Wahhab made tawhid al-uluhiyya the organizing concern of his treatise Kitab al-Tawhid, arguing that many nominal Muslims of his time had fallen into shirk by directing devotion (through intercession at graves, veneration of saints, vows to other than God, and similar practices) to created intermediaries, and that such acts nullify the worshipper's tawhid whatever their profession of God's lordship. Modern scholarship (Henri Lauziere and others) traces the fixed threefold division to the later Athari/Salafi reception rather than to a settled formula in Ibn Taymiyya's own writings: Ibn Taymiyya elaborated the substance of the rububiyya/uluhiyya distinction, and the third named category, tawhid al-asma' wa-l-sifat, is commonly credited to Ibn 'Abd al-Wahhab. The threefold scheme is presented here as the framing of the Salafi tradition on its own terms and by its own reception; other Sunni theological currents (Ash'ari and Maturidi) do not organize tawhid in this way and some contest the division's usefulness or its polemical deployment, and those disagreements are named rather than settled.",
+  "editorial_notes": "Per neutrality principles #1, #2, and #7, this entry presents the threefold division of tawhid as the Salafi/Wahhabi tradition's own framing and reception, attributed to it, rather than as the settled structure of Islamic theology as such. The tradition's self-understanding, that reserving worship for God alone is the decisive test of monotheism and that directing worship to other than God is the core of shirk, is reported as its attributed position, not endorsed; correspondingly, the fact that other Sunni schools (Ash'ari, Maturidi) do not adopt the threefold scheme, and that some critics regard the division as a later systematization or a polemical instrument, is named without adjudication. The attribution of the fixed threefold scheme to the later Athari/Salafi reception (with the third category credited to Ibn 'Abd al-Wahhab, following Lauziere), rather than to a fixed formula in Ibn Taymiyya, is kept consistent with the ibn-taymiyya and salafiyya entries written in the same corpus. This entry closes the tawhid-al-uluhiyya dangling target held by salafiyya (relation 'holds'). Relation targets tawhid, shirk, salafiyya, and muhammad-ibn-abd-al-wahhab are existing entries; tawhid-al-rububiyya and al-asma-wa-l-sifat may be dangling and are allowed. Per neutrality principle #8 the sources triangulate three lenses: a modern Western academic study (Lauziere, The Making of Salafism), the tradition's foundational primary text (Ibn 'Abd al-Wahhab, Kitab al-Tawhid), and a contemporary Muslim scholar writing academically on Salafi doctrine (Qadhi, 'On Salafi Islam'). All three were web-verified as existing and on-topic; none was read line by line in this pass, so confidence is set to medium.",
+  "relations": [
+    { "type": "part_of", "target": "tawhid", "note": "One of the three components of tawhid in the Salafi/Wahhabi threefold division, alongside tawhid al-rububiyya and tawhid al-asma' wa-l-sifat." },
+    { "type": "contrasts_with", "target": "shirk", "note": "Directing any act of worship to other than God is, on this framing, the essence of shirk (associating partners with God); tawhid al-uluhiyya is defined against it." },
+    { "type": "related_to", "target": "tawhid-al-rububiyya", "note": "Distinguished from the oneness of lordship: the tradition holds that acknowledging God as sole creator (rububiyya) does not by itself make one a true monotheist unless worship too is reserved for God. Target entry may not yet be written." },
+    { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "The third category of the threefold scheme, the oneness of the divine names and attributes, affirmed as revealed without ta'wil; often credited to Ibn 'Abd al-Wahhab." },
+    { "type": "articulated_by", "target": "muhammad-ibn-abd-al-wahhab", "note": "Made the organizing concern of his Kitab al-Tawhid, which classes devotion directed to created intermediaries as shirk." },
+    { "type": "part_of", "target": "salafiyya", "note": "The threefold scheme centring tawhid al-uluhiyya is characteristic of the modern Salafi/Wahhabi tradition, which centres it in creed and da'wa." }
+  ],
+  "historical_period": {
+    "start": 1740,
+    "note": "The substance of the rububiyya/uluhiyya distinction is medieval (elaborated by Ibn Taymiyya, d. 728/1328), but the fixed threefold scheme centring tawhid al-uluhiyya as a doctrinal test is associated with Muhammad ibn 'Abd al-Wahhab's Kitab al-Tawhid (mid-18th c.) and the later Salafi reception, and remains central to that tradition today. Start year is approximate."
+  },
+  "sources": [
+    {
+      "citation": "Lauziere, Henri. The Making of Salafism: Islamic Reform in the Twentieth Century. New York: Columbia University Press, 2016. Traces the fixed threefold division of tawhid to the later Salafi reception, holding that Ibn Taymiyya elaborated the first two types and crediting the third (tawhid al-asma' wa-l-sifat) to Ibn 'Abd al-Wahhab. Specific claims not page-verified for this draft.",
+      "url": "https://cup.columbia.edu/book/the-making-of-salafism/9780231175500/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn 'Abd al-Wahhab, Muhammad (d. 1206/1792). Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The foundational treatise of the Najdi revival, organized around tawhid al-uluhiyya (the reservation of worship to God alone) and classing devotion directed to created intermediaries as shirk. Widely available in English translation. Classical primary source; not read line by line for this draft.",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Qadhi, Yasir. 'On Salafi Islam.' MuslimMatters, 2014. A contemporary scholar (Yale PhD on Ibn Taymiyya's Dar' al-Ta'arud) writing academically on Salafi doctrine, including the threefold tawhid scheme and the centrality of tawhid al-uluhiyya to Salafi creed. Cited as the contemporary Muslim-scholar lens; treated as a scholarly essay, not a primary source.",
+      "url": "https://muslimmatters.org/wp-content/uploads/On-Salafi-Islam_Dr.-Yasir-Qadhi.pdf",
+      "license": "Author's essay; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

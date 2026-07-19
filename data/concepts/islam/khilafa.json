@@ -1,0 +1,54 @@
+{
+  "id": "khilafa",
+  "tradition": "islam",
+  "names": {
+    "primary": "Caliphate",
+    "original": "الخلافة",
+    "transliteration": "al-khilāfa",
+    "aliases": ["Khilafa", "Khilafah", "the Caliphate", "Caliphate", "successorship", "imamate (Sunni sense)"]
+  },
+  "category": "leadership and authority",
+  "summary": "The caliphate (khilafa) is, in Sunni thought, the institution of successorship to the Prophet Muhammad in leading the Muslim community: an office of the community, filled by allegiance (bay'a), consultation (shura), or the agreement of qualified persons, whose holder administers religion and worldly affairs but is not held to be divinely designated or infallible. It is commonly contrasted with the Shi'i doctrine of the imama, on which authority after the Prophet passes by divine designation to imams of the Prophet's family.",
+  "description": "Khilafa (from khalifa, 'successor' or 'deputy') names the post-prophetic leadership of the Muslim community as the mainstream Sunni tradition conceives it. On this conception the caliph (khalifa, also styled amir al-mu'minin, 'commander of the believers', and imam in the Sunni juristic sense) succeeds the Prophet in his temporal and administrative functions but not in prophecy, which is held to have closed with Muhammad; the office exists to safeguard religion and manage the affairs of the community (umma). Sunni jurists generally treated the appointment of an imam as an obligation on the community, established through mechanisms such as the allegiance (bay'a) of those qualified to bind and loose (ahl al-hall wa-l-'aqd), designation by a predecessor, or consultation (shura), rather than through a divinely specified line of succession. Classical statements of the theory, such as al-Mawardi's al-Ahkam al-Sultaniyya, set out the qualifications of the imam, the manner of his appointment, and the rights and duties attaching to the office, in a form shaped by the circumstances of the Abbasid caliphate. Historically the term is applied to the reign of the first four successors (the Rashidun, 'rightly guided', in Sunni usage, 632-661 CE), then to the dynastic Umayyad, Abbasid, and later Ottoman caliphates, before the office was abolished by the Turkish Grand National Assembly in 1924, an event that opened a wide modern debate over whether and how the institution might be restored. Modern scholarship notes that the theory of the caliphate was elaborated largely after the fact and in changing political conditions, and that Sunni thought contained more than one strand: alongside the jurists' formal and often elitist accounts, some thinkers (Ibn Taymiyya prominent among them, on Ovamir Anjum's reading) gave greater weight to the community of believers as the locus of legitimate authority. The caliphate is set against the Shi'i doctrine of the imama, on which leadership is not a communal office but a divinely designated succession (by nass) running through Ali and the Prophet's family; this disagreement, whether authority after the Prophet is a community-conferred trust or a divine appointment, is among the deepest divisions in Islamic thought, and the traditions defend their positions from distinct bodies of scripture, hadith, and reasoning.",
+  "editorial_notes": "This concept sits on the central Sunni/Shi'i faultline and is written as the counterpart to the imama entry, which contrasts_with khilafa; the two entries are meant to be read together. Per neutrality principles #1, #2, and #7, the entry presents the Sunni conception of the caliphate on its own terms (a community-conferred office, filled by bay'a, shura, or the agreement of qualified electors, whose holder is neither divinely designated nor infallible) and attributes the contrasting Shi'i position rather than adjudicating between them; phrasing such as 'as the mainstream Sunni tradition conceives it', 'on this conception', and 'held to have' marks attributed positions. The editor takes no view on the succession question. The internal Sunni variety is flagged (the jurists' formal theory versus the more community-centred strand Anjum reads in Ibn Taymiyya) so the concept is not reduced to a single account. The 1924 abolition is given as a dated historical fact; the modern restoration debate is named but not entered. Relation targets imama and ali are existing entries; sunnism, shura, bay'a, and rashidun may be dangling and are allowed. Per neutrality principle #8 the sources triangulate three lenses: a modern Western academic study (Crone, God's Rule), the tradition's own classical primary text (al-Mawardi, al-Ahkam al-Sultaniyya), and a contemporary Muslim scholar writing academically (Anjum, The Taymiyyan Moment). All three were web-verified as existing works on this subject; none was read line by line in this pass, so confidence is set to medium.",
+  "relations": [
+    { "type": "contrasts_with", "target": "imama", "note": "Set against the Shi'i doctrine of the imama, on which post-prophetic authority passes by divine designation (nass) to imams of the Prophet's family rather than being conferred by the community. This is the core Sunni/Shi'i divide over succession." },
+    { "type": "related_to", "target": "sunnism", "note": "The community-office conception of the caliphate is characteristic of the Sunni tradition; target entry may not yet be written." },
+    { "type": "related_to", "target": "ali", "note": "Ali ibn Abi Talib is the fourth of the Rashidun caliphs in Sunni reckoning and, in the Shi'i tradition, the first divinely designated imam; the two framings of his authority mark the divide." },
+    { "type": "related_to", "target": "shura", "note": "Consultation (shura) is one of the mechanisms Sunni theory invokes for constituting the imam's authority; target entry may not yet be written." },
+    { "type": "related_to", "target": "bay'a", "note": "The pledge of allegiance (bay'a) of those qualified to bind and loose is a principal means by which a caliph's authority is established in Sunni theory; target entry may not yet be written." },
+    { "type": "related_to", "target": "rashidun", "note": "The first four successors (632-661 CE), termed the Rashidun ('rightly guided') in Sunni usage, are the paradigm of the caliphate; target entry may not yet be written." }
+  ],
+  "historical_period": {
+    "start": 632,
+    "end": 1924,
+    "note": "The institution arises from the succession following the Prophet's death in 632 CE (11 AH): the Rashidun (632-661), then the Umayyad, Abbasid, and later Ottoman caliphates, until the office was abolished by the Turkish Grand National Assembly in 1924. The end date marks the abolition of the historical office, not the close of debate over its restoration."
+  },
+  "sources": [
+    {
+      "citation": "Crone, Patricia. God's Rule: Government and Islam. Six Centuries of Medieval Islamic Political Thought. New York: Columbia University Press, 2004. A modern academic reconstruction of Islamic political thought from the rise of Islam to the Mongol invasions, treating the theory of the caliphate/imamate and the Sunni-Shi'i divergence over legitimate authority. Specific claims not page-verified for this draft.",
+      "url": "https://cup.columbia.edu/book/gods-rule-government-and-islam/9780231132909/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Mawardi, Abu al-Hasan Ali ibn Muhammad (d. 450/1058). al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya (The Ordinances of Government). Trans. Wafaa H. Wahba. Reading: Garnet Publishing, 1996. The classical Shafi'i juristic statement of the caliphate/imamate: the obligation to appoint an imam, his qualifications, the modes of appointment (electors, designation), and the office's rights and duties. Classical primary source; relevant chapters not read line by line for this draft.",
+      "url": "https://www.garnetpublishing.co.uk/product/the-ordinances-of-government-al-ahkam-as-sultaniyyah-wat-wilayat-al-dinniyya/",
+      "license": "Primary source in translation; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Anjum, Ovamir. Politics, Law, and Community in Islamic Thought: The Taymiyyan Moment. Cambridge Studies in Islamic Civilization. Cambridge: Cambridge University Press, 2012. A contemporary Muslim scholar's revisionist account of Sunni political thought, arguing that alongside the jurists' formal theory a community-centred strand (which he reads in Ibn Taymiyya) located legitimate authority in the umma. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/core/books/politics-law-and-community-in-islamic-thought/F1EBEDCEDA7EFFD33BA9AE2CEF8A7CE8",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

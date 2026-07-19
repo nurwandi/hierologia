@@ -1,0 +1,51 @@
+{
+  "id": "wahdat-al-wujud",
+  "tradition": "islam",
+  "names": {
+    "primary": "Wahdat al-wujud",
+    "original": "وحدة الوجود",
+    "transliteration": "waḥdat al-wujūd",
+    "aliases": ["Oneness of being", "Unity of being", "Unity of existence", "the oneness of existence"]
+  },
+  "category": "mysticism",
+  "summary": "Wahdat al-wujud, 'the oneness of being', is a phrase used to name the metaphysics associated with the school of Ibn Arabi, according to which there is in reality but one Being, God, of which all things are manifestations. The label is largely a coinage of later interpreters and critics rather than Ibn Arabi's own term, and the doctrine it names is one of the most sharply contested in Islamic thought.",
+  "description": "The phrase wahdat al-wujud, 'the oneness of being' or 'unity of existence', became the standard name for the metaphysical current associated with Ibn Arabi (d. 1240) and his interpreters, above all his stepson and commentator Sadr al-Din al-Qunawi. On the readings gathered under the label, being or existence (wujud) is ultimately one and belongs properly to God alone, while the multiplicity of the world consists of the manifestations, loci or self-disclosures (tajalliyat) of that single reality through the divine names. Modern scholarship stresses that the term is not a fixed slogan with a single meaning: it was applied to Ibn Arabi's school from outside, was read in many different senses by later authors, and does not appear as Ibn Arabi's own consistent self-description. Chittick has noted that the expression seems to have been ascribed to Ibn Arabi first in the polemics of Ibn Taymiyya, and that treating Ibn Arabi as inseparable from a single doctrine called 'the oneness of being' distorts the historical record.\n\nThe doctrine drew a major and enduring controversy. Defenders in the Sufi and philosophical tradition presented it as the deepest realization of tawhid, the affirmation of God's oneness, holding that to attribute real, independent being to anything besides God would itself compromise that oneness. Critics, most prominently the Hanbali scholar Ibn Taymiyya (d. 1328) and later Salafi authors, charged that wahdat al-wujud collapses the distinction between Creator and creation, and Ibn Taymiyya is reported to have judged aspects of it to be unbelief (kufr). Other scholars distinguished it from, or contrasted it with, an alternative formulation later termed wahdat al-shuhud ('the oneness of witnessing'). This entry records the veneration and the criticism as attributed positions and does not adjudicate between them.",
+  "editorial_notes": "This is among the most contested doctrines in the dataset, and the entry follows neutrality principles #2, #4 and #7 closely: it attributes both the Sufi defense (that wahdat al-wujud is the deepest realization of tawhid) and the critique (Ibn Taymiyya's charge that it collapses Creator and creation and his reported verdict of unbelief), and adjudicates neither. Two scholarly cautions are flagged as such rather than asserted as fact: (1) 'wahdat al-wujud' is largely a later coinage, applied to Ibn Arabi's school from outside and read in many senses, not a fixed term Ibn Arabi used of himself; (2) the ascription to Ibn Arabi is traced by Chittick to Ibn Taymiyya's polemics. The devotional register is deliberately avoided; the doctrine is reported, not affirmed or denied. Relations: articulated_by ibn-arabi, part_of sufism, related_to tawhid, refuted_by ibn-taymiyya (an attributed opposition, not the editor's verdict); salafiyya is named as a later critical current. Sources triangulate three lenses per neutrality principle #8: (a) a modern Western academic monograph (Chittick, SUNY 1989); (b) a peer-reviewed study of the contested reception (Hakim et al., Kanz Philosophia, 2024), also used in the ibn-arabi entry; (c) the primary text at issue, Ibn Arabi's Fusus al-Hikam in Dagli's translation. Chittick's 'Rumi and Wahdat al-wujud' (1994) was web-verified as the source of the claim that the term was ascribed to Ibn Arabi first in Ibn Taymiyya's polemics. Confidence medium: sources verified to exist and be on-topic, relevant passages not read line-by-line.",
+  "relations": [
+    { "type": "articulated_by", "target": "ibn-arabi", "note": "The doctrine is associated with Ibn Arabi's school, though the phrase is largely a coinage of later interpreters rather than his own consistent term." },
+    { "type": "part_of", "target": "sufism", "note": "The speculative, metaphysical current of Sufism after Ibn Arabi; a focus of both veneration and controversy." },
+    { "type": "related_to", "target": "tawhid", "note": "Defenders present it as the deepest realization of the divine oneness (tawhid); critics say it compromises the distinction between Creator and creation. The debate is named, not adjudicated." },
+    { "type": "refuted_by", "target": "ibn-taymiyya", "note": "Ibn Taymiyya is reported to have charged that wahdat al-wujud collapses Creator and creation and to have judged aspects of it unbelief; recorded as an attributed opposition, not adjudicated." }
+  ],
+  "historical_period": {
+    "start": 1200,
+    "note": "Associated with Ibn Arabi (d. 638/1240) and elaborated by his commentators (al-Qunawi and after) from the 7th/13th century; the label and the controversy around it developed in the following centuries, notably in Ibn Taymiyya's (d. 728/1328) critique."
+  },
+  "sources": [
+    {
+      "citation": "Chittick, William C. The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination. Albany, NY: State University of New York Press, 1989. Study of Ibn Arabi's metaphysics, including the doctrine later termed wahdat al-wujud and the caution that the phrase is a later designation. See also Chittick, 'Rumi and Wahdat al-Wujud', in The Heritage of Rumi, 1994, on the seven senses of the term and its ascription to Ibn Arabi in Ibn Taymiyya's polemics.",
+      "url": "https://sunypress.edu/Books/T/The-Sufi-Path-of-Knowledge",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hakim, Lukmanul, Ahmad Ahmad, and Rahmad Tri Hadi. \"Ibn Taymiyyah's Philosophical Critique to Ibn 'Arabi's Wahdat al-Wujud Thought.\" Kanz Philosophia: A Journal for Islamic Philosophy and Mysticism 10, no. 2 (2024): 229-250. Peer-reviewed study of the contested reception of the doctrine.",
+      "url": "https://journal.sadra.ac.id/ojs/index.php/kanz/article/view/366",
+      "license": "Open access (DOAJ-listed journal); cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn al-'Arabi, Muhyi al-Din. The Ringstones of Wisdom (Fusus al-Hikam). Translated with introduction and glosses by Caner K. Dagli. Great Books of the Islamic World; distributed by Kazi Publications, Chicago, 2004. Primary source: the classical text at the centre of the wahdat al-wujud controversy. Relevant passages not read line-by-line.",
+      "url": "https://search.worldcat.org/title/61243121",
+      "license": "Proprietary translation of a classical text; cited for reference.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}

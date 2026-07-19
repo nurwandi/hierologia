@@ -1,0 +1,60 @@
+{
+  "id": "muhammad-ibn-abd-al-wahhab",
+  "tradition": "islam",
+  "names": {
+    "primary": "Muhammad ibn 'Abd al-Wahhab",
+    "original": "محمد بن عبد الوهاب",
+    "transliteration": "Muḥammad ibn ʿAbd al-Wahhāb al-Tamīmī",
+    "aliases": ["Ibn Abd al-Wahhab", "Muhammad ibn Abdul Wahhab", "Muhammad ibn 'Abd al-Wahhab al-Najdi", "Ibn 'Abd al-Wahhab", "founder of the Wahhabi movement (so labelled by others)"]
+  },
+  "roles": ["theologian", "jurist", "traditionist", "reformer", "preacher"],
+  "summary": "Muhammad ibn 'Abd al-Wahhab (1703-1792 CE) was a Najdi Hanbali scholar and reformer whose revival movement, drawing on Ibn Taymiyya's account of tawhid and the Athari (traditionist) creed, made the reservation of worship to God alone (tawhid al-uluhiyya) its central concern and condemned as shirk practices such as the veneration of saints and graves. His alliance with the house of Sa'ud grounded the modern Salafi revival; the movement is called Wahhabiyya by others, a label its adherents reject, preferring Muwahhidun ('unitarians') or Salafi.",
+  "description": "Muhammad ibn 'Abd al-Wahhab was born in 'Uyayna in Najd (central Arabia) into a family of Hanbali scholars, and studied in Najd, the Hijaz, Basra, and (by some accounts) elsewhere before returning to preach a program of religious purification. His central claim was that much of the Muslim population of his region had lapsed into shirk (associating partners with God) by directing acts of worship, intercession at graves, vows, and reliance, to saints, tombs, trees, and other created intermediaries, and that authentic Islam required the exclusive reservation of worship to God, tawhid al-uluhiyya, together with the removal of the practices he classed as idolatrous innovation (bid'a). He grounded this program in the textualist, Athari creed and in the writings of Ibn Taymiyya (d. 728/1328) and Ibn al-Qayyim, affirming the divine names and attributes as revealed without figurative reinterpretation, and he is commonly credited in modern scholarship with fixing the third category, tawhid al-asma' wa-l-sifat, in the threefold division of tawhid that became characteristic of the later Salafi tradition. His best-known work, Kitab al-Tawhid ('The Book of the Oneness of God'), assembles Qur'anic verses and hadith around the theme of exclusive worship and remains a foundational text of the movement. Around 1744-45 he entered a pact with the tribal leader Muhammad ibn Sa'ud of Dir'iyya, a religio-political alliance that gave his mission the backing of an expanding state and bound the movement to the fortunes of the Al Sa'ud through the later Saudi polities. The movement his teaching launched is termed Wahhabiyya ('Wahhabism') by outsiders and by its critics, a designation its adherents generally reject as implying devotion to a man rather than to God, preferring to call themselves Muwahhidun ('affirmers of God's oneness'), Ahl al-Tawhid, or Salafi. His legacy is sharply contested: he has been read both as a narrow purist whose takfir (charge of unbelief) of fellow Muslims licensed violence, and, by scholars such as Natana DeLong-Bas, as a scholar whose positions on matters such as jihad and women were more circumscribed than the movement's later reputation suggests. That contest is itself a subject of scholarship and is not settled here.",
+  "editorial_notes": "Muhammad ibn 'Abd al-Wahhab and 'Wahhabism' are polemically charged: the term Wahhabiyya is applied from outside and by critics, while adherents reject it in favour of Muwahhidun/Ahl al-Tawhid/Salafi. Per neutrality principles #1, #2, and #7 the entry presents the movement on its own terms and by its preferred self-designations, attributes its central claims (that the population had lapsed into shirk, that worship must be reserved for God alone) as its attributed positions rather than endorsing them, and names the sharply contested assessments of his legacy (from 'narrow purist licensing takfir and violence' to DeLong-Bas's 'more circumscribed than his reputation') without adjudicating between them. The classification of specific devotional practices as shirk is reported as the movement's judgment, contested by those it targets, not as the editor's. This figure closes the muhammad-ibn-abd-al-wahhab dangling target held by the salafiyya and tawhid-al-uluhiyya entries. Birth and death years (1115/1703 - 1206/1792) are as commonly reported. The alliance date (c. 1744-45) is approximate and kept consistent with the salafiyya entry's founding note. The claim that he is credited with fixing the third tawhid category follows Lauziere and is kept consistent with the ibn-taymiyya entry. Relation targets salafiyya, tawhid-al-uluhiyya, ibn-taymiyya, and athariyya are existing entries; kitab-al-tawhid and shirk may be dangling and are allowed. Per neutrality principle #8 the sources triangulate three lenses: modern Western academic studies (Commins, The Wahhabi Mission and Saudi Arabia; DeLong-Bas, Wahhabi Islam), the figure's own primary text (Ibn 'Abd al-Wahhab, Kitab al-Tawhid), and Lauziere for the tawhid attribution. DeLong-Bas is cited for a specific revisionist reading and noted as debated in the field; all sources were web-verified as existing and on-topic, and none was read line by line in this pass, so confidence is set to medium.",
+  "lifespan": {
+    "birth": 1703,
+    "death": 1792,
+    "note": "1115-1206 AH / 1703-1792 CE; born in 'Uyayna, Najd. Years as commonly reported."
+  },
+  "relations": [
+    { "type": "founded", "target": "salafiyya", "note": "His 18th-century Najdi revival grounded the modern Salafi movement; termed Wahhabiyya by others, a label adherents reject in favour of Muwahhidun/Salafi." },
+    { "type": "articulated", "target": "tawhid-al-uluhiyya", "note": "Made the reservation of worship to God alone (tawhid al-uluhiyya) the organizing concern of his Kitab al-Tawhid, condemning devotion to created intermediaries as shirk." },
+    { "type": "influenced_by", "target": "ibn-taymiyya", "note": "Drew his account of tawhid and the divine attributes from Ibn Taymiyya (d. 728/1328) and the Athari tradition; credited in modern scholarship with fixing the third tawhid category, al-asma' wa-l-sifat." },
+    { "type": "related_to", "target": "athariyya", "note": "Grounded his program in the textualist, Athari (traditionist) creed, affirming the divine names and attributes as revealed without figurative reinterpretation." },
+    { "type": "articulated", "target": "kitab-al-tawhid", "note": "Author of Kitab al-Tawhid, a foundational text of the movement assembling Qur'anic verses and hadith on the exclusive worship of God. Target entry may not yet be written." },
+    { "type": "related_to", "target": "shirk", "note": "Classed practices such as intercession at graves and veneration of saints as shirk; the classification is contested by those it targets. Target entry may not yet be written." }
+  ],
+  "sources": [
+    {
+      "citation": "Commins, David. The Wahhabi Mission and Saudi Arabia. Library of Modern Middle East Studies 50. London: I.B. Tauris, 2006. A modern academic history of the movement from Ibn 'Abd al-Wahhab and the Al Sa'ud alliance to its later spread, treating the 'Wahhabism' label and the debate over the movement's character. Specific claims not page-verified for this draft.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/wahhabi-mission-and-saudi-arabia-by-david-commins-pp-xii-246-london-ib-tauris-2006/C6C0FA0A74C56C6A4ACF34F40167A3D1",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "DeLong-Bas, Natana J. Wahhabi Islam: From Revival and Reform to Global Jihad. Oxford and New York: Oxford University Press, 2004. Based on Ibn 'Abd al-Wahhab's collected works; advances a revisionist reading of his thought (on jihad and women in particular) as more circumscribed than the movement's later reputation. A contested but frequently cited study; cited here for its attributed reading of the figure, not as settled consensus.",
+      "url": "https://global.oup.com/academic/product/wahhabi-islam-9780195333015",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn 'Abd al-Wahhab, Muhammad. Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The author's own foundational treatise, organized around tawhid al-uluhiyya and the condemnation of devotion directed to created intermediaries as shirk. Classical primary source; not read line by line for this draft.",
+      "license": "Primary source; cited for reference, not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lauziere, Henri. The Making of Salafism: Islamic Reform in the Twentieth Century. New York: Columbia University Press, 2016. Cited for the attribution to Ibn 'Abd al-Wahhab of the third category (tawhid al-asma' wa-l-sifat) in the fixed threefold division of tawhid, and for the modern construction of the Salafi genealogy. Specific claims not page-verified for this draft.",
+      "url": "https://cup.columbia.edu/book/the-making-of-salafism/9780231175500/",
+      "license": "Proprietary, cited for reference; text not reproduced.",
+      "accessed": "2026-07-19",
+      "confidence": "medium"
+    }
+  ],
+  "status": "draft",
+  "schema_version": "0.1.0",
+  "created": "2026-07-19",
+  "updated": "2026-07-19"
+}
