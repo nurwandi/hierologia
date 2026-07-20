@@ -6,6 +6,27 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.10.2] - 2026-07-20
+
+### Changed
+- Promoted two entries `reviewed` -> `verified` after their load-bearing open primary sources
+  were read line-by-line: `arianism` (Athanasius, Four Discourses against the Arians, Book I,
+  which extracts and opposes Arius's Thalia) and `ebionites` (Irenaeus, Against Heresies I.26,
+  the earliest attributed report). The verified tier is now 37.
+- A verification sweep of nine candidates kept seven `reviewed`, honestly: their open primary
+  texts carry only a definitional or scriptural anchor, while each entry's distinctive claim
+  rests on secondary or paywalled scholarship (`tertullian`, `monasticism`, `indulgences`,
+  `predestination`, `iman`, `khatam-al-nabiyyin`, `maad`).
+- Accuracy fixes surfaced by the reads: the `arianism` Athanasius source URL now points to the
+  discourse text (was the volume index); the `ebionites` Irenaeus translator corrected (Roberts
+  and Rambaut); a Calvin misquotation in `predestination` corrected to "adopts some to the hope
+  of life, and adjudges others to eternal death" (Institutes III.21.5); and `iman` now notes
+  that Q 2:285 names four of the six objects of faith.
+
+### Notes
+- PATCH: status and content fixes, no new entities and no schema change. Still 195 entities;
+  158 `reviewed` + 37 `verified`. `schema_version` unchanged.
+
 ## [0.10.1] - 2026-07-20
 
 ### Changed
