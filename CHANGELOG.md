@@ -6,6 +6,26 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.10.3] - 2026-07-22
+
+### Changed
+- Promoted four entries `reviewed` -> `verified` after their load-bearing open primary sources
+  were read line-by-line: `irenaeus` (Against Heresies: the rule of faith I.10, the fourfold
+  Gospel III.11.8, apostolic succession III.3, recapitulation III.18), `tertullian` (Against
+  Praxeas, added as a source, for the Latin trinitas/persona/substantia vocabulary), `marcion`
+  (Irenaeus Against Heresies I.27 and Tertullian Against Marcion I, as attributed hostile
+  witnesses to his two-god teaching), and `mishnah` (the open Sefaria text: the six orders and
+  the Pirkei Avot 1:1 chain of transmission). The verified tier is now 41.
+- Sourcing improvements from the reads: added Tertullian's Against Praxeas at `high` to
+  `tertullian`; added the open Sefaria Mishnah text at `high` to `mishnah`; raised the Irenaeus
+  Against Heresies source to `high` in both `irenaeus` and `marcion` and broadened its cited
+  chapters; re-anchored the `marcion` Tertullian URL to Against Marcion Book I; and refreshed a
+  few stale "dangling" notes in `marcion` (tertullian and gnosticism now exist).
+
+### Notes
+- PATCH: status and sourcing fixes, no new entities and no schema change. Still 195 entities;
+  154 `reviewed` + 41 `verified`. `schema_version` unchanged.
+
 ## [0.10.2] - 2026-07-20
 
 ### Changed
