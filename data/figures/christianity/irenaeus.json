@@ -5,12 +5,20 @@
     "primary": "Irenaeus of Lyons",
     "original": "Εἰρηναῖος",
     "transliteration": "Eirēnaios",
-    "aliases": ["Irenaeus", "Irenaeus of Lugdunum", "Saint Irenaeus"]
+    "aliases": [
+      "Irenaeus",
+      "Irenaeus of Lugdunum",
+      "Saint Irenaeus"
+    ]
   },
-  "roles": ["bishop", "theologian", "heresiologist"],
+  "roles": [
+    "bishop",
+    "theologian",
+    "heresiologist"
+  ],
   "summary": "Irenaeus of Lyons (c. 130-202 CE) was bishop of Lyons (Lugdunum) in Roman Gaul and the author of Against Heresies (Adversus Haereses), an extended refutation of Gnostic teachings and of Marcion. He argued for a fourfold Gospel, the rule of faith, and apostolic succession, and is a key early witness in the formation of the New Testament canon.",
   "description": "Irenaeus was a Greek-speaking Christian, by his own report connected in his youth to Asia Minor and to Polycarp of Smyrna, who became a presbyter and then bishop of the Christian community at Lyons (Lugdunum) in Roman Gaul in the later second century. His major surviving work, Against Heresies (Adversus Haereses), in five books, was written to describe and refute the teachings he classed as heresy, principally the Gnostic systems associated with Valentinus and his followers, and the teaching of Marcion of Sinope. Against these, Irenaeus set out several positions that became central to the emerging mainstream church's self-definition. He argued that there could be only four authentic Gospels, neither more nor fewer, the 'fourfold Gospel' that later Christian tradition took for granted, and this argument makes him an important early witness in scholarly accounts of the formation of the New Testament canon. He appealed to a 'rule of faith' (regula fidei), a summary of core Christian teaching which he presented as held in common by the churches, as a standard against which competing interpretations of scripture could be measured. And he argued for apostolic succession, the claim that the teaching of the churches could be traced through an unbroken line of bishops back to the apostles, so that the public teaching of the churches, rather than a secret tradition claimed by his opponents, preserved the apostolic message. His constructive theology includes an account of the unity of the one God as both creator and redeemer (against Marcion's division of creator and higher God) and a theme of 'recapitulation' (anakephalaiosis), by which Christ sums up and restores humanity. Because Against Heresies preserves extended reports of the teachings it opposes, it is also, alongside the later discovery of primary Gnostic texts, a major historical source for second-century movements, and one whose polemical purpose scholars weigh when using it. His anti-heretical polemic is his own attributed position, presented here as such and not adjudicated.",
-  "editorial_notes": "Dates (c. 130-202) are approximate and as commonly reported in the scholarship; the year and manner of his death are not securely established, and the note records this. Irenaeus's characterisations of his opponents (Gnostic teachers and Marcion) are his own attributed polemical positions and are presented as such, per neutrality principles #1-2; the entry describes what he argued and against whom, without endorsing his verdict or that of his opponents. His role as a witness for Marcion's teaching is the mirror image of the neutrality handling in the marcion entry: there his reports are flagged as hostile testimony, here his polemic is his own attributed position. Sources triangulate three lenses per neutrality principles #8-9: (a) modern academic studies (Denis Minns, T&T Clark 2010; John Behr, Oxford 2013); (b) the primary corpus, Irenaeus's own Against Heresies in the open Ante-Nicene Fathers translation (Book III on the fourfold Gospel; Book I.27 on Marcion); (c) Behr (2013) also serves as the recent contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: medium throughout; the monographs are verified to exist and be on-topic via publisher and peer-reviewed review sources but not read line-by-line, and the ANF primary text was opened with the cited chapters (III.11 fourfold Gospel; I.27 Marcion) confirmed. Relation targets: new-testament-canon and patristics exist; marcion exists (refuted); apostles exists (related_to).",
+  "editorial_notes": "Dates (c. 130-202) are approximate and as commonly reported in the scholarship; the year and manner of his death are not securely established, and the note records this. Irenaeus's characterisations of his opponents (Gnostic teachers and Marcion) are his own attributed polemical positions and are presented as such, per neutrality principles #1-2; the entry describes what he argued and against whom, without endorsing his verdict or that of his opponents. His role as a witness for Marcion's teaching is the mirror image of the neutrality handling in the marcion entry: there his reports are flagged as hostile testimony, here his polemic is his own attributed position. Sources triangulate three lenses per neutrality principles #8-9: (a) modern academic studies (Denis Minns, T&T Clark 2010; John Behr, Oxford 2013); (b) the primary corpus, Irenaeus's own Against Heresies in the open Ante-Nicene Fathers translation (Book III on the fourfold Gospel; Book I.27 on Marcion); (c) Behr (2013) also serves as the recent contemporary-scholar lens. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: the primary Against Heresies text has been read line-by-line and is rated high (carrying the rule of faith at I.10.1, the fourfold Gospel at III.11.8, apostolic succession at III.3, and recapitulation at III.18); the two monographs (Minns, Behr) are rated medium, verified to exist and be on-topic via publisher and peer-reviewed review sources but not read line-by-line. Relation targets: new-testament-canon and patristics exist; marcion exists (refuted); apostles exists (related_to).",
   "lifespan": {
     "birth": 130,
     "death": 202,
@@ -54,15 +62,15 @@
       "confidence": "medium"
     },
     {
-      "citation": "Irenaeus of Lyons. Against Heresies (Adversus Haereses), five books; esp. Book III, Chapter 11 (the Gospels are four in number, neither more nor fewer) and Book I, Chapter 27 (on Cerdo and Marcion). In Ante-Nicene Fathers, vol. 1, trans. Alexander Roberts and William Rambaut, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Irenaeus's own primary text; the cited chapters read in the ANF translation.",
+      "citation": "Irenaeus of Lyons. Against Heresies (Adversus Haereses), five books. In Ante-Nicene Fathers, vol. 1, trans. Alexander Roberts and William Rambaut, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Irenaeus's own primary text, read line-by-line: I.10.1 (the rule of faith, the one faith 'received from the apostles' in one God, one Christ Jesus incarnate, and the Holy Spirit, held in common across the churches), I.27 (Cerdo and Marcion), III.3 (apostolic succession and the Roman list from Peter and Paul), III.11.8 (the Gospels are four in number, neither more nor fewer), and III.18 (recapitulation, Christ summing up and restoring humanity in himself).",
       "url": "https://www.newadvent.org/fathers/0103.htm",
       "license": "Underlying text public domain; the cited chapters read in the ANF translation.",
-      "accessed": "2026-07-19",
-      "confidence": "medium"
+      "accessed": "2026-07-21",
+      "confidence": "high"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-07-22"
 }

@@ -20,11 +20,31 @@
   "description": "The Mishnah (Hebrew mishnah, from the root shanah, to repeat or to study by repetition) is a topically organized compilation of Jewish law that became the foundational text of rabbinic Judaism. In the self-understanding of the tradition it is the setting-down of the Oral Torah (Torah she-be-al peh), the body of law and teaching held to have been given to Moses at Sinai alongside the Written Torah and transmitted orally through the generations; the opening of its tractate Avot presents just such a chain of transmission, from Moses at Sinai through Joshua, the elders, the prophets, and the men of the Great Assembly down to the named sages of the mishnaic period. Its material is attributed largely to the Tannaim, the rabbinic teachers of the first two centuries CE, and its redaction is traditionally ascribed to Rabbi Judah ha-Nasi (Judah the Prince, often simply called Rabbi) around 200 CE.\n\nThe Mishnah is arranged in six orders (sedarim), each divided into tractates (massekhtot) and these in turn into chapters and individual paragraphs, also called mishnayot. The six orders are Zeraim (Seeds, on agricultural law and, in its opening tractate, on blessings and prayer), Moed (Appointed Times, on the Sabbath and festivals), Nashim (Women, on marriage, divorce, and vows), Nezikin (Damages, on civil and criminal law and the courts, and including the ethical tractate Avot), Kodashim (Holy Things, on the Temple sacrifices and offerings), and Tohorot (Purities, on ritual purity and impurity). The work states law concisely and often records the differing opinions of named sages side by side, sometimes without deciding between them, so that it preserves debate as well as ruling; much of it addresses matters of Temple practice that were no longer operative after the Temple's destruction in 70 CE, which scholars read as evidence of its character as a comprehensive statement and study of the law rather than only a practical code.\n\nIn the scholarship on its formation, the Mishnah is understood as the culmination of the tannaitic period and the first document of the rabbinic movement, redacted from older traditions; Shaye J. D. Cohen treats its making as the endpoint of the development traced from the Maccabean and Second Temple background, and H. L. Strack and Gunter Stemberger set out the standard critical account of its structure, sources, and redaction within rabbinic literature. The Mishnah became the base text on which the subsequent rabbinic tradition built: it was supplemented by the Tosefta, and it was subjected to sustained analysis and debate (the Gemara) in the academies of Palestine and Babylonia, producing the two Talmuds. It is presented here on Judaism's own terms as the tradition's own foundational statement of the Oral Torah, with the historical-critical account of its composition recorded alongside as attributed scholarship rather than adjudicated against it.",
   "editorial_notes": "This entry describes the Mishnah on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding the doctrine that the Mishnah sets down the Oral Torah given at Sinai (the chain of transmission in Avot 1:1), while presenting the historical-critical account of its tannaitic sources and c. 200 CE redaction alongside as attributed scholarship, without the editor adjudicating between them (neutrality #1-#2). The traditional ascription of the redaction to Rabbi Judah ha-Nasi is stated as the tradition's ascription; the authored_by relation to judah-ha-nasi is a dangling forward reference to a not-yet-created entity. The six orders and their contents are given from the primary text. Sources triangulate three lenses per neutrality #8-9: academic historians of ancient and rabbinic Judaism (Cohen; Strack and Stemberger); the primary text itself (the Mishnah in Danby's translation); and, through Cohen, a contemporary Jewish scholar's voice. No encyclopedias (including the Encyclopaedia Judaica or the Jewish Encyclopedia), Wikipedia, or tertiary sources. Confidence: the Mishnah (Danby) is high where directly cited for its structure, the six orders, and the Avot 1:1 chain of transmission (verified against the text), and carries the same high rating it holds in torah.json and rabbinic-judaism.json; the secondary scholarship is medium, with Cohen carrying the same medium rating he holds in second-temple-judaism.json, pharisees.json, and rabbinic-judaism.json. Relation targets rabbinic-judaism, torah, and tanakh exist; talmud is authored in the same batch; judah-ha-nasi is a dangling forward reference.",
   "relations": [
-    { "type": "part_of", "target": "rabbinic-judaism", "note": "The Mishnah is the first great monument and foundational legal text of rabbinic Judaism, the base on which the tradition's later law and commentary were built." },
-    { "type": "authored_by", "target": "judah-ha-nasi", "note": "The redaction of the Mishnah is traditionally ascribed to Rabbi Judah ha-Nasi (Judah the Prince) around 200 CE; this is the tradition's ascription. Forward reference to a not-yet-created entity." },
-    { "type": "related_to", "target": "torah", "note": "In the tradition's self-understanding the Mishnah sets down the Oral Torah (Torah she-be-al peh) held to have been given at Sinai alongside the Written Torah; its tractate Avot opens with the chain of transmission from Moses." },
-    { "type": "related_to", "target": "tanakh", "note": "The Mishnah presupposes and interprets the Written scripture of the Tanakh, deriving and organizing law in relation to it, though it is structured topically rather than as a running commentary on the biblical text." },
-    { "type": "related_to", "target": "talmud", "note": "The Mishnah is the base text of the Talmuds: each Talmud consists of the Mishnah together with the Gemara, the later rabbinic commentary and debate upon it. Authored in the same batch." }
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "The Mishnah is the first great monument and foundational legal text of rabbinic Judaism, the base on which the tradition's later law and commentary were built."
+    },
+    {
+      "type": "authored_by",
+      "target": "judah-ha-nasi",
+      "note": "The redaction of the Mishnah is traditionally ascribed to Rabbi Judah ha-Nasi (Judah the Prince) around 200 CE; this is the tradition's ascription. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "In the tradition's self-understanding the Mishnah sets down the Oral Torah (Torah she-be-al peh) held to have been given at Sinai alongside the Written Torah; its tractate Avot opens with the chain of transmission from Moses."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Mishnah presupposes and interprets the Written scripture of the Tanakh, deriving and organizing law in relation to it, though it is structured topically rather than as a running commentary on the biblical text."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The Mishnah is the base text of the Talmuds: each Talmud consists of the Mishnah together with the Gemara, the later rabbinic commentary and debate upon it. Authored in the same batch."
+    }
   ],
   "sources": [
     {
@@ -32,6 +52,13 @@
       "url": "https://archive.org/details/DanbyMishnah",
       "license": "Danby translation (1933); Hebrew original in the public domain. The six orders, overall structure, and the Avot 1:1 passage verified against the text; the whole not read for this entry.",
       "accessed": "2026-07-19",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Mishnah, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text for the six orders and their subjects (Zeraim, Moed, Nashim, Nezikin, Kodashim, Tohorot) and for the chain of transmission in Pirkei Avot 1:1 ('Moses received the Torah at Sinai and transmitted it to Joshua, Joshua to the elders, and the elders to the prophets, and the prophets to the Men of the Great Assembly'), both read line-by-line and verified against the text (the six-order table of contents at sefaria.org/texts/Mishnah; Avot 1:1 at sefaria.org/Pirkei_Avot.1.1).",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. The six orders and the Avot 1:1 passage read line-by-line.",
+      "accessed": "2026-07-22",
       "confidence": "high"
     },
     {
@@ -49,8 +76,8 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-07-22"
 }
