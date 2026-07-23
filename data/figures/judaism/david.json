@@ -1,0 +1,101 @@
+{
+  "id": "david",
+  "tradition": "judaism",
+  "names": {
+    "primary": "David",
+    "original": "דָּוִד",
+    "transliteration": "David (Dawid)",
+    "aliases": [
+      "King David",
+      "David ha-Melech (David the King)",
+      "David ben Yishai (David son of Jesse)",
+      "the sweet singer of Israel",
+      "Dawud (in Islam)"
+    ]
+  },
+  "roles": [
+    "king of Israel",
+    "founder of the Davidic dynasty",
+    "warrior and unifier of the tribes",
+    "psalmist (traditional author of many Psalms)",
+    "ancestor of the awaited messiah (mashiach)"
+  ],
+  "summary": "David (David ha-Melech, David son of Jesse), of the tribe of Judah, is in the biblical narrative the second king of Israel, who unites the tribes, takes Jerusalem as his capital, and receives the divine promise of an everlasting dynasty (the Davidic covenant, 2 Samuel 7), from which the messiah (mashiach) is expected to descend; tradition also remembers him as the author of many Psalms. His historicity and the scale of his kingdom are debated in modern scholarship, which sets the Deuteronomistic and Chronicler portrayals against the archaeological record and the ninth-century BCE Tel Dan 'House of David' inscription.",
+  "description": "David is presented here first on the terms of the biblical and Jewish tradition, with the historical-critical assessment given separately and attributed to scholarship; the editor neither affirms nor denies the details of the biblical account nor settles the debate over David's historicity or the extent of his kingdom.\n\nIn the biblical narrative (chiefly 1 and 2 Samuel, the opening of 1 Kings, and, in a later and more idealized retelling, 1 Chronicles), David is the youngest son of Jesse (Yishai) of Bethlehem, of the tribe of Judah. Anointed in secret by the prophet Samuel while Saul still reigns, he enters Saul's service, wins renown by killing the Philistine champion Goliath, and, after Saul turns against him, spends years as a fugitive and outlaw before becoming king, first over Judah at Hebron and then over all the tribes of Israel. He captures the Jebusite stronghold of Jerusalem and makes it his capital ('the city of David'), brings the Ark of the Covenant there, and extends his rule by war. When he proposes to build a house (a temple) for God, the prophet Nathan brings instead a divine promise that God will build a 'house' (a dynasty) for David: in 2 Samuel 7 God declares, in the words read on Sefaria (7:12-16, revised JPS), 'I will raise up your offspring after you... and I will establish his kingship. He shall build a house for My name, and I will establish his royal throne forever... I will be a father to him, and he shall be a son to Me... Your house and your kingship shall ever be secure before you; your throne shall be established forever.' This unconditional promise of an enduring dynasty is what Jewish tradition calls the Davidic covenant, and it is the root of the later expectation that the mashiach, the anointed king who will redeem Israel, will come from the line of David. The narrative does not idealize him: it records his adultery with Bathsheba and his arranging of the death of her husband Uriah, the prophet Nathan's rebuke, and the revolts and violence within his own house. Jewish tradition also receives David as a singer and poet, ascribing to him many of the Psalms (Tehillim), a large number of which carry a Davidic superscription, so that he is remembered as 'the sweet singer of Israel'.\n\nModern historical-critical scholarship reads this same material with different tools, and its assessment is recorded here as scholarship, not as the tradition's claim and not as the editor's verdict. Scholars distinguish the Deuteronomistic History (the Samuel-Kings narrative, itself drawing on older sources such as a 'History of David's Rise' and a 'Succession Narrative') from the later, more idealizing portrayal in Chronicles, and debate how much of the biblical David can be recovered as history. Biographical studies by Steven McKenzie (King David: A Biography) and Baruch Halpern (David's Secret Demons: Messiah, Murderer, Traitor, King) read behind the received text to reconstruct a ruler whose rise to power involved violence and whose apologetic sources may work to exonerate him; Jacob Wright (David, King of Israel, and Caleb in Biblical Memory) treats the biblical David largely as a figure shaped by later 'memory' and the political and ideological aims of those who transmitted the accounts, comparing their function to war memorials. On the question of David's historical existence, many scholars regard the discovery at Tel Dan of an Aramaic victory stele as a turning point: (published by Avraham Biran and Joseph Naveh, 1993 and 1995), a ninth-century BCE inscription that most scholars read as referring to the 'House of David' (bytdwd), taken by many as evidence that a dynasty tracing itself to a David was known a little more than a century after his traditional dates; the scale and character of David's kingdom, however (whether a substantial united monarchy or a smaller highland chiefdom), remains contested between 'maximalist' and 'minimalist' readings of the text and the archaeology. The editor does not adjudicate this debate; it records that the tradition receives David as the anointed king of the everlasting covenant and that scholarship treats the historical David, and the extent of his realm, as open and debated.\n\nOther traditions read this same figure on their own terms, and those readings are attributed to them here, not folded into the Jewish entry. In Christianity David is the ancestor of Jesus, whom the Gospels present as 'son of David' and the promised heir of the Davidic throne, so that the everlasting-dynasty promise of 2 Samuel 7 is read as fulfilled in Christ; this is a Christian reading, recorded as such and not as the claim of this Jewish entry. In Islam David is Dawud, a prophet and messenger and a righteous king to whom God gave the Zabur (Psalms); that reading belongs to Islam's own account of the figure. These cross-tradition readings are noted, not harmonized, and none is treated as the measure of another.",
+  "editorial_notes": "The entry describes David on the biblical and Jewish tradition's own terms first (neutrality #6, #7), with a clearly separated register for the historical-critical assessment (the register-separation device used in moses and abraham): the Samuel-Kings-Chronicles account and the Davidic covenant are given as the tradition's account, and the scholarly debate over David's historicity and the scale of his kingdom is attributed to named scholarship (McKenzie, Halpern, Wright) and to the archaeological datum (the Tel Dan 'House of David' inscription, Biran and Naveh 1993/1995), not asserted or denied in the editor's voice. The editor does not rule that David was or was not historical, nor how large his kingdom was; the tension between the Deuteronomistic and Chronicler portrayals and the archaeology is presented as an attributed scholarly debate. David is a SHARED figure: Christianity reads him as the ancestor of Jesus and 2 Samuel 7 as fulfilled in Christ ('son of David'), and Islam reads him as the prophet-king Dawud who received the Zabur. Per ADR-0005 and neutrality #10, a compares_with is directed to jesus-of-nazareth (which exists as a christianity figure), comparing the shared figure and question, the Davidic promise and its heir, and stating the difference without ranking or harmonizing; the Islamic reading is noted, but no dawud figure entity exists yet, so it is left as a prose note and a dangling forward reference rather than a compares_with to a non-existent target (flagged). Sourcing triangulates the three lenses required for a Jewish/biblical figure per #8-9: (a) academic historians of David (Baruch Halpern, David's Secret Demons, Eerdmans 2001; Steven L. McKenzie, King David: A Biography, Oxford 2000; Jacob L. Wright, David, King of Israel, and Caleb in Biblical Memory, Cambridge 2014) and the primary archaeological publication (Biran and Naveh, Israel Exploration Journal, 1993 and 1995, on the Tel Dan stele); (b) the primary text, open and auditable on Sefaria (1-2 Samuel, 2 Samuel 7 for the covenant, and the Psalms); (c) a contemporary Jewish scholar (Jon D. Levenson, on the Davidic covenant and the Zion tradition). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing everlasting-dynasty promise was read line-by-line on Sefaria and quoted verbatim from the revised JPS (2023) at 2 Samuel 7:12-16 ('I will establish his royal throne forever... Your house and your kingship shall ever be secure before you; your throne shall be established forever'); that primary source carries honest high confidence. Halpern, McKenzie, Wright, Biran-Naveh, and Levenson are medium, verified via publisher and journal records to exist and be on-topic, not read line-by-line. The compares_with target jesus-of-nazareth exists; related_to targets mashiach, tanakh, and torah exist in the dataset, and dawud (islam) is noted as a dangling forward reference. The lifespan is given as approximate/traditional negative BCE integers; see the note.",
+  "lifespan": {
+    "birth": -1040,
+    "death": -970,
+    "note": "Approximate and traditional. Jewish and biblical chronology places David's reign conventionally c. 1010-970 BCE, and the birth (c. 1040 BCE) and death (c. 970 BCE) years given here as negative integers are round traditional estimates derived from that reign, not fixed or independently attested dates. Modern scholarship debates David's historicity and dating, and the Tel Dan inscription (ninth century BCE) attests a 'House of David' only about a century after these traditional dates rather than David himself; the integers should be read as approximate scholarly/traditional estimates, not established fact."
+  },
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "jesus-of-nazareth",
+      "note": "David is a shared figure, and this link compares the shared question of the Davidic promise and its heir, not the answers, ranking and equating neither (neutrality #10). In Judaism, presented here on its own terms, David is the anointed king to whom God promised an everlasting dynasty (2 Samuel 7), and the awaited mashiach is expected to be a future human king descended from David who will restore Israel's sovereignty; the mainstream tradition holds that this expectation has not been fulfilled. Christianity reads the same everlasting-dynasty promise as fulfilled in Jesus, whom the Gospels present as 'son of David', the Messiah (Christ) and heir of David's throne, and in whom the Davidic covenant is confessed to reach its consummation; this Christian identification belongs to the Christian entries and is recorded here only as an attributed cross-tradition difference, not adjudicated and not imported into the Jewish description. Each position is attributed to its tradition; neither is treated as the measure of the other. (Islam, for its part, honours David as Dawud, a prophet and messenger and righteous king to whom God gave the Zabur; no dawud figure entity exists yet, so this is noted rather than linked.)"
+    },
+    {
+      "type": "related_to",
+      "target": "mashiach",
+      "note": "The mashiach, the awaited anointed king who will redeem Israel, is expected in the tradition to descend from the line of David on the strength of the Davidic covenant (2 Samuel 7), which promises David an enduring throne; the messianic king renews the Davidic dynasty. The mashiach entry already links to david as its Davidic root."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The account of David is given in the Nevi'im and Ketuvim of the Tanakh, chiefly 1 and 2 Samuel and the opening of 1 Kings, with a later retelling in 1 Chronicles and the Davidic covenant at 2 Samuel 7; many Psalms (Tehillim) in the Ketuvim carry a Davidic superscription."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "David stands outside the Torah proper (his narrative is in the Prophets and Writings), but Jewish tradition understands the Davidic kingship and covenant as standing in continuity with the covenantal history that begins in the Torah with Abraham and Sinai."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Tanakh (Hebrew Bible), open Hebrew and English text on Sefaria: 2 Samuel 7 (the Davidic covenant), esp. 7:12-16 (revised JPS, 2023): 'I will raise up your offspring after you, one of your own issue, and I will establish his kingship. He shall build a house for My name, and I will establish his royal throne forever... I will be a father to him, and he shall be a son to Me... Your house and your kingship shall ever be secure before you; your throne shall be established forever.' Also 1-2 Samuel and the opening of 1 Kings for the narrative of David's rise and reign, and the Psalms (Tehillim) for the psalms traditionally ascribed to him. Primary scripture for the Davidic covenant and the biblical account of David; 2 Samuel 7:12-16 read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/II_Samuel.7.12-16",
+      "license": "Hebrew original in the public domain; Sefaria's revised JPS (2023) English translation under a Creative Commons license. 2 Samuel 7:12-16 read line-by-line via the Sefaria text API (2026-07-23); the wider narrative and Psalms consulted but not read in full.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "McKenzie, Steven L. King David: A Biography. Oxford: Oxford University Press, 2000. An academic biography reading behind the Deuteronomistic narrative to reconstruct David's rise to power, arguing that the biblical apologetic conceals a ruler whose ascent involved violence; cited as the academic-historian lens on the historical David and the critical reading of the Samuel sources. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/king-david-9780195147087",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Halpern, Baruch. David's Secret Demons: Messiah, Murderer, Traitor, King. The Bible in Its World. Grand Rapids: Eerdmans, 2001. A detailed critical study of the David traditions, analyzing the apologetic character of the biblical sources and reconstructing a historical David very different from the received portrait; cited as the academic-historian lens on the sources and the historical David. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.eerdmans.com/9780802827975/davids-secret-demons/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wright, Jacob L. David, King of Israel, and Caleb in Biblical Memory. Cambridge: Cambridge University Press, 2014. A study reading the biblical David largely through the lens of collective memory and the political and ideological aims of those who transmitted the accounts, comparing their function to war memorials; cited as the academic lens on the David narrative as shaped memory. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/ajs-review/article/jacob-l-wright-david-king-of-israel-and-caleb-in-biblical-memory-cambridge-cambridge-university-press-2014-271-pp/8DDC1C11ED9481C8F39477229AB18CC5",
+      "license": "Proprietary; cited for reference. URL is the AJS Review record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Biran, Avraham, and Joseph Naveh. 'An Aramaic Stele Fragment from Tel Dan.' Israel Exploration Journal 43 (1993): 81-98; and 'The Tel Dan Inscription: A New Fragment.' Israel Exploration Journal 45 (1995): 1-18. The editio princeps of the Tel Dan stele, a ninth-century BCE Aramaic victory inscription most scholars read as referring to the 'House of David' (bytdwd); cited as the primary archaeological datum in the debate over the historicity of a Davidic dynasty. Verified to exist and be on-topic, not consulted in the original offprint here.",
+      "url": "https://www.jstor.org/stable/27926284",
+      "license": "Proprietary (journal); cited for reference. URL is the JSTOR record for the 1993 IEJ article.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. Sinai and Zion: An Entry into the Jewish Bible. Minneapolis: Winston Press, 1985; and 'The Davidic Covenant and Its Modern Interpreters.' Catholic Biblical Quarterly 41, no. 2 (1979): 205-219. A contemporary Jewish scholar's treatment of the Davidic (Zion) covenant and its unconditional promise of an enduring dynasty, set in relation to the Sinai covenant; cited as the contemporary-Jewish-scholarship lens on the Davidic covenant of 2 Samuel 7. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.jstor.org/stable/43715788",
+      "license": "Proprietary; cited for reference. URL is the JSTOR record for the CBQ article.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

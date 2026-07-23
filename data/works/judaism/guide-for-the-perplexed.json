@@ -1,0 +1,104 @@
+{
+  "id": "guide-for-the-perplexed",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Guide for the Perplexed",
+    "original": "دلالة الحائرين",
+    "transliteration": "Dalalat al-Ha'irin",
+    "aliases": [
+      "Moreh Nevukhim (מוֹרֵה נְבוּכִים, the Hebrew title)",
+      "The Guide of the Perplexed",
+      "Dalalat al-Ha'irin (the Judeo-Arabic original)"
+    ]
+  },
+  "category": "philosophical treatise",
+  "date": {
+    "year": 1190,
+    "note": "Written c. 1190 CE in Fustat, Egypt, in the form of a series of letters to a pupil, Joseph ben Judah. The date is the conventional scholarly dating of its completion; it circulated soon after in Hebrew translations (Samuel ibn Tibbon; al-Harizi)."
+  },
+  "summary": "The Guide for the Perplexed (Judeo-Arabic Dalalat al-Ha'irin, Hebrew Moreh Nevukhim) is Maimonides' philosophical treatise, written c. 1190 for a student perplexed by the apparent conflict between the Torah and philosophy. It treats biblical anthropomorphism (reading the terms applied to God figuratively), a negative theology (the via negativa, God known only through negations), prophecy, the reasons for the commandments, and the question of the world's creation versus its eternity, and is the classic and most controversial work of medieval Jewish philosophy.",
+  "description": "The Guide for the Perplexed (in its Judeo-Arabic original Dalalat al-Ha'irin, in Hebrew Moreh Nevukhim) is Maimonides' major work of philosophy, written in Fustat around 1190 and cast as a series of letters addressed to a pupil, Joseph ben Judah, who had studied philosophy and the sciences alongside the Law. The Guide states its own audience precisely: it is written not for the ordinary believer nor for the trained philosopher who has abandoned the Law, but for the reader perplexed (the ha'ir, the nevukh) by an apparent conflict, one who holds fast to the Torah and to the observance of its commandments yet is troubled by the literal sense of the scriptural terms applied to God and by their apparent contradiction with what reason and philosophy teach. To relieve that perplexity is the announced aim of the work.\n\nA first and much of a second of its three parts are given to the interpretation of scriptural language about God. Maimonides argues that the many terms the Bible applies to God, terms of body, place, motion, and human affect, are equivocal (homonymous) and are to be read figuratively, not literally, since God is incorporeal; the opening chapters accordingly gloss such terms, arguing for instance that tzelem, the 'image' in which the human being is made (Genesis 1:26), 'signifies the specific form ... that which constitutes the essence of a thing', the intellect, and not any bodily shape. From the removal of anthropomorphism the Guide proceeds to its account of the divine attributes, a negative theology or via negativa: because God is absolutely one and simple, no positive attribute can be predicated of the divine essence, and God is known, so far as the divine essence can be approached at all, only through negations, by saying what God is not. As the Guide puts it, 'the negative attributes of God are the true attributes', for a positive attribute would imply multiplicity or deficiency in the One (I.58). The work further develops an account of prophecy (its degrees, and the prophet as one in whom intellect and imagination are perfected), a treatment of providence and the problem of evil, and, in a celebrated and deliberately guarded discussion, the question of the creation of the world in time as against the Aristotelian doctrine of its eternity, where Maimonides sets out the arguments on both sides and defends creation while stressing the limits of demonstration. Book III includes his account of the reasons for the commandments (ta'amei ha-mitzvot), the view that the commandments serve intelligible ends, the welfare of the body and of the soul, rather than being wholly beyond reason. Throughout, the Guide engages Aristotle and the Muslim philosophers, the falasifa, al-Farabi and Ibn Sina among them, whom Maimonides read closely and drew upon; this engagement is stated here as a matter of intellectual history, not ranked.\n\nMaimonides wrote the Guide, on his own account, in a deliberately guarded and sometimes deliberately obscure manner, scattering and partly concealing his views on the deepest questions so as not to set them plainly before readers unprepared for them; the extent and purpose of this esotericism has itself been a major question in the scholarship, addressed at length in Shlomo Pines's translation and in Leo Strauss's prefatory essay 'How to Begin to Study the Guide of the Perplexed'. The Guide provoked sustained and bitter controversy after Maimonides' death, the so-called Maimonidean controversy of the thirteenth century, in which rabbinic authorities in Provence, Spain, and northern France divided sharply over whether the philosophical program of the Guide, its allegorical reading of scripture, its intellectualism, and its treatment of questions such as bodily resurrection and the world's createdness, was compatible with traditional Torah study or a danger to it; the dispute reached the point of bans and counter-bans and, in one episode, the burning of the Guide. That controversy is recorded here as a historical disagreement with defenders and critics on both sides, not adjudicated. Alongside it stands the Guide's standing as the classic work of medieval Jewish philosophy and one of the most influential works of the entire tradition. It is presented here on Judaism's own terms, with the philosophical and historical scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry describes the Guide on Judaism's own terms (neutrality #1, #4, #6) as the classic work of medieval Jewish philosophy. Per neutrality #1-#2 and the task, the Maimonidean controversy is reported as a historical dispute, with defenders and critics on both sides attributed and not adjudicated: the entry names the disagreement, its parties, and its severity (bans, counter-bans, the burning of the Guide) without ruling on whether the philosophical program was compatible with traditional Torah study. His engagement with Aristotle and the Islamic falasifa (al-Farabi, Ibn Sina) is stated factually as intellectual history per neutrality #10-#11, not ranked. Sources triangulate three lenses per neutrality #8-9: (a) academic historians and philosophers of Maimonides (Davidson; Klein-Braslavy on his biblical interpretation; Seeskin, ed., The Cambridge Companion to Maimonides); (b) the primary text, open and auditable on Sefaria (the Guide in the Friedlander translation, read line-by-line at the opening on biblical anthropomorphism, I.1 on tzelem, and at I.58 on negative attributes); and (c) contemporary Jewish scholars (Halbertal; the Pines translation with Strauss's essay). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: the Guide (Friedlander) on Sefaria, Part 1, chapters 1 and 58, is rated high because those passages were read line-by-line for this entry, with the definition of tzelem ('the specific form ... that which constitutes the essence of a thing') and the negative-attributes doctrine ('the negative attributes of God are the true attributes') quoted; the Pines translation carries the same medium rating it holds in maimonides.json; the shared secondary sources carry the same medium rating they hold in maimonides.json (Davidson, Halbertal at medium), and Klein-Braslavy and Seeskin are new secondary sources at medium, verified via publisher and library records. Relation targets maimonides, torah, aristotle, mishneh-torah, and al-farabi: maimonides, torah, and aristotle exist; mishneh-torah is authored in the same batch; al-farabi is a dangling forward reference to a not-yet-created entity.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "maimonides",
+      "note": "Composed by Maimonides in Fustat c. 1190, in the form of letters to his pupil Joseph ben Judah. The maimonides entry exists and already references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The Guide is written for the reader perplexed by the apparent conflict between the Torah (especially the literal sense of its language about God) and philosophy, and much of it interprets scriptural terms figuratively. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "aristotle",
+      "note": "The Guide engages Aristotelian philosophy throughout, notably on the divine attributes, prophecy, and the question of creation versus the eternity of the world; stated as intellectual history, not ranked. The aristotle entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "al-farabi",
+      "note": "Maimonides drew on the Muslim philosophers (the falasifa), holding al-Farabi in particularly high regard; the Guide's philosophy engages the falsafa tradition. Stated factually as intellectual influence (neutrality #10-#11). Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "mishneh-torah",
+      "note": "The Guide is the philosophical counterpart to Maimonides' legal code; the Mishneh Torah's opening Book of Knowledge already treats the incorporeality and unity of God that the Guide develops at length. Authored in the same batch."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Guide for the Perplexed, Part 1, chapter 1, open English text on Sefaria (Michael Friedlander translation, 1904). Cited as the primary text for the account of biblical anthropomorphism and the figurative reading of scriptural terms applied to God: the term tzelem (the 'image' of Genesis 1:26) 'signifies the specific form, viz., that which constitutes the essence of a thing, whereby the thing is what it is', i.e. the intellect, not any bodily shape. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_1.1",
+      "license": "Friedlander translation (1904) in the public domain; open on Sefaria. Part 1, chapter 1 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Guide for the Perplexed, Part 1, chapter 58, open English text on Sefaria (Michael Friedlander translation, 1904). Cited as the primary text for the negative theology (via negativa): 'the negative attributes of God are the true attributes: they do not include any incorrect notions or any deficiency whatever in reference to God', so that of God 'all we understand is the fact that He exists, that He is a Being to whom none of His creatures is similar'. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_1.58",
+      "license": "Friedlander translation (1904) in the public domain; open on Sefaria. Part 1, chapter 58 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Maimonides, Moses. The Guide of the Perplexed. Translated with an introduction and notes by Shlomo Pines, with an introductory essay ('How to Begin to Study the Guide of the Perplexed') by Leo Strauss. Chicago: University of Chicago Press, 1963. The standard scholarly English translation of the Moreh Nevukhim; cited as a contemporary scholarly lens for the negative theology, the account of prophecy, the creation-versus-eternity discussion, and the question of the work's esotericism (Strauss's essay). Verified to exist and be on-topic (University of Chicago Press record); the relevant passages not read line-by-line for this entry.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/G/bo251523761.html",
+      "license": "Proprietary translation of a classical text; cited for reference.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Davidson, Herbert A. Moses Maimonides: The Man and His Works. Oxford and New York: Oxford University Press, 2005. A comprehensive scholarly biography and survey of Maimonides' writings; cited for the composition, dating (c. 1190), structure, and philosophical content of the Guide and its place in his corpus. Verified to exist and be on-topic (Oxford University Press record), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/moses-maimonides-9780195173215",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Klein-Braslavy, Sara. Maimonides as Biblical Interpreter. Emunot: Jewish Philosophy and Kabbalah. Boston: Academic Studies Press, 2011. A contemporary Jewish scholar's collection of studies on Maimonides' interpretation of scripture (the creation narrative, the Garden of Eden, Jacob's ladder, Solomon as philosopher) and on his esoteric method of writing in the Guide; cited for the Guide's figurative reading of biblical language and its guarded treatment of creation. Verified to exist and be on-topic (Academic Studies Press record; library catalogues), not read line-by-line.",
+      "url": "https://www.academicstudiespress.com/9781618110435/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Seeskin, Kenneth, ed. The Cambridge Companion to Maimonides. Cambridge Companions to Philosophy. Cambridge and New York: Cambridge University Press, 2005 (xv, 406 pp.). A collection of scholarly essays on Maimonides' sources, philosophy, theology, jurisprudence, biblical interpretation, and esoteric writing; cited as an academic lens on the Guide's negative theology, prophecy, reasons for the commandments, and the question of its esotericism. Verified to exist and be on-topic (Cambridge University Press record; PhilPapers), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-maimonides/22E51A0FA854A7D521D67ABF1A79614E",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Halbertal, Moshe. Maimonides: Life and Thought. Translated by Joel Linsider. Princeton: Princeton University Press, 2013. A contemporary Jewish scholar's study of Maimonides' life, his three great books, and his philosophical positions on the nature and limits of religious language, creation and nature, prophecy, providence, the problem of evil, and the meaning of the commandments; cited for the Guide's philosophical program and its reception. Verified to exist and be on-topic (Princeton University Press record; 2013 National Jewish Book Award in Scholarship), not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691158518/maimonides",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

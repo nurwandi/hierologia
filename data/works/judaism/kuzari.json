@@ -1,0 +1,78 @@
+{
+  "id": "kuzari",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Kuzari",
+    "original": "كتاب الخزري (Judeo-Arabic); ספר הכוזרי (Hebrew)",
+    "transliteration": "Kitab al-Khazari; Sefer ha-Kuzari",
+    "aliases": [
+      "The Book of the Khazar",
+      "Kitab al-radd wa-l-dalil fi al-din al-dhalil (The Book of Refutation and Proof in Defense of the Despised Faith)",
+      "Sefer ha-Kuzari"
+    ]
+  },
+  "category": "philosophical dialogue (apologetic treatise)",
+  "date": {
+    "year": 1140,
+    "note": "Completed c. 1140 (traditionally near the end of Judah Halevi's life; he died c. 1141). Written in Judeo-Arabic and later translated into Hebrew, most influentially by Judah ibn Tibbon (1167). The exact date of composition is not fixed; c. 1140 is the conventional scholarly dating."
+  },
+  "summary": "The Kuzari (Kitab al-Khazari, 'The Book of the Khazar') is a philosophical dialogue by Judah Halevi, completed c. 1140 in Judeo-Arabic, framed by the conversion of the king of the Khazars: after a recurring dream that his intentions please God but his deeds do not, the king interviews a philosopher, a Christian, and a Muslim, and finally a rabbi, whose account of the God of history persuades him. It is Halevi's defense of Judaism and of prophetic, historical religion against Aristotelian philosophy, presented as his own attributed apologetic.",
+  "description": "The Kuzari is a philosophical dialogue in five parts (ma'amarim) by the poet and thinker Judah Halevi (c. 1075-1141), completed around 1140 and written in Judeo-Arabic under the title Kitab al-radd wa-l-dalil fi al-din al-dhalil, 'The Book of Refutation and Proof in Defense of the Despised Faith', and known from its Hebrew title as Sefer ha-Kuzari, 'The Book of the Khazar'. The work is framed by a semi-historical setting: the king of the Khazars, a steppe people whose ruling house is remembered to have adopted Judaism, is troubled by a recurring dream in which he is told that his intentions are pleasing to God but his deeds are not. In search of the right way to act, he interviews in turn a philosopher, a Christian, and a Muslim, and is unsatisfied by each; he then summons a rabbi (the Chaver, the 'friend' or 'companion'), whose replies occupy the bulk of the book and eventually persuade the king to convert.\n\nThe literary and argumentative pivot of the dialogue is the rabbi's opening reply. Where the philosopher had begun from an abstract first cause and the argument from cosmic order, the rabbi answers with the God of history and shared national experience. In the text as it stands (read on Sefaria in Hartwig Hirschfeld's translation, Kuzari 1:17), the rabbi replies: 'I believe in the God of Abraham, Isaac and Israel, who led the children of Israel out of Egypt with signs and miracles; who fed them in the desert and gave them the land, after having made them traverse the sea and the Jordan in a miraculous way; who sent Moses with His law, and subsequently thousands of prophets, who confirmed His law by promises to the observant, and threats to the disobedient. Our belief is comprised in the Torah--a very large domain.' When the king objects that the rabbi should rather have named the Creator and Governor of the world, the abstract God of the philosophers, the rabbi answers (Kuzari 1:19, read on Sefaria) that 'that which thou dost express is religion based on speculation and system, the research of thought, but open to many doubts', whereas the God of Abraham is known through an event witnessed by a whole people. From this contrast Halevi develops his central themes: the priority of the shared national experience of revelation at Sinai (a public event, not a private philosopher's inference) as the ground of religious certainty; the special character of prophecy and of the people, land, and language of Israel; and a critique of Aristotelian philosophy's claims to reach God and the highest human end by demonstration alone. As Diana Lobel has shown, Halevi draws on the vocabulary of religious experience, including terms with Sufi resonance, to articulate a Jewish theology of direct encounter with God, and as Yochanan Silman argues, the work reflects the evolution of Halevi's thought toward a defense of historical, revealed religion over the philosophical rationalism of his milieu.\n\nHalevi's dialogue characterizes the philosopher, the Christian, and the Muslim and then argues, through the rabbi, for Judaism. That structure and those characterizations are presented here as Halevi's own attributed apologetic and literary frame, an eleventh-to-twelfth-century Jewish defense of Judaism, and not as this project's account of philosophy, Christianity, or Islam; the editor does not adjudicate Halevi's claims or endorse his portraits of the other positions. The work became one of the most influential works of medieval Jewish thought, widely read in Ibn Tibbon's Hebrew and the subject of a long commentary tradition.",
+  "editorial_notes": "This entry describes the Kuzari as a work: its authorship, date, language, literary frame, and central argument, on the terms of neutrality #1 (describe, do not adjudicate) and with the cross-tradition sensitivity of #11. The dialogue's premise is that a rabbi's account of Judaism persuades the Khazar king after a philosopher, a Christian, and a Muslim have each been found wanting; Halevi's characterizations of those three interlocutors, and his argument for Judaism, are presented explicitly as HALEVI'S OWN attributed apologetic and literary device (a medieval Jewish defense of the 'despised faith'), NOT as this project's description of philosophy, Christianity, or Islam, and NOT as evidence for what those traditions hold. The editor neither endorses nor refutes Halevi's polemic, and does not treat his portraits of the philosopher, the Christian, or the Muslim as neutral descriptions of those positions (neutrality #11: a tradition's apologetic against or about others is recorded as an attributed position, never as a neutral account of the other). Sourcing triangulates the three lenses required for a Jewish work per neutrality #8-9: (a) academic scholarship on the Kuzari (Barry S. Kogan, the Yale Judaica Series translator and scholar of Halevi; Diana Lobel, Between Mysticism and Philosophy, SUNY 2000; Yochanan Silman, Philosopher and Prophet, SUNY 1995); (b) the primary text itself, open and auditable on Sefaria (the Kuzari in Hartwig Hirschfeld's translation); (c) a contemporary Jewish scholar (Lobel, a scholar of Jewish philosophy). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing rabbi's-opening passage was read line-by-line on Sefaria and quoted verbatim from Hirschfeld's translation at Kuzari 1:17 (the God of Abraham, Isaac and Israel who led Israel out of Egypt), together with the king's objection and the rabbi's reply on the abstract God of the philosophers at 1:18-19; that primary source carries honest high confidence. Note on section numbering: Sefaria's section 1:17 corresponds to Hirschfeld's paragraph 11 (Sefaria's chapter divisions are offset from Hirschfeld's paragraph numbers), which is why older references cite this passage as 'Kuzari I:11'; both the Sefaria URL and the Hirschfeld paragraph number are given for auditability. Kogan, Lobel, and Silman are medium, verified via publisher and journal records to exist and be on-topic, not read line-by-line. The relation authored_by judah-halevi is authored in the same batch (dangling ok, flagged); related_to targets torah, moses, and abraham exist in the dataset.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "judah-halevi",
+      "note": "The Kuzari is the major prose work of Judah Halevi (Yehuda ha-Levi, c. 1075-1141), the Andalusi Hebrew poet and thinker, written in Judeo-Arabic and completed c. 1140. The author entity is authored alongside this work in the same batch (forward reference, dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The rabbi's reply grounds Jewish belief in the Torah ('Our belief is comprised in the Torah--a very large domain', Kuzari 1:17), and the work defends the Torah and its law as revealed and historically attested against the abstract God of the philosophers."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "In the rabbi's opening statement the God of history 'sent Moses with His law' (Kuzari 1:17); the revelation to Moses and the shared national experience of Sinai are central to Halevi's argument for the certainty of revealed religion."
+    },
+    {
+      "type": "related_to",
+      "target": "abraham",
+      "note": "The rabbi names 'the God of Abraham, Isaac and Israel' (Kuzari 1:17) rather than the philosophers' first cause, making the God of the patriarchs and of Israel's history, not an abstract deity, the ground of belief."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Judah Halevi. The Kuzari (Kitab al-Khazari), Part I, trans. Hartwig Hirschfeld (1905). Open Hebrew and English text on Sefaria. Kuzari 1:17 (Hirschfeld paragraph 11): 'The Rabbi replied: I believe in the God of Abraham, Isaac and Israel, who led the children of Israel out of Egypt with signs and miracles; who fed them in the desert and gave them the land, after having made them traverse the sea and the Jordan in a miraculous way; who sent Moses with His law, and subsequently thousands of prophets, who confirmed His law by promises to the observant, and threats to the disobedient. Our belief is comprised in the Torah--a very large domain.' Kuzari 1:19 (Hirschfeld paragraph 13), the rabbi on the God of the philosophers: 'That which thou dost express is religion based on speculation and system, the research of thought, but open to many doubts.' The load-bearing passage that frames Halevi's argument for the God of history over the abstract God of philosophy; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Kuzari.1.17",
+      "license": "Hebrew original in the public domain; Hirschfeld's 1905 English translation is in the public domain. Kuzari 1:17, 1:18, and 1:19 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Kogan, Barry S. 'Judah Halevi.' Scholarship on the Kuzari by the translator preparing the Yale Judaica Series English edition of the Kuzari (begun by Lawrence V. Berman and continued by Kogan). Barry S. Kogan is a scholar of medieval Jewish and Islamic philosophy; cited as the academic lens on Halevi's life, the Judeo-Arabic text, and the argument of the Kuzari. Verified to exist and be on-topic (Yale Judaica Series translation project and Kogan's published scholarship on Halevi), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/series/yale-judaica-series/",
+      "license": "Proprietary / scholarly; cited for reference. URL confirms Kogan's authorship of scholarship on Halevi.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lobel, Diana. Between Mysticism and Philosophy: Sufi Language of Religious Experience in Judah Ha-Levi's Kuzari. SUNY Series in Jewish Philosophy. Albany: State University of New York Press, 2000. A study of how Halevi's Kuzari draws on the vocabulary of religious experience, including terms with Sufi resonance, to articulate a Jewish theology of direct encounter with God rather than philosophical inference; carries the contemporary-Jewish-scholarship lens and the academic reading of the work's language and argument. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://sunypress.edu/Books/B/Between-Mysticism-and-Philosophy",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Silman, Yochanan. Philosopher and Prophet: Judah Halevi, the 'Kuzari,' and the Evolution of His Thought. Trans. Lenn J. Schramm. Albany: State University of New York Press, 1995. A study describing the development of Halevi's thought and the strata of the Kuzari, reading the work as Halevi's movement toward a defense of prophetic, historical, revealed religion over philosophical rationalism; cited as the academic lens on the argument and composition of the Kuzari. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/ajs-review/article/abs/yochanan-silman-philosopher-and-prophet-judah-halevi-the-kuzari-and-the-evolution-of-his-thought-albany-state-university-of-new-york-press-1995-x-370-pp/6FB5E241F9F829D3E979BDBEF582AA1C",
+      "license": "Proprietary; cited for reference. URL is the AJS Review record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

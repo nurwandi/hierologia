@@ -1,0 +1,126 @@
+{
+  "id": "nachmanides",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Nachmanides",
+    "original": "מֹשֶׁה בֶּן נַחְמָן",
+    "transliteration": "Mosheh ben Nachman",
+    "aliases": [
+      "Moses ben Nahman",
+      "Ramban (רמב\"ן, acronym of Rabbi Moshe ben Nachman)",
+      "Nahmanides",
+      "Moses ben Nahman Gerondi",
+      "Bonastruc ca Porta"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "Talmudist and halakhist",
+    "biblical commentator (parshan)",
+    "kabbalist",
+    "communal leader"
+  ],
+  "summary": "Nachmanides (Moses ben Nahman, the Ramban, 1194-1270), of Girona in Catalonia, was the leading Talmudist, halakhist, and biblical exegete of thirteenth-century Spain and a major early kabbalist who wove kabbalistic allusion into his Torah commentary. He was compelled to take part in the Disputation of Barcelona (1263) before King James I of Aragon and later settled in the Land of Israel.",
+  "description": "Nachmanides, Moses ben Nahman, known in the Jewish tradition by the acronym Ramban (Rabbi Moshe ben Nachman) and in Catalan as Bonastruc ca Porta, lived in Girona in Catalonia and is generally regarded as the foremost Talmudic and halakhic authority of thirteenth-century Spain, as well as a leading biblical exegete and one of the early figures of Kabbalah in Catalonia. He worked across the disciplines of his age: novellae (hiddushim) on the Talmud that shaped later Spanish and Provencal Talmudic study, halakhic works, a running commentary on the Torah, and kabbalistic teaching transmitted within a circle in Girona.\n\nHis commentary on the Torah is among the most influential of the medieval period. It is at once exegetical, theological, and, at intervals, kabbalistic: alongside grammatical and narrative exposition he introduces allusions to esoteric matters he marks as 'by way of truth' (al derekh ha-emet), pointing to kabbalistic meanings he does not fully unfold. The commentary is also dialogical, engaging his predecessors: he cites, develops, and often disputes Rashi and Abraham ibn Ezra, and he responds to Maimonides on points of philosophy and law. In the foreword to the commentary he sets out a strong doctrine of the Torah's origin, writing that 'the entire Torah, from the beginning of Genesis to in the sight of all Israel, reached the ear of Moses from the mouth of the Holy One, blessed be He', so that 'Moses was like a scribe who copies from an ancient book'; David Novak's systematic study reconstructs the theology of the soul, faith, tradition, miracle, nature, the commandments, the Land of Israel, and redemption that runs through these writings, and Moshe Idel treats the interlacing of Kabbalah, halakha, and spiritual leadership in his career.\n\nIn 1263 Nachmanides was compelled to take part in the Disputation of Barcelona, a public, forced Christian-Jewish disputation convened before King James I of Aragon, in which the Dominican convert from Judaism Pablo Christiani (Friar Paul) argued from rabbinic (talmudic and midrashic) texts that they conceded Christian claims about the messiah, and Nachmanides responded in defence of the Jewish reading of those texts. The event is recorded here as a historical episode: the arguments attributed to Nachmanides are given as his attributed position, and the arguments of the Christian side as Pablo Christiani's, without the editor adjudicating the exchange. As Robert Chazan's reconstruction from the conflicting Christian (Latin) and Jewish (Hebrew) accounts notes, the two surviving sources each claim the outcome for their own side, and the disputation is better described as indecisive than as won by either party; this entry does not rule on who prevailed. Nachmanides afterwards wrote a Hebrew narrative of the disputation (the Vikuach ha-Ramban), which, together with the differing Christian record, is one of the sources historians weigh. Some years later Nachmanides left Spain and settled in the Land of Israel, at Acre, where he was active in the closing years of his life. He is presented here on Judaism's own terms as Talmudist, exegete, and kabbalist, with the scholarship on his thought and on the disputation recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Nachmanides on Judaism's own terms as Talmudist, halakhist, biblical exegete, and early kabbalist (neutrality #1, #4, #6). The crux is the Disputation of Barcelona (1263), handled per neutrality #11 and the neutrality memo's #11 example: it is reported as a historical event and as a FORCED Christian-Jewish disputation; Nachmanides' arguments are attributed to him as his position and the Christian side's arguments to the convert Pablo Christiani (Friar Paul) as theirs; the editor does NOT adjudicate who 'won'. The entry states that the surviving Jewish (Hebrew) and Christian (Latin) accounts each claim victory and that scholarship (Chazan) describes the outcome as indecisive, and it does not import polemic from either side into the descriptive voice. His close engagement with and frequent disagreement with Rashi, Ibn Ezra, and Maimonides is stated as intellectual dialogue, not adjudicated. His kabbalistic allusions ('al derekh ha-emet') are reported as a feature of the commentary, not expounded as doctrine. Sources triangulate three lenses per neutrality #8-9: (a) academic historians and systematic studies (Novak on his theology; Caputo on Nahmanides in Catalonia; Chazan on the disputation; Idel on his Kabbalah); (b) the primary text, open and auditable on Sefaria (Ramban's foreword to the Torah commentary and Ramban on Genesis 1:1, both read line-by-line, with the divine-authorship passage and the 'nations of the world' passage quoted verbatim); and (c) contemporary Jewish scholars (Novak; Idel). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: Ramban on Genesis, Foreword, and Ramban on Genesis 1:1 on Sefaria are rated high because they were read line-by-line for this entry, with passages quoted verbatim; the secondary works (Novak, Caputo, Chazan, Idel) are medium, verified via publisher and library records, not read line-by-line. The Vikuach ha-Ramban (Nachmanides' own Hebrew account of the disputation) is described but is not currently available as a primary text on Sefaria under a locatable index title, so it is not cited as a read source; the disputation account rests on Chazan's scholarly reconstruction. Relation targets: torah, tanakh, talmud exist (data/works/judaism); rashi, ibn-ezra, maimonides exist (data/figures/judaism); rabbinic-judaism exists (data/schools/judaism); kabbalah and barcelona-disputation are dangling forward references to not-yet-created entities (kabbalah is a future Batch 3 target).",
+  "lifespan": {
+    "birth": 1194,
+    "death": 1270,
+    "note": "1194-1270 CE (birth also given as c. 1195 in some scholarship); born in Girona in Catalonia, died in the Land of Israel (Acre) around 1270 after settling there in his final years."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "Nachmanides' commentary on the Torah, exegetical, theological, and kabbalistic, is among the most influential of the medieval period. The torah entry exists (data/works/judaism/torah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "His biblical exegesis and theology draw on the Tanakh (the Hebrew Bible) as a whole, though his major commentary is on the Torah. The tanakh entry exists (data/works/judaism/tanakh.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "Nachmanides' novellae (hiddushim) on the Talmud were a formative contribution to medieval Spanish and Provencal Talmudic study. The talmud entry exists (data/works/judaism/talmud.json)."
+    },
+    {
+      "type": "influenced_by",
+      "target": "rashi",
+      "note": "His Torah commentary engages Rashi throughout, developing and at points disputing his readings; stated as intellectual engagement. The rashi entry exists."
+    },
+    {
+      "type": "influenced_by",
+      "target": "ibn-ezra",
+      "note": "Nachmanides cites and frequently disputes Ibn Ezra's grammatical peshat readings in his Torah commentary; stated as intellectual engagement. The ibn-ezra entry is authored in the same batch."
+    },
+    {
+      "type": "refuted",
+      "target": "maimonides",
+      "note": "On several points of philosophy and law Nachmanides argued against Maimonides' positions while also defending him during the Maimonidean controversy; 'refuted' names his attributed disagreement on specific questions, not a wholesale rejection. The maimonides entry exists."
+    },
+    {
+      "type": "member_of",
+      "target": "rabbinic-judaism",
+      "note": "As the leading Talmudist and halakhist of thirteenth-century Spain, Nachmanides stands within the rabbinic tradition. The rabbinic-judaism entry exists (data/schools/judaism/rabbinic-judaism.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Nachmanides was a major early kabbalist in Catalonia who introduced kabbalistic allusions ('al derekh ha-emet') into his Torah commentary; reported as a feature of his thought, not expounded. Dangling forward reference to a not-yet-created entity (future Batch 3)."
+    },
+    {
+      "type": "related_to",
+      "target": "barcelona-disputation",
+      "note": "Nachmanides was compelled to take part in the forced Christian-Jewish Disputation of Barcelona (1263) before King James I of Aragon, opposite the convert Pablo Christiani; reported as a historical event, both sides' arguments attributed, the outcome not adjudicated (neutrality #11). Dangling forward reference to a not-yet-created event entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ramban on Genesis, Foreword (segment 5), open Hebrew and English text on Sefaria. Cited as the primary text for Nachmanides' doctrine of the Torah's origin: 'it is true and clear that the entire Torah, from the beginning of Genesis to in the sight of all Israel, reached the ear of Moses from the mouth of the Holy One, blessed be He', and 'Thus Moses was like a scribe who copies from an ancient book' (Hebrew: 'hineh Moshe ke-sofer ha-ma'atik mi-sefer kadmon ve-khotev'). Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Ramban_on_Genesis%2C_Foreword.5",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Ramban on Genesis, Foreword, read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ramban on Genesis 1:1, open Hebrew and English text on Sefaria. Cited as the primary text for the opening of his Torah commentary, where he takes up Rabbi Isaac's question (via Rashi) why the Torah begins with creation and gives the reason that 'should the nations of the world say to Israel, You are robbers ... they may reply to them, The whole world belongs to the Holy One, blessed be He', illustrating his dialogical engagement with Rashi at the very start of the commentary. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Ramban_on_Genesis.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Ramban on Genesis 1:1 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Novak, David. The Theology of Nahmanides Systematically Presented. Brown Judaic Studies 271. Atlanta: Scholars Press, 1992 (open-access reissue, Providence: Brown Judaic Studies). A contemporary Jewish scholar's systematic reconstruction of Nachmanides' theology across the soul, faith, tradition, miracle, nature and the supernatural, the Land of Israel, the commandments, and eschatology; cited as an academic and contemporary-scholarly lens on his thought. Verified to exist and be on-topic (Brown Judaic Studies; open access via Fulcrum), not read line-by-line.",
+      "url": "https://www.fulcrum.org/concern/monographs/sj139380h",
+      "license": "Open access (Brown Judaic Studies / Fulcrum); cited for reference.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Caputo, Nina. Nahmanides in Medieval Catalonia: History, Community, and Messianism. Notre Dame, IN: University of Notre Dame Press, 2007. A study situating Nachmanides in the intellectual and religious context of thirteenth-century Catalonia, including his communal leadership, his conceptions of history and messianic redemption, and his engagement with the surrounding Christian culture; cited as an academic-historical lens. Verified to exist and be on-topic (University of Notre Dame Press record; reviews in AJS Review and The Journal of Religion), not read line-by-line.",
+      "url": "https://undpress.nd.edu/9780268022938/nahmanides-in-medieval-catalonia/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Chazan, Robert. Barcelona and Beyond: The Disputation of 1263 and Its Aftermath. Berkeley and Los Angeles: University of California Press, 1992. A scholarly reconstruction of the 1263 Disputation of Barcelona from the conflicting Christian (Latin) and Jewish (Hebrew) sources, with attention to its historical context and aftermath; cited for the account of the forced disputation between Nachmanides and Friar Paul (Pablo) Christiani before King James I, and for the finding that the two accounts each claim victory and that the outcome is best described as indecisive. Verified to exist and be on-topic (University of California Press record; Internet Archive), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/barcelona-and-beyond/epub-pdf",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. 'Nahmanides: Kabbalah, Halakhah, and Spiritual Leadership.' In Jewish Mystical Leaders and Leadership in the 13th Century, edited by Moshe Idel and Mortimer Ostow. Northvale, NJ: Jason Aronson, 1998 (ISBN 9780765759948). A contemporary Jewish scholar's essay on the interweaving of Kabbalah, halakha, and spiritual leadership in Nachmanides' career and of the Girona kabbalistic circle; cited as a contemporary-scholarly lens on his Kabbalah. The edited volume is verified to exist and be on-topic (Jason Aronson, 1998; the volume treats Nahmanides among its subjects); the exact page range of Idel's chapter was not confirmed and is therefore omitted, and this source is rated low accordingly.",
+      "url": "https://books.google.com/books/about/Jewish_Mystical_Leaders_and_Leadership_i.html?id=UW0wAAAAYAAJ",
+      "license": "Proprietary; cited for reference (Google Books record for the edited volume).",
+      "accessed": "2026-07-23",
+      "confidence": "low"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

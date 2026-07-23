@@ -1,0 +1,85 @@
+{
+  "id": "ibn-ezra",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Abraham ibn Ezra",
+    "original": "אַבְרָהָם בֶּן מֵאִיר אִבְּן עֶזְרָא",
+    "transliteration": "Avraham ben Meir ibn Ezra",
+    "aliases": [
+      "Abraham ben Meir ibn Ezra",
+      "Rabbi Avraham ibn Ezra",
+      "Aben Ezra",
+      "Ibn Ezra of Tudela",
+      "Ra'ava (ראב\"ע, acronym of Rabbi Avraham ben Ezra)"
+    ]
+  },
+  "roles": [
+    "biblical commentator (parshan)",
+    "Hebrew grammarian and philologist",
+    "poet",
+    "philosopher",
+    "astronomer and mathematician"
+  ],
+  "summary": "Abraham ibn Ezra (Avraham ben Meir ibn Ezra, 1089-1164), born in Tudela in Spain, was a poet, Hebrew grammarian, biblical exegete, philosopher, astronomer, and mathematician. After about 1140 he left Spain and wandered through Italy, France, and England, writing biblical commentaries and scientific and grammatical works for Jewish communities outside Spain; his Torah commentary is a classic of the peshat (plain-sense) school, attentive to grammar and philology.",
+  "description": "Abraham ibn Ezra, Avraham ben Meir ibn Ezra, was born in Tudela in the Ebro valley of Muslim (and later Christian) Spain and formed within the Andalusi Jewish culture of Hebrew poetry, grammar, and the sciences. Around 1140 he left the Iberian peninsula and spent the rest of his life as a wandering scholar, moving through Rome and other Italian cities, then Provence and northern France, and reaching as far as England, composing works for Jewish communities that lacked direct access to the Judeo-Arabic learning of Spain. In this itinerant later career he produced Hebrew grammatical treatises, works on mathematics and astronomy and the calendar, translations, and the biblical commentaries for which he is chiefly remembered.\n\nIbn Ezra's commentary on the Torah, of which more than one recension survives, is a landmark of the peshat school, the tradition of interpretation oriented to the plain, contextual sense of scripture as against homiletical midrash. His method is grammatical and philological: he weighs the morphology and syntax of the Hebrew, compares usage across the biblical text, draws on the Hebrew linguistics of the Andalusi grammarians, and criticizes readings he judges to depart from the language of the verse. Uriel Simon, in his study of medieval approaches to the Psalms, and Irene Lancaster, in her translation and study of Ibn Ezra's introduction to the Torah, both place him at the centre of this peshat tradition and read his introduction as a programmatic statement of exegetical method that distinguishes his path from those of the Geonim, the Karaites, the Christian allegorists, and the homiletical derash of the rabbis.\n\nIbn Ezra is also known for a distinctive habit of cryptic allusion: at certain points he signals a difficulty by referring to a 'secret' (sod) that he declines to spell out. The most discussed of these is the so-called 'secret of the twelve', in his comment on Deuteronomy 1:2, where he lists several verses (among them 'the Canaanite was then in the land', 'in the mount where the Lord is seen', and 'so Moses wrote') and writes that one who understands the secret of the twelve together with these 'will recognize the truth'. Later readers, most famously Spinoza in the Theologico-Political Treatise and subsequent modern scholars, have read this cluster of hints as an intimation that some elements of the Torah reflect a hand later than Moses. This reading is reported here as the interpretation those readers advanced, attributed to them, and not asserted as Ibn Ezra's own stated doctrine; Ibn Ezra himself left the 'secret' unexplained, and what he intended by it remains a matter of scholarly discussion. His Torah commentary was engaged closely by later exegetes, including Nahmanides, who frequently cites and disputes him. He is presented here on Judaism's own terms as a master of the peshat and of Hebrew philology, with the scholarship on his method and on the 'secret of the twelve' recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Ibn Ezra on Judaism's own terms as a peshat exegete, grammarian, poet, and scientist (neutrality #1, #4, #6). The cryptic 'secret of the twelve' (Deuteronomy 1:2) is handled with care per neutrality #1-#2: the primary text is quoted from Sefaria (the list of verses and 'you will recognize the truth'), and the widely discussed reading of it as intimating post-Mosaic elements in the Torah is attributed to its proponents (Spinoza and later scholars) rather than asserted as Ibn Ezra's settled position; the entry states explicitly that he left the secret unexplained and that his intention remains debated. His reception by later Christian and modern scholarship is treated as reception history, not adjudicated. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of the peshat school (Simon; Lancaster's translation-study of the introduction); (b) the primary text, open and auditable on Sefaria (Ibn Ezra on Deuteronomy 1:2, read line-by-line, with the 'secret of the twelve' passage quoted verbatim); and (c) a contemporary Jewish scholar (Uriel Simon). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: Ibn Ezra on Deuteronomy 1:2 on Sefaria is rated high because it was read line-by-line for this entry, with the passage quoted verbatim; Simon and Lancaster are medium, verified via publisher and library records, not read line-by-line. Lifespan: 1089-1164 follows the entry's cited source (Lancaster); the death year is variously reported as 1164 or 1167, noted in the lifespan note. Relation targets: torah and tanakh exist (data/works/judaism), rashi and maimonides exist (data/figures/judaism); nachmanides is authored in the same batch. No dangling forward references in this entry.",
+  "lifespan": {
+    "birth": 1089,
+    "death": 1164,
+    "note": "1089-1164 CE; born in Tudela in Spain, died in the course of his wandering years (place uncertain, variously reported). The death year is variously reported as 1164 (Lancaster and others) or 1167."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "Ibn Ezra's commentary on the Torah (the Pentateuch) is his most influential biblical work and a classic of the peshat school. The torah entry exists (data/works/judaism/torah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "He wrote commentaries across the Tanakh (the Hebrew Bible), including on the Psalms, Isaiah, and the Minor Prophets, in a grammatical and philological key. The tanakh entry exists (data/works/judaism/tanakh.json)."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "rashi",
+      "note": "Ibn Ezra belongs to the generation after Rashi and represents the Andalusi grammatical peshat tradition alongside the northern French peshat associated with Rashi's school; the two are the twin poles of medieval peshat exegesis. The rashi entry exists."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "maimonides",
+      "note": "Ibn Ezra and Maimonides were near-contemporaries of the twelfth-century Andalusi Jewish world; stated as historical contemporaneity, not as a claim of direct contact. The maimonides entry exists."
+    },
+    {
+      "type": "influenced",
+      "target": "nachmanides",
+      "note": "Nahmanides (the Ramban) engages Ibn Ezra's Torah commentary closely, frequently citing and disputing his readings; stated as intellectual reception. The nachmanides entry is authored in the same batch."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ibn Ezra on Deuteronomy 1:2, open Hebrew and English text on Sefaria. Cited as the primary text for the cryptic 'secret of the twelve': Ibn Ezra writes, 'If you understand the secret of the twelve and also that of So Moses wrote (Deut. 31:22); And the Canaanite was then in the Land (Gen. 12:6); In the mount where the Lord is seen (Gen. 22:14); and behold, his bedstead was a bedstead of iron (Deut. 3:11); then you will recognize the truth' (Hebrew: 've-im tavin sod ha-shneim asar gam va-yikhtov Moshe ... takir ha-emet'). Read line-by-line and verified against the text; cited for the wording of the allusion itself, not for any settled interpretation of it.",
+      "url": "https://www.sefaria.org/Ibn_Ezra_on_Deuteronomy.1.2",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Ibn Ezra on Deuteronomy 1:2 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Lancaster, Irene. Deconstructing the Bible: Abraham ibn Ezra's Introduction to the Torah. Routledge Jewish Studies Series. London and New York: RoutledgeCurzon, 2003. A single-author study with a new translation and full commentary of Ibn Ezra's introduction to the Torah, placing him in his intellectual and biographical context and reading the introduction as a programmatic statement of his peshat method against the Geonim, Karaites, Christian allegory, and homiletical derash. Verified to exist and be on-topic (Routledge / Taylor and Francis record; Routledge Jewish Studies Series), not read line-by-line.",
+      "url": "https://www.routledge.com/Deconstructing-the-Bible-Abraham-ibn-Ezras-Introduction-to-the-Torah/Lancaster/p/book/9780415444446",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Simon, Uriel. Four Approaches to the Book of Psalms: From Saadiah Gaon to Abraham Ibn Ezra. Translated by Lenn J. Schramm. SUNY Series in Judaica: Hermeneutics, Mysticism, and Religion. Albany: State University of New York Press, 1991 (Hebrew original 1982). A contemporary Jewish scholar's study of the medieval controversy over the status and genre of the Psalms from Saadiah Gaon to Ibn Ezra; cited as an academic and contemporary-scholarly lens on Ibn Ezra's exegetical method and his place in the peshat tradition. Verified to exist and be on-topic (SUNY Press record; Project MUSE), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/F/Four-Approaches-to-the-Book-of-Psalms",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

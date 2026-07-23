@@ -1,0 +1,84 @@
+{
+  "id": "mishneh-torah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Mishneh Torah",
+    "original": "מִשְׁנֵה תּוֹרָה",
+    "transliteration": "Mishneh Torah",
+    "aliases": [
+      "Repetition of the Torah",
+      "Yad ha-Hazakah (יד החזקה, the Strong Hand)",
+      "Sefer ha-Yad (the Book of the Hand; yad = 14 by gematria, for its fourteen books)",
+      "the Code of Maimonides"
+    ]
+  },
+  "category": "code of law (halakhic code)",
+  "date": {
+    "year": 1180,
+    "note": "Completed c. 1180 CE in Fustat (Old Cairo), Egypt, after roughly a decade of work. The date is the conventional scholarly dating of its completion; Maimonides continued to revise it thereafter."
+  },
+  "summary": "The Mishneh Torah is Maimonides' comprehensive code of the whole of Jewish law (halakha), completed c. 1180 and arranged systematically into fourteen books, from which it also bears the name Yad ha-Hazakah (the Strong Hand; yad = 14 by gematria). Written in clear Mishnaic Hebrew, it covers all the commandments, including those inapplicable in exile, and uniquely opens its first book with philosophical-theological foundations, the Laws of the Foundations of the Torah on God's existence and unity.",
+  "description": "The Mishneh Torah (Hebrew for 'Repetition of the Torah', a phrase drawn from Deuteronomy 17:18) is Maimonides' code of the entire body of Jewish law, completed in Fustat around 1180 after about a decade of work. It is widely regarded in the scholarship as the first attempt to organize the whole of the halakha, the law elaborated across the Mishnah, the two Talmuds, and the later rabbinic literature, into a single, comprehensive, systematically classified code. Because it is arranged in fourteen books it acquired the name Sefer ha-Yad or Yad ha-Hazakah, 'the Strong Hand', the word yad ('hand') having the numerical value fourteen in gematria; the phrase also alludes to the 'strong hand' of Deuteronomy 34:12.\n\nThe work departs from earlier halakhic writing in several respects that its author states as deliberate. It is written not in the Aramaic-inflected idiom of the Talmud but in the clear Mishnaic Hebrew of the Mishnah, in a plain declarative style. It states settled law directly, as ruling, rather than reproducing the give-and-take of talmudic debate. It is comprehensive in scope: it codifies not only the commandments in force in the author's own day but the whole law, including the commandments that had become inapplicable in exile after the destruction of the Temple, the laws of the Temple service, the sacrifices, and ritual purity, treating them as fully part of the law to be known and studied. And its classification is systematic, grouping the commandments by subject across the fourteen books rather than following the order of the Talmud.\n\nA distinctive feature is where it begins. The first of the fourteen books is the Book of Knowledge (Sefer ha-Madda), and its first section is the Laws of the Foundations of the Torah (Hilchot Yesodei ha-Torah), which opens the code not with ritual detail but with theological and philosophical foundations. Its first halakhah states that 'the foundation of all foundations and the pillar of wisdom is to know that there is a Primary Being who brought into being all existence', going on to hold that all beings depend on this One for their existence while it depends on none of them (1:2-1:3), and that this God is uniquely one. Isadore Twersky's study reads the Mishneh Torah as a work that fuses law and philosophy into a single codificatory vision, the philosophical opening being integral to the code rather than a preface to it.\n\nThe Mishneh Torah was, from soon after its appearance, the subject of both wide authority and pointed criticism. A recurring point of contention was its form: Maimonides had set out the law as decided ruling without naming his sources or citing the talmudic discussions and earlier authorities behind each ruling, and he had presented the code as, in effect, self-sufficient, so that (as his own introduction was read) a student might learn the whole of the law from the Written Torah and the Mishneh Torah together. Critics, among them the Provencal talmudist Abraham ben David of Posquieres (the Rabad), whose glosses (hassagot) were printed alongside the text, objected that the omission of sources severed the law from the reasoning and the received tradition that grounded it and made the rulings hard to check; defenders and later commentators, by contrast, prized exactly the code's clarity, order, and comprehensiveness, and generations of scholarship (such as the Maggid Mishneh and Kesef Mishneh commentaries) were devoted to supplying the sources the code had left implicit. The dispute over the code's omission of sources and its intended self-sufficiency is recorded here as a historical disagreement within the halakhic tradition, with both sides attributed, not adjudicated. Whatever the debate over its form, the Mishneh Torah became one of the most authoritative and studied codes in the history of Jewish law, a permanent reference point for all later codification. It is presented here on Judaism's own terms as the tradition's own comprehensive statement of the halakha, with the historical and literary scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry describes the Mishneh Torah on Judaism's own terms (neutrality #1, #4, #6) as the tradition's comprehensive code of the halakha. Per neutrality #1-#2 and the task, the controversy over the code's omission of sources/citations and its intended self-sufficiency is reported as a historical dispute within the halakhic tradition, with both sides attributed (the Rabad's hassagot objecting to the missing sources; defenders and the later source-supplying commentaries prizing its clarity and comprehensiveness) and not adjudicated by the editor. The fourteen-book structure and the yad = 14 gematria are given as the tradition's own naming. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of the code (Twersky's Introduction to the Code of Maimonides; Davidson's biography); (b) the primary text, open and auditable on Sefaria (the Foundations of the Torah, Yesodei ha-Torah, read line-by-line, with the opening halakhah quoted verbatim); and (c) a contemporary Jewish scholar (Halbertal, Maimonides: Life and Thought). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: the Mishneh Torah, Foundations of the Torah 1:1-4 on Sefaria is rated high because it was read line-by-line for this entry, with the opening halakhah ('the foundation of all foundations and the pillar of wisdom is to know that there is a Primary Being who brought into being all existence') quoted verbatim; the shared secondary sources carry the same medium rating they hold in maimonides.json (Twersky, Davidson, Halbertal at medium). Relation targets maimonides, halakha, torah, mishnah, and talmud all exist. The Sefaria English of the primary passage is the Touger (Chabad) translation of the public-domain Hebrew, cited only as the open rendering of the load-bearing Hebrew text.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "maimonides",
+      "note": "Composed by Maimonides (Moses ben Maimon, the Rambam) in Fustat, completed c. 1180. The maimonides entry exists and already references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The Mishneh Torah is a comprehensive code of the whole of Jewish law (halakha) in fourteen books, one of the most influential and authoritative halakhic works in the tradition. The halakha entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "Its title, 'Repetition of the Torah' (from Deuteronomy 17:18), and its aim reflect its codification of the whole law derived from the Torah; its opening book, the Book of Knowledge, treats the knowledge of God as the foundational commandment. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "Written in the clear Mishnaic Hebrew of the Mishnah and modelled in language and declarative form on it, while codifying the law far beyond the Mishnah's scope. The mishnah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The Mishneh Torah codifies as settled ruling the law elaborated across the two Talmuds and the rabbinic literature; the controversy over its omission of sources concerned precisely its not citing the talmudic discussions behind each ruling. The talmud entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Mishneh Torah, Foundations of the Torah (Hilchot Yesodei ha-Torah), chapter 1, halachot 1-4, open Hebrew and English text on Sefaria (Touger translation). Cited as the primary text for the code's philosophical-theological opening: 'The foundation of all foundations and the pillar of wisdom is to know that there is a Primary Being who brought into being all existence' (1:1), the dependence of all beings on the One who depends on none of them (1:2-1:3), and the identification of this Being as 'the God of the world and the Lord of the entire earth' (1:4). Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Foundations_of_the_Torah.1.1-4",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Halachot 1:1-4 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Twersky, Isadore. Introduction to the Code of Maimonides (Mishneh Torah). Yale Judaica Series 22. New Haven: Yale University Press, 1980 (xvi, 641 pp.). A literary-historical study of the Mishneh Torah organized around five characteristics Maimonides himself stressed: codificatory form, scope, classification, language and style, and the fusion of philosophy and law; cited for the code's comprehensive scope, systematic classification, Mishnaic-Hebrew style, its declarative statement of settled law, and the significance and controversy of its omission of sources. Verified to exist and be on-topic (Yale University Press record; JSTOR j.ctt1cc2m4n; reviewed in The American Historical Review 86:1), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300028461/code-maimonides-mishneh-torah",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Davidson, Herbert A. Moses Maimonides: The Man and His Works. Oxford and New York: Oxford University Press, 2005 (567 pp.). A comprehensive scholarly biography and survey of Maimonides' rabbinic, philosophical, and medical writings; cited for the composition, dating (c. 1180), scope, and character of the Mishneh Torah and its place in his corpus. Verified to exist and be on-topic (Oxford University Press record; Internet Archive copy), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/moses-maimonides-9780195173215",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Halbertal, Moshe. Maimonides: Life and Thought. Translated by Joel Linsider. Princeton: Princeton University Press, 2013. A contemporary Jewish scholar's study of Maimonides' life, his three great books, and his philosophical outlook; cited for the Mishneh Torah's codificatory project, its relation to law and philosophy, and its reception. Verified to exist and be on-topic (Princeton University Press record; 2013 National Jewish Book Award in Scholarship), not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691158518/maimonides",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}
