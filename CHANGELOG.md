@@ -6,6 +6,35 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-07-23
+
+The Judaism section, which had no concept entities at all, gains its conceptual and medieval
+spine. This begins a campaign to bring Judaism toward parity with the Christian and Islamic
+coverage. Because the Jewish canon is open on Sefaria, all eight new entities rest on open
+primary texts read line-by-line and enter directly as `verified`.
+
+### Added
+- **Six core concepts** (Judaism's first): `halakha` (Jewish law), `mitzvot` (the commandments,
+  the 613), `oral-torah` (the Oral Torah), `brit` (the covenant), `shema` (the declaration of
+  God's oneness), and `mashiach` (the Jewish messianic hope, a human Davidic king and a
+  this-worldly age, the Christian identification attributed as a cross-tradition difference, not
+  adjudicated).
+- **Two medieval figures**: `maimonides` (the Rambam, the Mishneh Torah and the Guide for the
+  Perplexed) and `rashi` (the preeminent commentator on the Tanakh and the Talmud).
+
+### Changed
+- All eight enter as `verified`: their load-bearing open Sefaria primaries (Makkot 23b for the
+  613, the Mishneh Torah and Sefer HaMitzvot, the Shulchan Aruch, Pirkei Avot 1:1, Genesis 17
+  and Exodus 24, Deuteronomy 6:4-9, Hilchot Melachim 11-12, and Rashi on Genesis 1:1) were read
+  line-by-line and independently confirmed. The verified tier is now 55.
+- Cross-tradition `compares_with` links added: brit <-> mithaq, shema <-> tawhid, mashiach <->
+  jesus-of-nazareth, each comparing the shared question and stating the difference without ranking.
+
+### Notes
+- Judaism grows from 11 to 19 entities (its first six concepts). The dataset is now 207: 115
+  Islamic, 68 Christian, 19 Jewish, 5 philosophy; 152 `reviewed` and 55 `verified`.
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.11.0] - 2026-07-23
 
 The four forward references the dataset had left open are now authored, and each rests on an
