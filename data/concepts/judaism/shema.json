@@ -1,0 +1,77 @@
+{
+  "id": "shema",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shema",
+    "original": "שְׁמַע",
+    "transliteration": "shemaʿ (Shema Yisrael)",
+    "aliases": [
+      "Shema Yisrael",
+      "Shema Yisrael Adonai Eloheinu Adonai Ehad",
+      "Hear, O Israel",
+      "the Shema"
+    ]
+  },
+  "category": "monotheism",
+  "summary": "The Shema (from its opening word shemaʿ, 'hear') is the central declaration of Jewish faith in the oneness of God, taken from Deuteronomy 6:4, 'Hear, O Israel: the LORD our God, the LORD is one' (Shema Yisrael Adonai Eloheinu Adonai Ehad). By extension it is the prayer, drawn from Deuteronomy 6:4-9, Deuteronomy 11:13-21, and Numbers 15:37-41, recited twice daily in Jewish liturgy; the tradition understands its recitation as taking upon oneself the yoke of the kingship of Heaven and of the commandments, and it is recited by the pious at the approach of death and at martyrdom.",
+  "description": "The Shema is the affirmation of Jewish monotheism and, as liturgy, the prayer built around that affirmation. Its opening verse, Deuteronomy 6:4, reads shemaʿ yisraʾel Adonai eloheinu Adonai eḥad, rendered traditionally 'Hear, O Israel: the LORD our God, the LORD is one'; the verse is a declaration about the God of Israel, and the final word eḥad ('one') carries the weight of the affirmation. The verse admits more than one construal in the tradition and in scholarship: it can be read as 'the LORD our God, the LORD is one' or as 'the LORD is our God, the LORD alone', that is, as an affirmation of God's uniqueness and of Israel's exclusive allegiance to God. In Judaism the verse and the passages that follow it stand as the tradition's fundamental profession of the oneness of God, and this entry treats the Shema as that affirmation, on Judaism's own terms.\n\nThe verse that follows commands the love of God, 'You shall love the LORD your God with all your heart and with all your soul and with all your might' (Deuteronomy 6:5), and the passage continues that these words are to be kept upon the heart, taught to one's children, spoken at home and away, on lying down and rising up, bound as a sign upon the hand and between the eyes, and written on the doorposts of the house and the gates (Deuteronomy 6:6-9). As a fixed liturgy the Shema comprises three biblical paragraphs: Deuteronomy 6:4-9, Deuteronomy 11:13-21 (which sets the acceptance of the commandments and their consequences), and Numbers 15:37-41 (the commandment of the fringes, tzitzit, and the remembrance of the exodus). Rabbinic tradition prescribes its recitation twice daily, evening and morning, and understands the first paragraph as the acceptance of 'the yoke of the kingship of Heaven' (ol malkhut shamayim) and the second as the acceptance of 'the yoke of the commandments' (ol mitzvot). The Shema is also the confession traditionally recited by a Jew facing death and at martyrdom, so that its words are understood as the last on the lips of the dying.\n\nIn the scholarship, Nathan MacDonald has argued that the language of Deuteronomy, and the Shema in particular, is better understood in terms of exclusive love and undivided allegiance to the one God of Israel than through the later abstract category of 'monotheism', which he traces as a term coined only in the seventeenth century; the Shema's oneness, on this reading, is as much about singular devotion as about arithmetic uniqueness. Reuven Kimelman, a contemporary scholar of Jewish liturgy, reads the first unit of the Shema (Deuteronomy 6:4-9) as an integrated literary whole and traces the Shema liturgy's development from a covenant ceremony toward a daily coronation of God as king. These analyses are recorded here as attributed scholarship, alongside the tradition's own reception of the Shema, and the editor adjudicates none of them.",
+  "editorial_notes": "This entry presents the Shema on Judaism's own terms as the central affirmation of the oneness of God and as the twice-daily prayer (neutrality #1, #4, #6). The dual construal of Deuteronomy 6:4 ('the LORD is one' vs. 'the LORD alone') is reported as a genuine interpretive range in both tradition and scholarship rather than resolved, per neutrality #2. Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic scholarship on the Shema, Deuteronomy, and Jewish monotheism (Nathan MacDonald, Deuteronomy and the Meaning of 'Monotheism', Mohr Siebeck 2003); (b) the primary text, open and auditable on Sefaria (Deuteronomy 6:4-9), read line-by-line and quoted verbatim; (c) a contemporary Jewish scholar of the liturgy (Reuven Kimelman, 'The Shema Liturgy', Kenishta 1, 2001). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing passage Deuteronomy 6:4-9 was read line-by-line via the Sefaria text API and quoted verbatim, including 6:4 (the Shema itself) and 6:5 ('with all your heart and with all your soul and with all your might'); Sefaria's JPS Gender-Sensitive edition renders 6:4 as 'The ETERNAL is our God, the ETERNAL alone', and the entry notes both the traditional 'the LORD is one' rendering and the 'alone' rendering, so the primary source carries honest high confidence. MacDonald and Kimelman are medium, verified to exist and be on-topic (MacDonald via the Mohr Siebeck and Cambridge review records; Kimelman via Kenishta vol. 1, 2001, pp. 9-105) but not read line-by-line. CROSS-TRADITION (compares_with, neutrality #10, ADR-0005): the note to tawhid (which exists) states the shared QUESTION (the oneness of God) and the DIFFERENCE in framing (the Shema is Israel's covenantal affirmation and daily acceptance of God's kingship, developed within Judaism's liturgy and law; tawhid is the systematized Islamic doctrine of God's absolute oneness distinguished into rububiyya, uluhiyya, and the names and attributes, and defined against shirk), ranking and equating neither. Relation targets: torah, tanakh, brit, and moses exist; tawhid (islam) exists.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "tawhid",
+      "note": "The Shema and the Islamic doctrine of tawhid both address the shared question of the oneness of God, and this link compares that question, not the answers, ranking and equating neither (neutrality #10). The difference is one of framing: the Shema is Israel's covenantal affirmation, 'Hear, O Israel: the LORD our God, the LORD is one', developed within Jewish liturgy as the twice-daily acceptance of the yoke of the kingship of Heaven and of the commandments, and read by scholars such as MacDonald as much in terms of exclusive love and undivided allegiance as of arithmetic uniqueness; tawhid is the systematized Islamic doctrine of God's absolute oneness and uniqueness, classically distinguished into the oneness of lordship (rububiyya), of divinity and worship (uluhiyya), and of the names and attributes, and defined against shirk (association of partners with God). Each is recorded as attributed to its tradition; neither is treated as the measure of the other."
+    },
+    {
+      "type": "part_of",
+      "target": "torah",
+      "note": "The three paragraphs of the Shema are drawn from the Torah: Deuteronomy 6:4-9 and 11:13-21, and Numbers 15:37-41; the Shema's opening verse is Deuteronomy 6:4."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Shema's biblical text stands in the Torah division of the Tanakh (Deuteronomy and Numbers); the declaration of God's oneness is part of the Hebrew Bible before it is a fixed liturgy."
+    },
+    {
+      "type": "related_to",
+      "target": "brit",
+      "note": "The Shema is bound up with the covenant (brit): its second paragraph (Deuteronomy 11:13-21) sets out the acceptance of the commandments and their covenantal consequences, and Kimelman reads the Shema liturgy as developing from a covenant ceremony toward the daily coronation of God as king."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "The Shema stands within the book of Deuteronomy, framed in the tradition as Moses's address to Israel; the declaration of God's oneness and the command to love God are given through Moses in the biblical narrative."
+    }
+  ],
+  "historical_period": {
+    "start": -600,
+    "note": "The biblical text of the Shema stands in Deuteronomy and Numbers, books whose composition is dated by critical scholarship to the first millennium BCE (Deuteronomy conventionally associated with the seventh century BCE and later editing); its establishment as a fixed twice-daily liturgy with three paragraphs is attested in the rabbinic period (the Mishnah, Berakhot 1-2). No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "The Torah (Hebrew Bible), open Hebrew and English text on Sefaria: Deuteronomy 6:4-9, the Shema. Verse 4: 'Hear, O Israel! The ETERNAL is our God, the ETERNAL alone' (traditionally 'the LORD our God, the LORD is one'); verse 5: 'You shall love the ETERNAL your God with all your heart and with all your soul and with all your might'; verses 6-9: these words to be kept on the heart, taught to one's children, spoken at home and away, bound as a sign upon the hand and between the eyes, and written on the doorposts and gates. Primary scripture for the Shema; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Deuteronomy.6.4-9",
+      "license": "Hebrew original in the public domain; Sefaria's English translation (JPS Tanakh, Gender-Sensitive Edition, 2023) under a Creative Commons license. Deuteronomy 6:4-9 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "MacDonald, Nathan. Deuteronomy and the Meaning of 'Monotheism'. Forschungen zum Alten Testament 2. Reihe 1. Tübingen: Mohr Siebeck, 2003 (2nd ed. 2012). A revised Durham doctoral study arguing that the language of Deuteronomy, and the Shema in particular, is better understood in terms of exclusive love and undivided allegiance to the one God of Israel than through the modern abstract category of 'monotheism' (a term coined in the seventeenth century); cited for the meaning of the Shema's oneness and of Jewish monotheism, and as the academic lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.mohrsiebeck.com/en/book/deuteronomy-and-the-meaning-of-monotheism-9783161578502/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kimelman, Reuven. 'The Shema Liturgy: From Covenant Ceremony to Coronation.' In Kenishta: Studies of the Synagogue World, vol. 1, ed. Joseph Tabory, 9-105. Ramat-Gan: Bar-Ilan University Press, 2001. A contemporary Jewish scholar of Hebrew liturgy reads the first unit of the Shema (Deuteronomy 6:4-9) as an integrated literary whole and traces the Shema liturgy's development from a covenant ceremony toward the daily coronation of God as king; cited for the literary reading and the liturgical development of the Shema, and as the contemporary-Jewish-scholarship lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.brandeis.edu/jewish-experience/holidays-religious-traditions/2022/may/shema-explained-kimelman.html",
+      "license": "Proprietary scholarly article; cited for reference. URL is a Brandeis University page describing Kimelman's study of the Shema's opening (the Kenishta article itself is print-only).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

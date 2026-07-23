@@ -1,0 +1,91 @@
+{
+  "id": "mashiach",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Mashiach",
+    "original": "מָשִׁיחַ",
+    "transliteration": "mashiaḥ",
+    "aliases": [
+      "Messiah",
+      "the anointed one",
+      "Melech ha-Mashiach (the King Messiah)",
+      "Moshiach"
+    ]
+  },
+  "category": "messianism",
+  "summary": "Mashiach (mashiaḥ, 'the anointed one') is, in Judaism, the expected future anointed king of the line of David who will restore the sovereignty of Israel, gather the exiles, rebuild the Temple, and inaugurate an age of peace and universal knowledge of God, the messianic age (yemot ha-mashiach, 'the days of the Messiah'). In the mainstream tradition the mashiach is a human royal deliverer, not a divine incarnate savior, and the messianic age is this-worldly.",
+  "description": "In Judaism the mashiach is the anointed king awaited to redeem Israel at the end of the present order. The Hebrew mashiaḥ means 'anointed one', and the term applies in the Hebrew Bible to kings and priests set apart with oil; the concept of a future ideal king grows above all from the biblical promise to the house of David. The tradition is presented here on its own terms, as a human royal deliverer within history, with the scholarly study of the messianic idea given alongside as attributed analysis.\n\nThe biblical roots of the expectation lie in the Davidic promise and the prophetic oracles. In 2 Samuel 7 God promises David an enduring dynasty, that his 'throne shall be established forever'; this Davidic covenant anchors the expectation of a future king from David's line. The prophet Isaiah foresees a shoot from the stump of Jesse endowed with the spirit of the LORD, judging the poor with righteousness, in a transformed order where 'the wolf shall dwell with the lamb' and 'the earth shall be filled with the knowledge of the LORD as the waters cover the sea' (Isaiah 11). Jeremiah promises that God will raise up for David 'a righteous branch' who will reign as king and execute justice (Jeremiah 23:5-6). Out of these and related texts the tradition develops the figure of a coming anointed king and the vision of the age he inaugurates.\n\nThe classic rabbinic and medieval codification is set out by Maimonides in the Mishneh Torah, in the Laws of Kings and Wars (Hilchot Melachim), chapters 11 and 12, which give the mainstream this-worldly, non-supernatural picture and its criteria. Maimonides writes that 'in the future, the Messianic king will arise and renew the Davidic dynasty, restoring it to its initial sovereignty. He will build the Temple and gather the dispersed of Israel' (Hilchot Melachim 11:1, read on Sefaria). He sets out criteria for recognizing the mashiach: 'If a king will arise from the House of David who diligently contemplates the Torah and observes its mitzvot as prescribed by the Written Law and the Oral Law as David, his ancestor, will compel all of Israel to walk in [the way of the Torah] and rectify the breaches in its observance, and fight the wars of God, we may, with assurance, consider him Mashiach' (Hilchot Melachim 11:4, read on Sefaria); and if he further succeeds, rebuilds the Temple on its site, and gathers the dispersed of Israel, 'he is definitely the Mashiach'. On the character of the messianic age Maimonides is emphatic that it is this-worldly: 'Do not presume that in the Messianic age any facet of the world's nature will change or there will be innovations in the work of creation. Rather, the world will continue according to its pattern' (Hilchot Melachim 12:1, read on Sefaria), and 'there will be no difference between the current age and the Messianic era except the emancipation from our subjugation to the gentile kingdoms'. In that era, he writes, 'there will be neither famine nor war, envy nor competition', and 'the world will be filled with the knowledge of God as the waters cover the ocean bed' (Hilchot Melachim 12:5, echoing Isaiah 11:9, read on Sefaria).\n\nIn the scholarship, Gershom Scholem distinguishes the utopian and restorative strands of the Jewish messianic idea and reads it as an essentially public, historical, and this-worldly redemption, contrasting it in this respect with the more inward and realized redemption of Christianity ('Toward an Understanding of the Messianic Idea', in The Messianic Idea in Judaism). Joseph Klausner traces the development of the messianic idea from the biblical prophets through the apocrypha to the tannaitic period. Kenneth Seeskin analyzes Maimonides' 'deflationary' messiah, the human king who changes the political order without suspending nature, as the rationalist mainstream. These analyses are recorded here as attributed scholarship, and the editor adjudicates none of them.\n\nJudaism's understanding is presented in this entry on its own terms: the mashiach is a human anointed king of David's line, and the messianic age is a this-worldly transformation of history, not a suspension of nature and not the work of a divine incarnate savior. The Christian identification of the messiah with Jesus and the divergent Christian development of the concept belong to the Christian entries and are noted here only as an attributed cross-tradition difference, not adjudicated and not imported into the Jewish description.",
+  "editorial_notes": "This is a neutrality-sensitive entry and its handling follows neutrality #1 (describe, do not adjudicate), #6, #10, and #11 deliberately. The Jewish understanding is presented on its OWN terms: the mashiach as a human royal deliverer of David's line (not a divine incarnate savior) and the messianic age (yemot ha-mashiach) as this-worldly (the political redemption of Israel and a transformed but natural order), following the mainstream Maimonidean picture. The Christian identification of the messiah with Jesus, and the divergent Christian development (a divine incarnate savior, a redemption already inaugurated), are NOT asserted or denied in the editor's voice and are NOT imported into the Jewish entry; they are recorded only as an attributed cross-tradition difference in the compares_with note to jesus-of-nazareth, which states the shared question and the difference and ranks neither (neutrality #10, ADR-0005). The editor does not rule on whether the messiah has come. Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic scholarship on the messianic idea (Gershom Scholem, The Messianic Idea in Judaism, Schocken 1971; Joseph Klausner, The Messianic Idea in Israel, Macmillan 1955); (b) the primary texts, open and auditable on Sefaria (2 Samuel 7, Isaiah 11, and Jeremiah 23 for the biblical roots; Maimonides, Mishneh Torah, Hilchot Melachim 11-12 for the rabbinic/Maimonidean codification and criteria); (c) a contemporary Jewish scholar (Kenneth Seeskin, Jewish Messianic Thoughts in an Age of Despair, Cambridge 2012, whose chapter on 'Maimonides and the Idea of a Deflationary Messiah' treats the this-worldly picture). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing Maimonidean criteria and the character of the messianic age were read line-by-line via the Sefaria text API and quoted verbatim from Hilchot Melachim (Kings and Wars) 11:1, 11:4, 12:1, and 12:5; that primary source carries honest high confidence. The biblical roots (2 Samuel 7; Isaiah 11; Jeremiah 23) are cited at medium: Isaiah 11 (the shoot of Jesse and 'the earth filled with the knowledge of the LORD') is quoted as it stands in the tradition and via Maimonides' own citation of Isaiah 11:9, and the passages were consulted but are not each individually quoted line-by-line here, so the biblical-roots source is held at medium rather than high pending a line-by-line read. Scholem (verified via the Schocken 1971 volume and its essay 'Toward an Understanding of the Messianic Idea', pp. 1-36), Klausner (Macmillan 1955, trans. W. F. Stinespring), and Seeskin (Cambridge 2012) are medium, verified to exist and be on-topic, not read line-by-line. Relation targets: torah, tanakh, and maimonides exist (maimonides already references mashiach, so this entry resolves that dangling target); david is a forward reference (no such figure entity exists yet, flagged dangling); the cross-tradition compares_with target jesus-of-nazareth exists (a christianity figure). No Christian 'messiah'/'christ' concept entity exists yet; the compares_with is directed to jesus-of-nazareth, which already frames the Jewish non-acceptance as an attributed position, keeping the two entries mutually consistent.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "jesus-of-nazareth",
+      "note": "Judaism's mashiach and the Christian identification of the messiah with Jesus address the shared question of who the anointed deliverer is and what he accomplishes, and this link compares that question, not the answers, ranking and equating neither (neutrality #10). In Judaism, presented here on its own terms, the mashiach is an awaited human anointed king of David's line who restores Israel's sovereignty, gathers the exiles, rebuilds the Temple, and inaugurates a this-worldly age of peace and universal knowledge of God; the mainstream tradition holds that these expectations have not been fulfilled and does not accept Jesus as the messiah or as divine. Christianity confesses Jesus as the Christ (from Greek Christos, 'anointed one', translating mashiach), the incarnate Son of God whose redemption is already inaugurated; this Christian identification and development belong to the Christian entries and are recorded here only as an attributed cross-tradition difference, not adjudicated and not imported into the Jewish description. Each position is attributed to its tradition; neither is treated as the measure of the other. (Islam, for its part, honours Isa as a human prophet and the Messiah, al-Masih, but not divine; see the isa entry.)"
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The biblical roots of the messianic expectation lie in the Tanakh: the Davidic promise (2 Samuel 7), the shoot of Jesse and the transformed order (Isaiah 11), and the righteous branch for David (Jeremiah 23:5-6)."
+    },
+    {
+      "type": "elaborates",
+      "target": "torah",
+      "note": "Maimonides codifies the mashiach and the messianic age within his restatement of the Torah's law in the Mishneh Torah (Hilchot Melachim 11-12), including the criteria that the messianic king contemplates the Torah and observes its commandments as prescribed by the Written and Oral Law."
+    },
+    {
+      "type": "articulated_by",
+      "target": "maimonides",
+      "note": "Maimonides gives the classic rabbinic and medieval codification of the mashiach in the Mishneh Torah, Hilchot Melachim 11-12, setting out the this-worldly, non-supernatural mainstream picture and the criteria for recognizing the Messiah; the coming of the Messiah is also the twelfth of his Thirteen Principles."
+    },
+    {
+      "type": "derives_from",
+      "target": "david",
+      "note": "The mashiach is expected from the line of David, on the strength of the Davidic covenant (2 Samuel 7) that promises David an enduring throne; the messianic king renews the Davidic dynasty. Forward reference: no David figure entity exists yet in the dataset (dangling)."
+    }
+  ],
+  "historical_period": {
+    "start": -1000,
+    "note": "The Davidic promise (2 Samuel 7) is set in the tradition in the tenth century BCE, and the prophetic messianic oracles (Isaiah 11; Jeremiah 23) in the following centuries; the developed messianic idea takes shape across the Second Temple and rabbinic periods, and its classic codification is Maimonides' (twelfth century CE). No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "Maimonides (Moses ben Maimon). Mishneh Torah, Hilchot Melachim u-Milchamoteihem (Laws of Kings and Wars), chapters 11-12. Open Hebrew and English text on Sefaria. 11:1: 'In the future, the Messianic king will arise and renew the Davidic dynasty, restoring it to its initial sovereignty. He will build the Temple and gather the dispersed of Israel.' 11:4: 'If a king will arise from the House of David who diligently contemplates the Torah and observes its mitzvot ... will compel all of Israel to walk in [the way of the Torah] ... and fight the wars of God, we may, with assurance, consider him Mashiach.' 12:1: 'Do not presume that in the Messianic age any facet of the world's nature will change ... the world will continue according to its pattern,' the sole difference being 'the emancipation from our subjugation to the gentile kingdoms.' 12:5: 'there will be neither famine nor war, envy nor competition,' and 'the world will be filled with the knowledge of God as the waters cover the ocean bed.' The classic Maimonidean codification of the mashiach and the this-worldly messianic age with its criteria; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Kings_and_Wars.11",
+      "license": "Hebrew original in the public domain; Sefaria's English translation (Touger) under a Creative Commons license. Hilchot Melachim 11:1, 11:4, 12:1, and 12:5 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Tanakh (Hebrew Bible), open Hebrew and English text on Sefaria: 2 Samuel 7 (the Davidic covenant, the promise that David's throne shall be established forever), Isaiah 11 (the shoot from the stump of Jesse endowed with the spirit of the LORD, the transformed order in which 'the wolf shall dwell with the lamb' and 'the earth shall be filled with the knowledge of the LORD as the waters cover the sea'), and Jeremiah 23:5-6 (God will raise up for David 'a righteous branch' who reigns as king and does justice). Primary scripture for the biblical roots of the messianic expectation. Passages consulted on Sefaria; held at medium pending a line-by-line read of each.",
+      "url": "https://www.sefaria.org/Isaiah.11",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Cited for reference; the biblical-roots passages consulted but not each individually read line-by-line in this pass.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. 'Toward an Understanding of the Messianic Idea in Judaism.' In The Messianic Idea in Judaism and Other Essays on Jewish Spirituality, trans. Michael A. Meyer, 1-36. New York: Schocken Books, 1971. A leading historian of Jewish thought distinguishes the restorative and utopian strands of the Jewish messianic idea and characterizes it as an essentially public, historical, and this-worldly redemption; cited for the character of the messianic idea and as an academic lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://archive.org/details/messianicideainj0000scho",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Klausner, Joseph. The Messianic Idea in Israel: From Its Beginning to the Completion of the Mishnah. Trans. W. F. Stinespring (from the 3rd Hebrew ed.). New York: Macmillan, 1955. A classic study tracing the development of the Jewish messianic idea from the biblical prophets through the apocrypha and pseudepigrapha to the tannaitic period; cited for the biblical and Second Temple development of the messianic idea, and as an academic lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://archive.org/details/messianicideaini013825mbp",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Seeskin, Kenneth. Jewish Messianic Thoughts in an Age of Despair. Cambridge: Cambridge University Press, 2012. A contemporary Jewish philosopher's analysis of the messianic idea, whose chapter 'Maimonides and the Idea of a Deflationary Messiah' treats the mainstream Maimonidean, this-worldly conception of a human messianic king who transforms the political order without suspending nature; cited for the Maimonidean this-worldly picture and as the contemporary-Jewish-scholarship lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/jewish-messianic-thoughts-in-an-age-of-despair/B0A68D8573F3D17CCF358D8D89B5212C",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

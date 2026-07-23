@@ -1,0 +1,116 @@
+{
+  "id": "halakha",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Halakha",
+    "original": "הֲלָכָה",
+    "transliteration": "halakhah",
+    "aliases": [
+      "Halacha",
+      "Halakhah",
+      "Jewish law",
+      "Jewish religious law",
+      "The way (of walking)"
+    ]
+  },
+  "category": "law",
+  "summary": "Halakha is Jewish religious law: the total body of the commandments together with the legal rulings derived from the Written and Oral Torah through rabbinic interpretation and debate, and the process by which that law is derived, codified, and applied, from the Talmud through the medieval codes to the responsa literature. The word derives from a root meaning to walk or to go, and the tradition understands halakha as the way of life the law prescribes, distinguished from aggadah, the non-legal lore of the rabbinic corpus.",
+  "description": "Halakha (from the Hebrew root h-l-kh, to walk or to go, hence the way in which one goes) is the collective term in Judaism for the body of religious law and for the ongoing process by which it is derived and applied. In the self-understanding of the rabbinic tradition, presented here on its own terms, halakha rests on the twofold Torah: the commandments of the Written Torah together with the Oral Torah (Torah she-be-al peh) held to have been given to Moses at Sinai and transmitted through the generations, and it grows through the interpretation, extension, and application of that law by the sages. Within the rabbinic corpus, halakha (the legal material, what one is bound to do) is conventionally distinguished from aggadah (the narrative, ethical, and homiletical lore), the two interwoven throughout the Talmud but different in genre and in binding force.\n\nThe primary literary foundation of halakha after the Torah is the rabbinic corpus: the Mishnah, the topical statement of law redacted around 200 CE, and the Talmuds, the Mishnah together with the Gemara, the later rabbinic commentary, analysis, and debate upon it. Talmudic halakha characteristically preserves the give-and-take of argument and the disagreements of named sages rather than reducing the law to a bare code, so the tradition also developed a literature of codification to state settled practice. The two great medieval codes are Maimonides' Mishneh Torah (the Yad ha-Hazakah, completed in the late twelfth century), which Maimonides conceived, in the words of his own introduction, as a compilation of the entire Oral Law arranged by subject, and the Shulchan Aruch of Joseph Karo (sixteenth century), which, together with the glosses of Moses Isserles (the Mappah) recording Ashkenazic practice, became the most widely accepted code. Alongside the codes runs the responsa literature (she'elot u-teshuvot), the accumulated written answers of halakhic authorities to specific questions, through which the law is continually applied to new circumstances.\n\nThe modern Jewish movements differ on the binding authority of halakha, and these differences are recorded here as the attributed positions of each movement rather than adjudicated. Orthodox Judaism holds the halakhic system, grounded in the divine and binding twofold Torah, to be authoritative and not subject to abrogation, and Joseph B. Soloveitchik's Halakhic Man presents the halakhic life from within that commitment. Conservative (Masorti) Judaism holds halakha to be binding while understanding it as a historically developing system open to rabbinic development through its own legal processes, a range of views surveyed by Elliot Dorff in The Unfolding Tradition. Reform Judaism, in its classical form, holds the ethical and moral commandments to be binding while treating much of the ritual law as non-binding and subject to individual autonomy, though later Reform thought recovered a greater role for traditional observance. This entry describes the shared system and its literature; it does not rule on which movement's account of halakhic authority is correct.",
+  "editorial_notes": "This entry describes halakha on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding the doctrine of the twofold Torah on which the rabbinic conception of halakha rests, without the editor affirming or denying it. Per neutrality #2 the differing positions of the modern movements (Orthodox, Conservative, Reform) on the binding authority of halakha are each attributed to their holders and cited (Soloveitchik for the Orthodox halakhic life from within; Dorff for the range of Conservative views), and the editor does not adjudicate which is correct. The halakha/aggadah distinction and the codification history (Mishnah and Talmud to Mishneh Torah and the Shulchan Aruch to the responsa literature) are from the primary texts and the standard scholarship. Sources triangulate three lenses per neutrality #8-9: an academic historian of Jewish law (Menachem Elon, Jewish Law: History, Sources, Principles) and a historian of the rabbinic mind (Urbach, The Sages); the primary texts themselves, read openly and line-by-line on Sefaria (the Mishneh Torah introduction, in which Maimonides frames the work as a compilation of the entire Oral Law; the Shulchan Arukh, Orach Chayim 1:1); and contemporary Jewish scholars, Moshe Halbertal on canon and authority and, for the movements, Soloveitchik and Dorff. No encyclopedias (including the Encyclopaedia Judaica or the Jewish Encyclopedia and My Jewish Learning), Wikipedia, or tertiary sources. Confidence: the Sefaria primary texts read line-by-line (the Mishneh Torah introduction and Shulchan Arukh OC 1:1) are rated high for the existence, character, and framing of the codes; Elon, Urbach, Halbertal, Soloveitchik, and Dorff are verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium. A cross-tradition compares_with to Islamic sharia or fiqh (comparable as questions of religious law, per ADR-0005 and neutrality #10) was considered but omitted because neither target exists in the dataset yet; it is a candidate for a future clean link. Relation targets torah, mishnah, talmud, rabbinic-judaism, and oral-torah exist; mitzvot is authored in the same batch; aggadah is a dangling forward reference to a not-yet-created entity.",
+  "relations": [
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "Halakha is derived from the Torah, understood in the rabbinic tradition as the twofold Torah: the commandments of the Written Torah together with the Oral Torah held to have been given at Sinai, elaborated by rabbinic interpretation."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "The mitzvot (the commandments) are the substance that halakha derives, systematizes, and applies; halakha is in large part the law of the mitzvot and their observance. Authored in the same batch."
+    },
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "The derivation, codification, and application of halakha is central to rabbinic Judaism, which is sometimes called Talmudic Judaism for the halakhic corpus at its heart."
+    },
+    {
+      "type": "derives_from",
+      "target": "talmud",
+      "note": "The Talmud (the Mishnah together with the Gemara) is the primary literary foundation of halakha after the Torah; its debates are the base on which the later codes and responsa build."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "The Mishnah, the first topical statement of the oral law (c. 200 CE), is the foundational rabbinic legal compilation on which Talmudic halakha is built."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "aggadah",
+      "note": "Within the rabbinic corpus, halakha (the legal, binding material) is conventionally distinguished from aggadah (the non-legal narrative, ethical, and homiletical lore); the two are interwoven in the Talmud but differ in genre and in binding force. Dangling forward reference."
+    },
+    {
+      "type": "elaborates",
+      "target": "oral-torah",
+      "note": "Halakha is, in the tradition's self-understanding, the elaboration and application of the Oral Torah (Torah she-be-al peh) upon the commandments of the Written Torah. Dangling forward reference."
+    }
+  ],
+  "historical_period": {
+    "start": 200,
+    "note": "The literary development of halakha as a distinct rabbinic system is conventionally anchored from the redaction of the Mishnah around 200 CE, though its roots are in the biblical commandments and Second Temple legal traditions. It develops continuously through the Talmuds, the medieval codes (Mishneh Torah, twelfth century; Shulchan Aruch, sixteenth century), and the responsa literature, and remains a living system in the major streams of Judaism, so no end date is given. The 200 CE marker is a conventional starting point for the rabbinic legal corpus."
+  },
+  "sources": [
+    {
+      "citation": "Elon, Menachem. Jewish Law: History, Sources, Principles (Ha-Mishpat Ha-Ivri). Trans. Bernard Auerbach and Melvin J. Sykes. 4 vols. Philadelphia: Jewish Publication Society, 1994 (Hebrew 1st ed. 1973). The standard academic history and systematic account of Jewish law by the former deputy president of Israel's Supreme Court; cited for the history and legal sources of halakha (interpretation, legislation, custom, precedent, and legal reasoning) and for the place of the codes and responsa within the system. Verified to exist and be on-topic (author, title, translators, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://jps.org/books/jewish-law-4-volume-set/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Urbach, Ephraim E. The Sages: Their Concepts and Beliefs. Trans. Israel Abrahams. Jerusalem: Magnes Press, 1975; Cambridge, MA: Harvard University Press, 1979. A classic academic study of the religious concepts and beliefs of the rabbinic sages from roughly the Second Temple period to late antiquity; cited for the world of rabbinic legal and interpretive thought within which halakha took shape. Verified to exist and be on-topic (author, title, translator, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674785243",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Halbertal, Moshe. People of the Book: Canon, Meaning, and Authority. Cambridge, MA: Harvard University Press, 1997. A contemporary Jewish scholar's study of the status and interpretation of the canonical texts in Jewish tradition, including the halakhic authority of the Mishnah and Talmud and the interpretive work the canon demands of the community; cited for the question of normative and formative authority underlying halakha. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674661127",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Maimonides (Moses ben Maimon), Mishneh Torah, the Rambam's Introduction, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text, read line-by-line: Maimonides' introduction frames the Mishneh Torah as a compilation of the entire Oral Law (Torah she-be-al peh) transmitted from Moses, arranged by subject as a complete code; confirming the character of the Mishneh Torah as the first great topical code of halakha and Maimonides' own account of its scope.",
+      "url": "https://www.sefaria.org/Mishneh_Torah,_Transmission_of_the_Oral_Law.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Karo, Joseph, Shulchan Arukh, Orach Chayim 1:1, open Hebrew and English text on Sefaria (with the glosses of Moses Isserles). Cited as the openly-auditable primary text, read line-by-line: the opening siman ('One should strengthen himself like a lion to get up in the morning to serve his Creator...') confirms the character of the Shulchan Aruch as the widely-accepted practical code of halakha, stating settled law point by point, and the presence of Isserles' Ashkenazic glosses within the same text.",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.1.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Soloveitchik, Joseph B. Halakhic Man. Trans. Lawrence Kaplan. Philadelphia: Jewish Publication Society of America, 1983 (Hebrew, Ish ha-Halakhah, 1944). A classic work of modern Orthodox Jewish thought presenting the religious personality and worldview of one who lives within the halakhic system; cited for the Orthodox understanding of the halakhic life from within, as an attributed position. Verified to exist and be on-topic (author, title, translator, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://jps.org/books/halakhic-man-40th-anniversary-edition/",
+      "license": "Proprietary translation; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Dorff, Elliot N. The Unfolding Tradition: Jewish Law After Sinai. New York: Aviv Press, 2005. A survey by a leading Conservative (Masorti) scholar of the range of approaches to the nature and authority of Jewish law among Conservative thinkers; cited for the Conservative movement's understanding of halakha as binding yet historically developing, as an attributed position. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-law-and-religion/article/abs/unfolding-tradition-jewish-law-after-sinai-by-elliot-n-dorff-aviv-press-2005-pp-566-1995-isbn-0916219291/8CA921DA698DE3F7870D9A026B1F17BB",
+      "license": "Proprietary; cited for reference (the URL is a scholarly review confirming the book's details).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

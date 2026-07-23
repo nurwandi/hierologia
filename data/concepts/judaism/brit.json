@@ -1,0 +1,93 @@
+{
+  "id": "brit",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Brit",
+    "original": "בְּרִית",
+    "transliteration": "berit (brit)",
+    "aliases": [
+      "Berith",
+      "Covenant",
+      "the covenant between God and Israel",
+      "Brit milah (the covenant of circumcision)",
+      "Covenant of Sinai"
+    ]
+  },
+  "category": "covenant",
+  "summary": "Brit (covenant) is the binding relationship between God and Israel, and more broadly between God and humanity, that is central to the Hebrew Bible and to Judaism. It is expressed in a series of covenants: with Noah (the rainbow, universal), with Abraham (the promise of land and descendants and the covenant of circumcision, brit milah, Genesis 15 and 17), and above all at Sinai (Exodus 19-24, the covenant of Torah and mitzvot binding Israel as a people), later renewed with Phinehas and David; it carries the theology of election, mutual obligation, and covenant faithfulness.",
+  "description": "Brit (Hebrew berit, covenant, pact, or bond) is the term for the binding relationship that the Hebrew Bible describes between God and human parties, and it is one of the organizing categories of biblical religion and of Judaism. A covenant establishes an ongoing relationship of obligation and loyalty between the parties: God commits to promises and to a relationship, and the human party, whether all humanity, an individual, or the whole people of Israel, is bound to corresponding obligations. The tradition is presented here on its own terms, with the historical-critical account of the biblical covenant traditions given alongside as attributed scholarship.\n\nThe biblical narrative sets out a series of covenants. After the flood God makes a covenant with Noah and, through him, with all living things, setting the rainbow as its sign (Genesis 9); this covenant is universal, reaching beyond Israel to humanity as a whole. God then makes a covenant with Abraham: in the covenant between the pieces God assigns the land to Abram's offspring, saying 'To your offspring I assign this land, from the river of Egypt to the great river, the river Euphrates' (Genesis 15:18, read on Sefaria), and in Genesis 17 God establishes an everlasting covenant, 'to be God to you and to your offspring to come' (Genesis 17:7), renames Abram as Abraham, and gives circumcision as the enduring sign: 'You shall circumcise the flesh of your foreskin, and that shall be the sign of the covenant between Me and you' (Genesis 17:11, read on Sefaria). This is the brit milah, the covenant of circumcision, which in Judaism remains the sign of the Abrahamic covenant marked on every Jewish male child.\n\nThe covenant at Sinai stands at the center. After the exodus God brings Israel to the mountain and, through Moses, gives the Torah, the Decalogue, and the body of law (Exodus 19-24); the covenant is ratified when Moses reads 'the record of the covenant' (sefer ha-berit) and the people answer 'All that God has spoken we will faithfully do', and Moses dashes the blood on the people as 'the blood of the covenant that God now makes with you concerning all these commands' (Exodus 24:7-8, read on Sefaria). At Sinai the covenant binds Israel as a people to God through the Torah and its commandments (mitzvot), and the reciprocity of the relationship, God as the God of Israel and Israel as God's people, is the covenantal formula that recurs across the Hebrew Bible. The biblical narrative continues the theme in the covenant of eternal priesthood granted to Phinehas (Numbers 25) and in the covenant with David and his dynasty (2 Samuel 7; Psalm 89), and Deuteronomy in particular is structured around covenant, blessing, and the obligation of faithfulness.\n\nOut of this material Judaism develops a theology of covenant: of election or chosenness (Israel chosen not as privilege but as covenantal responsibility), of mutual obligation, and of covenant faithfulness and loyalty (often expressed with the term chesed, steadfast covenant love). In the scholarship, Jon Levenson (Sinai and Zion) reads Sinai as the mountain of covenant and Torah and traces the covenantal ideology of the Hebrew Bible and its relation to the Davidic and Zion traditions, and treats the Abrahamic covenant and the Akedah in his other work; historians such as Shaye Cohen and Peter Schafer set the covenant traditions within the history of ancient Israel and Second Temple Judaism. These scholarly analyses are recorded here as attributed positions, alongside the tradition's own reception of the covenant, and the editor does not adjudicate between them.",
+  "editorial_notes": "This entry describes brit on Judaism's own terms (neutrality #1, #4, #6): the series of covenants (Noah, Abraham with brit milah, Sinai, Phinehas, David) and the covenant theology of election, mutual obligation, and faithfulness (chesed), given as the tradition's own account, with the historical-critical study of the biblical covenant traditions attributed to named scholarship (Levenson, Cohen, Schafer) rather than asserted as fact, and neither adjudicated (neutrality #1-#2). Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic scholarship (Jon Levenson, Sinai and Zion, on the Sinai covenant and biblical covenant ideology, and The Death and Resurrection of the Beloved Son on the Abrahamic covenant and the Akedah; Shaye Cohen and Peter Schafer for the historical setting); (b) the primary texts, read line-by-line and openly auditable on Sefaria (Genesis 15:18, Genesis 17:7 and 17:11, Exodus 24:7-8); (c) a contemporary Jewish scholar (Levenson doubles as this lens). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing covenant passages were read line-by-line via the Sefaria text API and quoted verbatim: Genesis 15:18 (the land grant to Abram's offspring), Genesis 17:7 ('everlasting covenant ... to be God to you and to your offspring') and 17:11 (circumcision as 'the sign of the covenant between Me and you', the brit milah), and Exodus 24:7-8 ('the record of the covenant', 'All that God has spoken we will faithfully do', 'the blood of the covenant'); these primary sources carry honest high confidence. The secondary scholarship (Levenson, Cohen, Schafer) is medium, verified to exist and be on-topic but not read line-by-line; Cohen carries the same medium rating he holds in mishnah.json and second-temple-judaism.json. Relation targets abraham, moses, torah, tanakh, and mithaq (islam) exist; the cross-tradition compares_with to a Christian covenant/new-covenant concept is a forward reference (no such concept entity exists yet, flagged dangling). CROSS-TRADITION (compares_with, neutrality #10, ADR-0005): the note to mithaq states the shared QUESTION (the binding relationship between God and the human party) and the DIFFERENCE (the biblical brit is a historical, mutual covenant with a people constituted through Torah and mitzvot, whereas the Qur'anic mithaq of Q 7:172 is a pre-eternal covenant of every soul's testimony to God's lordship), ranking and equating neither; the same is done for the forward Christian reference.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "mithaq",
+      "note": "Brit and the Qur'anic mithaq both address the shared question of a binding covenant between God and the human party, and this link compares that question, not the answers, ranking and equating neither (neutrality #10). The difference: the biblical brit is above all a historical, mutual covenant, made with Noah and all humanity, with Abraham (with circumcision, brit milah, as its sign), and at Sinai where Israel is constituted as a people bound to God through the Torah and the mitzvot, and renewed with Phinehas and David; the Islamic mithaq of Qur'an 7:172 (the Day of Alast) is the primordial, pre-eternal covenant in which God draws forth the descendants of Adam and has every soul testify to His lordship ('Am I not your Lord?'). Both name a God-human bond, but the biblical covenant is corporate, historical, and tied to law and land, while the mithaq is pre-existent and universal to each soul; this note records each as attributed to its tradition and adjudicates, ranks, and harmonizes neither."
+    },
+    {
+      "type": "compares_with",
+      "target": "covenant",
+      "note": "Judaism's brit compares with the Christian conception of covenant, which reads the biblical covenants and adds the theme of a 'new covenant' (Jeremiah 31:31 as read in the New Testament, e.g. Luke 22:20; Hebrews 8-9); the shared question is the binding relationship between God and the human party, and the difference is that Judaism holds the Sinai covenant of Torah and mitzvot as enduring and central while Christianity reads the covenants toward a new covenant in Christ. This note states the shared question and the difference and ranks neither (neutrality #10). Forward reference: no Christian covenant/new-covenant concept entity exists yet in the dataset (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "abraham",
+      "note": "The covenant with Abraham, the promise of land and descendants (Genesis 15) and the covenant of circumcision (brit milah, Genesis 17), is one of the foundational covenants; Abraham is its human party and circumcision remains its enduring sign in Judaism."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "The covenant at Sinai (Exodus 19-24), central to the biblical covenant theology, is mediated through Moses, who reads the record of the covenant and ratifies it with the people; the Sinai brit binds Israel to God through the Torah."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The Sinai covenant is the covenant of the Torah and its commandments (mitzvot); in Judaism the covenant and the Torah are bound together, so that keeping the covenant is keeping the Torah given at Sinai."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The covenant traditions are narrated across the Tanakh: the Noahic covenant (Genesis 9), the Abrahamic (Genesis 15, 17), the Sinai covenant (Exodus 19-24, Deuteronomy), and the covenants with Phinehas (Numbers 25) and David (2 Samuel 7; Psalm 89)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Tanakh (Hebrew Bible), open Hebrew and English text on Sefaria: Genesis 15:18 (the covenant between the pieces, the land assigned to Abram's offspring), Genesis 17:7 ('I will maintain My covenant ... as an everlasting covenant ... to be God to you and to your offspring to come') and 17:11 ('You shall circumcise the flesh of your foreskin, and that shall be the sign of the covenant between Me and you', the brit milah), and Exodus 24:7-8 ('Then he took the record of the covenant and read it aloud to the people. And they said, \"All that God has spoken we will faithfully do!\" ... \"This is the blood of the covenant that God now makes with you concerning all these commands\"'). Primary scripture for the Abrahamic and Sinai covenants; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Genesis.17.11",
+      "license": "Hebrew original in the public domain; Sefaria's English translation (JPS / revised JPS) under a Creative Commons license. The Genesis 15:18, Genesis 17:7 and 17:11, and Exodus 24:7-8 passages read line-by-line via the Sefaria text API.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Levenson, Jon D. Sinai and Zion: An Entry into the Jewish Bible. Minneapolis: Winston Press, 1985 (repr. HarperOne). A contemporary Jewish scholar's study of the two mountains of the Hebrew Bible and their theologies, treating Sinai as the mountain of covenant and Torah and tracing the covenantal ideology of the Hebrew Bible and its relation to the Davidic and Zion traditions; cited for the Sinai covenant and biblical covenant theology, and as the contemporary-Jewish-scholarship lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://archive.org/details/sinaizionentryin0000leve",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Levenson, Jon D. The Death and Resurrection of the Beloved Son: The Transformation of Child Sacrifice in Judaism and Christianity. New Haven: Yale University Press, 1993. A study of the theme of the beloved son given over and restored, including the Akedah (Genesis 22) and its relation to the Abrahamic covenant and to covenant and election in the Hebrew Bible; cited for the Abrahamic covenant and election material. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300065114/the-death-and-resurrection-of-the-beloved-son/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the history, literature, and religion of ancient Judaism; cited for the historical setting of the covenant traditions and the place of covenant and election in Second Temple Judaism. Verified to exist and be on-topic, not read line-by-line; carries the same rating it holds in mishnah.json and second-temple-judaism.json.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schafer, Peter. The History of the Jews in the Greco-Roman World: The Jews of Palestine from Alexander the Great to the Arab Conquest. 2nd ed. London and New York: Routledge, 2003. Academic history of ancient Judaism; cited for the historical context of the biblical and Second Temple covenant traditions. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.routledge.com/The-History-of-the-Jews-in-the-Greco-Roman-World-The-Jews-of-Palestine-from-Alexander-the-Great-to-the-Arab-Conquest/Schafer/p/book/9780415305877",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

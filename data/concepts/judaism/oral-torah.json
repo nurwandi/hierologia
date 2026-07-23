@@ -1,0 +1,102 @@
+{
+  "id": "oral-torah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Oral Torah",
+    "original": "תּוֹרָה שֶׁבְּעַל פֶּה",
+    "transliteration": "Torah she-be-al peh",
+    "aliases": [
+      "Torah she-be-al-peh",
+      "the Oral Law",
+      "the Oral Tradition",
+      "the twofold Torah (with the Written Torah)"
+    ]
+  },
+  "category": "revelation",
+  "summary": "The Oral Torah (Torah she-be-al peh) is the doctrine, central to rabbinic Judaism, that alongside the Written Torah (Torah she-bi-khtav) given to Moses at Sinai there was given an oral teaching, its authoritative interpretation and application, transmitted through an unbroken chain of tradition and eventually set down in the Mishnah, Talmud, and midrash. It is the theological basis of rabbinic authority; the Sadducees and later the Karaites rejected it.",
+  "description": "The Oral Torah (Hebrew Torah she-be-al peh, the Torah that is by mouth) is the rabbinic doctrine that God gave Moses at Sinai not only the Written Torah (Torah she-bi-khtav) but also an accompanying oral teaching: the authoritative interpretation, application, and expansion of the written text, transmitted orally from generation to generation before being committed to writing. On this understanding the two form a single revelation, the twofold Torah, and the written text cannot be rightly understood or applied apart from its oral counterpart. The doctrine is presented here on the tradition's own terms, with the historical-critical account of the rise of the oral-tradition concept given alongside as attributed scholarship.\n\nThe classic expression of the chain of transmission opens tractate Avot of the Mishnah: 'Moses received the Torah at Sinai and transmitted it to Joshua, Joshua to the elders, and the elders to the prophets, and the prophets to the Men of the Great Assembly' (Pirkei Avot 1:1, read on Sefaria), from whom the chain continues through the named sages down to the rabbis of the mishnaic period. This chain grounds the authority of the rabbis: it presents their teaching not as innovation but as the faithful transmission of what was received at Sinai, so that rabbinic interpretation carries the authority of revelation itself. The Babylonian Talmud develops the theme further, including narratives in which the details of the law are held to have been given to Moses at Sinai (the category of a law as halakhah le-Moshe mi-Sinai) and in which the interpretive authority of the sages is affirmed. The Oral Torah was, in the tradition, gradually set down in writing under historical pressure, first in the Mishnah (redacted around 200 CE), then in the Tosefta, the two Talmuds, and the midrashic collections, which are together the literary deposit of the Oral Torah.\n\nIn the scholarship on its formation, Martin Jaffee (Torah in the Mouth) studies the emergence, within Palestinian Jewish scribal and rabbinic circles from the later Second Temple period into late antiquity, of the distinction between written books and oral tradition and of the rabbinic conception of an oral Torah, arguing that the tradition developed through the mutual interpretation of oral and written modes rather than as a simple transcript of a fixed oral deposit; Shaye Cohen and Peter Schafer treat the rise of the rabbinic movement and its claim to authority within the history of ancient Judaism. These analyses are recorded here as attributed positions alongside the tradition's own account, and the editor does not adjudicate between them.\n\nThe doctrine of the Oral Torah was not universally accepted within Judaism, and this entry attributes the dissent without adjudicating it. In the Second Temple period the Sadducees are reported to have recognized only the written law and to have rejected the traditions of the Pharisees, the party from which the rabbinic movement is generally traced. Later, from the eighth or ninth century CE, the Karaites (from qara, to read scripture) rejected the rabbinic Oral Torah, holding that Jews must derive the law from the written scripture itself through their own study rather than rely on the authority of the rabbinic tradition and its chain of transmission; the Karaite exegetes studied by Daniel Frank built a scriptural jurisprudence in deliberate opposition to the Rabbanite doctrine of a divinely given Oral Torah. The rejection of the Oral Torah by the Sadducees and the Karaites is recorded here as an attributed position, and the editor does not rule on the doctrine's validity.",
+  "editorial_notes": "This entry describes the Oral Torah on rabbinic Judaism's own terms (neutrality #1, #4, #6, #7): the doctrine of the twofold Torah, the chain of transmission, and the Oral Torah as the basis of rabbinic authority, given as the tradition's own account, with the historical-critical study of the rise of the oral-tradition concept attributed to named scholarship (Jaffee, Cohen, Schafer) and neither asserted nor adjudicated (neutrality #1-#2). The internal dissent is ATTRIBUTED, not adjudicated (neutrality #2, #7): the Sadducean rejection (recognizing only the written law) and the Karaite rejection (deriving law from scripture directly, against the Rabbanite Oral Torah) are recorded as attributed positions, and the editor does not rule on whether the Oral Torah is a genuine Sinaitic revelation. Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic scholarship (Martin Jaffee, Torah in the Mouth, the standard study of writing and oral tradition and the emergence of the oral-Torah concept in Palestinian Judaism; Shaye Cohen and Peter Schafer for the rise of the rabbinic movement; Daniel Frank for the Karaite counter-position); (b) the primary texts, read line-by-line and openly auditable on Sefaria (Pirkei Avot 1:1, the chain of transmission); (c) a contemporary Jewish scholar (Jaffee and Cohen carry this lens). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing chain-of-transmission passage was read line-by-line via the Sefaria text API and quoted verbatim, Pirkei Avot 1:1 ('Moses received the Torah at Sinai and transmitted it to Joshua, Joshua to the elders, and the elders to the prophets, and the prophets to the Men of the Great Assembly'); this primary source carries honest high confidence. The secondary scholarship (Jaffee, Cohen, Schafer, Frank) is medium, verified to exist and be on-topic but not read line-by-line; Cohen carries the same medium rating he holds in mishnah.json and second-temple-judaism.json. Relation targets torah, mishnah, talmud, rabbinic-judaism, moses, second-temple-judaism, and pharisees exist; sadducees and karaites are dangling forward references (no such entities exist yet, flagged).",
+  "relations": [
+    {
+      "type": "elaborates",
+      "target": "torah",
+      "note": "The Oral Torah is, in the tradition, the authoritative interpretation and application of the Written Torah (Torah she-bi-khtav): the twofold Torah is a single revelation, and the oral teaching elaborates and makes applicable the written text given at Sinai."
+    },
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "The doctrine of the Oral Torah is the theological foundation of rabbinic Judaism and of rabbinic authority: it presents the rabbis' teaching as the faithful transmission, from Sinai, of the interpretation of the Torah."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "The Mishnah (redacted c. 200 CE) is, in the tradition's self-understanding, the first great setting-down in writing of the Oral Torah; its tractate Avot opens with the chain of transmission from Moses at Sinai (Pirkei Avot 1:1)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The Talmuds (the Mishnah together with the Gemara) are the sustained literary elaboration of the Oral Torah, developing its interpretation and debate and affirming the interpretive authority of the sages."
+    },
+    {
+      "type": "related_to",
+      "target": "moses",
+      "note": "The chain of transmission of the Oral Torah begins, in the tradition, with Moses, who is held to have received the oral teaching at Sinai alongside the Written Torah and transmitted it to Joshua (Pirkei Avot 1:1)."
+    },
+    {
+      "type": "refuted_by",
+      "target": "karaites",
+      "note": "The Karaites (from the eighth or ninth century CE) rejected the rabbinic Oral Torah, holding that Jews must derive the law from the written scripture itself rather than from the authority of the rabbinic tradition and its chain of transmission. This is recorded as the Karaites' attributed position; the editor does not adjudicate the doctrine. Forward reference: no Karaite entity exists yet (dangling)."
+    },
+    {
+      "type": "refuted_by",
+      "target": "sadducees",
+      "note": "The Sadducees of the Second Temple period are reported to have recognized only the written law and to have rejected the ancestral traditions of the Pharisees, the party from which the rabbinic doctrine of the Oral Torah is generally traced. This is recorded as an attributed position; the editor does not adjudicate. Forward reference: no Sadducees entity exists yet (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "pharisees",
+      "note": "The rabbinic doctrine of the Oral Torah is generally traced from the Pharisees of the Second Temple period, who are reported to have held to a body of ancestral tradition beyond the written law, in contrast to the Sadducees who rejected it."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Mishnah, Pirkei Avot 1:1, open Hebrew and English text on Sefaria: 'Moses received the Torah at Sinai and transmitted it to Joshua, Joshua to the elders, and the elders to the prophets, and the prophets to the Men of the Great Assembly.' The primary rabbinic statement of the chain of transmission that grounds the doctrine of the Oral Torah and of rabbinic authority; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Pirkei_Avot.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. The Avot 1:1 passage read line-by-line via the Sefaria text API.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Jaffee, Martin S. Torah in the Mouth: Writing and Oral Tradition in Palestinian Judaism, 200 BCE-400 CE. New York: Oxford University Press, 2001. The standard academic study of the relationship of oral tradition to written sources in Palestinian Judaism from the later Second Temple period into late antiquity, tracking the emergence of the rabbinic distinction between written books and oral tradition and of the concept of an Oral Torah, and arguing that the rabbinic tradition developed through the mutual interpretation of oral and written modes; cited for the historical emergence of the Oral Torah concept and as a contemporary Jewish scholarly lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/torah-in-the-mouth-9780195140675",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the history, literature, and religion of ancient Judaism; cited for the rise of the rabbinic movement, the Pharisee-Sadducee dispute over ancestral tradition, and the setting of the Oral Torah doctrine. Verified to exist and be on-topic, not read line-by-line; carries the same rating it holds in mishnah.json and second-temple-judaism.json.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schafer, Peter. The History of the Jews in the Greco-Roman World: The Jews of Palestine from Alexander the Great to the Arab Conquest. 2nd ed. London and New York: Routledge, 2003. Academic history of ancient Judaism; cited for the historical context of the Pharisees, the Sadducees, and the rise of the rabbinic movement and its claim to authority. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.routledge.com/The-History-of-the-Jews-in-the-Greco-Roman-World-The-Jews-of-Palestine-from-Alexander-the-Great-to-the-Arab-Conquest/Schafer/p/book/9780415305877",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Frank, Daniel. Search Scripture Well: Karaite Exegetes and the Origins of the Jewish Bible Commentary in the Islamic East. Etudes sur le judaisme medieval 29. Leiden and Boston: Brill, 2004. Academic monograph on the Karaite exegetes of the Islamic East, who built a scriptural jurisprudence in opposition to the Rabbanite doctrine of a divinely given Oral Torah; cited for the Karaite rejection of the Oral Torah as an attributed counter-position. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://brill.com/display/title/8574",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

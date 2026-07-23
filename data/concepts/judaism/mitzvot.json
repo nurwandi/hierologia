@@ -1,0 +1,96 @@
+{
+  "id": "mitzvot",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Mitzvot",
+    "original": "מִצְווֹת",
+    "transliteration": "miṣvot",
+    "aliases": [
+      "Mitzvoth",
+      "The commandments",
+      "Mitzvah (singular)",
+      "Taryag mitzvot (the 613 commandments)"
+    ]
+  },
+  "category": "commandments",
+  "summary": "The mitzvot are the divine commandments of the Torah that a Jew is obligated to observe. The rabbinic tradition enumerates them as 613 (the taryag mitzvot), 248 positive commandments and 365 negative, and distinguishes commandments between a person and God from those between one person and another. In Jewish thought the mitzvah is understood as the concrete content of the covenant with God and of a life of holiness, the singular mitzvah being the individual precept.",
+  "description": "A mitzvah (plural mitzvot) is a commandment: a divine precept of the Torah that, in the understanding of the tradition presented here on its own terms, a Jew is obligated to observe as the concrete content of the covenant with God. The commandments are the substance of what the law (halakha) derives, systematizes, and applies. The rabbinic tradition speaks of the taryag mitzvot, the 613 commandments (taryag being the letters that spell the number 613), comprising 248 positive commandments (mitzvot aseh, things to do, said to correspond to the number of the parts of the body) and 365 negative commandments (mitzvot lo ta'aseh, prohibitions, said to correspond to the days of the solar year).\n\nThe number 613 is stated in the Babylonian Talmud, tractate Makkot 23b, where Rabbi Simlai teaches that 613 commandments were stated to Moses, 365 prohibitions corresponding to the days of the year and 248 positive commandments corresponding to a person's limbs. Because the Torah does not present the commandments as a numbered list, the identification of exactly which 613 precepts make up the count became a subject of its own literature. The most influential enumeration is that of Maimonides in his Sefer HaMitzvot (the Book of the Commandments, twelfth century), which sets out fourteen governing principles (shorashim, roots) for deciding what counts as one of the 613 and then lists the positive and negative commandments in turn; its first positive commandment, the command to believe in God, opens by citing the very passage from Makkot 23b, tying the enumeration to its Talmudic source. Other authorities, such as Nahmanides in his critical glosses on the Sefer HaMitzvot and the later work Sefer HaChinuch, differ on particular inclusions, so the roster of the 613, though the number is fixed in the tradition, is not uniform across the enumerators.\n\nThe tradition draws a classic distinction, rooted in the rabbinic sources, between commandments that govern the relationship between a person and God (bein adam la-Makom, such as the Sabbath, prayer, and the dietary laws) and commandments that govern the relationship between one person and another (bein adam la-havero, such as the prohibitions of theft and of wronging one's neighbour and the duties of charity and honest dealing). Beyond their legal force, the mitzvot carry theological weight in Jewish thought as the means by which the covenant is lived out and Israel is sanctified: the standard blessing formula recited before performing many commandments praises God who has sanctified us through His commandments (asher kiddeshanu be-mitzvotav), framing the mitzvah as the concrete instrument of a life of holiness. This entry states the enumeration, the categories, and the theological weight as the tradition's own; it does not adjudicate the differences among the enumerators or among the later movements on the binding scope of the commandments.",
+  "editorial_notes": "This entry describes the mitzvot on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding the obligation to observe the commandments and their standing as the content of the covenant and of a life of holiness, without the editor affirming or denying the theology. Per neutrality #2, where the enumerators differ on which precepts make up the 613 (Maimonides, Nahmanides, Sefer HaChinuch), the difference is noted and not adjudicated; the differing positions of the modern movements on the binding scope of the commandments are treated at the halakha entry rather than re-litigated here. The number 613 and its 248/365 split are given from the Talmudic source, and Maimonides' role from his own text. Sources triangulate three lenses per neutrality #8-9: an academic historian of the rabbinic mind (Urbach, The Sages) and a historian of Jewish law (Elon, Jewish Law); the primary texts themselves, read openly and line-by-line on Sefaria (the Talmud, Makkot 23b, for the 613 count; Maimonides' Sefer HaMitzvot, Positive Commandment 1, for the enumeration and its citation of Makkot); and a contemporary Jewish scholar (Halbertal). No encyclopedias (including the Encyclopaedia Judaica, the Jewish Encyclopedia, and My Jewish Learning), Wikipedia, or tertiary sources. Confidence: the two Sefaria primary texts read line-by-line (Makkot 23b, quoted below, and Sefer HaMitzvot, Positive Commandments 1) are rated high, carrying the load-bearing claims (the 613 count with its 248/365 split, its statement by Rabbi Simlai in Makkot 23b, and Maimonides' enumeration citing that passage); the Makkot 23b text read on Sefaria states: 'Rabbi Simlai taught: There were 613 mitzvot stated to Moses in the Torah, consisting of 365 prohibitions corresponding to the number of days in the solar year, and 248 positive mitzvot corresponding to the number of a person's limbs.' Elon, Urbach, and Halbertal are verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium; Elon, Urbach, and Halbertal carry the same medium rating they hold in halakha.json. Relation targets torah, tanakh, halakha (same batch), talmud, rabbinic-judaism exist or are in the same judaism batch; sefer-hamitzvot and covenant are dangling forward references to not-yet-created entities.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "torah",
+      "note": "The mitzvot are the commandments of the Torah; in the tradition's self-understanding they are the divine precepts of the Written Torah as elaborated through the Oral Torah."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The mitzvot are the substance that halakha (Jewish law) derives, systematizes, and applies; the law of the commandments and their observance is the core of halakha. Authored in the same batch."
+    },
+    {
+      "type": "derives_from",
+      "target": "talmud",
+      "note": "The enumeration of the commandments as 613 (365 negative, 248 positive) is stated in the Babylonian Talmud, Makkot 23b, in the teaching of Rabbi Simlai."
+    },
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "The system of the 613 commandments, their enumeration, and their observance is central to rabbinic Judaism and to its account of what the covenant obligates."
+    },
+    {
+      "type": "elaborates",
+      "target": "sefer-hamitzvot",
+      "note": "Maimonides' Sefer HaMitzvot (the Book of the Commandments) is the most influential enumeration of the 613, setting out fourteen principles for the count and then listing the positive and negative commandments. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "covenant",
+      "note": "In Jewish thought the mitzvot are the concrete content of the covenant (brit) between God and Israel, the means by which the covenant is lived out and Israel is sanctified. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The commandments are, in the tradition's self-understanding, given in the Torah at Sinai, conventionally placed by the tradition in the second millennium BCE; the -1200 marker is a rough conventional anchor for the Torah's setting, not a historical dating claim. The enumeration as 613 is rabbinic, stated in the Talmud (Makkot 23b, redacted in late antiquity), and the systematic enumerations (Maimonides' Sefer HaMitzvot and others) are medieval. The observance of the mitzvot remains central to the practising streams of Judaism, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Babylonian Talmud, Makkot 23b, open Hebrew/Aramaic and English text on Sefaria (William Davidson digital edition of the Koren Noe Talmud). Cited as the openly-auditable primary text, read line-by-line: the teaching of Rabbi Simlai, 'There were 613 mitzvot stated to Moses in the Torah, consisting of 365 prohibitions corresponding to the number of days in the solar year, and 248 positive mitzvot corresponding to the number of a person's limbs,' the load-bearing Talmudic source for the number 613 and its 248/365 division.",
+      "url": "https://www.sefaria.org/Makkot.23b",
+      "license": "William Davidson Talmud, CC-BY-NC 4.0 (English translation); underlying Hebrew/Aramaic in the public domain. Read line-by-line for this entry.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Maimonides (Moses ben Maimon), Sefer HaMitzvot, Positive Commandments 1, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text, read line-by-line: Maimonides' first positive commandment (the command to believe in God) opens by quoting the passage from Makkot 23b that 'there were 613 commandments stated to Moshe at Sinai,' confirming the Sefer HaMitzvot as the enumeration of the 613 and its explicit dependence on the Talmudic source.",
+      "url": "https://www.sefaria.org/Sefer_HaMitzvot%2C_Positive_Commandments.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Urbach, Ephraim E. The Sages: Their Concepts and Beliefs. Trans. Israel Abrahams. Jerusalem: Magnes Press, 1975; Cambridge, MA: Harvard University Press, 1979. A classic academic study of the religious concepts and beliefs of the rabbinic sages; cited for the rabbinic understanding of the commandments and their theological place in the covenant and the life of holiness. Verified to exist and be on-topic (author, title, translator, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674785243",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Elon, Menachem. Jewish Law: History, Sources, Principles (Ha-Mishpat Ha-Ivri). Trans. Bernard Auerbach and Melvin J. Sykes. 4 vols. Philadelphia: Jewish Publication Society, 1994 (Hebrew 1st ed. 1973). The standard academic history of Jewish law; cited for the place of the commandments within the structure of Jewish law and for the distinction of categories of mitzvot. Verified to exist and be on-topic (author, title, translators, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://jps.org/books/jewish-law-4-volume-set/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Halbertal, Moshe. People of the Book: Canon, Meaning, and Authority. Cambridge, MA: Harvard University Press, 1997. A contemporary Jewish scholar's study of the authority and interpretation of the canonical texts; cited for the interpretive authority through which the commandments of the Torah are identified, counted, and applied. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674661127",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

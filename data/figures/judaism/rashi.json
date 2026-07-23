@@ -1,0 +1,87 @@
+{
+  "id": "rashi",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Rashi",
+    "original": "רַשִׁ\"י",
+    "transliteration": "Rashi (acronym of Rabbi Shlomo Yitzchaki)",
+    "aliases": [
+      "Rabbi Shlomo Yitzchaki",
+      "Solomon ben Isaac",
+      "Shlomo ben Yitzhak of Troyes",
+      "Rabbi Solomon of Troyes"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "biblical commentator (parshan)",
+    "talmudic commentator"
+  ],
+  "summary": "Rashi (Rabbi Shlomo Yitzchaki, 1040-1105), of Troyes in northern France, was the preeminent medieval commentator on the Tanakh and the Babylonian Talmud. His concise running commentaries became the indispensable companions to both texts and are printed alongside them; his method joined peshat (the plain sense) with selected midrash.",
+  "description": "Rashi, the acronym of Rabbi Shlomo Yitzchaki (Solomon ben Isaac), lived in Troyes in the Champagne region of northern France and is generally regarded as the most influential commentator of medieval Judaism. He studied in the Rhineland academies of Worms and Mainz, heir to the Ashkenazi learning of the students of Rabbenu Gershom, before returning to Troyes, where he established his own school and, according to tradition, supported himself in part through viticulture. Avraham Grossman's study places him at the head of the northern French tradition of biblical exegesis and communal leadership.\n\nRashi is remembered above all for two great running commentaries. His commentary on the Tanakh, and especially on the Torah (the Pentateuch), is a line-by-line exposition that selects and compresses the aggadic and halakhic midrash of the rabbis while attending, where he judged it appropriate, to peshat, the plain contextual sense of the verse. His own programmatic statement in the commentary on Genesis 3:8, that he comes to give 'the plain meaning of scripture' (peshuto shel mikra) alongside the aggadah that settles the words of the text, is often cited as the key to his method, though scholars note that in practice he weaves peshat and midrash together rather than choosing between them. His commentary on the Babylonian Talmud is a continuous gloss that explains the flow of the discussion (the give-and-take of the sugya), defines difficult terms, and supplies the connective sense that makes the text followable; it became so nearly indispensable that the Talmud is rarely studied without it, and in the printed Talmud Rashi's commentary stands in the inner margin alongside the text in the semicursive type now conventionally called 'Rashi script'.\n\nFrom his school descended the Tosafists, the northern French and German glossators of the twelfth and thirteenth centuries who took Rashi's Talmud commentary as their starting point and developed the dialectical method of the Tosafot ('additions'); several were his own descendants and pupils, among them his grandson Rabbenu Tam (Jacob ben Meir). Beyond the Jewish tradition, Rashi's biblical exegesis, with its attention to the plain sense and to Hebrew grammar, influenced later Christian Hebraists and, through them, the history of Western biblical scholarship. He is presented here on Judaism's own terms as the tradition's foremost commentator, with the scholarship on his method and his school recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Rashi on Judaism's own terms as the preeminent commentator on the Tanakh and the Babylonian Talmud (neutrality #1, #4, #6). His method (peshat joined with selected midrash) is described as scholars characterize it, noting the qualification that in practice he integrates plain sense and midrash rather than opposing them, so as not to flatten a scholarly nuance into a single claim (neutrality #2). His influence on Western biblical scholarship through later Christian Hebraists is stated factually as a matter of reception history (neutrality #10-#11), without ranking traditions. Sources triangulate three lenses per neutrality #8-9: (a) an academic historian of the northern French exegetes (Grossman); (b) the primary text, open and auditable on Sefaria (Rashi on Genesis 1:1, read line-by-line, with his citation of Rabbi Isaac quoted); and (c) contemporary scholarship on Rashi's exegetical method (Kamin; Grossman as a contemporary Jewish scholar). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: Rashi on Genesis 1:1 on Sefaria is rated high because it was read line-by-line for this entry, with his citation of Rabbi Isaac quoted verbatim; Grossman's monograph and Kamin's study are medium, verified via publisher and library records, not read line-by-line. Relation targets: tanakh, torah, and talmud exist; rabbenu-tam, tosafists, and rabbinic-judaism are relation targets, of which rabbinic-judaism exists and rabbenu-tam and tosafists are dangling forward references to not-yet-created entities.",
+  "lifespan": {
+    "birth": 1040,
+    "death": 1105,
+    "note": "1040-1105 CE; born and died in Troyes, in the Champagne region of northern France, having studied in the Rhineland academies of Worms and Mainz."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "Rashi wrote a running commentary on the Tanakh (the Hebrew Bible), the most widely studied of medieval Jewish Bible commentaries. The tanakh entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "His commentary on the Torah (the Pentateuch) is his most celebrated biblical work, joining peshat with selected midrash. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "Rashi's continuous commentary on the Babylonian Talmud became its indispensable companion, printed alongside the text; the Talmud is rarely studied without it. The talmud entry exists."
+    },
+    {
+      "type": "teacher_of",
+      "target": "rabbenu-tam",
+      "note": "Rabbenu Tam (Jacob ben Meir), Rashi's grandson, was a leading Tosafist who developed and at points revised Rashi's readings; a family and scholarly line descends from Rashi. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "influenced",
+      "target": "tosafists",
+      "note": "The Tosafists took Rashi's Talmud commentary as the base for their dialectical glosses (Tosafot); several were his descendants and pupils. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "member_of",
+      "target": "rabbinic-judaism",
+      "note": "As the foremost medieval expositor of the Torah and the Talmud, Rashi stands within the rabbinic tradition, transmitting and clarifying its texts for later study. The rabbinic-judaism entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Rashi on Genesis 1:1, open Hebrew and English text on Sefaria. Cited as the primary text for Rashi's method of opening the Torah commentary: quoting Rabbi Isaac that the Torah begins with creation rather than with the first commandment to establish that 'the whole earth belongs to the Holy One, blessed be He; He created it and gave it to whom He pleased', and for his grammatical reading of be-reshit as 'at the beginning of God's creating' and his note on the divine name Elohim (justice) alongside mercy. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Rashi_on_Genesis.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Rashi on Genesis 1:1 read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Grossman, Avraham. Rashi. Translated by Joel Linsider. Littman Library of Jewish Civilization. Oxford and Portland: Littman Library of Jewish Civilization, 2012 (Hebrew original 2006). A contemporary Jewish scholar's comprehensive study of Rashi, his Bible and Talmud commentaries, his exegetical method, and his communal leadership in northern France; cited as both academic historian of the northern French exegetes and contemporary scholarly lens. Verified to exist and be on-topic (Littman Library record; reviews in Journal of Jewish Studies and H-Judaic), not read line-by-line.",
+      "url": "https://www.jewishcivilization.org/products/rashi",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kamin, Sarah. Rashi's Exegetical Categorization In Respect to the Distinction Between Peshat and Derash (Rashi: peshuto shel mikra u-midrasho shel mikra). Jerusalem: Magnes Press, Hebrew University, 1986. A scholarly study of Rashi's exegetical method and his distinction between the plain sense (peshat) and midrashic interpretation (derash); cited for the characterization of his method as integrating rather than opposing peshat and midrash. Verified to exist and be on-topic (Magnes Press; standard reference in Rashi scholarship), not read line-by-line.",
+      "url": "https://www.magnespress.co.il/en/book/Rashi's_Exegetical_Categorization-5608",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}
