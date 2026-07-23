@@ -1,0 +1,106 @@
+{
+  "id": "samson-raphael-hirsch",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Samson Raphael Hirsch",
+    "original": "שמשון רפאל הירש",
+    "transliteration": "Shimshon Refael Hirsh",
+    "aliases": [
+      "S. R. Hirsch",
+      "Ben Uziel (pen name of The Nineteen Letters)",
+      "Rabbiner Hirsch"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "theologian",
+    "biblical commentator",
+    "communal leader"
+  ],
+  "summary": "Samson Raphael Hirsch (1808-1888) was a German rabbi widely regarded in the scholarship as the founder and foremost intellectual of Modern (Neo-)Orthodoxy. His The Nineteen Letters (Neunzehn Briefe über Judentum, 1836), his motto Torah im Derekh Eretz (Torah together with worldly engagement and culture), his Horeb, and his Pentateuch commentary defended traditional Judaism to a modernizing generation, and as rabbi of the separatist Frankfurt Orthodox community he led the Austritt (secession) from the general communal organization.",
+  "description": "Samson Raphael Hirsch, a rabbi active in Oldenburg, Emden, Nikolsburg (as chief rabbi of Moravia), and from 1851 in Frankfurt am Main, is presented in the scholarship as the founding intellectual of Modern or Neo-Orthodoxy, the current within Orthodox Judaism that combines strict observance of the traditional law with engagement in general European culture. He is treated here as an Orthodox figure and a party to the intra-Jewish denominational disputes of nineteenth-century Central Europe; his positions are attributed to him, and this entry does not rule which Jewish movement is the authentic or correct one.\n\nHis first and most influential work, The Nineteen Letters of Ben Uziel (Neunzehn Briefe über Judentum, 1836), is an epistolary defense of traditional Judaism addressed to a young man tempted to abandon it. In the Drachman translation read openly for this entry, Hirsch argues that Judaism must be understood from its own sources rather than judged by external standards: one must, he writes in the Second Letter, become acquainted with Judaism 'from the source which it itself points out to us,' from its Torah, and only when one has 'comprehended Judaism from itself, as it represents itself to be,' may one weigh it. That source he identifies as the written and the oral law together, which the reader is urged to 'strive to know' in 'their extent and bearing.' Against the reforming tendency of the age he has his correspondent recoil at a Judaism in which 'little by little everything is being cut away' to harmonize with the times, and he presents the commandments as the expression of a divine will that is not to be selectively set aside for convenience or emancipation. Alongside this he sets the programme later summed up in the phrase Torah im Derekh Eretz, Torah together with the way of the world: faithful observance of the whole law joined to full participation in the surrounding culture, science, and civic life, a synthesis Hirsch developed further in Horeb: Essays on Israel's Duties in the Diaspora (Horeb, 1837), a systematic account of the commandments and their underlying ideas, and across his extensive commentary on the Pentateuch.\n\nAs rabbi of the Israelitische Religionsgesellschaft in Frankfurt, Hirsch led an Orthodox congregation that understood itself as separate from the Reform-influenced general Jewish community (Gemeinde). When Prussian law of 1876 permitted individuals to leave a religious community without abandoning their religion, Hirsch pressed for Austritt, formal secession, so that the observant would not be organizationally bound to institutions he regarded as non-observant; the resulting dispute divided Orthodox opinion, since other Orthodox authorities held that secession was not required. Robert Liberles' social history of the resurgence of Orthodoxy in Frankfurt sets this conflict in its political and communal context, and Noah Rosenbloom's intellectual study reads Hirsch's religious philosophy as a whole. Hirsch's separatism and his opposition to Reform are reported here as his attributed positions within the intra-Jewish denominational dispute, not as a ruling by this entry on which side was correct.",
+  "editorial_notes": "This entry presents Hirsch on Judaism's own terms as the founding intellectual of Modern (Neo-)Orthodoxy (neutrality #1, #4, #6). Per neutrality #2 and #7 his separatism (Austritt) and his opposition to Reform are recorded as his attributed positions within the nineteenth-century intra-Jewish denominational dispute, and the entry does not rule which movement is the authentic or correct Judaism, consistent with the orthodox-judaism entry; it also notes that other Orthodox authorities differed with him over secession, so his view is not presented as the single Orthodox position. He is identified as an Orthodox figure without ranking Orthodoxy above other movements. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of Hirsch and of the emergence of Orthodoxy (Noah Rosenbloom, Tradition in an Age of Reform, JPS 1976; Robert Liberles, Religious Conflict in Social Context, Greenwood 1985); (b) the primary texts, with The Nineteen Letters read openly in the public-domain Drachman translation of 1899 on the Internet Archive for the load-bearing claims cited (understand Judaism from itself, from the written and oral law, Second Letter; the commandments not to be cut away or reshaped to the spirit of the age; Torah im Derekh Eretz), plus Horeb and the Pentateuch commentary as attributed primary works verified to exist; (c) a contemporary Jewish scholarly voice (Michah Gottlieb's study of Hirsch's defense of the Bible and Talmud). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: The Nineteen Letters, read openly line-by-line in the Drachman translation for the specific claims cited, is high (verified-eligible); Rosenbloom, Liberles, Gottlieb, and the Horeb and Pentateuch primary works are verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium. This entry is a draft pending reviewer audit before promotion. Relation targets orthodox-judaism, reform-judaism, torah, oral-torah, halakha, and maimonides exist; austritt is a dangling forward reference to a not-yet-created entity, noted as such.",
+  "lifespan": {
+    "birth": 1808,
+    "death": 1888,
+    "note": "1808-1888 CE; born in Hamburg, served as rabbi in Oldenburg, Emden, and as chief rabbi (Landesrabbiner) of Moravia at Nikolsburg, and from 1851 until his death as rabbi of the separatist Orthodox community in Frankfurt am Main."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "orthodox-judaism",
+      "note": "Hirsch is presented in the scholarship as the founding intellectual of Modern (Neo-)Orthodoxy, a current within Orthodox Judaism; the orthodox-judaism entry references him as a formative figure of the movement's modern articulation. He is identified as an Orthodox figure without ranking Orthodoxy above other movements. The orthodox-judaism entry exists."
+    },
+    {
+      "type": "articulated",
+      "target": "halakha",
+      "note": "Horeb and the Pentateuch commentary present Hirsch's account of the commandments and the observance of Jewish law and their underlying ideas; his Nineteen Letters insists the commandments retain divine authority and are not to be set aside to suit the age, as his attributed position. The halakha entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "Hirsch's major exegetical work is his multi-volume commentary on the Pentateuch (the Torah), and The Nineteen Letters argues that Judaism is to be understood from its own Torah, the written and oral law together. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "oral-torah",
+      "note": "In The Nineteen Letters (Second Letter) Hirsch urges that Judaism be known from the written and the oral law together, affirming the traditional doctrine of the twofold Torah as his attributed position. The oral-torah entry exists."
+    },
+    {
+      "type": "refuted",
+      "target": "reform-judaism",
+      "note": "The Nineteen Letters and Hirsch's communal leadership were directed against the Reform movement's abridgement of the ritual law; his opposition to Reform and his separatism are reported here as his attributed positions within the intra-Jewish denominational dispute, not as a ruling by this entry on which movement is authentic (neutrality #2, #7). The reform-judaism entry exists."
+    },
+    {
+      "type": "founded",
+      "target": "austritt",
+      "note": "As rabbi of the Frankfurt Orthodox community Hirsch led the Austritt, the formal secession of the observant from the general Jewish communal organization permitted by Prussian law of 1876; other Orthodox authorities held secession was not required, so this is his attributed position, not the single Orthodox one. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "influenced_by",
+      "target": "maimonides",
+      "note": "Hirsch worked within a tradition in which Maimonides (Rambam) is a central authority; his account of the commandments and their reasons stands in the line of medieval and later reflection on ta'amei ha-mitzvot to which Maimonides is foundational. Stated as a general line of influence within the tradition, not a claim of direct dependence on a specific text. The maimonides entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Hirsch, Samson Raphael. The Nineteen Letters of Ben Uziel: Being a Spiritual Presentation of the Principles of Judaism. Trans. Bernard Drachman. New York: Funk and Wagnalls, 1899 (German original, Neunzehn Briefe über Judentum, 1836). The founding text of Modern Orthodoxy; read openly line-by-line in the public-domain Drachman translation for the load-bearing claims cited here: that Judaism must be understood 'from the source which it itself points out to us,' from its Torah, and only when 'comprehended Judaism from itself, as it represents itself to be' may it be weighed (Second Letter); that one must 'strive to know' the commandments 'from the written and oral law' in 'their extent and bearing' (Second Letter); that the reforming tendency by which 'little by little everything is being cut away' to harmonize with the age is a departure from Judaism (First Letter), the commandments retaining their divine authority; and the programme of observance joined to engagement in general culture later summed up as Torah im Derekh Eretz. Cited as the primary Orthodox source on its own terms, not as a neutral reference work.",
+      "url": "https://archive.org/details/nineteenletters00hirs",
+      "license": "Drachman translation (1899) in the public domain (not in copyright); openly readable and searchable on the Internet Archive. The cited passages read line-by-line for this entry.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hirsch, Samson Raphael. Horeb: A Philosophy of Jewish Laws and Observances (Horeb: Versuche über Jissroéls Pflichten in der Zerstreuung, 1837). Trans. and annotated by Isidor Grunfeld. 2 vols. London: Soncino Press, 1962. Hirsch's systematic presentation of the commandments and their underlying ideas; cited as an attributed primary work for his account of the observance of Jewish law and its rationale. Verified to exist and be on-topic (author, title, translator, publisher, and year confirmed); not read line-by-line for this entry.",
+      "url": "https://www.amazon.com/Horeb-Philosophy-Jewish-Laws-Observances/dp/0900689404",
+      "license": "Proprietary translation of a nineteenth-century work; cited for reference (the URL confirms the Grunfeld/Soncino edition's bibliographic details).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rosenbloom, Noah H. Tradition in an Age of Reform: The Religious Philosophy of Samson Raphael Hirsch. Philadelphia: Jewish Publication Society of America, 1976. A comprehensive scholarly study of Hirsch's life and religious philosophy; cited for his intellectual biography, his synthesis of Torah and general culture, and his place in the emergence of Modern Orthodoxy. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://books.google.com/books/about/Tradition_in_an_Age_of_Reform.html?id=GuPXAAAAMAAJ",
+      "license": "Proprietary; cited for reference (bibliographic record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Liberles, Robert. Religious Conflict in Social Context: The Resurgence of Orthodox Judaism in Frankfurt am Main, 1838-1877. Contributions to the Study of Religion 13. Westport, CT: Greenwood Press, for the Leo Baeck Institute, 1985. An academic social history of the Frankfurt Orthodox community centered on Hirsch's leadership; cited for the political and communal context of the Austritt (secession) and Hirsch's separatist stance. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed via AJS Review and American Historical Review notices); not read line-by-line.",
+      "url": "https://academic.oup.com/ahr/article/91/4/946/49066",
+      "license": "Proprietary; cited for reference (the URL is a scholarly review confirming the book's details).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gottlieb, Michah. 'Oral Letter and Written Trace: Samson Raphael Hirsch's Defense of the Bible and Talmud.' Jewish Quarterly Review 106, no. 3 (Summer 2016): 315-351. Contemporary Jewish scholarship on Hirsch's philosophy of the written and oral Torah and his defense of traditional Judaism against Reform and academic critique; cited as the contemporary Jewish scholarly lens on Hirsch's account of Scripture and tradition. Verified to exist and be on-topic (Jewish Quarterly Review / Project MUSE); not read line-by-line.",
+      "url": "https://as.nyu.edu/content/dam/nyu-as/faculty/documents/Gottlieb_Oral%20Letter%20and%20Written%20Trace_Samson%20Raphael%20Hirsch%E2%80%99s%20Defense%20of%20the%20Bible%20and%20Talmud.pdf",
+      "license": "Author's posted copy; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

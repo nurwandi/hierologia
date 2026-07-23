@@ -1,0 +1,96 @@
+{
+  "id": "karaites",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Karaite Judaism",
+    "original": "קָרָאִים",
+    "transliteration": "Qara'im",
+    "aliases": [
+      "Karaism",
+      "Karaite Jews",
+      "Qara'im (readers, scripturalists)",
+      "Bnei Mikra (people of Scripture)",
+      "Ba'alei Mikra"
+    ]
+  },
+  "summary": "Karaite Judaism (Qara'im, 'readers' or 'scripturalists') is the Jewish movement that recognizes the Hebrew Bible (the Written Torah) alone as the authoritative source of religious law and rejects the rabbinic Oral Torah (the Mishnah, Talmud, and rabbinic tradition) that Rabbanite (rabbinic) Judaism holds to be divinely given. Crystallizing in the eighth and ninth centuries in the Islamic east (associated with Anan ben David) and flourishing in a 'golden age' of biblical and grammatical scholarship in the tenth and eleventh centuries (al-Qirqisani, Yefet ben Ali), it carried on a long polemic with Rabbanite Judaism (Saadia Gaon led the Rabbanite response) and survives as a small distinct community.",
+  "description": "Karaite Judaism, in Hebrew the Qara'im ('readers' or 'scripturalists', from qara, to read Scripture), is the movement within Judaism that takes the Hebrew Bible, the Written Torah, as the sole authoritative source of religious law, and that rejects the rabbinic Oral Torah (the Mishnah, the Talmud, and the accumulated rabbinic tradition) which Rabbanite (rabbinic) Judaism holds to have been given to Moses at Sinai alongside the written text. On the Karaite understanding, presented here on the movement's own terms, the individual Jew is to derive the law from Scripture itself through study, reason, and the consensus of the community, rather than by submitting to the authority of the rabbinic chain of transmission; this is scripturalism as the Karaites' considered position, not a mere absence of tradition. The movement is distinguished from Rabbanite Judaism, the rabbinic mainstream, and the two together with their long dispute frame much of medieval Jewish intellectual history.\n\nThe movement crystallized in the eighth and ninth centuries in the Islamic east (Mesopotamia and Persia), amid the wider ferment of sectarian and scripturalist currents in early Islamic society. The tradition associates its origins with Anan ben David, an eighth-century figure whose followers, the Ananites, were later absorbed into or aligned with the emerging Karaite movement; scholars caution that Anan's own teaching is preserved only in fragments, largely in citations by his Rabbanite opponents, and that the retrospective picture of him as founder is itself part of the movement's later self-understanding. From the tenth into the eleventh century Karaism entered what scholarship calls its 'golden age', centred in Jerusalem, marked by a remarkable output of biblical exegesis, Hebrew grammatical and lexicographical study, and legal and theological writing in Judaeo-Arabic: Ya'qub al-Qirqisani, whose comprehensive works survey the sects and expound the law, and Yefet ben Ali (Japheth ha-Levi), who produced a running Arabic translation and commentary on the whole of Scripture, are the emblematic figures of this flowering.\n\nThe Karaite-Rabbanite dispute was a sustained intra-Jewish polemic on both sides, and this entry attributes each position without adjudicating it. The Rabbanite response was led above all by Saadia Gaon (882-942), the head of the Sura academy, whose polemical works against Anan and the Karaites, and whose systematic defence of the divinely given Oral Torah and of rabbinic authority, are recorded here as the Rabbanite attributed position; the Karaite scripturalist rejection of that Oral Torah is recorded, in turn, as the Karaites' own considered position, not as the 'heresy' of the rabbinic polemic against them. The editor does not rule on which side is correct, and does not use the rabbinic polemic as the description of Karaism. After the medieval golden age the movement continued in Byzantium, and later in eastern Europe (Crimea, Lithuania) and Egypt, and it survives to the present as a small distinct community, with a significant population in the modern State of Israel; the historiographical question of how Karaite communities understood and recorded their own past is itself a subject of modern scholarship.",
+  "editorial_notes": "This entry presents Karaite Judaism on its own terms (neutrality #1, #4, #6, #7) and is deliberately careful with the intra-Jewish Karaite-Rabbanite polemic (neutrality #2, #7, and #11-adjacent, since it is a dispute internal to one tradition). KARAISM IS DESCRIBED ON ITS OWN TERMS: scripturalism, the recognition of the Written Torah alone, and the rejection of the rabbinic Oral Torah are given as the Karaites' considered position, NOT as the 'heresy' of the Rabbanite polemic against them; the rabbinic polemic (Saadia against Anan and the Karaites) is recorded as the Rabbanite ATTRIBUTED position and is NOT used as the description of Karaism. The editor does not adjudicate which side (the divinely given Oral Torah or scripturalism) is correct (neutrality #1). This mirrors how oral-torah.json attributes the Karaite rejection ('holding that Jews must derive the law from the written scripture itself... this is recorded as the Karaites' attributed position; the editor does not adjudicate'). Anan ben David is handled with the same caution the scholarship urges: his teaching survives only in fragments (largely in Rabbanite citation) and the 'founder' picture is partly retrospective self-understanding. Sourcing triangulates the three lenses per neutrality #8-9. HONESTY on the primary-text lens: the primary KARAITE corpus (al-Qirqisani, Yefet ben Ali, the Judaeo-Arabic exegetical and legal works) is largely NOT open on Sefaria, so unlike the Vital entry no Karaite primary passage could be read line-by-line here; the load-bearing account therefore rests on secondary scholarship plus, on the Rabbanite side, Saadia's Book of Beliefs and Opinions (primary Rabbanite text, in Rosenblatt's translation, cited for the Rabbanite defence, NOT as a neutral description of Karaism). The lenses are: (a) academic scholarship (Daniel Frank, Search Scripture Well, Brill 2004, already cited in oral-torah.json for the Karaite counter-position; Meira Polliack, ed., Karaite Judaism: A Guide to Its History and Literary Sources, Brill 2003, the standard reference collection; Leon Nemoy, Karaite Anthology, Yale 1952, translated excerpts from the early Karaite literature); (b) the Rabbanite primary text (Saadia Gaon) for the attributed Rabbanite side, since the Karaite primary corpus is not open on Sefaria; (c) a contemporary Jewish scholar (Fred Astren, Karaite Judaism and Historical Understanding, South Carolina 2004, on Karaite historiography and self-understanding). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE: because the load-bearing account rests on secondary scholarship (Frank, Polliack, Nemoy, Astren) with the primary Karaite corpus NOT read line-by-line, all secondary sources are medium (Frank carries the same medium rating it holds in oral-torah.json), and this entry is best treated as REVIEWED-ONLY rather than verified; it is authored as a DRAFT. Saadia's Book of Beliefs and Opinions is a primary Rabbanite text but is cited here for the Rabbanite side, verified to exist and be on-topic but not read line-by-line for the anti-Karaite polemic specifically, so it is rated medium. Relation targets: oral-torah, rabbinic-judaism, tanakh, mishnah, talmud exist; saadia-gaon exists as a figure; anan-ben-david and sadducees are dangling forward references (no such entities exist yet, flagged).",
+  "period": {
+    "founded": 760,
+    "note": "Crystallized in the eighth-ninth centuries CE in the Islamic east (the origins are traditionally associated with Anan ben David, active mid-eighth century, hence the approximate marker c. 760); flourished in a 'golden age' of biblical and grammatical scholarship in Jerusalem in the tenth-eleventh centuries (al-Qirqisani, Yefet ben Ali); continued in Byzantium, eastern Europe (Crimea, Lithuania), and Egypt, and survives to the present as a small distinct community, so no end date is given. The 'founder' dating and the retrospective picture of Anan are scholarly cautions, not settled fact."
+  },
+  "relations": [
+    {
+      "type": "rejects",
+      "target": "oral-torah",
+      "note": "Karaite Judaism rejects the rabbinic Oral Torah (the Mishnah, Talmud, and rabbinic tradition), recognizing the Written Torah alone as authoritative for religious law, and holding that Jews must derive the law from Scripture itself through study rather than from the authority of the rabbinic chain of transmission. Presented as the Karaites' considered position on its own terms; the editor does not adjudicate. The oral-torah entry records the reciprocal (refuted_by karaites)."
+    },
+    {
+      "type": "opposed",
+      "target": "rabbinic-judaism",
+      "note": "Karaism defined itself in opposition to Rabbanite (rabbinic) Judaism, which holds the Oral Torah to be divinely given; the two carried on a long intra-Jewish polemic on both sides. The dispute is attributed, not adjudicated: Karaism is described on its own terms (scripturalism), not through the rabbinic polemic against it."
+    },
+    {
+      "type": "holds",
+      "target": "tanakh",
+      "note": "Karaite Judaism holds the Hebrew Bible (the Tanakh, the Written Torah) to be the sole authoritative source of religious law; the movement's 'golden age' was marked by a great output of biblical exegesis and Hebrew grammatical study (al-Qirqisani, Yefet ben Ali)."
+    },
+    {
+      "type": "opposed",
+      "target": "saadia-gaon",
+      "note": "Saadia Gaon (882-942), head of the Sura academy, led the Rabbanite response to the Karaites, with polemical works against Anan and the Karaites and a systematic defence of the divinely given Oral Torah and rabbinic authority. Recorded as the Rabbanite attributed position; the editor does not adjudicate. The saadia-gaon figure entity exists."
+    },
+    {
+      "type": "founded_by",
+      "target": "anan-ben-david",
+      "note": "The tradition associates Karaite origins with Anan ben David (active mid-eighth century), whose followers the Ananites were later aligned with the emerging movement; scholars caution that his teaching survives only in fragments (largely in Rabbanite citation) and that the 'founder' picture is partly retrospective. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "related_to",
+      "target": "sadducees",
+      "note": "The Second Temple Sadducees, who are reported to have recognized only the written law and rejected the ancestral traditions of the Pharisees, are sometimes compared with the Karaites as an earlier scripturalist current; the historical relationship between them is debated in scholarship and not asserted here as continuity. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Frank, Daniel. Search Scripture Well: Karaite Exegetes and the Origins of the Jewish Bible Commentary in the Islamic East. Etudes sur le judaisme medieval 29. Leiden and Boston: Brill, 2004. Academic monograph on the Karaite exegetes of the Islamic east (including Yefet ben Ali), who built a scriptural jurisprudence in deliberate opposition to the Rabbanite doctrine of a divinely given Oral Torah; cited as the load-bearing academic account of the Karaite scripturalist position and the golden-age exegesis. Verified to exist and be on-topic, not read line-by-line; carries the same medium rating it holds in oral-torah.json.",
+      "url": "https://brill.com/display/title/8574",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Polliack, Meira, ed. Karaite Judaism: A Guide to Its History and Literary Sources. Handbook of Oriental Studies, Section 1: The Near and Middle East 73. Leiden and Boston: Brill, 2003. The standard scholarly reference collection on Karaite history and literature, with thirty-seven chapters covering the movement's origins, golden age, and later communities; cited for the historical arc of Karaism, the golden-age scholarship (al-Qirqisani, Yefet ben Ali), and the question of Anan ben David and origins. Verified to exist and be on-topic (Brill record, ISBN 9789004122512), not read line-by-line.",
+      "url": "https://brill.com/edcollbook/title/7223",
+      "license": "Proprietary; cited for reference. URL is a bookseller record for the Brill Handbook (no open publisher page fetched).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nemoy, Leon, ed. and trans. Karaite Anthology: Excerpts from the Early Literature. Yale Judaica Series 7. New Haven: Yale University Press, 1952 (repr. 1980). Translated excerpts from the early Karaite literature (down to about 1500), rendered directly from the Arabic, Aramaic, and Hebrew originals, the first anthology of its kind in a Western language; cited for the early Karaite literature and its scripturalist argument in the movement's own voice (in translation), since the primary Karaite corpus is largely not open on Sefaria. Verified to exist and be on-topic (Yale University Press record, ISBN 9780300039290), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300039290/karaite-anthology/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saadia Gaon. The Book of Beliefs and Opinions (Kitab al-Amanat wa-l-I'tiqadat). Trans. Samuel Rosenblatt. Yale Judaica Series 1. New Haven: Yale University Press, 1948. Primary Rabbanite text by the head of the Sura academy who led the Rabbanite response to the Karaites; cited for the Rabbanite attributed position, the systematic defence of the divinely given Oral Torah and rabbinic authority, NOT as a neutral description of Karaism (the rabbinic polemic is not used to describe the Karaite movement, per neutrality #11-adjacent). Verified to exist and be on-topic (Yale University Press record, ISBN 9780300044904), not read line-by-line for the anti-Karaite polemic specifically.",
+      "url": "https://yalebooks.yale.edu/book/9780300044904/saadia-gaon/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Astren, Fred. Karaite Judaism and Historical Understanding. Studies in Comparative Religion. Columbia: University of South Carolina Press, 2004. xii + 346 pp. A contemporary Jewish scholar's study of Karaite historiography and self-understanding across a millennium, and of Karaism's changing relationship with the Rabbanite worldview and with its Islamic and Christian host cultures; cited as the contemporary-Jewish-scholarship lens on how Karaites understood and recorded their own past. Verified to exist and be on-topic (University of South Carolina Press record, ISBN 9781570035180; reviewed in The Journal of Religion and The American Historical Review), not read line-by-line.",
+      "url": "https://uscpress.com/Karaite-Judaism-and-Historical-Understanding",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

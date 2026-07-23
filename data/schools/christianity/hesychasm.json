@@ -1,0 +1,94 @@
+{
+  "id": "hesychasm",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Hesychasm",
+    "original": "Hesychia",
+    "transliteration": "hesychia",
+    "aliases": [
+      "the prayer of stillness",
+      "the prayer of the heart",
+      "hesychast tradition",
+      "hesychasts",
+      "Athonite hesychasm"
+    ]
+  },
+  "summary": "Hesychasm (from Greek hesychia, 'stillness' or 'silence') is the contemplative tradition of Eastern Orthodox monasticism centred on inner stillness, watchfulness of the heart (nepsis), and the unceasing invocation of the Jesus Prayer ('Lord Jesus Christ, Son of God, have mercy on me'), directed toward continual prayer and, in its own account, the vision of the uncreated divine light; rooted in the desert and Sinai fathers, systematized on Mount Athos, and defended theologically by Gregory Palamas in the fourteenth-century hesychast controversy.",
+  "description": "Hesychasm names the contemplative and ascetic tradition of Eastern Orthodox monasticism whose aim is hesychia, a state of inner stillness and silence in which the mind is gathered into the heart and held in continual prayer. As John Meyendorff traces it, the tradition runs from the fourth-century desert fathers of Egypt (Evagrius Ponticus among its early theorists) and the monks of Sinai, through Byzantine monasticism, to its systematization on Mount Athos and its heritage in later Russian spirituality. Its central practice is the Jesus Prayer, the repeated invocation 'Lord Jesus Christ, Son of God, have mercy on me (a sinner)', joined in the developed tradition to the guarding of the heart (nepsis, watchfulness) and, in some texts, to a bodily method of posture and breathing. John Climacus, abbot of Sinai and author of The Ladder of Divine Ascent (seventh century), gave the tradition one of its formative texts, linking the remembrance of the name of Jesus to stillness and unceasing prayer. In the fourteenth century the practices of the Athonite hesychasts were challenged by Barlaam of Calabria, and Gregory Palamas defended them theologically, drawing a distinction between the unknowable divine essence and the divine energies, through which, on his account, the hesychast truly participates in God and beholds the uncreated light (the light seen by the disciples at Christ's Transfiguration). This Palamite theology was affirmed by councils at Constantinople in 1341, 1347, and 1351; it was contested by his opponents, and the East-West reception of Palamism remains disputed. Hesychast spirituality was later diffused through the Philokalia, the anthology of ascetic and contemplative texts compiled by Nikodemos of the Holy Mountain and Makarios of Corinth and first published in Greek at Venice in 1782, and through the Slavonic and Russian tradition, including the popular nineteenth-century account The Way of a Pilgrim. This entry describes hesychasm on its own terms and does not adjudicate the Palamite and anti-Palamite dispute or the East-West questions it raised.",
+  "editorial_notes": "This entry describes hesychasm neutrally and on its own terms (neutrality #6, #2). The Palamite claims (the essence-energies distinction, the vision of the uncreated light, participation in God) are presented as the tradition's own theological account, attributed, not endorsed; the fourteenth-century hesychast controversy and its East-West dimension are recorded as a live dispute (Palamas against Barlaam and later opponents; the mixed Western reception of Palamism) and are not ruled on. Dates and boundaries are conventional scholarly ones: fourth-century desert and Sinai roots, the fourteenth-century controversy, and the 1782 Philokalic revival; origins are diffuse and the label 'hesychasm' is applied by scholars across a long development. The load-bearing primary content (the Jesus Prayer texts, Climacus's Ladder Step 27 on stillness, the Philokalia) rests here on the Palmer-Sherrard-Ware Philokalia and on Climacus as attested through secondary and standard editions rather than a single open primary source read line-by-line by the editor; the primary sources are therefore rated medium and this entry is reviewed-only, not verified. Relation targets eastern-orthodoxy and monasticism exist; gregory-palamas and theosis are created or forward-referenced in this same batch; the-jesus-prayer and philokalia are dangling forward references not yet separate entries.",
+  "period": {
+    "founded": 350,
+    "note": "Approximate. Roots in the fourth-century Egyptian desert and Sinai monasticism (Evagrius; later John Climacus of Sinai, seventh century); systematized on Mount Athos; the hesychast controversy and Palamite councils fall in the fourteenth century (1341-1351); a broad revival followed the Philokalia (Greek, 1782) and spread through the Russian tradition. The tradition remains active in Orthodox monasticism, so no active_until is asserted. Dates are conventional, not sharp events."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "Hesychasm is the contemplative prayer tradition of Eastern Orthodox monasticism; the Palamite theology defending it was received by councils of the Orthodox Church and is integral to later Orthodox spirituality."
+    },
+    {
+      "type": "related_to",
+      "target": "monasticism",
+      "note": "Hesychasm developed within Christian monasticism, especially its Eastern eremitic and Athonite forms, and grew from the desert and Sinai fathers and the ideal of continual prayer and stillness (hesychia)."
+    },
+    {
+      "type": "key_figure",
+      "target": "gregory-palamas",
+      "note": "Gregory Palamas (d. 1359), Athonite monk and archbishop of Thessalonica, gave hesychasm its theological defence in the fourteenth-century controversy, distinguishing the divine essence from the divine energies; created in this same batch."
+    },
+    {
+      "type": "holds",
+      "target": "theosis",
+      "note": "Hesychast prayer is directed, in the tradition's own account, toward participation in God and the vision of the uncreated light, closely bound to the Orthodox teaching of theosis (deification); forward reference to a concept developed alongside this batch."
+    },
+    {
+      "type": "opposed",
+      "target": "barlaam-of-calabria",
+      "note": "In the fourteenth-century hesychast controversy Barlaam of Calabria attacked the hesychasts' claims and methods; Palamas answered him. The dispute is recorded as a live theological controversy and is not adjudicated here; dangling forward reference, not yet an entry."
+    },
+    {
+      "type": "related_to",
+      "target": "the-jesus-prayer",
+      "note": "The Jesus Prayer, the unceasing invocation 'Lord Jesus Christ, Son of God, have mercy on me', is the central practice of hesychasm; dangling forward reference, not yet a separate entry."
+    },
+    {
+      "type": "related_to",
+      "target": "philokalia",
+      "note": "The Philokalia (compiled by Nikodemos of the Holy Mountain and Makarios of Corinth, first published in Greek at Venice, 1782) is the anthology that diffused hesychast and neptic texts and fuelled the modern revival; dangling forward reference, not yet a separate entry."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Meyendorff, John. St Gregory Palamas and Orthodox Spirituality. Crestwood, NY: St Vladimir's Seminary Press (English ed.; French orig. Saint Gregoire Palamas et la mystique orthodoxe, 1959). Academic study by a leading historian of Byzantine theology and patristics tracing the hesychast tradition of prayer from the fourth-century desert fathers through Byzantine hesychasm and Palamas to its Russian heritage, including the Jesus Prayer and the essence-energies distinction. Academic-historian lens.",
+      "url": "https://svspress.com/st-gregory-palamas-and-orthodox-spirituality/",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Philokalia: The Complete Text, compiled by St Nikodimos of the Holy Mountain and St Makarios of Corinth. Translated from the Greek and edited by G. E. H. Palmer, Philip Sherrard, and Kallistos Ware. 5 vols. London and Boston: Faber and Faber, 1979- (vol. 1, 1979). The primary anthology of neptic and hesychast texts (fourth to fifteenth centuries), first published in Greek at Venice in 1782, whose fifth volume gathers the fourteenth-century hesychast and Palamite material on stillness, the Jesus Prayer, and the vision of God. Primary corpus, in the standard scholarly English edition.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/philokalia-the-complete-text-compiled-by-st-nikodimos-of-the-holy-mountain-and-st-makarios-of-corinth-i-translated-from-the-greek-and-edited-by-g-e-h-palmer-philip-sherrard-kallistos-ware-pp-378-london-and-boston-faber-and-faber-1979-12/DDA813F5916AF5F5868A8EDF8927B66F",
+      "license": "Proprietary translation; the underlying Greek texts are classical and in the public domain.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "John Climacus. The Ladder of Divine Ascent (Klimax tou Paradeisou), seventh century. Primary text of Sinai monasticism; Step 27, on holy stillness (hesychia), links the remembrance of the name of Jesus to solitude and unceasing prayer ('Let the remembrance of Jesus be present with each breath', Step 27), a formative source for the later hesychast tradition and the Jesus Prayer. Cited as a primary classical text; the load-bearing passage is attested through secondary scholarship and standard editions rather than an open primary read line-by-line.",
+      "url": "https://svspress.com/st-gregory-palamas-and-orthodox-spirituality/",
+      "license": "Historical text; the Greek is in the public domain, English translations vary.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Kallistos (Bishop of Diokleia). The Power of the Name: The Jesus Prayer in Orthodox Spirituality. Oxford: SLG Press / Fairacres Publications, 1974 (repr.). Concise exposition by a contemporary Orthodox scholar and bishop of the Jesus Prayer and its use in the hesychast tradition of the prayer of stillness. Contemporary-theologian lens.",
+      "url": "https://books.google.com/books/about/The_Power_of_the_Name.html?id=kd8mEAAAQBAJ",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

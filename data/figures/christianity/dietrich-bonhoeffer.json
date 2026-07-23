@@ -1,0 +1,97 @@
+{
+  "id": "dietrich-bonhoeffer",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Dietrich Bonhoeffer",
+    "original": "Dietrich Bonhoeffer",
+    "transliteration": "Dietrich Bonhoeffer",
+    "aliases": [
+      "Dietrich Bonhoeffer"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "pastor"
+  ],
+  "summary": "Dietrich Bonhoeffer (1906-1945 CE) was a German Lutheran pastor and theologian of the Confessing Church. His Discipleship (Nachfolge, 1937, long known in English as The Cost of Discipleship) drew the distinction between 'cheap grace' and 'costly grace'; his prison writings, published as Letters and Papers from Prison (Widerstand und Ergebung), contain the fragmentary ideas of 'religionless Christianity' and a 'world come of age.' He took part in the resistance against Hitler and was executed at Flossenbuerg in April 1945.",
+  "description": "Dietrich Bonhoeffer, born in Breslau in 1906 into a prominent academic family, was a German Lutheran pastor and theologian who became a leading younger voice of the Confessing Church, the movement that resisted the alignment of the German Evangelical Church with National Socialism. He studied in Berlin, spent a formative year at Union Theological Seminary in New York, and taught and served as a pastor before the church struggle drew him into open opposition to the Nazi regime.\n\nHis book Discipleship (Nachfolge), published in 1937 and long known in English as The Cost of Discipleship, is built around a distinction he draws at its opening between 'cheap grace' and 'costly grace.' Cheap grace, in his account, is grace treated as a possession the church dispenses without repentance, discipleship, or the cross ('grace without a price; grace without cost'), while costly grace 'is the treasure hidden in the field' that 'costs a person their life' because it calls one to follow Christ; the book develops this through an interpretation of the Sermon on the Mount. He also wrote Life Together (Gemeinsames Leben), on Christian community, drawn from the underground Confessing Church seminary he directed at Finkenwalde, and an unfinished Ethics (Ethik) assembled posthumously from his manuscripts.\n\nArrested in 1943 for his involvement with the circle around the Abwehr that conspired against Hitler, Bonhoeffer wrote from prison a series of letters and theological notes, smuggled out and published after the war as Letters and Papers from Prison (German Widerstand und Ergebung, 'Resistance and Submission'). In these fragmentary reflections, above all in letters to his friend Eberhard Bethge from 1944, he sketched the ideas for which the prison writings became famous: a 'world come of age' (muendig gewordene Welt) that no longer reaches for God as a working hypothesis to fill gaps in knowledge or as a solution to human need, and a correspondingly 'religionless Christianity' that would speak of God not at the boundaries of life but at its center and in this-worldly terms. These ideas are fragmentary, unsystematic, and much debated in their interpretation, and are presented here as his attributed contributions rather than as a finished position. Bonhoeffer was taken to the Flossenbuerg concentration camp and executed there on 9 April 1945, shortly before the end of the war. His theology of costly discipleship, his account of Christian community, and his prison fragments on a 'world come of age' and 'religionless Christianity' are given as his own attributed contributions, and his participation in the resistance and his execution as matters of historical record.",
+  "editorial_notes": "Bonhoeffer is described here on Christian terms, per neutrality #6, with his positions attributed to him: the 'cheap grace' / 'costly grace' distinction, and the prison fragments of 'religionless Christianity' and the 'world come of age,' are stated as his attributed contributions and are not endorsed or adjudicated (neutrality #1-#2). Because the prison ideas are fragmentary and contested in interpretation, the entry flags them as unfinished and much-debated rather than presenting a settled doctrine. His participation in the resistance against Hitler and his execution at Flossenbuerg on 9 April 1945 are stated as historical fact.\n\nHONESTY / status and confidence: This entry is REVIEWED-ONLY, and no source is rated high. Bonhoeffer's major works (Discipleship / Nachfolge, Ethics, Letters and Papers from Prison) are twentieth-century proprietary texts, under copyright in their German originals and their English translations (the Dietrich Bonhoeffer Works / DBW critical editions), and were NOT read line by line for the load-bearing passages. Unlike the companion Barth entry, there is no short open primary here comparable to the Barmen Declaration, so this figure has no verified-eligible source. The short quoted phrases ('grace without a price; grace without cost'; 'the treasure hidden in the field'; 'costs a person their life') are the standard renderings of the Discipleship opening as reported across the scholarship and the DBW edition, and are flagged as standard renderings not personally verified against a licensed open copy; the primary works are cited as the primary corpus, verified to exist and be on-topic, and rated MEDIUM. Sources triangulate the three Christian lenses per neutrality #8: (a) academic biographers and theologians (Bethge, Dietrich Bonhoeffer: A Biography, rev. ed., Fortress 2000; Marsh, Strange Glory, Knopf 2014); (b) the primary corpus (Discipleship, DBW vol. 4; Letters and Papers from Prison, DBW vol. 8); (c) a contemporary theologian (Green, Bonhoeffer: A Theology of Sociality, rev. ed., Eerdmans 1999). No encyclopedias, no Wikipedia, no tertiary sources.\n\nDates: Birth 1906 and death (9 April 1945) are secure and standardly reported.\n\nRelation targets: confessing-church is a dangling forward reference (shared with the Barth entry in this batch). karl-barth exists in this batch/dataset; the influenced_by edge to Barth reflects the well-attested influence of Barth's theology of revelation on the younger Bonhoeffer, stated as influence, not discipleship. grace exists in the dataset (the 'costly grace' edge). protestantism exists. discipleship and letters-and-papers-from-prison are dangling forward references to not-yet-created work entities.",
+  "lifespan": {
+    "birth": 1906,
+    "death": 1945,
+    "note": "1906-1945 CE; born in Breslau; executed at the Flossenbuerg concentration camp on 9 April 1945."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "protestantism",
+      "note": "A German Lutheran pastor and theologian and a leading younger figure of twentieth-century Protestant theology; protestantism exists in the dataset."
+    },
+    {
+      "type": "member_of",
+      "target": "confessing-church",
+      "note": "A leading younger figure of the Confessing Church, which resisted the alignment of the German Evangelical Church with National Socialism; he directed its underground seminary at Finkenwalde. Dangling forward reference to a not-yet-created entity (shared with the karl-barth entry)."
+    },
+    {
+      "type": "influenced_by",
+      "target": "karl-barth",
+      "note": "Bonhoeffer was influenced by Barth's theology of revelation and engaged it critically; recorded as influence, not discipleship. karl-barth exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "His Discipleship centers on the distinction between 'cheap grace' and 'costly grace'; stated as a related theme of his attributed contribution, not a claim to have originated the doctrine of grace. grace exists in the dataset."
+    },
+    {
+      "type": "articulated",
+      "target": "discipleship",
+      "note": "Author of Discipleship (Nachfolge, 1937; English 'The Cost of Discipleship'), with its 'cheap grace' / 'costly grace' distinction. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "articulated",
+      "target": "letters-and-papers-from-prison",
+      "note": "Author of the prison letters and notes (Widerstand und Ergebung) containing the fragmentary ideas of 'religionless Christianity' and the 'world come of age.' Dangling forward reference to a not-yet-created work entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Bonhoeffer, Dietrich. Discipleship. Edited by Geffrey B. Kelly and John D. Godsey. Translated by Barbara Green and Reinhard Krauss. Dietrich Bonhoeffer Works, vol. 4. Minneapolis: Fortress Press, 2001 (German Nachfolge, 1937; earlier English translation 'The Cost of Discipleship'). Cited as the primary corpus for the 'cheap grace' / 'costly grace' distinction. Verified to exist and be on-topic (Fortress Press); twentieth-century proprietary text NOT read line-by-line; the quoted phrases are the standard renderings of the opening as reported in the scholarship and DBW edition.",
+      "url": "https://www.fortresspress.com/store/productgroup/467/Discipleship",
+      "license": "Proprietary translation of a proprietary work; cited for reference. Text not reproduced beyond short attributed quotation.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bonhoeffer, Dietrich. Letters and Papers from Prison. Edited by John W. de Gruchy. Translated by Isabel Best, Lisa E. Dahill, Reinhard Krauss, and Nancy Lukens. Dietrich Bonhoeffer Works, vol. 8. Minneapolis: Fortress Press, 2010 (German Widerstand und Ergebung). The first unabridged English collection of the 1943-1945 prison letters and theological notes; cited as the primary corpus for 'religionless Christianity' and the 'world come of age.' Verified to exist and be on-topic (Fortress Press); twentieth-century proprietary text NOT read line-by-line.",
+      "url": "https://www.fortresspress.com/store/product/9780800697037/Letters-and-Papers-from-Prison",
+      "license": "Proprietary translation of a proprietary work; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bethge, Eberhard. Dietrich Bonhoeffer: A Biography. Revised edition, edited by Victoria J. Barnett. Translated by Eric Mosbacher et al. Minneapolis: Fortress Press, 2000 (first English edition 1970). The standard, definitive biography by Bonhoeffer's friend, student, and relative by marriage; cited as the principal academic-biographical lens. Verified to exist and be on-topic (Fortress Press), not read line-by-line.",
+      "url": "https://www.fortresspress.com/store/product/9780800628444/Dietrich-Bonhoeffer",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Marsh, Charles. Strange Glory: A Life of Dietrich Bonhoeffer. New York: Alfred A. Knopf, 2014. A scholarly biography by a professor of religious studies at the University of Virginia, drawing on archival research in Berlin; cited as a second academic-biographical lens. Verified to exist and be on-topic (Knopf; International Bonhoeffer Society), not read line-by-line.",
+      "url": "https://bonhoeffersociety.org/strange-glory-a-life-of-dietrich-bonhoeffer/",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Green, Clifford J. Bonhoeffer: A Theology of Sociality. Revised edition. Grand Rapids: William B. Eerdmans, 1999. A contemporary theologian's study of Bonhoeffer's social theology across his corpus, including the Ethics and the prison writings; cited as the contemporary-theological lens. Verified to exist and be on-topic (Eerdmans), not read line-by-line.",
+      "url": "https://www.eerdmans.com/9780802846327/bonhoeffer/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

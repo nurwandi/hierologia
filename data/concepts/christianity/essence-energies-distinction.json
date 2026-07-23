@@ -1,0 +1,91 @@
+{
+  "id": "essence-energies-distinction",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Essence-Energies Distinction",
+    "original": "διάκρισις οὐσίας καὶ ἐνεργειῶν",
+    "transliteration": "diakrisis ousias kai energeiōn",
+    "aliases": [
+      "Essence and energies",
+      "Ousia and energeiai",
+      "The divine energies",
+      "Palamite distinction"
+    ]
+  },
+  "category": "the divine",
+  "summary": "The essence-energies distinction, central to Eastern Orthodox theology and given definitive form by Gregory Palamas, is the distinction between the divine essence (ousia), which is utterly transcendent, imparticipable, and unknowable, and the divine energies (energeiai), the uncreated operations of God (grace, light, glory) by which God goes forth, is truly participated, and deifies the creature. Both are held to be fully God; God is not thereby divided.",
+  "description": "The essence-energies distinction holds that in God there is a distinction, though not a division, between the divine essence (ousia) and the divine energies (energeiai). The essence is the utterly transcendent and imparticipable reality of God, which remains forever beyond the reach and knowledge of any creature; the energies are the uncreated activities or operations by which God goes forth from himself, God's grace, uncreated light, and glory, in which creatures genuinely participate and through which God is known and named. On this account the creature in salvation partakes of God's energies but never of his essence, so that union with God (theosis) is real without the divine essence being breached; and yet, because the energies are themselves uncreated and are God in his self-manifestation, the one who participates in them participates truly in God. Both the essence and the energies are fully God, and the distinction is held not to divide or compound God: as Palamas puts it in The Triads, 'Essence and energy are thus not totally identical in God, even though He is entirely manifest in every energy, His essence being indivisible.'\n\nThe distinction is drawn from the Greek Fathers (notably the Cappadocians, Dionysius the Areopagite, and Maximus the Confessor) but received its definitive articulation from Gregory Palamas (1296-1359) in the fourteenth-century hesychast controversy. Against Barlaam of Calabria, who held that the light the hesychast monks claimed to see was created, Palamas maintained that the light of the Transfiguration on Mount Tabor is the uncreated glory of the Godhead, an energy of God and not a created symbol, and that God is genuinely, if partially, knowable through his energies while remaining unknowable in his essence. Palamas's teaching was affirmed by the synods (councils) of Constantinople in 1341, 1347, and 1351; those councils' affirmation is recorded here as a historical fact, and the anti-Palamite positions of Barlaam and Gregory Akindynos are recorded as their attributed positions in the controversy.\n\nThe distinction marks one of the recognized points of contrast between Eastern and Western Christian theology. Western scholastic theology, in the line associated with Thomas Aquinas, tends to affirm divine simplicity in a strong form, treating God's essence and his act as identical (God as pure act, actus purus), and has often regarded a real distinction between essence and energies as compromising God's simplicity; the Palamite tradition holds in turn that its distinction preserves both the transcendence of the essence and the reality of participation without dividing God. This entry states that contrast as an attributed doctrinal difference between the two traditions and does not adjudicate it; it presents the essence-energies distinction on the Eastern Orthodox tradition's own terms.",
+  "editorial_notes": "This entry presents the essence-energies distinction on the Eastern Orthodox tradition's own terms (neutrality #6), attributes it to Gregory Palamas and the Greek patristic tradition he draws on, and states the councils' affirmation (1341, 1347, 1351) as historical fact without the editor endorsing the doctrine (neutrality #1). The controversy is not flattened: Barlaam's and Akindynos's opposition is recorded as their position, Palamas's distinction as his, neither adjudicated (neutrality #2). The East-West difference (the Palamite real distinction between essence and energies against the Western/Thomist tendency to identify God's essence and act under divine simplicity, actus purus) is stated as an attributed doctrinal difference between the traditions and is explicitly not adjudicated; it is presented as each tradition understanding its own account to be coherent (neutrality #2, #10). The contrasts_with target divine-simplicity does not yet exist in the dataset and is a forward reference (a dangling relation surfaced for a future entry); compares_with theosis exists and was read first.\n\nSources triangulate the three lenses per neutrality principle #8: (a) academic history of doctrine (Meyendorff, A Study of Gregory Palamas; Lossky, The Mystical Theology of the Eastern Church, which articulates the distinction; Bradshaw, Aristotle East and West, the leading scholarly treatment of the ousia/energeia distinction and its role in the East-West division); (b) the primary corpus (Palamas, The Triads); (c) a contemporary Orthodox theologian (Ware, The Orthodox Church). No encyclopedias, no tertiary or popular sources. HONESTY ON CONFIDENCE: the load-bearing primary passage of The Triads on the essence/energies distinction (Triad III.ii) was read directly, line by line, in the Gendle translation, and the primary source carries high confidence on that basis; the underlying Greek is public domain, the Gendle translation proprietary. Meyendorff, Lossky, Bradshaw, and Ware are rated medium: verified to exist and be on-topic via publisher, journal, and library catalogues, but not read line by line. The entry is a draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "gregory-palamas",
+      "note": "Given definitive form by Palamas in The Triads and the Hagioritic Tome; affirmed by the synods of 1341, 1347, and 1351."
+    },
+    {
+      "type": "related_to",
+      "target": "theosis",
+      "note": "The distinction underwrites deification: the creature really participates in God's uncreated energies, not his imparticipable essence, so that theosis is a real union without the essence being breached."
+    },
+    {
+      "type": "part_of",
+      "target": "eastern-orthodoxy",
+      "note": "Central to Eastern Orthodox theology and affirmed by the councils as the Church's teaching; forward reference to the Orthodox tradition's own doctrine."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "divine-simplicity",
+      "note": "The Eastern real distinction between the divine essence and energies stands in contrast to the Western scholastic (Thomist) tendency to identify God's essence and act under a strong doctrine of divine simplicity (actus purus). Stated as an attributed doctrinal difference between the traditions, not adjudicated. Forward reference; divine-simplicity is not yet a separate entry."
+    },
+    {
+      "type": "compares_with",
+      "target": "theosis",
+      "note": "Both concern how the transcendent God is genuinely participated by the creature; the essence-energies distinction is the metaphysical account by which the Palamite tradition holds theosis to be real participation in God (in the energies) without absorption into the divine essence. This marks the shared question and states the relation; it neither equates nor ranks."
+    }
+  ],
+  "historical_period": {
+    "start": 350,
+    "note": "Rooted in the Greek Fathers (the Cappadocians, Dionysius the Areopagite, Maximus the Confessor) from the fourth century onward, and given its definitive articulation by Gregory Palamas (1296-1359) in the fourteenth-century hesychast controversy, affirmed by the synods of 1341, 1347, and 1351. No end date: it remains living Orthodox doctrine."
+  },
+  "sources": [
+    {
+      "citation": "Gregory Palamas. The Triads (In Defense of the Holy Hesychasts). Edited with an introduction by John Meyendorff, translated by Nicholas Gendle, preface by Jaroslav Pelikan. Classics of Western Spirituality. New York: Paulist Press, 1983. Primary source. The load-bearing passage on the essence/energies distinction (Triad III.ii, 'Essence and energy are thus not totally identical in God, even though He is entirely manifest in every energy, His essence being indivisible ... the divine essence that transcends all names, also surpasses energy') was read directly; the Taboric uncreated light (Triad III.i) confirms the energies as the uncreated glory of God.",
+      "url": "https://archive.org/details/triads0000greg",
+      "license": "Underlying fourteenth-century Greek text public domain; the Gendle English translation is proprietary (Paulist Press, 1983). Cited as a primary text; the essence/energies passage was read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Meyendorff, John. A Study of Gregory Palamas. Translated by George Lawrence. 2nd ed. Crestwood, NY: St Vladimir's Seminary Press, 1974. The standard academic monograph on the hesychast controversy and the essence/energies distinction, and on the synods of 1341, 1347, and 1351. The academic history-of-doctrine lens.",
+      "url": "https://svspress.com/a-study-of-gregory-palamas/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lossky, Vladimir. The Mystical Theology of the Eastern Church. Trans. members of the Fellowship of St Alban and St Sergius. Crestwood, NY: St Vladimir's Seminary Press, 1976 (French orig. 1944). A contemporary Orthodox theologian of the neo-patristic revival articulating the distinction between the divine essence and the uncreated energies and reading Eastern theology through Palamas. Same source and rating as used in the eastern-orthodoxy entry.",
+      "url": "https://svspress.com/mystical-theology-of-the-eastern-church-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bradshaw, David. Aristotle East and West: Metaphysics and the Division of Christendom. Cambridge: Cambridge University Press, 2004. The leading scholarly account of the development of the ousia (essence) / energeia (energy) distinction and the role it played in the theological division between the Greek East and the Latin West (the Palamite distinction against the Western identification of essence and act). The academic lens on the East-West difference.",
+      "url": "https://www.cambridge.org/us/universitypress/subjects/philosophy/classical-philosophy/aristotle-east-and-west-metaphysics-and-division-christendom",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Timothy (Bishop Kallistos of Diokleia). The Orthodox Church. New ed. London: Penguin, 1993. Standard introduction to Orthodoxy by a contemporary Orthodox scholar and bishop; treats the essence/energies distinction, Palamas, and the hesychast controversy. The contemporary-Orthodox lens; same source and rating as used in the eastern-orthodoxy and theosis entries.",
+      "url": "https://www.penguin.co.uk/books/34260/the-orthodox-church-by-ware-timothy/9780140146561",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

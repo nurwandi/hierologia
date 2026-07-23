@@ -1,0 +1,90 @@
+{
+  "id": "chaim-vital",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Chaim Vital",
+    "original": "חיים ויטאל",
+    "transliteration": "Chayyim ben Yosef Vital",
+    "aliases": [
+      "Hayyim Vital",
+      "Chayyim Vital Calabrese",
+      "Rabbi Chaim Vital",
+      "Maharchu (Morenu ha-Rav Chaim Vital)"
+    ]
+  },
+  "roles": [
+    "kabbalist",
+    "rabbi",
+    "transmitter and systematizer of Lurianic Kabbalah",
+    "author"
+  ],
+  "summary": "Chaim Vital (Chayyim ben Yosef Vital, 1542-1620) was the foremost disciple of Isaac Luria (the Ari) at Safed and the principal transmitter of his teaching. Because Luria wrote almost nothing, it was Vital who recorded and systematized the master's oral instruction into the great written corpus of Lurianic Kabbalah, above all the Etz Chaim ('Tree of Life') and the Shemonah She'arim (the 'Eight Gates'), including Sha'ar ha-Gilgulim (the 'Gate of Reincarnations'). He is the principal channel through which Lurianic Kabbalah (tzimtzum, shevirat ha-kelim, tikkun) reached later Judaism.",
+  "description": "Chaim Vital, Chayyim ben Yosef Vital, was the leading disciple of Isaac Luria (the Ari) and the figure through whom Luria's teaching became a written and transmissible system. Born in Safed (Tzfat) in the Galilee in 1542 to a family of Calabrian (southern Italian) origin, he studied within the Safed milieu of legal and mystical activity before attaching himself, in the last two years of Luria's short life (roughly 1570-1572), to the master whose oral teaching he would spend his life recording and arranging. He remained active in Safed, Jerusalem, and later Damascus, where he died in 1620. In Lawrence Fine's reconstruction of the Lurianic fellowship, Vital is not a passive stenographer but the disciple who claimed, and to a large degree secured, the authority to fix and transmit the master's teaching, controlling access to the writings and shaping the form in which Lurianic Kabbalah was received.\n\nLuria himself committed almost nothing to writing, so the corpus known as 'Lurianic Kabbalah' is in its written form very largely Vital's work of recording and systematization. His central compilation is the Etz Chaim ('Tree of Life'), the systematic presentation of Luria's theosophy; its opening (Sefer Etz Chaim 1:1, read on Sefaria) sets out 'the first palace of seven palaces, the hall of Adam Kadmon', and distinguishes the unknowable infinite (Ein Sof) from the emanated worlds. From Vital's papers his son Samuel Vital arranged the larger corpus into the Shemonah She'arim, the 'Eight Gates', among them Sha'ar ha-Gilgulim, the 'Gate of Reincarnations', which sets out the Lurianic doctrine of gilgul (the transmigration of souls) and of tikkun (rectification); its first introduction (read on Sefaria) opens from the rabbinic teaching that 'there are five names given to the soul... Nefesh, Ruach, Neshamah, Chayah, Yechidah', the ascending levels of the soul. Through these texts the load-bearing concepts of Lurianic Kabbalah, tzimtzum (the divine self-contraction), shevirat ha-kelim (the breaking of the vessels), and tikkun (cosmic repair), reached the later tradition and shaped Sabbatianism and, later, Hasidism.\n\nThe relation between the historical Luria and the system that bears his name is mediated throughout by Vital, and this is a matter of scholarly attention rather than a settled transcript: Vital's recension is one among others (the rival transmissions of Israel Sarug and Joseph ibn Tabul are the standard scholarly foils), and Gershom Scholem and later scholars have examined how far the extant Lurianic corpus reflects Luria's own teaching and how far Vital's ordering and interpretation. This entry therefore presents Vital on the tradition's own terms as the Ari's authoritative transmitter, while noting that the doctrines are attributed to Luria as transmitted and arranged by Vital, and that the written sources that carry them are Vital's own recorded work, not Luria's pen. The system is described here, not adjudicated.",
+  "editorial_notes": "This entry presents Chaim Vital as the transmitter and systematizer of Lurianic Kabbalah on the tradition's own terms, and mirrors the honesty of the isaac-luria entry about the sourcing situation: Luria wrote almost nothing, so the WRITTEN Lurianic corpus is very largely Vital's recording and arrangement, and Vital's recension is one among others (Sarug, ibn Tabul are the standard scholarly foils). The doctrines (tzimtzum, shevirat ha-kelim, tikkun, gilgul) are ATTRIBUTED to Luria as transmitted by Vital, and the system is DESCRIBED, not adjudicated (neutrality #1). Sourcing triangulates the three lenses per neutrality #8-9: (a) academic historians of Jewish mysticism (Lawrence Fine, Physician of the Soul, Healer of the Cosmos, Stanford 2003, the standard English study of Luria and his fellowship, treating Vital's role in fixing and transmitting the teaching; Gershom Scholem, Major Trends in Jewish Mysticism, on the Lurianic system and its transmission through Vital); (b) the primary texts, open and auditable on Sefaria, which are Vital's OWN recorded work: Sefer Etz Chaim 1:1 and Sha'ar ha-Gilgulim (Introductions) 1:1; (c) a contemporary Jewish scholar (Fine). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: The two primary passages were READ line-by-line via the Sefaria text API for this entry, Sefer Etz Chaim 1:1 (opening on the hall of Adam Kadmon and Ein Sof) and Sha'ar ha-Gilgulim, Introductions 1:1 (opening on the five names of the soul, Nefesh/Ruach/Neshamah/Chayah/Yechidah). Because Vital IS the author/recorder of these read texts, these citations are rated high and are verified-eligible: he is the author of the read text. The secondary scholarship (Fine, Scholem) is medium, verified via publisher and library records (Stanford University Press; Schocken/Penguin Random House; Internet Archive), not read line-by-line, and Fine and Scholem carry the same medium rating they hold in isaac-luria.json. This entry is authored as a DRAFT. Relation targets: isaac-luria and kabbalah and tzimtzum and tikkun exist; safed is a dangling forward reference (no such entity exists yet, flagged).",
+  "lifespan": {
+    "birth": 1542,
+    "death": 1620,
+    "note": "1542-1620 CE. Born in Safed (Tzfat) in the Galilee to a family of Calabrian (southern Italian) origin; attached himself to Isaac Luria in the last period of the master's life (roughly 1570-1572); active thereafter in Safed, Jerusalem, and Damascus, where he died in 1620."
+  },
+  "relations": [
+    {
+      "type": "student_of",
+      "target": "isaac-luria",
+      "note": "Chaim Vital was the foremost disciple of Isaac Luria (the Ari) in the last two years of Luria's life at Safed, and became the principal transmitter of his teaching. The isaac-luria entry records the reciprocal teacher_of relation."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Vital is the transmitter and systematizer of Lurianic Kabbalah, the reworking of kabbalistic theosophy that became the dominant form of Jewish mysticism after the sixteenth century; his Etz Chaim and the Shemonah She'arim are its canonical written form."
+    },
+    {
+      "type": "articulated",
+      "target": "tzimtzum",
+      "note": "Tzimtzum, the divine self-contraction of Ein Sof to make room for a finite world, reached the later tradition in its written form through Vital's recording of Luria's teaching (the Etz Chaim). Attributed to Luria as transmitted and arranged by Vital."
+    },
+    {
+      "type": "articulated",
+      "target": "tikkun",
+      "note": "Tikkun, the repair of the shattered cosmic order and the raising of the fallen sparks, is set out in the Lurianic corpus Vital recorded and arranged, including Sha'ar ha-Gilgulim on gilgul and rectification. Attributed to Luria as transmitted by Vital."
+    },
+    {
+      "type": "member_of",
+      "target": "safed",
+      "note": "Vital was a member of the kabbalistic fellowship at Safed (Tzfat) in the Galilee, then a leading centre of Jewish mystical and legal activity, where he studied under Luria (Fine, Physician of the Soul). Dangling forward reference to a not-yet-created entity (a place/community)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Vital, Chaim. Sefer Etz Chaim ('Tree of Life'), Gate 1, chapter 1, open Hebrew and English text on Sefaria. Vital's systematic presentation of Isaac Luria's teaching, the canonical written form of Lurianic Kabbalah; its opening reads 'the first palace of seven palaces, the hall of Adam Kadmon', and distinguishes the unknowable Ein Sof from the emanated worlds. Cited as the primary text recorded and authored by Vital himself; the opening (Sefer Etz Chaim 1:1) was read line-by-line via the Sefaria text API for this entry. Because Vital is the author/recorder of the read text, this citation is verified-eligible.",
+      "url": "https://www.sefaria.org/Sefer_Etz_Chaim.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English community translation under a CC0 license. Sefer Etz Chaim 1:1 opening read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Vital, Chaim (arr. Samuel Vital). Sha'ar ha-Gilgulim ('Gate of Reincarnations'), Introductions, first introduction, open Hebrew and English text on Sefaria. One of the Shemonah She'arim (the 'Eight Gates') arranged from Vital's papers by his son Samuel; it sets out the Lurianic doctrine of gilgul (transmigration) and tikkun (rectification). Its first introduction opens from the rabbinic teaching that 'there are five names given to the soul... Nefesh, Ruach, Neshamah, Chayah, Yechidah', the ascending levels of the soul. Cited as the primary text recorded by Vital; the first introduction was read line-by-line via the Sefaria text API for this entry. Because Vital is the recorder/author of the read text, this citation is verified-eligible.",
+      "url": "https://www.sefaria.org/Sha'ar_HaGilgulim,_Introductions.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English community translation under a CC0 license. Sha'ar ha-Gilgulim, Introductions 1:1 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. xiii + 480 pp. The standard scholarly study of Luria and his fellowship in English, treating Vital's role as the disciple who claimed and secured the authority to fix and transmit the master's teaching; cited as the load-bearing academic and contemporary-Jewish-scholarship lens for Vital the person and the transmission of Lurianic Kabbalah. Verified to exist and be on-topic (Stanford University Press record, ISBN 9780804748261; a 2004 Choice Outstanding Academic Title), not read line-by-line; carries the same medium rating it holds in isaac-luria.json.",
+      "url": "https://www.sup.org/books/jewish-studies/physician-soul-healer-cosmos",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (repr. 1946, 1954, 1995). The foundational modern academic study of Jewish mysticism, whose lecture on 'Isaac Luria and His School' remains a standard reconstruction of the Lurianic system (tzimtzum, shevirat ha-kelim, tikkun) and of its transmission through Vital, including the question of Vital's recension against the rival transmissions; cited as the academic lens for the Lurianic doctrines and their transmission. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive), not read line-by-line; carries the same medium rating it holds in isaac-luria.json.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

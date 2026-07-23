@@ -1,0 +1,90 @@
+{
+  "id": "gregory-palamas",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Gregory Palamas",
+    "original": "Γρηγόριος Παλαμᾶς",
+    "transliteration": "Grēgorios Palamas",
+    "aliases": [
+      "Saint Gregory Palamas",
+      "Gregory of Palamas",
+      "Archbishop of Thessalonica",
+      "Gregory the Hagiorite"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "monk",
+    "archbishop",
+    "hesychast"
+  ],
+  "summary": "Gregory Palamas (1296-1359 CE) was an Athonite monk and Archbishop of Thessalonica, the leading theologian of hesychasm, who defended the hesychast monks' claim to experience the uncreated light of God against Barlaam of Calabria and articulated the distinction between the unknowable divine essence (ousia) and the uncreated divine energies (energeiai) by which God is truly participated and known. He is honored as a Father of the Eastern Orthodox Church.",
+  "description": "Gregory Palamas was born in Constantinople and, after an education at the imperial court, withdrew to Mount Athos to take up the monastic and contemplative life of the Athonite communities. He became the principal defender of the hesychasts, monks who practiced a method of inner prayer (the Jesus Prayer) and claimed, in the tradition of the Transfiguration of Christ on Mount Tabor, to be granted a vision of the uncreated light of God. When the Calabrian scholar Barlaam attacked the hesychasts' claims as an illegitimate sensory access to the transcendent God, Palamas answered in his major work, The Triads (In Defense of the Holy Hesychasts, c. 1338), and secured the support of the Athonite monks in a declaration known as the Hagioritic Tome (Tomos Hagioreitikos).\n\nThe center of Palamas's theology is the distinction, which he drew from the Greek Fathers, between the divine essence (ousia) and the divine energies (energeiai). God's essence, on this account, is utterly transcendent and imparticipable, wholly beyond the reach of the creature; yet God goes forth in his uncreated energies, his operations, grace, and glory, in which creatures genuinely participate and by which God is known. In The Triads, Palamas maintains that essence and energy 'are thus not totally identical in God, even though He is entirely manifest in every energy, His essence being indivisible', and that 'the divine essence that transcends all names, also surpasses energy'; the light seen on Tabor is for him this uncreated glory of the Godhead, not a created symbol. The distinction is meant to secure both the total transcendence of God and the reality of deification (theosis), the human person's real participation in the divine life.\n\nAfter Barlaam's departure, Palamas's teaching was contested further by Gregory Akindynos and by the historian Nikephoros Gregoras, and the controversy was adjudicated in a series of synods (councils) at Constantinople. The councils of 1341 condemned Barlaam and then Akindynos; a synod of 1347 and the major council of 1351, held under the emperor John VI Kantakouzenos, affirmed Palamas's essence-energies distinction as the teaching of the Church, though the intervening period included the excommunication of Palamas in 1344 during a reversal of imperial fortune. Palamas was consecrated Archbishop of Thessalonica around 1347. He was canonized in 1368; in the Eastern Orthodox Church he is commemorated on the Second Sunday of Great Lent, and his theology, later termed Palamism, became a defining feature of the Byzantine and Orthodox tradition.",
+  "editorial_notes": "Birth and death years (1296-1359 CE) are as standardly reported in the scholarship (Meyendorff, Russell). Palamas is described here on Eastern Orthodox terms, per neutrality principle #6, and the councils' affirmation of his teaching (1341, 1347, 1351) is stated as historical fact without the editor endorsing the doctrine (neutrality #1). The dispute with Barlaam and later with Akindynos and Gregoras is recorded as a live controversy: Barlaam's and Akindynos's opposition is attributed to them as their position, and the essence-energies distinction is attributed to Palamas, not adjudicated (neutrality #2). The East-West dimension (the contrast between the Palamite essence/energies distinction and the Western tendency to identify God's essence and act under divine simplicity) is developed in the essence-energies-distinction concept entry and is stated there as an attributed doctrinal difference, not settled here.\n\nSources triangulate the three lenses per neutrality principle #8: (a) academic historians of doctrine (Meyendorff, A Study of Gregory Palamas, the standard scholarly monograph; Russell, Gregory Palamas and the Making of Palamism in the Modern Age, OUP 2019); (b) the primary corpus (Palamas, The Triads, in the Meyendorff/Gendle edition, together with the Hagioritic Tome it references, and the record of the synods); (c) a contemporary Orthodox theologian (Ware, The Orthodox Church). No encyclopedias, no tertiary or popular sources. HONESTY ON CONFIDENCE: two load-bearing passages of The Triads were read directly, line by line, in the Gendle translation, the essence/energies distinction (Triad III.ii: 'Essence and energy are thus not totally identical in God ... His essence being indivisible') and the uncreated light of the Transfiguration on Tabor (Triad III.i), and the primary source carries high confidence on that basis; the underlying fourteenth-century Greek is public domain while the Gendle English translation is proprietary. The monographs (Meyendorff, Russell) and Ware are rated medium: verified to exist and be on-topic via publisher and journal catalogues, but not read line by line. The entry is a draft pending theology-reviewer audit.",
+  "lifespan": {
+    "birth": 1296,
+    "death": 1359,
+    "note": "1296-1359 CE; born in Constantinople, monk of Mount Athos, Archbishop of Thessalonica from c. 1347. Canonized 1368; commemorated the Second Sunday of Great Lent in the Eastern Orthodox Church."
+  },
+  "relations": [
+    {
+      "type": "articulated",
+      "target": "essence-energies-distinction",
+      "note": "Gave definitive form to the distinction between the unknowable divine essence (ousia) and the uncreated divine energies (energeiai) in The Triads and the Hagioritic Tome; reported as his attributed position, affirmed by the synods of 1341, 1347, and 1351."
+    },
+    {
+      "type": "related_to",
+      "target": "theosis",
+      "note": "The essence/energies distinction underwrites his account of deification: the human person really participates in God's uncreated energies, not his essence, so that theosis is real without the essence being breached."
+    },
+    {
+      "type": "member_of",
+      "target": "eastern-orthodoxy",
+      "note": "A Father of the Eastern Orthodox Church, whose teaching (Palamism) the councils affirmed as the Church's doctrine; commemorated the Second Sunday of Lent."
+    },
+    {
+      "type": "refuted",
+      "target": "barlaam-of-calabria",
+      "note": "Answered Barlaam's attack on the hesychasts and on the uncreated character of the Taboric light in The Triads; the critique is attributed to Palamas as his position in the controversy, not adjudicated. Forward reference; Barlaam is not yet a separate entry."
+    },
+    {
+      "type": "related_to",
+      "target": "aquinas",
+      "note": "Palamas (Byzantine East) and Aquinas (Latin scholastic West) are the figures around whom the later East-West contrast over the divine essence and act is drawn: the Palamite essence/energies distinction against the Thomist identification of God's essence and act under divine simplicity. Stated as a doctrinal difference between the traditions, not adjudicated here."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Gregory Palamas. The Triads (In Defense of the Holy Hesychasts). Edited with an introduction by John Meyendorff, translated by Nicholas Gendle, preface by Jaroslav Pelikan. Classics of Western Spirituality. New York: Paulist Press, 1983. Primary source. Two load-bearing passages read directly: the essence/energies distinction (Triad III.ii, 'Essence and energy are thus not totally identical in God, even though He is entirely manifest in every energy, His essence being indivisible ... the divine essence that transcends all names, also surpasses energy') and the uncreated light of the Transfiguration on Tabor (Triad III.i). The introduction identifies and situates the Hagioritic Tome (Tomos Hagioreitikos, PG 150).",
+      "url": "https://archive.org/details/triads0000greg",
+      "license": "Underlying fourteenth-century Greek text public domain; the Gendle English translation is proprietary (Paulist Press, 1983). Cited as a primary text; the two passages above were read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Meyendorff, John. A Study of Gregory Palamas. Translated by George Lawrence. 2nd ed. Crestwood, NY: St Vladimir's Seminary Press, 1974. The standard academic monograph on Palamas's life, the hesychast controversy, and the essence/energies distinction, and on the synods of 1341, 1347, and 1351. The academic history-of-doctrine lens.",
+      "url": "https://svspress.com/a-study-of-gregory-palamas/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Russell, Norman. Gregory Palamas and the Making of Palamism in the Modern Age. Changing Paradigms in Historical and Systematic Theology. Oxford: Oxford University Press, 2019. Traces Palamas's thought (his relation to tradition, his philosophy, his theology) and the modern construction of 'Palamism'; the contemporary academic lens.",
+      "url": "https://global.oup.com/academic/product/gregory-palamas-and-the-making-of-palamism-in-the-modern-age-9780199644643",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Timothy (Bishop Kallistos of Diokleia). The Orthodox Church. New ed. London: Penguin, 1993. Standard introduction to Orthodoxy by a contemporary Orthodox scholar and bishop; treats Palamas, the hesychast controversy, and the essence/energies distinction. The contemporary-Orthodox lens; same source and rating as used in the eastern-orthodoxy and theosis entries.",
+      "url": "https://www.penguin.co.uk/books/34260/the-orthodox-church-by-ware-timothy/9780140146561",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

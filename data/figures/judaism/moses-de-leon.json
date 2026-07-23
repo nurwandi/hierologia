@@ -1,0 +1,106 @@
+{
+  "id": "moses-de-leon",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Moses de Leon",
+    "original": "מֹשֶׁה בֶּן שֵׁם טוֹב דה לֵאוֹן",
+    "transliteration": "Moshe ben Shem Tov de Leon",
+    "aliases": [
+      "Moses ben Shem Tov de Leon",
+      "Moshe de Leon",
+      "Moses de Leon of Castile",
+      "Moses ben Shem-Tob"
+    ]
+  },
+  "roles": [
+    "kabbalist",
+    "author of Hebrew kabbalistic works",
+    "in the modern academic attribution, principal author of the Zohar"
+  ],
+  "summary": "Moses ben Shem Tov de Leon (c. 1240-1305) was a Castilian kabbalist to whom modern academic scholarship, from Gershom Scholem onward, attributes the bulk of the composition of the Zohar in the late thirteenth century, a work he circulated as the ancient teaching of the second-century Tanna Shimon bar Yochai. He also composed Hebrew kabbalistic works under his own name, among them Sefer ha-Rimmon ('the Book of the Pomegranate', 1287) and Shekel ha-Kodesh (1292). The attribution of the Zohar to him is the academic position, given here alongside the traditional ascription to Shimon bar Yochai, with neither adjudicated.",
+  "description": "Moses ben Shem Tov de Leon (c. 1240-1305) was a kabbalist active in Castile in the second half of the thirteenth century, part of the flowering of Kabbalah in the Iberian Peninsula in which the Zohar took shape. He is a figure of central importance in the history of Jewish mysticism principally because of the modern academic attribution to him of the Zohar, the classic text of Kabbalah, and because of the Hebrew kabbalistic works that he wrote under his own name.\n\nIn the modern academic attribution, argued in detail by Gershom Scholem and broadly (though not universally) accepted in subsequent scholarship, Moses de Leon composed the bulk of the Zohar, in its distinctive artificial Aramaic and cast as the second-century teaching of Rabbi Shimon bar Yochai and his circle, in late-thirteenth-century Castile (c. 1280s), and brought it into circulation as an ancient work. On this account the pseudepigraphic frame, the setting of the text among the Tannaim of Roman Galilee, is a literary feature of a late-thirteenth-century composition rather than a record of second-century authorship. Later scholarship has in some measure complicated the single-author picture, treating the Zohar as the product of a milieu or of layered composition rather than of one hand alone, while continuing, on the academic account, to locate its formation in late-thirteenth-century Castile. Against this stands the traditional ascription, received within much of the tradition, which holds the Zohar to preserve the mystical teachings of Shimon bar Yochai in the second century CE. This entry records the academic attribution of the Zohar to de Leon and the traditional ascription to Rashbi as two attributed positions, states that the authorship is disputed, and does not adjudicate which is correct, exactly as the zohar entry does.\n\nQuite apart from the disputed Zohar, Moses de Leon is the acknowledged author of a series of Hebrew kabbalistic works written under his own name in the years around 1290, which are extant and have been critically edited. Among them are Sefer ha-Rimmon ('the Book of the Pomegranate', composed 1287), a mystical treatment of the reasons and inner meanings of the commandments (ta'amei ha-mitzvot), critically edited by Elliot Wolfson, and Shekel ha-Kodesh (1292), which treats the sefirot and the divine emanation, critically edited by Charles Mopsik with an introduction by Moshe Idel. These works, together with the Zohar to which scholarship relates them, place de Leon among the productive Castilian kabbalists of his generation, developing the theosophy of the hidden Ein Sof and the ten sefirot that is the heart of Kabbalah. He is presented here as a historical kabbalist in his own right, with the scholarly attribution of the Zohar to him recorded as the academic position within the wider, unadjudicated dispute over the Zohar's authorship.",
+  "editorial_notes": "This entry handles the Zohar-authorship question as THE crux per neutrality #1-#2, mirroring the zohar entry exactly: the modern academic attribution (the bulk of the Zohar composed by Moses de Leon in late-thirteenth-century Castile, c. 1280s, argued by Scholem and broadly accepted since, later complicated toward a milieu or layered composition) and the traditional ascription (to the second-century Shimon bar Yochai and his circle) are BOTH given as attributed positions, the authorship is stated to be disputed, and the editor does NOT adjudicate. HONESTY on confidence: the load-bearing claim for this figure, the scholarly attribution of the Zohar to de Leon, rests on Scholem (a secondary academic work) and is recorded as an attributed scholarly position, not asserted as settled fact; no open primary text carries it, so it is rated medium and the figure is not verified-eligible on that claim (reviewed-only). What is more securely attested is de Leon's authorship of Hebrew works under his own name (Sefer ha-Rimmon, 1287; Shekel ha-Kodesh, 1292), which survive and have been critically edited (Wolfson; Mopsik and Idel); those citations are to the critical editions themselves. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of Jewish mysticism (Scholem for the de Leon attribution; Matt's Pritzker critical edition of the Zohar); (b) the primary material, de Leon's own works in their critical editions (Wolfson's edition of Sefer ha-Rimmon; Mopsik and Idel's edition of Shekel ha-Kodesh) and the Zohar text itself, open on Sefaria, which carries the pseudepigraphic Rashbi frame that the attribution turns on; and (c) a contemporary Jewish scholar (Wolfson; Idel; Matt). No encyclopedias, no Wikipedia, no tertiary sources. Confidence: the open Sefaria Zohar (Bereshit 1) is high (read at the passage level in the zohar and kabbalah entries, carrying the Aramaic pseudepigraphic frame set among Rashbi's circle); Scholem, Matt, Wolfson, and Mopsik/Idel are medium, verified via publisher and journal records, not read line-by-line. Relation targets: zohar, kabbalah, and shimon-bar-yochai exist or are authored in this batch (shimon-bar-yochai authored here); sefer-ha-rimmon and shekel-ha-kodesh are dangling forward references to not-yet-created works; ein-sof and sefirot exist.",
+  "lifespan": {
+    "birth": 1240,
+    "death": 1305,
+    "note": "c. 1240-1305; the birth year is approximate (conventionally c. 1240) and he died in 1305 (his death at Arevalo, on the way home to Avila, is placed in that year in the scholarship). He was active in Castile in the later thirteenth century."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "kabbalah",
+      "note": "Moses de Leon was a Castilian kabbalist of the later thirteenth century, developing the theosophy of Ein Sof and the sefirot in his own Hebrew works and, in the academic attribution, in the Zohar. The kabbalah entry exists and records the reciprocal key_figure relation."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "In the modern academic attribution (argued by Scholem and broadly accepted since) the bulk of the Zohar was composed by Moses de Leon in late-thirteenth-century Castile (c. 1280s) and circulated as the ancient work of Shimon bar Yochai; later scholarship in part treats it as a layered or milieu composition still located there. This is the academic attributed position, given alongside the traditional ascription to Rashbi and not adjudicated, mirroring the zohar entry. The zohar entry exists and records the reciprocal relation."
+    },
+    {
+      "type": "related_to",
+      "target": "shimon-bar-yochai",
+      "note": "Moses de Leon circulated the Zohar as the ancient teaching of the second-century Tanna Shimon bar Yochai; the academic attribution to de Leon and the traditional ascription to Rashbi are the two poles of the Zohar-authorship dispute, which is not adjudicated here. The shimon-bar-yochai entry is authored in this batch."
+    },
+    {
+      "type": "articulated",
+      "target": "sefer-ha-rimmon",
+      "note": "De Leon composed Sefer ha-Rimmon ('the Book of the Pomegranate', 1287) under his own name, a mystical treatment of the reasons for the commandments (ta'amei ha-mitzvot); critically edited by Elliot Wolfson (Brown Judaic Studies, 1988). Dangling forward reference to a not-yet-created work."
+    },
+    {
+      "type": "articulated",
+      "target": "shekel-ha-kodesh",
+      "note": "De Leon composed Shekel ha-Kodesh (1292) under his own name, on the sefirot and the divine emanation; critically edited by Charles Mopsik with an introduction by Moshe Idel (Cherub Press, 1996). Dangling forward reference to a not-yet-created work."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "De Leon's kabbalistic works, and the Zohar attributed to him, give central expression to the doctrine of the ten sefirot, the emanated divine potencies through which, in kabbalistic teaching, God acts and becomes knowable. The sefirot entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "De Leon's kabbalistic theosophy, and the Zohar attributed to him, turn on Ein Sof, God in the hidden divine essence, from which the sefirot emanate. The ein-sof entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered 1938 at the Jewish Theological Seminary). The foundational modern study attributing the bulk of the Zohar to Moses de Leon in late-thirteenth-century Castile (c. 1280s), against the traditional ascription to the second-century Shimon bar Yochai; cited as the academic attributed position on the Zohar's authorship, recorded alongside the traditional ascription and not adjudicated. This is the load-bearing source for the figure's significance and is secondary (not an open primary), so it is rated medium and the attribution is recorded as an attributed scholarly position, not settled fact. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wolfson, Elliot R., ed. The Book of the Pomegranate: Moses de Leon's Sefer ha-Rimmon. Brown Judaic Studies 144. Atlanta: Scholars Press, 1988. A critical edition of one of the Hebrew works Moses de Leon wrote under his own name (Sefer ha-Rimmon, composed 1287, on the mystical reasons for the commandments), with an introductory study; cited as evidence for de Leon's acknowledged authorship of works under his own name and as a contemporary scholar's edition of them. Verified to exist and be on-topic (Brown Judaic Studies, no. 144, open access via the Brown repository), not read line-by-line.",
+      "url": "https://judaicstudies.brown.edu/monograph/book-pomegranate-moses-de-leons-sefer-ha-rimmon",
+      "license": "Open access (Brown Judaic Studies repository); underlying Hebrew of de Leon in the public domain.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Moses de Leon. Sefer Shekel ha-Kodesh. Critical edition by Charles Mopsik, with an introduction by Moshe Idel. Sources and Studies in the Literature of Jewish Mysticism 3. Los Angeles: Cherub Press, 1996. A critical edition of another Hebrew work de Leon wrote under his own name (Shekel ha-Kodesh, 1292, on the sefirot and the divine emanation); cited as further evidence for de Leon's acknowledged authorship under his own name. Verified to exist and be on-topic (Cherub Press, 1996), not read line-by-line.",
+      "url": "https://www.klinebooks.com/pages/books/47330/intro-ed-charles-mopsik-moshe-idel-moses-de-leon/r-moses-de-leons-sefer-sheqel-ha-qodesh-sefer-shekel-ha-kodesh",
+      "license": "Proprietary; cited for reference (bibliographic record). Underlying Hebrew of de Leon in the public domain.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Zohar: Pritzker Edition. Translation and commentary by Daniel C. Matt (with Nathan Wolski and Joel Hecker for later volumes). 12 vols. Stanford: Stanford University Press, 2004-2017. The first English translation from a critical Aramaic text of the Zohar, the work whose bulk academic scholarship attributes to de Leon; cited for the critical text and scholarly presentation of the Zohar. Verified to exist and be on-topic (Stanford University Press, Zohar: Pritzker Edition series), not read line-by-line.",
+      "url": "https://www.sup.org/books/series/zohar-pritzker-edition",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Zohar, open Hebrew/Aramaic and English text on Sefaria (Sefaria Community Translation, CC0). Cited as the openly-auditable primary text that carries the pseudepigraphic frame on which the de Leon attribution turns: the Zohar's main stratum is cast as the teaching of the second-century Rabbi Shimon bar Yochai and his circle, in artificial Aramaic; the opening on Bereshit was read at the passage level (in the zohar and kabbalah entries) and gives the emanation of the divine potencies from 'the most concealed of all concealed things'. Read at the passage level for those entries; cited here for the Rashbi-framed pseudepigraphic character that the academic attribution to de Leon addresses.",
+      "url": "https://www.sefaria.org/Zohar,_Bereshit.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Aramaic in the public domain. Openly auditable; read at the passage level.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

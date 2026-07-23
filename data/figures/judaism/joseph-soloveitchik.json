@@ -1,0 +1,101 @@
+{
+  "id": "joseph-soloveitchik",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Joseph B. Soloveitchik",
+    "original": "יוסף דב הלוי סולובייצ'יק",
+    "transliteration": "Yosef Dov ha-Levi Soloveitchik",
+    "aliases": [
+      "Joseph Dov Soloveitchik",
+      "The Rav (הרב)",
+      "J. B. Soloveitchik"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "rosh yeshiva",
+    "philosopher",
+    "talmudist"
+  ],
+  "summary": "Joseph B. Soloveitchik (1903-1993), known as 'the Rav,' was a scion of the Brisker rabbinic dynasty and is widely regarded as the towering figure of American Modern Orthodoxy. As longtime rosh yeshiva at Yeshiva University he ordained generations of rabbis, and in philosophical works such as Halakhic Man (Ish ha-Halakhah, 1944) and The Lonely Man of Faith (1965) he brought a rigorous halakhic vision together with existential and philosophical reflection, helping define Modern Orthodoxy's engagement with modernity.",
+  "description": "Joseph B. Soloveitchik, called in his community simply 'the Rav,' descended from the Soloveitchik family of Brisk (Brest-Litovsk), the dynasty associated with the Brisker method of conceptual Talmud analysis developed by his grandfather Rabbi Chaim Soloveitchik. After a traditional Talmudic education and doctoral study of philosophy at the University of Berlin, he emigrated to the United States, and from the early 1940s until his final years he served as rosh yeshiva (head of the Talmudic academy) at the Rabbi Isaac Elchanan Theological Seminary of Yeshiva University, where he ordained a large proportion of the Modern Orthodox rabbinate. He is presented here as an Orthodox figure and the leading twentieth-century intellectual of American Modern Orthodoxy; his positions are attributed to him, and this entry does not rank Orthodoxy above other Jewish movements.\n\nHis philosophical writings brought his mastery of the halakhic tradition into conversation with modern philosophy, and in the scholarship they are read together with, not apart from, his Talmudic teaching. In Halakhic Man (Ish ha-Halakhah, published in Hebrew in 1944 and in Lawrence Kaplan's English translation in 1983), he portrays a distinctive religious personality, 'halakhic man,' who approaches the world through the a priori categories of the law much as the mathematician or scientist approaches nature through ideal constructions, so that the halakhah is a cognitive and creative system through which the religious person orders reality rather than a mere body of rules; Aviezer Ravitzky and Dov Schwartz situate this account in relation to the Marburg neo-Kantian philosophy Soloveitchik had studied. In The Lonely Man of Faith (first published in the journal Tradition in 1965), he reads the two creation narratives of Genesis as portraying two human types, 'majestic man' (Adam the first), who masters and builds the world, and 'the man of faith' (Adam the second), who seeks a covenantal, redemptive relationship with God, and he describes the loneliness of the person of faith in a technological age; Reuven Ziegler's study takes its title, Majesty and Humility, from this polarity as a key to Soloveitchik's thought.\n\nSoloveitchik is credited in the scholarship with articulating the intellectual stance of Modern Orthodoxy: full commitment to halakhah and Talmud study joined to serious engagement with modernity, secular learning, and the wider world. He supported religious Zionism, and while he set limits on theological dialogue between religions he sanctioned cooperation with other faiths on social and civic matters. His halakhic authority, his classes and public lectures (shiurim and derashot), and the many rabbis he ordained gave his positions wide influence in American Orthodoxy, and these positions are recorded here as his own, on Judaism's own terms, with the philosophical and historical scholarship set alongside as attributed sources.",
+  "editorial_notes": "This entry presents Soloveitchik on Judaism's own terms as the leading twentieth-century intellectual of American Modern Orthodoxy (neutrality #1, #4, #6), identifying him as an Orthodox figure without ranking Orthodoxy above other Jewish movements (neutrality #7). His positions on halakhah, Zionism, and interfaith cooperation are attributed to him and not adjudicated. IMPORTANT provenance limit: his two central works cited here, Halakhic Man (Ish ha-Halakhah, 1944) and The Lonely Man of Faith (1965), are proprietary twentieth-century texts that were NOT read openly line-by-line for this entry, so this entry is REVIEWED-ONLY in aspiration, not verified-eligible: the characterizations of 'halakhic man,' of the two Adams, and of majestic vs. covenantal man are given as the standard scholarly renderings of these works (via Kaplan's translation and via Ravitzky, Schwartz, and Ziegler), and no high 'verified' rating is claimed for the primary texts. Any short phrases attributed to the works are flagged as standard renderings, not verified verbatim quotations. Sources triangulate three lenses per neutrality #8-9: (a) academic historians and philosophers of Soloveitchik's thought (Dov Schwartz, Religion or Halakha, Brill 2007; Aviezer Ravitzky, 'Rabbi J. B. Soloveitchik on Human Knowledge,' Modern Judaism 1986); (b) the primary texts as attributed proprietary works (Halakhic Man, Kaplan trans., JPS 1983; The Lonely Man of Faith), verified to exist and be on-topic but not openly read; (c) a contemporary Jewish scholarly voice within the tradition (Reuven Ziegler, Majesty and Humility, OU Press/Urim 2012). No encyclopedias, no Wikipedia, no tertiary sources. Confidence: all sources are medium (verified to exist and be on-topic via author/title/publisher/year, not read line-by-line); no source is rated high because the load-bearing proprietary primary texts were not openly consulted. This entry is a draft pending reviewer audit before promotion; it does NOT invent a high rating. Relation targets orthodox-judaism, halakha, torah, and maimonides exist; brisker-method and yeshiva-university are dangling forward references to not-yet-created entities, noted as such.",
+  "lifespan": {
+    "birth": 1903,
+    "death": 1993,
+    "note": "1903-1993 CE; born in Pruzhany (then Russian Empire, now Belarus) into the Brisker rabbinic dynasty, studied philosophy at the University of Berlin, emigrated to the United States, and served for decades as rosh yeshiva at Yeshiva University in New York."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "orthodox-judaism",
+      "note": "Soloveitchik is presented in the scholarship as the leading twentieth-century figure of American Modern Orthodoxy, a current within Orthodox Judaism; the orthodox-judaism entry references him as its key American figure. Identified as an Orthodox figure without ranking Orthodoxy above other movements. The orthodox-judaism entry exists."
+    },
+    {
+      "type": "articulated",
+      "target": "halakha",
+      "note": "Halakhic Man (Ish ha-Halakhah) presents 'halakhic man,' the religious personality who orders reality through the a priori categories of Jewish law; the work is cited in the halakha entry for the Orthodox understanding of the halakhic life from within. Given here as the standard scholarly rendering, the primary text not openly read (see editorial_notes). The halakha entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "As rosh yeshiva Soloveitchik taught Talmud in the Brisker conceptual method and grounded his thought in Torah study; The Lonely Man of Faith reads the two creation narratives of Genesis (in the Torah) as portraying two human types. The torah entry exists."
+    },
+    {
+      "type": "influenced_by",
+      "target": "maimonides",
+      "note": "Soloveitchik engaged Maimonides closely, and scholars (Ravitzky) read his epistemology as standing between a Maimonidean and a neo-Kantian account of human knowledge; stated as intellectual engagement within the tradition. The maimonides entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "brisker-method",
+      "note": "Soloveitchik belonged to the Soloveitchik family of Brisk and taught in the Brisker method of conceptual Talmud analysis developed by his grandfather Rabbi Chaim Soloveitchik. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "member_of",
+      "target": "yeshiva-university",
+      "note": "For decades Soloveitchik was rosh yeshiva at the Rabbi Isaac Elchanan Theological Seminary of Yeshiva University, where he ordained a large part of the Modern Orthodox rabbinate. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Soloveitchik, Joseph B. Halakhic Man. Trans. Lawrence Kaplan. Philadelphia: Jewish Publication Society of America, 1983 (Hebrew, Ish ha-Halakhah, 1944). A classic work of modern Orthodox Jewish thought portraying 'halakhic man,' the religious personality who confronts and orders the world through the a priori categories of the law; cited for Soloveitchik's account of the halakhic life from within, as an attributed position and the standard scholarly rendering. A proprietary twentieth-century text NOT read openly line-by-line for this entry; verified to exist and be on-topic (author, title, translator, publisher, and year confirmed). Carries the same medium rating it holds in the halakha and orthodox-judaism entries.",
+      "url": "https://jps.org/books/halakhic-man-40th-anniversary-edition/",
+      "license": "Proprietary translation of a twentieth-century work; cited for reference (publisher page). Not openly read.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Soloveitchik, Joseph B. 'The Lonely Man of Faith.' Tradition: A Journal of Orthodox Jewish Thought 7, no. 2 (Summer 1965): 5-67 (later issued as a separate volume, New York: Doubleday, 1992). Reads the two creation narratives of Genesis as portraying two human types, 'majestic man' (Adam the first) who masters the world and 'the man of faith' (Adam the second) who seeks a covenantal relationship with God, and treats the loneliness of the person of faith in a technological age; cited for this account as an attributed position and the standard scholarly rendering. A proprietary twentieth-century text NOT read openly line-by-line for this entry; verified to exist and be on-topic (author, title, journal, volume, issue, and year confirmed).",
+      "url": "https://traditiononline.org/the-lonely-man-of-faith/",
+      "license": "Proprietary; cited for reference (the journal's own page for the essay). Not openly read.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schwartz, Dov. Religion or Halakha: The Philosophy of Rabbi Joseph B. Soloveitchik, Volume One. Trans. Batya Stein. Supplements to The Journal of Jewish Thought and Philosophy 1. Leiden and Boston: Brill, 2007. An academic monograph analyzing Soloveitchik's philosophy, its phenomenological and neo-Kantian background, and the relation of religion and halakhah in his thought; cited as the academic lens on Halakhic Man and Soloveitchik's system. Verified to exist and be on-topic (author, title, translator, series, publisher, and year confirmed via the Brill catalogue); not read line-by-line.",
+      "url": "https://brill.com/view/title/13102",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ravitzky, Aviezer. 'Rabbi J. B. Soloveitchik on Human Knowledge: Between Maimonidean and Neo-Kantian Philosophy.' Modern Judaism 6, no. 2 (1986): 157-188. A peer-reviewed journal article on Soloveitchik's epistemology and his incorporation of Marburg neo-Kantian ideas into his understanding of halakhic cognition; cited for the philosophical background of Halakhic Man and his account of human knowledge. Verified to exist and be on-topic (author, title, journal, volume, issue, year, and pagination confirmed); not read line-by-line.",
+      "url": "https://www.jstor.org/stable/1396071",
+      "license": "Proprietary; cited for reference (journal record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ziegler, Reuven. Majesty and Humility: The Thought of Rabbi Joseph B. Soloveitchik. The Rabbi Soloveitchik Library. Jerusalem and New York: Urim Publications, in association with the OU Press and Maimonides School, 2012. A contemporary Jewish scholar's comprehensive study of Soloveitchik's religious thought, organized around the majesty/humility polarity drawn from The Lonely Man of Faith and reading his essays and overarching themes together; cited as the contemporary Jewish scholarly lens. Verified to exist and be on-topic (author, title, series, publishers, and year confirmed); not read line-by-line.",
+      "url": "https://www.ou.org/news/new_from_ou_press_majesty_and_humility_the_thought_of_rabbi_joseph_b-_solov/",
+      "license": "Proprietary; cited for reference (publisher announcement confirming bibliographic details).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}
