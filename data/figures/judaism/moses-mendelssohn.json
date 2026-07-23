@@ -1,0 +1,91 @@
+{
+  "id": "moses-mendelssohn",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Moses Mendelssohn",
+    "original": "משה בן מנחם מנדל",
+    "transliteration": "Mosheh ben Menachem Mendel",
+    "aliases": [
+      "Moses Dessau",
+      "Moshe of Dessau",
+      "Moses ben Menachem Mendel",
+      "RaMbeMaN (רמבמ\"ן)",
+      "the German Socrates"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "Jewish thinker",
+    "Bible translator and exegete",
+    "defender of Jewish civil rights"
+  ],
+  "summary": "Moses Mendelssohn (1729-1786) was a leading philosopher of the German Enlightenment and the central figure of the Haskalah, the Jewish Enlightenment. Through his German translation of the Torah (the Bi'ur) and his treatise Jerusalem, or on Religious Power and Judaism (1783), he argued for freedom of conscience, the separation of religious and state power, and an understanding of Judaism as revealed legislation compatible with Enlightenment reason, and he was a prominent advocate of Jewish civil rights.",
+  "description": "Moses Mendelssohn, born in Dessau in 1729 and active in Berlin until his death in 1786, was at once a major philosopher of the German Enlightenment and the central figure of the Haskalah, the Jewish Enlightenment. Admired by contemporaries as the 'German Socrates', he won the Prussian Academy's prize essay competition of 1763 (ahead of Kant) and gained wide fame for his philosophical works on natural theology, aesthetics, and the immortality of the soul, most famously the dialogue Phaedon (Phaedo, 1767). He was a close friend and intellectual ally of Gotthold Ephraim Lessing, who is widely held to have modelled the title character of his play Nathan the Wise on Mendelssohn. In the scholarship (Allan Arkush, David Sorkin) he is treated as the first modern philosopher of Judaism, a thinker who sought to hold together the medieval Jewish rationalist tradition and the philosophy of the eighteenth-century Leibnizian-Wolffian school.\n\nMendelssohn worked to bring Jews into the culture and language of the surrounding German society while remaining an observant Jew. To that end he sponsored and led a German translation of the Pentateuch, printed in Hebrew characters and accompanied by a new Hebrew commentary, the Bi'ur ('explanation'), completed in the early 1780s, intended to give German-speaking Jews access both to correct German and to the plain sense of the biblical text. This translation project, and the circle of maskilim (enlighteners) around him, are commonly taken in the scholarship as a founding moment of the Haskalah. His public defence of Jewish civil equality took written form after he was challenged, in the so-called Lavater affair, to justify his continued adherence to Judaism; he increasingly argued for the civil admission (bürgerliche Aufnahme) of the Jews and encouraged Christian Wilhelm von Dohm's 1781 tract on the civil improvement of the Jews.\n\nHis most influential work of Jewish thought is Jerusalem, or on Religious Power and Judaism (Jerusalem, oder über religiöse Macht und Judentum, 1783). Its first part argues for freedom of conscience and for a sharp separation between the state and religion: in his own words, 'the state commands and coerces; religion teaches and persuades', the state disposing of physical force while 'the power of religion is love and beneficence'. On this basis he held that neither church nor state may compel belief, and he opposed religious coercion, oaths, and excommunication. Its second part sets out his positive account of Judaism. Distinguishing revealed religion from revealed legislation, he maintained that 'Judaism knows of no revealed religion in the Christian sense of the phrase': the eternal truths of God's existence, providence, and the soul's immortality are, he held, accessible to universal human reason and were not the object of a special supernatural revelation, whereas what was revealed to Israel at Sinai was a divine legislation, 'laws, commandments, ordinances, rules of life', binding on the Jewish people. On this reading Judaism prescribes actions and a way of life rather than coerced dogmas, and is therefore, in his argument, compatible with Enlightenment reason and with liberty of conscience. Contemporary Jewish scholarship (Elias Sacks) reads the account of Jewish practice in Jerusalem and in his Hebrew writings as a considered philosophy of religious action, language, and history rather than a mere apologetic. He is presented here on his own terms and as a figure whose positions are attributed to him, with the philosophical and historical scholarship recorded alongside.",
+  "editorial_notes": "This entry presents Mendelssohn's positions as attributed to him (neutrality #1, #4), and does not adjudicate the truth of his account of Judaism as 'revealed legislation' or of his church-state doctrine; these are stated as his arguments, quoted from his own text, not endorsed. His engagement with Christian Enlightenment thinkers (Lessing, Wolff, the Prussian Academy context) is stated factually as intellectual context, not as ranking traditions (neutrality #10-#11). Sources triangulate three lenses per neutrality #8-9: (a) academic historians of Mendelssohn and the Haskalah (Sorkin, Moses Mendelssohn and the Religious Enlightenment; Arkush, Moses Mendelssohn and the Enlightenment); (b) the primary text, Jerusalem (1783), read line-by-line in the open public-domain English edition prepared by Jonathan Bennett (earlymoderntexts.com), from which the load-bearing lines are quoted verbatim (the state/religion distinction and the 'revealed religion / revealed legislation' passage); and (c) a contemporary Jewish scholar (Elias Sacks, Moses Mendelssohn's Living Script). No encyclopedias (Encyclopaedia Judaica, Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources; the Stanford Encyclopedia was used only to locate the primary wording and is not cited. Confidence: the Jerusalem primary text on earlymoderntexts.com is rated high because it was read line-by-line and the quoted lines verified against it (verified-eligible open primary); Sorkin, Arkush, and Sacks are medium (author, title, publisher, and year confirmed via publisher and library records, not read line-by-line). Relation targets: haskalah and halakha exist (data/schools/judaism/haskalah.json, data/concepts/judaism/halakha.json), as do maimonides and rabbinic-judaism, cited as intellectual context; torah is a dangling forward reference to a not-yet-created entity.",
+  "lifespan": {
+    "birth": 1729,
+    "death": 1786,
+    "note": "1729-1786 CE; born in Dessau, in the Principality of Anhalt-Dessau, and active in Berlin, where he died. Also known by the toponym Moses Dessau and, in Jewish sources, by the acronym RaMbeMaN (Rabbi Moshe ben Menachem)."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "haskalah",
+      "note": "Mendelssohn is generally regarded in the scholarship as the central figure and founding thinker of the Haskalah, the Jewish Enlightenment; his Pentateuch translation and the circle of maskilim around him are taken as a founding moment. The haskalah entry exists."
+    },
+    {
+      "type": "articulated",
+      "target": "torah",
+      "note": "He led and sponsored a German translation of the Pentateuch (Torah) with a new Hebrew commentary, the Bi'ur, intended to give German-speaking Jews access to the plain sense of the text and to correct German. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "In Jerusalem he argued that what was revealed to Israel at Sinai was a divine legislation ('laws, commandments, ordinances, rules of life'), binding on the Jewish people, distinguishing this revealed legislation from revealed religious doctrine; his account bears directly on the status of Jewish law (halakha), stated as his attributed position. The halakha entry exists."
+    },
+    {
+      "type": "influenced_by",
+      "target": "maimonides",
+      "note": "Mendelssohn stood within the medieval Jewish rationalist tradition that Maimonides exemplifies, and the scholarship (Sorkin, Arkush) reads him as rearticulating that rationalist tradition in eighteenth-century philosophical terms. The maimonides entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Mendelssohn was an observant Jew working within the rabbinic tradition even as he sought to reconcile Jewish practice with Enlightenment philosophy; his defence of Judaism in Jerusalem is offered from within that tradition. The rabbinic-judaism entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Mendelssohn, Moses. Jerusalem, or on Religious Power and Judaism (1783). Open public-domain English edition prepared and lightly edited by Jonathan Bennett, Some Texts from Early Modern Philosophy (earlymoderntexts.com). Read line-by-line for this entry: the load-bearing lines are quoted verbatim, including the state/religion distinction ('The state commands and coerces; religion teaches and persuades ... the power of religion is love and beneficence') and the account of Jewish revelation ('Judaism knows of no revealed religion in the Christian sense of the phrase. The Israelites have a divine legislation ... laws, commandments, ordinances, rules of life'), together with his defence of liberty of conscience.",
+      "url": "https://www.earlymoderntexts.com/assets/pdfs/mendelssohn1782.pdf",
+      "license": "Public-domain classical text (1783); Bennett's edited English rendering released for free non-commercial use. Read line-by-line for this entry.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Arkush, Allan. Moses Mendelssohn and the Enlightenment. SUNY Series in Judaica: Hermeneutics, Mysticism, and Religion. Albany: State University of New York Press, 1994. An academic study placing Mendelssohn's thought within the Leibnizian-Wolffian school and the wider Enlightenment (Kant, Lessing) and the tradition of Jewish rationalism, with chapters on his natural theology, his politics, and his defence and refashioning of Judaism; cited for Mendelssohn as the first modern philosopher of Judaism and for the argument of Jerusalem. Arkush is also the translator of the standard scholarly English edition of Jerusalem (Brandeis/University Press of New England, 1983). Verified to exist and be on-topic (SUNY Press record), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/M/Moses-Mendelssohn-and-the-Enlightenment2",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sorkin, David. Moses Mendelssohn and the Religious Enlightenment. Berkeley: University of California Press, 1996. An academic study arguing, through close reading of Mendelssohn's Hebrew and German writings, that his Jewish and philosophical work formed a single project rearticulating the medieval Jewish rationalist tradition in eighteenth-century terms, akin to the Protestant and Catholic religious Enlightenment; cited for Mendelssohn's place in the Haskalah and the coherence of his thought. Verified to exist and be on-topic (University of California Press record; reviewed in AJS Review), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/moses-mendelssohn-and-the-religious-enlightenment",
+      "license": "Proprietary; cited for reference (publisher/library record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sacks, Elias. Moses Mendelssohn's Living Script: Philosophy, Practice, History, Judaism. Bloomington: Indiana University Press, 2017. A contemporary Jewish scholar's study of the account of Jewish practice Mendelssohn develops in Jerusalem and in his Hebrew writings, reading his German and Hebrew works together and treating the relation of Judaism, philosophy, and the modern state as a considered philosophy of religious action and history; cited as the contemporary scholarly lens on Mendelssohn's understanding of Jewish law and practice. Verified to exist and be on-topic (Indiana University Press record; PhilPapers), not read line-by-line.",
+      "url": "https://iupress.org/9780253023742/moses-mendelssohns-living-script/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

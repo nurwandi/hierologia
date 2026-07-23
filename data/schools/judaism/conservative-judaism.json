@@ -1,0 +1,98 @@
+{
+  "id": "conservative-judaism",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Conservative Judaism",
+    "original": "יהדות מסורתית",
+    "transliteration": "Yahadut Masortit",
+    "aliases": [
+      "Masorti Judaism",
+      "Masorti (outside North America)",
+      "Positive-Historical Judaism (its intellectual antecedent)",
+      "The Conservative movement"
+    ]
+  },
+  "summary": "Conservative Judaism, known as Masorti Judaism outside North America, is the modern Jewish movement that holds halakha (Jewish law) to be binding while also understanding it as a historically developing system that can change through the movement's own rabbinic authority (in North America, the Committee on Jewish Law and Standards). It traces its intellectual antecedent to the 'positive-historical' school of Zacharias Frankel in nineteenth-century Germany and was institutionalized in America around the Jewish Theological Seminary, the leadership of Solomon Schechter, and the United Synagogue. On its own self-understanding it seeks a middle path between Orthodox and Reform Judaism, combining traditional observance with the historical-critical study of the Jewish past; its 1988 platform is Emet ve-Emunah.",
+  "description": "Conservative Judaism, called Masorti (from masoret, tradition) Judaism outside North America, is the modern Jewish movement that affirms halakha, the body of Jewish law, as binding while at the same time understanding it, on its own self-understanding, as a system that has always developed historically and that may legitimately change through the movement's own processes of rabbinic decision, in North America the Committee on Jewish Law and Standards of the Rabbinical Assembly. Presented here on its own terms, the movement situates itself as a middle path between Orthodox and Reform Judaism: unlike Reform it treats the traditional observance of the commandments as obligatory, and unlike Orthodoxy it holds that the law is a product of Jewish history and remains open to reasoned development. Its 1988 platform, Emet ve-Emunah (Truth and Faith): Statement of Principles of Conservative Judaism, sets out this combination, affirming God, the revelation of Torah, and the authority of halakha while also affirming the legitimacy of more than one interpretation.\n\nThe movement traces its intellectual antecedent to the 'positive-historical' school of Zacharias Frankel (1801-1875) in nineteenth-century Germany. Frankel coined the term positive-historical for his approach: 'historical' because it acknowledges that Judaism has a history and did not descend ready-made from heaven, and so submits the Jewish past, including the study of the sources, to free scholarly inquiry (Wissenschaft des Judentums); 'positive' because it holds fast to the practical observance of the commandments as the tradition has come to embody them. From 1854 Frankel led the Jewish Theological Seminary of Breslau, the first modern rabbinical seminary in Central Europe, which combined critical scholarship with traditional piety and is regarded as the academic precursor of the later movement.\n\nIn America the movement took institutional shape around the Jewish Theological Seminary of America and, from 1902, the leadership of Solomon Schechter (1847-1915), together with the congregational union he helped found, the United Synagogue (1913). Michael R. Cohen has argued that Schechter, who advocated a return to traditional practice but articulated no sharp position on the divisive issues and preferred a broad message of unity, could not implement his vision alone, so that the movement as a distinct denomination was in fact shaped in the first half of the twentieth century by his disciples, the rabbinical students and alumni of the Seminary. Ismar Schorsch, a leading historian of the movement and himself a former chancellor of the Seminary, has written on Frankel and the European origins of Conservative Judaism and on the movement's core values, describing a tradition that studies the Talmud and the sources critically rather than polemically while remaining committed to observance. Marshall Sklare's classic sociological study analysed Conservative Judaism as an American religious movement shaped as much by the acculturation of its constituency as by doctrine. Where Conservative Judaism differs from Orthodox and Reform Judaism over the authority and mutability of halakha, those differences are stated on each movement's own terms in the related links below, and this entry does not rule which movement is the authentic or correct Judaism.",
+  "editorial_notes": "This entry presents Conservative (Masorti) Judaism on its own terms (neutrality #1, #4, #6), recording as its attributed self-understanding the twin commitments that halakha is binding AND that it is a historically developing system open to change through the movement's own rabbinic authority (the Committee on Jewish Law and Standards), and its self-positioning as a middle path between Orthodox and Reform, stated as the movement's position rather than affirmed or denied by the editor. Per neutrality #2 the differences among Conservative, Orthodox, and Reform over the authority and mutability of halakha are attributed to each movement (see related_to links and the halakha entry, which already attributes Dorff for the Conservative view and Soloveitchik for the Orthodox), and the editor does not rule which is the authentic Judaism (THE crux, neutrality #1-#2). Sources triangulate three lenses per neutrality #8-9: academic historians of the movement (Michael R. Cohen, The Birth of Conservative Judaism, on Schechter's disciples and the American shaping of the movement; Marshall Sklare's classic sociological study); a primary document, the movement's own 1988 platform Emet ve-Emunah, cited for the self-understanding of binding-yet-developing halakha and the middle path; and a contemporary Jewish scholar within the movement (Ismar Schorsch), whose work on Frankel and the European origins carries the movement's own voice and supplies Frankel's positive-historical statements. No encyclopedias (including the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, or My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: Emet ve-Emunah exists and is cited as the movement's own primary platform, but the Internet Archive copy is access-restricted (borrow-only) and it was NOT read line-by-line openly, so it is rated medium rather than high, and this entry is reviewed-only rather than verified (expected for the denominations, whose defining documents are largely modern and proprietary); Cohen, Sklare, and Schorsch are verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium. Frankel's positive-historical statements are carried through Schorsch's scholarship rather than a directly-read Frankel primary, and are flagged as such. Relation targets rabbinic-judaism, halakha, oral-torah, and torah exist; orthodox-judaism and reform-judaism are authored in the same batch; zacharias-frankel and solomon-schechter are dangling forward references to not-yet-created figures.",
+  "period": {
+    "founded": 1854,
+    "note": "The movement traces its intellectual antecedent to the positive-historical school of Zacharias Frankel, conventionally anchored to his assumption of the leadership of the Breslau Jewish Theological Seminary in 1854; as a distinct organized denomination it took shape in America in the late nineteenth and early twentieth centuries (the reorganized Jewish Theological Seminary of America; Solomon Schechter's arrival in 1902; the United Synagogue, 1913). The 1854 marker is a conventional starting point for the movement's intellectual antecedent, not a claim that the American denomination existed then. Conservative/Masorti Judaism remains active to the present, so no end date is given."
+  },
+  "relations": [
+    {
+      "type": "influenced_by",
+      "target": "zacharias-frankel",
+      "note": "Zacharias Frankel (1801-1875), founder of the positive-historical school and leader of the Breslau seminary from 1854, is the movement's principal intellectual antecedent; his positive-historical approach (free historical inquiry combined with fidelity to observance) is the direct ancestor of Conservative/Masorti Judaism. Dangling forward reference to a not-yet-created figure."
+    },
+    {
+      "type": "key_figure",
+      "target": "solomon-schechter",
+      "note": "Solomon Schechter (1847-1915), who led the Jewish Theological Seminary of America from 1902 and helped found the United Synagogue (1913), is the central figure in the American institutionalization of the movement. Dangling forward reference to a not-yet-created figure."
+    },
+    {
+      "type": "holds",
+      "target": "halakha",
+      "note": "Conservative (Masorti) Judaism holds halakha to be binding while understanding it, on its own self-understanding, as a historically developing system open to change through the movement's own rabbinic authority (the Committee on Jewish Law and Standards); the halakha entry attributes this position (via Dorff) alongside the differing Orthodox and Reform positions without adjudicating among them."
+    },
+    {
+      "type": "holds",
+      "target": "oral-torah",
+      "note": "Conservative Judaism affirms the Torah and the tradition built upon it as authoritative and observance of the commandments as obligatory, while understanding the development of the Oral tradition and its law historically; stated as the movement's self-understanding."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "Conservative Judaism affirms the revelation of Torah and the authority of the tradition derived from it, while combining that affirmation with the historical-critical study of the sources; stated as the movement's own position (per Emet ve-Emunah)."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Conservative Judaism stands within the rabbinic tradition, affirming the binding force of halakha, while understanding that tradition as historically developing and open to reasoned change through the movement's rabbinic processes."
+    },
+    {
+      "type": "related_to",
+      "target": "orthodox-judaism",
+      "note": "Conservative and Orthodox Judaism differ over halakha: Conservative Judaism holds it binding yet historically developing and open to change through its own rabbinic authority, while Orthodoxy holds it divinely given and not subject to reform. Each position is attributed to its movement; this entry does not rule which is the authentic Judaism (neutrality #1-#2). Authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "reform-judaism",
+      "note": "Conservative Judaism positions itself between Orthodox and Reform: unlike Reform it treats traditional observance of the commandments as obligatory, while like Reform it embraces the historical-critical study of the Jewish past. Each position is attributed to its movement; the editor does not rule which is authentic or correct (neutrality #1-#2). Authored in the same batch."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Commission on the Philosophy of Conservative Judaism. Emet Ve-Emunah: Statement of Principles of Conservative Judaism. New York: Jewish Theological Seminary of America / Rabbinical Assembly / United Synagogue of America, 1988. The movement's official 1988 platform; cited as the primary document of Conservative Judaism's self-understanding for its affirmation of God, the revelation of Torah, and the binding authority of halakha understood as a historically developing system, and for the self-positioning as a middle path affirming the legitimacy of more than one interpretation. Cited as the movement's own primary statement, on its own terms, not as a neutral reference work.",
+      "url": "https://archive.org/details/emetveemunahstat0000comm",
+      "license": "Proprietary; the Internet Archive copy is access-restricted (borrow-only) and was not read line-by-line openly for this entry, hence medium rather than high.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Michael R. The Birth of Conservative Judaism: Solomon Schechter's Disciples and the Creation of an American Religious Movement. New York: Columbia University Press, 2012. Academic monograph drawing on the archives of the Jewish Theological Seminary and the Ratner Center; cited for the argument that Schechter, advocating a return to traditional practice but articulating no sharp position on divisive issues, could not implement his vision alone, so that the movement as a distinct denomination was shaped in the first half of the twentieth century by his disciples, the students and alumni of the Seminary. Verified to exist and be on-topic (author, title, subtitle, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://cup.columbia.edu/book/the-birth-of-conservative-judaism/9780231156356/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schorsch, Ismar. 'The Sacred Cluster: The Core Values of Conservative Judaism' (1995), and related work on Zacharias Frankel and the European origins of Conservative Judaism. A leading historian of the movement and former chancellor of the Jewish Theological Seminary; cited as a contemporary Jewish scholar's voice within the movement for Frankel's positive-historical approach (free historical inquiry combined with fidelity to observance, the Talmud studied critically rather than polemically) and for the movement's self-described core values. Verified to exist and be on-topic; not read line-by-line. Frankel's positive-historical statements are carried through Schorsch's scholarship rather than a directly-read Frankel primary.",
+      "url": "https://www.rabbinicalassembly.org/sites/default/files/public/resources-ideas/cj/classics/9-7-11-b2school/schorsch-1995.pdf",
+      "license": "Proprietary; cited for reference (the URL is the Rabbinical Assembly's hosted text of the 1995 essay).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sklare, Marshall. Conservative Judaism: An American Religious Movement. Glencoe, IL: The Free Press, 1955 (augmented ed., 1972). The classic sociological study of the movement; cited for the analysis of Conservative Judaism as an American religious movement shaped by the acculturation of its constituency as well as by doctrine, and for its middle position between Orthodox and Reform. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.commentary.org/articles/nathan-glazer-2/conservative-judaism-an-american-religious-movement-by-marshall-sklare/",
+      "license": "Proprietary; cited for reference (the URL is a contemporary scholarly review confirming the book's details).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

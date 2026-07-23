@@ -1,0 +1,86 @@
+{
+  "id": "haskalah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Haskalah",
+    "original": "הַשְׂכָּלָה",
+    "transliteration": "Haskalah",
+    "aliases": [
+      "The Jewish Enlightenment",
+      "The Berlin Haskalah",
+      "Maskilim (the movement's adherents)"
+    ]
+  },
+  "summary": "The Haskalah (Hebrew for 'enlightenment' or 'education') was the Jewish Enlightenment, an intellectual and social movement that arose in the later eighteenth century in Berlin, associated above all with Moses Mendelssohn, and spread through Central and then Eastern Europe into the nineteenth century. Its adherents, the maskilim, sought to bring Jews into engagement with European culture, science, and secular learning and with the vernacular, to reform Jewish education, and to revive the Hebrew language; the movement is widely regarded as a precursor of Jewish modernity, and it provoked lasting tensions with traditional rabbinic authority.",
+  "description": "The Haskalah (from the Hebrew root s-k-l, to be prudent or enlightened; the noun haskalah means 'enlightenment' or 'education', on the model of the European Enlightenment) is the name given to the Jewish Enlightenment, the intellectual and social movement that took shape in the German lands, and above all in Berlin, in the later eighteenth century, and that spread over the following decades through Central Europe and then into the Habsburg lands and the Russian Empire in the east. Its adherents were called maskilim (singular maskil, an 'enlightened one'). Shmuel Feiner's study reads the eighteenth-century Haskalah as the Jewish version of the pan-European Enlightenment, a movement that cannot be isolated from the broader intellectual currents of its century, and as a foundational chapter in the modern transformation of Jewish life; David Sorkin situates the Berlin Haskalah within the wider Central European religious and intellectual changes of the age, as a Jewish attempt to rearticulate belief in the presence of the new science and philosophy.\n\nThe program of the maskilim brought together several aims. They sought to open Jewish life to European culture, the sciences, and secular learning, and to the vernacular languages of the surrounding societies, while at the same time working to revive and cultivate Hebrew as a literary language, purified in their aspiration on a biblical model. They pressed for the reform of Jewish education, urging the addition of secular subjects and the languages of the state to the traditional curriculum. The movement's foremost early figure was Moses Mendelssohn, the Berlin philosopher, whose German translation of the Pentateuch with an accompanying Hebrew commentary (the Bi'ur) was designed in part to draw Jewish readers toward the German language and toward a renewed engagement with the biblical text. The maskilim also built their own institutions of print and sociability: the Hebrew journal Ha-Me'assef ('The Gatherer'), founded in Königsberg in 1783 by younger followers of Mendelssohn and published, with interruptions, into the early nineteenth century, became the movement's literary organ, so much so that its circle of writers were called the 'generation of the Me'assefim'.\n\nThe Haskalah's relation to the established religious tradition was contested, and this entry records the tension as a historical dispute rather than adjudicating it. In the self-understanding of the maskilim, their project was a legitimate renewal and broadening of Jewish life, not an abandonment of it; from the side of traditional rabbinic authority, the movement's opening to secular culture, its reform of education, and its critical spirit were viewed by many as a threat to the received forms of Torah study, observance, and communal authority. Both positions are attributed here to their holders, and the editor does not rule between them. In the longer historical arc reconstructed by the scholarship, the Haskalah is widely treated as a precursor of Jewish modernity: its impulses fed, along divergent paths, into the nineteenth-century Reform movement and the modernization of Jewish religious life, into the Wissenschaft des Judentums (the scholarly study of Judaism), and, later and by a different route, into forms of Jewish nationalism and the revival of Hebrew. The movement is presented here through the scholarship on it, with the maskilim's own aims and their opponents' concerns each attributed to the parties that held them.",
+  "editorial_notes": "This entry describes the Haskalah through the modern scholarship and on the terms of its own adherents (neutrality #1, #4, #6). The tension with traditional rabbinic authority is handled as a historical dispute per neutrality #1-#2: the maskilim's self-understanding (a legitimate renewal and broadening of Jewish life) is attributed to them, and the concern of traditional authorities (that the opening to secular culture and educational reform threatened received Torah study, observance, and communal authority) is attributed to them, without the editor adjudicating. The claim that the Haskalah was a precursor of Jewish modernity, of the Reform movement, of Wissenschaft des Judentums, and of later Jewish nationalism and the Hebrew revival is given as the reconstruction of the scholarship (Feiner, Sorkin), noting that these lines of influence ran along divergent and non-identical paths rather than a single trajectory. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of the Haskalah (Feiner, The Jewish Enlightenment; Sorkin, The Berlin Haskalah and German Religious Thought); (b) a primary maskilic source, the Hebrew journal Ha-Me'assef, the movement's own literary organ, available in the original as a digitized run on the Internet Archive; and (c) a contemporary Jewish scholar (Feiner, Professor of Jewish History at Bar-Ilan, and Sorkin, both writing as Jewish historians of the movement). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, the YIVO Encyclopedia, the Jewish Virtual Library, My Jewish Learning), no Wikipedia, no tertiary sources. This entry is REVIEWED-ONLY (not verified): its load-bearing account rests on the secondary scholarship of Feiner and Sorkin, rated medium; the Ha-Me'assef primary source is cited as the movement's own organ and confirmed to exist as a digitized original run, but it was not read line-by-line for a specific load-bearing claim here, so it too is rated medium rather than high. Confidence: Feiner and Sorkin are medium, verified via publisher, review, and library records, not read line-by-line; Ha-Me'assef is medium (digitized original confirmed on the Internet Archive; cited as the maskilic organ, not read at the article level here). Relation targets: rabbinic-judaism, moses-mendelssohn, hasidism, and reform-judaism exist; maskilim, ha-meassef, and wissenschaft-des-judentums are dangling forward references to not-yet-created entities.",
+  "period": {
+    "founded": 1770,
+    "active_until": 1881,
+    "note": "The Haskalah took shape in the German lands, and above all in Berlin, in the later eighteenth century (a conventional marker around 1770-1783, the latter being the founding year of the journal Ha-Me'assef), with Moses Mendelssohn as its foremost early figure, and spread through Central and Eastern Europe across the nineteenth century. The dates are approximate scholarly markers, not precise boundaries. The end date is placed conventionally around the 1881 pogroms in the Russian Empire, after which the eastern Haskalah gave way to new movements (Jewish nationalism, socialism); the movement's aims and legacy carried on by other names, and scholars draw its boundaries differently."
+  },
+  "relations": [
+    {
+      "type": "key_figure",
+      "target": "moses-mendelssohn",
+      "note": "Moses Mendelssohn, the Berlin philosopher, was the foremost early figure of the Haskalah; his German translation of the Pentateuch with the Hebrew Bi'ur commentary was central to its educational and cultural program. The moses-mendelssohn entry exists (data/figures/judaism/moses-mendelssohn.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "maskilim",
+      "note": "The maskilim (singular maskil, 'enlightened one') were the adherents of the Haskalah; the writers around the journal Ha-Me'assef were called the 'generation of the Me'assefim'. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "ha-meassef",
+      "note": "Ha-Me'assef ('The Gatherer'), founded in Königsberg in 1783 by younger followers of Mendelssohn, was the Hebrew literary organ of the Haskalah. Dangling forward reference to a not-yet-created entity (cited as a primary source in this entry)."
+    },
+    {
+      "type": "opposed",
+      "target": "rabbinic-judaism",
+      "note": "The Haskalah's opening to secular culture and its reform of Jewish education provoked tension with traditional rabbinic authority; 'opposed' names the historical friction, which is reported with both sides attributed and not adjudicated (the maskilim understood their project as legitimate renewal; traditional authorities saw a threat to received Torah study and communal authority). The rabbinic-judaism entry exists (data/schools/judaism/rabbinic-judaism.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "The Haskalah and Hasidism were the two great, and opposed, movements reshaping Eastern European Jewry in the same period; the maskilim were often sharply critical of Hasidism. Reported as a historical relation, not adjudicated. The hasidism entry exists (data/schools/judaism/hasidism.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "reform-judaism",
+      "note": "The scholarship treats the Haskalah as one of the precursors that fed, along a divergent path, into the nineteenth-century Reform movement and the modernization of Jewish religious life; stated as a line of historical influence, not an identification. The reform-judaism entry exists (data/schools/judaism/reform-judaism.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "wissenschaft-des-judentums",
+      "note": "The Haskalah's critical and scholarly spirit is treated in the scholarship as a precursor of the Wissenschaft des Judentums, the nineteenth-century scholarly study of Judaism. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Feiner, Shmuel. The Jewish Enlightenment. Translated by Chaya Naor. Jewish Culture and Contexts. Philadelphia: University of Pennsylvania Press, 2004. A history of the eighteenth-century Haskalah reading it as the Jewish version of the pan-European Enlightenment and as a foundational chapter in the modern transformation of Jewish life; cited as the load-bearing academic-historical and contemporary-Jewish-scholarly lens for the movement's origins, aims, adherents (the maskilim), and its relation to the surrounding tradition. Winner of the Koret Jewish Book Award; the author is Professor of Jewish History at Bar-Ilan University. Verified to exist and be on-topic (University of Pennsylvania Press record; American Historical Review review), not read line-by-line.",
+      "url": "https://www.pennpress.org/9780812221725/the-jewish-enlightenment/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sorkin, David. The Berlin Haskalah and German Religious Thought: Orphans of Knowledge. London and Portland, OR: Vallentine Mitchell / The Parkes-Wiener Series on Jewish Studies, 2000 (originating in the Sherman Lectures, University of Manchester). A study situating the Berlin Haskalah within the wider Central European religious and intellectual changes of the age, as a Jewish attempt to rearticulate belief in the light of the new science and philosophy; cited as an academic-historical lens on the movement's setting and character. The author is Professor of History at Yale. Verified to exist and be on-topic (University of Wisconsin faculty listing; Project MUSE review), not read line-by-line.",
+      "url": "https://history.wisc.edu/publications/the-berlin-haskalah-and-german-religious-thought/",
+      "license": "Proprietary; cited for reference (author / scholarly-review records).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ha-Me'assef (המאסף, 'The Gatherer'), the Hebrew journal of the Haskalah, founded in Königsberg in 1783 by younger followers of Moses Mendelssohn and published, with interruptions, into the early nineteenth century. Cited as a primary maskilic source and the literary organ of the movement, whose circle of writers were called the 'generation of the Me'assefim'. A digitized run of the original Hebrew journal is available on the Internet Archive. Confirmed to exist as a digitized original; cited as the movement's own organ, not read at the article level for a specific claim here.",
+      "url": "https://archive.org/details/haMeasef",
+      "license": "Hebrew original in the public domain (published from 1783); digitized on the Internet Archive.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

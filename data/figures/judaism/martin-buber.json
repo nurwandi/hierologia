@@ -1,0 +1,103 @@
+{
+  "id": "martin-buber",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Martin Buber",
+    "original": "מרטין בובר",
+    "transliteration": "Martin Buber",
+    "aliases": [
+      "Mordechai Martin Buber",
+      "Martin Mordecai Buber"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "philosopher of dialogue",
+    "scholar of Hasidism",
+    "biblical translator",
+    "cultural Zionist"
+  ],
+  "summary": "Martin Buber (1878-1965) was an Austrian-born Jewish philosopher of dialogue whose I and Thou (Ich und Du, 1923) drew the distinction between the I-Thou relation of mutual, present, whole encounter, understood as the ground of the encounter with the Eternal Thou, and the I-It relation of use and experience. He was also a scholar and reteller of Hasidic tales, a translator with Franz Rosenzweig of the Hebrew Bible into German, a cultural Zionist and religious socialist, and later a professor in Jerusalem.",
+  "description": "Martin Buber, born in Vienna in 1878 and raised in Lviv (Lemberg) in the household of his grandfather Solomon Buber, a scholar of rabbinic midrash, became one of the most widely read Jewish thinkers of the twentieth century. Paul Mendes-Flohr's biography treats his life across its arcs of faith and dissent: his early absorption in mysticism, his turn to a philosophy of dialogue and relation, his engagement with Hasidism, his labour with Franz Rosenzweig on a German rendering of the Hebrew Bible, his cultural Zionism, and his departure from Nazi Germany for Jerusalem, where he taught at the Hebrew University.\n\nHis best-known work, I and Thou (Ich und Du), published in German in 1923, sets out a distinction that organizes his mature thought. Buber contrasts two basic ways in which a person stands toward the world, which he names with the paired words I-Thou (Ich-Du) and I-It (Ich-Es). In the I-It relation a person experiences and uses things, holding them at a distance as objects of knowledge and utility. In the I-Thou relation a person enters into a mutual, present, and whole encounter with another, an address and response in which the other is met as a partner rather than handled as an object. Buber writes, in Walter Kaufmann's translation, that 'the basic word I-You can only be spoken with one's whole being' whereas 'the basic word I-It can never be spoken with one's whole being,' and that 'all actual life is encounter.' On his account these lines of relation, extended, meet in what he calls the Eternal Thou (das ewige Du): 'in each You we address the eternal You,' so that every particular I-Thou encounter is a glimpse toward the encounter with God, whom he holds cannot be made into an It. This is a philosophy of dialogue and relation, presented here as Buber's own attributed contribution.\n\nBuber was also a scholar and reteller of Hasidism who did much to bring the movement's tales and spirituality to a wide modern readership, in works such as The Legend of the Baal-Shem and Tales of the Hasidim. His interpretation was itself the subject of a well-known scholarly disagreement: Gershom Scholem, in a 1961 critique, argued that Buber read Hasidism through his own philosophy of dialogue and gave an existential and tendentious rendering that did not answer to the historical and textual record, while acknowledging that Buber had brought Hasidism to Western attention; this entry records the Buber-Scholem controversy as a scholarly dispute with both positions attributed, and does not adjudicate it. With Franz Rosenzweig, Buber undertook a German translation of the Hebrew Bible (Die Schrift), begun in the 1920s and completed by Buber alone in 1961, which sought to carry the spoken quality and structure of the biblical Hebrew into German rather than to render it idiomatically; the pair's essays on the work are collected in English as Scripture and Translation. Politically and communally he was a cultural (rather than political) Zionist and a religious socialist, positions that set him at odds with parts of the Zionist movement and that Mendes-Flohr's subtitle marks as his 'dissent.' He is presented here on Judaism's own terms, with the biographical and philosophical scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Buber on Judaism's own terms as a philosopher of dialogue, a scholar of Hasidism, and a biblical translator (neutrality #1, #4, #6). His retelling of Hasidism is stated factually, as his attributed contribution, and is not ranked against other traditions or against academic historiography; the Buber-Scholem controversy over how to read Hasidism is reported as a scholarly disagreement with both sides attributed (Scholem's critique and Buber's interpretive project) and is NOT adjudicated (neutrality #1-#2). The I-Thou / I-It distinction and the Eternal Thou are given as Buber's own philosophy, quoted from Kaufmann's translation, not asserted as doctrine. His cultural Zionism and religious socialism are stated as his attributed positions without endorsement.\n\nHONESTY / status: this entry is REVIEWED-ONLY. I and Thou and Buber's other major works are twentieth-century proprietary texts (the German Ich und Du of 1923 and its English translations by Ronald Gregor Smith, 1937, and Walter Kaufmann, 1970, are under copyright), so I could NOT read a licensed open primary line-by-line for the load-bearing passages. The primary text (I and Thou) is therefore cited as the primary corpus, verified to exist and be on-topic, and rated MEDIUM; the quoted lines ('the basic word I-You can only be spoken with one's whole being'; 'all actual life is encounter'; 'in each You we address the eternal You') are the standard Kaufmann renderings as reported across the scholarship and reference literature, and are flagged as not personally verified against a licensed copy. No high rating is claimed for any source. Sources triangulate three lenses per neutrality #8-9: (a) academic biographers and historians (Mendes-Flohr, Martin Buber: A Life of Faith and Dissent, Yale, 2019; Maurice Friedman's three-volume Martin Buber's Life and Work, Wayne State, 1988); (b) the primary corpus (Buber, I and Thou / Ich und Du; Buber and Rosenzweig, Scripture and Translation); (c) contemporary Jewish scholars of Buber (Steven Kepnes, The Text as Thou, Indiana, 1992) and the Buber-Scholem controversy documented via Scholem's 1961 Commentary critique. No encyclopedias (Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning, the Stanford Encyclopedia of Philosophy), no Wikipedia, no tertiary sources.\n\nRelation targets: franz-rosenzweig, hasidism, and neo-hasidism are dangling forward references. hasidism is a same-batch target (Buber's retelling and the Buber-Scholem controversy). tanakh exists (data/works/judaism/tanakh.json). gershom-scholem is a dangling forward reference carried by a contemporary_of / related_to edge for the Hasidism controversy.",
+  "lifespan": {
+    "birth": 1878,
+    "death": 1965,
+    "note": "1878-1965 CE. Born in Vienna, raised in Lviv (Lemberg) in the home of his grandfather Solomon Buber; active in Germany until his emigration in 1938, thereafter a professor at the Hebrew University of Jerusalem, where he died in 1965."
+  },
+  "relations": [
+    {
+      "type": "articulated",
+      "target": "i-and-thou",
+      "note": "Buber articulated the I-Thou / I-It distinction and the Eternal Thou in I and Thou (Ich und Du, 1923), the founding statement of his philosophy of dialogue. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "Buber was a scholar and reteller of Hasidic tales (The Legend of the Baal-Shem; Tales of the Hasidim) who brought Hasidism to a wide modern readership; his interpretation was contested by Scholem. Stated factually as his attributed contribution. Same-batch dangling forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "With Franz Rosenzweig, Buber produced a German translation of the Hebrew Bible (Die Schrift), completed by Buber alone in 1961. The tanakh entry exists (data/works/judaism/tanakh.json)."
+    },
+    {
+      "type": "contemporary_of",
+      "target": "franz-rosenzweig",
+      "note": "Buber and Rosenzweig were close collaborators on the German Bible translation and its accompanying essays (Scripture and Translation), and figures of the German-Jewish renaissance of the interwar period. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "gershom-scholem",
+      "note": "Scholem's 1961 critique ('Martin Buber's Hasidism') argued that Buber's rendering of Hasidism was existential and tendentious rather than historical; recorded as an attributed scholarly disagreement, not adjudicated. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Buber, Martin. I and Thou. Translated by Walter Kaufmann. New York: Charles Scribner's Sons, 1970 (German original: Ich und Du. Leipzig: Insel Verlag, 1923; earlier English translation by Ronald Gregor Smith, Edinburgh: T. & T. Clark, 1937). Cited as the primary corpus for the I-Thou / I-It distinction and the Eternal Thou, including the lines 'the basic word I-You can only be spoken with one's whole being,' 'all actual life is encounter,' and 'in each You we address the eternal You.' Verified to exist and be on-topic; the quoted lines are the standard Kaufmann renderings as reported across the scholarship and reference literature and were NOT read line-by-line against a licensed open copy (the 1923 German and its English translations are under copyright).",
+      "url": "https://www.penguinrandomhouse.com/books/38875/i-and-thou-by-martin-buber/",
+      "license": "Proprietary (translation and German original under copyright); cited for reference. Text not reproduced beyond short attributed quotation.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Mendes-Flohr, Paul. Martin Buber: A Life of Faith and Dissent. Jewish Lives. New Haven: Yale University Press, 2019. A scholarly biography by the editor of Buber's collected works, treating his life, his philosophy of dialogue, his engagement with Hasidism, his Bible translation with Rosenzweig, and his cultural Zionism; cited as the principal academic-biographical lens. Verified to exist and be on-topic (Yale University Press; reviews in AJS Review and H-Net), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300153040/martin-buber/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Friedman, Maurice S. Martin Buber's Life and Work. 3 vols. (The Early Years, 1878-1923; The Middle Years, 1923-1945; The Later Years, 1945-1965). Detroit: Wayne State University Press, 1988 (recipient of the National Jewish Book Award). The standard full-length critical biography by a leading authority on Buber; cited as a second academic-biographical lens on his life, the composition of I and Thou, and his later years in Jerusalem. Verified to exist and be on-topic (Wayne State University Press; SUNY Press contributor record), not read line-by-line.",
+      "url": "https://www.wsupress.wayne.edu/",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Buber, Martin, and Franz Rosenzweig. Scripture and Translation. Translated by Lawrence Rosenwald with Everett Fox. Indiana Studies in Biblical Literature. Bloomington: Indiana University Press, 1994 (German essays originally collected as Die Schrift und ihre Verdeutschung, Berlin: Schocken, 1936). Cited as the primary corpus for Buber and Rosenzweig's account of their German translation of the Hebrew Bible (Die Schrift), which sought to reproduce the spoken quality and structure of the biblical Hebrew. Verified to exist and be on-topic (Indiana University Press; WorldCat), not read line-by-line.",
+      "url": "https://iupress.org/9780253312723/scripture-and-translation/",
+      "license": "Proprietary translation of proprietary essays; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kepnes, Steven. The Text as Thou: Martin Buber's Dialogical Hermeneutics and Narrative Theology. Bloomington: Indiana University Press, 1992. A contemporary Jewish scholar's study of Buber's dialogical philosophy extended into hermeneutics and narrative theology; cited as the contemporary-scholarly lens on the I-Thou relation and its application. Verified to exist and be on-topic (Indiana University Press; AJS Review notice), not read line-by-line.",
+      "url": "https://iupress.org/9780253331113/the-text-as-thou/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. 'Martin Buber's Hasidism: A Critique.' Commentary 32, no. 4 (October 1961): 305-316. Scholem's critique arguing that Buber's rendering of Hasidism was governed by his philosophy of dialogue and was existential and tendentious rather than historically and philologically grounded, while granting that Buber had brought Hasidism to Western attention; cited to document the Buber-Scholem controversy as an attributed scholarly disagreement, not adjudicated here. Verified to exist and be on-topic (Commentary archive), not read line-by-line.",
+      "url": "https://www.commentary.org/articles/gershom-scholem/martin-bubers-hasidism/",
+      "license": "Proprietary; cited for reference (journal archive).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "vilna-gaon",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Vilna Gaon",
+    "original": "אֵלִיָּהוּ בֶּן שְׁלֹמֹה זַלְמָן",
+    "transliteration": "Eliyahu ben Shelomoh Zalman",
+    "aliases": [
+      "Elijah ben Solomon Zalman",
+      "The Gra (הגר\"א, acronym of ha-Gaon Rabbenu Eliyahu)",
+      "Gaon of Vilna",
+      "Elijah of Vilna",
+      "Der Vilner Goen"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "Talmudist",
+    "halakhist",
+    "biblical and Mishnaic commentator",
+    "kabbalist"
+  ],
+  "summary": "The Vilna Gaon (Elijah ben Solomon Zalman, the Gra, 1720-1797) was the towering Lithuanian Talmudist and halakhist of the eighteenth century, a master of the whole rabbinic corpus who also engaged the Hebrew grammar and the mathematical sciences and who championed a rigorous textual and analytical method of Torah study. He was the intellectual leader of the Mitnagdim (the 'opponents'), and, with the Vilna community, he was associated with the bans (herem) issued against the rising Hasidic movement from 1772.",
+  "description": "Elijah ben Solomon Zalman, known in the Jewish tradition as the Vilna Gaon or the Gra (an acronym of ha-Gaon Rabbenu Eliyahu, 'our teacher the Gaon Elijah'), lived nearly his whole life in and around Vilna (Vilnius) in the Lithuanian lands of the Polish-Lithuanian Commonwealth and is generally regarded in the scholarship as the preeminent Talmudic authority of eighteenth-century Lithuania. He held no formal communal office and headed no yeshiva in his lifetime, studying largely in seclusion, yet his learning and his method reshaped the Lithuanian Torah tradition. He was famed for a command of the entire rabbinic corpus, the Bible, the Mishnah, the two Talmuds, the midrashic and halakhic literature, and Kabbalah, and, unusually for a rabbinic figure of his setting, for an interest in the ancillary sciences (mathematics, astronomy, and Hebrew grammar) as aids to the understanding of the sacred texts. Immanuel Etkes's study distinguishes the historical figure from the several public images of the Gaon that formed and spread from the early nineteenth century onward, and Eliyahu Stern's account reads him as a figure who, far from being merely a defender of the past, contributed to the shaping of a distinctively modern Jewish intellectual world.\n\nThe Gaon's scholarly method placed weight on the precise establishment and analysis of the received text. He composed glosses and commentaries across the tradition, among them his annotations (Bi'urei ha-Gra, the Be'ur ha-Gra) on the Shulchan Arukh, the standard code of Jewish law, where in a characteristically terse style he traces each ruling back to its sources in the Talmud and the earlier authorities. His comment at the very opening of the Shulchan Arukh (Orach Chayim 1:1), on the codifier's exhortation to 'strengthen oneself like a lion to rise' in the service of God, is typical of the manner: it anchors the ruling by citing Pirkei Avot, the Midrash Rabbah on Balak, and the Jerusalem Talmud tractate Berakhot, rather than by extended discursive comment. He also worked to establish accurate readings and emendations of rabbinic texts, an editorial and text-critical concern that the scholarship treats as a hallmark of his approach.\n\nThe Gaon was the acknowledged intellectual leader of the Mitnagdim (Hebrew mitnaggedim, 'opponents'), the Lithuanian rabbinic circles who opposed the new Hasidic movement then spreading from the south. When the organized opposition was launched from Vilna during the festival of Passover in 1772, and in renewed measures thereafter, bans of excommunication (herem) were proclaimed against the Hasidim by the rabbinic and lay leadership of the community, in which the Gaon's authority was central; the opponents' stated concerns, as reconstructed in the scholarship, included the Hasidic devotional style, the standing of Torah study and of the established scholars, and the fear of a recurrence of the earlier Sabbatean movement. The Hasidic side, for its part, understood its path as a legitimate renewal of Jewish piety and devotion. This entry records the conflict as a historical dispute between the Mitnagdim and the Hasidim, with the arguments of each side attributed to it, and it does not adjudicate which party was in the right. Through his foremost disciple, Chaim of Volozhin, who founded the yeshiva of Volozhin in 1802 and set out a theology of Torah study in his Nefesh ha-Chayim, the Gaon's approach became formative for the Lithuanian yeshiva tradition and the analytical study of Talmud that grew from it. He is presented here on Judaism's own terms as Talmudist, halakhist, and communal authority, with the historical scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents the Vilna Gaon on Judaism's own terms as Talmudist, halakhist, commentator, and communal authority (neutrality #1, #4, #6). The crux is the Mitnagdim-Hasidim conflict and the bans (herem) of 1772 and after, handled exactly as a historical dispute: the Mitnagdic concerns (the Hasidic devotional style, the standing of Torah study and the scholars, the fear of renewed Sabbateanism) are attributed to the opponents as their reconstructed position, and the Hasidic self-understanding as legitimate devotional renewal is attributed to the Hasidic side; the editor does NOT adjudicate who was right (this mirrors how the hasidism entry, authored in the same batch, will treat the same conflict from the other side). His interest in the sciences and Hebrew grammar and his text-critical, source-tracing method are stated as features of his scholarship per the academic account (Etkes; Stern), without the editor ruling on the debated question of how 'modern' he was. Sources triangulate three lenses per neutrality #8-9: (a) academic historians (Etkes, The Gaon of Vilna: The Man and His Image; Stern, The Genius); (b) the primary text, open and auditable on Sefaria (the Be'ur ha-Gra on Shulchan Arukh, Orach Chayim 1:1, read at the passage level, with the opening gloss's source-references quoted); and (c) a contemporary Jewish scholar (Stern, and Etkes, both writing as Jewish historians of the tradition). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning, the YIVO Encyclopedia), no Wikipedia, no tertiary sources. Confidence: the Be'ur ha-Gra on Orach Chayim 1:1 on Sefaria is rated high because the opening gloss was read for this entry and its cited sources (Pirkei Avot, Midrash Rabbah on Balak, Yerushalmi Berakhot) verified against the Hebrew text; note honestly that this commentary is available on Sefaria in the Hebrew original only (no English translation) and is written in a terse source-reference style, so the reading is of the Hebrew gloss itself. The secondary monographs (Etkes, Stern) are medium, verified via publisher, review, and library records, not read line-by-line. Relation targets: rabbinic-judaism, talmud, and kabbalah exist; mitnagdim, hasidism, halakha, chaim-of-volozhin, and volozhin-yeshiva are dangling forward references to not-yet-created entities (hasidism exists in this batch, halakha is a near-batch target; mitnagdim, chaim-of-volozhin, and volozhin-yeshiva are noted as dangling).",
+  "lifespan": {
+    "birth": 1720,
+    "death": 1797,
+    "note": "1720-1797 CE; born in Sielec (near Brest) and active in Vilna (Vilnius) in the Lithuanian lands of the Polish-Lithuanian Commonwealth, where he died. He held no formal rabbinic office and studied largely in seclusion."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "rabbinic-judaism",
+      "note": "As the leading Talmudist and halakhist of eighteenth-century Lithuania, the Gaon stands squarely within the rabbinic tradition, building on the Talmud and the later codes. The rabbinic-judaism entry exists (data/schools/judaism/rabbinic-judaism.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The Gaon was a master of both Talmuds and devoted his method to the precise establishment and analysis of the talmudic text; his glosses trace rulings back to their talmudic sources. The talmud entry exists (data/works/judaism/talmud.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "His annotations on the Shulchan Arukh (the Be'ur ha-Gra) are a major work of halakha, tracing each ruling of the code to its sources in the Talmud and earlier authorities. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "The Gaon was learned in Kabbalah and wrote kabbalistic commentaries; his engagement is recorded as a feature of his learning, not expounded as doctrine. The kabbalah entry exists (data/schools/judaism/kabbalah.json)."
+    },
+    {
+      "type": "influenced",
+      "target": "mitnagdim",
+      "note": "The Gaon was the acknowledged intellectual leader of the Mitnagdim ('opponents'), the Lithuanian rabbinic circles that opposed the rise of Hasidism. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "The Gaon led the Mitnagdic opposition to the new Hasidic movement, and bans (herem) were proclaimed from Vilna against the Hasidim from 1772; this relation carries his attributed opposition (the figure schema has no 'opposed' type), reported as a historical dispute with both sides attributed and not adjudicated (see editorial notes). The hasidism entry exists (data/schools/judaism/hasidism.json)."
+    },
+    {
+      "type": "teacher_of",
+      "target": "chaim-of-volozhin",
+      "note": "Chaim of Volozhin was the Gaon's foremost disciple, who founded the yeshiva of Volozhin (1802) and, in his Nefesh ha-Chayim, set out a theology of Torah study that carried the Gaon's approach forward. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "influenced",
+      "target": "volozhin-yeshiva",
+      "note": "The Gaon's textual and analytical method, transmitted through Chaim of Volozhin, became formative for the Volozhin yeshiva (founded 1802) and the wider Lithuanian yeshiva tradition. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Be'ur ha-Gra (Bi'urei ha-Gra) on Shulchan Arukh, Orach Chayim 1:1, open Hebrew text on Sefaria. Cited as the primary text for the Vilna Gaon's terse, source-tracing method of commentary on the code: his gloss on the opening ruling to 'strengthen oneself like a lion' anchors it by citing Pirkei Avot (chapter 5, 'be strong as a lion'), the Midrash Rabbah on the portion Balak ('they rise like lions'), and the Jerusalem Talmud, tractate Berakhot, rather than by discursive comment. Read at the passage level and verified against the Hebrew text via the Sefaria API. This commentary is available on Sefaria in the Hebrew original only, with no English translation, and is written in a compressed reference style.",
+      "url": "https://www.sefaria.org/Beur_HaGra_on_Shulchan_Arukh,_Orach_Chayim.1.1",
+      "license": "Hebrew original in the public domain (first published Shklov, 1803). No English translation on Sefaria. The Orach Chayim 1:1 gloss read at the passage level.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Gaon of Vilna: The Man and His Image. Translated by Jeffrey M. Green. Berkeley and Los Angeles: University of California Press, 2002. A scholarly study distinguishing the historical figure of the Gaon from the several public images of him that formed and spread from the early nineteenth century onward, and treating his learning, his method, and his role in the opposition to Hasidism; cited as an academic-historical lens. Verified to exist and be on-topic (University of California Press record; H-Net and American Historical Review reviews), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/the-gaon-of-vilna/paper",
+      "license": "Proprietary; cited for reference (publisher / scholarly-review records).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Stern, Eliyahu. The Genius: Elijah of Vilna and the Making of Modern Judaism. New Haven: Yale University Press, 2013. A contemporary Jewish scholar's intellectual biography arguing that the Vilna Gaon, rather than being simply a traditionalist defender of the past, contributed to the making of a distinctively modern Jewish world; cited for his life, his method, and his place in Jewish intellectual history. Winner of the 2012 Heyman Prize and a 2014 Sami Rohr Prize finalist. Verified to exist and be on-topic (Yale University Press; Yale news and faculty records; American Historical Review review), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300205923/the-genius/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

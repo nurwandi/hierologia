@@ -1,0 +1,93 @@
+{
+  "id": "reform-judaism",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Reform Judaism",
+    "original": "יהדות רפורמית",
+    "transliteration": "Yahadut Reformit",
+    "aliases": [
+      "Liberal Judaism",
+      "Progressive Judaism",
+      "Reform movement",
+      "Reform Jews"
+    ]
+  },
+  "summary": "Reform Judaism (also called Liberal or Progressive Judaism) is a modern Jewish movement that arose in early-nineteenth-century Germany and flourished in the United States, and that sought to adapt Judaism to modern life by treating the tradition, and especially halakha, as historically developing and open to change. It emphasized ethical monotheism and the prophetic ideal, reformed the liturgy (vernacular prayer, the organ, shortened services), and in its classical American form (the Pittsburgh Platform of 1885) treated much ritual law as non-binding, while later platforms (the Columbus Platform of 1937 and after) recovered tradition, ceremony, and support for a Jewish homeland.",
+  "description": "Reform Judaism, known also as Liberal or Progressive Judaism, is the modern movement that set out to adapt Jewish belief and practice to the conditions of modern European and, later, American life. In the scholarship (Michael A. Meyer, Response to Modernity) it is dated from the early nineteenth century in the German lands: the layman Israel Jacobson introduced reforms to worship and, at the Hamburg Temple (from 1818), congregations adopted vernacular (German) prayers, choral singing, and the organ, and shortened and revised the traditional liturgy. In the following decades the movement acquired theological and scholarly leadership, above all in Abraham Geiger, and articulated its principles through a series of rabbinical conferences in Germany in the 1840s. A guiding idea, presented here as the movement's own, was that Judaism is not a fixed deposit but a historically developing tradition: its forms have changed across the ages and may be consciously changed again, so that ritual and ceremonial law in particular is understood as the product of particular historical circumstances rather than as an unalterable divine legislation. Alongside this the movement emphasized ethical monotheism and the moral teaching of the biblical prophets as the enduring core of Judaism.\n\nReform Judaism came to its most influential expression in the United States. Its classical American phase is marked by the Pittsburgh Platform of 1885, an eight-point 'Declaration of Principles' adopted by Reform rabbis with Isaac Mayer Wise presiding and drafted under Kaufmann Kohler. The Platform states the movement's self-understanding in plain terms: 'We recognize in Judaism a progressive religion, ever striving to be in accord with the postulates of reason'; it holds 'that all such Mosaic and rabbinical laws as regulate diet, priestly purity, and dress originated in ages and under the influence of ideas entirely foreign to our present mental and spiritual state', and accepts 'as binding only its moral laws', maintaining 'only such ceremonies as elevate and sanctify our lives'; and it declares, 'We consider ourselves no longer a nation, but a religious community, and therefore expect neither a return to Palestine ... nor the restoration of any of the laws concerning the Jewish state.' This classical Reform thus set the binding force of much ritual law aside while affirming the ethical commandments and understanding the Jews as a religious community rather than a nation.\n\nThe movement's later development revised these positions. The Columbus Platform of 1937 ('The Guiding Principles of Reform Judaism') recovered a warmer relation to tradition and to Jewish peoplehood: it affirms that 'the Torah, both written and oral, enshrines Israel's ever-growing consciousness of God', that 'revelation is a continuous process', that Judaism as a way of life requires 'the preservation of the Sabbath, festivals and Holy Days' and 'the retention and development of such customs, symbols and ceremonies as possess inspirational value', and, reversing the anti-Zionism of 1885, it affirms 'the obligation of all Jewry to aid in [Palestine's] upbuilding as a Jewish homeland'. Later statements of principle continued this recovery of tradition, observance, and Zionism. Contemporary Jewish scholarship (Dana Evan Kaplan) traces this arc from classical Reform to the more tradition-affirming and pluralist movement of the later twentieth century and after.\n\nReform Judaism understands itself as one modern movement within Judaism, alongside Orthodox and Conservative (Masorti) Judaism, and it differs from them chiefly on the authority and mutability of halakha: where Orthodox Judaism holds the halakhic system to be divinely binding and not subject to abrogation, and Conservative Judaism holds halakha to be binding while historically developing through its own legal processes, Reform Judaism holds that the individual and the community may adapt or set aside ritual law in the light of conscience, reason, and ethical purpose. These differing positions are recorded here as the attributed self-understandings of each movement. This entry describes Reform Judaism on its own terms and does not rule on which movement's account of Judaism is the correct or authentic one.",
+  "editorial_notes": "This entry presents Reform Judaism on its own terms (neutrality #1, #4, #6, #7) and states the differences from Orthodox and Conservative Judaism as the attributed positions of each movement, without ruling which movement's account of Judaism is authentic or correct (neutrality #1-#2, the crux of an intra-Jewish dispute). The characterization of halakha's status across the movements is kept consistent with the halakha entry, which already records the three movements' differing positions as attributed and un-adjudicated. Sources triangulate three lenses per neutrality #8-9: (a) an academic historian of the movement (Michael A. Meyer, Response to Modernity: A History of the Reform Movement in Judaism); (b) the movement's own open primary platform documents, the Pittsburgh Platform of 1885 and the Columbus Platform of 1937, read on the Central Conference of American Rabbis (CCAR) site, which hosts them as the Reform movement's official texts, with load-bearing lines quoted verbatim; and (c) a contemporary Jewish scholar of the movement (Dana Evan Kaplan, American Reform Judaism). No encyclopedias (Encyclopaedia Judaica, Jewish Encyclopedia, My Jewish Learning, Jewish Virtual Library), no Wikipedia, no tertiary sources. Confidence: the Pittsburgh Platform and Columbus Platform on the CCAR site are rated high because they were read and the quoted lines verified against the official text (verified-eligible open primaries); Meyer and Kaplan are medium (author, title, publisher, and year confirmed via publisher and library records, not read line-by-line). Category: this is a modern movement / denomination within Judaism. Relation targets: halakha, rabbinic-judaism, haskalah, orthodox-judaism, and conservative-judaism exist in the dataset, and moses-mendelssohn is authored in the same batch; abraham-geiger is a dangling forward reference to a not-yet-created entity, noted as such.",
+  "period": {
+    "founded": 1810,
+    "note": "Conventionally dated from the early nineteenth century in the German lands (Israel Jacobson's reforms and the Hamburg Temple from 1818), with 1810 taken as an approximate marker for Jacobson's early reforming worship; theologically shaped by Abraham Geiger and the German rabbinical conferences of the 1840s, and given classical American form in the Pittsburgh Platform of 1885 and revised in the Columbus Platform of 1937 and later statements. Reform (Liberal, Progressive) Judaism remains active as one of the major streams of modern Judaism, so no end date is given; the 1810 marker is approximate and the movement's precise starting point is a matter of scholarly convention."
+  },
+  "relations": [
+    {
+      "type": "key_figure",
+      "target": "abraham-geiger",
+      "note": "Abraham Geiger (1810-1874) is generally regarded in the scholarship as the leading theological and scholarly voice of nineteenth-century German Reform, giving the movement its principle that Judaism is a historically developing tradition. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "influenced_by",
+      "target": "haskalah",
+      "note": "The Reform movement is widely traced in part to the intellectual world of the Haskalah (the Jewish Enlightenment) and its project of adapting Jewish life to modern European culture, though the two are distinct. The haskalah entry exists."
+    },
+    {
+      "type": "influenced_by",
+      "target": "moses-mendelssohn",
+      "note": "Mendelssohn is commonly placed in the intellectual background of the movement as a founding figure of the Haskalah whose engagement with Enlightenment reason preceded it; the connection is one of intellectual background, and Mendelssohn himself remained an observant Jew and did not found Reform. The moses-mendelssohn entry is authored in the same batch."
+    },
+    {
+      "type": "holds",
+      "target": "halakha",
+      "note": "Reform Judaism holds, in its own self-understanding, that halakha is historically developing and that ritual and ceremonial law in particular may be adapted or set aside in the light of conscience, reason, and ethical purpose, while affirming the binding force of the ethical commandments; stated as the movement's attributed position. The halakha entry, which records the three movements' differing positions on halakhic authority as attributed and un-adjudicated, exists."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Reform Judaism is one of the modern streams that developed out of the rabbinic tradition, reinterpreting its relation to halakha and the twofold Torah; it is presented as a modern movement within Judaism, not as a break with Jewish identity. The rabbinic-judaism entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "orthodox-judaism",
+      "note": "Reform and Orthodox Judaism differ on the authority and mutability of halakha: Orthodox Judaism holds the halakhic system to be divinely binding and not subject to abrogation, Reform holds ritual law to be adaptable. Stated as attributed positions of each movement, without ruling which is authentic (neutrality #2). The orthodox-judaism entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "conservative-judaism",
+      "note": "Reform and Conservative (Masorti) Judaism differ on halakha: Conservative Judaism holds halakha to be binding while historically developing through its own legal processes, Reform holds ritual law to be adaptable by conscience and reason. Stated as attributed positions of each movement, without ruling which is authentic (neutrality #2). The conservative-judaism entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Central Conference of American Rabbis, 'Declaration of Principles' (the Pittsburgh Platform), adopted at the Pittsburgh conference of Reform rabbis, November 1885 (Isaac Mayer Wise presiding; drafted under Kaufmann Kohler). Official text hosted by the CCAR, the Reform movement's own rabbinical body. Read for this entry, with load-bearing lines quoted verbatim: 'We recognize in Judaism a progressive religion, ever striving to be in accord with the postulates of reason'; the treatment of Mosaic and rabbinical laws of diet, purity, and dress as no longer binding and the acceptance 'as binding only its moral laws'; and 'We consider ourselves no longer a nation, but a religious community.' Cited as the movement's open primary document, not as a reference work.",
+      "url": "https://www.ccarnet.org/rabbinic-voice/platforms/article-declaration-principles/",
+      "license": "Public/open document of the Reform movement (1885), published by the Central Conference of American Rabbis. Read and the quoted lines verified against the official text.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Central Conference of American Rabbis, 'The Guiding Principles of Reform Judaism' (the Columbus Platform), adopted 1937. Official text hosted by the CCAR. Read for this entry, with load-bearing lines quoted verbatim: 'The Torah, both written and oral, enshrines Israel's ever-growing consciousness of God'; 'Revelation is a continuous process'; the affirmation of the Sabbath, festivals, and 'such customs, symbols and ceremonies as possess inspirational value'; and 'We affirm the obligation of all Jewry to aid in its upbuilding as a Jewish homeland.' Cited as the movement's open primary document showing the later recovery of tradition and Zionism.",
+      "url": "https://www.ccarnet.org/rabbinic-voice/platforms/article-guiding-principles-reform-judaism/",
+      "license": "Public/open document of the Reform movement (1937), published by the Central Conference of American Rabbis. Read and the quoted lines verified against the official text.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Meyer, Michael A. Response to Modernity: A History of the Reform Movement in Judaism. Studies in Jewish History. New York: Oxford University Press, 1988 (reprinted Detroit: Wayne State University Press, 1995). The standard scholarly history of the movement, tracing its configuration and self-understanding from the late-eighteenth-century beginnings of modernization through the German origins (Jacobson, the Hamburg Temple, Geiger, the rabbinical conferences), the American development, and the twentieth-century renewal; cited for the movement's origins, principles, and historical arc. Verified to exist and be on-topic (Oxford University Press / Wayne State University Press record; reviewed in AJS Review and the American Historical Review), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/response-to-modernity-9780195051674",
+      "license": "Proprietary; cited for reference (publisher/library record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kaplan, Dana Evan. American Reform Judaism: An Introduction. New Brunswick, NJ: Rutgers University Press, 2003 (ISBN 0-8135-3218-3). A contemporary Jewish scholar's study of the Reform movement in America, its theology, practice, and internal debates, and its movement from classical Reform toward a more tradition-affirming and pluralist stance in the later twentieth century; cited as the contemporary scholarly lens on the movement's self-understanding and development. Verified to exist and be on-topic (Rutgers University Press record and Project MUSE; author is a Reform rabbi and historian of American Judaism), not read line-by-line.",
+      "url": "https://muse.jhu.edu/pub/176/monograph/book/16102",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}
