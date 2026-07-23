@@ -18,12 +18,28 @@
   },
   "summary": "The Talmud is the central text of rabbinic Judaism after the Tanakh: the Mishnah together with the Gemara, the later rabbinic commentary, analysis, and debate upon it. It exists in two forms, the earlier Jerusalem (Palestinian) Talmud, redacted c. fourth-fifth century CE, and the larger Babylonian Talmud, redacted c. sixth-seventh century CE, which the tradition came to treat as the more authoritative.",
   "description": "The Talmud is the foundational body of rabbinic law, argument, and lore built upon the Mishnah, and after the Tanakh the central text of rabbinic Judaism. It consists of two layers: the Mishnah, the concise topical statement of law redacted around 200 CE, and the Gemara (from an Aramaic root meaning to study or complete), the far longer record of the discussion, analysis, objection, and debate that later generations of rabbis, the Amoraim, conducted upon the Mishnah in the academies. A typical passage takes a short mishnah as its base and unfolds around it a wide-ranging Aramaic-and-Hebrew discussion that clarifies terms, raises difficulties and resolves them, cites and reconciles other traditions, derives law from scripture, and moves freely between close legal reasoning (halakha) and narrative, ethical, and homiletical material (aggadah). The Talmud characteristically preserves the give-and-take of argument, and the disagreements of named sages, rather than reducing the law to a bare code.\n\nThere are two Talmuds, produced in the two great centres of rabbinic activity. The Jerusalem Talmud (Talmud Yerushalmi), also called the Palestinian Talmud, is the Gemara developed in the land of Israel and redacted there roughly in the fourth to fifth century CE; its text is comparatively terse and in places incomplete, and its editing is generally taken to have been cut short by the deteriorating conditions of Jewish life in Roman Palestine. The Babylonian Talmud (Talmud Bavli) is the Gemara developed in the rabbinic academies of Babylonia and redacted there roughly by the sixth to seventh century CE, with a subsequent anonymous editorial layer (associated in scholarship with the Stammaim) that gave the discussions much of their elaborated, dialectical form. The Bavli is by far the larger and more fully worked-out of the two. In the later tradition it came to be regarded as the more authoritative, and it became the principal object of Jewish legal study and the primary basis of the later codes; where the two Talmuds differ, the ruling of the Bavli is generally followed. This greater authority of the Bavli is a judgement of the halakhic tradition and is stated here as its attributed position.\n\nIn the scholarship on its formation, H. L. Strack and Gunter Stemberger set out the standard critical account of the two Talmuds, their structure, redactional layers, and dating, and Shaye J. D. Cohen situates the Talmuds within the development of rabbinic Judaism from the Mishnah onward. The Talmud is presented here on Judaism's own terms as the central text of rabbinic study and law, with the historical-critical account of its composition and the distinction and relative authority of the two Talmuds recorded as attributed scholarship and attributed tradition rather than adjudicated by the editor.",
-  "editorial_notes": "This entry describes the Talmud on Judaism's own terms (neutrality #1, #4, #6). Per the task and neutrality #2 it draws the Bavli/Yerushalmi distinction and records the Babylonian Talmud's greater authority as an attributed judgement of the halakhic tradition (the tradition follows the Bavli where the two differ) rather than as the editor's own ruling on which text is superior. The two datings (Yerushalmi c. 4th-5th c. CE; Bavli c. 6th-7th c. CE, with a later anonymous editorial layer) are given as approximate scholarly conventions for long redactional processes, so no single year is entered in the date field. The layered structure (Mishnah plus Gemara; halakha and aggadah; the Amoraim and the later Stammaitic editing) is from the standard scholarship. Sources triangulate three lenses per neutrality #8-9: academic historians of rabbinic literature (Strack and Stemberger; Cohen); the primary text itself (the Babylonian Talmud in the Steinsaltz / Koren edition); and, through Cohen and through Steinsaltz (a contemporary Jewish scholar and translator), the tradition's own voice. No encyclopedias (including the Encyclopaedia Judaica or the Jewish Encyclopedia), Wikipedia, or tertiary sources. Confidence is medium throughout: the Steinsaltz/Koren Talmud is a verified primary-text edition but was not read at the passage level for this entry, so it is rated medium rather than high; Cohen carries the same medium rating he holds across the judaism entries (second-temple-judaism.json, pharisees.json, rabbinic-judaism.json, mishnah.json). Relation targets mishnah (same batch), rabbinic-judaism, torah, and tanakh exist or are authored alongside this entry.",
+  "editorial_notes": "This entry describes the Talmud on Judaism's own terms (neutrality #1, #4, #6). Per the task and neutrality #2 it draws the Bavli/Yerushalmi distinction and records the Babylonian Talmud's greater authority as an attributed judgement of the halakhic tradition (the tradition follows the Bavli where the two differ) rather than as the editor's own ruling on which text is superior. The two datings (Yerushalmi c. 4th-5th c. CE; Bavli c. 6th-7th c. CE, with a later anonymous editorial layer) are given as approximate scholarly conventions for long redactional processes, so no single year is entered in the date field. The layered structure (Mishnah plus Gemara; halakha and aggadah; the Amoraim and the later Stammaitic editing) is from the standard scholarship. Sources triangulate three lenses per neutrality #8-9: academic historians of rabbinic literature (Strack and Stemberger; Cohen); the primary text itself (the Babylonian Talmud in the Steinsaltz / Koren edition); and, through Cohen and through Steinsaltz (a contemporary Jewish scholar and translator), the tradition's own voice. No encyclopedias (including the Encyclopaedia Judaica or the Jewish Encyclopedia), Wikipedia, or tertiary sources. Confidence: the open Sefaria Talmud text (the William Davidson edition; Bavli Berakhot 2a and Jerusalem Talmud Berakhot 1:1) has been read at the passage level and is rated high, carrying the load-bearing structural spine (Mishnah plus Gemara, the two Talmuds, the six-order organization, Hebrew/Aramaic, halakha interwoven with aggadah); the proprietary Steinsaltz/Koren edition (not read at the passage level here) and the secondary works stay medium, with Cohen carrying the same medium rating he holds across the judaism entries (second-temple-judaism.json, pharisees.json, rabbinic-judaism.json, mishnah.json). The redaction datings remain attributed scholarly conventions. Relation targets mishnah (same batch), rabbinic-judaism, torah, and tanakh exist or are authored alongside this entry.",
   "relations": [
-    { "type": "part_of", "target": "rabbinic-judaism", "note": "The Talmud is the central text of rabbinic Judaism after the Tanakh and the principal basis of its law and study; the tradition is sometimes called Talmudic Judaism for this reason." },
-    { "type": "related_to", "target": "mishnah", "note": "The Talmud is built on the Mishnah: each Talmud is the Mishnah together with the Gemara, the later rabbinic commentary and debate upon it. Authored in the same batch." },
-    { "type": "related_to", "target": "torah", "note": "The Talmud is, in the tradition's self-understanding, the elaboration of the Oral Torah upon the Written Torah; it derives, debates, and applies law in relation to the Torah and preserves the reasoning of the sages." },
-    { "type": "related_to", "target": "tanakh", "note": "The Gemara continually interprets and derives law from the scripture of the Tanakh, weaving close scriptural exegesis into its legal and narrative discussion." }
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "The Talmud is the central text of rabbinic Judaism after the Tanakh and the principal basis of its law and study; the tradition is sometimes called Talmudic Judaism for this reason."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "The Talmud is built on the Mishnah: each Talmud is the Mishnah together with the Gemara, the later rabbinic commentary and debate upon it. Authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The Talmud is, in the tradition's self-understanding, the elaboration of the Oral Torah upon the Written Torah; it derives, debates, and applies law in relation to the Torah and preserves the reasoning of the sages."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Gemara continually interprets and derives law from the scripture of the Tanakh, weaving close scriptural exegesis into its legal and narrative discussion."
+    }
   ],
   "sources": [
     {
@@ -46,10 +62,17 @@
       "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
       "accessed": "2026-07-19",
       "confidence": "medium"
+    },
+    {
+      "citation": "The Talmud, open Hebrew/Aramaic and English text on Sefaria (William Davidson digital edition of the Koren Noe Talmud). Cited as the openly-auditable primary text, read at the passage level: the opening of the Babylonian Talmud, Berakhot 2a, shows a Mishnah ('From when does one recite Shema in the evening? From the time when the priests enter to partake of their teruma... until the end of the first watch') explicitly labelled and immediately followed by its Gemara, confirming the Mishnah-plus-Gemara structure, the Hebrew-and-Aramaic language, and the interweaving of halakha with aggadah (the anecdote of Rabban Gamliel's sons); the Jerusalem Talmud, Berakhot 1:1, exists on Sefaria as the separate, earlier Palestinian recension, confirming the two Talmuds; and the Bavli is laid out across the Mishnah's six orders (Shas). Redaction dates (Yerushalmi c. 400, Bavli c. 500-600 CE) are scholarly conventions, not stated by the text itself.",
+      "url": "https://www.sefaria.org/Berakhot.2a",
+      "license": "William Davidson Talmud, CC-BY-NC 4.0 (English translation); underlying Hebrew/Aramaic in the public domain. Openly auditable; read at the passage level.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-07-23"
 }
