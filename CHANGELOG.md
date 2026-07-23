@@ -6,6 +6,35 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-07-23
+
+The four forward references the dataset had left open are now authored, and each rests on an
+open primary read line-by-line, so all four enter directly as `verified`.
+
+### Added
+- **`council-of-florence`** (event): the Ferrara-Florence council (1438-1445) and its union
+  decree Laetentur Caeli, defining the Filioque, purgatory, papal primacy, and the Eucharistic
+  bread; the Eastern rejection of the union recorded as historical fact, the disputes not
+  adjudicated.
+- **`transubstantiation`** (concept): the Catholic doctrine (Lateran IV 1215, Aquinas, Trent
+  1551), with the Lutheran, Reformed, and Eastern Orthodox accounts attributed as alternatives.
+- **`montanism`** (school): the second-century New Prophecy, presented through the hostile
+  heresiologists (Eusebius, attributed) balanced by Tertullian's sympathetic testimony.
+- **`plotinus`** (figure, philosophy): the founder of Neoplatonism and the Enneads, on his own
+  terms, his Christian, Islamic, and Jewish receptions attributed.
+
+### Changed
+- All four new entities enter as `verified` (their load-bearing open primaries, the Florence and
+  Trent decrees, Aquinas's Summa, Eusebius, and the MacKenna Enneads, were read line-by-line and
+  independently confirmed). The verified tier is now 47.
+
+### Notes
+- The dataset is now 199 entities: 115 Islamic, 68 Christian, 11 Jewish, and 5 philosophy, 152
+  `reviewed` and 47 `verified`. The four targeted dangling references are closed; authoring
+  opened eight smaller new ones (filioque, papal-primacy, great-schism, eucharist, real-presence,
+  montanus, ammonius-saccas, porphyry), so dangling goes 4 -> 8.
+- MINOR release: it adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.10.4] - 2026-07-23
 
 ### Changed
