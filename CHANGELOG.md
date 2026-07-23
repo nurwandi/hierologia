@@ -6,6 +6,25 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.10.4] - 2026-07-23
+
+### Changed
+- Promoted two entries `reviewed` -> `verified` after their load-bearing open primary sources
+  were read line-by-line: `gnosticism` (Irenaeus, Against Heresies I.1-I.5, as an attributed
+  hostile report, cross-checked against the open Nag Hammadi primaries, the Apocryphon of John
+  and the Gospel of Truth) and `talmud` (the open Sefaria text: Bavli Berakhot 2a showing a
+  Mishnah followed by its Gemara, and the Jerusalem Talmud, confirming the two Talmuds and the
+  six-order structure). The verified tier is now 43.
+- Sourcing improvements: raised the Irenaeus Against Heresies source to `high` in `gnosticism`
+  and broadened its cited chapters to I.1-I.5; added the open Sefaria Talmud text at `high` to
+  `talmud`, giving it its first openly-auditable primary source.
+
+### Notes
+- PATCH: status and sourcing fixes, no new entities and no schema change. Still 195 entities;
+  152 `reviewed` + 43 `verified`. `schema_version` unchanged. This closes the readily
+  open-primary-verifiable pool; the remaining `reviewed` entries rest on classical/paywalled
+  scholarship or are broad topics no single passage carries.
+
 ## [0.10.3] - 2026-07-22
 
 ### Changed
