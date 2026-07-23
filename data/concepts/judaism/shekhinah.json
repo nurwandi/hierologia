@@ -1,0 +1,130 @@
+{
+  "id": "shekhinah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shekhinah",
+    "original": "שְׁכִינָה",
+    "transliteration": "shekhinah (also shekhina, shechinah)",
+    "aliases": [
+      "the Divine Presence",
+      "the Indwelling",
+      "the Presence of God",
+      "Shechinah",
+      "Malchut (as the tenth sefirah in Kabbalah)"
+    ]
+  },
+  "category": "the divine",
+  "summary": "The Shekhinah (from the Hebrew root sh-k-n, 'to dwell', hence 'dwelling' or 'indwelling') is the divine presence of God as it rests and dwells in the world: in the Sanctuary and the Temple, among the people of Israel, and where people gather to study Torah or pray. In rabbinic literature the Shekhinah names God's immanent presence, understood as accompanying Israel even into exile; in Kabbalah the Shekhinah becomes the tenth and lowest sefirah (Malchut), the receptive and, in the kabbalistic reading, feminine aspect of the divine, whose exile from and reunification with the transcendent Godhead is a central mystical theme.",
+  "description": "The Shekhinah is the term the Jewish tradition uses for the indwelling presence of God, the aspect of God that dwells with creation. The word derives from the Hebrew verb shakhan, 'to dwell', and is connected to the biblical mishkan, the Tabernacle or 'dwelling place', where God's presence was said to rest among Israel; the noun shekhinah itself is a coinage of the rabbinic period rather than a biblical word, used to speak of God's nearness without compromising God's transcendence. This entry presents two senses that the tradition and the scholarship distinguish: the rabbinic sense of the Shekhinah as God's immanent presence, and the kabbalistic sense of the Shekhinah as a distinct grade within the structure of the Godhead.\n\nIn the rabbinic literature, the Talmud and the midrash, the Shekhinah is God's presence as it comes to rest (the verb used is shoreh, 'rests', 'abides') upon people and places. The Mishnah in tractate Avot teaches that when people occupy themselves with Torah the Shekhinah rests among them: 'if two sit together and there are words of Torah between them, the Shekhinah abides among them' (Pirkei Avot 3:2), and 'when ten sit together and occupy themselves with Torah, the Shekhinah abides among them' (Pirkei Avot 3:6), the passage scaling down to even a single person who studies alone. A recurring rabbinic theme is that the Shekhinah went with Israel into exile: the Babylonian Talmud, tractate Megillah, states, 'Come and see how beloved the Jewish people are before the Holy One, blessed be He: in every place they were exiled, the Divine Presence went with them' (Megillah 29a), and that in the future redemption God will return with them. In these sources the Shekhinah is God's own presence, immanent and near, resting upon the righteous, upon the community at prayer and study, and accompanying the people in their suffering.\n\nIn Kabbalah, the medieval and later Jewish mystical tradition, the Shekhinah is identified with the tenth and last of the sefirot, the ten graded manifestations through which the hidden and infinite God (Ein Sof) becomes manifest; this tenth sefirah is called Malchut ('kingship') and Shekhinah, and, as Arthur Green describes the sefirotic system, it is the sefirah into which the flow of all the upper sefirot gathers and from which it passes to the lower worlds. In this reading the Shekhinah is the immanent, receptive pole of the divine, and the kabbalists depict it in strongly gendered terms as the feminine element within the Godhead, the bride, mother, and daughter, whose union (yichud) with the masculine sefirah Tiferet, and whose exile from that union in a broken world, becomes a central drama of Kabbalah, above all in the Zohar. Gershom Scholem argued that the introduction of the Shekhinah as a feminine element within the divine, alongside a masculine element, was a decisive and much-debated innovation of the kabbalists; Arthur Green has situated the emergence of this feminine Shekhinah symbol in the twelfth and thirteenth centuries and read it in relation to the surrounding devotion to the Virgin Mary and the imagery of the Song of Songs; and Elliot Wolfson has argued that the apparent feminization is more complex than it first appears and must be read within the kabbalists' own gender symbolism rather than mapped onto modern categories. The feminine and gendered dimension of the Shekhinah is reported here as the tradition and this scholarship read it, attributed to them, and not asserted as a flat fact; the rabbinic sense (God's immanent presence) and the kabbalistic sense (the tenth sefirah, Malchut) are kept distinct.",
+  "editorial_notes": "This entry presents the Shekhinah on Judaism's own terms as the indwelling divine presence, and deliberately DISTINGUISHES two senses per neutrality #1-#2: (1) the rabbinic sense, the Shekhinah as God's immanent presence that 'rests' (shoreh) on people and places and accompanies Israel into exile; and (2) the kabbalistic sense, the Shekhinah as the tenth sefirah Malchut, the receptive and (in the kabbalistic reading) feminine grade within the Godhead. The FEMININE / GENDERED dimension is the neutrality crux: it is attributed to the tradition (the kabbalists' own symbolism) and to the scholarship (Scholem, Green, Wolfson), reported as their reading, and NOT asserted flatly by the editor; Wolfson's caution that the 'feminization' is more complex than modern categories suggest is included so the scholarly debate is not flattened (neutrality #2). Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic historians of Jewish mysticism (Gershom Scholem, Major Trends in Jewish Mysticism and On the Mystical Shape of the Godhead; Arthur Green, AJS Review 2002; Elliot Wolfson, Circle in the Square); (b) the primary rabbinic texts, open and auditable on Sefaria, READ line-by-line and quoted verbatim (Pirkei Avot 3:2 and 3:6 on the Shekhinah resting among those who study Torah, and Babylonian Talmud Megillah 29a on the Shekhinah accompanying Israel into exile); (c) a contemporary Jewish scholar (Arthur Green, A Guide to the Zohar, Stanford 2004, and Moshe Idel, Kabbalah: New Perspectives). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the three Sefaria passages (Pirkei Avot 3:2, Pirkei Avot 3:6, Megillah 29a) were read line-by-line via the Sefaria text API and quoted verbatim, so those primary sources carry high confidence; Scholem, Green, Wolfson, and Idel are medium, verified to exist and be on-topic via publisher, JSTOR, and library records but not read line-by-line. Relation targets: talmud and tanakh exist (data/works/judaism); sefirot, kabbalah, zohar, ein-sof, tikkun are same-batch targets (Malchut, the tenth sefirah, IS the Shekhinah); mishkan/temple and mikdash are dangling forward references to not-yet-created entities.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "sefirot",
+      "note": "In Kabbalah the Shekhinah is identified with Malchut ('kingship'), the tenth and lowest of the sefirot, the receptive grade into which the flow of the upper sefirot gathers and through which it passes to the lower worlds (Green, A Guide to the Zohar). Reported as the kabbalistic reading. The sefirot entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "The identification of the Shekhinah as the tenth sefirah and as the feminine, receptive element within the Godhead is a central theme of Kabbalah, and its exile and reunification (yichud) with the transcendent Godhead a central mystical drama; attributed to the kabbalists and to the scholarship (Scholem, Green, Wolfson), not asserted flatly. The kabbalah entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "The Zohar, the central work of Kabbalah, develops the symbolism of the Shekhinah as the divine bride and as the feminine pole of the Godhead whose union with the masculine sefirot it dramatizes; reported as the text's own symbolism. The zohar entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "In the kabbalistic system the Shekhinah (Malchut) is the last and most immanent of the sefirot through which the hidden infinite God, Ein Sof, becomes manifest and reaches the lower worlds; the Shekhinah is the immanent pole answering to Ein Sof's transcendence. The ein-sof entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "tikkun",
+      "note": "In later (especially Lurianic) Kabbalah the reunification of the exiled Shekhinah with the transcendent Godhead is bound up with tikkun, the cosmic repair the mystic's deeds are held to effect; reported as the kabbalistic reading. The tikkun entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The rabbinic sense of the Shekhinah as God's immanent presence resting on those who study Torah and accompanying Israel into exile rests on talmudic and mishnaic sources (Pirkei Avot 3:2, 3:6; Babylonian Talmud Megillah 29a). The talmud entry exists (data/works/judaism/talmud.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "Though the noun shekhinah is a rabbinic coinage rather than a biblical word, it draws on the biblical language of God 'dwelling' (shakhan) among Israel in the mishkan (the Tabernacle) and the Temple. The tanakh entry exists (data/works/judaism/tanakh.json)."
+    }
+  ],
+  "historical_period": {
+    "start": 200,
+    "note": "No single year applies. The noun shekhinah is a coinage of the rabbinic period (the Mishnah and Talmud, roughly the second to sixth centuries CE), built on the biblical language of God 'dwelling' among Israel; the kabbalistic identification of the Shekhinah with the tenth sefirah (Malchut) and its development as the feminine element of the Godhead belongs to the twelfth and thirteenth centuries and after (the Bahir, the Girona kabbalists, and the Zohar). The 'start' marks the rabbinic emergence; the note qualifies the later kabbalistic development."
+  },
+  "sources": [
+    {
+      "citation": "Pirkei Avot 3:2, open Hebrew and English text on Sefaria. Cited as a primary rabbinic text for the Shekhinah resting among those who study Torah: 'if two sit together and there are words of Torah between them, the Shekhinah abides among them' (Hebrew: shenayim she-yoshvin ve-yesh beineihem divrei Torah, shekhinah shruyah beineihem), with the scriptural proof from Malachi 3:16. Read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Pirkei_Avot.3.2",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Pirkei Avot 3:2 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Pirkei Avot 3:6, open Hebrew and English text on Sefaria. Cited as a primary rabbinic text for the Shekhinah resting among those who occupy themselves with Torah: Rabbi Halafta of Kefar Hanania taught that 'when ten sit together and occupy themselves with Torah, the Shekhinah abides among them' (Hebrew: asarah she-yoshvin ve-oskin ba-Torah, shekhinah shruyah beineihem), with the proof from Psalm 82:1, the passage scaling down to even one who studies alone. Read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Pirkei_Avot.3.6",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Pirkei Avot 3:6 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Megillah 29a, open Hebrew/Aramaic and English text on Sefaria. Cited as a primary rabbinic text for the Shekhinah accompanying Israel into exile: 'Come and see how beloved the Jewish people are before the Holy One, blessed be He: in every place they were exiled, the Divine Presence [Shekhinah] went with them', with the statement that in the future redemption God will return with them from among the exiles. Read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Megillah.29a",
+      "license": "Aramaic/Hebrew original in the public domain; Sefaria's English translation (William Davidson Talmud) under a Creative Commons license. Megillah 29a read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (repr. 1946, 1954, 1995). The foundational modern academic study of Jewish mysticism; cited for the historical development of the Shekhinah in Kabbalah and its place in the sefirotic structure, and as the primary academic lens. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive), not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah. Translated by Joachim Neugroschel, edited by Jonathan Chipman. New York: Schocken Books, 1991. Contains Scholem's essay on the Shekhinah as the feminine element of the Godhead (mother, bride, and daughter) and its kabbalistic development; cited for the account of the Shekhinah's feminine and gendered symbolism as an attributed scholarly reading, and as the academic lens. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive), not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162203/on-the-mystical-shape-of-the-godhead-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Green, Arthur. 'Shekhinah, the Virgin Mary, and the Song of Songs: Reflections on a Kabbalistic Symbol in Its Historical Context.' AJS Review 26, no. 1 (April 2002): 1-52. A contemporary Jewish scholar's study situating the emergence of the feminine Shekhinah symbol in twelfth- and thirteenth-century Kabbalah in relation to the surrounding Marian devotion and Song of Songs imagery; cited for the historical emergence and the gendered reading of the Shekhinah, attributed as scholarship, and as both the academic and contemporary-Jewish-scholarship lens. Verified to exist and be on-topic (AJS Review vol. 26, no. 1, pp. 1-52; JSTOR 4131555; Brandeis ScholarWorks), not read line-by-line.",
+      "url": "https://www.jstor.org/stable/4131555",
+      "license": "Proprietary scholarly article; cited for reference (JSTOR record).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wolfson, Elliot R. Circle in the Square: Studies in the Use of Gender in Kabbalistic Symbolism. Albany: State University of New York Press, 1995. A study of gender imagery in medieval kabbalistic sources; cited for the argument that the apparent feminization of the Shekhinah is more complex than it first appears and must be read within the kabbalists' own gender symbolism rather than mapped onto modern categories, included so the scholarly debate is not flattened. Verified to exist and be on-topic (SUNY Press record; De Gruyter), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/C/Circle-in-the-Square2",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Green, Arthur. A Guide to the Zohar. Stanford: Stanford University Press, 2004. A contemporary Jewish scholar's introduction to the Zohar and the sefirotic system; cited for the identification of the tenth sefirah, Malchut or Shekhinah, as the grade into which the flow of the upper sefirot gathers and from which it passes to the lower worlds, and as the contemporary-Jewish-scholarship lens on the kabbalistic Shekhinah. Verified to exist and be on-topic (Stanford University Press record, ISBN 9780804749084; Internet Archive), not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=3153",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988. A historical and phenomenological study of Kabbalah distinguishing its theosophical-theurgical and ecstatic streams; cited as an academic lens on the sefirotic structure within which the Shekhinah (Malchut) stands. Verified to exist and be on-topic (Yale University Press record, ISBN 9780300046991), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300046991/kabbalah/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

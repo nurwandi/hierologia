@@ -1,0 +1,92 @@
+{
+  "id": "tikkun",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Tikkun",
+    "original": "תִּקּוּן",
+    "transliteration": "tikkun",
+    "aliases": [
+      "repair",
+      "rectification",
+      "mending",
+      "restoration",
+      "tikkun olam (repair of the world)",
+      "tiqqun"
+    ]
+  },
+  "category": "eschatology",
+  "summary": "Tikkun (Hebrew 'repair', 'rectification', or 'mending') is, in the Kabbalah of Isaac Luria, the restoration of the divine order after the shevirat ha-kelim, the 'breaking of the vessels' that could not contain the divine light and shattered, scattering sparks of holiness (nitzotzot) into the lower world. Tikkun is the task, assigned above all to human beings through the commandments (mitzvot), prayer, and mystical intention (kavvanah), of gathering and raising the fallen sparks and so mending the cosmos and hastening redemption. The phrase tikkun olam ('repair of the world') is used for this cosmic mending, and, in a distinct and much later usage, for a modern ethic of social repair.",
+  "description": "In Lurianic Kabbalah tikkun is the third moment of a cosmic drama of contraction, rupture, and repair. After the withdrawal of the infinite Ein Sof (tzimtzum) and the emanation of the divine light into the vacated space, the light was to be received in vessels; but the lower vessels could not bear it and shattered. This is the shevirat ha-kelim, the breaking of the vessels. In the wake of the breaking, sparks of the holy light (nitzotzot) fell together with the shards of the vessels into the lower realms and became entangled with the 'husks' or 'shells' (the kelipot), so that holiness itself became scattered and exiled in the material world. Tikkun ('repair', 'rectification') is the reversal and mending of this catastrophe: the gathering up of the fallen sparks, their separation from the husks, and their raising back to their source, restoring the fractured order.\n\nWhat is distinctive in Luria's teaching, as recorded by his disciple Chaim Vital in Etz Chaim, is that this cosmic repair is entrusted in large part to human action. Through the performance of the commandments (mitzvot), through prayer, and through mystical intentions (kavvanot) directed at the sparks, the human being lifts the fallen sparks and mends the vessels; every act done rightly participates in the tikkun, and the completion of the tikkun is bound up with the coming of redemption and the Messiah. Lawrence Fine, in the fullest English study of Luria and his fellowship, devotes a chapter to tikkun as healing the cosmos through the performance of the commandments, underscoring that in the Lurianic system the ritual and ethical life of the Jew is charged with cosmic significance. Gershom Scholem set tikkun as the last of the three great symbols of Luria's myth, alongside tzimtzum and the shevirah, and read the whole as a myth of exile and restoration. These readings are recorded here as attributed scholarship, and the editor adjudicates none of them.\n\nThe phrase tikkun olam, 'repair (or ordering) of the world', has a long and layered history that scholarship distinguishes carefully. In the Mishnah the phrase mipnei tikkun ha-olam names rabbinic ordinances enacted 'for the sake of the right ordering of the world' (as in rules governing divorce documents), a legal, not mystical, sense; in the Aleinu prayer letaken olam speaks of perfecting or establishing the world under God's kingship; and in Lurianic Kabbalah tikkun becomes the cosmic mending described above. In the twentieth century, and especially in North American Jewry from the mid-century onward, 'tikkun olam' was taken up as a broad byword for social justice and the ethical repair of society. As Gilbert Rosenthal has traced, this modern social sense is a genuine metamorphosis of the concept and a distinct, much later usage; it is recorded here as such, attributed to its modern proponents, and is not read back into Luria's Kabbalah, where tikkun is the mystical rectification of a broken cosmos through the mitzvot performed with intention.",
+  "editorial_notes": "This entry presents tikkun on Judaism's own terms, within the Lurianic system, attributed to Isaac Luria and to Chaim Vital who recorded it (neutrality #1, #4, #6). The relationship between the Lurianic sense of tikkun (the mystical rectification of the cosmos after the breaking of the vessels) and the modern social-justice sense of 'tikkun olam' is handled deliberately per neutrality #2: the modern sense is DISTINGUISHED as a distinct and much later usage, attributed to its modern proponents on the authority of Gilbert Rosenthal's study of the concept's metamorphosis, and is explicitly NOT read back into Luria; the editor does not rule that either usage is the 'true' meaning. Sourcing triangulates the three lenses required for a Jewish concept (neutrality #8-9): (a) academic historians of Kabbalah (Gershom Scholem, Major Trends in Jewish Mysticism, 7th lecture; on the modern sense, Gilbert Rosenthal in the Journal of Religion); (b) the primary text, Chaim Vital's Etz Chaim, open on Sefaria; (c) a contemporary scholar (Lawrence Fine, Physician of the Soul, Healer of the Cosmos, Stanford 2003, ch. on tikkun). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. SOURCING (2026-07-23): the load-bearing Lurianic claim for THIS entry (the breaking of the vessels, the scattered sparks, and the rectification) IS carried by an open primary read line-by-line. Etz Chaim, Shaar HaKlalim ch. 1, was read via the Sefaria text API and carries verbatim: the seven kings whose vessels 'shattered and fell below' (the shevirat ha-kelim), that 'the lights withdrew upward to their place, yet still some sparks of holiness remained within the vessels, and these fell with the shattered vessels below, and from them the root of the husks, the Kelipot, was formed' (the scattered sparks / nitzotzot and kelipot), and that 'after the rectification she became a complete Partzuf' (the tikkun). Because this passage was actually read and quoted from an open site, the Etz Chaim source is rated HIGH here. This is the key difference from the sibling tzimtzum entry, whose primal-tzimtzum claim the open English does NOT carry (there the primary is medium and the entry reviewed-only); here the primary carries the tikkun/shevirah load, so this entry can stand at verified-level sourcing on the load-bearing claim. Scholem and Fine (medium) are verified to exist and be on-topic, not read line-by-line. Gilbert Rosenthal, 'Tikkun ha-Olam: The Metamorphosis of a Concept', Journal of Religion 85, no. 2 (2005): 214-240 (DOI 10.1086/427314), is the load-bearing source for the modern social sense as a distinct later usage; medium, verified to exist and be on-topic, not read line-by-line. Relation targets: kabbalah, isaac-luria, tzimtzum, shevirat-ha-kelim, mitzvot, and mashiach; shevirat-ha-kelim is dangling (flagged), the others are in this batch or exist (mitzvot and mashiach exist).",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "isaac-luria",
+      "note": "Tikkun as the cosmic rectification after the breaking of the vessels is a doctrine of Isaac Luria (the Ari, 1534-1572), recorded and systematized by his disciple Chaim Vital in Etz Chaim; Luria's teaching that the mitzvot performed with intention gather the fallen sparks is central to his system."
+    },
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "Tikkun is a doctrine of the Lurianic school of Kabbalah, the reworking of the Kabbalah that spread from sixteenth-century Safed and became the dominant form of later Jewish mysticism."
+    },
+    {
+      "type": "related_to",
+      "target": "shevirat-ha-kelim",
+      "note": "Tikkun is the repair of the rupture caused by the shevirat ha-kelim, the breaking of the vessels that could not contain the divine light and shattered, scattering the sparks of holiness (nitzotzot) into the lower world. Forward reference: no shevirat-ha-kelim entity exists yet in the dataset (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "tzimtzum",
+      "note": "Tzimtzum, the shevirah, and the tikkun form the three great symbols of the Lurianic myth (Scholem): the contraction of Ein Sof, the breaking of the vessels, and the mending; tikkun completes the sequence that tzimtzum opens."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "In the Lurianic system the human task of tikkun is carried out above all through the mitzvot (the commandments), together with prayer and mystical intention (kavvanah): the commandment performed rightly lifts the fallen sparks and mends the cosmos, so that ordinary observance is charged with cosmic significance."
+    },
+    {
+      "type": "related_to",
+      "target": "mashiach",
+      "note": "The completion of the tikkun is bound up in the Lurianic system with redemption: the gathering and raising of all the fallen sparks is tied to the coming of the mashiach and the mending of the world, so that human action hastens the redemption."
+    }
+  ],
+  "historical_period": {
+    "start": 1570,
+    "end": 1590,
+    "note": "Isaac Luria taught in Safed before his death in 1572; the doctrine of tikkun was recorded and systematized by his disciple Chaim Vital, whose Etz Chaim is dated c. 1570-1590. The phrase tikkun olam is older (the Mishnah's mipnei tikkun ha-olam, c. 200 CE, and the Aleinu prayer), and its modern social-justice sense develops chiefly in the twentieth century. No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "Vital, Chaim (recording the teaching of Isaac Luria). Sefer Etz Chaim (Tree of Life), Shaar HaKlalim ch. 1. Open Hebrew and English text on Sefaria. The passage carries the load-bearing Lurianic claim: the seven kings whose vessels 'could not bear the light ... and its vessel shattered and fell below' (the shevirat ha-kelim); 'the lights withdrew upward to their place, yet still some sparks of holiness remained within the vessels, and these fell with the shattered vessels below, and from them the root of the husks, the Kelipot, was formed' (the scattered sparks, nitzotzot, and the kelipot); and 'after the rectification she became a complete Partzuf' (the tikkun). Primary text of the Lurianic system for the breaking of the vessels, the fallen sparks, and the rectification; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Sefer_Etz_Chaim%2C_Shaar_HaKlalim.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Shaar HaKlalim ch. 1 read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (3rd rev. ed. 1954). Seventh lecture, 'Isaac Luria and His School', pp. 244-286. Scholem sets tikkun as the last of the three great symbols of Luria's myth, alongside tzimtzum and the shevirah, and reads the whole as a myth of divine self-limitation, cosmic rupture, and restoration in which human action, through the commandments, effects the mending; cited for the place of tikkun in the Lurianic myth and as the academic-historian lens. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://archive.org/details/major-trends-in-jewish-mysticism-gershom-scholem-1961",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. Its chapter 'Tiqqun: Healing the Cosmos Through the Performance of Mitsvot' treats tikkun as the repair of the cosmos accomplished through the commandments performed with mystical intention, underscoring the cosmic significance of the ritual and ethical life in the Lurianic system; cited for the human task of tikkun through the mitzvot and as the contemporary-scholarship lens. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=1741",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rosenthal, Gilbert S. 'Tikkun ha-Olam: The Metamorphosis of a Concept.' The Journal of Religion 85, no. 2 (2005): 214-240. DOI 10.1086/427314. Traces the history of tikkun (ha-)olam from its narrow legal sense in the Mishnah (mipnei tikkun ha-olam) through the liturgy (Aleinu) and Lurianic Kabbalah to its twentieth-century North American transformation into a byword for social justice and the repair of society; the load-bearing source for the modern social sense as a distinct and much later usage, distinguished here from the Lurianic sense and attributed to its modern proponents. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/427314",
+      "license": "Proprietary scholarly article; cited for reference (journal DOI page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

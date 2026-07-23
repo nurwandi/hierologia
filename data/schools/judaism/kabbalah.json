@@ -1,0 +1,115 @@
+{
+  "id": "kabbalah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Kabbalah",
+    "original": "קַבָּלָה",
+    "transliteration": "Qabbalah",
+    "aliases": [
+      "Cabala",
+      "Kabbala",
+      "Qabbalah",
+      "Jewish mysticism (in one common usage)",
+      "the hidden wisdom (chokhmah nistarah)",
+      "the wisdom of truth (chokhmat ha-emet)"
+    ]
+  },
+  "summary": "Kabbalah (Hebrew qabbalah, 'receiving' or 'tradition') is the principal tradition of Jewish mysticism and esoteric theosophy, which took shape in Provence and Catalonia in the twelfth and thirteenth centuries and reached a classic form in the Zohar in late-thirteenth-century Castile. Its distinctive theosophy concerns the hidden infinite Godhead (Ein Sof) and the ten sefirot, the emanated divine potencies through which, in kabbalistic teaching, God acts and becomes knowable; it was later reworked by Moses Cordovero and, in a new key, by Isaac Luria at Safed in the sixteenth century, and diffused widely through Hasidism.",
+  "description": "Kabbalah (from the Hebrew root q-b-l, to receive; the noun qabbalah means 'that which is received', a tradition handed down) is the name given to the principal current of Jewish mysticism and esoteric theosophy that emerged in southern France (Provence) and northern Spain (Catalonia) in the twelfth and thirteenth centuries. In the self-understanding of its bearers it is not an innovation but a received esoteric tradition, a hidden wisdom (chokhmah nistarah) transmitted alongside the open teaching of Torah; this claim to be received tradition is stated here as the kabbalists' own attributed self-understanding. Its early literary landmarks are the Sefer ha-Bahir (the Bahir, 'Book of Brightness'), which surfaced in Provence in the later twelfth century, the kabbalistic circle of Gerona in Catalonia (with which Nachmanides is associated), and, as its classic expression, the Zohar in late-thirteenth-century Castile.\n\nAt the centre of kabbalistic theosophy stands a distinction between God as utterly hidden and God as revealed. God in the divine essence is called Ein Sof (the 'Endless' or 'Infinite'), the concealed of the concealed, beyond name, attribute, and knowing. From this hidden Godhead there emanate, in kabbalistic teaching, the ten sefirot: the divine attributes, potencies, or luminous stages (commonly named Keter, Chokhmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, and Malkhut, the last also called Shekhinah) through which the infinite God acts, creates, and becomes knowable, and through which, on this account, the divine life is structured and disclosed. The sefirot are arranged in a dynamic pattern and correlated symbolically with the letters of scripture, the commandments, and the human being, so that Torah, ritual, and the cosmos are read as a vast web of correspondence with the inner life of the Godhead. This theosophy of Ein Sof and the sefirot is presented here as the tradition's own attributed teaching, described rather than affirmed or denied.\n\nThe tradition developed in successive phases. The theosophy of the Zohar was systematized and harmonized in sixteenth-century Safed by Moses Cordovero. In the same Safed setting Isaac Luria recast Kabbalah in a strikingly new key, with a theosophical drama of tzimtzum (the divine 'contraction' or self-withdrawal that makes room for a world), shevirat ha-kelim (the 'breaking of the vessels' that could not contain the divine light), and tikkun (the mending or restoration in which human action participates). Lurianic Kabbalah spread widely and shaped later Jewish spirituality, and from the eighteenth century onward kabbalistic teaching was diffused broadly through the Hasidic movement. Kabbalah is to be distinguished from the earlier tradition of Merkavah and Hekhalot mysticism of late antiquity, the visionary ascent to the divine chariot-throne and the heavenly palaces, which the modern scholarship treats as a separate and earlier phenomenon rather than as Kabbalah proper. In the academic study of the field, Gershom Scholem established the modern historical account of the tradition, and Moshe Idel and Elliot Wolfson, among others, subsequently revised and extended it; their reconstructions are recorded here as scholarship alongside the tradition's own voice, without the editor adjudicating the theosophy itself.",
+  "editorial_notes": "This entry describes Kabbalah on Judaism's own terms (neutrality #1, #4, #6). Its central theosophy, the hidden Godhead Ein Sof and the ten emanated sefirot through which God acts and is known, is stated throughout as the tradition's own attributed teaching ('in kabbalistic teaching', 'on this account'), described and not affirmed or denied by the editor. The kabbalists' self-understanding that Kabbalah is received esoteric tradition rather than innovation is likewise given as their attributed position, not asserted as fact. The historical arc (Bahir and Provence, the Gerona circle and Nachmanides, the Zohar in Castile, Cordovero and then Luria at Safed with tzimtzum / shevirat ha-kelim / tikkun, diffusion through Hasidism) follows the standard scholarship, and the entry deliberately distinguishes Kabbalah from the earlier Merkavah / Hekhalot mysticism per the task. The modern academic reconstruction is attributed to its scholars (Scholem, then the revisionist work of Idel and Wolfson) and not treated as the tradition's own voice. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of Jewish mysticism (Scholem, Major Trends in Jewish Mysticism; Idel, Kabbalah: New Perspectives; Wolfson); (b) the tradition's own primary texts, open and auditable on Sefaria (the Zohar and the Bahir; the Zohar's opening on Bereshit read line-by-line and quoted verbatim, giving Ein Sof as 'the most concealed of all concealed things' and the emergence of the divine potencies); and (c) contemporary Jewish scholars of Kabbalah (Idel; Wolfson; and, on the Zohar, Hellner-Eshed and Matt). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: the open Sefaria Zohar (Bereshit 1) and Bahir texts are rated high where read at the passage level and quoted; the secondary works of Scholem and Idel are medium (Idel carries the same rating across this batch), verified via publisher and journal records, not read line-by-line. Relation targets: zohar (authored in this batch), nachmanides and rabbinic-judaism exist; ein-sof, sefirot, shekhinah, tzimtzum, isaac-luria, moses-de-leon, hasidism, and merkavah-mysticism are dangling forward references to not-yet-created entities.",
+  "period": {
+    "founded": 1150,
+    "note": "Kabbalah as a distinct tradition took shape in Provence and Catalonia in the twelfth and thirteenth centuries; the Sefer ha-Bahir surfaced in Provence in the later twelfth century (hence a conventional founding marker of c. 1150-1200), the Gerona circle was active in the earlier thirteenth century, and the Zohar appeared in Castile late in the thirteenth century. The date is an approximate scholarly marker for the emergence of classical Kabbalah, not a precise foundation. The tradition remained active through the Safed period (Cordovero and Luria, sixteenth century) and Hasidism (from the eighteenth century) and continues to the present, so no end date is given. The earlier Merkavah / Hekhalot mysticism of late antiquity is a separate and earlier phenomenon, not counted here as Kabbalah proper."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "The Zohar (Sefer ha-Zohar), which appeared in late-thirteenth-century Castile, is the central and classic text of Kabbalah and the fullest expression of its theosophy. Authored in the same batch."
+    },
+    {
+      "type": "key_figure",
+      "target": "nachmanides",
+      "note": "Nachmanides (the Ramban, 1194-1270), of Girona in Catalonia, was a major early kabbalist associated with the Gerona circle who wove kabbalistic allusion ('al derekh ha-emet') into his Torah commentary. The nachmanides entry exists (data/figures/judaism/nachmanides.json)."
+    },
+    {
+      "type": "key_figure",
+      "target": "isaac-luria",
+      "note": "Isaac Luria (the Ari, 1534-1572) recast Kabbalah at Safed with the theosophy of tzimtzum, shevirat ha-kelim, and tikkun, giving rise to the influential Lurianic Kabbalah. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "key_figure",
+      "target": "moses-de-leon",
+      "note": "Moses de Leon (c. 1240-1305), of Castile, is the figure to whom modern academic scholarship (since Scholem) attributes the bulk of the Zohar; the tradition ascribes the Zohar instead to the second-century Shimon bar Yochai. Authorship is disputed and is not adjudicated here. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "holds",
+      "target": "ein-sof",
+      "note": "Kabbalah teaches Ein Sof (the 'Endless' or 'Infinite'), God in the hidden divine essence, beyond name and attribute, as the concealed source from which the sefirot emanate. Stated as the tradition's attributed theosophy. Dangling forward reference to a not-yet-created concept."
+    },
+    {
+      "type": "holds",
+      "target": "sefirot",
+      "note": "Kabbalah teaches the ten sefirot, the emanated divine attributes or potencies through which, on its account, the infinite God acts, creates, and becomes knowable. Stated as the tradition's attributed theosophy. Dangling forward reference to a not-yet-created concept."
+    },
+    {
+      "type": "holds",
+      "target": "shekhinah",
+      "note": "In kabbalistic theosophy the Shekhinah (the divine indwelling presence) is identified with the tenth sefirah, Malkhut, the receptive divine potency nearest the created world. Stated as the tradition's attributed teaching. Dangling forward reference to a not-yet-created concept."
+    },
+    {
+      "type": "holds",
+      "target": "tzimtzum",
+      "note": "In Lurianic Kabbalah tzimtzum is the divine 'contraction' or self-withdrawal by which the infinite God makes room for a finite world, the opening move of the Lurianic drama (with shevirat ha-kelim and tikkun). Stated as the tradition's attributed teaching. Dangling forward reference to a not-yet-created concept."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "From the eighteenth century Kabbalah, especially in its Lurianic form, was diffused broadly through the Hasidic movement, which drew on and popularized kabbalistic teaching. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "merkavah-mysticism",
+      "note": "Kabbalah is distinguished in the scholarship from the earlier Merkavah and Hekhalot mysticism of late antiquity (the visionary ascent to the divine chariot-throne and the heavenly palaces), treated as a separate and earlier phenomenon rather than as Kabbalah proper. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Kabbalah developed within the world of rabbinic Judaism, reading the Torah and the commandments through its esoteric theosophy while remaining embedded in rabbinic law and study; its bearers were rabbis and Talmudists. The rabbinic-judaism entry exists (data/schools/judaism/rabbinic-judaism.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Zohar, open Hebrew/Aramaic and English text on Sefaria (Sefaria Community Translation, CC0). Cited as the openly-auditable central primary text of Kabbalah, read at the passage level: the opening of the Zohar on Bereshit gives the kabbalistic theosophy of the hidden Godhead and its emanation, beginning 'With the beginning of the manifestation of the King's will ... a hard spark made an engraving upon the supernal light. This hard spark, which emanated from the most concealed of all concealed things from the secret of the Endlessness Light took a shapeless form', and continuing 'From the most concealed of all concealed things, from the secret of the Endlessness Light, emanated two faces ... a concealed supernal point shone. Beyond this point, nothing is knowable and, because of this, it is called by the name Beginning'; the 'Endlessness Light' / 'most concealed of all concealed things' is Ein Sof and the emergent 'point' the first of the sefirot. Read line-by-line and verified against the text (Zohar, Bereshit 1).",
+      "url": "https://www.sefaria.org/Zohar,_Bereshit.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Aramaic in the public domain. Openly auditable; read at the passage level.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Sefer ha-Bahir (Sefer HaBahir), open Hebrew and English text on Sefaria (Sefaria Community Translation, CC0). Cited as an early primary text of Kabbalah that surfaced in Provence in the later twelfth century; read at the passage level, its opening (Sefer HaBahir 1) sets out in the name of Rabbi Nechunia ben Hakana the play of hidden divine light and darkness ('And now men see not the light which is bright in the skies'; 'He made darkness His hiding-place') that the early kabbalists develop, confirming the Bahir as a foundational esoteric text of the tradition.",
+      "url": "https://www.sefaria.org/Sefer_HaBahir.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Hebrew in the public domain. Openly auditable; read at the passage level.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered 1938 at the Jewish Theological Seminary; many later printings). The foundational modern historical study of Jewish mysticism; cited for the emergence and development of Kabbalah, the theosophy of Ein Sof and the sefirot, the place of the Zohar, and the distinction of Kabbalah from the earlier Merkavah mysticism. Verified to exist and be on-topic, not read line-by-line for this entry.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988 (xx, 419 pp.; paperback 1990). A contemporary Jewish scholar's phenomenological and historical reevaluation of Kabbalah that revises assumptions current in Scholem's account; cited for the origins and interpretation of Jewish mysticism and the theosophical and experiential dimensions of the tradition. Verified to exist and be on-topic (Yale University Press; reviews in the American Historical Review and the AJS Review), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300046991/kabbalah/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

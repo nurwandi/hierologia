@@ -1,0 +1,93 @@
+{
+  "id": "zohar",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Zohar",
+    "original": "סֵפֶר הַזֹּהַר",
+    "transliteration": "Sefer ha-Zohar",
+    "aliases": [
+      "Sefer ha-Zohar",
+      "The Book of Radiance",
+      "The Book of Splendor",
+      "Zohar ha-Kadosh (the Holy Zohar)"
+    ]
+  },
+  "category": "kabbalistic work (mystical midrash)",
+  "date": {
+    "note": "The dating is bound up with the disputed authorship. In the traditional ascription the Zohar records the second-century teachings of the Tanna Rabbi Shimon bar Yochai and his circle. In the modern academic attribution (since Gershom Scholem) the bulk of the work was composed in Castile in the late thirteenth century, c. 1280s, by Moses de Leon. Both datings are recorded as attributed positions; the entry does not adjudicate between them, so no single year is entered."
+  },
+  "summary": "The Zohar (Sefer ha-Zohar, 'the Book of Radiance') is the central text of Kabbalah, a multi-layered work written largely in an artificial Aramaic and structured for the most part as a mystical midrash on the Torah, organized around the circle of the second-century sage Rabbi Shimon bar Yochai. Its authorship is disputed: the tradition ascribes it to Shimon bar Yochai, while academic scholarship since Gershom Scholem attributes the bulk of it to Moses de Leon in late-thirteenth-century Castile; both are recorded here as attributed positions and neither is adjudicated.",
+  "description": "The Zohar (Sefer ha-Zohar, from the Hebrew zohar, 'radiance', 'brightness', or 'splendor') is the central and classic text of Kabbalah. It is not a single treatise but a multi-layered body of writing, composed largely in a distinctive and often artificial Aramaic, whose main stratum is cast as a mystical midrash on the Torah: a running esoteric commentary that follows the weekly portions and unfolds their hidden meanings. Its literary frame is a fellowship of sages gathered around Rabbi Shimon bar Yochai (in the text often called by the honorific Rashbi), the second-century Tanna, who with his companions wanders the land of Galilee expounding the secrets of Torah, the structure of the Godhead, and the inner life of the sefirot. Around this main body cluster further distinct units, among them the Idrot (the 'assemblies', dense expositions of the divine 'countenances' or partzufim), the Sifra di-Tzeni'uta (the 'Book of Concealment'), the Raya Mehemna ('the Faithful Shepherd'), and the Tikkunei ha-Zohar, layers that scholarship distinguishes and dates variously. The work gives the fullest and most influential expression to the kabbalistic theosophy of the hidden Ein Sof and the ten sefirot; its opening on the portion Bereshit describes the emergence, from 'the most concealed of all concealed things', of a first luminous point, the beginning of the emanated divine potencies.\n\nThe authorship and date of the Zohar are the subject of a long-standing dispute, presented here as two attributed positions without the editor ruling between them. In the traditional ascription, received within much of the tradition, the Zohar preserves the mystical teachings of Rabbi Shimon bar Yochai and his circle in the second century CE, transmitted and only later committed to writing; on this view it is an ancient text of Tannaitic origin. In the modern academic attribution, argued in detail by Gershom Scholem and broadly (though not universally) accepted in subsequent scholarship, the bulk of the Zohar was composed in Castile in the late thirteenth century, around the 1280s, by the kabbalist Moses de Leon (c. 1240-1305), who brought the work to circulation; on this view the Aramaic and the pseudepigraphic frame are features of a late-thirteenth-century composition. Later scholarship has in some measure complicated the single-author picture, treating the Zohar as the product of a milieu or of layered composition rather than of one hand alone, but it continues, on the academic account, to locate the work's formation in late-thirteenth-century Castile rather than in second-century Palestine. This entry records both the traditional ascription and the academic attribution as attributed positions, states that the question is disputed, and does not adjudicate which is correct.\n\nThe Zohar became, over the following centuries, the most authoritative text of Kabbalah and one of the most influential works of the Jewish tradition, studied, printed (from the sixteenth century), and drawn upon by later kabbalists including Cordovero and Luria and, later, the Hasidic movement. In modern scholarship it has been the object of sustained critical study: Gershom Scholem's account of its composition, Daniel C. Matt's critical Aramaic text and annotated English translation in the twelve-volume Pritzker Edition (Stanford University Press, 2004-2017), and Melila Hellner-Eshed's study of the language of mystical experience in the Zohar are among the principal works. The Zohar is presented here on Judaism's own terms as the central text of Kabbalah, with the historical-critical scholarship on its composition and the traditional ascription both recorded as attributed positions.",
+  "editorial_notes": "This entry treats the Zohar's authorship as THE crux, handled per neutrality #1-#2 and the task: the traditional ascription (to the second-century Tanna Shimon bar Yochai and his circle) and the modern academic attribution (to Moses de Leon in late-thirteenth-century Castile, c. 1280s, argued by Gershom Scholem and broadly accepted since) are BOTH given as attributed positions; the entry states explicitly that the question is disputed and the editor does NOT adjudicate which is correct. Because the dating follows the authorship, the date field records both (traditional 2nd c. / scholarly late 13th c.) and enters no single year. It is noted that later scholarship has complicated the single-author (de Leon) thesis toward a milieu or layered composition while still locating the work in late-thirteenth-century Castile, so the academic side is not flattened to one claim. The Zohar's content is described on the tradition's own terms as a mystical midrash on the Torah framed by Rashbi's circle, expounding the theosophy of Ein Sof and the sefirot, with the Pritzker edition (Daniel Matt) noted per the task. Sources triangulate three lenses per neutrality #8-9: (a) academic historians (Scholem for the composition and the de Leon attribution; Matt's Pritzker critical edition; Hellner-Eshed on the mystical language); (b) the primary text itself, open and auditable on Sefaria (the Zohar's opening on Bereshit, read line-by-line and quoted verbatim); and (c) contemporary Jewish scholars of the Zohar (Matt; Hellner-Eshed). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: the open Sefaria Zohar (Bereshit 1) is rated high because it was read at the passage level and quoted verbatim (the load-bearing content, the Aramaic mystical midrash on the Torah opening with the emanation from 'the most concealed of all concealed things'); Scholem, Matt, and Hellner-Eshed are medium, verified via publisher and journal records, not read line-by-line. The de Leon attribution and the 1280s dating are recorded as attributed scholarly positions, not asserted as settled fact. The Zohar's commentary relationship to the Torah is carried by a 'related_to' relation with an explanatory note, because the work schema's relation enum has no 'commentary_on' type (that type belongs to the concept schema); this is flagged here for transparency. Relation targets: kabbalah, torah, tanakh exist or are authored in this batch; shimon-bar-yochai, moses-de-leon, sefirot, ein-sof are dangling forward references to not-yet-created entities.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "The Zohar is the central and classic text of Kabbalah and the fullest expression of its theosophy of Ein Sof and the sefirot. Authored in the same batch."
+    },
+    {
+      "type": "authored_by",
+      "target": "shimon-bar-yochai",
+      "note": "In the traditional ascription the Zohar records the second-century mystical teachings of the Tanna Rabbi Shimon bar Yochai (Rashbi) and his circle; this is the tradition's attributed position on authorship. The scholarly attribution to Moses de Leon is recorded separately; the question is disputed and not adjudicated here. Dangling forward reference to a not-yet-created figure."
+    },
+    {
+      "type": "authored_by",
+      "target": "moses-de-leon",
+      "note": "In the modern academic attribution (argued by Gershom Scholem and broadly accepted since) the bulk of the Zohar was composed in late-thirteenth-century Castile, c. 1280s, by the kabbalist Moses de Leon (c. 1240-1305); later scholarship in part treats it as a layered or milieu composition still located in that time and place. This is the academic attributed position on authorship, given alongside the traditional ascription and not adjudicated. Dangling forward reference to a not-yet-created figure."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The main stratum of the Zohar is cast as a mystical midrash (a commentary) on the Torah, following the weekly portions and expounding their hidden, kabbalistic meanings. The work schema has no 'commentary_on' relation type, so 'related_to' is used and the commentary relationship is stated in this note. The torah entry exists (data/works/judaism/torah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "Beyond the Torah portions the Zohar draws on and reinterprets passages across the Tanakh (the Hebrew Bible) in developing its esoteric readings. The tanakh entry exists (data/works/judaism/tanakh.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "The Zohar gives classic expression to the doctrine of Ein Sof, God in the hidden divine essence ('the most concealed of all concealed things'), from which the sefirot emanate. Dangling forward reference to a not-yet-created concept."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "The Zohar is the fullest early exposition of the ten sefirot, the emanated divine potencies, and of the dynamic relations among them, including the divine 'countenances' (partzufim) of the Idrot. Dangling forward reference to a not-yet-created concept."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Zohar, open Hebrew/Aramaic and English text on Sefaria (Sefaria Community Translation, CC0). Cited as the openly-auditable primary text, read at the passage level: the opening of the Zohar on the portion Bereshit is a mystical midrash on the first word of the Torah and sets out the emanation of the divine potencies, beginning 'With the beginning of the manifestation of the King's will, that is, when the King desired to emanate and create the world, a hard spark made an engraving upon the supernal light. This hard spark, which emanated from the most concealed of all concealed things from the secret of the Endlessness Light took a shapeless form', and continuing 'a concealed supernal point shone. Beyond this point, nothing is knowable and, because of this, it is called by the name Beginning, which means the first of the sayings'; this confirms the Aramaic mystical-midrashic form, the framing on Bereshit, and the theosophy of the hidden Ein Sof ('the most concealed of all concealed things') and the first emanated point. Read line-by-line and verified against the text (Zohar, Bereshit 1).",
+      "url": "https://www.sefaria.org/Zohar,_Bereshit.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Aramaic in the public domain. Openly auditable; read at the passage level.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered 1938 at the Jewish Theological Seminary). Cited for the modern historical account of the Zohar and, in particular, for the attribution of the bulk of the work to Moses de Leon in late-thirteenth-century Castile (c. 1280s), which Scholem argued in detail and which became broadly accepted in subsequent scholarship. Recorded as the academic attributed position on authorship, not adjudicated against the traditional ascription. Verified to exist and be on-topic, not read line-by-line for this entry.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Zohar: Pritzker Edition. Translation and commentary by Daniel C. Matt (with Nathan Wolski and Joel Hecker for later volumes). 12 vols. Stanford: Stanford University Press, 2004-2017. The first English translation made from a critical Aramaic text of the Zohar, established by Matt from a wide range of manuscripts, with extensive commentary on the kabbalistic symbolism; cited for the critical text and scholarly presentation of the Zohar. Verified to exist and be on-topic (Stanford University Press, Zohar: Pritzker Edition series), not read line-by-line.",
+      "url": "https://www.sup.org/books/series/zohar-pritzker-edition",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hellner-Eshed, Melila. A River Flows from Eden: The Language of Mystical Experience in the Zohar. Trans. Nathan Wolski. Stanford: Stanford University Press, 2009 (Hebrew original, Alma / Am Oved, 2005). A contemporary Jewish scholar's study of the language and dynamics of mystical experience in the Zohar; cited for the character of the Zohar as a work of mystical experience and expression framed around the circle of Rashbi. Verified to exist and be on-topic (Stanford University Press; 2010 Choice Outstanding Academic Title), not read line-by-line.",
+      "url": "https://www.sup.org/books/religious-studies/river-flows-eden",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tzimtzum",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Tzimtzum",
+    "original": "צִמְצוּם",
+    "transliteration": "tzimtzum",
+    "aliases": [
+      "contraction",
+      "withdrawal",
+      "self-limitation",
+      "tsimtsum",
+      "zimzum"
+    ]
+  },
+  "category": "cosmology",
+  "summary": "Tzimtzum (Hebrew 'contraction' or 'withdrawal') is, in the Kabbalah of Isaac Luria, the doctrine that the first act of creation was an act of divine self-limitation: in order for a finite world to exist, the infinite Ein Sof ('the Endless'), which filled all, contracted or withdrew itself from a point, leaving an empty space (the chalal or tehiru) in which the worlds could be brought into being through the emanation of a ray of light and the forming of the vessels. Tzimtzum is presented here on Judaism's own terms as the innovation attributed to Luria and recorded by his disciple Chaim Vital.",
+  "description": "In Lurianic Kabbalah, tzimtzum names the opening move of the cosmogonic drama. Before creation, on this teaching, there was only the infinite Ein Sof ('the Endless', the unknowable Godhead), which filled all reality with its light so that no place was empty of it. The question the system poses is how a finite, distinct world could come to be if the infinite left no room. The answer attributed to Luria is that Ein Sof contracted, or withdrew, itself away from a central point, leaving a primordial empty space (the chalal, the 'void', also called the tehiru); the first act of creation is thus not an outpouring but a divine self-withdrawal, a making of room. Into this vacated space Ein Sof then extended a single ray (kav) of its light, and from this ray the worlds, the primordial man (Adam Kadmon), and the vessels of the Sefirot were formed. The doctrine is recorded in the writings of Chaim Vital, Luria's principal disciple, above all in Etz Chaim, which systematizes the teaching Luria himself left largely unwritten.\n\nThe historian Gershom Scholem placed tzimtzum at the head of the three great symbols in which he read Luria's new myth of creation, exile, and return: tzimtzum (the self-limitation or contraction of God), the shevirah (the breaking of the vessels), and the tikkun (the mending). On Scholem's reading tzimtzum is a startling reversal of the ordinary picture of creation, for the first act of the Creator is not a going-out but a going-in, a withdrawal into the self, so that creation begins with a divine self-exile that makes space for what is not God. Lawrence Fine, in the fullest English study of Luria and his fellowship, likewise treats the withdrawal of Ein Sof and the opening of the empty space as the starting point of the Lurianic cosmogony, from which the emanation of the ray of light and the drama of the vessels follow. These readings are recorded here as attributed scholarship, and the editor adjudicates none of them.\n\nWithin the tradition, later thinkers divided over how tzimtzum is to be understood. One reading takes the contraction literally (tzimtzum kefshuto), as a real withdrawal of the divine light from a real space; another takes it figuratively (tzimtzum shelo kefshuto), as a veiling or a manner of speaking that cannot apply to God's own essence, which fills all and admits no literal absence. This dispute is often mapped onto the eighteenth-century rift between the circle of the Vilna Gaon among the Mitnagdim and the Hasidic movement, especially the Habad of Schneur Zalman of Liadi, with the figurative reading pressed hardest in Hasidic acosmism. Scholarship, however, cautions that the popular mapping oversimplifies: as Tamar Ross has shown for Hayyim of Volozhin (of the Gaon's school) and Schneur Zalman of Liadi, thinkers on both sides in fact adopted non-literal readings and differed rather over the religious implications than over the bare question of literalness. This entry records the debate as a live internal dispute, attributed to its parties, and does not rule on which reading is correct.",
+  "editorial_notes": "This entry presents tzimtzum on Judaism's own terms, within the Lurianic system, attributed to Isaac Luria and to Chaim Vital who recorded it (neutrality #1, #4, #6). The internal literal-vs-figurative dispute (tzimtzum kefshuto vs. shelo kefshuto), and its popular association with the Vilna Gaon's circle and Hasidism, is presented as an attributed live debate and NOT adjudicated (neutrality #2); the entry also flags, on the authority of Tamar Ross's study, that the popular Gaon-vs-Hasidism mapping is a scholarly oversimplification, so as not to flatten the debate. Sourcing triangulates the three lenses required for a Jewish concept (neutrality #8-9): (a) academic historians of Kabbalah (Gershom Scholem, Major Trends in Jewish Mysticism, 7th lecture, 'Isaac Luria and His School'; and his Kabbalah); (b) the primary text, Chaim Vital's Etz Chaim, open on Sefaria; (c) a contemporary scholar (Lawrence Fine, Physician of the Soul, Healer of the Cosmos, Stanford 2003; and Tamar Ross on the internal debate). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. SOURCING HONESTY (2026-07-23), THIS ENTRY IS REVIEWED-ONLY, NOT VERIFIED: the open primary on Sefaria (Etz Chaim, Shaar HaKlalim ch. 1, and Gate 1 / Derush Igulim veYosher) was read line-by-line via the Sefaria text API. It carries the surrounding Lurianic cosmogony (Ein Sof, the emanation of the primordial point and the ray, the Sefirot and vessels) and was read directly, but the sections available in the open English translation begin with emanation and do NOT contain an explicit, quotable statement of the primal tzimtzum proper (the withdrawal of Ein Sof to form an empty chalal); the 'contraction' language present there refers to the inner light and the Shekhinah, not to the cosmogonic self-withdrawal. The load-bearing claim for THIS entry (tzimtzum as the divine contraction making an empty space) therefore rests on SECONDARY scholarship, Scholem and Fine (medium), not on a high-rated open primary I could quote for the tzimtzum doctrine itself. Accordingly the Etz Chaim source is rated MEDIUM here (read line-by-line for the cosmogonic context, but it does not itself carry the tzimtzum-proper claim in the open English), and the entry is left at reviewed-level sourcing rather than verified. Scholem and Fine are medium, verified to exist and be on-topic (Scholem's Major Trends 7th lecture explicitly frames the three symbols tzimtzum, shevirah, tikkun; Fine's Stanford 2003 monograph is the fullest English study), not read line-by-line. Tamar Ross, 'Two Interpretations of the Doctrine of Tzimtzum: R. Hayyim of Volozhin and R. Schneur Zalman of Liadi', Jerusalem Studies in Jewish Thought 2 (1981): 153-169 (Hebrew), is medium, verified to exist and be on-topic. Relation targets: ein-sof, sefirot, isaac-luria, kabbalah, zohar, shevirat-ha-kelim, and tikkun; shevirat-ha-kelim and hasidism and vilna-gaon are dangling (flagged), the others are in this batch or exist.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "isaac-luria",
+      "note": "Tzimtzum is the central innovation attributed to Isaac Luria (the Ari, 1534-1572); Luria himself left little in writing, and the doctrine is known chiefly as recorded and systematized by his disciple Chaim Vital in Etz Chaim."
+    },
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "Tzimtzum is a doctrine of the Lurianic school of Kabbalah, the reworking of the Kabbalah that spread from sixteenth-century Safed and became the dominant form of later Jewish mysticism."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "Tzimtzum is defined with respect to Ein Sof ('the Endless', the infinite Godhead): the doctrine holds that Ein Sof, which filled all, contracted or withdrew itself from a point to leave an empty space (the chalal) in which the finite worlds could be formed."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "After the tzimtzum, Ein Sof extended a ray (kav) of light into the vacated space, and from it the vessels of the Sefirot were formed; tzimtzum is thus the precondition for the emanation of the Sefirot in the Lurianic account."
+    },
+    {
+      "type": "elaborates",
+      "target": "zohar",
+      "note": "Lurianic Kabbalah develops themes from the Zohar, the foundational Kabbalistic work; Etz Chaim repeatedly reads the Lurianic cosmogony, including the emanation into the vacated space, in dialogue with the Zohar and the Tikkunim."
+    },
+    {
+      "type": "related_to",
+      "target": "shevirat-ha-kelim",
+      "note": "In the Lurianic sequence tzimtzum is the first act, followed by the emanation of the ray and the forming of the vessels, and then the shevirat ha-kelim (the breaking of the vessels) that could not contain the light. Forward reference: no shevirat-ha-kelim entity exists yet in the dataset (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "tikkun",
+      "note": "Tzimtzum, the shevirah, and the tikkun form the three great symbols of the Lurianic myth (Scholem): the contraction, the breaking of the vessels, and the mending; tzimtzum opens the sequence that tikkun completes."
+    }
+  ],
+  "historical_period": {
+    "start": 1570,
+    "end": 1590,
+    "note": "Isaac Luria taught in Safed in the years before his death in 1572; the doctrine of tzimtzum was recorded and systematized by his disciple Chaim Vital, whose Etz Chaim is dated c. 1570-1590. The literal-vs-figurative debate over tzimtzum unfolds later, chiefly in the eighteenth century between the Vilna Gaon's circle and Hasidism. No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "Vital, Chaim (recording the teaching of Isaac Luria). Sefer Etz Chaim (Tree of Life), Shaar HaKlalim ch. 1 and Gate 1 (Derush Igulim veYosher, The First Branch). Open Hebrew and English text on Sefaria. The passage sets out the Lurianic cosmogony: Ein Sof ('the uppermost light, infinitely beyond, called Ein Sof ... it precedes all created beings ... and has no beginning or end whatsoever') emanates a single primordial point containing ten, from which the Sefirot and the vessels spread forth. Cited as the primary text of the Lurianic system and for the framing role of Ein Sof and the emanation. Read line-by-line via the Sefaria text API; NOTE: the open English sections read here begin with emanation and do NOT contain an explicit, quotable statement of the primal tzimtzum proper (the withdrawal of Ein Sof to form an empty chalal), so this source is held at medium for THIS entry and does not itself carry the load-bearing tzimtzum-doctrine claim.",
+      "url": "https://www.sefaria.org/Sefer_Etz_Chaim%2C_Shaar_HaKlalim.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Shaar HaKlalim ch. 1 and Gate 1 (First Branch) read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (3rd rev. ed. 1954). Seventh lecture, 'Isaac Luria and His School', pp. 244-286. Scholem reads Luria's myth of creation as concentrated in three great symbols, tzimtzum (the self-limitation or contraction of God, whereby the first act of the Creator is a withdrawal into the self that makes room for the world rather than a going-out), the shevirah (the breaking of the vessels), and the tikkun (the mending). This is the load-bearing source for the tzimtzum doctrine as a divine contraction opening an empty space. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://archive.org/details/major-trends-in-jewish-mysticism-gershom-scholem-1961",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. The fullest English study of Isaac Luria and his fellowship; its account of the Lurianic cosmogony treats the withdrawal of Ein Sof and the opening of the empty space as the starting point from which the ray of light and the drama of the vessels follow. Cited for the tzimtzum doctrine and as the contemporary-scholarship lens. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=1741",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ross, Tamar. 'Two Interpretations of the Doctrine of Tzimtzum: R. Hayyim of Volozhin and R. Schneur Zalman of Liadi.' Jerusalem Studies in Jewish Thought (Mehkarei Yerushalayim be-Machshevet Yisrael) 2 (1981): 153-169 (Hebrew). Argues that both R. Hayyim of Volozhin (of the Vilna Gaon's school) and R. Schneur Zalman of Liadi (Habad Hasidism) adopted non-literal readings of tzimtzum and differed over its religious implications rather than over bare literalness; cited for the internal literal-vs-figurative debate and as the caution against the popular Gaon-vs-Hasidism mapping. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://www.academia.edu/35646863/",
+      "license": "Proprietary scholarly article (Hebrew); cited for reference.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

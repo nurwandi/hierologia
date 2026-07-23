@@ -1,0 +1,98 @@
+{
+  "id": "ein-sof",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Ein Sof",
+    "original": "אֵין סוֹף",
+    "transliteration": "ʾein sof",
+    "aliases": [
+      "Ein-Sof",
+      "Ayn Sof",
+      "En Sof",
+      "the Infinite",
+      "the Endless",
+      "Without End"
+    ]
+  },
+  "category": "theology",
+  "summary": "Ein Sof (Hebrew 'without end', the Infinite) is, in Kabbalah, the utterly transcendent, hidden, and unknowable Godhead as it is in itself, prior to and beyond all attributes, names, and the process of emanation. It is the God about whom nothing can be said, a radical negative theology, distinguished from the God who becomes knowable and active through the ten sefirot that emanate from Ein Sof.",
+  "description": "Ein Sof, literally 'there is no end', is the term the medieval Kabbalists used for the divine reality in its absolute concealment: God as God is in the divine self, before and above all manifestation, beyond every attribute, name, image, and even the category of being. Of Ein Sof in this aspect the Kabbalists held that nothing whatever can be predicated, not existence, not thought, not will; it is approached only by negation, and even the name 'Ein Sof' is not a name of God so much as a marker for the point at which naming fails. This is a radical apophatic or negative theology: the hidden God (in the language later scholars borrowed from Christian theology, the deus absconditus) who is unknowable in principle, not merely unknown in fact.\n\nThis concealed infinite is distinguished, within Kabbalah, from God as God turns toward creation and becomes describable, active, and worshipped. That turning is the doctrine of emanation: from Ein Sof proceed the ten sefirot, the potencies or attributes through which the hidden infinite manifests, orders the higher worlds, and sustains the created order. The first and most hidden of the sefirot, Keter (Crown), is figured in the Zohar as almost coeternal with Ein Sof and as the threshold between the wholly concealed and the beginning of what can be known; the point that shines beyond it, identified with Hochmah (Wisdom), is called Reshit, 'Beginning', the first aspect of God that can be apprehended. The Kabbalists thus hold together two aspects of one God: the concealed, unknowable Ein Sof, and the self-revealing God of the sefirot, of scripture, and of religious life. The term Ein Sof itself is a technical coinage of the Kabbalah that took shape in the thirteenth century (the earlier Sefer Yetzirah and Sefer ha-Bahir speak of the sefirot but do not yet use 'Ein Sof' in this sense); it is presented here on Kabbalah's own terms.\n\nIn the scholarship, Gershom Scholem placed Ein Sof at the head of the whole kabbalistic system and framed the sefirot as the graded stages by which the concealed Ein Sof passes into the revealed God of religion, tracing the evolution of the term in the early Kabbalah. Moshe Idel, while revising Scholem on much else, likewise treats the distinction between the hidden Ein Sof and the emanated sefirot as central to theosophical Kabbalah. Elliot Wolfson has drawn out the apophatic dimension of Ein Sof, the infinite transcendence that unsettles every positive theistic representation, and Arthur Green, a contemporary Jewish scholar, presents Ein Sof as the boundless One and the sefirot as the ten, existing as such from the human vantage. These analyses are recorded as attributed scholarship, and the editor adjudicates none of them.",
+  "editorial_notes": "This entry presents Ein Sof on Kabbalah's own terms (neutrality #1, #4, #6): the hidden, unknowable infinite as distinct from the God who becomes knowable through the sefirot. It reports the apophatic ('nothing can be said') framing as the Kabbalists' own and as scholarship's reading, not as the editor's metaphysical claim. Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic historians of Kabbalah (Gershom Scholem, Major Trends in Jewish Mysticism; Moshe Idel, Kabbalah: New Perspectives, 1988; Elliot Wolfson on the apophatic Ein Sof); (b) the primary text, open and auditable on the Zohar (Zohar 1:15a, the prologue to Bereshit), read line-by-line in Daniel Matt's Pritzker Edition translation; (c) a contemporary Jewish scholar (Arthur Green, Ehyeh: A Kabbalah for Tomorrow, and A Guide to the Zohar). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. PRIMARY-SPINE HONESTY (2026-07-23): the load-bearing passage Zohar 1:15a was READ line-by-line in Matt's Pritzker translation (verbatim: 'A spark of impenetrable darkness flashed within the concealed of the concealed, from the head of Infinity', and 'concealed within the concealed of the mystery of Ein Sof'), together with Matt's own notes identifying Ein Sof, Hebrew ʾein sof, 'There is no end, the ultimate divine reality', and Keter as coeternal with Ein Sof, citing Scholem, Kabbalah, 88-89 for the term's evolution. The term 'Ein Sof' in its technical sense is a thirteenth-century coinage, so it does not appear in the earlier Sefer Yetzirah or the Bahir; the Zohar prologue is therefore the appropriate open primary anchor and is rated high because actually read. Scholem, Idel, Wolfson, and Green are medium, verified to exist and be on-topic via publisher and journal-review records, not read line-by-line. CROSS-TRADITION (compares_with, neutrality #10, ADR-0005): the notes to neoplatonism/plotinus and to guide-for-the-perplexed state the shared QUESTION (an ineffable, unknowable source and the limits of divine knowability) and the DIFFERENCE in framing, ranking and equating no answer; each is attributed to its tradition. Relation targets: sefirot, zohar, and kabbalah are same-batch; neoplatonism, plotinus, guide-for-the-perplexed, and maimonides exist.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "Ein Sof and the sefirot are the two poles of the kabbalistic account of God: Ein Sof is the concealed, unknowable infinite, and the ten sefirot are the emanated potencies through which it manifests and becomes knowable and active. The sefirot proceed from Ein Sof; the first and most hidden, Keter, is figured in the Zohar as almost coeternal with Ein Sof."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "The Zohar's prologue to Bereshit (Zohar 1:15a) describes the beginning of emanation from 'the head of Infinity' and names the flow as 'concealed within the concealed of the mystery of Ein Sof'; the Zohar is the classical text in which the doctrine of the hidden Ein Sof and the emanated sefirot is developed at length."
+    },
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "Ein Sof is a central concept of Kabbalah, the tradition of Jewish esoteric and mystical theosophy in which the hidden infinite and the ten emanated sefirot form the account of the Godhead."
+    },
+    {
+      "type": "compares_with",
+      "target": "neoplatonism",
+      "note": "Ein Sof and the Neoplatonic One both address the shared question of an ineffable, utterly transcendent source that lies beyond being and description and from which a derived, ordered manifestation proceeds; this link compares that question, not the answers, ranking and equating neither (neutrality #10). The difference is one of framing: Ein Sof is the hidden Godhead of Jewish Kabbalah, from which the ten sefirot emanate and through which the God of scripture and covenant becomes knowable and active, and it is approached through a radical negative theology; the One (to hen) of Plotinus and Neoplatonism is the first principle of a philosophical metaphysics, beyond being and thought, from which Intellect (Nous) and Soul proceed by emanation and to which the soul returns. Scholars note the historical contact (Neoplatonic emanation reached Jewish thought through figures such as Ibn Gabirol), but each is recorded as attributed to its tradition, and neither is treated as the measure of the other."
+    },
+    {
+      "type": "compares_with",
+      "target": "plotinus",
+      "note": "The concealed Ein Sof of Kabbalah and Plotinus's One both name an ultimate principle held to be beyond attribute and description, the source of an emanated order; this link compares that shared question and states the difference, ranking neither (neutrality #10). Plotinus, in the Enneads, describes the One as 'all things and no one of them' and as transcending the Intellectual-Principle, a philosophical account of a first principle beyond being; Ein Sof is the hidden infinite of a theistic mystical theology, distinguished from the self-revealing God of the sefirot and of Israel's scripture. Daniel Matt's notes to the Zohar prologue themselves observe the resonance of the 'ray of divine darkness' with the apophatic tradition (Dionysius, Gregory of Nyssa), which is attributed there as comparison, not identity. Each is attributed to its own tradition."
+    },
+    {
+      "type": "compares_with",
+      "target": "guide-for-the-perplexed",
+      "note": "Ein Sof and Maimonides's negative theology in the Guide of the Perplexed both address the shared question of the limits of divine knowability: whether and how anything can be predicated of God. This link compares the question, not the answers, and ranks neither (neutrality #10). Maimonides argues that God's essence is unknowable and that only negative attributes (what God is not) can truly be affirmed of God; the Kabbalists' Ein Sof is likewise the God of whom nothing positive can be said, though the Kabbalah couples this with a doctrine of emanated sefirot through which God becomes describable, a theosophical move Maimonides's rationalist apophaticism does not make. Notably, Matt's notes to the Zohar prologue quote Guide 1:59 on God being 'hidden from us because of the intensity with which He becomes manifest', a bridge the Kabbalists drew on. Each position is attributed to its author and tradition."
+    }
+  ],
+  "historical_period": {
+    "start": 1200,
+    "note": "The term 'Ein Sof' in its technical kabbalistic sense is a coinage of the early Kabbalah that took shape in the thirteenth century (Provence and Gerona, and then the Zohar, late thirteenth century); the earlier Sefer Yetzirah and Sefer ha-Bahir speak of the sefirot but do not use 'Ein Sof' in this sense. No single year applies; the note qualifies the range, and Scholem traces the term's evolution in Kabbalah, 88-89."
+  },
+  "sources": [
+    {
+      "citation": "Zohar, Parashat Bereshit (Zohar 1:15a), the prologue on Genesis 1:1. Trans. Daniel C. Matt, The Zohar: Pritzker Edition, vol. 1, pp. 107-109. Stanford: Stanford University Press, 2004. Primary text of theosophical Kabbalah: 'A spark of impenetrable darkness flashed within the concealed of the concealed, from the head of Infinity', and 'Deep within the spark gushed a flow, splaying colors below, concealed within the concealed of the mystery of Ein Sof.' Matt's note 6 identifies 'Infinity' as Hebrew ʾein sof, 'There is no end, the ultimate divine reality', citing Scholem, Kabbalah, 88-89 on the term's evolution; note 3 identifies the 'luster on high' with Keter, 'represented in the Zohar as coeternal with Ein Sof'. Read line-by-line and quoted verbatim from the openly hosted Pritzker translation excerpt.",
+      "url": "https://www.meru.org/coast/Zohar-Gen1-1-Translations.pdf",
+      "license": "Aramaic original in the public domain; Matt's English translation (c) Zohar Education Project / Stanford University Press, 2004, reproduced with attribution in the openly hosted MERU Foundation comparison document. Read line-by-line (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken, 1941 (3rd rev. ed. 1954). The foundational academic account by the founder of the academic study of Kabbalah, which places Ein Sof at the head of the kabbalistic system and frames the sefirot as the stages by which the concealed Ein Sof passes into the revealed God of religion. Cited as the academic-historian lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988 (National Jewish Book Award in Scholarship, 1989). A major revisionist study of Jewish mysticism that, while revising Scholem, treats the theosophical Kabbalah's distinction between the hidden Ein Sof and the emanated sefirot as central; cited as a second academic-historian lens. Verified to exist and be on-topic (AJS Review), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/ajs-review/article/abs/continuity-and-revision-in-the-study-of-kabbalah-moshe-idel-kabbalah-new-perspectives-new-haven-yale-university-press-1988-xx-419-pp/957278898CE30D6723C595D6494C9B70",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Green, Arthur. Ehyeh: A Kabbalah for Tomorrow. Woodstock, VT: Jewish Lights, 2003; see also his A Guide to the Zohar, Stanford: Stanford University Press, 2004. A contemporary Jewish scholar of Jewish thought and spirituality; the chapter 'Sefirot: The One and the Ten' presents Ein Sof as the boundless One and the sefirot as the ten that exist as such from the human vantage. Cited as the contemporary-Jewish-scholarship lens. Verified to exist and be on-topic (publisher pages), not read line-by-line.",
+      "url": "https://www.sup.org/books/religious-studies/guide-zohar",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wolfson, Elliot R. Through a Speculum That Shines: Vision and Imagination in Medieval Jewish Mysticism. Princeton: Princeton University Press, 1994. A study of visionary experience in Jewish mysticism by a leading scholar of Kabbalah, drawn on here for the apophatic dimension of Ein Sof, the infinite transcendence that unsettles positive theistic representation. Cited as a further academic lens on Ein Sof's negative theology. Verified to exist and be on-topic (publisher page), not read line-by-line.",
+      "url": "https://press.princeton.edu/books/paperback/9780691017228/through-a-speculum-that-shines",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

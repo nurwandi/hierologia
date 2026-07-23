@@ -1,0 +1,109 @@
+{
+  "id": "isaac-luria",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Isaac Luria",
+    "original": "יִצְחָק בֶּן שְׁלֹמֹה לוּרְיָא אַשְׁכְּנַזִי",
+    "transliteration": "Yitzchak ben Shlomo Luria Ashkenazi",
+    "aliases": [
+      "the Ari (ha-Ari, האר\"י)",
+      "the Arizal (the Ari of blessed memory)",
+      "ha-Ari ha-Kadosh (the holy Ari)",
+      "Isaac ben Solomon Luria Ashkenazi"
+    ]
+  },
+  "roles": [
+    "kabbalist",
+    "rabbi",
+    "mystical teacher"
+  ],
+  "summary": "Isaac Luria (Yitzchak Luria Ashkenazi, 1534-1572), known as the Ari, was the most influential kabbalist of the sixteenth-century circle at Safed (Tzfat) in the Galilee. His reworking of the Zohar's theosophy, known as Lurianic Kabbalah, is organized around tzimtzum (the divine contraction), shevirat ha-kelim (the breaking of the vessels), and tikkun (cosmic repair). He wrote almost nothing himself, and his teaching is known chiefly through his disciple Chaim Vital, above all the Etz Chaim ('Tree of Life').",
+  "description": "Isaac Luria, Yitzchak ben Shlomo Luria Ashkenazi, is known in the Jewish tradition as the Ari (ha-Ari). The name is read as an acronym: it is most often given in the tradition as ha-Elohi Rabbi Yitzchak, 'the divine Rabbi Isaac', and is also read as (ha-)Ashkenazi Rabbi Yitzchak, reflecting his family's Ashkenazi (Central European) origin; ari is at the same time the Hebrew word for 'lion', so the title doubles as 'the Lion'. Born in 1534 (the traditional dating is often given as Jerusalem), he spent formative years in Egypt before settling, in the last period of his short life, in Safed in the Galilee, then a flourishing centre of Jewish mystical and legal activity. He died in 1572 at the age of thirty-eight. Lawrence Fine's study reconstructs Luria less as a solitary author than as the master of a close fellowship of disciples, a lived and living mystical community, in and through which his teaching took shape.\n\nLuria's system, known as Lurianic Kabbalah, reworked the theosophy of the Zohar into a new and enormously influential mythic account of creation, rupture, and repair. In the reconstruction of scholars such as Gershom Scholem, three ideas stand at its centre. The first is tzimtzum, the 'contraction' or self-withdrawal by which the infinite God (Ein Sof), which had filled all reality, withdrew itself to leave an empty space (a challal or tehiru) in which a finite world could come to be. The second is shevirat ha-kelim, the 'breaking of the vessels': as the divine light emanated into the vessels prepared to receive it, the lower vessels could not contain it and shattered, so that sparks of divine light fell and became entrapped in the shells or husks (kelipot) of a broken cosmos. The third is tikkun, 'repair' or 'mending': the gathering-up and raising of the fallen sparks and the restoration of the shattered order, a cosmic task in which human beings, through the fulfilment of the commandments and through mystical intention (kavvanah), are held to participate. These doctrines are attributed here to Luria and to the tradition that transmits them; the entry describes the system rather than adjudicating its truth.\n\nLuria himself committed almost nothing to writing. What survives as 'Lurianic' teaching comes overwhelmingly through his disciples, and above all through Chaim Vital, whose systematic presentation of the master's teaching, the Etz Chaim ('Tree of Life'), together with the larger corpus later arranged by Vital's son Samuel as the Shemonah She'arim (the 'Eight Gates'), became the canonical form in which Lurianic Kabbalah was received and transmitted. The transmission is itself a matter of scholarly attention, since Vital's account is one recension among others and the relation between the historical Luria and the system that bears his name is mediated by his disciples; this entry therefore attributes the doctrines to Luria as transmitted by Vital, and notes that the load-bearing written sources are Vital's and the modern scholarship, not Luria's own pen. Lurianic Kabbalah went on to shape later Jewish mysticism deeply, including Sabbatianism and, later, Hasidism. Luria is presented here on the tradition's own terms as the Ari, the master of the Safed fellowship, with the historical and philological scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Isaac Luria, the Ari, on the tradition's own terms as the master of the Safed kabbalistic fellowship, and is HONEST about the sourcing problem central to him: he wrote almost nothing, so the load-bearing sources are (i) his disciple Chaim Vital's Etz Chaim (primary, open on Sefaria) and (ii) the modern scholarship (Fine, Scholem), NOT Luria's own hand. The doctrines (tzimtzum, shevirat ha-kelim, tikkun) are ATTRIBUTED to Luria as transmitted by Vital and as reconstructed by the scholarship, and the system is DESCRIBED, not adjudicated (neutrality #1). The name/acronym is handled with both readings openly: 'ha-Elohi Rabbi Yitzchak' (the divine Rabbi Isaac, the reading given in the task and common in the tradition) and '(ha-)Ashkenazi Rabbi Yitzchak' (reflecting his family origin), with 'ari' as the Hebrew for 'lion'; both are reported, neither asserted as the sole correct etymology (neutrality #2). Sourcing triangulates the three lenses per neutrality #8-9: (a) academic historians of Jewish mysticism (Gershom Scholem, Major Trends in Jewish Mysticism, on the Lurianic system; Lawrence Fine, Physician of the Soul, Healer of the Cosmos, Stanford 2003, on Luria and his fellowship); (b) the primary text, open and auditable on Sefaria, Vital's Sefer Etz Chaim (Luria's teaching as transmitted by his disciple); (c) a contemporary Jewish scholar (Fine; also Moshe Idel, Kabbalah: New Perspectives). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: Sefer Etz Chaim 1:1 on Sefaria was read for this entry, and its OPENING (on Ein Sof, 'the uppermost light... called Ein Sof', and 'the hall of Adam Kadmon') was confirmed verbatim, so that specific opening passage is rated high; but the fuller tzimtzum/shevirah/tikkun exposition was NOT read line-by-line at that location, so the Etz Chaim citation is kept honest and the doctrinal summary rests on Scholem and Fine (medium). Fine and Scholem are medium, verified via publisher and library records. Because the load-bearing doctrinal claims rest on transmitted and secondary sources rather than on Luria's own reviewed-and-quoted writing, this entry is authored as a DRAFT and is best treated as reviewed-only rather than verified until a Lurianic doctrinal passage is read line-by-line. Relation targets: kabbalah, zohar, tzimtzum, tikkun, sefirot, ein-sof are same-batch targets; talmud exists; chaim-vital, safed, and hasidism are dangling forward references to not-yet-created entities.",
+  "lifespan": {
+    "birth": 1534,
+    "death": 1572,
+    "note": "1534-1572 CE. Born in 1534 (the traditional account places his birth in Jerusalem); spent formative years in Egypt; settled in Safed (Tzfat) in the Galilee for the final period of his life, where he taught his fellowship, and died there in 1572 at the age of thirty-eight."
+  },
+  "relations": [
+    {
+      "type": "articulated",
+      "target": "tzimtzum",
+      "note": "Tzimtzum, the divine contraction or self-withdrawal of Ein Sof to make room for a finite world, is a central doctrine of Lurianic Kabbalah, attributed to Luria as transmitted by Vital and reconstructed by scholarship (Scholem). The tzimtzum entry is authored in the same batch."
+    },
+    {
+      "type": "articulated",
+      "target": "tikkun",
+      "note": "Tikkun, the repair or mending of the shattered cosmic order and the raising of the fallen sparks, in which human deeds and mystical intention are held to participate, is a central doctrine of Lurianic Kabbalah, attributed to Luria as transmitted by Vital. The tikkun entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Isaac Luria is the central figure of Lurianic Kabbalah, the reworking of kabbalistic theosophy that became the dominant form of Jewish mysticism after the sixteenth century. The kabbalah entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "Lurianic Kabbalah reworked the theosophy of the Zohar, the central classical work of Kabbalah, into its own mythic system of contraction, breaking, and repair. The zohar entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "Luria's system develops the doctrine of the sefirot, reconfiguring their emanation through the breaking of the vessels and their repair (the reconstitution of the sefirot into partzufim, 'countenances'). The sefirot entry is authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "Tzimtzum is the self-withdrawal of Ein Sof, the infinite God, which had filled all reality; Ein Sof is thus the starting point of the Lurianic account of creation. The ein-sof entry is authored in the same batch."
+    },
+    {
+      "type": "teacher_of",
+      "target": "chaim-vital",
+      "note": "Chaim Vital was Luria's principal disciple and the transmitter of his teaching; his Etz Chaim and the Shemonah She'arim (arranged by his son Samuel) are the canonical written form of Lurianic Kabbalah. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "member_of",
+      "target": "safed",
+      "note": "Luria was the master of the kabbalistic fellowship at Safed (Tzfat) in the Galilee, then a leading centre of Jewish mystical and legal activity (Fine, Physician of the Soul). Dangling forward reference to a not-yet-created entity (a place/community)."
+    },
+    {
+      "type": "influenced",
+      "target": "hasidism",
+      "note": "Lurianic Kabbalah deeply shaped later Jewish mysticism, including the Hasidic movement, which drew on its concepts of the sparks, tikkun, and mystical intention (kavvanah); stated as historical influence. Dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Vital, Chaim. Sefer Etz Chaim ('Tree of Life'), Gate 1, chapter 1, open Hebrew and English text on Sefaria. The systematic presentation of Isaac Luria's teaching recorded by his disciple Chaim Vital, and the canonical written form of Lurianic Kabbalah. Cited as the primary (transmitted) text for Luria's system; its opening (Sefer Etz Chaim 1:1) describes 'the uppermost light, infinitely beyond, called Ein Sof', which 'cannot be grasped in any way, neither by thought nor by reflection', and 'the hall of Adam Kadmon' as the first of seven palaces. The opening passage on Ein Sof and Adam Kadmon was read line-by-line; the fuller tzimtzum/shevirah/tikkun exposition was not read verbatim at this location and rests on the scholarship below.",
+      "url": "https://www.sefaria.org/Sefer_Etz_Chaim.1.1",
+      "license": "Hebrew original in the public domain; Sefaria's English community translation under a CC0 license. Sefer Etz Chaim 1:1 opening read line-by-line via the Sefaria text API (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. xiii + 480 pp. The first full scholarly study of Luria in English, treating him as the master of a lived mystical community and reconstructing his life, teaching, and fellowship in Safed; cited as the load-bearing academic and contemporary-Jewish-scholarship lens for Luria the person, the Safed fellowship, and the Lurianic doctrines. Verified to exist and be on-topic (Stanford University Press record, ISBN 9780804748261; AJS Review notice), not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=1471",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (repr. 1946, 1954, 1995). The foundational modern academic study of Jewish mysticism, whose lecture on 'Isaac Luria and His School' remains a standard reconstruction of the Lurianic system (tzimtzum, shevirat ha-kelim, tikkun) and of its transmission through Vital; cited as the academic lens for the Lurianic doctrines. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive), not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988. A historical and phenomenological study of Kabbalah; cited as a contemporary-Jewish-scholarship lens on the kabbalistic system within which Lurianic Kabbalah stands and on the methodological question of how Luria's teaching is reconstructed from his disciples. Verified to exist and be on-topic (Yale University Press record, ISBN 9780300046991), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300046991/kabbalah/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

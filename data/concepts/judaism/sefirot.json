@@ -1,0 +1,90 @@
+{
+  "id": "sefirot",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sefirot",
+    "original": "סְפִירוֹת",
+    "transliteration": "sefirot (sing. sefirah)",
+    "aliases": [
+      "Sephirot",
+      "Sefiroth",
+      "the ten sefirot",
+      "the ten emanations",
+      "sefirah (singular)"
+    ]
+  },
+  "category": "theology",
+  "summary": "The sefirot (singular sefirah) are, in Kabbalah, the ten emanations, attributes, or potencies through which Ein Sof, the hidden infinite, manifests and acts and through which the created world is sustained. They are conventionally named Keter, Chochmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, and Malchut (Shekhinah), arranged as the 'tree' and mapped onto the divine name and the human form (Adam Kadmon).",
+  "description": "In Kabbalah the ten sefirot are the potencies, attributes, or 'vessels' through which the concealed and unknowable Ein Sof emanates, becomes describable, and sustains the higher worlds and the created order. They are conventionally enumerated as Keter (Crown), Chochmah (Wisdom), Binah (Understanding), Chesed (Loving-kindness), Gevurah or Din (Strength, Judgment), Tiferet (Beauty), Netzach (Eternity, Victory), Hod (Splendor), Yesod (Foundation), and Malchut (Kingship), the last of which is identified with the Shekhinah, the indwelling divine presence. In the classical Kabbalah they are arranged in a structured pattern, later drawn as the 'tree' of the sefirot, and are read as reflecting the structure of the divine name and as corresponding to the primordial human form, Adam Kadmon; the flow of divine influx (shefa) descends through them, and the harmony of the sefirot is bound up with the religious and moral life of Israel.\n\nThe term sefirot originates in the Sefer Yetzirah (the Book of Formation), among the oldest speculative Hebrew texts, which speaks of 'ten sefirot belimah' (ten sefirot of nothingness, or ineffable sefirot) alongside the twenty-two letters of the Hebrew alphabet as the elements of creation. There the insistence is on their exact number: 'Ten sefirot belimah, ten and not nine, ten and not eleven.' In the Sefer Yetzirah the sefirot are primary numbers or cosmic principles rather than divine emanations in the later sense. The theosophical meaning, the sefirot as the ten aspects or potencies of the Godhead itself, develops in the medieval Kabbalah: the Sefer ha-Bahir (late twelfth century) gives an early account of the ten divine 'sayings' or powers, and the Zohar (late thirteenth century) elaborates them into a full symbolic system, in which the sefirot are the stages of emanation from Ein Sof, beginning with the most hidden, Keter, and the point of Chochmah called Reshit, 'Beginning', the first aspect of God that can be known.\n\nIn the scholarship, Gershom Scholem described the sefirot as the ten stages by which the concealed Ein Sof unfolds into the revealed and knowable God, and traced the doctrine's roots in the Sefer Yetzirah and the Bahir. Moshe Idel, revising Scholem's genealogy, emphasizes the sefirot's continuity with earlier rabbinic and speculative material and reads theosophical Kabbalah as an active mystical tradition rather than only a descriptive system. Arthur Green, a contemporary Jewish scholar, presents the sefirot as 'the One and the ten', the single divine reality apprehended in ten aspects. These readings are recorded as attributed scholarship, and the editor adjudicates none of them.",
+  "editorial_notes": "This entry presents the sefirot on Kabbalah's own terms (neutrality #1, #4, #6): the ten emanations or potencies through which the hidden Ein Sof manifests. It distinguishes honestly between the Sefer Yetzirah's earlier sense (the sefirot as primary numbers or cosmic principles) and the later theosophical sense (the sefirot as aspects of the Godhead), reporting the development rather than flattening it (neutrality #2). Sourcing triangulates the three lenses required for a Jewish concept per neutrality #8-9: (a) academic historians of Kabbalah (Gershom Scholem, Major Trends in Jewish Mysticism; Moshe Idel, Kabbalah: New Perspectives, 1988); (b) the primary text, open and auditable on Sefaria (Sefer Yetzirah 1:1-1:8 on the ten sefirot belimah), read line-by-line; the Zohar and the Bahir are named as the theosophical development; (c) a contemporary Jewish scholar (Arthur Green, Ehyeh: A Kabbalah for Tomorrow, the chapter 'Sefirot: The One and the Ten'). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. VERIFIED (2026-07-23): the load-bearing passage Sefer Yetzirah 1:1-1:8 was READ line-by-line on Sefaria (Sefaria Community Translation, CC0), and the load-bearing line, 'Ten Sefirot Belimah, Ten and not nine, ten and not eleven', appears verbatim at Sefer Yetzirah 1:4; the primary source therefore carries honest high confidence. Scholem, Idel, and Green are medium, verified to exist and be on-topic via publisher and journal-review records, not read line-by-line. CROSS-TRADITION (compares_with, neutrality #10, ADR-0005): the note to neoplatonism states the shared QUESTION (an ineffable source and its derived, emanated manifestation) and the DIFFERENCE, ranking and equating neither, attributed to each tradition. Relation targets: ein-sof, zohar, kabbalah, and shekhinah are same-batch (Malchut = Shekhinah); neoplatonism and plotinus exist.",
+  "relations": [
+    {
+      "type": "derives_from",
+      "target": "ein-sof",
+      "note": "The sefirot are the ten emanations that proceed from Ein Sof, the hidden and unknowable infinite; they are the potencies through which Ein Sof manifests, becomes describable, and sustains the worlds. The first and most hidden sefirah, Keter, is figured in the Zohar as almost coeternal with Ein Sof and as the threshold of emanation."
+    },
+    {
+      "type": "related_to",
+      "target": "shekhinah",
+      "note": "The tenth and lowest sefirah, Malchut (Kingship), is identified in the Kabbalah with the Shekhinah, the indwelling divine presence; it is the sefirah that receives the influx of the others and stands closest to the created world, and its exile and reunion are a central theme of kabbalistic theosophy."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "The Zohar (late thirteenth century) elaborates the ten sefirot into a full symbolic system, mapping them onto the divine name, the human form (Adam Kadmon), and the drama of divine emanation from Ein Sof; it is the classical text of the theosophical doctrine of the sefirot."
+    },
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "The doctrine of the ten sefirot is a central structure of Kabbalah, the tradition of Jewish esoteric theosophy in which the hidden Ein Sof and the emanated sefirot form the account of the Godhead and its relation to the world."
+    },
+    {
+      "type": "compares_with",
+      "target": "neoplatonism",
+      "note": "The kabbalistic sefirot and the Neoplatonic hierarchy of hypostases both address the shared question of how a plural, ordered, describable reality proceeds from a single ineffable source by emanation; this link compares that question, not the answers, ranking and equating neither (neutrality #10). The difference is one of framing: the sefirot are the ten aspects or potencies of the one God of Israel, through which the hidden Ein Sof manifests and through which scripture, covenant, and the created world are sustained, arranged as the 'tree' and mapped onto the divine name and the human form; the Neoplatonic hypostases (the One, Intellect, Soul) are the levels of a philosophical metaphysics proceeding from the One beyond being. Scholars note historical contact (Neoplatonic emanation reached Jewish thought through figures such as Ibn Gabirol), but each is attributed to its own tradition and neither is the measure of the other."
+    },
+    {
+      "type": "compares_with",
+      "target": "plotinus",
+      "note": "The sefirot and Plotinus's emanated order (Intellect and Soul proceeding from the One) both address the shared question of a graded procession from an ineffable first principle; this link compares the question and states the difference, ranking neither (neutrality #10). In the Enneads the procession is a philosophical account in which 'Soul is an utterance and act of the Intellectual-Principle as that is an utterance and act of The One'; the sefirot are the ten divine potencies of a theistic mystical theology, emanating from the hidden Ein Sof and bound up with the religious and moral life of Israel. Each is attributed to its own tradition; the comparison equates neither the number, the structure, nor the theological status of the two schemes."
+    }
+  ],
+  "historical_period": {
+    "start": 300,
+    "note": "The term 'sefirot' originates in the Sefer Yetzirah (the Book of Formation), whose dating is contested in scholarship, placed variously from late antiquity (roughly the third to sixth centuries CE) through the early medieval period; there the sefirot are primary numbers or cosmic principles. The theosophical doctrine of the sefirot as divine emanations develops later, in the Sefer ha-Bahir (late twelfth century) and the Zohar (late thirteenth century). No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "Sefer Yetzirah (The Book of Formation), 1:1-1:8, open Hebrew and English text on Sefaria (Sefaria Community Translation, CC0). The oldest speculative Hebrew text to use the term: 'Ten Sefirot Belimah and Twenty-Two Letters of Foundation' (1:2), and the load-bearing insistence on their number, 'Ten Sefirot Belimah: Ten and not nine, ten and not eleven. Understand with Wisdom and become wise with Understanding' (1:4), continuing 'Their measure is ten; they have no edge' (1:5) and 'Their end is attached to their start' (1:7). Primary text for the origin of the sefirot; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Sefer_Yetzirah.1",
+      "license": "Hebrew original in the public domain; Sefaria's English (Sefaria Community Translation, CC0). Sefer Yetzirah 1:1-1:8 read line-by-line via Sefaria (2026-07-23).",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken, 1941 (3rd rev. ed. 1954). The foundational academic account of Kabbalah, describing the sefirot as the ten stages by which the concealed Ein Sof unfolds into the revealed and knowable God, and tracing the doctrine's roots in the Sefer Yetzirah and the Bahir. Cited as the academic-historian lens. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988 (National Jewish Book Award in Scholarship, 1989). A major revisionist study that examines the sefirot and reads theosophical Kabbalah as an active mystical tradition with roots in earlier rabbinic and speculative material, revising Scholem's genealogy. Cited as a second academic-historian lens. Verified to exist and be on-topic (AJS Review), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/ajs-review/article/abs/continuity-and-revision-in-the-study-of-kabbalah-moshe-idel-kabbalah-new-perspectives-new-haven-yale-university-press-1988-xx-419-pp/957278898CE30D6723C595D6494C9B70",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Green, Arthur. Ehyeh: A Kabbalah for Tomorrow. Woodstock, VT: Jewish Lights, 2003. A contemporary Jewish scholar of Jewish thought and spirituality; the chapter 'Sefirot: The One and the Ten' presents the sefirot as the ten aspects in which the single divine reality (Ein Sof) is apprehended. Cited as the contemporary-Jewish-scholarship lens. Verified to exist and be on-topic (publisher records), not read line-by-line.",
+      "url": "https://www.barnesandnoble.com/w/ehyeh-arthur-green/1005244120",
+      "license": "Proprietary; cited for reference (catalogue page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}
