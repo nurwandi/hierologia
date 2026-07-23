@@ -6,6 +6,33 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.13.0] - 2026-07-23
+
+Judaism Batch 2, the medieval Sephardic golden age and its great texts, the second step of the
+Judaism-to-parity campaign. All eight rest on open Sefaria primary texts read line-by-line and
+enter directly as `verified`.
+
+### Added
+- **Five figures**: `saadia-gaon` (the Gaon of Sura, the first systematic Jewish philosophy),
+  `judah-halevi` (the Andalusian poet and the Kuzari), `ibn-ezra` (the peshat exegete and
+  grammarian), `nachmanides` (the Ramban, Talmudist and early kabbalist; the forced Disputation
+  of Barcelona attributed on both sides, not adjudicated), and `david` (King David, on Judaism's
+  own terms, a shared figure compared with the Christian and Islamic readings, not harmonized).
+- **Three works**: `mishneh-torah` and `guide-for-the-perplexed` (Maimonides' code and his
+  philosophy) and `kuzari` (Judah Halevi's dialogue).
+
+### Changed
+- All eight enter as `verified` (open Sefaria primaries read line-by-line: Yesodei ha-Torah, the
+  Guide I.1/I.58, the Kuzari, Ibn Ezra on Deuteronomy 1:2, Ramban's foreword and on Genesis,
+  Beliefs and Opinions, 2 Samuel 7). The verified tier is now 63.
+- Corrected a stale "halakha is a dangling reference" note in `mishneh-torah` and `maimonides`
+  (halakha and mashiach now exist).
+
+### Notes
+- Judaism grows from 19 to 27 entities. The dataset is now 215: 115 Islamic, 68 Christian, 27
+  Jewish, 5 philosophy; 152 `reviewed` and 63 `verified`.
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.12.0] - 2026-07-23
 
 The Judaism section, which had no concept entities at all, gains its conceptual and medieval
