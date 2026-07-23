@@ -6,6 +6,42 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.16.0] - 2026-07-24
+
+Filling Christian gaps (Eastern Orthodoxy depth and modern theology) and deepening Judaism (closing
+dangling anchors). Twelve entries, six entering `verified` on open primary reads, six honestly
+`reviewed`.
+
+### Added (Christianity)
+- **Eastern Orthodoxy**: `gregory-palamas` (the hesychast theologian), `essence-energies-distinction`
+  (his central doctrine, the East-West difference with Thomist divine simplicity attributed, not
+  adjudicated), and `hesychasm` (the contemplative tradition of the Jesus Prayer).
+- **Modern theology**: `liberation-theology` (the movement's account and the CDF's critique both
+  attributed), `karl-barth` (rewritten from a thin stub; dialectical theology and the Barmen
+  Declaration), and `dietrich-bonhoeffer`.
+
+### Added (Judaism)
+- The Zohar-authorship pair `shimon-bar-yochai` (the historical Tanna, kept distinct from the
+  disputed mystical ascription) and `moses-de-leon` (the scholarly attribution), both mirroring the
+  `zohar` entry's non-adjudication.
+- `chaim-vital` (Luria's transmitter), `karaites` (presented on their own terms, not as the rabbinic
+  polemic's "heresy"), and the Modern-Orthodox figures `samson-raphael-hirsch` and
+  `joseph-soloveitchik`.
+
+### Changed
+- Verified (6): `gregory-palamas` (Palamas's Triads), `liberation-theology` (the CDF Instructions),
+  `karl-barth` (the Barmen Declaration), `shimon-bar-yochai` (Talmud Shabbat 33b, Pirkei Avot 4:13),
+  `chaim-vital` (Etz Chaim, Sha'ar ha-Gilgulim), and `samson-raphael-hirsch` (Hirsch's Nineteen
+  Letters), all on open primaries read line-by-line. The verified tier is now 80.
+- Reviewed (6), honestly: `essence-energies-distinction` (the East-West comparison rests on un-read
+  secondary), `hesychasm`, `dietrich-bonhoeffer`, `moses-de-leon` (the Zohar attribution rests on
+  Scholem), `karaites` (the Karaite primary corpus is not open), `joseph-soloveitchik`.
+
+### Notes
+- The dataset is now 244 entities: 115 Islamic, 73 Christian, 51 Jewish, 5 philosophy; 164 `reviewed`
+  and 80 `verified`.
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.15.0] - 2026-07-24
 
 Judaism Batch 4, modern Judaism, completes the parity campaign: the Judaism section grows from 11
