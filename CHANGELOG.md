@@ -6,6 +6,37 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.15.0] - 2026-07-24
+
+Judaism Batch 4, modern Judaism, completes the parity campaign: the Judaism section grows from 11
+to 45 entities across four batches and is now a substantial third pillar rather than a stub. Five
+of the ten enter `verified` on open primary reads; five are honestly held at `reviewed` because
+their defining works are modern, copyrighted, and not openly readable.
+
+### Added
+- **Movements**: `hasidism` (the mystical revival) and `haskalah` (the Jewish Enlightenment), and
+  the three modern denominations `reform-judaism`, `orthodox-judaism`, and `conservative-judaism`,
+  each presented on its own terms, their differences over halakhic authority attributed, with the
+  editor ruling none the authentic Judaism.
+- **Figures**: `baal-shem-tov` (the founder of Hasidism), `vilna-gaon` (the Mitnagdic leader),
+  `moses-mendelssohn` (the Haskalah), and the modern thinkers `martin-buber` and
+  `abraham-joshua-heschel`.
+
+### Changed
+- Verified (5), on open primaries read line-by-line: `hasidism` and `baal-shem-tov` (the Besht's
+  Tzava'at ha-Rivash on Sefaria), `moses-mendelssohn` (Jerusalem, 1783), `reform-judaism` (the
+  Pittsburgh 1885 and Columbus 1937 Platforms), and `orthodox-judaism` (Hirsch's Nineteen Letters).
+- Reviewed (5), honestly: `vilna-gaon` (the read primary, a terse Hebrew Be'ur ha-Gra gloss, is not
+  load-bearing for the entry's spine), `haskalah`, `conservative-judaism` (Emet Ve-Emunah is
+  access-restricted), `martin-buber` and `abraham-joshua-heschel` (their major works are copyrighted
+  20th-century texts). The verified tier is now 74.
+
+### Notes
+- The Judaism section is now 45 entities (11 -> 45 over v0.12.0-0.15.0), a credible third pillar
+  alongside Christianity and Islam. The dataset is now 233 entities: 115 Islamic, 68 Christian, 45
+  Jewish, 5 philosophy; 159 `reviewed` and 74 `verified`.
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.14.0] - 2026-07-23
 
 Judaism Batch 3, the Kabbalah (Jewish mysticism), the third step of the parity campaign. Six of
