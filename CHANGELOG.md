@@ -6,6 +6,38 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.14.0] - 2026-07-23
+
+Judaism Batch 3, the Kabbalah (Jewish mysticism), the third step of the parity campaign. Six of
+the eight enter `verified` on open primary reads; two are honestly held at `reviewed` because the
+open primary does not carry their distinctive Lurianic doctrine.
+
+### Added
+- **The tradition and its text**: `kabbalah` (the school) and `zohar` (its central text, whose
+  authorship, traditionally Shimon bar Yochai versus the scholarly Moses de Leon, is given as two
+  attributed positions, not adjudicated).
+- **Four concepts, verified**: `ein-sof` (the hidden Infinite), `sefirot` (the ten emanations),
+  `shekhinah` (the divine indwelling presence), and `tikkun` (Lurianic cosmic repair, with the
+  modern social-justice sense distinguished, not read back into Luria).
+- **Two held at `reviewed`** (honest): `tzimtzum` (Lurianic divine contraction) and `isaac-luria`
+  (the Ari, who wrote almost nothing) rest on secondary scholarship (Scholem, Fine) because the
+  open primary does not carry the load-bearing doctrine.
+
+### Changed
+- The six verified entries rest on open primaries read line-by-line (the Zohar and Bahir on
+  Sefaria; Sefer Yetzirah 1:4 for the ten sefirot; the Zohar 1:15a Pritzker prologue for Ein Sof;
+  Pirkei Avot 3:2/3:6 and Megillah 29a for the Shekhinah; Etz Chaim Shaar HaKlalim for tikkun).
+  The verified tier is now 69.
+- Cross-tradition `compares_with`: ein-sof and sefirot compare with Neoplatonism and Plotinus
+  (the One and its emanated hypostases), and ein-sof with Maimonidean negative theology.
+- Dropped Scholem's *Kabbalah* (Keter, 1974), a repackaging of his Encyclopaedia Judaica entries
+  (barred by the no-encyclopedias rule), in favor of his *Major Trends in Jewish Mysticism*.
+
+### Notes
+- Judaism grows from 27 to 35 entities. The dataset is now 223: 115 Islamic, 68 Christian, 35
+  Jewish, 5 philosophy; 154 `reviewed` and 69 `verified`.
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.13.0] - 2026-07-23
 
 Judaism Batch 2, the medieval Sephardic golden age and its great texts, the second step of the
