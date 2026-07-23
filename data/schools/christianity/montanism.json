@@ -1,0 +1,91 @@
+{
+  "id": "montanism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Montanism",
+    "original": "ἡ κατὰ Φρύγας αἵρεσις",
+    "transliteration": "hē kata Phrygas hairesis",
+    "aliases": [
+      "the New Prophecy",
+      "the Phrygian heresy",
+      "Cataphrygians",
+      "the Montanists"
+    ]
+  },
+  "summary": "Montanism, called by its own adherents the New Prophecy, was a prophetic renewal movement that arose in Phrygia in Roman Asia Minor around the 160s-170s CE, led by Montanus and the prophetesses Prisca (Priscilla) and Maximilla, and marked by ecstatic prophecy claimed as the voice of the Paraclete, a heightened expectation of the imminent end and the descent of the New Jerusalem at Pepuza, and a rigorist discipline. The wider church came to reject it; Tertullian of Carthage aligned himself with it in his later career. It is known largely through hostile heresiological sources, above all Eusebius quoting the Anonymous and Apollonius, balanced by Tertullian's own sympathetic later writings.",
+  "description": "Montanism is the name later tradition gave to a prophetic movement that its own adherents called the New Prophecy, which arose in Phrygia in Roman Asia Minor in roughly the 160s-170s CE (the ancient sources give differing dates and modern scholars debate them). Its central figures were Montanus and two prophetesses, Prisca (also called Priscilla) and Maximilla. The defining feature attributed to the movement is ecstatic prophecy: Montanus and the prophetesses were reported to speak in the first person as the voice of the Paraclete, the Spirit promised in the Gospel of John, delivering fresh revelation. Associated with this were a heightened expectation of the imminent end of the age and, according to the hostile witness Apollonius reported in Eusebius, the naming of Pepuza and Tymion, small towns in Phrygia, as the place where the New Jerusalem would descend and to which believers were gathered. The movement is further characterised in the sources by a rigorist discipline: stricter and additional fasting, a discouragement of second marriage, and a high valuation of martyrdom and a refusal to flee persecution. The evidence for Montanism is of two contrasting kinds, which modern scholarship reads together. The first, and the bulk of it, is hostile: the heresiologists who wrote to refute the movement, chief among them the material preserved by Eusebius of Caesarea in his Ecclesiastical History (Book 5, chapters 16-18), where he quotes at length an anonymous anti-Montanist writer (the Anonymous) and, separately, the writer Apollonius. The Anonymous reports that Montanus, in a Mysian village bordering Phrygia, fell into a kind of frenzy and ecstasy and began to prophesy contrary to the received custom of the church, that Priscilla and Maximilla likewise spoke as prophetesses, and that the faithful of Asia met and judged these utterances profane. Apollonius adds charges against the conduct of the leaders and the practices of the movement. These are hostile witnesses whose polemical purpose shapes what they preserve, and their reports are cited here as attributed hostile sources, not as neutral description. The very label 'Cataphrygians' (those 'of the Phrygians') and the framing of the movement as ecstatic and false prophecy come from this opposing tradition. The second kind of evidence is sympathetic: the later writings of Tertullian of Carthage, who in the last phase of his career aligned himself with the New Prophecy and defended its stricter discipline and its claim to continuing prophecy, and who is the principal surviving voice that speaks for the movement rather than against it, though from North Africa rather than from Phrygia itself. The wider church came to reject the New Prophecy, a matter of historical record stated here without the editor endorsing that verdict; the movement nonetheless persisted in parts of Asia Minor for centuries. Modern scholarship stresses that the hostile sources shape the surviving picture, that the term 'Montanism' and the charge of aberrant ecstasy are the opponents' framing, and that the movement is better understood on its own terms as a renewal claiming the ongoing voice of the Spirit; the prominence of women as prophetic authorities has been a particular focus of recent study. This entry presents the reported features as the sources report them, attributes the heresiological reports to their hostile witnesses, balances them against Tertullian's sympathetic testimony, and records the church's rejection as historical fact without adjudicating it.",
+  "editorial_notes": "Neutrality crux (#11): Montanism, called the New Prophecy by its adherents, is known largely through hostile witnesses, above all the anti-Montanist Anonymous and Apollonius quoted by Eusebius (Ecclesiastical History 5.16-18), who wrote to refute the movement. This entry accordingly presents the reported features (ecstatic prophecy as the voice of the Paraclete, the naming of Pepuza and Tymion, the rigorist discipline, the charge of false and ecstatic prophecy) as attributed to those hostile sources rather than stated as neutral fact, and balances them against Tertullian's own later, sympathetic testimony, the principal surviving voice for the movement. The label 'Cataphrygians' and the framing of the prophecy as aberrant come from the opposing tradition and are flagged as such. The wider church's rejection of the New Prophecy is stated as historical fact, but the entry does not endorse that verdict, nor does it endorse the movement's own claims. The scholarly caution that the hostile sources shape the surviving picture (Trevett, Nasrallah, Tabbernee) is recorded rather than resolved. Dates (founded c. 165) are approximate: the ancient sources give differing dates for the movement's beginning and modern scholars debate them, so the period is given with a note. Relation targets: tertullian exists (its tertullian related_to montanism edge is reciprocal to the related_to here); patristics and new-testament-canon exist. Montanus is a dangling target carried as founded_by and as key_figure (the prophetesses Prisca/Priscilla and Maximilla are named in the note); prisca and maximilla are not given separate relation edges to avoid multiplying dangling targets, but are recorded in the description and the key_figure note. Sources triangulate the three Christian lenses per neutrality principles #8-9: (a) modern academic scholarship, Trevett (Cambridge, 1996) and Tabbernee, Fake Prophecy and Polluted Sacraments (Brill, 2007); (b) the primary evidence of both kinds, Eusebius, Ecclesiastical History 5.16-18 cited AS an attributed hostile source (the Anonymous and Apollonius), and Tertullian's Montanist-era writings as the sympathetic primary voice; (c) Nasrallah, An Ecstasy of Folly (Harvard, 2003), the contemporary-scholar lens on prophecy and authority. No encyclopedias, Wikipedia, or tertiary sources are cited. Confidence: the Eusebius Ecclesiastical History 5.16-18 has been read line-by-line in the open NPNF translation and is rated high for the fact of the attributed hostile report (Montanus's ecstasy in the Mysian village bordering Phrygia, Priscilla and Maximilla as prophetesses, the church of Asia judging the utterances profane in 5.16, and Apollonius naming Pepuza and Tymion as the intended New Jerusalem in 5.18), not for the truth of the charges, since it is itself hostile testimony. The monographs (Trevett, Tabbernee) and Nasrallah are medium, verified to exist and be on-topic via publisher, peer-reviewed review, and catalogue records but not read line-by-line. Tertullian's Montanist-era writings are cited at medium as the sympathetic primary lens.",
+  "period": {
+    "founded": 165,
+    "active_until": 550,
+    "note": "Approximate. The New Prophecy arose in Phrygia in roughly the 160s-170s CE; the ancient sources give differing dates for its beginning (Eusebius' chronology and other reports diverge) and modern scholars debate them, so c. 165 is a scholarly convention, not a sharp event. The movement persisted in parts of Asia Minor for centuries, with adherents attested into the sixth century."
+  },
+  "relations": [
+    {
+      "type": "founded_by",
+      "target": "montanus",
+      "note": "Montanus, active in Phrygia in roughly the 160s-170s CE, is named in the sources as the movement's originator, prophesying as the voice of the Paraclete. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "key_figure",
+      "target": "montanus",
+      "note": "Alongside Montanus, the prophetesses Prisca (Priscilla) and Maximilla were the movement's leading prophetic voices; their prominence as women exercising prophetic authority is a particular focus of modern scholarship (Trevett, Nasrallah). Prisca and Maximilla are named in the description but are not given separate relation edges. Dangling target."
+    },
+    {
+      "type": "related_to",
+      "target": "tertullian",
+      "note": "Tertullian of Carthage aligned himself with the New Prophecy in his later career and is its principal surviving sympathetic voice; the degree of his adherence and whether he formally separated from the wider church are debated. Reciprocal to the existing tertullian related_to montanism edge."
+    },
+    {
+      "type": "related_to",
+      "target": "patristics",
+      "note": "Almost all the surviving pre-modern evidence for the New Prophecy comes from the patristic heresiologists (the Anonymous and Apollonius preserved in Eusebius, and later writers such as Epiphanius), who described the movement in order to refute it; their reports are hostile witnesses and are cited here as attributed hostile sources, balanced by Tertullian's sympathetic testimony."
+    },
+    {
+      "type": "related_to",
+      "target": "new-testament-canon",
+      "note": "The New Prophecy's claim to fresh, authoritative prophetic utterance as the voice of the Paraclete stood in tension with the wider church's developing sense of a closing body of received scripture; scholarship discusses the controversy as one factor in the church's clarification of prophetic and scriptural authority. The relationship is discussed, not adjudicated here."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Trevett, Christine. Montanism: Gender, Authority and the New Prophecy. Cambridge: Cambridge University Press, 1996. xiv + 299 pp. ISBN 0-521-41182-3 (hardback); 0-521-52870-4 (paperback). Academic monograph on the New Prophecy, its Phrygian origins, its prophets and prophetesses, its discipline and eschatology, and its reception, with sustained attention to the way the hostile sources shape the surviving picture and to the prominence of women in the movement; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/montanism/A958F2FE10BF3260DD1B61B2294B0447",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tabbernee, William. Fake Prophecy and Polluted Sacraments: Ecclesiastical and Imperial Reactions to Montanism. Supplements to Vigiliae Christianae, Texts and Studies of Early Christian Life and Language, 84. Leiden and Boston: Brill, 2007. xxxvii + 485 pp. ISBN 978-90-04-15819-1. Academic monograph identifying the known opponents of Montanism, classifying the charges levelled against the movement, and tracing the ecclesiastical and imperial measures taken against it; the outside-scholarship lens on the hostile reception that shapes the sources. Relevant passages not read line-by-line.",
+      "url": "https://brill.com/view/book/9789047421313/Bej.9789004158191.i-485_001.xml",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasrallah, Laura Salah. An Ecstasy of Folly: Prophecy and Authority in Early Christianity. Harvard Theological Studies 52. Cambridge, MA: Harvard University Press / Harvard Divinity School, 2003. ISBN 978-0-674-01228-8. Academic monograph reading early Christian debates over prophecy, ecstasy, and authority (including the anti-Phrygian source in Epiphanius and Tertullian's De Anima) as struggles over identity and power, and cautioning that the charge of aberrant ecstasy is the opponents' framing; the contemporary-scholar lens. Relevant passages not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/books/9780674012288",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Eusebius of Caesarea. The Church History (Historia Ecclesiastica), Book 5, chapters 16-18 (on Montanus and the New Prophecy). Translated by Arthur Cushman McGiffert, in Nicene and Post-Nicene Fathers, Second Series, Vol. 1, edited by Philip Schaff and Henry Wace. Buffalo, NY: Christian Literature Publishing Co., 1890. Primary source cited AS an attributed hostile witness, read line-by-line: 5.16 quotes the anonymous anti-Montanist writer (the Anonymous) reporting that Montanus, in a village called Ardabau in the part of Mysia bordering Phrygia, fell into frenzy and ecstasy and prophesied contrary to the received custom, that Priscilla and Maximilla spoke as prophetesses filled with a false spirit, and that the faithful of Asia met and pronounced the utterances profane; 5.18 quotes Apollonius against the movement, naming Pepuza and Tymion, small towns in Phrygia, as the place the Montanists called Jerusalem and to which they gathered people. High for the fact of the attributed hostile report, not for the truth of the charges, since it is itself hostile testimony; balanced by Tertullian's sympathetic later writings.",
+      "url": "https://www.newadvent.org/fathers/250105.htm",
+      "license": "Underlying text public domain; the cited chapters read in the NPNF translation.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Tertullian. On Fasting, against the Psychici (De Ieiunio adversus Psychicos), a Montanist-era treatise; with his other writings of that period (On Monogamy, On the Veiling of Virgins) in the same volume. In Ante-Nicene Fathers, vol. 4, trans. S. Thelwall, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe (Buffalo: Christian Literature Publishing Co., 1885). Cited as the principal surviving sympathetic primary voice for the New Prophecy, in which Tertullian defends its stricter fasting and its claim to continuing prophecy against the wider church he calls the Psychici. Cited for reference (the linked treatise opened, not read line-by-line); the degree of his adherence and whether he separated from the wider church are debated in the scholarship.",
+      "url": "https://www.newadvent.org/fathers/0408.htm",
+      "license": "Underlying text public domain; cited in the ANF translation.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

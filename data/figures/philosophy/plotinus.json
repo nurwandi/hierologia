@@ -1,0 +1,93 @@
+{
+  "id": "plotinus",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Plotinus",
+    "original": "Πλωτῖνος",
+    "transliteration": "Plōtinos",
+    "aliases": [
+      "Plotinos",
+      "Aflutin (Arabic: أفلوطين)",
+      "the founder of Neoplatonism"
+    ]
+  },
+  "roles": [
+    "philosopher"
+  ],
+  "summary": "Plotinus (c. 204/5-270 CE) was a Greek-speaking philosopher who studied under Ammonius Saccas at Alexandria and taught at Rome, and is conventionally regarded as the founder of the movement modern scholars call Neoplatonism. His treatises were edited after his death by his pupil Porphyry, who arranged them into six sets of nine, the Enneads; in them he set out a metaphysics of procession from a first principle, the One, through Intellect (Nous) and Soul, and of the soul's return toward its source.",
+  "description": "Plotinus lived in the third century CE, in the years around 204/5 to 270. His pupil and editor Porphyry, who wrote a Life of Plotinus prefixed to the collected treatises, records that Plotinus 'seemed ashamed of being in the body' and that, so deeply rooted was this feeling, 'he could never be induced to tell of his ancestry, his parentage or his birthplace'; the biographical details that survive therefore come largely from Porphyry. According to that Life, Plotinus was seized by a passion for philosophy at about twenty, found his teacher in Ammonius Saccas at Alexandria (exclaiming, on first hearing him, 'This was the man I was looking for'), and 'from that day' followed Ammonius continuously; at about forty, 'in the reign of Philip, he settled in Rome', where he taught for the rest of his life. He wrote nothing until relatively late, and his treatises were composed as occasional pieces arising from his teaching; Porphyry reports that after his master's death he had 'fifty-four treatises' before him, which he 'divided into six sets of nine', the arrangement (from Greek ennea, nine) that gives the Enneads their name and order.\n\nThe philosophy set out in the Enneads is presented here on its own terms. Plotinus did not regard himself as an innovator but as an interpreter of Plato, reading Plato together with elements of Aristotle and earlier Platonism; the label 'Neoplatonism' is a modern coinage. At the summit of his account stands a single ultimate principle, the One (to hen), also called the Good, which he describes as the source of all things while being no one of them and as transcending the Intellectual-Principle: in the Fifth Ennead 'the One is all things and no one of them; the source of all things is not all things', and 'the utterly simplex, and therefore first of all beings, must transcend the Intellectual-Principle'. From the One proceeds, without diminishing it, Intellect (Nous), the level of being and of the Platonic Forms, in which thinker and thought are one; Plotinus likens this outward procession to the way a thing gives off something of itself, 'thus fire gives out its heat'. From Intellect in turn proceeds Soul (Psyche), which orders and animates the cosmos and includes individual souls: 'Soul is an utterance and act of the Intellectual-Principle as that is an utterance and act of The One.' This procession or emanation of reality from the One is matched by a return (epistrophe): the human soul, drawn down into concern with the body and the sensible world, can ascend back through Intellect toward union with the One, an ascent that is at once philosophical and, in Plotinus's account, occasionally mystical.\n\nPlotinus's thought became one of the most influential currents in later philosophy and theology, and its reception by the monotheistic traditions is attributed here to those traditions rather than fused into his own philosophy. In Christianity his vocabulary and metaphysics were drawn on by Augustine, who recounts reading 'the books of the Platonists', and by the writer known as Pseudo-Dionysius the Areopagite, whose hierarchical and apophatic theology is deeply Plotinian. In the Islamic world Plotinian material circulated in Arabic, partly under the mistaken title the Theology of Aristotle, and shaped the metaphysics of emanation in the falasifa such as al-Farabi and Ibn Sina (Avicenna). In Jewish thought Neoplatonic themes reached figures such as Solomon ibn Gabirol. In each case the reading is that of the receiving tradition, worked into its own theological commitments, and is attributed to it rather than to Plotinus himself. He is presented here on his own terms as a philosopher, filed under the philosophy tradition per ADR-0007, and is not annexed to any religious tradition.",
+  "editorial_notes": "Plotinus is written here on his own terms as a philosopher and is filed under the philosophy tradition per ADR-0007: he is not a member of any religious tradition, and the entry does not present him as endorsing or belonging to Christianity, Islam, or Judaism. His religious receptions (Augustine and Pseudo-Dionysius in Christianity; al-Farabi and Ibn Sina in Islamic falsafa; Ibn Gabirol in Jewish thought) are named in the description as receptions by those traditions and are not fused into his own commitments; in the relations they are carried by the influenced/related_to edges to neoplatonism, plato, aristotle, and porphyry, not by any link annexing him to a religion. Dating (c. 204/5-270 CE) is conventional and follows Porphyry's Life; the birth year is approximate (c. 204/5), so the lifespan note records the qualification while the field carries birth 204, death 270. Both relation targets flagged as dangling in the brief remain dangling forward references to not-yet-written philosophy entries: ammonius-saccas (Plotinus's teacher) and porphyry (his pupil and editor). The relations to neoplatonism, plato, and aristotle point to existing entities: neoplatonism records the reciprocal key_figure edge to plotinus, and this founded edge is its counterpart. Sources triangulate philosophical scholarship with the primary texts per neutrality principles #8 and #9: (a) academic monographs, Lloyd P. Gerson, Plotinus (Arguments of the Philosophers; Routledge, 1994), and two contemporary studies, Pierre Hadot, Plotinus, or The Simplicity of Vision (Chicago, 1993), and Dominic J. O'Meara, Plotinus: An Introduction to the Enneads (Clarendon, 1993); (b) the primary texts, Plotinus's Enneads (Armstrong's Loeb; and the public-domain MacKenna translation) and Porphyry's Life of Plotinus prefixed to them. The shared secondary sources (Hadot, O'Meara, Gerson) are rated medium to match their rating in neoplatonism.json and were verified to exist and be on-topic via publisher and journal-review records (2026-07-23). The primary texts are rated high because the load-bearing passages were read directly in the public-domain MacKenna translation: the first three tractates of the Fifth Ennead were read (V.1 'The Three Initial Hypostases' for the procession of Intellect and Soul and the soul's return, V.2 for the One as all things and no one of them, and V.3 for the One transcending the Intellectual-Principle), and Porphyry's Life of Plotinus was read for the biography (shame at embodiment, refusal to speak of ancestry or birthplace, study under Ammonius at Alexandria, settling and teaching at Rome, and the arrangement of the fifty-four treatises into six sets of nine). Per the source rule, no encyclopedia is cited, including the Stanford Encyclopedia of Philosophy, and no tertiary or popular source.",
+  "lifespan": {
+    "birth": 204,
+    "death": 270,
+    "note": "c. 204/5-270 CE. The birth year is approximate (c. 204/5), following Porphyry's Life of Plotinus, and is entered as 204; the death in 270 CE is conventionally fixed. He studied at Alexandria and taught at Rome."
+  },
+  "relations": [
+    {
+      "type": "founded",
+      "target": "neoplatonism",
+      "note": "Plotinus is conventionally regarded as the founder of the movement modern scholars call Neoplatonism; the existing neoplatonism entry records the reciprocal key_figure relation to plotinus. The 'neo-' is a modern coinage; Plotinus took himself to be an interpreter of Plato."
+    },
+    {
+      "type": "influenced_by",
+      "target": "plato",
+      "note": "Plotinus understood himself not as an innovator but as a faithful interpreter of Plato, building his metaphysics of the One, Intellect, and Soul out of Plato's dialogues; the plato entry exists."
+    },
+    {
+      "type": "student_of",
+      "target": "ammonius-saccas",
+      "note": "Porphyry's Life reports that Plotinus found his teacher in Ammonius Saccas at Alexandria and followed him continuously for some eleven years. Forward reference to a not-yet-written philosophy entry (dangling)."
+    },
+    {
+      "type": "teacher_of",
+      "target": "porphyry",
+      "note": "Porphyry was Plotinus's pupil at Rome and, after his master's death, edited and arranged the treatises into the six Enneads and wrote the Life of Plotinus prefixed to them. Forward reference to a not-yet-written philosophy entry (dangling)."
+    },
+    {
+      "type": "related_to",
+      "target": "aristotle",
+      "note": "Plotinus read Plato together with elements of Aristotle, engaging his logic and his account of intellect while criticising other Aristotelian and Stoic positions; the aristotle entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Gerson, Lloyd P. Plotinus. Arguments of the Philosophers. London and New York: Routledge, 1994. Academic monograph giving a systematic account of Plotinus's arguments in metaphysics, epistemology, psychology, and ethics, and of the One, Intellect, and Soul; cited as the modern scholarly lens. Verified to exist and be on-topic via publisher and catalogue records; relevant passages not read line-by-line.",
+      "url": "https://www.routledge.com/Plotinus-Arg-Philosophers/Gerson/p/book/9780415174091",
+      "license": "Proprietary; cited for reference; text not reproduced.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hadot, Pierre. Plotinus, or The Simplicity of Vision. Trans. Michael Chase, with an introduction by Arnold I. Davidson. Chicago: University of Chicago Press, 1993 (French original Plotin ou la simplicite du regard, 1963). Academic study of Plotinus on the self, existence, virtue, and the vision of the One; cited as a contemporary scholarly lens. Verified to exist and be on-topic (publisher page), not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3684060.html",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "O'Meara, Dominic J. Plotinus: An Introduction to the Enneads. Oxford: Clarendon Press, 1993. Academic introduction placing Plotinus in his intellectual context and working through the central texts of the Enneads on the One, Intellect, Soul, and the soul's ascent; cited as a further contemporary scholarly lens. Verified to exist and be on-topic (Bryn Mawr Classical Review), not read line-by-line.",
+      "url": "https://bmcr.brynmawr.edu/1993/1993.04.06/",
+      "license": "Proprietary; cited for reference. URL is a journal-review record confirming the work.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Plotinus. The Enneads. Trans. Stephen MacKenna, rev. B. S. Page. London: Faber, 1956 (also in the public-domain MacKenna text). Primary text; the founding treatises of Neoplatonism, edited into six enneads by Porphyry. Cited as the primary-text lens for the One as source beyond being and the procession of Intellect (Nous) and Soul (Psyche) and the soul's return. The load-bearing passages of the Fifth Ennead were read directly in the public-domain MacKenna translation: from the first tractate (V.1, 'The Three Initial Hypostases'), 'thus fire gives out its heat' and 'Soul is an utterance and act of the Intellectual-Principle as that is an utterance and act of The One'; from the second tractate (V.2), 'the One is all things and no one of them; the source of all things is not all things'; and from the third tractate (V.3), that the first must 'transcend the Intellectual-Principle.' Also available in Armstrong's Loeb edition (Plotinus, Ennead V; LCL 444).",
+      "url": "https://classics.mit.edu/Plotinus/enneads.5.fifth.html",
+      "license": "Public domain (MacKenna translation; Greek original in the public domain). Armstrong's Loeb translation of the same text is proprietary.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Porphyry. On the Life of Plotinus and the Order of His Books, trans. Stephen MacKenna, prefixed to Plotinus, The Enneads; also trans. A. H. Armstrong in Plotinus, Ennead, Volume I: Porphyry on the Life of Plotinus. Ennead I, Loeb Classical Library 440, Cambridge, Mass.: Harvard University Press, 1966. Primary text and the principal source for Plotinus's life. The load-bearing biographical passages were read directly in the public-domain MacKenna translation: that Plotinus 'seemed ashamed of being in the body' and 'could never be induced to tell of his ancestry, his parentage or his birthplace'; his finding Ammonius at Alexandria ('This was the man I was looking for') and following him 'from that day'; that 'at forty, in the reign of Philip, he settled in Rome'; and Porphyry's dividing the 'fifty-four treatises' into 'six sets of nine'.",
+      "url": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Porphyry's_Life_of_Plotinus",
+      "license": "Public domain (MacKenna translation, Wikisource; Greek original in the public domain). Armstrong's Loeb translation of the same text is proprietary.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}

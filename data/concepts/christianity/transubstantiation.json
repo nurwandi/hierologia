@@ -1,0 +1,118 @@
+{
+  "id": "transubstantiation",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Transubstantiation",
+    "original": "transsubstantiatio",
+    "transliteration": "transsubstantiatio",
+    "aliases": [
+      "Transubstantiation of the Eucharist",
+      "Eucharistic change",
+      "Conversion of the whole substance"
+    ]
+  },
+  "category": "sacraments",
+  "summary": "Transubstantiation is the Roman Catholic doctrine that in the Eucharist the whole substance of the bread and wine is changed (converted) into the whole substance of the body and blood of Christ, only the appearances (accidents or species) of bread and wine remaining. The term was used at the Fourth Lateran Council (1215), given systematic form by Thomas Aquinas, and defined against the Reformers at the Council of Trent (1551); the Protestant traditions and Eastern Orthodoxy hold differing accounts of the Eucharistic presence.",
+  "description": "Transubstantiation, in Roman Catholic theology, is the doctrine that in the sacrament of the Eucharist the whole substance of the bread is converted into the substance of the body of Christ and the whole substance of the wine into the substance of his blood, so that after the consecration Christ is truly, really, and substantially present, while the sensible appearances (the accidents or species: taste, color, quantity, and the like) of bread and wine remain. The word entered official conciliar language at the Fourth Lateran Council (1215), whose first constitution taught that the bread and wine are 'changed in substance' (in the Latin, transsubstantiatis) by God's power into the body and blood of Christ. The doctrine was given systematic form by Thomas Aquinas, who, drawing on the Aristotelian distinction between substance and accident, argued in the Summa Theologiae (Third Part, question 75) that the substance of the bread cannot remain after the consecration but is wholly converted into the body of Christ, a change proper to no natural process and so called by 'a name of its own', transubstantiation, while all the accidents of bread and wine remain. Against the Protestant Reformers, the Council of Trent (Thirteenth Session, 1551) defined the doctrine, teaching that 'by the consecration of the bread and of the wine, a conversion is made of the whole substance of the bread into the substance of the body of Christ our Lord, and of the whole substance of the wine into the substance of His blood', a conversion 'suitably and properly called Transubstantiation', with the species only of the bread and wine remaining. The Reformation produced attributed alternatives. Martin Luther and the Lutheran tradition affirmed the real bodily presence of Christ in the Supper but rejected transubstantiation and its scholastic metaphysics, holding to what is often termed a sacramental union of the body and blood with the bread and wine (the label 'consubstantiation' was applied later, and Lutherans have generally not adopted it as their own term). The Reformed tradition, following theologians such as John Calvin, taught a real but spiritual feeding on Christ by faith through the Holy Spirit, and Huldrych Zwingli emphasized a memorial or symbolic understanding of the signs. Eastern Orthodoxy affirms that the bread and wine are genuinely changed into the body and blood of Christ and become so in reality, but has generally declined to bind that change to the Aristotelian substance-and-accident metaphysics or to make the scholastic term normative, treating the manner of the change as a mystery. These positions are recorded here as the attributed teachings of their respective holders, and none is adjudicated.",
+  "editorial_notes": "This entry presents transubstantiation as the doctrine of the Roman Catholic Church, stated on its own terms per neutrality principle #6, and records the Lutheran, Reformed, and Eastern Orthodox positions as attributed alternatives rather than adjudicating any of them, per principles #1, #2, and #4. The shared affirmation of a real presence (held in different forms by Catholics, Lutherans, and the Orthodox) is distinguished from the contested point (whether the change is to be described as a conversion of the whole substance in the Aristotelian sense). The label 'consubstantiation' is noted as a later term applied to the Lutheran view rather than the Lutherans' own, so as not to misattribute it. Sources triangulate three lenses per principles #8-9 as adapted for Christianity: an academic history of Eucharistic theology (Gary Macy, The Theologies of the Eucharist in the Early Scholastic Period, Clarendon Press, 1984) and a scholarly study of Aquinas (Brian Davies, The Thought of Thomas Aquinas, Clarendon Press, 1992); the primary corpus, read directly (the Council of Trent's Thirteenth Session, 1551, and Aquinas, Summa Theologiae III q.75, at newadvent.org; and the Fourth Lateran Council's first constitution); and a contemporary Catholic theologian (Herbert McCabe, God Still Matters, Continuum, 2002, whose essays 'Eucharistic Change' and 'Transubstantiation and the Real Presence' treat the doctrine). No encyclopedias or tertiary sources are cited. Confidence: high on the Trent Thirteenth Session, whose chapter IV and canon 2 defining the conversion of the whole substance 'suitably and properly called Transubstantiation' were read directly at papalencyclicals.net (11 October 1551), and high on Aquinas, Summa Theologiae III q.75, articles 2, 4, and 5, read directly at newadvent.org (the whole substance converted, a change with 'a name of its own', transubstantiation, the accidents remaining at article 5); medium on the secondary works, verified to exist and be on-topic via publisher pages and peer-reviewed reviews but not read line-by-line. A note on the Lateran IV citation: the Latin original of the constitution Firmiter credimus contains the participle transsubstantiatis, but the Tanner English translation renders it 'changed in substance'; both are recorded so the reader is not misled about the wording of either language. Relation targets present in the dataset: council-of-trent (which references transubstantiation), sacraments, reformation, martin-luther, john-calvin, huldrych-zwingli, reformed-tradition, roman-catholicism, eastern-orthodoxy. Dangling targets (not yet created, forward references): eucharist, real-presence.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "sacraments",
+      "note": "Transubstantiation is the Catholic account of the change that takes place in the sacrament of the Eucharist, one of the seven sacraments; the concept is situated within the tradition's sacramental theology."
+    },
+    {
+      "type": "related_to",
+      "target": "eucharist",
+      "note": "Transubstantiation names the Catholic doctrine of what happens to the bread and wine in the Eucharist. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "real-presence",
+      "note": "Transubstantiation is the Catholic explanation of the real presence of Christ in the Eucharist; Lutherans and the Orthodox affirm a real presence while describing the change differently, a distinction between a shared affirmation and its contested metaphysical account. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "articulated_by",
+      "target": "aquinas",
+      "note": "Thomas Aquinas gave the doctrine its systematic Aristotelian (substance/accident) form in the Summa Theologiae III q.75, read directly at newadvent.org. Attributed to Aquinas as his articulation, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-trent",
+      "note": "The Council of Trent (Thirteenth Session, 1551) defined transubstantiation against the Reformers, teaching the conversion of the whole substance of the bread and wine 'suitably and properly called Transubstantiation'; read directly at papalencyclicals.net. Trent references transubstantiation. Attributed to the Catholic Church, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "The Reformation rejected transubstantiation and produced the attributed Lutheran, Reformed, and memorialist alternatives; reported as the reformers' attributed positions and not adjudicated."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "reformed-tradition",
+      "note": "The Reformed tradition, following theologians such as Calvin, taught a real but spiritual feeding on Christ by faith through the Holy Spirit rather than a conversion of the substance of the elements. The link marks a difference of account, attributed and not ranked."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "martin-luther",
+      "note": "Luther affirmed the real bodily presence in the Supper but rejected transubstantiation and its scholastic metaphysics, holding to a sacramental union of body and blood with bread and wine (later labelled 'consubstantiation' by others, not by the Lutherans themselves). Attributed to Luther, not adjudicated."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "eastern-orthodoxy",
+      "note": "Eastern Orthodoxy affirms that the bread and wine are genuinely changed into the body and blood of Christ but has generally declined to bind that change to the Aristotelian substance-and-accident metaphysics or to make the scholastic term normative. The link marks a difference of formulation, attributed and not ranked."
+    }
+  ],
+  "historical_period": {
+    "start": 1215,
+    "end": 1551,
+    "note": "The term entered conciliar language at the Fourth Lateran Council (1215); the doctrine was given systematic Aristotelian form by Thomas Aquinas (Summa Theologiae, c. 1265-1274) and defined against the Reformers at the Council of Trent (Thirteenth Session, 1551). The doctrine continues in Catholicism to the present; the range marks the period of its naming and conciliar definition."
+  },
+  "sources": [
+    {
+      "citation": "The Council of Trent, Decree Concerning the Most Holy Sacrament of the Eucharist (Thirteenth Session, 11 October 1551), chapter IV (On Transubstantiation) and canon 2: 'by the consecration of the bread and of the wine, a conversion is made of the whole substance of the bread into the substance of the body of Christ our Lord, and of the whole substance of the wine into the substance of His blood; which conversion is, by the holy Catholic Church, suitably and properly called Transubstantiation', the species only of the bread and wine remaining. The primary-corpus lens giving the Catholic definition in its own document.",
+      "url": "https://www.papalencyclicals.net/councils/trent/thirteenth-session.htm",
+      "license": "Underlying conciliar text public domain. Chapter IV and canon 2 read directly (2026-07-23) and confirmed.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Thomas Aquinas, Summa Theologiae, Third Part (Tertia Pars), question 75 (Of the change of bread and wine into the body and blood of Christ), articles 2, 4, and 5: after the consecration the substance of the bread does not remain but the whole substance of the bread is converted into the whole substance of Christ's body, a conversion that is not natural and so 'can be called transubstantiation', while the accidents (species) of bread and wine remain (article 5). The primary-corpus lens on the doctrine's systematic Aristotelian form.",
+      "url": "https://www.newadvent.org/summa/4075.htm",
+      "license": "Public-domain scholastic text (English Dominican Province translation). Articles 2 and 4 read directly (2026-07-23) and confirmed.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Fourth Lateran Council (1215), first constitution (Firmiter credimus / On the Catholic Faith): the body and blood of Christ 'are truly contained in the sacrament of the altar under the forms of bread and wine, the bread and wine having been changed in substance, by God's power, into his body and blood' (Tanner translation; the Latin original reads transsubstantiatis). The primary text in which the term entered conciliar language.",
+      "url": "https://www.papalencyclicals.net/councils/ecum12-2.htm",
+      "license": "Underlying conciliar text public domain; the Tanner English translation is proprietary. The 'changed in substance / transsubstantiatis' clause read directly (2026-07-23) and confirmed; the divergence between the Latin term and the English rendering is noted in editorial_notes.",
+      "accessed": "2026-07-23",
+      "confidence": "high"
+    },
+    {
+      "citation": "Macy, Gary. The Theologies of the Eucharist in the Early Scholastic Period: A Study of the Salvific Function of the Sacrament according to the Theologians, c. 1080-c. 1220. Oxford: Clarendon Press, 1984. A scholarly study of the diversity of Eucharistic theology in the period leading up to and following the Fourth Lateran Council; the academic-history lens.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/theologies-of-the-eucharist-in-the-early-scholastic-period-a-study-of-the-salvific-function-of-the-sacrament-according-to-the-theologians-c-1080c-1220-by-gary-macy-pp-xi-248-oxford-clarendon-press-1984-15/4089985BE6DC85802047CA95DCA72089",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via peer-reviewed review (Journal of Ecclesiastical History) and the Clarendon/Oxford catalogue.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Davies, Brian. The Thought of Thomas Aquinas. Oxford: Clarendon Press, 1992. A standard scholarly exposition of Aquinas's thought, including his account of the Eucharist and transubstantiation in the Summa Theologiae; the academic study of the doctrine's systematic author.",
+      "url": "https://global.oup.com/academic/product/the-thought-of-thomas-aquinas-9780198267539",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Oxford University Press catalogue and a peer-reviewed review (Journal of Ecclesiastical History).",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McCabe, Herbert. God Still Matters. London: Continuum, 2002. A collection of essays by a contemporary Dominican theologian, including 'Eucharistic Change' and 'Transubstantiation and the Real Presence', expounding the doctrine in modern terms; the contemporary-theologian lens.",
+      "url": "https://www.cambridge.org/core/journals/new-blackfriars/article/abs/god-still-matters-by-herbert-mccabeop-continuum-london-2002-pp-264-1699-pbk/D90B382AAA712F95019B7B604F5F8B0C",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via a peer-reviewed review (New Blackfriars) and the publisher.",
+      "accessed": "2026-07-23",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-23",
+  "updated": "2026-07-23"
+}
