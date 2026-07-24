@@ -1,0 +1,97 @@
+{
+  "id": "devekut",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Devekut",
+    "original": "דְּבֵקוּת",
+    "transliteration": "devequt (devekus)",
+    "aliases": [
+      "Dveikut",
+      "Deveikut",
+      "Devekus",
+      "cleaving to God",
+      "attachment to God",
+      "communion with God",
+      "adhesion (of the soul to the divine)"
+    ]
+  },
+  "category": "mysticism",
+  "summary": "Devekut (Hebrew 'cleaving', 'attachment', 'communion') is the state of cleaving to God, the adhesion of the soul to the divine cultivated as a religious ideal. Rooted in the Torah's command to 'hold fast to' (cleave to) God (Deuteronomy 11:22 and 30:20), it is developed in medieval Kabbalah and, above all, in Hasidism, where it becomes a central spiritual ideal: the continual God-consciousness and communion the worshipper is to sustain not only in prayer and study but even in mundane action.",
+  "description": "Devekut, the abstract noun from the Hebrew root d-b-q ('to cleave', 'to cling', 'to hold fast'), names the ideal of cleaving to God, the soul's adhesion to or communion with the divine. Its scriptural anchor is the Torah's repeated command that Israel 'hold fast' to God: Deuteronomy 11:22 makes the inheritance of the land conditional on 'loving the ETERNAL your God, walking in all God's ways, and holding fast to [God]' (u-le-dovkah-vo, 'and to cleave to Him'), and Deuteronomy 30:20 likewise sets before Israel life 'by loving the ETERNAL your God, by heeding God's commands, and by holding fast to [God]', adding 'for thereby you shall have life and shall long endure'. The same verb underlies the noun devekut, so the later ideal is read within the tradition as the cultivation of this biblical cleaving.\n\nIn medieval Judaism the command to cleave to God was taken up both by philosophers and by the kabbalists, who read it as the goal of the contemplative and mystical life, the soul's attachment to the divine and, for some, its union with the sefirot or with the divine presence (Shekhinah). This entry presents these developments as attributed to their holders and does not adjudicate among them. In Hasidism, from the middle of the eighteenth century, devekut becomes a, and for many the, central spiritual ideal: the worshipper is counselled to keep a continuous awareness of and attachment to God, to serve God with this cleaving not only in fixed prayer and study but in every act, including the mundane. The Testament of the Besht (Tzava'at ha-Rivash) develops the verse 'I have set HaShem before me always' as 'a very lofty level' of continuous God-attentiveness, and teaches that even when travel or conversation interrupts prayer and study 'you must adhere to HaShem, blessed is He, in thought, and unify yourself to Him', serving God 'in all manner of service'; these lines are given as the movement's attributed teaching.\n\nThe meaning and place of devekut are themselves a subject of modern scholarship, recorded here as differing scholarly readings without the editor ruling between them. Gershom Scholem, in his essay 'Devekut, or Communion with God', argued that Hasidism made devekut, an ideal that in earlier Kabbalah was the summit reserved for a mystical elite, into the beginning rather than the end of the religious path and the everyday obligation of every worshipper, a 'democratization' of the mystical ideal; he also held that Hasidic devekut is communion, an intimate presence, rather than full unio mystica or absorption into God. Moshe Idel, in Hasidism: Between Ecstasy and Magic, contested aspects of Scholem's account, emphasizing older ecstatic and 'mystico-magical' models (drawing down divine vitality, the worshipper as vessel and channel) that he traces to non-Lurianic Kabbalah and to the ecstatic Kabbalah of Abraham Abulafia, and reading Hasidic devekut in stronger unitive and magical terms than Scholem allowed. Both readings are attributed here to their authors as scholarship.",
+  "editorial_notes": "This entry presents devekut on Judaism's own terms (neutrality #1, #4, #6): the biblical command to cleave to God, its medieval-kabbalistic and philosophical development, and its centrality in Hasidism, with the Hasidic material stated throughout as the movement's ATTRIBUTED teaching ('given as the movement's attributed teaching'), described and not affirmed. The differing scholarly readings of devekut are ATTRIBUTED and NOT adjudicated (neutrality #1-#2): Scholem's account (devekut as the Hasidic democratization of a formerly elite mystical ideal, and as communion rather than full mystical union) and Idel's alternative (older ecstatic and mystico-magical models, stronger unitive/magical emphasis, non-Lurianic and Abulafian roots) are each recorded as that scholar's reading, with the editor ruling between neither. Sources triangulate the three lenses required for a Jewish concept per neutrality #8-#9: (a) academic historians of Jewish mysticism (Scholem, 'Devekut, or Communion with God'; Idel, Hasidism: Between Ecstasy and Magic); (b) the primary texts, open and auditable on Sefaria (Deuteronomy 11:22 and 30:20, the biblical command to cleave, read line-by-line and quoted verbatim; and the Tzava'at ha-Rivash on continuous attachment and cleaving in all action, read line-by-line and quoted verbatim, sections 2 and 3); (c) the tradition's own primary Hasidic voice via that Testament. No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. VERIFIED (2026-07-24): Deuteronomy 11:22 ('by holding fast to [God]', u-le-dovkah-vo) and 30:20 ('by holding fast to [God]', 'for thereby you shall have life and shall long endure') were read line-by-line via the Sefaria text API and quoted verbatim, and are the load-bearing scriptural anchor, so the biblical primary carries honest HIGH confidence. The Tzava'at ha-Rivash on Sefaria is HIGH: sections 2 ('I have set HaShem before me always ... This is a very lofty level') and 3 ('you must adhere to HaShem, blessed is He, in thought, and unify yourself to Him ... serve HaShem in other ways') were read line-by-line and quoted verbatim as the load-bearing Hasidic text for continuous devekut including in mundane action; the English is a CC-BY translation (Markel, 2020) over a public-domain Hebrew (Warsaw, 1913). Scholem and Idel are medium, verified to exist and be on-topic (Scholem's essay: Review of Religion 15, 1950, 115-139, reprinted in The Messianic Idea in Judaism, Schocken, 1971, 203-227, and in Hundert ed., Essential Papers on Hasidism, NYU Press, 1991, 275-298; Idel: SUNY Press, 1995, whose Part II includes 'Zaddiq as Vessel and Channel in Hasidism' and chapters on mystical/magical prayer and study), not read line-by-line. Relation targets: hasidism, baal-shem-tov, kabbalah, sefirot, shekhinah, torah, and tanakh exist; maggid-of-mezeritch is a dangling forward reference.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "hasidism",
+      "note": "Devekut, continuous cleaving to God cultivated in prayer, study, and mundane action, is a central spiritual ideal of Hasidism; stated as the movement's attributed teaching, described and not affirmed (neutrality #1). The hasidism entry exists."
+    },
+    {
+      "type": "articulated_by",
+      "target": "baal-shem-tov",
+      "note": "Devekut is central to the teaching transmitted from Israel ben Eliezer, the Baal Shem Tov, as preserved in the Tzava'at ha-Rivash ('I have set HaShem before me always'; adhering to God in thought even when travel interrupts prayer and study); stated as his attributed teaching. The baal-shem-tov entry exists."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The ideal of devekut is anchored in the Torah's command to cleave to God, Deuteronomy 11:22 ('holding fast to [God]', u-le-dovkah-vo) and 30:20 ('by holding fast to [God] ... for thereby you shall have life'); the later noun shares the verb's root d-b-q. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "In medieval Kabbalah the command to cleave to God was read as the goal of the contemplative and mystical life, the soul's attachment to the divine; Scholem and Idel differ on how Hasidic devekut relates to this kabbalistic background, each reading attributed and not adjudicated (neutrality #2). The kabbalah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "Some kabbalists understood the soul's cleaving (devekut) as attachment to the sefirot, the divine emanations, and to the divine presence; recorded as an attributed kabbalistic reading, not adjudicated. The sefirot entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "shekhinah",
+      "note": "The soul's cleaving to God is associated in the mystical tradition with attachment to the Shekhinah, the indwelling divine presence; recorded as an attributed reading. The shekhinah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "maggid-of-mezeritch",
+      "note": "Dov Ber, the Maggid of Mezeritch, the principal organizer of Hasidism after the Besht and a co-source of the Tzava'at ha-Rivash, developed the ideal of devekut and the annihilation of self-awareness before God in the movement's teaching; stated as attributed. Dangling forward reference to a not-yet-created figure entity."
+    }
+  ],
+  "historical_period": {
+    "start": -600,
+    "note": "The scriptural command to cleave to God stands in Deuteronomy (11:22, 30:20), a book dated by critical scholarship to the first millennium BCE; the ideal of devekut is developed in medieval Kabbalah (from roughly the twelfth-thirteenth centuries CE) and becomes central in Hasidism from the mid-eighteenth century CE, where it remains a living ideal. No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "The Torah (Hebrew Bible), open Hebrew and English text on Sefaria: Deuteronomy 11:22 and 30:20, the command to cleave to God. Deuteronomy 11:22: 'If, then, you faithfully keep all this Instruction that I command you, by loving the ETERNAL your God, by walking in all God's ways, and by holding fast to [God]' (Hebrew u-le-dovkah-vo, 'and to cleave to Him'); Deuteronomy 30:20: 'by loving the ETERNAL your God, by heeding God's commands, and by holding fast to [God]. For thereby you shall have life and shall long endure upon the soil'. The verb (root d-b-q) is the root of the noun devekut; primary scripture for the ideal, read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Deuteronomy.11.22",
+      "license": "Hebrew original in the public domain; Sefaria's English translation (JPS Tanakh, Gender-Sensitive Edition, 2023) under a Creative Commons license. Deuteronomy 11:22 and 30:20 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Tzava'at ha-Rivash (Tzava'at HaRivash, the 'Testament of the Rivash', i.e. of Rabbi Israel Baal Shem), open Hebrew and English text on Sefaria; a collection of the directives of the Baal Shem Tov and his disciple the Maggid of Mezeritch. Cited as the openly-auditable primary Hasidic text for continuous devekut, read line-by-line: section 2 develops 'I have set HaShem before me always' as continuous God-attentiveness, closing 'This is a very lofty level'; section 3 teaches that even when travel or conversation interrupts prayer and study, 'you must adhere to HaShem, blessed is He, in thought, and unify yourself to Him ... you must serve HaShem in other ways', so that cleaving extends into mundane action. These lines were read and verified verbatim as the load-bearing text for Hasidic devekut in and beyond prayer.",
+      "url": "https://www.sefaria.org/Tzava'at_HaRivash.2",
+      "license": "English: CC-BY (The Way of the Baal Shem Tov, adapted into English by Rabbi Amiram Markel and Yehudah Shimon Markel, 2020, via neirot.com). Hebrew: public domain (Warsaw, 1913). Openly auditable; read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. 'Devekut, or Communion with God.' The Review of Religion 15 (1950): 115-139; reprinted in Gershom Scholem, The Messianic Idea in Judaism and Other Essays on Jewish Spirituality (New York: Schocken Books, 1971), 203-227, and in Gershon David Hundert, ed., Essential Papers on Hasidism: Origins to Present (New York: New York University Press, 1991), 275-298. The classic academic study of the term, arguing that Hasidism transformed devekut from the elite summit of earlier Kabbalah into the everyday beginning and obligation of every worshipper (a 'democratization' of the mystical ideal) and reading it as communion rather than full mystical union; cited as the academic-historian lens and for Scholem's attributed reading. Verified to exist and be on-topic (Review of Religion 1950; Schocken 1971; NYU Press 1991), not read line-by-line.",
+      "url": "https://www.nli.org.il/en/articles/RAMBI000475437/NLI",
+      "license": "Proprietary; cited for reference (National Library of Israel RAMBI bibliographic record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Hasidism: Between Ecstasy and Magic. SUNY Series in Judaica: Hermeneutics, Mysticism, and Religion. Albany: State University of New York Press, 1995. A contemporary academic study that contests aspects of Scholem's account of Hasidism, emphasizing older ecstatic and 'mystico-magical' models (drawing down divine vitality, the worshipper and the zaddik as vessel and channel) traced to non-Lurianic and Abulafian Kabbalah, and reading Hasidic devekut in stronger unitive and magical terms (Part II includes chapters on mystical and magical prayer and study and 'Zaddiq as Vessel and Channel in Hasidism'); cited as the academic lens and for Idel's attributed alternative reading. Verified to exist and be on-topic (SUNY Press 1995), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/H/Hasidism2",
+      "license": "Proprietary; cited for reference (publisher / SUNY Series record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

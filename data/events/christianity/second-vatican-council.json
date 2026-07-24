@@ -1,0 +1,103 @@
+{
+  "id": "second-vatican-council",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Second Vatican Council",
+    "original": "Concilium Oecumenicum Vaticanum Secundum",
+    "transliteration": "Concilium Vaticanum II",
+    "aliases": [
+      "Vatican II",
+      "Vatican Council II",
+      "Twenty-first Ecumenical Council (Catholic reckoning)"
+    ]
+  },
+  "category": "ecumenical council (Catholic reckoning)",
+  "location": "St Peter's Basilica, Vatican City, Rome",
+  "date": {
+    "year": 1962,
+    "end_year": 1965,
+    "note": "Met in four autumn sessions (1962, 1963, 1964, 1965): opened by Pope John XXIII on 11 October 1962 and, after his death in June 1963, continued and concluded by Pope Paul VI on 8 December 1965. Reckoned by the Catholic Church as the twenty-first ecumenical council; the term 'ecumenical council' here is the Catholic reckoning, not a claim binding on other communions."
+  },
+  "summary": "The Second Vatican Council (Vatican II) was the twenty-first ecumenical council in the Catholic reckoning, convened by Pope John XXIII in 1962 and concluded under Pope Paul VI in 1965. Called as an aggiornamento (updating) of the Catholic Church rather than to define doctrine against error, it issued sixteen documents, among them four constitutions (on the liturgy, the Church, divine revelation, and the Church in the modern world) and declarations on the Church's relation to non-Christian religions, on religious liberty, and on ecumenism, and it reshaped Catholic worship, self-understanding, and posture toward other Christians, other religions, and the modern world.",
+  "description": "The Second Vatican Council was the general council of the Catholic Church that met at St Peter's Basilica in Rome in four autumn sessions between 1962 and 1965. It was announced by Pope John XXIII in January 1959 and opened by him on 11 October 1962; after his death in June 1963 it was continued and brought to its close by Pope Paul VI on 8 December 1965. Unlike Trent or Vatican I, the council was not summoned to condemn a specific error or define a contested dogma; John XXIII framed its purpose as aggiornamento, an updating and pastoral renewal of the Church, and as a fresh presentation of the faith to the modern world. Some sixteen documents resulted, of which four hold the rank of constitution.\n\nThe Constitution on the Sacred Liturgy, Sacrosanctum Concilium (1963), reformed Catholic worship, calling for the full and active participation of the faithful and permitting wider use of the vernacular languages in the liturgy alongside Latin. The Dogmatic Constitution on the Church, Lumen Gentium (1964), expounded the Church as the pilgrim People of God and the mystical body of Christ, developed the doctrine of the collegiality of the bishops in union with the pope, and taught the universal call to holiness. The Dogmatic Constitution on Divine Revelation, Dei Verbum (1965), treated scripture and tradition as together transmitting the one deposit of revelation and encouraged access to scripture for the faithful. The Pastoral Constitution on the Church in the Modern World, Gaudium et Spes (1965), addressed the Church's engagement with contemporary society, culture, economic life, and peace.\n\nAmong the council's declarations and decrees, three are especially noted for reorienting the Church's external relations. The Declaration on the Relation of the Church to Non-Christian Religions, Nostra Aetate (28 October 1965), stated that the Catholic Church 'rejects nothing that is true and holy' in the other religions, regarded Muslims 'with esteem' as those who 'adore the one God' and who, 'though they do not acknowledge Jesus as God, revere Him as a prophet', and, addressing Judaism, taught that 'the Jews should not be presented as rejected or accursed by God, as if this followed from the Holy Scriptures' and 'decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone'. The Declaration on Religious Freedom, Dignitatis Humanae (1965), taught that the human person has a right to religious liberty, that no one is to be forced to act against conscience in religious matters nor restrained from acting according to it within due limits. The Decree on Ecumenism, Unitatis Redintegratio (1964), committed the Catholic Church to the movement for the restoration of unity among Christians and recognized other communions as bearing elements of sanctification and truth. Vatican II is reckoned by the Catholic Church as its twenty-first ecumenical council; the teachings recorded here are stated as what the council decreed and the Catholic Church holds, and are not endorsed or evaluated by the editor.",
+  "editorial_notes": "This entry states the documents of Vatican II as the attributed teaching the council promulgated for the Catholic Church (neutrality principles #1, #4, #6) and records the council's dates, purpose (aggiornamento), and the content of its principal texts as historical fact, without evaluating the doctrine. The statements of Nostra Aetate about Judaism, Islam, and other religions are quoted and attributed to the declaration itself: what the council decreed is reported as historical fact (the Church 'decries' antisemitism; teaches that the Jews 'should not be presented as rejected or accursed by God'; regards Muslims 'with esteem'), while the editor neither endorses nor contests the theological claims, and does not present the council's respectful posture toward other religions as adjudicating those religions' own self-understanding, which belongs to their own entries (principle #6). The council is called an ecumenical council in the Catholic reckoning, noted as such and not asserted as binding on other communions. Sources triangulate the three lenses required for a Christian topic per neutrality principles #8-9: (a) an academic historian of the council (O'Malley, What Happened at Vatican II, Belknap/Harvard 2008); (b) the primary corpus, the conciliar documents at vatican.va, read directly; (c) a contemporary Catholic theologian of the council's interpretation (Ormond Rush, The Vision of Vatican II, Liturgical Press 2019). No encyclopedias or tertiary sources are cited. VERIFIED (2026-07-24): the load-bearing primary source, Nostra Aetate (the Declaration on the Relation of the Church to Non-Christian Religions, 28 October 1965), was read line-by-line at vatican.va and the quoted clauses (section 2 on rejecting nothing true and holy; section 3 on Muslims and the one God; section 4 on the Jews not being rejected or accursed and on decrying antisemitism) confirmed verbatim; that primary source carries honest high confidence. O'Malley and Rush are medium, verified to exist and be on-topic (via the Harvard University Press catalogue and peer-reviewed reviews for O'Malley, and the Liturgical Press catalogue for Rush) but not read line-by-line. Relation targets present in the dataset: roman-catholicism, eastern-orthodoxy, liberation-theology, sacraments, new-testament-canon, sola-scriptura. Dangling forward references (not yet created): nostra-aetate, dignitatis-humanae, lumen-gentium, dei-verbum, gaudium-et-spes, unitatis-redintegratio, aggiornamento, heschel. This event is referenced by heschel (who consulted on Nostra Aetate) and by liberation-theology, both of which point at this council as a not-yet or newly resolved target.",
+  "relations": [
+    {
+      "type": "convened_by",
+      "target": "roman-catholicism",
+      "note": "The council was convened by Pope John XXIII (announced 1959, opened 1962) and continued and concluded by Pope Paul VI (1965) as a general council of the Catholic Church. Reported as historical fact."
+    },
+    {
+      "type": "produced",
+      "target": "nostra-aetate",
+      "note": "The council promulgated the Declaration on the Relation of the Church to Non-Christian Religions, Nostra Aetate (28 October 1965), read directly at vatican.va: it states the Church 'rejects nothing that is true and holy' in other religions, regards Muslims 'with esteem' as adoring 'the one God', and teaches that 'the Jews should not be presented as rejected or accursed by God' and 'decries ... displays of anti-Semitism'. Attributed to the council, not endorsed. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "lumen-gentium",
+      "note": "The Dogmatic Constitution on the Church, Lumen Gentium (1964), expounded the Church as the pilgrim People of God and taught episcopal collegiality and the universal call to holiness. Attributed to the council. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "dei-verbum",
+      "note": "The Dogmatic Constitution on Divine Revelation, Dei Verbum (1965), treated scripture and tradition as together transmitting the one deposit of revelation. Attributed to the council. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "gaudium-et-spes",
+      "note": "The Pastoral Constitution on the Church in the Modern World, Gaudium et Spes (1965), addressed the Church's engagement with contemporary society, culture, and peace. Attributed to the council. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "dignitatis-humanae",
+      "note": "The Declaration on Religious Freedom, Dignitatis Humanae (1965), taught a right to religious liberty and that no one is to be coerced in religious matters within due limits. Attributed to the council. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "produced",
+      "target": "unitatis-redintegratio",
+      "note": "The Decree on Ecumenism, Unitatis Redintegratio (1964), committed the Catholic Church to the movement for Christian unity and recognized elements of sanctification and truth in other communions. Attributed to the council. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "sacraments",
+      "note": "The Constitution on the Sacred Liturgy, Sacrosanctum Concilium (1963), reformed the celebration of the sacraments and the liturgy, calling for the active participation of the faithful and permitting wider vernacular use. Reported as the council's action."
+    },
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "The Decree on Ecumenism and the lifting in 1965 of the mutual excommunications of 1054 (by Paul VI and the Ecumenical Patriarch Athenagoras) belong to the council's opening toward the Orthodox and other churches. Reported as a historical relation, the East-West disputes themselves not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "liberation-theology",
+      "note": "Liberation theology, arising in Latin America after the council, drew on Gaudium et Spes and the council's engagement with the modern world and the poor, and was mediated by the Latin American bishops' conference at Medellin (1968). Reported as a historical relation; liberation-theology references this council."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council, Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions, promulgated by Pope Paul VI, 28 October 1965, at vatican.va. Section 2: 'The Catholic Church rejects nothing that is true and holy in these religions.' Section 3: 'The Church regards with esteem also the Moslems. They adore the one God, living and subsisting in Himself; merciful and all-powerful, the Creator of heaven and earth'; 'Though they do not acknowledge Jesus as God, they revere Him as a prophet.' Section 4: 'the Jews should not be presented as rejected or accursed by God, as if this followed from the Holy Scriptures'; the Church 'decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone.' The primary-corpus lens, giving the council's teaching in its own promulgated text.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "license": "Conciliar text, Libreria Editrice Vaticana; served publicly at vatican.va. The quoted clauses of sections 2, 3, and 4 read line-by-line (2026-07-24) and confirmed verbatim; the other constitutions (Sacrosanctum Concilium, Lumen Gentium, Dei Verbum, Gaudium et Spes) and decrees (Dignitatis Humanae, Unitatis Redintegratio) consulted as promulgated at the same vatican.va archive.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "O'Malley, John W. What Happened at Vatican II. Cambridge, MA: The Belknap Press of Harvard University Press, 2008. The leading modern narrative and analytical history of the council, from John XXIII's announcement in 1959 to the conclusion under Paul VI in 1965, its sessions, its debates, and the making of its documents; the academic-history lens.",
+      "url": "https://www.hup.harvard.edu/books/9780674047495",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Harvard University Press catalogue and peer-reviewed reviews (Journal of Ecclesiastical History; The Journal of Religion; The Historian).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rush, Ormond. The Vision of Vatican II: Its Fundamental Principles. Collegeville, MN: Liturgical Press, 2019. A contemporary Catholic theologian's synthetic account of the council's guiding principles and its interpretation (its 'spirit' and 'letter') across the sixteen documents; the contemporary-theologian lens.",
+      "url": "https://litpress.org/Products/8074/The-Vision-of-Vatican-II",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Liturgical Press catalogue.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

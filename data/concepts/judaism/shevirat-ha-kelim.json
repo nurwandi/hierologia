@@ -1,0 +1,89 @@
+{
+  "id": "shevirat-ha-kelim",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shevirat ha-Kelim",
+    "original": "שְׁבִירַת הַכֵּלִים",
+    "transliteration": "shevirat ha-kelim",
+    "aliases": [
+      "the breaking of the vessels",
+      "the shattering of the vessels",
+      "the shevirah",
+      "shevirat hakelim",
+      "sheviras hakeilim"
+    ]
+  },
+  "category": "cosmology",
+  "summary": "Shevirat ha-kelim (Hebrew 'the breaking of the vessels') is, in the Kabbalah of Isaac Luria, the central catastrophe of the cosmogonic drama: after the tzimtzum (the divine contraction) and the emanation of the divine light into the vessels (kelim) that were to hold it, the lower vessels could not contain the light and shattered, so that sparks of holiness (nitzotzot) fell and were scattered and trapped among the shards, from which the husks (kelipot) were formed. In the Lurianic system the shevirah accounts for the presence of evil and disorder in the world and sets the task of tikkun, the gathering of the fallen sparks and the repair of the broken order. It is presented here on Judaism's own terms as the doctrine attributed to Luria and recorded by his disciple Chaim Vital.",
+  "description": "In Lurianic Kabbalah the shevirat ha-kelim is the second moment of a cosmic drama of contraction, rupture, and repair. After the withdrawal of the infinite Ein Sof (the tzimtzum) and the emanation of a ray of light into the vacated space, the divine light was to be received and held in vessels (kelim), the vessels of the Sefirot. On the teaching attributed to Luria, the light entered the vessels from above downward; the higher vessels could bear it, but the lower vessels could not contain the light spreading into them and shattered, breaking apart and falling below. This is the shevirat ha-kelim, the breaking of the vessels. It is figured in the tradition, following a reading of Genesis 36, as the death of the 'seven kings of Edom' who 'reigned and died', the seven lower Sefirot from Chesed to Malkhut whose vessels could not sustain the light and were annulled.\n\nWhat is distinctive in Luria's teaching, as recorded by his disciple Chaim Vital in Etz Chaim, is the consequence of the breaking. When the vessels shattered, the greater part of the light withdrew upward to its source, yet some sparks of holiness (nitzotzot) remained caught within the broken vessels and fell with the shards into the lower realms; from these shards, entangled with the fallen sparks, the 'husks' or 'shells' (the kelipot) were formed, the domain of impurity and evil. Holiness itself thus became scattered and exiled, dispersed and imprisoned in the lower world among the husks. In the Lurianic account the shevirah is the origin of the disorder and evil of the cosmos, the point at which a flaw enters creation, and it is precisely this scattering of the sparks that sets the human task that follows: the gathering and raising of the fallen sparks, their separation from the husks, and the mending of the broken vessels, which the tradition calls tikkun (repair, rectification).\n\nThe historian Gershom Scholem set the shevirah as the middle of the three great symbols in which he read Luria's new myth of creation, exile, and return, between the tzimtzum (the divine self-contraction) and the tikkun (the mending), and read the whole as a myth in which a rupture at the heart of the divine emanation accounts for the brokenness of the world and charges human action with its repair. Lawrence Fine, in the fullest English study of Luria and his fellowship, likewise treats the breaking of the vessels and the scattering of the sparks among the kelipot as the pivot of the Lurianic cosmogony, the catastrophe from which the imperative of gathering the sparks through the commandments follows. These readings are recorded here as attributed scholarship, and the editor adjudicates none of them. The entry states the shevirah as the tradition's own, within the Lurianic system attributed to Isaac Luria and to Chaim Vital who recorded it, and does not affirm or deny the cosmology it describes.",
+  "editorial_notes": "This entry presents the shevirat ha-kelim on Judaism's own terms, within the Lurianic system, attributed to Isaac Luria and to Chaim Vital who recorded it (neutrality #1, #4, #6); the editor does not affirm or deny the Lurianic cosmology, and the scholarly readings (Scholem, Fine) are recorded as attributed interpretation, not adjudicated (#2). This is the sibling of the tzimtzum and tikkun entries, which reference shevirat-ha-kelim as a forward relation; it completes the three-symbol Lurianic sequence (tzimtzum, shevirah, tikkun). Sourcing triangulates the three lenses required for a Jewish concept (neutrality #8-9): (a) academic historians of Kabbalah (Gershom Scholem, Major Trends in Jewish Mysticism, 7th lecture, 'Isaac Luria and His School'); (b) the primary text, Chaim Vital's Etz Chaim, open on Sefaria; (c) a contemporary scholar (Lawrence Fine, Physician of the Soul, Healer of the Cosmos, Stanford 2003). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning, no Chabad.org), no Wikipedia, no tertiary sources. SOURCING (2026-07-24): the load-bearing Lurianic claim for THIS entry (the vessels that could not bear the light and shattered, the sparks that fell with the shards, and the kelipot formed from them) IS carried by an open primary read line-by-line. Etz Chaim, Shaar HaKlalim ch. 1, was read via the Sefaria text API and carries verbatim: that Chesed 'could not bear the light, and its vessel shattered and fell below', and so with all seven, 'the seven kings who died, of whom it is written he reigned and he died', 'these seven vessels were annulled because they had no capacity to bear the light spreading through them'; and that 'the lights withdrew upward to their place, yet still some sparks of holiness remained within the vessels, and these fell with the shattered vessels below, and from them the root of the husks, the Kelipot, was formed'. Because this passage was actually read and quoted from an open site, the Etz Chaim source is rated HIGH here (the shevirah is exactly what the open English carries, unlike the primal tzimtzum, which is why the tzimtzum entry holds this same text at medium while this entry holds it at high). Scholem and Fine (medium) are verified to exist and be on-topic, not read line-by-line; they carry the same medium rating they hold in tikkun.json and tzimtzum.json. Relation targets: isaac-luria, chaim-vital, kabbalah, tzimtzum, tikkun, ein-sof, sefirot all exist or are in the judaism batch.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "isaac-luria",
+      "note": "The breaking of the vessels is a doctrine of Isaac Luria (the Ari, 1534-1572); Luria left little in writing, and the teaching is known chiefly as recorded and systematized by his disciple Chaim Vital in Etz Chaim."
+    },
+    {
+      "type": "articulated_by",
+      "target": "chaim-vital",
+      "note": "Chaim Vital, Luria's principal disciple, recorded and systematized the doctrine of the shevirah in Etz Chaim, above all in Shaar HaKlalim, which carries the account of the seven kings whose vessels shattered and the sparks that fell among the husks."
+    },
+    {
+      "type": "part_of",
+      "target": "kabbalah",
+      "note": "The shevirat ha-kelim is a doctrine of the Lurianic school of Kabbalah, the reworking of the Kabbalah that spread from sixteenth-century Safed and became the dominant form of later Jewish mysticism."
+    },
+    {
+      "type": "related_to",
+      "target": "tzimtzum",
+      "note": "In the Lurianic sequence the shevirah follows the tzimtzum: after the contraction of Ein Sof and the emanation of the ray of light into the vacated space and the forming of the vessels, the lower vessels could not contain the light and shattered. Tzimtzum, the shevirah, and the tikkun form the three great symbols of the Lurianic myth (Scholem)."
+    },
+    {
+      "type": "related_to",
+      "target": "tikkun",
+      "note": "The shevirah sets the task of tikkun: the sparks of holiness (nitzotzot) scattered among the husks (kelipot) by the breaking of the vessels are gathered and raised, and the broken order mended, through the mitzvot performed with mystical intention. Tikkun is the repair of the rupture the shevirah caused."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "The light that the vessels were to hold is the light emanated from Ein Sof ('the Endless', the infinite Godhead) after its contraction; the shevirah is the failure of the lower vessels to contain that emanated light."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "The vessels (kelim) that broke are the vessels of the Sefirot; in the Lurianic account the seven lower Sefirot from Chesed to Malkhut, figured as the seven kings of Edom who 'reigned and died', are the vessels that could not bear the light and shattered."
+    }
+  ],
+  "historical_period": {
+    "start": 1570,
+    "end": 1590,
+    "note": "Isaac Luria taught in Safed in the years before his death in 1572; the doctrine of the shevirat ha-kelim was recorded and systematized by his disciple Chaim Vital, whose Etz Chaim is dated c. 1570-1590. No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "Vital, Chaim (recording the teaching of Isaac Luria). Sefer Etz Chaim (Tree of Life), Shaar HaKlalim ch. 1. Open Hebrew and English text on Sefaria. The passage carries the load-bearing Lurianic claim for the breaking of the vessels: Chesed 'could not bear the light, and its vessel shattered and fell below', and so with all seven, 'these are the seven kings who died, of whom it is written he reigned and he died', 'these seven vessels were annulled because they had no capacity to bear the light spreading through them from Sefirah to Sefirah' (the shevirat ha-kelim); and 'the lights withdrew upward to their place, yet still some sparks of holiness remained within the vessels, and these fell with the shattered vessels below, and from them the root of the husks, the Kelipot, was formed' (the scattered sparks, nitzotzot, and the kelipot). Primary text of the Lurianic system for the breaking of the vessels, the fallen sparks, and the husks; read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Sefer_Etz_Chaim%2C_Shaar_HaKlalim.1",
+      "license": "Hebrew original in the public domain; Sefaria's English translation under a Creative Commons license. Shaar HaKlalim ch. 1 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (3rd rev. ed. 1954). Seventh lecture, 'Isaac Luria and His School', pp. 244-286. Scholem sets the shevirah (the breaking of the vessels) as the middle of the three great symbols of Luria's myth, between tzimtzum (the self-contraction of God) and tikkun (the mending), and reads the whole as a myth in which a rupture in the divine emanation accounts for the brokenness of the world and charges human action with its repair; cited for the place of the shevirah in the Lurianic myth and as the academic-historian lens. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://archive.org/details/major-trends-in-jewish-mysticism-gershom-scholem-1961",
+      "license": "Proprietary; cited for reference. URL is an Internet Archive record confirming the work.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. The fullest English study of Isaac Luria and his fellowship; its account of the Lurianic cosmogony treats the breaking of the vessels and the scattering of the sparks of holiness among the husks (kelipot) as the pivot of the drama, the catastrophe from which the imperative of gathering the sparks through the commandments (tikkun) follows. Cited for the shevirah and its consequences and as the contemporary-scholarship lens. Verified to exist and be on-topic; not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=1741",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "sadducees",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sadducees",
+    "original": "צְדוּקִים",
+    "transliteration": "Tzedukim",
+    "aliases": [
+      "Tzedukim",
+      "Zadokites (as sometimes derived from Zadok)",
+      "the Sadducean party"
+    ]
+  },
+  "summary": "The Sadducees (Hebrew Tzedukim) were a party of Second Temple Judaism, prominent from roughly the second century BCE to the destruction of the Temple in 70 CE, associated in the surviving accounts with the priesthood, the Temple, and the Jerusalem aristocracy. Because they left no writings of their own, they are known entirely through external and largely unsympathetic sources (Josephus, the New Testament, and later rabbinic literature), which report that they upheld the authority of the Written Torah, rejected the oral tradition of the Pharisees, and denied the resurrection of the dead; they disappeared as a distinct party after the Temple's destruction.",
+  "description": "The Sadducees (Hebrew Tzedukim, a name often connected by the sources and by later tradition, though not with certainty, to the priestly line of Zadok) were one of the prominent parties of Second Temple Judaism, attested from about the second century BCE through the first century CE. In the accounts that survive they are associated with the Temple, the high priesthood, and the wealthy and aristocratic families of Jerusalem, and Josephus reports that their doctrine was received by few, though by those of the greatest standing (Antiquities 18.1.4).\n\nA decisive feature of this entry, stated at the outset, is a limitation of the evidence: the Sadducees left no literature of their own, and everything reported of their beliefs comes from external parties who did not share them, chiefly the historian Josephus (himself claiming Pharisaic affiliation), the Christian New Testament, and the later rabbinic literature, whose sages stood in the Pharisaic-rabbinic line. The positions summarized below are therefore presented as reported and attributed by these outside sources, not as the Sadducees' own self-description, which does not survive.\n\nOn these external reports, the Sadducees are said to have recognized the authority of the Written Torah while rejecting the body of ancestral tradition, the unwritten regulations handed down beyond the text of the law, that the Pharisees maintained and that rabbinic Judaism would later call the Oral Torah; on this account they held that only what is written is binding. Josephus, in Antiquities 18.1.4, states of them that 'the doctrine of the Sadducees is this, that souls die with the bodies', that is, they are reported to have denied the survival of the soul after death; elsewhere he presents them as denying fate or providence in the sense the Pharisees affirmed, holding instead that good and evil lie within human choice. The New Testament reports a parallel denial: the book of Acts states (23:8, King James Version) that 'the Sadducees say that there is no resurrection, neither angel, nor spirit; but the Pharisees confess both', and the Gospels likewise depict the Sadducees questioning Jesus about the resurrection as a doctrine they rejected. These reports, from Josephus and the New Testament, are the principal external attestation of the party's distinctive positions, and they are recorded here as such.\n\nThe Sadducees appear in the surviving sources chiefly in contrast to the Pharisees, the party whose oral tradition and doctrine of resurrection they are reported to have rejected, and the two are repeatedly paired as rivals; the accounts that describe this rivalry are themselves written from the Pharisaic, rabbinic, or Christian side, and no Sadducean account of it exists. With the destruction of the Second Temple by Rome in 70 CE, the institutional base of the party, the Temple, its cult, and its priesthood, was lost, and the Sadducees ceased to exist as an identifiable movement; rabbinic Judaism, the heir of the Pharisees, became the normative form of Judaism, and the memory of the Sadducees was thereafter transmitted largely through its literature and through the Christian scriptures.",
+  "editorial_notes": "The governing editorial fact of this entry is a sourcing limitation, stated in the summary and description and observed throughout: the Sadducees left NO writings of their own, and every report of their beliefs comes from EXTERNAL parties who did not share them, Josephus (self-identified as Pharisaic), the Christian New Testament, and the later rabbinic literature (Pharisaic-rabbinic in line). Per neutrality #1, #2, #4, and #11, their positions (upholding the Written Torah, rejecting the Pharisaic oral tradition, denying the resurrection, the survival of the soul, angels/spirits, and Pharisaic fate/providence) are therefore presented as ATTRIBUTED reports of these outside sources ('in the accounts that survive', 'they are reported to have', 'on this account', 'Josephus states', 'the New Testament reports'), never as the Sadducees' own voice, which does not survive, and never adjudicated by the editor. The Pharisee-Sadducee rivalry is likewise reported from the surviving (Pharisaic/rabbinic/Christian) side and flagged as such, not treated as neutral fact (neutrality #2, #11): the New Testament and rabbinic notices are external attestations of an intra-Jewish dispute, recorded as attributed positions rather than as descriptions the Sadducees themselves endorsed. Sources triangulate three lenses per neutrality #8-9: (a) academic historians (Cohen, From the Maccabees to the Mishnah, carried at the same medium rating as across the judaism entries; Saldarini's monograph on the three parties); (b) the primary/external attestations, two of them OPEN and read line-by-line, Josephus, Antiquities 18.1.4 on the soul dying with the body (Whiston translation, public domain, open at the University of Chicago Penelope host), and Acts 23:8 on the Sadducees denying resurrection, angel, and spirit (biblehub); and (c) a contemporary Jewish scholar (Cohen). No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the two open primaries are rated HIGH because they were read line-by-line and the load-bearing lines quoted verbatim, Josephus 18.1.4 'the doctrine of the Sadducees is this, that souls die with the bodies', and Acts 23:8 'the Sadducees say that there is no resurrection, neither angel, nor spirit; but the Pharisees confess both'. On the strength of these read external attestations the entry is verified-eligible for the attributed reports (it verifies WHAT the external sources say the Sadducees held, which is exactly what the entry claims, not the Sadducees' own unrecoverable self-understanding). Saldarini and Cohen are medium, verified to exist and be on-topic via publisher and library records (Saldarini, Eerdmans, ISBN 9780802843586; Cohen, WJK), not read line-by-line. Josephus Antiquities 13.10.6 (Pharisees' unwritten regulations vs. Sadducean rejection) and Jewish War 2.8.14 (fate/free will) are referred to in the description as the wider Josephan attestation but are NOT separately cited as read line-by-line here, so no source is rated on them. Relation targets pharisees, second-temple-judaism, rabbinic-judaism, oral-torah, torah, and tanakh exist.",
+  "period": {
+    "founded": -150,
+    "active_until": 70,
+    "note": "Approximate. Attested from about the second century BCE (the Hasmonean period) and prominent through the first century CE; the party lost its institutional base and ceased to exist as an identifiable movement after the destruction of the Second Temple by Rome in 70 CE. BCE years are negative. The boundaries are conventional scholarly markers, and the party's beginnings are obscure because no Sadducean sources survive."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "The Sadducees were one of the prominent parties of Second Temple Judaism, associated in the surviving accounts with the Temple, the priesthood, and the Jerusalem aristocracy, alongside the Pharisees and Essenes. The second-temple-judaism entry exists."
+    },
+    {
+      "type": "opposed",
+      "target": "pharisees",
+      "note": "The Sadducees are repeatedly paired with and set against the Pharisees in the surviving sources, reported to have rejected the Pharisaic oral tradition and the doctrine of resurrection that the Pharisees affirmed; the accounts of this rivalry are all external (Pharisaic, rabbinic, or Christian), so it is recorded as an attributed report, not adjudicated (neutrality #2, #11). The pharisees entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "oral-torah",
+      "note": "On the external reports, the Sadducees rejected the ancestral unwritten tradition later called the Oral Torah, holding that only the Written Torah is binding; stated as an attributed report of Josephus and the rabbinic literature, not as the Sadducees' own formulation. The oral-torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The Sadducees are reported to have upheld the authority of the Written Torah while rejecting the oral tradition built upon it; their acceptance of the written law is the point of agreement with the other parties in the surviving accounts. The torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "The Sadducees are reported to have recognized the written scriptures as authoritative; the scope of the scriptures they accepted is discussed in the scholarship but rests on external report, since no Sadducean text survives. The tanakh entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Rabbinic Judaism, the heir of the Pharisees, became the normative form of Judaism after 70 CE, and much of the surviving memory of the Sadducees is transmitted (unsympathetically) through its literature; the Sadducees themselves did not survive the Temple's destruction as a party. The rabbinic-judaism entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Josephus, Flavius. Jewish Antiquities, Book XVIII, chapter 1, section 4 (18.1.4). Trans. William Whiston. Primary first-century external source; the load-bearing line was read line-by-line: 'But the doctrine of the Sadducees is this, that souls die with the bodies', and the passage notes that this doctrine 'is received but by a few, yet by those still of the greatest dignity'. Cited as an attributed ancient external witness to what the Sadducees were reported to hold (self-identified by Josephus as Pharisaic), not as the Sadducees' own voice or as a neutral reference work.",
+      "url": "https://penelope.uchicago.edu/josephus/ant-18.html",
+      "license": "Whiston translation and the Greek original are in the public domain. Open at the University of Chicago Penelope host; section 18.1.4 read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Acts of the Apostles 23:8, King James Version. Primary New Testament external source, read line-by-line: 'For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.' Cited as an attributed early Christian witness to the Sadducees' reported denials, not as the Sadducees' own formulation; the verse itself frames the belief as what 'the Sadducees say'.",
+      "url": "https://biblehub.com/acts/23-8.htm",
+      "license": "King James Version in the public domain; Greek original public domain. Open at biblehub; the verse read line-by-line with parallel translations.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Saldarini, Anthony J. Pharisees, Scribes and Sadducees in Palestinian Society: A Sociological Approach. Biblical Resource Series. Grand Rapids: Wm. B. Eerdmans, 2001 (orig. 1988), ISBN 9780802843586. Academic monograph treating the three parties as groups within Jewish society c. 200 BCE-100 CE and stressing the fragmentary, external character of the evidence for the Sadducees; cited as the academic-historian lens on the party and on the limits of the sources. Verified to exist and be on-topic via the Eerdmans publisher record, not read line-by-line.",
+      "url": "https://www.eerdmans.com/9780802843586/pharisees-scribes-and-sadducees-in-palestinian-society/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Louisville: Westminster John Knox Press, 2014 (1st ed. 1987). Contemporary Jewish scholar's synthesis of the Second Temple sects, including the Sadducees, their priestly and aristocratic associations, their reported positions, and the caution that they are known only through the writings of their opponents. Cited as a contemporary-Jewish-scholarship lens; carries the same medium rating it holds across the other judaism entries. Verified to exist and be on-topic, not read line-by-line.",
+      "url": "https://www.wjkbooks.com/wp-content/uploads/productsamples/0664239048.pdf",
+      "license": "Proprietary; cited for reference. URL is the publisher's sample of the third edition.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

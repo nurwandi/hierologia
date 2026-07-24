@@ -1,0 +1,85 @@
+{
+  "id": "covenant",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Covenant",
+    "original": "διαθήκη",
+    "transliteration": "diatheke (Greek); berith (Hebrew)",
+    "aliases": [
+      "the new covenant",
+      "new testament",
+      "covenant of grace",
+      "old and new covenant",
+      "berith / diatheke"
+    ]
+  },
+  "category": "covenant",
+  "summary": "Covenant, in Christian theology, is the binding relationship that God establishes with humanity, read across the covenants of the Hebrew scriptures (with Noah, Abraham, and Israel at Sinai) and, in the mainstream Christian reading, brought to fulfillment in a 'new covenant' inaugurated in Jesus Christ. The new-covenant theme is drawn from Jeremiah 31:31-34 and applied in the New Testament to Christ's death (Luke 22:20; 1 Corinthians 11:25) and expounded in the Letter to the Hebrews (8-10); the Reformed tradition further develops a systematic covenant (federal) theology of the covenants of works and of grace.",
+  "description": "In Christian theology covenant (Greek diatheke, translating the Hebrew berith) names the structured, binding relationship between God and humanity that Christians read as running through the whole of scripture. Christian accounts begin from the covenants of the Hebrew Bible, the covenant with Noah and all living things, the covenant with Abraham (the promise of descendants and land, with circumcision as its sign), and the covenant at Sinai binding Israel through the Torah, and read them in continuity with, and (in the mainstream Christian reading) as fulfilled and transformed in, a 'new covenant' in Jesus Christ. The Hebrew scriptures themselves supply the language of a new covenant: the prophet Jeremiah announces, 'Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah' (Jeremiah 31:31), a covenant in which the law is written on the heart and sins are forgiven (Jeremiah 31:33-34, read on biblehub).\n\nThe New Testament applies this covenant language to the death of Jesus. At the Last Supper Jesus is recorded saying over the cup, 'This cup that is poured out for you is the new covenant in my blood' (Luke 22:20, read on biblehub), and Paul transmits the same words of institution, 'This cup is the new covenant in my blood' (1 Corinthians 11:25). The Letter to the Hebrews develops the theme at length: Christ 'has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises' (Hebrews 8:6), and, citing Jeremiah, 'In speaking of a new covenant, he makes the first one obsolete' (Hebrews 8:13, read on biblehub); Hebrews 8-10 reads Christ as the mediator of the new covenant and his self-offering as fulfilling and superseding the sacrificial system of the old. This reading, that the covenants of Israel find their fulfillment and transformation in the new covenant sealed in Christ's blood, is the mainstream Christian interpretation and is attributed here to Christianity as its own theological position; it is not asserted by the editor as a fact about Judaism or its covenant, which the Jewish tradition holds on its own terms (see the compares_with note to brit).\n\nIn the history of Christian doctrine the covenant became the organizing category of a whole theological system in the Reformed tradition, known as covenant or federal theology. There the biblical history is read through an eternal covenant of redemption within the Godhead, a covenant of works made with Adam before the fall (conditional on obedience), and a covenant of grace established after the fall and unfolding through the covenants with Abraham and at Sinai to its fullness in Christ, in which salvation is received by grace through faith. The relation between the 'old' and 'new' covenants, and between Israel and the church, has been theologized in divergent ways within Christianity, from strongly supersessionist readings (the new covenant replacing the old) to modern post-supersessionist theologies that stress the enduring covenant with the Jewish people; these are recorded here as positions within Christian theology, described and attributed, not adjudicated.",
+  "editorial_notes": "This entry describes covenant as a Christian theological concept on Christianity's own terms (neutrality #1, #4, #6): the reading of the biblical covenants toward a 'new covenant' fulfilled in Christ, the New Testament and Hebrews material, and the Reformed system of covenant (federal) theology. CRUX / CROSS-TRADITION (#11, and #2): the Christian supersessionist / fulfillment reading of the covenant (the new covenant fulfilling, transforming, or superseding the covenants of Israel) is stated explicitly as a Christian ATTRIBUTED position, not as a fact about Judaism; the editor does not assert that Christianity supersedes Judaism, and the Jewish understanding of the Sinai covenant as enduring (brit) is left to the Jewish entry and compared, not adjudicated. The internal Christian range from supersessionist to post-supersessionist theologies is itself described and attributed, not flattened into one answer (principle #2); Soulen is cited as the source that surveys and critiques the supersessionist strand from within Christian theology, so the crux is documented from a Christian scholarly vantage rather than editorialized. Sources triangulate the three lenses required for a Christian topic per neutrality #8-9: (a) covenant-theology and biblical-theology scholarship (Michael Horton, God of Promise, on Reformed covenant/federal theology; Scott Hahn, Kinship by Covenant, Yale, on the canonical biblical theology of covenant; R. Kendall Soulen, The God of Israel and Christian Theology, Fortress, on the covenant, Israel, and supersessionism); (b) the primary corpus, the load-bearing New Testament and prophetic texts read line-by-line and openly auditable on biblehub; (c) a contemporary Christian theologian (Horton and Soulen double as this lens). No encyclopedias, no Wikipedia, no tertiary sources. VERIFIED (2026-07-24): the load-bearing covenant passages were read line-by-line at biblehub and quoted verbatim across major English translations: Luke 22:20 ('the new covenant in my blood', ESV/NIV), Jeremiah 31:31 ('I will make a new covenant with the house of Israel and the house of Judah', ESV/NIV), and Hebrews 8:6 (the 'better' covenant Christ mediates) and 8:13 ('he makes the first one obsolete'); 1 Corinthians 11:25 quoted from the same words of institution. These primary sources carry honest high confidence. Horton, Hahn, and Soulen are medium, verified to exist and be on-topic (publisher/press catalogues and peer-reviewed reviews) but not read line-by-line. Relation targets present in the dataset: grace, new-testament-canon, jesus-of-nazareth; cross-tradition compares_with brit (judaism) and mithaq (islam) both exist. brit already carries a reciprocal compares_with to this covenant entry (previously a dangling forward reference, now resolved). CROSS-TRADITION (compares_with, neutrality #10, ADR-0005): the note to brit states the shared QUESTION (the binding relationship between God and the human party) and the DIFFERENCE (Judaism holds the Sinai covenant of Torah and mitzvot as enduring and central; the mainstream Christian reading reads the covenants toward a new covenant in Christ), ranking and equating neither; the note to mithaq states the shared question and the difference (the Qur'anic mithaq of Q 7:172 as a pre-eternal covenant of every soul's testimony), likewise not ranked.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "brit",
+      "note": "The Christian conception of covenant compares with the Jewish brit on the shared QUESTION of the binding relationship between God and the human party, comparing the question and not the answers, ranking and equating neither (neutrality #10). The DIFFERENCE: Judaism holds the Sinai covenant of Torah and mitzvot (with the covenants of Noah, Abraham, and David) as enduring and central, the brit marked in circumcision and lived in the commandments; the mainstream Christian reading reads the same biblical covenants in continuity with and as fulfilled in a 'new covenant' inaugurated in Jesus Christ (Jeremiah 31:31; Luke 22:20; Hebrews 8). The Christian fulfillment / new-covenant reading is stated here as Christianity's own attributed position and is NOT asserted as a fact about the Jewish covenant, which the Jewish tradition holds as enduring on its own terms; this note adjudicates, ranks, and harmonizes neither (crux #11)."
+    },
+    {
+      "type": "compares_with",
+      "target": "mithaq",
+      "note": "The Christian covenant compares with the Qur'anic mithaq on the shared QUESTION of a binding covenant between God and the human party, comparing the question and not the answers (neutrality #10). The DIFFERENCE: the Christian covenant is read across the historical covenants of Israel toward a new covenant sealed in Christ's blood (Luke 22:20; Hebrews 8-10); the Islamic mithaq of Qur'an 7:172 (the Day of Alast) is the primordial, pre-eternal covenant in which God draws forth the descendants of Adam and has every soul testify to His lordship ('Am I not your Lord?'). Both name a God-human bond, but the Christian covenant is historical and Christ-centered while the mithaq is pre-existent and universal to each soul; each is recorded as attributed to its tradition, and neither is ranked, equated, or harmonized."
+    },
+    {
+      "type": "related_to",
+      "target": "jesus-of-nazareth",
+      "note": "In the Christian reading the new covenant is inaugurated in Jesus and sealed in his blood; the words of institution at the Last Supper, 'This cup is the new covenant in my blood' (Luke 22:20; 1 Corinthians 11:25), and the exposition in Hebrews 8-10 make Christ the mediator of the new covenant. Attributed to the Christian tradition, read directly at biblehub."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "In Reformed covenant (federal) theology the covenant of grace, established after the fall and unfolding through Abraham and Sinai to its fullness in Christ, is the framework within which salvation is received by grace through faith; covenant and grace are bound together in this system. Attributed to the Reformed tradition."
+    },
+    {
+      "type": "related_to",
+      "target": "new-testament-canon",
+      "note": "The Christian designation of the two parts of the Christian Bible as the 'Old' and 'New' Testament derives from this covenant language (Latin testamentum for the Greek diatheke, covenant); the new-covenant texts (the Gospels, Paul, Hebrews) are the core of the New Testament canon. Reported as a fact of Christian usage."
+    }
+  ],
+  "historical_period": {
+    "start": 30,
+    "note": "The new-covenant theme draws on the prophetic text of Jeremiah 31 (early 6th c. BCE) and is applied to Christ in the New Testament of the 1st century CE (the words of institution; Paul; Hebrews); the systematic covenant (federal) theology of the Reformed tradition is a development of the 16th-17th centuries. Start year marks the New Testament anchor of the specifically Christian 'new covenant'; the biblical covenants it reads are older and the covenant-theology system later."
+  },
+  "sources": [
+    {
+      "citation": "The New Testament and the prophet Jeremiah, open English text on biblehub: Jeremiah 31:31 ('Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah', ESV), with the law written on the heart and sins forgiven (Jeremiah 31:33-34); Luke 22:20 ('This cup that is poured out for you is the new covenant in my blood', ESV; 'the new testament in my blood', KJV) and the parallel words of institution in 1 Corinthians 11:25 ('This cup is the new covenant in my blood'); and Hebrews 8:6 (Christ mediates a covenant that 'is better, since it is enacted on better promises', ESV) and 8:13 ('In speaking of a new covenant, he makes the first one obsolete', ESV). The primary-corpus lens for the Christian new-covenant reading; read line-by-line and quoted verbatim from biblehub.",
+      "url": "https://biblehub.com/luke/22-20.htm",
+      "license": "Underlying scriptural text in the public domain; the ESV, NIV, and other modern translations quoted are proprietary, quoted briefly for reference. Luke 22:20, Jeremiah 31:31, and Hebrews 8:6 and 8:13 read line-by-line (2026-07-24) across ESV/NIV/KJV and confirmed; 1 Corinthians 11:25 quoted from the same words of institution.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Horton, Michael S. God of Promise: Introducing Covenant Theology. Grand Rapids: Baker Books, 2006. A contemporary Reformed theologian's systematic exposition of covenant (federal) theology, distinguishing the covenant of works and the covenant of grace, the eternal covenant of redemption, and treating the relation of Israel and the church, the sacraments, and law and gospel; the covenant-theology scholarship and contemporary-theologian lens.",
+      "url": "https://brill.com/view/journals/evqu/80/2/article-p187_18.xml",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the publisher listing and academic discussion of Horton's covenant theology.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hahn, Scott W. Kinship by Covenant: A Canonical Approach to the Fulfillment of God's Saving Promises. Anchor Yale Bible Reference Library. New Haven: Yale University Press, 2009. A canonical biblical-theology study arguing that covenant, as an overarching theme extending sacred bonds of kinship, gives coherence to the biblical corpus from the covenants of Israel to their fulfillment in Christ; the biblical-theology lens.",
+      "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/652115",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Yale University Press listing and a peer-reviewed review (The Journal of Religion).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Soulen, R. Kendall. The God of Israel and Christian Theology. Minneapolis: Fortress Press, 1996. A Christian systematic theologian's critical study of how Christian claims (the uniqueness of Christ, the new covenant, the finality of salvation in Christ) have been formulated in supersessionist ways, and a constructive proposal that regrasps the covenant, the election of Israel, and the relation of Israel and the church without supersessionism; cited for the crux of the 'old' and 'new' covenant and the range of Christian positions from supersessionist to post-supersessionist. The contemporary-theologian lens on the covenant crux (#11).",
+      "url": "https://www.fortresspress.com/store/product/9780800628833/The-God-of-Israel-and-Christian-Theology",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Fortress Press catalogue and scholarly discussion of the work.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

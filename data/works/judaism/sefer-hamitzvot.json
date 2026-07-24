@@ -1,0 +1,96 @@
+{
+  "id": "sefer-hamitzvot",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sefer HaMitzvot",
+    "original": "סֵפֶר הַמִּצְווֹת",
+    "transliteration": "Sefer ha-Miṣvot",
+    "aliases": [
+      "The Book of the Commandments",
+      "Book of Commandments",
+      "Kitab al-Fara'id (Arabic original title)",
+      "Sefer HaMitzvos"
+    ]
+  },
+  "category": "treatise (enumeration of the commandments)",
+  "date": {
+    "year": 1170,
+    "note": "Composed c. 1170 CE, written before the Mishneh Torah (completed c. 1180) as its methodological preface; the date is the conventional scholarly dating and is approximate."
+  },
+  "summary": "The Sefer HaMitzvot (Hebrew 'the Book of the Commandments') is Maimonides' enumeration and systematic classification of the 613 commandments (taryag mitzvot) of the Torah, divided into 248 positive commandments and 365 negative, and prefaced by fourteen governing principles (the shorashim, 'roots') that determine how the count is to be made. Written in Judeo-Arabic as the methodological preface to his code the Mishneh Torah, it became the most influential enumeration of the 613 and was itself the subject of the critical glosses (hassagot) of Nachmanides.",
+  "description": "The Sefer HaMitzvot (the Book of the Commandments) is Maimonides' systematic enumeration of the commandments of the Torah, composed around 1170 in Judeo-Arabic (under the Arabic title Kitab al-Fara'id) and conceived as the methodological preface to his great code of law, the Mishneh Torah: it fixes and justifies which precepts are counted among the 613 before the code sets out the law of each. The rabbinic tradition, following the teaching of Rabbi Simlai in the Babylonian Talmud (Makkot 23b), speaks of 613 commandments (the taryag mitzvot) stated to Moses, 365 prohibitions and 248 positive commandments; but because the Torah does not present the commandments as a numbered list, deciding exactly which precepts make up the count is a problem in its own right, and it is this problem the Sefer HaMitzvot sets out to solve.\n\nThe work is built in two parts. It opens with fourteen governing principles, the shorashim ('roots'), which lay down the rules by which the count is made: which kinds of precept may be counted and which may not. The first root holds, for instance, that rabbinic commandments are not to be counted among the 613, since (as the first root quotes Makkot 23b) 'there were 613 commandments stated to Moshe at Sinai', so that later rabbinic ordinances such as the kindling of the Hanukkah light or the reading of the Megillah, however obligatory, fall outside the biblical count. Further roots exclude, among other things, precepts that are not binding for all generations and general statements of the Torah that are not themselves distinct commands. On the basis of these fourteen roots Maimonides then enumerates the commandments in turn, first the 248 positive commandments (mitzvot aseh) and then the 365 negative commandments (mitzvot lo ta'aseh), giving for each its scriptural source and a brief statement of its content. The first positive commandment, the command to believe in or to know God, opens by citing His saying 'I am the Lord your God' (Exodus 20:2) and quoting again the passage from Makkot 23b, tying the whole enumeration to its Talmudic warrant.\n\nThe enumeration was, from soon after its appearance, both widely authoritative and pointedly contested. The most famous critique is that of Nachmanides (Moses ben Nahman, the Ramban), whose hassagot (critical glosses) were printed alongside the text: Nachmanides disputes a number of Maimonides' governing principles and particular inclusions, argues that Maimonides was not always consistent in applying his own roots, and in places defends the older enumeration of the Halakhot Gedolot that Maimonides had criticized, proposing alternative reckonings of his own. This entry records the Nachmanidean hassagot as his attributed critical glosses on the Maimonidean enumeration, a disagreement within the tradition over how the 613 are to be counted, and does not adjudicate between Maimonides and Nachmanides. Whatever the disputes over particular items, the Sefer HaMitzvot became the most influential single enumeration of the commandments and the framework within which the count of the 613 was thereafter discussed. It is presented here on Judaism's own terms as the tradition's own systematic statement of the enumeration, with the historical and scholarly literature recorded alongside as attributed sources.",
+  "editorial_notes": "This entry describes the Sefer HaMitzvot on Judaism's own terms (neutrality #1, #4, #6) as Maimonides' enumeration of the 613 commandments and the methodological preface to the Mishneh Torah. Per neutrality #1-#2 and the task, Nachmanides' hassagot are recorded as his attributed critical glosses on the Maimonidean enumeration, a disagreement within the tradition over how the 613 are counted, and are NOT adjudicated by the editor; neither Maimonides' count nor Nachmanides' corrections is presented as the correct one. The 613 total and its 248 positive / 365 negative split are given as the tradition's own reckoning, sourced to the Talmudic warrant (Makkot 23b) that the Sefer HaMitzvot itself invokes. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of Maimonides and the code (Isadore Twersky, Introduction to the Code of Maimonides; Menachem Kellner; and Albert Friedberg's specialist monograph on the enumeration); (b) the primary text, open and auditable on Sefaria (the Shorashim, the fourteen roots, and the Positive Commandments, read line-by-line, with the load-bearing lines quoted verbatim); and (c) a contemporary Jewish scholar (Kellner). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, Chabad.org, My Jewish Learning), no Wikipedia, no tertiary sources. Confidence: the two Sefaria primary texts read line-by-line are rated HIGH and carry the load-bearing claims. Sefer HaMitzvot, Shorashim 1 (the first of the fourteen roots), read via the Sefaria text API, opens 'That it is inappropriate to count rabbinic commandments in this category' and states 'For since the words of the Talmud (Makkot 23b) are, There were 613 commandments stated to Moshe at Sinai, how can we say about something rabbinic, that it is included in the count', and it names the Hanukkah light and the reading of the Megillah as things wrongly counted; the Shorashim run 1 through 14 (the fourteen roots; segments 15 and beyond are empty), confirming the count of fourteen. Sefer HaMitzvot, Positive Commandments 1 (the command to believe in God) opens 'That is the command that He commanded us to believe in God ... And the source of the command is His saying (Exodus 20:2), I am the Lord your God. And at the end of the Gemara, Makkot (Makkot 23b), they said, There were 613 commandments stated to Moshe at Sinai', tying the enumeration to its Talmudic warrant. Because both passages were actually read and quoted from an open site, they are rated HIGH. The 248/365 split rests on Makkot 23b (read line-by-line and quoted verbatim for the mitzvot.json entry, which this entry cross-references), which the Sefer HaMitzvot itself invokes; Sefaria pads the Positive and Negative Commandments with empty segments beyond the real count, so the exact 248/365 bounds are taken from the Talmudic warrant rather than from the padded structural length. Twersky (verified in mishneh-torah.json), Kellner, and Friedberg are verified to exist and be on-topic (author/title/publisher/year confirmed), not read line-by-line, so medium. Relation targets maimonides, mitzvot, mishneh-torah, halakha, torah, nachmanides all exist or are in the judaism batch.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "maimonides",
+      "note": "Composed by Maimonides (Moses ben Maimon, the Rambam) c. 1170 in Judeo-Arabic (Kitab al-Fara'id), as the methodological preface to his code the Mishneh Torah. The maimonides entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "The Sefer HaMitzvot is the most influential enumeration of the mitzvot, fixing which of the Torah's precepts are counted among the 613 (taryag mitzvot), 248 positive and 365 negative. The mitzvot entry exists and references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "mishneh-torah",
+      "note": "Written before the Mishneh Torah as its methodological preface: it settles and justifies the enumeration of the 613 before the code sets out the law of each commandment. The mishneh-torah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The work belongs to the literature of the enumeration of the commandments (sifrei ha-mitzvot) within Jewish law (halakha); its fourteen roots are principles for identifying which biblical precepts count as commandments. The halakha entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "torah",
+      "note": "The 613 commandments enumerated are the commandments of the Torah; the fourteen roots govern which of the Torah's precepts are counted, and each commandment is given with its scriptural source. The torah entry exists."
+    },
+    {
+      "type": "responds_to",
+      "target": "nachmanides",
+      "note": "The Sefer HaMitzvot was the subject of the critical glosses (hassagot) of Nachmanides (Moses ben Nahman, the Ramban), who disputed a number of Maimonides' governing principles and particular inclusions and proposed alternative reckonings; the hassagot are recorded here as his attributed critical glosses, not adjudicated. The relation marks the enumeration as the object Nachmanides' glosses respond to. The nachmanides entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Maimonides (Moses ben Maimon), Sefer HaMitzvot, Shorashim (the Roots), root 1, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text, read line-by-line: the first of the fourteen governing principles, headed 'That it is inappropriate to count rabbinic commandments in this category', which states 'For since the words of the Talmud (Makkot 23b) are, There were 613 commandments stated to Moshe at Sinai, how can we say about something rabbinic, that it is included in the count', and names the Hanukkah light and the reading of the Megillah as things wrongly counted among the positive commandments. The Shorashim run 1 through 14, confirming the fourteen roots. Load-bearing for the fourteen principles (shorashim) governing the count and their exclusion of rabbinic commandments from the 613.",
+      "url": "https://www.sefaria.org/Sefer_HaMitzvot%2C_Shorashim.1",
+      "license": "Underlying Judeo-Arabic/Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Shorashim 1 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Maimonides (Moses ben Maimon), Sefer HaMitzvot, Positive Commandments 1, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text, read line-by-line: the first positive commandment, the command to believe in (or know) God, which opens 'That is the command that He commanded us to believe in God ... And the source of the command is His saying (Exodus 20:2), I am the Lord your God. And at the end of the Gemara, Makkot (Makkot 23b), they said, There were 613 commandments stated to Moshe at Sinai.' Load-bearing for the enumeration of the positive commandments beginning with belief in God and for the work's explicit dependence on the Talmudic warrant of the 613 (Makkot 23b).",
+      "url": "https://www.sefaria.org/Sefer_HaMitzvot%2C_Positive_Commandments.1",
+      "license": "Underlying Judeo-Arabic/Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Positive Commandments 1 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Twersky, Isadore. Introduction to the Code of Maimonides (Mishneh Torah). Yale Judaica Series 22. New Haven: Yale University Press, 1980 (xvi, 641 pp.). A literary-historical study of Maimonides' codificatory project; cited for the Sefer HaMitzvot as the methodological preface to the Mishneh Torah, its enumeration and classification of the commandments, and the fourteen roots governing the count. Verified to exist and be on-topic (Yale University Press record; JSTOR j.ctt1cc2m4n); carries the same medium rating it holds in mishneh-torah.json. Not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300028461/code-maimonides-mishneh-torah",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Friedberg, Albert D. Crafting the 613 Commandments: Maimonides on the Enumeration, Classification, and Formulation of the Scriptural Commandments. Boston: Academic Studies Press, 2013. A monograph devoted specifically to Maimonides' enumeration of the 613 in the Sefer HaMitzvot, the fourteen principles by which he crafts the list, and his classification and formulation of the commandments; cited for the method of the enumeration and the role of the shorashim, and as a specialist academic lens on the work. Verified to exist and be on-topic (Academic Studies Press; JSTOR j.ctt21h4wf8). Not read line-by-line.",
+      "url": "https://www.jstor.org/stable/j.ctt21h4wf8",
+      "license": "Proprietary; cited for reference (JSTOR record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kellner, Menachem. Maimonides' Confrontation with Mysticism. The Littman Library of Jewish Civilization. Oxford and Portland, OR: Littman Library of Jewish Civilization, 2006. A contemporary Jewish scholar's study of Maimonides' thought and his reforming project; cited for Maimonides' rationalist and systematizing understanding of the commandments that informs the enumeration of the Sefer HaMitzvot, and as the contemporary-scholarship lens. Verified to exist and be on-topic (Littman Library; ISBN 9781904113294). Not read line-by-line.",
+      "url": "https://books.google.com/books?id=TJ00bwAACAAJ",
+      "license": "Proprietary; cited for reference (Google Books record confirming author/title/publisher).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

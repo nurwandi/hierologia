@@ -1,0 +1,82 @@
+{
+  "id": "philokalia",
+  "tradition": "christianity",
+  "names": {
+    "primary": "The Philokalia",
+    "original": "Φιλοκαλία τῶν ἱερῶν νηπτικῶν",
+    "transliteration": "Philokalia ton hieron neptikon",
+    "aliases": [
+      "Philokalia of the Neptic Fathers",
+      "The Philokalia of the Holy Neptic Fathers",
+      "Dobrotolyubie"
+    ]
+  },
+  "category": "anthology",
+  "date": {
+    "year": 1782,
+    "note": "First published in Greek at Venice in 1782; the texts it gathers range from the fourth to the fifteenth centuries."
+  },
+  "summary": "The Philokalia ('love of the beautiful or good') is the anthology of Greek Orthodox ascetic and mystical texts on prayer and the contemplative life (fourth to fifteenth centuries), compiled by Nikodemos of the Holy Mountain and Makarios of Corinth and first published in Greek at Venice in 1782. A foundational text of the hesychast tradition and the Jesus Prayer, it was diffused through Slavonic and Russian translations and, since the twentieth-century Palmer, Sherrard, and Ware English translation, in the West.",
+  "description": "The Philokalia (Greek Philokalia, 'love of the beautiful or the good') is an anthology of Greek patristic and Byzantine texts on prayer, watchfulness, and the contemplative life, drawn from authors ranging from the fourth to the fifteenth centuries. It was compiled by Nikodemos of the Holy Mountain (Nikodemos the Hagiorite, 1749-1809) and Makarios of Corinth (1731-1805) and first published in Greek at Venice in 1782 under the title 'Philokalia of the holy neptic fathers', neptic naming the theme of nepsis, the sober watchfulness of the heart. The collection gathers such authors as Evagrios, Mark the Ascetic, Diadochos of Photike, Maximos the Confessor, Symeon the New Theologian, and the fourteenth-century hesychast and Palamite writers, and it stands as a foundational text of the hesychast tradition and of the practice of the Jesus Prayer ('Lord Jesus Christ, Son of God, have mercy on me').\n\nScholarship treats the Philokalia not as a random collection but as an anthology with an inner unity, oriented toward inner prayer, the guarding of the heart, and, in the tradition's own account, participation in God and deification (theosis). Its reception was wide. A Church Slavonic selection, the Dobrotolyubie, was made by Paisius Velichkovsky and published in 1793, and a later Russian translation carried the anthology into the spirituality of nineteenth-century Russia, where its influence is reflected in the popular work The Way of a Pilgrim. In the twentieth century the complete English translation by G. E. H. Palmer, Philip Sherrard, and Kallistos Ware (Faber and Faber, from 1979) brought the anthology to a wide Western readership and made it a reference point for the modern study and practice of the Jesus Prayer and hesychast prayer. This entry describes the Philokalia and its hesychast and Palamite spirituality as the account of the Orthodox tradition that produced and received it, and does not adjudicate the theological questions that spirituality raises.",
+  "editorial_notes": "This entry describes the Philokalia on the tradition's own terms (neutrality #1, #4, #6). Its hesychast and Palamite spirituality (nepsis, the Jesus Prayer, the vision of the divine light, participation in God and deification) is attributed to the Orthodox tradition that compiled and received the anthology, not endorsed, and the theological disputes surrounding that spirituality are not adjudicated.\n\nHONESTY / status and confidence: this entry is REVIEWED, not verified. The standard English translation (Palmer, Sherrard, Ware) is a twentieth-century proprietary edition and was NOT read line-by-line for the load-bearing content; it is cited as the primary corpus, verified to exist and be on-topic, and rated MEDIUM. The underlying Greek texts are classical and in the public domain, but no single open primary text was read line-by-line by the editor for this entry, so no source is rated high and the entry is reviewed-only. The three Christian lenses (neutrality #8): (a) academic historians of the Philokalia (Kallistos Ware, 'The Spirituality of the Philokalia', Sobornost 13.1, 1991; Andrew Louth, 'The Theology of the Philokalia', in Selected Essays vol. II, Oxford, 2023; and the chapter on Nikodemos and Makarios in the Oxford Handbook of Deification); (b) the primary corpus (the Philokalia in the Palmer-Sherrard-Ware edition); (c) a contemporary Orthodox scholar and translator (Ware, also a co-translator, and Louth). No encyclopedias, no Wikipedia, no tertiary sources; the OrthodoxWiki and popular pages surfaced in research are not cited.\n\nRelation targets: hesychasm, eastern-orthodoxy, gregory-palamas, and monasticism exist in the dataset (hesychasm references this work). the-jesus-prayer is a dangling forward reference to a not-yet-created entity (noted in the edge). Dates: the 1782 Venice editio princeps is secure and standardly reported.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "hesychasm",
+      "note": "The Philokalia is the anthology that gathered the neptic and hesychast texts and fuelled the modern hesychast revival; hesychasm exists in the dataset and references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "A foundational anthology of Eastern Orthodox ascetic and contemplative spirituality, compiled and received within the Orthodox Church. eastern-orthodoxy exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "monasticism",
+      "note": "Compiled on Mount Athos from the monastic ascetic and neptic corpus and directed to the practice of continual prayer; a text of the monastic contemplative tradition. monasticism exists in the dataset."
+    },
+    {
+      "type": "affirms",
+      "target": "gregory-palamas",
+      "note": "Includes the fourteenth-century hesychast and Palamite writers and transmits the spirituality Gregory Palamas defended, including the essence-energies theology and the vision of the divine light; gregory-palamas exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "the-jesus-prayer",
+      "note": "A foundational text for the practice of the Jesus Prayer ('Lord Jesus Christ, Son of God, have mercy on me'), the central invocation of the hesychast tradition it transmits; dangling forward reference to a not-yet-created entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Philokalia: The Complete Text, compiled by St Nikodimos of the Holy Mountain and St Makarios of Corinth. Translated from the Greek and edited by G. E. H. Palmer, Philip Sherrard, and Kallistos Ware. 5 vols. London and Boston: Faber and Faber, 1979- (vol. 1, 1979). The primary anthology of neptic and hesychast texts (fourth to fifteenth centuries), first published in Greek at Venice in 1782, in the standard scholarly English edition. Primary corpus; proprietary twentieth-century translation, not read line-by-line for the load-bearing content.",
+      "url": "https://www.faber.co.uk/product/9780571130139-the-philokalia-vol-1/",
+      "license": "Proprietary translation; the underlying Greek texts are classical and in the public domain.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Kallistos (Bishop of Diokleia). 'The Spirituality of the Philokalia.' Sobornost (incorporating Eastern Churches Review), new series, 13.1 (1991): 6-24. Study by a leading Orthodox scholar and co-translator of the anthology, treating the Philokalia's inner unity, its theme of nepsis and the prayer of the heart, and its influence in East and West. Academic-historian and contemporary-Orthodox-scholar lens. Verified to exist and be on-topic, not read line-by-line.",
+      "license": "Proprietary journal article (Sobornost n.s. 13.1, 1991, 6-24); citation verified by volume/issue/year/pages, article body behind print/proprietary access, no open URL cited.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Louth, Andrew. 'The Theology of the Philokalia.' In Selected Essays, Volume II: Studies in Theology. Oxford: Oxford University Press, 2023. Essay by a historian of Orthodox theology on the theology of the Philokalia, understood as participation in God (deification) attained through prayer rather than speculation. Academic-historian lens. Verified to exist and be on-topic (Oxford Academic), not read line-by-line.",
+      "url": "https://academic.oup.com/book/46799/chapter/413425211",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "'St. Nikodimos of the Holy Mountain, St. Makarios of Corinth, and the Philokalia.' In The Oxford Handbook of Deification. Oxford: Oxford University Press. Scholarly chapter on the compilers of the Philokalia, the 1782 Venice editio princeps, and its Slavonic (Paisius Velichkovsky, Dobrotolyubie) and Russian reception. Academic-historical lens on the anthology's compilation and diffusion. Verified to exist and be on-topic (Oxford Academic), not read line-by-line.",
+      "url": "https://academic.oup.com/edited-volume/57515/chapter/467900060",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

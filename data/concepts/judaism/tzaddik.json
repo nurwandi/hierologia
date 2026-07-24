@@ -1,0 +1,101 @@
+{
+  "id": "tzaddik",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Tzaddik",
+    "original": "צַדִּיק",
+    "transliteration": "tzaddiq (pl. tzaddiqim)",
+    "aliases": [
+      "Zaddik",
+      "Tsaddik",
+      "Tzaddikim (plural)",
+      "the righteous one",
+      "the rebbe (in Hasidism)",
+      "admor (adoneinu moreinu ve-rabbeinu)"
+    ]
+  },
+  "category": "spirituality",
+  "summary": "The tzaddik (Hebrew 'righteous one', plural tzaddikim) is the righteous person. In the Bible and rabbinic tradition the tzaddik is the one who lives justly and faithfully, called 'an everlasting foundation' (Proverbs 10:25, read in the tradition as tzaddik yesod olam, 'the righteous is the foundation of the world'), and in Kabbalah the term is associated with the sefirah Yesod ('Foundation'). Above all in Hasidism the tzaddik, also the rebbe or admor, is the charismatic holy leader who serves as the spiritual axis of the community, held to mediate divine blessing and to elevate the prayers of his followers, and around whom the Hasidic court and dynasty form; the developed doctrine of the tzaddik is a distinctive feature of Hasidism and was, to its Mitnagdic opponents, a controversial one.",
+  "description": "Tzaddik (from the root ts-d-q, 'to be just, righteous') means 'righteous one'. In the Hebrew Bible and in rabbinic tradition the tzaddik is the person who is upright and faithful before God, contrasted with the wicked (rasha). Proverbs 10:25 reads 'When the storm passes a wicked person is gone, but the righteous person is an everlasting foundation' (Hebrew ve-tzaddik yesod olam); the closing phrase is read within the tradition, taking yesod olam as 'foundation of the world', as teaching that the tzaddik is the foundation on which the world stands, and rabbinic sources speak of the righteous as those for whose sake the world endures. This entry presents that reading as the tradition's own and does not adjudicate the Hebrew's grammar.\n\nIn the Kabbalah the word tzaddik became a term of the divine order as well as of human character: it is associated with the ninth sefirah, Yesod ('Foundation'), the channel through which the flow of the higher sefirot is gathered and transmitted to the Shekhinah and to the world, so that the phrase tzaddik yesod olam could be read theosophically of this 'foundation'. On this reading the human tzaddik below corresponds to, and can act upon, the divine Foundation above. These kabbalistic construals are recorded here as attributed to their holders, not affirmed by the editor.\n\nAbove all in Hasidism, from the middle of the eighteenth century, the tzaddik becomes the name of a distinctive institution: the charismatic holy leader, also called the rebbe or (as an honorific acronym) the admor, held to have attained an exceptional closeness to God and to serve as the spiritual axis of his community. In the movement's own teaching, given here as its attributed doctrine and not as claims the editor affirms, the tzaddik mediates divine abundance (shefa) to his followers, elevates and 'raises up' their prayers, can descend to the level of ordinary people in order to lift them, and binds the community to God; around such a leader gathered a court (a 'hoyf'), and leadership was in many cases transmitted dynastically, giving rise to the enduring Hasidic courts and their rebbes. Modern scholarship reads this institution in various ways, recorded here as attributed scholarship: Arthur Green, in 'The Zaddiq as Axis Mundi in Later Judaism', argued that the Hasidic tzaddik took on the role of a cosmic axis, the point of contact and channel between heaven and earth, an axis mundi in human form; Moshe Idel, in Hasidism: Between Ecstasy and Magic, analyzed the tzaddik through 'mystico-magical' models as a 'vessel' and 'channel' who draws down divine vitality; and Gershom Scholem treated the exaltation of the tzaddik as a defining and, he thought, socially consequential feature of Hasidism. These readings are attributed to their authors and not ruled between.\n\nThe developed Hasidic doctrine of the tzaddik was a principal point of the opposition between Hasidim and their opponents, the Mitnagdim ('opponents'), the circle of the Vilna Gaon and the Lithuanian rabbinic establishment. The Mitnagdim objected, among other things, to what they saw as an excessive exaltation of the tzaddik, the veneration of a living human leader as a channel of divine blessing, and issued bans against the Hasidim from 1772. This dispute is recorded here as a historical disagreement, the Hasidic doctrine attributed to Hasidism and the Mitnagdic objection attributed to the Mitnagdim, with the editor adjudicating neither.",
+  "editorial_notes": "This entry presents the tzaddik on Judaism's own terms across its three layers (neutrality #1, #4, #6): the biblical/rabbinic righteous person, the kabbalistic association with the sefirah Yesod, and the developed Hasidic institution of the rebbe. The Hasidic doctrine of the tzaddik (mediation of divine blessing/shefa, elevation of the followers' prayers, the court and dynasty) is stated throughout as HASIDISM'S ATTRIBUTED doctrine ('given here as its attributed doctrine', 'in the movement's own teaching'), described and not affirmed. The kabbalistic construals (tzaddik = Yesod) are likewise attributed, not adjudicated, and the grammar of Proverbs 10:25 is not ruled on. NEUTRALITY ON THE MITNAGDIC OBJECTION (neutrality #1-#2, mirroring the hasidism and mitnagdim entries): the developed doctrine of the tzaddik is attributed to Hasidism, and the Mitnagdic objection to it (excessive exaltation of a living leader, the bans from 1772) is recorded as the Mitnagdim's OWN attributed position, with the editor ruling for neither side. The differing scholarly readings of the Hasidic tzaddik (Green's axis mundi, Idel's mystico-magical vessel/channel, Scholem) are attributed and not adjudicated. HONESTY ON SOURCING (a deliberate, disclosed choice): the high-confidence primary read line-by-line is the BIBLICAL anchor Proverbs 10:25 (tzaddik yesod olam); the Tzava'at ha-Rivash, the open Hasidic primary used by the hasidism/baal-shem-tov entries, is a manual of PERSONAL piety and humility (section 12 there actually warns against considering oneself a greater servant than one's fellow) and does not itself carry the developed tzaddik-as-mediator doctrine, so it is NOT stretched to rate high for this concept here; the developed doctrine rests on the scholarship (Green, Idel, Scholem), rated medium. Sources triangulate the three lenses per neutrality #8-#9: (a) academic historians (Green, 'The Zaddiq as Axis Mundi'; Idel, Hasidism: Between Ecstasy and Magic; Scholem, Major Trends in Jewish Mysticism); (b) the primary text, open and auditable on Sefaria (Proverbs 10:25, read line-by-line and quoted verbatim); (c) the tradition's own classical voice via that verse and its rabbinic/kabbalistic reception. No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no Chabad.org, no My Jewish Learning, no YIVO Encyclopedia), no Wikipedia, no tertiary sources. VERIFIED (2026-07-24): Proverbs 10:25 was read line-by-line via the Sefaria text API and quoted verbatim ('the righteous person is an everlasting foundation', Hebrew ve-tzaddik yesod olam), and is the load-bearing scriptural anchor, so the biblical primary carries honest HIGH confidence. Green (JAAR XLV/3, Sept 1977, 327-347), Idel (SUNY Press 1995, Part II incl. 'Zaddiq as Vessel and Channel in Hasidism'), and Scholem (Major Trends, Schocken 1941) are medium, verified to exist and be on-topic, not read line-by-line; Scholem carries the same rating as in the hasidism/baal-shem-tov entries. Relation targets: hasidism, baal-shem-tov, kabbalah, sefirot, shekhinah, tanakh, and devekut exist; mitnagdim and maggid-of-mezeritch are dangling forward references.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "hasidism",
+      "note": "The tzaddik (rebbe, admor), the charismatic holy leader who serves as the spiritual axis of the community and around whom the court and dynasty form, is a defining institution of Hasidism; stated as the movement's attributed doctrine, described and not affirmed (neutrality #1). The hasidism entry exists."
+    },
+    {
+      "type": "articulated_by",
+      "target": "baal-shem-tov",
+      "note": "Israel ben Eliezer, the Baal Shem Tov, is treated in the movement as the paradigm of the tzaddik/rebbe whose closeness to God the later Hasidic movement made its central institution; stated as attributed. The baal-shem-tov entry exists."
+    },
+    {
+      "type": "derives_from",
+      "target": "tanakh",
+      "note": "The tzaddik as the righteous person is a biblical category; Proverbs 10:25, 'the righteous person is an everlasting foundation' (ve-tzaddik yesod olam), read in the tradition as teaching that the tzaddik is the foundation of the world, is the load-bearing scriptural anchor. The tanakh entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "In Kabbalah the term tzaddik is associated with the ninth sefirah, Yesod ('Foundation'), the channel that gathers and transmits the flow of the higher sefirot to the Shekhinah and the world, so that tzaddik yesod olam could be read theosophically; recorded as an attributed kabbalistic construal, not adjudicated (neutrality #2). The sefirot entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "shekhinah",
+      "note": "In the kabbalistic reading the sefirah Yesod, associated with the tzaddik, is the channel through which the divine flow reaches the Shekhinah, the indwelling presence; recorded as an attributed reading. The shekhinah entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "devekut",
+      "note": "The tzaddik is held in Hasidic teaching to have attained an exceptional cleaving to God (devekut) and, through it, to mediate divine blessing to his followers; stated as attributed. The devekut entry is authored in the same batch."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "mitnagdim",
+      "note": "The developed Hasidic doctrine of the tzaddik was a principal point of Mitnagdic opposition: the Mitnagdim, the circle of the Vilna Gaon, objected to what they saw as an excessive exaltation of a living leader as a channel of divine blessing and issued bans from 1772. Recorded as a historical dispute with the Hasidic doctrine attributed to Hasidism and the objection attributed to the Mitnagdim, neither adjudicated (neutrality #1-#2). Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "maggid-of-mezeritch",
+      "note": "Dov Ber, the Maggid of Mezeritch, and his disciples developed and disseminated the doctrine of the tzaddik and trained the circle from which the Hasidic courts and their rebbes descend; stated as attributed. Dangling forward reference to a not-yet-created figure entity."
+    }
+  ],
+  "historical_period": {
+    "start": -600,
+    "note": "The tzaddik as the righteous person is a biblical and rabbinic category (Proverbs is dated by critical scholarship to the first millennium BCE); the kabbalistic association with the sefirah Yesod develops in the medieval period (from roughly the twelfth-thirteenth centuries CE); the developed doctrine of the tzaddik as charismatic Hasidic leader arises from the mid-eighteenth century CE and remains living in the Hasidic courts today. No single year applies; the note qualifies the range."
+  },
+  "sources": [
+    {
+      "citation": "The Ketuvim (Writings, Hebrew Bible), open Hebrew and English text on Sefaria: Proverbs 10:25. 'When the storm passes a wicked person is gone, but the righteous person is an everlasting foundation' (Hebrew ka-avor sufah ve-ein rasha, ve-tzaddik yesod olam). The closing phrase ve-tzaddik yesod olam is read within the tradition, taking yesod olam as 'foundation of the world', as teaching that the tzaddik is the foundation on which the world stands; primary scripture for the concept, read line-by-line and quoted verbatim from Sefaria.",
+      "url": "https://www.sefaria.org/Proverbs.10.25",
+      "license": "Hebrew original in the public domain; Sefaria's English translation (Revised JPS, 2023) under a Creative Commons license. Proverbs 10:25 read line-by-line via the Sefaria text API (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Green, Arthur. 'The Zaddiq as Axis Mundi in Later Judaism.' Journal of the American Academy of Religion 45, no. 3 (September 1977): 327-347. The standard academic study of the Hasidic tzaddik as a cosmic figure, arguing that the tzaddik came to be seen as an axis mundi, the point of contact and the channel between heaven and earth, in human form, and tracing the antecedents of the idea; cited as the academic-historian lens and for Green's attributed reading of the tzaddik. Verified to exist and be on-topic (JAAR XLV/3, 1977, 327-347; DOI 10.1093/jaarel/XLV.3.327), not read line-by-line.",
+      "url": "https://academic.oup.com/jaar/article-abstract/XLV/3/327/915347",
+      "license": "Proprietary; cited for reference (Oxford Academic / JAAR record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Hasidism: Between Ecstasy and Magic. SUNY Series in Judaica: Hermeneutics, Mysticism, and Religion. Albany: State University of New York Press, 1995. A contemporary academic study analyzing Hasidism through 'mystico-magical' models; its Part II ('Drawing Down') includes the chapter 'Zaddiq as Vessel and Channel in Hasidism', reading the tzaddik as one who draws down divine vitality and transmits it to the community; cited as the academic lens and for Idel's attributed reading of the tzaddik as vessel and channel. Verified to exist and be on-topic (SUNY Press 1995), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/H/Hasidism2",
+      "license": "Proprietary; cited for reference (publisher / SUNY Series record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (many later printings; 3rd rev. ed. 1954). The foundational modern academic study of Jewish mysticism, whose final lecture, 'Hasidism: The Latest Phase', treats the movement's ideal of devekut and joy and the exaltation of the tzaddik as a defining and socially consequential feature of Hasidism; cited as the academic-historian lens on the Hasidic tzaddik. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive), not read line-by-line; carries the same rating as in the hasidism and baal-shem-tov entries.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}
