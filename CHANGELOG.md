@@ -6,6 +6,35 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.17.0] - 2026-07-24
+
+Closing twelve of the highest-value dangling forward references across all three traditions. Eight
+enter `verified` on open primary reads, four honestly `reviewed`.
+
+### Added
+- **Christianity**: `second-vatican-council` (Nostra Aetate read), `covenant` (the Christian
+  covenant, the new-covenant/supersession reading attributed and not adjudicated), `barmen-declaration`,
+  and `philokalia`.
+- **Judaism**: the Second Temple sect `sadducees` (known only through external/hostile sources,
+  attributed, not given a false own-voice) and the `mitnagdim`; the Lurianic `shevirat-ha-kelim`;
+  Maimonides' `sefer-hamitzvot`; the Hasidic concepts `devekut` and `tzaddik`; and the Maggid,
+  `maggid-of-mezeritch`.
+- **Islam**: `al-farabi` (the "Second Teacher"; his religion-as-symbol doctrine given as his
+  attributed falsafa position, not adjudicated against kalam).
+
+### Changed
+- Verified (8): `second-vatican-council`, `covenant`, `barmen-declaration`, `sadducees` (as
+  attributed external attestation), `shevirat-ha-kelim`, `sefer-hamitzvot`, `devekut`, and
+  `maggid-of-mezeritch`, all on open primaries read line-by-line. The verified tier is now 88.
+- Reviewed (4), honestly: `philokalia` (proprietary translation), `mitnagdim` (secondary), `tzaddik`
+  (its distinctive Hasidic mediator doctrine rests on secondary; the read primary carries only the
+  biblical anchor), and `al-farabi` (proprietary translations).
+
+### Notes
+- The dataset is now 256 entities: 116 Islamic, 77 Christian, 58 Jewish, 5 philosophy; 168 `reviewed`
+  and 88 `verified`. Dangling forward references drop from 60 to 58 (twelve high-value ones closed).
+- MINOR release: adds entities, no schema change. `schema_version` stays 0.5.0.
+
 ## [0.16.0] - 2026-07-24
 
 Filling Christian gaps (Eastern Orthodoxy depth and modern theology) and deepening Judaism (closing
