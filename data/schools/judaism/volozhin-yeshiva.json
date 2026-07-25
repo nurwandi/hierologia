@@ -1,0 +1,88 @@
+{
+  "id": "volozhin-yeshiva",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Volozhin Yeshiva",
+    "original": "יְשִׁיבַת עֵץ חַיִּים וָואלוֹזִ'ין",
+    "transliteration": "Yeshivat Etz Chayim, Volozhin",
+    "aliases": [
+      "Yeshivat Volozhin",
+      "Etz Chaim Yeshiva of Volozhin",
+      "the Volozhin yeshiva",
+      "Volozhin (Valozhyn) yeshiva",
+      "the mother of the Lithuanian yeshivas ('em ha-yeshivot')"
+    ]
+  },
+  "summary": "The Volozhin Yeshiva (Etz Chaim), founded in 1802 in Volozhin (Valozhyn) in the Lithuanian lands by Chaim of Volozhin, the foremost disciple of the Vilna Gaon, was the prototype of the modern Lithuanian yeshiva: an independent institution of full-time advanced Talmud study, drawing students from afar and supported apart from the local community, which embodied the Mitnagdic ideal of Torah study as the supreme religious value that Chaim set out in his Nefesh ha-Chayim. Regarded in the scholarship as the model for the yeshivas that followed and as the cradle of the analytical 'Brisker' method (Chaim Soloveitchik taught there), it was closed by the Russian authorities in 1892.",
+  "description": "The yeshiva of Volozhin, formally Yeshivat Etz Chaim ('Tree of Life'), was founded in the town of Volozhin (Valozhyn, in present-day Belarus, then within the Russian Empire) in 1802 by Rabbi Chaim of Volozhin (1749-1821), the foremost disciple of Elijah ben Solomon Zalman, the Vilna Gaon. In the scholarly account, chiefly that of Shaul Stampfer, its historical novelty lay in its structure: it was an independent institution, supported by contributions gathered from a wide public rather than by the local community, and it drew advanced students from across the Lithuanian lands and beyond to full-time, intensive study of the Talmud, distinct from the older pattern of study organized within and by the local town. In this it became the model, the 'mother of the yeshivas', for the network of Lithuanian yeshivas that followed over the nineteenth century, and its structure shaped much of the modern yeshiva world.\n\nThe yeshiva gave institutional form to the Mitnagdic ideal of Torah study as the supreme religious value, the ideal that Chaim of Volozhin set out in his theological work Nefesh ha-Chayim ('The Soul of Life'). In the fourth gate of that work, Chaim argues that the primary and steady occupation of the people of Israel is to be the study of the Torah itself, the written and the oral, and that this direct study, undertaken for its own sake (lishmah) and joined to the awe or fear of God, is the highest form of divine service; he warns there against neglecting the direct study of Torah in favour of ethical and devotional literature, however well-intentioned. This valuation of study, given here as the attributed ideal of Chaim and of the Lithuanian (Mitnagdic) tradition rather than as a claim the editor affirms, was the animating principle of the yeshiva and of the world of learning that grew from it. It stood in the background of the wider dispute between the Mitnagdim, the Lithuanian rabbinic circles of the Vilna Gaon, and the Hasidim; that conflict is noted here as the historical context of the institution and is treated elsewhere in the dataset as a dispute with both sides attributed and not adjudicated.\n\nVolozhin became the fountainhead of the Lithuanian yeshiva tradition and of the rigorous analytical study of Talmud associated with it. Among those who taught there was Rabbi Chaim Soloveitchik ('Reb Chaim Brisker'), whose conceptual, analytical method of Talmud study, the 'Brisker' method, became widely influential in Lithuanian and modern Orthodox learning. The yeshiva was closed by the Russian imperial authorities in 1892, in the course of a conflict over government demands to introduce secular subjects and other changes into its curriculum. Though the institution in Volozhin itself did not long survive that closure, the model it established, and the ideal of Torah study it embodied, were carried on by the many Lithuanian yeshivas that looked to it as their prototype, and its legacy remains formative for the yeshiva world today. This entry presents the yeshiva and the Mitnagdic ideal of study it embodied on the tradition's own terms, with the historical scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents the Volozhin Yeshiva on Judaism's own terms (neutrality #1, #4, #6) as the prototype of the modern Lithuanian yeshiva and the institutional embodiment of the Mitnagdic ideal of Torah study as the supreme religious value. That ideal, and its formulation in Chaim of Volozhin's Nefesh ha-Chayim (Gate IV: the direct study of the written and oral Torah, undertaken lishmah and joined to awe of God, as the highest divine service), is stated as the ATTRIBUTED ideal of Chaim and of the Lithuanian/Mitnagdic tradition, described and not affirmed or denied by the editor. The Hasidim-Mitnagdim context is NOTED as the historical background of the institution but NOT adjudicated (neutrality #1-#2): the entry points to that conflict, handled as a dispute with both sides attributed in the mitnagdim, hasidism, and vilna-gaon entries, and does not rule on it here. The account of the yeshiva's independent structure, its role as model for later yeshivas, the Brisker method, and the 1892 closure follows the standard scholarship (Stampfer). Sources triangulate three lenses per neutrality #8-#9: (a) the primary text, open and auditable on Sefaria, Chaim of Volozhin's Nefesh ha-Chayim Gate IV.1, read directly for the load-bearing claim that Torah study is the supreme, primary occupation; (b) academic historians of the Lithuanian yeshivas (Shaul Stampfer, Lithuanian Yeshivas of the Nineteenth Century, the standard study, which gives pride of place to Volozhin, its independent structure, and its 1892 closure); and (c) a contemporary Jewish scholar writing as a historian of the tradition (Immanuel Etkes, on the Vilna Gaon and his disciple Chaim of Volozhin), with Stampfer himself also a contemporary Jewish scholar. No encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: Nefesh ha-Chayim Gate IV.1 on Sefaria is rated HIGH because it was read directly and the load-bearing claim (Torah study, written and oral, as the primary and supreme steady practice, undertaken lishmah with fear of God) was confirmed in the text; the Hebrew there is public domain (Vilna, 1874) and the English is a CC-BY-NC translation (Leonard Moskowitz, 2012), openly auditable. Stampfer is the load-bearing academic source for the institutional history (founding 1802, independent structure, model role, closure 1892) and is rated medium: verified to exist and be on-topic via publisher and review records (Littman Library, 2012, ISBN 9781906764609), not read line-by-line, so the institutional-history claims rest on a secondary authority rather than a directly read primary. Etkes is medium and carries the same rating it holds in the vilna-gaon and mitnagdim entries. Relation targets: mitnagdim and vilna-gaon exist (both reference this yeshiva), rabbinic-judaism and talmud exist; chaim-of-volozhin, nefesh-ha-chayim, and brisker-method are dangling forward references to not-yet-created entities.",
+  "period": {
+    "founded": 1802,
+    "active_until": 1892,
+    "note": "Founded in 1802 (traditionally 1802/1803) in Volozhin (Valozhyn) by Chaim of Volozhin, and closed by the Russian imperial authorities in 1892 amid a conflict over government demands to alter its curriculum. The dates mark the institution in Volozhin itself; the model it established and the ideal of study it embodied were carried on by the wider Lithuanian yeshiva world, which remains active, so the closure date is that of the original institution, not of its tradition."
+  },
+  "relations": [
+    {
+      "type": "founded_by",
+      "target": "chaim-of-volozhin",
+      "note": "The yeshiva was founded in 1802 by Rabbi Chaim of Volozhin (1749-1821), the foremost disciple of the Vilna Gaon, who set out the ideal of Torah study it embodied in his Nefesh ha-Chayim. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "holds",
+      "target": "nefesh-ha-chayim",
+      "note": "The yeshiva gave institutional form to the ideal of Torah study as the supreme religious value that Chaim of Volozhin set out in his Nefesh ha-Chayim (Gate IV), stated as the attributed ideal of Chaim and the Lithuanian tradition. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "related_to",
+      "target": "mitnagdim",
+      "note": "The yeshiva was the institutional embodiment of the Mitnagdic ideal of analytical Torah study and the fountainhead of the Lithuanian (Litvish) yeshiva world; the Hasidim-Mitnagdim conflict is noted as historical context and not adjudicated here. The mitnagdim entry exists and references this yeshiva."
+    },
+    {
+      "type": "influenced_by",
+      "target": "vilna-gaon",
+      "note": "Through its founder Chaim of Volozhin, the Gaon's foremost disciple, the yeshiva carried forward the textual and analytical method of Elijah ben Solomon Zalman, the Vilna Gaon; recorded as the intellectual lineage of the institution. The vilna-gaon entry exists and references this yeshiva."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The yeshiva was an institution of full-time, intensive, advanced study of the Talmud, and the cradle of the analytical Brisker method of Talmud study; the Talmud was the central object of its learning. The talmud entry exists (data/works/judaism/talmud.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "brisker-method",
+      "note": "Rabbi Chaim Soloveitchik ('Reb Chaim Brisker'), who taught at Volozhin, developed the conceptual, analytical 'Brisker' method of Talmud study that became widely influential in Lithuanian and modern Orthodox learning; recorded as an outgrowth of the yeshiva. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "The yeshiva stood squarely within rabbinic Judaism, its whole enterprise being the study of the Talmud and the halakhic tradition; it shaped the modern institutional form of rabbinic learning. The rabbinic-judaism entry exists (data/schools/judaism/rabbinic-judaism.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Nefesh ha-Chayim (Nefesh HaChayim, 'The Soul of Life') by Rabbi Chaim of Volozhin, Gate IV, chapter 1, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text for the Mitnagdic ideal of Torah study that the yeshiva embodied, read directly: Chaim argues that the primary and steady occupation of the holy nation is to be the study of the Torah itself, written and oral, and warns against the drift toward studying ethical and devotional works while neglecting direct Torah study, holding that study for its own sake (lishmah) joined to the awe or fear of God is the highest form of service. This load-bearing claim on the supremacy of Torah study was confirmed in the text of Gate IV.1.",
+      "url": "https://www.sefaria.org/Nefesh_HaChayim%2C_Gate_IV.1",
+      "license": "Hebrew original in the public domain (Vilna, 1874). English translation by Leonard Moskowitz (2012), CC-BY-NC. Openly auditable; Gate IV.1 read directly.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Stampfer, Shaul. Lithuanian Yeshivas of the Nineteenth Century: Creating a Tradition of Learning. Translated by Lindsey Taylor-Guthartz. Oxford and Portland: The Littman Library of Jewish Civilization, 2012 (ISBN 9781906764609; based on the revised second Hebrew edition). The standard scholarly study of the Lithuanian yeshivas, which gives pride of place to Volozhin (founded 1802), analyzes its novel independent structure (support gathered from a wide public rather than the local community), its role as the model for the yeshivas that followed, and its closure by the Russian authorities in 1892; the load-bearing academic-historian lens for the institutional history in this entry. Verified to exist and be on-topic via publisher and scholarly-review records (Littman Library; Cambridge Core chapter listings), not read line-by-line.",
+      "url": "https://www.magnespress.co.il/en/book/Lithuanian_Yeshivas_of_the_Nineteenth_Century-3802",
+      "license": "Proprietary; cited for reference (publisher / library record). ISBN 9781906764609.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Gaon of Vilna: The Man and His Image. Translated by Jeffrey M. Green. Berkeley and Los Angeles: University of California Press, 2002. A scholarly study of the Vilna Gaon that treats his method and its transmission to his disciples, including Chaim of Volozhin, the founder of the Volozhin yeshiva; cited as a contemporary-Jewish-scholarship and academic-historian lens on the intellectual lineage behind the yeshiva. Carries the same medium rating it holds in the vilna-gaon and mitnagdim entries. Verified to exist and be on-topic (University of California Press record; scholarly reviews), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/the-gaon-of-vilna/paper",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

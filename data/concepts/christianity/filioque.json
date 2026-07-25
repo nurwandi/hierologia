@@ -1,0 +1,82 @@
+{
+  "id": "filioque",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Filioque",
+    "original": "Filioque",
+    "transliteration": "Filioque",
+    "aliases": [
+      "And the Son",
+      "a Patre Filioque",
+      "Double procession of the Holy Spirit",
+      "The Filioque clause"
+    ]
+  },
+  "category": "trinitarian doctrine",
+  "summary": "The Filioque ('and the Son') is the Latin phrase added to the procession clause of the Nicene-Constantinopolitan Creed so that the Holy Spirit is said to proceed 'from the Father and the Son' (a Patre Filioque) rather than 'from the Father' alone as in the original creed of 381. Adopted in the Latin West and defended there as sound trinitarian doctrine, it is rejected by the Eastern Orthodox as both an unauthorized alteration of an ecumenical creed and a theological error; it is one of the principal doctrinal issues in the East-West schism.",
+  "description": "The Filioque is the single Latin word Filioque, 'and (from) the Son', that the Latin West came to add to the third article of the Nicene-Constantinopolitan Creed, the creed promulgated at the First Council of Constantinople (381). The original Greek clause confesses the Holy Spirit as the one 'who proceeds from the Father' (to ek tou Patros ekporeuomenon); with the addition the Latin creed reads that the Spirit proceeds 'from the Father and the Son' (qui ex Patre Filioque procedit). Two distinct questions are entangled in the controversy: whether the addition to the creed was licit, and whether the doctrine it expresses is true.\n\nOn the historical side, the phrase is associated with the Latin West from the local Councils of Toledo in Visigothic Spain (the Third Council of Toledo in 589 and later Toledan councils affirm the double procession), from which the interpolated creed spread into Frankish usage under Charlemagne and was debated with Rome in the ninth century; the popes at first resisted altering the creedal text even while accepting the doctrine, and the addition was received into the creed as sung at Rome only by the eleventh century. The doctrine itself was elaborated in the Latin tradition above all by Augustine, for whom the Spirit proceeds from the Father and the Son as from one principle, and was later given scholastic form by Anselm and Thomas Aquinas. The Western reunion councils of Lyons II (1274) and Ferrara-Florence (1439) defined the double procession as Catholic teaching, Florence holding that the Latin 'from the Son' and the Greek 'through the Son' (dia tou Huiou) express the same meaning.\n\nThe Eastern Orthodox position, articulated in the ninth century by Photius of Constantinople and later by Gregory Palamas and the anti-unionist theologians, rejects the Filioque on two grounds. First, that no addition may be made to the creed of an ecumenical council save by another ecumenical council, so that the Western interpolation is an unauthorized alteration of a text belonging to the whole church. Second, that the doctrine is erroneous: the East holds that the Holy Spirit proceeds (in the strict sense, ekporeusis) from the Father alone, the Father being the sole source (monarchia) within the Trinity, while affirming in another sense that the Spirit is sent or shines forth 'through the Son' in the economy or eternally rests upon the Son. This entry presents the Western addition and its accompanying doctrine, and the Eastern rejection of both, each as the attributed position of its holders; it does not rule on whether the addition to the creed was licit, nor on whether the Spirit proceeds from the Father and the Son or from the Father alone. Both traditions understand their own account to be faithful to the creed and to scripture, and that disagreement is described here, not settled.",
+  "editorial_notes": "The Filioque is the theological crux of the East-West schism, and this entry deliberately holds two contested questions open at once (neutrality #1, #2): the disciplinary question, whether adding a word to the creed of an ecumenical council was a licit act, and the dogmatic question, whether the Holy Spirit proceeds from the Father and the Son or from the Father alone. The Western position (the double procession as sound doctrine, expressed by Augustine, Anselm, Aquinas, and defined at Lyons II and Florence) and the Eastern position (procession from the Father alone in the strict sense, the Father as sole source, with the Spirit 'through the Son' in another sense, and the addition itself as an unauthorized alteration) are each stated as the attributed position of its holders and neither is endorsed. Presenting each tradition on its own terms is required by neutrality #6 and #7; the editor does not adjudicate (#1).\n\nSources triangulate the three lenses adapted for Christianity (neutrality #8): (a) academic historians of doctrine (Siecienski, The Filioque, the standard modern history of the controversy; Chadwick, East and West, on the making of the rift); (b) the primary corpus (the Nicene-Constantinopolitan Creed itself, read directly at its procession clause, and the Council of Florence decree Laetentur Caeli read in the council-of-florence entry); (c) the conciliar definitions of the Latin West at Florence as an attributed position. No encyclopedias, Wikipedia, or tertiary sources are cited. HONESTY ON CONFIDENCE: the load-bearing primary fact, that the original creed reads 'who proceeds from the Father' and that the Filioque is the added 'and the Son', was read directly line by line in the creed text (the procession clause 'who proceeds from the Father [and the Son]', with the Filioque bracketed as the Latin interpolation), so the creed carries high confidence. Siecienski and Chadwick are rated medium: verified to exist and be on-topic via publisher pages and peer-reviewed reviews (Church History on Siecienski), but not read line by line. Relation targets present in the dataset: eastern-orthodoxy, roman-catholicism, council-of-florence, trinity, essence-energies-distinction (via gregory-palamas). Dangling targets (forward references, not yet created): nicene-creed, great-schism, papal-primacy. This entry is a draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "trinity",
+      "note": "The Filioque concerns the eternal procession of the Holy Spirit within the Trinity, that is, the relation of origin of the third person to the Father and the Son. Stated as the locus of the dispute, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "nicene-creed",
+      "note": "The Filioque is the Latin addition to the procession clause of the Nicene-Constantinopolitan Creed (381), whose original text reads that the Spirit proceeds 'from the Father'. Whether the addition to an ecumenical creed was licit is one of the contested questions and is not resolved here. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "eastern-orthodoxy",
+      "note": "The Eastern Orthodox tradition rejects the Filioque both as an unauthorized alteration of the creed and as a doctrinal error, holding that the Spirit proceeds from the Father alone (the Father as sole source) while shining forth 'through the Son'. Stated as the East's attributed position against the Western addition, neither adjudicated."
+    },
+    {
+      "type": "articulated_by",
+      "target": "roman-catholicism",
+      "note": "The Latin West adopted the Filioque and the Roman Catholic Church defines the double procession as authoritative teaching, holding the Latin 'from the Son' and the Greek 'through the Son' to mean the same. Stated as the Western attributed position. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-florence",
+      "note": "The Council of Ferrara-Florence (1439) defined in Laetentur Caeli that the Holy Spirit proceeds from the Father and the Son 'as from one principle and a single spiration', holding the Latin and Greek formulas equivalent; the union was rejected in the East. Reported as the council's definition, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "great-schism",
+      "note": "The Filioque, in both its dogmatic and its disciplinary aspect, is one of the principal doctrinal issues in the East-West schism, debated at the reunion councils of Lyons (1274) and Florence (1439). Reported as a historical relation. Forward reference to a not-yet-created entity."
+    }
+  ],
+  "historical_period": {
+    "start": 589,
+    "note": "The double procession is affirmed at the local Councils of Toledo from 589; the interpolated creed spreads in the Frankish West under Charlemagne and is debated with Rome in the ninth century (Photius); the addition is received into the creed at Rome by the eleventh century, and defined as Catholic doctrine at Lyons II (1274) and Ferrara-Florence (1439). No end date: the question remains live between the communions, though addressed in modern ecumenical dialogue."
+  },
+  "sources": [
+    {
+      "citation": "The Nicene-Constantinopolitan Creed (the creed of the First Council of Constantinople, 381), procession clause on the Holy Spirit: '[I believe] in the Holy Ghost, the Lord and Giver of life, who proceeds from the Father [and the Son]', where the original Greek (to ek tou Patros ekporeuomenon) reads 'who proceeds from the Father' and the bracketed 'and the Son' is the Latin Filioque interpolation (qui ex Patre Filioque procedit). The primary-corpus lens; the procession clause was read directly to establish the original wording and the location of the addition.",
+      "url": "https://www.ccel.org/creeds/nicene.creed.html",
+      "license": "Underlying creedal text public domain; the English presentation is from the Christian Classics Ethereal Library. The procession clause 'who proceeds from the Father [and the Son]', with the Filioque shown in brackets as the added phrase, was read directly (2026-07-24).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Siecienski, A. Edward. The Filioque: History of a Doctrinal Controversy. Oxford Studies in Historical Theology. New York: Oxford University Press, 2010. The standard modern history of the Filioque controversy across the Greek and Latin traditions, from the biblical and patristic material through the ninth-century debates (Photius), the Councils of Lyons and Ferrara-Florence, to modern ecumenical dialogue, treating the Western double procession and the Eastern 'from the Father alone / through the Son' positions historically. The academic history-of-doctrine lens.",
+      "url": "https://global.oup.com/academic/product/the-filioque-9780199971862",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Oxford University Press catalogue and a peer-reviewed review (Church History, 2010).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Chadwick, Henry. East and West: The Making of a Rift in the Church: From Apostolic Times until the Council of Florence. Oxford History of the Christian Church. Oxford: Oxford University Press, 2003. A balanced account of the emergence of the division between Rome and Constantinople, treating the theological (including the Filioque), personal, political, and cultural factors from apostolic times to Florence. The academic history lens on the East-West rift and the place of the Filioque within it.",
+      "url": "https://global.oup.com/academic/product/east-and-west-the-making-of-a-rift-in-the-church-9780199264575",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Oxford University Press catalogue.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

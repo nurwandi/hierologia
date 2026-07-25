@@ -1,0 +1,83 @@
+{
+  "id": "al-kindi",
+  "tradition": "islam",
+  "names": {
+    "primary": "al-Kindi",
+    "original": "أبو يوسف يعقوب بن إسحاق الكندي",
+    "transliteration": "Abū Yūsuf Yaʿqūb ibn Isḥāq al-Kindī",
+    "aliases": [
+      "Abu Yusuf Ya'qub ibn Ishaq al-Kindi",
+      "faylasuf al-Arab ('the Philosopher of the Arabs')",
+      "Alkindus"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "polymath",
+    "mathematician",
+    "physician",
+    "music theorist"
+  ],
+  "summary": "Abu Yusuf Ya'qub al-Kindi (c. 801-873 CE), known as 'the Philosopher of the Arabs' (faylasuf al-Arab), was the first major philosopher of the Islamic world and a polymath at the Abbasid court in Baghdad associated with the Graeco-Arabic translation movement. He sought to naturalize Greek (Aristotelian and Neoplatonic) philosophy in Arabic and, in works such as On First Philosophy, argued for a created and finite world and for God as the True One (al-Wahid al-Haqq); a forerunner of al-Farabi and the falsafa tradition, he also worked across cosmology, optics, medicine, and music.",
+  "description": "Abu Yusuf Ya'qub ibn Ishaq al-Kindi lived c. 801-873, active chiefly at Baghdad, the centre of the Abbasid caliphate during the era of the Graeco-Arabic translation movement, when Greek scientific and philosophical works were being rendered into Arabic. Of noble Arab (Kindite) descent, he was attached to the Abbasid court and served as a tutor under the caliphs al-Mu'tasim and others. He came to be called 'the Philosopher of the Arabs' (faylasuf al-Arab), and is generally regarded in the scholarship as the first major philosopher of the Islamic world, the earliest figure to pursue the Hellenistic-derived discipline of falsafa in Arabic.\n\nAl-Kindi is associated with the circle of scholars around the translation movement and, on the account set out by Peter Adamson, oversaw and drew upon Arabic versions of Greek texts (including works of the Neoplatonic tradition) in order to naturalize Greek philosophy within Arabic-Islamic culture. His project, as Adamson and Peter Pormann present it, was to make the philosophical sciences available in Arabic and to show that philosophy and revealed religion agree. His best-known philosophical treatise, On First Philosophy (Fi al-Falsafa al-Ula), opens by defending the pursuit of philosophy, defines first philosophy as the knowledge of the First Truth who is the cause of every truth, and argues that the world is finite and created rather than eternal, using arguments against an actual infinite; God is presented as the True One (al-Wahid al-Haqq), the source of unity in all things, whose oneness is affirmed by way of a negative theology that denies of God the attributes and multiplicity of created things.\n\nAl-Kindi held that philosophy, pursued by human reason, and the message brought by the prophets are in harmony, and that the truths reached by demonstration do not conflict with revelation; this concern to reconcile Greek philosophy with the teaching of Islam is given here strictly as his own attributed philosophical position within the emerging falsafa tradition, not as the editor's account of the relation of reason and revelation, nor as the settled teaching of Islamic theology (kalam), which is treated in its own entries. Beyond metaphysics he was a polymath who wrote prolifically, by later report on hundreds of titles, across cosmology, optics and the theory of vision, medicine and pharmacology, mathematics, and music, in which he applied proportion and cosmological correspondence to the theory of harmony.\n\nAl-Kindi stands at the head of the falsafa tradition in the standard accounts and was a forerunner of al-Farabi; the two are commonly named as the first figures of philosophy in the Islamic world, with al-Kindi the earlier. His attempt to domesticate Greek metaphysics in Arabic, his vocabulary for the First and the One, and his defence of the created and finite cosmos set terms that later falsafa would take up, extend, and in important respects revise. These lines of influence are stated here as matters of intellectual history.",
+  "editorial_notes": "This entry presents al-Kindi on Islam's terms as the first philosopher (faylasuf) of the falsafa tradition in the Islamic world, described in that tradition's own terms before any comparison (neutrality #6), and files him under islam as a figure of Islamic intellectual history. THE SENSITIVE POINT: al-Kindi's project of showing the harmony of philosophy and revealed religion, and his claim that the truths of demonstration agree with the message of the prophets, are given strictly as HIS attributed philosophical position within early falsafa (neutrality #1, #2), and NOT as the editor's view of reason and revelation, nor as the teaching of kalam or of the tradition at large; the entry marks it explicitly as his view and does not adjudicate it. His metaphysics (the created and finite world, God as the True One / al-Wahid al-Haqq, the negative theology of the divine oneness) is likewise attributed to him. His standing as a forerunner of al-Farabi and the falsafa tradition is stated factually as intellectual history, not as endorsement.\n\nSources triangulate three lenses per neutrality #8-#9: (a) modern academic scholarship, Peter Adamson, Al-Kindi (Great Medieval Thinkers, Oxford University Press, 2007); (b) al-Kindi's own primary works in a scholarly edition and translation, Adamson and Pormann, The Philosophical Works of al-Kindi (Oxford University Press, Studies in Islamic Philosophy, 2012), which includes On First Philosophy; (c) a contemporary Muslim scholar genuinely on-topic, Seyyed Hossein Nasr, Islamic Philosophy from Its Origin to the Present (SUNY Press, 2006), which treats al-Kindi as the first faylasuf within the falsafa tradition and on the tradition's own terms. No encyclopedias (no Encyclopaedia of Islam, no Stanford Encyclopedia of Philosophy), no Wikipedia, no tertiary sources.\n\nCONFIDENCE / HONESTY: no source is rated HIGH, and none is invented. Per the brief, al-Kindi's works survive in modern proprietary critical editions and translations (Adamson and Pormann); On First Philosophy and the other treatises were verified to exist and be on-topic via the publisher and peer-reviewed review records, but were NOT read line-by-line in an open licensed text, so the primary corpus is rated MEDIUM. Adamson's monograph and Nasr's history are likewise verified to exist and be on-topic via publisher pages but not read line-by-line, and are rated MEDIUM. Unlike the companion Barmen-based Christian entries in this batch, there is no short OPEN primary for al-Kindi comparable to the Barmen Declaration, so this figure has no verified-eligible high source; the honest ceiling here is reviewed-only.\n\nSource-diversity gap (flagged honestly per neutrality #8): two of the three sources are Western-published academic works and Western-edited translations (Adamson; Adamson and Pormann); the contemporary Muslim lens is present (Nasr), but the classical Muslim placement of al-Kindi within falsafa (for example a biographical or bibliographical notice such as Ibn al-Nadim's Fihrist cited to a primary edition) is not yet represented and would strengthen the entry, as noted analogously in the al-farabi entry.\n\nDates: c. 801-873 CE are approximate and standardly reported; the birth year in particular is a scholarly estimate.\n\nRelation targets: al-farabi, ibn-sina, aristotle (philosophy), plato (philosophy), and the falsafa concept exist in the dataset. The influenced edge to al-farabi is framed as intellectual precedence within the tradition, not discipleship.",
+  "lifespan": {
+    "birth": 801,
+    "death": 873,
+    "note": "c. 801-873 CE (c. 185-260 AH). Both dates are approximate; the birth year c. 801 is a scholarly estimate and the death is placed c. 870-873. Of Kindite (Arab) descent, he was active chiefly at Baghdad at the Abbasid court. Dates are approximate."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "falsafa",
+      "note": "Al-Kindi is generally regarded as the first philosopher of the falsafa tradition in the Islamic world and the earliest to pursue the Hellenistic-derived discipline of falsafa in Arabic; the falsafa concept entry exists."
+    },
+    {
+      "type": "influenced",
+      "target": "al-farabi",
+      "note": "Al-Kindi, the earliest of the falasifa, preceded al-Farabi; the two are commonly named as the first figures of philosophy in the Islamic world, with al-Kindi the earlier. al-farabi exists in the dataset and references al-kindi. Stated as intellectual history, not discipleship."
+    },
+    {
+      "type": "influenced",
+      "target": "ibn-sina",
+      "note": "As the founder of the falsafa tradition in Arabic, al-Kindi stands at the head of the line of philosophy that al-Farabi and Ibn Sina (Avicenna) later developed; ibn-sina exists in the dataset. Stated as intellectual history."
+    },
+    {
+      "type": "influenced_by",
+      "target": "aristotle",
+      "note": "Al-Kindi drew on Aristotelian philosophy, made available through the Graeco-Arabic translation movement, in his metaphysics and natural philosophy; the aristotle entry exists (philosophy)."
+    },
+    {
+      "type": "influenced_by",
+      "target": "plato",
+      "note": "Al-Kindi drew on the Neoplatonic tradition (including Arabic versions of Neoplatonic texts) alongside Aristotle in shaping his account of the First and the One; the plato entry exists (philosophy). The Neoplatonic, rather than strictly Platonic, character of this influence is noted."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Adamson, Peter. Al-Kindi. Great Medieval Thinkers. New York: Oxford University Press, 2007. The standard single-volume academic study of al-Kindi's life, method, and philosophical corpus, treating his relation to the Greek tradition and to the Muslim intellectual culture of his day, his metaphysics of the First Truth and the created world, and his project of naturalizing Greek philosophy in Arabic; cited as the modern academic lens and for the characterization of al-Kindi as the first philosopher of the Islamic world. Verified to exist and be on-topic (Oxford University Press publisher page; PhilPapers record), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/al-kindi-9780195181432",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Adamson, Peter, and Peter E. Pormann, trans. The Philosophical Works of al-Kindi. Studies in Islamic Philosophy. Karachi: Oxford University Press, 2012. Primary source: the scholarly English translation of al-Kindi's philosophical corpus, including On First Philosophy (Fi al-Falsafa al-Ula), the source for his defence of philosophy, his account of the First Truth and God as the True One (al-Wahid al-Haqq), his negative theology of the divine oneness, and his arguments for a created and finite world. Verified to exist and be on-topic (Oxford University Press, ISBN 978-0-19-906280-5; reviews in the scholarly literature), cited from a proprietary translation and not read line-by-line, so rated medium.",
+      "url": "https://philpapers.org/rec/PORTPW",
+      "license": "Proprietary translation of classical texts; cited for reference (relevant passages not read line-by-line).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. Islamic Philosophy from Its Origin to the Present: Philosophy in the Land of Prophecy. Albany: State University of New York Press, 2006. A history of Islamic philosophy by a contemporary Muslim scholar, framing the falsafa tradition as philosophizing carried out in a world in which prophecy is a central reality and treating al-Kindi as the first faylasuf of that tradition; cited as the contemporary Muslim lens on al-Kindi within Islamic intellectual history and on the tradition's own terms. Verified to exist and be on-topic (SUNY Press publisher page), not read line-by-line.",
+      "url": "https://sunypress.edu/Books/I/Islamic-Philosophy-from-Its-Origin-to-the-Present",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

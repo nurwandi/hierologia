@@ -1,0 +1,78 @@
+{
+  "id": "great-schism",
+  "tradition": "christianity",
+  "names": {
+    "primary": "East-West Schism",
+    "original": "Schisma Orientale",
+    "transliteration": "Schisma Orientale",
+    "aliases": [
+      "The Great Schism of 1054",
+      "The Great Schism (East-West)",
+      "The Eastern Schism",
+      "The schism of East and West"
+    ]
+  },
+  "category": "schism (break in communion)",
+  "location": "Constantinople and Rome (the Greek East and the Latin West)",
+  "date": {
+    "year": 1054,
+    "note": "Conventionally dated to the mutual excommunications of July 1054, when the papal legate Cardinal Humbert of Silva Candida laid a bull of excommunication against Patriarch Michael Cerularius on the altar of Hagia Sophia and the patriarch and his synod excommunicated the legates in return. Scholarship treats 1054 as a symbolic marker rather than the true beginning of the schism: the estrangement of the Greek and Latin churches developed gradually over centuries and hardened only later, above all after the Fourth Crusade's sack of Constantinople in 1204. The 1054 excommunications were lifted by Pope Paul VI and Patriarch Athenagoras I in December 1965."
+  },
+  "summary": "The East-West Schism, conventionally called the Great Schism of 1054, is the break in communion between the Latin (Roman Catholic) church and the Greek (Eastern Orthodox) church. It is conventionally dated to the mutual excommunications of 1054, between the papal legate Cardinal Humbert and Patriarch Michael Cerularius, but modern scholarship regards 1054 as a symbolic marker of a long, gradual estrangement over the Filioque, papal authority, the use of unleavened bread (azymes), and cultural and political divergence, hardened by the Fourth Crusade's sack of Constantinople in 1204. The 1054 excommunications were lifted by Paul VI and Athenagoras in 1965.",
+  "description": "The East-West Schism is the enduring break in communion between the two great halves of Chalcedonian Christianity, the Latin (Roman Catholic) church of the West and the Greek (Eastern Orthodox) church of the East. Its conventional date is 1054. In that year Pope Leo IX sent legates, led by Cardinal Humbert of Silva Candida, to Constantinople; amid the dispute with Patriarch Michael Cerularius, and after Leo's own death, Humbert on 16 July 1054 laid on the altar of Hagia Sophia a bull excommunicating the patriarch, and Cerularius with his synod excommunicated the legates in return. These acts were directed at the persons involved rather than formally at the two churches as such, and at the time were not universally regarded as the definitive rupture they later came to symbolize.\n\nModern historians generally hold that the schism was not made in a single year but was the outcome of a long estrangement between East and West with several interwoven causes, each of which is attributed here to the parties who pressed it rather than judged. Doctrinally, the Filioque (the Latin addition to the creed affirming that the Holy Spirit proceeds 'from the Father and the Son') was contested by the East as both an unauthorized alteration of an ecumenical creed and a theological error. Ecclesiologically, the churches divided over the authority claimed for the bishop of Rome, the Western claim of a universal papal primacy of jurisdiction against the Eastern conception of the pope as first in honour among the patriarchs within a conciliar and collegial order. Liturgically, the Latin use of unleavened bread (azymes) in the Eucharist, along with other differences of practice, became a point of dispute. Underlying these were long-running linguistic, cultural, and political divergences between the Greek East and the Latin West, sharpened by the rivalry of Rome and Constantinople and by the political fragmentation of the former Roman world.\n\nMuch scholarship holds that the breach became lasting not in 1054 but through later events, above all the Fourth Crusade, whose Latin forces sacked Constantinople in 1204 and established a Latin patriarch there, an act widely held to have made the alienation between the churches irreparable at the popular level. Later attempts at reunion, at the Second Council of Lyons (1274) and the Council of Ferrara-Florence (1439), produced formal unions that were rejected in the East and did not hold. In a gesture of reconciliation, Pope Paul VI and the Ecumenical Patriarch Athenagoras I issued a joint declaration in December 1965 lifting and consigning to oblivion the mutual excommunications of 1054, an act understood as removing that particular censure without by itself restoring full communion. This entry records the excommunications of 1054, the causes of the division, and the later events as matters of historical record, attributing the doctrinal and ecclesiological positions to their holders; it does not adjudicate the Filioque or the question of papal authority, and it follows the scholarly view that 1054 is a symbolic marker of a gradual schism.",
+  "editorial_notes": "This entry follows the settled scholarly view (Runciman, Chadwick) that 1054 is a symbolic or conventional marker of a schism that developed gradually over centuries and hardened after 1204, rather than the moment the churches were sundered; the date.note and the description both state this explicitly (neutrality #1). The causes, the Filioque, papal authority/primacy, azymes (unleavened bread), and cultural-political divergence, are attributed to the parties who pressed them and are not adjudicated (neutrality #2): the entry does not rule whether the Filioque was a licit addition or a true doctrine, nor whether the Roman claim to universal primacy or the Eastern conciliar conception is correct. The 1054 excommunications and their lifting in 1965 are stated as historical fact.\n\nSources triangulate the lenses adapted for Christianity (neutrality #8): (a) academic historians (Runciman, The Eastern Schism, the classic study of the papacy and the Eastern churches in the eleventh and twelfth centuries; Chadwick, East and West, on the making of the rift; Siecienski, The Filioque, on the central doctrinal cause); (b) the primary corpus is referenced through the Nicene-Constantinopolitan Creed and the Florence decree read in the filioque and council-of-florence entries. No encyclopedias, Wikipedia, or tertiary sources are cited. HONESTY ON CONFIDENCE: the 1054 primary documents (Humbert's bull of excommunication and the synodal reply of Cerularius) were not read directly in a critical edition here, so this entry claims no line-by-line primary read and is rated reviewed-eligible, not verified, on the secondary literature. Runciman, Chadwick, and Siecienski are rated medium: verified to exist and be on-topic via publisher pages, library catalogues (the Runciman is openly borrowable at the Internet Archive), and peer-reviewed reviews (Church History on Runciman and on Siecienski), but not read line by line. Relation targets present in the dataset: council-of-florence, eastern-orthodoxy, roman-catholicism. Dangling targets (forward references, not yet created): filioque (created in the same batch), papal-primacy, nicene-creed. This entry is a draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "filioque",
+      "note": "The Filioque, the Latin addition to the creed affirming that the Spirit proceeds 'from the Father and the Son', is one of the principal doctrinal causes of the schism, contested by the East as both an unauthorized alteration and an error. Attributed as the disputed issue, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "papal-primacy",
+      "note": "The authority claimed for the bishop of Rome, the Western claim of universal papal primacy of jurisdiction against the Eastern conception of a primacy of honour within a conciliar order, is one of the principal ecclesiological causes of the schism. Stated as the point at issue, not adjudicated. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "The Greek (Eastern Orthodox) church is one of the two parties to the schism; after the break the Eastern Orthodox churches held themselves to be in continuity with the undivided church. Stated as a fact of division, not evaluated."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "The Latin (Roman Catholic) church is the other party to the schism; after the break the Roman church likewise held itself to be in continuity with the undivided church. Stated as a fact of division, not evaluated."
+    },
+    {
+      "type": "followed_by",
+      "target": "council-of-florence",
+      "note": "The Council of Ferrara-Florence (1438-1445) was the great late-medieval attempt to heal the schism; its decree of union with the Greeks was rejected in the East and did not survive the fall of Constantinople in 1453. Reported as a historical relation between the schism and the reunion council."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Runciman, Steven. The Eastern Schism: A Study of the Papacy and the Eastern Churches during the XIth and XIIth Centuries. Oxford: Clarendon Press, 1955. The classic scholarly study of the estrangement of Rome and the Eastern churches, arguing that the final breach grew from long divergences of tradition and ideology and was brought to a head by the Norman invasions of Byzantine Italy, the eleventh-century reform of the papacy, and the Crusades, rather than being made in the single year 1054. The academic-history lens on the schism as a gradual process.",
+      "url": "https://archive.org/details/easternschismstu0000runc_y4x8",
+      "license": "Proprietary (Clarendon Press, 1955); openly borrowable at the Internet Archive. Cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Internet Archive record and a peer-reviewed review (Church History, 1956).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Chadwick, Henry. East and West: The Making of a Rift in the Church: From Apostolic Times until the Council of Florence. Oxford History of the Christian Church. Oxford: Oxford University Press, 2003. A balanced account of the emergence of the division between Rome and Constantinople, treating the theological (the Filioque, azymes), personal, political, and cultural factors from apostolic times to Florence, and treating 1054 as one episode within a longer estrangement. The academic-history lens on the making of the rift.",
+      "url": "https://global.oup.com/academic/product/east-and-west-the-making-of-a-rift-in-the-church-9780199264575",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Oxford University Press catalogue.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Siecienski, A. Edward. The Filioque: History of a Doctrinal Controversy. Oxford Studies in Historical Theology. New York: Oxford University Press, 2010. The standard modern history of the Filioque controversy, the central doctrinal cause of the East-West schism, tracing the Western double procession and the Eastern 'from the Father alone / through the Son' positions and the reunion councils of Lyons and Ferrara-Florence. The academic history-of-doctrine lens on the schism's principal doctrinal issue.",
+      "url": "https://global.oup.com/academic/product/the-filioque-9780199971862",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Oxford University Press catalogue and a peer-reviewed review (Church History, 2010).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

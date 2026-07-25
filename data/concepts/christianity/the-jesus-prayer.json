@@ -1,0 +1,85 @@
+{
+  "id": "the-jesus-prayer",
+  "tradition": "christianity",
+  "names": {
+    "primary": "The Jesus Prayer",
+    "original": "Κύριε Ἰησοῦ Χριστέ, Υἱὲ τοῦ Θεοῦ, ἐλέησόν με τὸν ἁμαρτωλόν",
+    "transliteration": "Kyrie Iesou Christe, Hyie tou Theou, eleeson me ton hamartolon",
+    "aliases": [
+      "the Prayer of the Heart",
+      "the prayer of the name",
+      "the Prayer of Jesus",
+      "monologistos (single-phrased prayer)",
+      "Lord Jesus Christ, Son of God, have mercy on me, a sinner"
+    ]
+  },
+  "category": "spirituality",
+  "summary": "The Jesus Prayer is the short invocation 'Lord Jesus Christ, Son of God, have mercy on me, a sinner' (used in various shorter and longer forms), the central prayer of Eastern Orthodox hesychast spirituality, repeated continually so as to fulfil the scriptural injunction to 'pray without ceasing' (1 Thessalonians 5:17) and to draw the mind down into the heart. It is rooted in the desert fathers and the invocation of the name of Jesus, systematized within the hesychast tradition and the Philokalia, and made widely known in the West through the nineteenth-century Russian work The Way of a Pilgrim.",
+  "description": "The Jesus Prayer is a brief formula of invocation addressed to Jesus Christ, most fully 'Lord Jesus Christ, Son of God, have mercy on me, a sinner', and in the shorter forms attested in the sources simply 'Lord Jesus Christ, have mercy on me' or even the name 'Jesus' alone. In the Orthodox tradition it is prayed not as one prayer among many but as a way of praying always: it is repeated slowly and continually, in some accounts joined to the rhythm of the breath and, in the developed hesychast method, accompanied by a bodily posture and by the gathering of the mind (nous) down from the head into the heart. Its two poles, on Kallistos Ware's account, are the adoring invocation of the name of Jesus and the confession of one's own sinfulness and need of mercy, so that the prayer holds together the whole of the gospel in a single phrase.\n\nHistorically the prayer draws on the Old and New Testament practice of calling on the name of the Lord and on the cry of the publican and the blind men of the Gospels ('have mercy on me'); Irenee Hausherr traces the continual invocation of the name of Jesus from the Egyptian and Sinaite monastic milieu, where the practice of short, repeated, 'monological' prayer took shape among the desert fathers. It was carried into the neptic and hesychast tradition and gathered in the Philokalia, the anthology first published in Greek at Venice in 1782, and it stands at the centre of the fourteenth-century hesychast practice that Gregory Palamas defended theologically. Through the Slavonic Dobrotolyubie and the Russian tradition the prayer reached a wide readership, above all through the anonymous nineteenth-century Russian narrative The Way of a Pilgrim, in which a wandering pilgrim, seeking to understand the words 'pray without ceasing', is set by his spiritual elder (starets) to say the prayer first three thousand, then six thousand, then twelve thousand times a day until, in the account, it becomes 'self-acting', praying itself within the heart. This entry describes the Jesus Prayer on the Orthodox tradition's own terms and reports its theological claims (the drawing of the mind into the heart, the self-acting prayer, its place in the vision of God) as that tradition's account, without adjudicating them.",
+  "editorial_notes": "This entry describes the Jesus Prayer on the Eastern Orthodox tradition's own terms (neutrality #6) and reports its theological and experiential claims (unceasing prayer, the mind descending into the heart, the 'self-acting' prayer of the heart) as the tradition's attributed account, not as fact endorsed by the editor (neutrality #1, #2). The wording of the prayer is given in its fullest standard form in 'names' and the shorter attested forms are noted, since the sources use several forms; no single form is presented as the only correct one.\n\nSourcing triangulates the three lenses per neutrality #8: (a) academic scholarship on the history of the practice (Irenee Hausherr, The Name of Jesus, the standard scholarly study of the origins of the invocation of the name in Egyptian and Sinaite monasticism); (b) the primary corpus (The Way of a Pilgrim, a public-domain nineteenth-century primary text, together with the New Testament injunction of 1 Thessalonians 5:17 and the Philokalia work entry); (c) a contemporary Orthodox theologian (Kallistos Ware, The Power of the Name, the same source and rating as in the hesychasm entry). No encyclopedias, no tertiary or popular sources.\n\nCONFIDENCE HONESTY: The Way of a Pilgrim was read directly, line by line, in the public-domain French-derived English translation hosted openly at the Christian Classics Ethereal Library (CCEL). The load-bearing passages were verified verbatim: the elder's teaching that the prayer 'is couched in these terms, Lord Jesus Christ, have mercy on me' and that it 'will continue to voice itself within him of its own accord'; the graduated rule to say 'the Prayer three thousand times a day', then 'six thousand', then 'twelve thousand'; the coordination with the breath ('as you breathe out, say Lord Jesus Christ, have mercy on me'); and the framing question of how to obey the Apostle's 'Pray without ceasing' (1 Thessalonians 5:17). On the strength of that direct reading the primary source (The Way of a Pilgrim) is rated high and this source is verified-eligible. Hausherr and Ware are rated medium: verified to exist and be on-topic via catalogue and publisher records, but not read line by line. Relation targets hesychasm, philokalia, eastern-orthodoxy, and gregory-palamas exist in the dataset; monasticism exists as a school.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "hesychasm",
+      "note": "The Jesus Prayer is the central practice of hesychasm, the contemplative tradition of Orthodox monasticism oriented to hesychia (stillness) and unceasing prayer of the heart."
+    },
+    {
+      "type": "related_to",
+      "target": "philokalia",
+      "note": "The neptic and hesychast texts anthologized in the Philokalia (Greek, Venice, 1782) transmit and systematize the practice of the Jesus Prayer and the invocation of the name; the pilgrim of The Way of a Pilgrim learns the prayer with the Philokalia in hand."
+    },
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "The Jesus Prayer is a defining prayer of Eastern Orthodox spirituality, practised in monastic and lay life alike; described here on the tradition's own terms."
+    },
+    {
+      "type": "related_to",
+      "target": "monasticism",
+      "note": "The continual invocation of the name of Jesus took shape in Egyptian and Sinaite desert monasticism and the ideal of unceasing prayer, from which the developed hesychast method drew."
+    },
+    {
+      "type": "articulated_by",
+      "target": "gregory-palamas",
+      "note": "The hesychast prayer of which the Jesus Prayer is the centre was given its theological defence by Gregory Palamas in the fourteenth-century controversy; his account of the vision of the uncreated light is attributed to him, not adjudicated here."
+    }
+  ],
+  "historical_period": {
+    "start": 400,
+    "note": "Roots in fourth- to fifth-century Egyptian and Sinaite desert monasticism (the invocation of the name and short 'monological' prayer); systematized in the Byzantine hesychast tradition and gathered in the Philokalia (Greek, 1782); popularized in the Slavonic and Russian tradition and, in the nineteenth century, through The Way of a Pilgrim. The practice remains living in Orthodox spirituality; no end date is asserted. Dates are conventional, marking a long development rather than a single origin."
+  },
+  "sources": [
+    {
+      "citation": "The Way of a Pilgrim (Otkrovennye rasskazy strannika dukhovnomu svoemu ottsu), anonymous Russian narrative, nineteenth century. English translation by R. M. French. Primary text. Read directly, line by line. Load-bearing passages verified verbatim: the elder's teaching that unceasing prayer 'is couched in these terms, Lord Jesus Christ, have mercy on me' and 'will continue to voice itself within him of its own accord'; the graduated rule to 'say the Prayer three thousand times a day', then 'six thousand', then 'twelve thousand times a day'; the coordination of the invocation with the breath; and the opening question of how to obey the Apostle's 'Pray without ceasing' (1 Thessalonians 5:17). The narrative recounts the pilgrim learning the prayer with the Philokalia in hand.",
+      "url": "https://ccel.org/ccel/p/philip_allan/pilgrim",
+      "license": "Public domain (nineteenth-century Russian original; the R. M. French English translation is out of copyright). Read line-by-line at the Christian Classics Ethereal Library (CCEL).",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Holy Bible, 1 Thessalonians 5:17, 'Pray without ceasing' (adialeiptos proseuchesthe). Primary scriptural text; the injunction that the tradition takes as the mandate for continual prayer and that frames the pilgrim's quest in The Way of a Pilgrim.",
+      "url": "https://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A17",
+      "license": "Underlying Greek text public domain; English versions vary by edition.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hausherr, Irenee. The Name of Jesus (Noms du Christ et voies d'oraison). Translated by Charles Cummings. Cistercian Studies 44. Kalamazoo, MI: Cistercian Publications, 1978. The standard scholarly study of the origins and development of the invocation of the name of Jesus and short continual prayer in Egyptian and Sinaite monasticism. Academic-historian lens.",
+      "url": "https://www.cistercianpublications.org/products/the-name-of-jesus",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ware, Kallistos (Bishop of Diokleia). The Power of the Name: The Jesus Prayer in Orthodox Spirituality. Oxford: SLG Press / Fairacres Publications, 1974 (repr.). Concise exposition by a contemporary Orthodox scholar and bishop of the Jesus Prayer, its wording, its two poles (invocation of the name and confession of sin), and its use in the hesychast tradition. Contemporary-theologian lens; same source and rating as in the hesychasm entry.",
+      "url": "https://books.google.com/books/about/The_Power_of_the_Name.html?id=kd8mEAAAQBAJ",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

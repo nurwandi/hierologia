@@ -1,0 +1,79 @@
+{
+  "id": "shivchei-ha-besht",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shivchei ha-Besht",
+    "original": "שִׁבְחֵי הַבֶּעֶשְׁ\"ט",
+    "transliteration": "Shivchei ha-Besht",
+    "aliases": [
+      "Shivhei ha-Besht",
+      "In Praise of the Baal Shem Tov",
+      "Praises of the Besht",
+      "Sefer Shivchei ha-Besht"
+    ]
+  },
+  "category": "hagiography (collection of praise-tales / legends)",
+  "date": {
+    "year": 1814,
+    "note": "First printed in Hebrew at Kopys (Kopyst, in Belarus) in 1814 by the printer Israel Yaffe (Yofeh), more than fifty years after the death of the Baal Shem Tov (d. 1760); Yiddish versions followed soon after, from 1815. The digitized Hebrew text on Sefaria is taken from a Kopys 1815 printing; the 1814/1815 dating reflects the closely successive Kopys editions, and the year is entered as 1814 for the first Hebrew printing."
+  },
+  "summary": "Shivchei ha-Besht ('In Praise of the Baal Shem Tov') is the first and most influential hagiographic collection of tales about Israel ben Eliezer, the Baal Shem Tov (c. 1698-1760), and the early Hasidic circle around him: over two hundred praise-tales of wonders, providence, and holiness, compiled by Dov Ber ben Samuel of Linets and first printed in Hebrew at Kopys in 1814. As a work of praise and legend gathered from oral transmission more than fifty years after the Besht's death, it is a hagiography, not a documentary biography, and it is the central source for the popular image of the Besht and a principal object of the modern scholarly debate over the historical versus the legendary founder of Hasidism.",
+  "description": "Shivchei ha-Besht (the 'Praises of the Besht', that is of the Baal Shem Tov, 'Master of the Good Name') is a collection of tales in praise of Israel ben Eliezer (c. 1698-1760) and of the associates, disciples, and forebears connected with him. It was compiled by Dov Ber ben Samuel of Linets (Linits), a ritual slaughterer whose father-in-law had been the Besht's scribe, and it was first printed in Hebrew at Kopys in 1814 by the printer Israel Yaffe, who arranged and introduced the material; Yiddish renderings appeared almost immediately afterward. The book gathers over two hundred short narratives, drawn largely from oral transmission and set down more than half a century after the Besht's death, and it opens (in the printer's introduction) with an account of how the tales were collected and ordered.\n\nThe work belongs to the genre of hagiography, the literature of praise and holy legend, and this entry presents it as such rather than as a documentary record. Its narratives characteristically recount wonders and miracles, prophetic dreams and heavenly revelations, providential deliverances, ascents of the soul, healings and exorcisms, and encounters with hidden saints, opening with a legend of the miraculous circumstances of the Besht's own birth to aged and righteous parents. Their purpose, as praise-tales, is to exalt the holiness and the divine favour of the Besht and of the early masters and to edify the reader, and their relation to verifiable historical events is loose and mediated by decades of retelling. The collection is thus best read as evidence for how the early Hasidic movement remembered, imagined, and venerated its founder, and for the hagiographic image of the Besht that it did much to fix, rather than as a chronicle of what he demonstrably said and did.\n\nBecause the Besht committed almost nothing to writing, Shivchei ha-Besht became, for later generations, a principal source of the popular picture of him, and precisely for that reason it stands at the centre of the modern scholarly debate over the historical Besht. Historians (Moshe Rosman in Founder of Hasidism and Immanuel Etkes in The Besht) have subjected the collection to critical scrutiny, weighing its legends against the sparse contemporary documentation in order to distinguish the recoverable historical figure from the later hagiographic construction; the standard English translation, by Dan Ben-Amos and Jerome R. Mintz, presents it under the subtitle 'the earliest collection of legends about the founder of Hasidism'. This entry records the collection on the tradition's own terms as its treasured book of praise, and records alongside it the scholarly reading of it as hagiography and legend, distinguishing the hagiographic Besht that the book constructs from the historical figure that scholarship seeks, and treating neither as simply identical to the other.",
+  "editorial_notes": "This entry presents Shivchei ha-Besht explicitly and throughout as a HAGIOGRAPHY, a collection of praise-tales and holy legend, and NOT as a documentary biography of the Baal Shem Tov (neutrality #1, #4, #5). Its wonder-tales, miracles, dreams, and providential narratives are described as legend and praise, their purpose stated as the exaltation and edification of the Besht and the early Hasidic masters, and their historical value characterized as loose and mediated by decades of oral retelling; the book is framed as evidence for how the early movement remembered and venerated its founder, not for what the Besht demonstrably did. The historical-versus-legendary Besht debate is ATTRIBUTED to the scholarship (Rosman, Etkes) and the hagiographic Besht constructed by the book is DISTINGUISHED from the historical figure scholarship seeks, mirroring the baal-shem-tov and hasidism entries, with neither treated as simply the other and the editor adjudicating nothing. Sources triangulate three lenses per neutrality #8-#9: (a) the primary text itself, open and auditable on Sefaria (Kopys 1815, public-domain Hebrew), read at section 1 where the printer's introduction on the collection of the tales and the opening wonder-legend of the Besht's birth confirm the hagiographic praise-tale genre firsthand; (b) the standard scholarly English translation and edition by Dan Ben-Amos and Jerome R. Mintz (Indiana University Press, 1970), whose very subtitle labels the work 'legends'; and (c) contemporary Jewish scholars who are its leading historians (Moshe Rosman, Founder of Hasidism; Immanuel Etkes, The Besht), carrying the same medium ratings they hold in the baal-shem-tov and hasidism entries. No encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Sefaria primary text is rated HIGH because section 1 was read directly and the load-bearing genre claim (that the book is a collection of praise-tales, wonders, and holy legend gathered from oral transmission and introduced by the printer) is carried by that open primary itself; the Sefaria Hebrew is public domain (Kopys 1815) and has no full open English translation, so the reading is of the Hebrew and its printer's introduction. The Ben-Amos & Mintz translation is rated medium (verified to exist via Internet Archive and library records, not read line-by-line here). The two secondary monographs (Rosman, Etkes) are medium, verified to exist and be on-topic via publisher and award records, carrying the same ratings as elsewhere in the batch. Relation targets: baal-shem-tov and hasidism exist (both reference this work); dov-ber-of-linets, maggid-of-mezeritch, and rabbinic-judaism are further targets, of which dov-ber-of-linets and maggid-of-mezeritch are dangling forward references to not-yet-created figure entities.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "baal-shem-tov",
+      "note": "Shivchei ha-Besht is the earliest and most important collection of hagiographic legends about Israel ben Eliezer, the Baal Shem Tov, and a principal (hagiographic, not documentary) source for the popular image of him; the hagiographic Besht the book constructs is distinguished from the historical figure. The baal-shem-tov entry exists and references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "The collection is a central source for the foundation-narrative of Hasidism and for how the early movement remembered and venerated its founder; it is read here as evidence for the movement's memory and self-image, not as a chronicle of events. The hasidism entry exists and references this work."
+    },
+    {
+      "type": "authored_by",
+      "target": "dov-ber-of-linets",
+      "note": "The collection was compiled by Dov Ber ben Samuel of Linets (Linits), a ritual slaughterer connected through his father-in-law to the Besht's circle, and first printed with an arranging introduction by the Kopys printer Israel Yaffe in 1814. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "related_to",
+      "target": "maggid-of-mezeritch",
+      "note": "Many of the tales concern the Besht's disciples and successors, above all Dov Ber, the Maggid of Mezeritch, and the early Hasidic circle around them; recorded as the legendary subject-matter of the collection, not as documentary report. Dangling forward reference to a not-yet-created figure entity."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Shivchei ha-Besht (Shivchei HaBesht, 'In Praise of the Baal Shem Tov'), open Hebrew text on Sefaria, digitized from the Kopys (Kopyst) 1815 printing (public domain). Cited as the openly-auditable primary text carrying the load-bearing genre claim, read at section 1: the printer's introduction explains that the tales were gathered and arranged from oral transmission rather than from written sources, and the opening narrative recounts the miraculous, providentially guided circumstances surrounding the birth of the Baal Shem Tov to his aged and righteous parents. This section was read directly and confirms firsthand that the work is a hagiographic collection of praise-tales, wonders, dreams, and holy legend, not a documentary biography. Sefaria carries the Hebrew original in the public domain; there is no full open English translation on Sefaria, so the reading is of the Hebrew text and its printer's introduction.",
+      "url": "https://www.sefaria.org/Shivchei_HaBesht.1",
+      "license": "Hebrew original in the public domain (Kopys/Kopyst, 1815), digitized by Sefaria. No full English translation on Sefaria. Section 1 read at the passage level.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ben-Amos, Dan, and Jerome R. Mintz, trans. and eds. In Praise of the Baal Shem Tov (Shivhei ha-Besht): The Earliest Collection of Legends about the Founder of Hasidism. By Dov Baer ben Samuel of Linits. Bloomington: Indiana University Press, 1970 (ISBN 0253140501; later reprints ISBN 9780253140517). The standard scholarly English translation and annotated edition of the work, based on the original Kopys 1814 (Israel Yaffe) edition; cited both for the text of the tales and, in its very subtitle, for the scholarly characterization of the collection as 'legends about the founder of Hasidism' (a hagiography). Verified to exist and be on-topic via the Internet Archive and library catalog records (HathiTrust 001100681), not read line-by-line here.",
+      "url": "https://archive.org/details/inpraiseofbaalsh0000dobb",
+      "license": "Proprietary translation; the classical Hebrew text is in the public domain. Cited for reference (Internet Archive record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rosman, Moshe. Founder of Hasidism: A Quest for the Historical Ba'al Shem Tov. Contraversions 5. Berkeley: University of California Press, 1996 (reprinted, with a new introduction, Oxford: Littman Library, 2013). A contemporary Jewish scholar's archival reconstruction of the historical Besht, which subjects Shivchei ha-Besht to critical scrutiny and weighs its legends against the sparse contemporary documentation, distinguishing the hagiographic image from the recoverable historical figure; cited as the load-bearing scholarly lens on the collection's status as hagiography and on the historical-versus-legendary debate. Carries the same medium rating it holds in the baal-shem-tov and hasidism entries. Verified to exist and be on-topic (University of California Press record; 1996 National Jewish Book Award), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/founder-of-hasidism/hardcover",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Besht: Magician, Mystic, and Leader. Translated by Saadya Sternberg. The Tauber Institute Series for the Study of European Jewry. Waltham: Brandeis University Press, 2005. A contemporary Jewish scholar's study of the Baal Shem Tov that examines both the hagiographic evidence (including Shivchei ha-Besht) and the documentary record in reconstructing his roles and personality; cited as a further contemporary-Jewish-scholarship lens on the collection's use and limits as a historical source. Carries the same medium rating it holds in the baal-shem-tov and hasidism entries. Verified to exist and be on-topic (Brandeis University Press / University Press of New England record; History of Religions review), not read line-by-line.",
+      "url": "https://brandeisuniversitypress.com/contributor/immanuel-etkes/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

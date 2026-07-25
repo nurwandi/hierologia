@@ -1,0 +1,109 @@
+{
+  "id": "aggadah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Aggadah",
+    "original": "אַגָּדָה",
+    "transliteration": "aggadah",
+    "aliases": [
+      "Haggadah (in the sense of rabbinic lore)",
+      "Aggada",
+      "Agada",
+      "the non-legal lore of the rabbis",
+      "rabbinic narrative and homily"
+    ]
+  },
+  "category": "interpretation",
+  "summary": "Aggadah (from a root meaning to tell or narrate) is the non-legal material of the classical rabbinic literature, the Talmud and the midrash: narrative, homily, ethics, theology, legend, parable, and biblical exegesis, as distinct from halakha, the legal material. In the rabbinic corpus the two are interwoven but differ in genre and in binding force; the tradition understands aggadah as its theological and imaginative reflection, not as binding law, and it is where much of rabbinic Judaism's account of God, humanity, history, and the meaning of scripture is expressed.",
+  "description": "Aggadah (Hebrew aggadah, also haggadah, from the root n-g-d / h-g-d, to tell, to narrate) is the collective term in rabbinic Judaism for the non-legal portion of the classical rabbinic literature. Where halakha is the legal material, the law of what one is bound to do, aggadah is everything else the rabbis taught and transmitted: biblical exegesis and homily (derash), narrative and legend about the biblical figures and the sages, ethical and theological teaching, parable (mashal), consolation and admonition, and reflection on God, providence, suffering, reward, redemption, and the meaning of history. The two genres are interwoven throughout the Talmud and the midrashic collections, so that a page may move from a point of law to a story or a homily and back; the tradition and the scholarship nonetheless distinguish them as different kinds of discourse. The distinction is stated in the tradition's own idiom in the tannaitic midrash, which pairs 'halakhot and aggadot' (legal traditions and lore) as the two together making up 'all that proceeds from the mouth of the Lord' (Sifrei Devarim 48, read on Sefaria).\n\nThe non-binding character of aggadah relative to halakha is part of the tradition's own understanding of it, and is recorded here on those terms: one does not derive binding law from aggadah, and settled practice is fixed by the halakhic process, not by the homiletical and narrative material. This is not a denigration of aggadah within the tradition; on the contrary, the rabbinic sources present aggadah as the vehicle of the deepest theological knowledge. The tannaitic midrash puts it in the mouth of 'the expounders of aggadah' (dorshei aggadot): 'So you want intimacy with the One Who spoke the world into being? Then master aggadah, for you will thereby become familiar with the One Who spoke the world into being, and will cling to His ways' (Sifrei Devarim 49, read on Sefaria). Aggadah is thus, in the tradition's self-understanding, the primary medium of its theology and its imaginative reflection on scripture, carried in a homiletical and narrative rather than a legal form.\n\nAggadah is preserved in two settings. Much of it is embedded in the two Talmuds alongside the legal discussion, and much is gathered in the dedicated works of aggadic midrash, the homiletical and exegetical collections on the books of the Bible (such as the Genesis Rabbah, the Leviticus Rabbah, the Pesikta, and the Tanhuma literature) and the narrative expansions of the biblical text. A characteristic aggadic passage is the Babylonian Talmud's story of the Oven of Akhnai (Bava Metzia 59b, read on Sefaria), in which a dispute over the law becomes the occasion for a narrative about the authority of interpretation: Rabbi Eliezer, outvoted by his colleagues, calls on miracles and finally a heavenly voice to confirm his ruling, and Rabbi Yehoshua rises and answers with the verse 'It is not in heaven' (Deuteronomy 30:12), taken to mean that since the Torah was already given at Sinai the law is decided by the majority of the sages and not by a heavenly voice; the story ends with God, encountered by Elijah, said to have 'smiled and said: My children have triumphed over Me, My children have triumphed over Me.' The passage is legal in its occasion but aggadic in its form and its theological reach, and it illustrates how aggadah carries the tradition's reflection on revelation, interpretation, and authority through narrative.\n\nThe study of aggadah in modern scholarship, from Isaac Heinemann's analysis of its interpretive methods to Ephraim Urbach's synthesis of the concepts and beliefs of the sages, treats it as the principal witness to rabbinic theology and imagination and reads its narratives as literary and homiletical compositions. This entry describes aggadah as a genre and its relation to halakha; it does not adjudicate any particular aggadic teaching as doctrine, since the tradition itself does not treat aggadah as binding law. (The term is to be distinguished from the Passover Haggadah, the separate liturgical text recited at the seder, which shares the root but is a distinct work and not the subject of this entry.)",
+  "editorial_notes": "This entry describes aggadah on Judaism's own terms (neutrality #1, #4, #6) as a genre of the classical rabbinic literature and as the counterpart of halakha, mirroring the halakha entry, which contrasts itself with aggadah. Two points are stated explicitly as the tradition's own understanding rather than as the editor's judgment (neutrality #1): the halakha/aggadah genre distinction, and the non-binding status of aggadah relative to halakha (one does not derive binding law from aggadah). The entry is careful to present this non-binding status not as a downgrading of aggadah but as the tradition's own account, and to record, from the tradition's own sources, aggadah's standing as the vehicle of rabbinic theology ('master aggadah, and you will become familiar with the One Who spoke the world into being'). Two primary passages were READ line-by-line on open Sefaria and are rated high, carrying the load-bearing claims: the tannaitic statement of the halakha/aggadah pairing and of aggadah's theological purpose (Sifrei Devarim 48, 'halachot and aggadot'; Sifrei Devarim 49, the dorshei aggadot saying, both quoted verbatim); and a paradigmatic aggadic narrative, the Oven of Akhnai (Bava Metzia 59b), quoted verbatim ('It is not in heaven'; 'My children have triumphed over Me'), read as an example of aggadic discourse. Sources triangulate the three lenses per neutrality #8-9: (a) academic scholarship on the aggadah (Isaac/Yitzhak Heinemann, Darkhei ha-Aggadah, the seminal study of aggadic method; Strack and Stemberger's Introduction for the aggadic midrashim as a body of literature); (b) the open primary texts on Sefaria (Sifrei Devarim 48 and 49, and Bava Metzia 59b), READ line-by-line and quoted, rated high; (c) a contemporary/classic Jewish scholarly synthesis of rabbinic thought (Ephraim Urbach, The Sages), which carries the same medium rating it holds in halakha.json. No encyclopedias, no Wikipedia, no tertiary sources. Confidence: the three open Sefaria primary passages are high (read line-by-line and quoted); Heinemann, Urbach, and Strack-Stemberger are medium (verified to exist and be on-topic, not read line-by-line). The Passover Haggadah is explicitly distinguished so the shared root does not confuse the reader, per the task's caution. Relation targets halakha, talmud, mishnah, oral-torah, rabbinic-judaism, tanakh, and rabbi-akiva all exist or are authored in this batch (rabbi-akiva is authored alongside; the Oven of Akhnai passage read here also features Rabbi Akiva). The reciprocal contrasts_with from halakha to aggadah is already recorded there and is now satisfied by this file.",
+  "relations": [
+    {
+      "type": "contrasts_with",
+      "target": "halakha",
+      "note": "Within the rabbinic corpus, aggadah (the non-legal narrative, homiletical, ethical, and theological material) is conventionally distinguished from halakha (the legal, binding material); the two are interwoven in the Talmud but differ in genre and in binding force. The halakha entry exists and records the reciprocal contrasts_with relation."
+    },
+    {
+      "type": "part_of",
+      "target": "talmud",
+      "note": "Much of the aggadah is embedded in the two Talmuds alongside the legal discussion; the Oven of Akhnai narrative (Bava Metzia 59b), read line-by-line for this entry, is a characteristic Talmudic aggadic passage. The talmud entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "Aggadic material appears within the Mishnah as well (tractate Avot is largely ethical-aggadic in character), though the bulk of the aggadah is in the Talmuds and the aggadic midrashim. The mishnah entry exists."
+    },
+    {
+      "type": "elaborates",
+      "target": "oral-torah",
+      "note": "Aggadah, together with halakha, is part of the Oral Torah (Torah she-be-al peh) in the tradition's self-understanding: the tannaitic midrash pairs 'halachot and aggadot' as together making up what proceeds from the mouth of the Lord (Sifrei Devarim 48, read for this entry). The oral-torah entry exists."
+    },
+    {
+      "type": "part_of",
+      "target": "rabbinic-judaism",
+      "note": "Aggadah is a principal genre of the classical rabbinic literature and the primary medium of rabbinic Judaism's theology and imaginative reflection on scripture, history, and God. The rabbinic-judaism entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "A large part of the aggadah is homiletical and narrative exegesis of the Tanakh (the aggadic midrashim expound the biblical books and expand their narratives); aggadah is in significant part the tradition's imaginative and theological reading of scripture. The tanakh entry exists."
+    },
+    {
+      "type": "articulated_by",
+      "target": "rabbi-akiva",
+      "note": "The biographical portrait of Rabbi Akiva, and his reported messianic acclamation of Bar Kokhba, are transmitted as aggadah; the Oven of Akhnai narrative read for this entry (Bava Metzia 59b) also features Akiva. As a foremost Tanna, Akiva is among the sages whose teachings the aggadah records. The rabbi-akiva entry is authored in this batch."
+    }
+  ],
+  "historical_period": {
+    "start": 200,
+    "note": "Aggadah as a distinct body of rabbinic material is conventionally anchored, like halakha, from the classical rabbinic period (from the redaction of the Mishnah around 200 CE), though its roots are older; it develops through the two Talmuds and the aggadic midrashim of late antiquity and the early medieval period (Genesis Rabbah, Leviticus Rabbah, the Pesikta and Tanhuma literature), and aggadic composition continues thereafter, so no end date is given. The 200 CE marker is a conventional starting point for the classical rabbinic corpus."
+  },
+  "sources": [
+    {
+      "citation": "Sifrei Devarim, Pisqa 48, open Hebrew and English text on Sefaria. Cited as an open primary tannaitic midrash pairing the two genres of the oral teaching, read line-by-line and quoted: expounding 'all the commandment' and 'all that proceeds from the mouth of the Lord' (Deuteronomy 8:3) to include 'legal traditions and lore' (halachot and aggadot), the tradition's own coupling of halakha and aggadah. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Sifrei_Devarim.48",
+      "license": "Sefaria open translation; underlying Hebrew in the public domain. Openly auditable; read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Sifrei Devarim, Pisqa 49, open Hebrew and English text on Sefaria. Cited as an open primary tannaitic midrash stating aggadah's theological purpose in the tradition's own words, read line-by-line and quoted: 'The expounders of [aggadah] say: So you want intimacy with the One Who spoke the world into being? Then master [aggadah], for you will thereby become familiar with the One Who spoke the world into being, and will cling to His ways.' Confirms the tradition's self-understanding of aggadah as the medium of theological knowledge, not as binding law. Read line-by-line and verified against the text.",
+      "url": "https://www.sefaria.org/Sifrei_Devarim.49",
+      "license": "Sefaria open translation; underlying Hebrew in the public domain. Openly auditable; read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Babylonian Talmud, tractate Bava Metzia 59b, open Hebrew/Aramaic and English text on Sefaria (William Davidson Talmud, CC-BY-NC). Cited as the openly-auditable primary text for a paradigmatic aggadic narrative, the Oven of Akhnai, read line-by-line and quoted: Rabbi Eliezer, outvoted, invokes miracles and a heavenly voice; 'Rabbi Yehoshua stood on his feet and said: It is written: It is not in heaven (Deuteronomy 30:12)', taken to mean that the law follows the majority of the sages and not a heavenly voice; and the coda in which God, encountered by Elijah, 'smiled and said: My children have triumphed over Me, My children have triumphed over Me.' Cited as an example of aggadic discourse (legal in occasion, narrative and theological in form). Read line-by-line and verified against the text (Bava Metzia 59b).",
+      "url": "https://www.sefaria.org/Bava_Metzia.59b",
+      "license": "William Davidson Talmud (Koren-Steinsaltz), CC-BY-NC; underlying Aramaic in the public domain. Openly auditable; read line-by-line.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Heinemann, Isaac (Yitzhak). Darkhei ha-Aggadah (The Methods of the Aggadah). Jerusalem: Magnes Press, Hebrew University, 1949 (2nd ed. 1954) (Hebrew). The seminal scholarly study of the interpretive methods of the aggadah, analysing rabbinic aggadic exegesis under the headings of 'creative historiography' and 'creative philology'; cited for the character of aggadah as an interpretive and homiletical genre and its methods. Verified to exist and be on-topic (author, title, and publisher confirmed via library and scholarly records); not read line-by-line (Hebrew).",
+      "url": "https://www.magnespress.co.il/book/%D7%93%D7%A8%D7%9B%D7%99_%D7%94%D7%90%D7%92%D7%93%D7%94-3902",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Urbach, Ephraim E. The Sages: Their Concepts and Beliefs. Trans. Israel Abrahams. Jerusalem: Magnes Press, 1975; Cambridge, MA: Harvard University Press, 1979. A classic academic synthesis of the religious concepts and beliefs of the rabbinic sages, drawing throughout on the aggadah as the principal witness to rabbinic theology; cited for aggadah as the vehicle of rabbinic thought about God, humanity, and history. Verified to exist and be on-topic; not read line-by-line. Carries the same medium rating it holds in halakha.json.",
+      "url": "https://www.hup.harvard.edu/books/9780674785243",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Strack, H. L., and Gunter Stemberger. Introduction to the Talmud and Midrash. Trans. and ed. Markus Bockmuehl. 2nd English ed., Minneapolis: Fortress Press, 1996. The standard one-volume critical introduction to rabbinic literature; cited for the aggadic midrashim as a body of literature (Genesis Rabbah, Leviticus Rabbah, the Pesikta and Tanhuma literature) and for the place of aggadah within the rabbinic corpus. Verified to exist and be on-topic; not read line-by-line. Carries the same medium rating it holds in judah-ha-nasi.json.",
+      "url": "https://www.fortresspress.com/store/product/9780800625245/Introduction-to-the-Talmud-and-Midrash",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}

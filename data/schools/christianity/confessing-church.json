@@ -1,0 +1,85 @@
+{
+  "id": "confessing-church",
+  "tradition": "christianity",
+  "names": {
+    "primary": "The Confessing Church",
+    "original": "Bekennende Kirche",
+    "transliteration": "Bekennende Kirche",
+    "aliases": [
+      "Confessing Church",
+      "BK",
+      "Bekenntniskirche"
+    ]
+  },
+  "summary": "The Confessing Church (Bekennende Kirche) was the movement of German Protestants who, during the 1930s, resisted the Nazi-backed 'German Christian' (Deutsche Christen) movement and the attempt to bring the Protestant churches into line (Gleichschaltung) with National Socialism. Formed around the Pastors' Emergency League of Martin Niemoeller and constituted as a confessing body at the Synod of Barmen (1934), it confessed, in the Barmen Declaration drafted principally by Karl Barth, that the church owes allegiance to Jesus Christ alone and not to the state or any other lord.",
+  "description": "The Confessing Church (Bekennende Kirche) was the movement within German Protestantism that arose to resist the alignment of the church with National Socialism during the Kirchenkampf, the German 'church struggle' of the 1930s. After Adolf Hitler came to power in 1933, the pro-Nazi 'German Christian' (Deutsche Christen) movement sought to reorganize the German Evangelical Church along Nazi lines, including the introduction of the so-called Aryan Paragraph, which would have excluded Christians of Jewish descent from church office. In response the Reformed and Lutheran pastors and laity who rejected this program formed, from late 1933, the Pastors' Emergency League (Pfarrernotbund) led by the Berlin pastor Martin Niemoeller, out of which the wider Confessing Church grew.\n\nThe movement was constituted as a confessing body at the first Confessing Synod of the German Evangelical Church, held at Barmen (Wuppertal-Barmen) from 29 to 31 May 1934. There it adopted the Theological Declaration of Barmen, drafted principally by the Reformed theologian Karl Barth, which became its founding confessional statement. Barmen's first thesis, prefaced with John 14:6 and John 10, confesses that 'Jesus Christ, as he is attested to us in Holy Scripture, is the one Word of God whom we have to hear, and whom we have to trust and obey in life and in death,' and rejects 'the false doctrine that the Church could and should recognize as a source of its proclamation, beyond and besides this one Word of God, yet other events, powers, historic figures and truths as God's revelation.' On this confession the Confessing Church held that the church owes its allegiance to Jesus Christ alone and not to the state, to the Fuehrer, or to the ideology of the age.\n\nThe Confessing Church understood itself not as a new denomination but as the true continuation of the German Evangelical Church over against what it regarded as the illegitimate, Nazified official church leadership under the Reich Bishop Ludwig Mueller; it established its own church governing bodies (councils of brethren, Bruderraete) and its own examination and ordination structures, including underground seminaries such as the one Dietrich Bonhoeffer directed at Finkenwalde. It was never a unified political resistance and its members differed over how far opposition should extend, but the movement drew figures including Niemoeller, Barth, and Bonhoeffer. Its members faced surveillance, suppression, arrest, and, in some cases, imprisonment and death: Niemoeller was held for years in concentration camps, Bonhoeffer was executed at Flossenbuerg in April 1945, and a compromised 'official' church structure continued to operate alongside the Confessing Church throughout the period. This entry records the Confessing Church's opposition to the 'German Christian' movement and to the Nazification of the church as the historical stand it was, attributed to the movement, and does not adjudicate the theological disputes internal to German Protestantism.",
+  "editorial_notes": "This entry describes the Confessing Church on the tradition's own terms (neutrality #1, #4, #6) and attributes its confessional stand to the movement. Its opposition to the pro-Nazi 'German Christian' movement and to the Gleichschaltung (Nazification) of the Protestant churches is stated as attributed historical fact: the anti-Nazi character of the Confessing Church's resistance is uncontroversial historical record, and it is reported, not editorialized. The intra-Protestant theological disputes (Reformed versus Lutheran, and the differences among Confessing Church members over the extent of opposition) are not adjudicated.\n\nHONESTY / status and confidence: this entry is DRAFT. One source is treated as verified-eligible and rated HIGH: the movement's founding confession, the Barmen Declaration (1934), is an OPEN, short confessional text; its first thesis and rejection clause, which carry the load-bearing statement of the movement's core stance (allegiance to Jesus Christ alone and not to the state or the Fuehrer), were read directly for this entry via the United Church of Christ text and the quoted wording follows that reading. Other English translations render the same clauses with minor verbal differences. The two academic-historical sources, Victoria Barnett's For the Soul of the People (Oxford, 1992) and Klaus Scholder's The Churches and the Third Reich, vol. 1 (Fortress, 1988), are verified to exist and be on-topic but not read line-by-line; they are rated MEDIUM. The three Christian lenses (neutrality #8): (a) academic historians of the church struggle (Barnett; Scholder); (b) the primary corpus (the Barmen Declaration 1934, read directly, the movement's own founding confession); (c) the contemporary-theological voice is carried by Barth as principal drafter of Barmen and by the movement's own figures. No encyclopedias, no Wikipedia, no tertiary sources.\n\nDates: the movement's decisive formation is placed 1933 (Pastors' Emergency League) to 1934 (Synod of Barmen); no active_until is asserted, since the label and its legacy persisted beyond 1945.\n\nRelation targets: barmen-declaration, karl-barth, and dietrich-bonhoeffer exist in the dataset and reference this school; protestantism and reformation exist. martin-niemoeller and deutsche-christen are dangling forward references to not-yet-created entities (noted in each edge).",
+  "period": {
+    "founded": 1934,
+    "note": "The movement took decisive shape between 1933 (the founding of the Pastors' Emergency League under Martin Niemoeller in response to the Nazification of the church) and 1934 (the first Confessing Synod at Barmen, 29-31 May 1934, which adopted the Barmen Declaration). No active_until is asserted: the Confessing Church label and its legacy persisted through the Nazi period and beyond 1945. Dates are approximate."
+  },
+  "relations": [
+    {
+      "type": "holds",
+      "target": "barmen-declaration",
+      "note": "The Theological Declaration of Barmen (1934), drafted principally by Karl Barth and adopted at the first Confessing Synod, is the founding confessional statement of the Confessing Church; its Thesis 1 confesses allegiance to Jesus Christ as the one Word of God. barmen-declaration exists in the dataset and references this school."
+    },
+    {
+      "type": "founded_by",
+      "target": "martin-niemoeller",
+      "note": "Martin Niemoeller, the Berlin pastor who led the Pastors' Emergency League (Pfarrernotbund) from late 1933, out of which the wider Confessing Church grew; later imprisoned for years in concentration camps. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "key_figure",
+      "target": "karl-barth",
+      "note": "The Reformed theologian Karl Barth was the principal drafter of the Barmen Declaration and a leading theological voice of the movement; he was removed from his chair at Bonn in 1935 for refusing the unconditional oath of loyalty to Hitler. karl-barth exists in the dataset."
+    },
+    {
+      "type": "key_figure",
+      "target": "dietrich-bonhoeffer",
+      "note": "The Lutheran pastor and theologian Dietrich Bonhoeffer, a leading younger figure of the movement who directed its underground seminary at Finkenwalde and was executed at Flossenbuerg in April 1945. dietrich-bonhoeffer exists in the dataset."
+    },
+    {
+      "type": "opposed",
+      "target": "deutsche-christen",
+      "note": "The Confessing Church formed in opposition to the pro-Nazi 'German Christian' (Deutsche Christen) movement and its program of aligning the church with National Socialist ideology, including the Aryan Paragraph. Stated as the movement's attributed stand and as historical fact. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "related_to",
+      "target": "protestantism",
+      "note": "A movement within German Protestantism (the German Evangelical Church), drawing Reformed, Lutheran, and United pastors and laity. protestantism exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "reformation",
+      "note": "The movement appealed to the confessional heritage of the Reformation and understood the Barmen Declaration as a fresh act of Protestant confession in the tradition of the Reformation confessions. reformation exists in the dataset."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Theological Declaration of Barmen, 1934. English translation, Thesis 1, confessing 'Jesus Christ, as he is attested to us in Holy Scripture, is the one Word of God whom we have to hear, and whom we have to trust and obey in life and in death' (prefaced by John 14:6 and John 10:1,9) and its rejection clause ('We reject the false doctrine that the Church could and should recognize as a source of its proclamation, beyond and besides this one Word of God, yet other events, powers, historic figures and truths as God's revelation'). Read directly for this entry; the founding confession of the Confessing Church and the load-bearing source for its core stance that the church owes allegiance to Jesus Christ alone and not to the state or the Fuehrer.",
+      "url": "https://www.ucc.org/beliefs_barmen-declaration/",
+      "license": "Confessional text of 1934; the quoted passages are short and attributed. Open and publicly available.",
+      "accessed": "2026-07-24",
+      "confidence": "high"
+    },
+    {
+      "citation": "Barnett, Victoria. For the Soul of the People: Protestant Protest Against Hitler. New York: Oxford University Press, 1992. The standard English-language academic study of the Confessing Church, combining archival research with oral histories of more than sixty of its participants; cited as the principal academic-historical lens on the movement's formation, membership, and resistance. Verified to exist and be on-topic (Oxford University Press; review in Church History), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/for-the-soul-of-the-people-9780195121186",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholder, Klaus. The Churches and the Third Reich. Volume One: Preliminary History and the Time of Illusions, 1918-1934. Translated by John Bowden. Philadelphia: Fortress Press, 1988 (German original 1977). The standard scholarly history of the German church struggle to 1934 by the Tuebingen professor of modern church history, covering the rise of the 'German Christian' movement, the Gleichschaltung of the church, and the road to Barmen; cited as a second academic-historical lens. Verified to exist and be on-topic (Fortress Press; review in Journal of Church and State), not read line-by-line.",
+      "url": "https://archive.org/details/churchesthirdrei0001scho",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-24",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-24",
+  "updated": "2026-07-24"
+}
