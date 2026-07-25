@@ -6,6 +6,32 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.18.0] - 2026-07-26
+
+A second dangling-close batch: twelve more high-value forward references filled across all three
+traditions and the Christian East. Seven enter `verified` on open primary reads, five honestly
+`reviewed`.
+
+### Added
+- **Christianity**: the `filioque` clause, the `great-schism` of 1054 (Event), `barlaam-of-calabria`
+  (the anti-Palamite, known chiefly through his opponents and attributed as such), `the-jesus-prayer`,
+  and the `confessing-church` (the anti-Nazi church struggle, Barmen Thesis 1 read at ucc.org).
+- **Judaism**: `rabbi-akiva`, the `aggadah` genre, `shneur-zalman` (the Alter Rebbe, founder of
+  Chabad), the `safed` school of sixteenth-century kabbalah, the hagiographic `shivchei-ha-besht`
+  (Work), and the `volozhin-yeshiva`.
+- **Islam**: `al-kindi` (the "Philosopher of the Arabs"; his harmony-of-philosophy-and-revelation
+  thesis given as his attributed falsafa position, not adjudicated against kalam).
+
+### Changed
+- Verified (7): `the-jesus-prayer` (*The Way of a Pilgrim* read at CCEL), `confessing-church` (Barmen
+  Thesis 1 verbatim), `rabbi-akiva` (four Sefaria primaries read), `aggadah` (Sifrei Devarim and Bava
+  Metzia read), `shneur-zalman` (Tanya I.1-3 read), `safed` (Lekha Dodi and Shulchan Arukh read), and
+  `shivchei-ha-besht` (the Hebrew primary read). The verified tier is now 95.
+- Reviewed (5), honestly: `filioque` and `great-schism` (the 1054 acts and a Greek primary not read
+  critically), `barlaam-of-calabria` (his own works proprietary; the picture rests on his Palamite
+  opponents), `al-kindi` (proprietary translations), and `volozhin-yeshiva` (its institutional history
+  rests on Stampfer, a secondary not read line-by-line, even though the Nefesh ha-Chayim ideal was read).
+
 ## [0.17.0] - 2026-07-24
 
 Closing twelve of the highest-value dangling forward references across all three traditions. Eight
