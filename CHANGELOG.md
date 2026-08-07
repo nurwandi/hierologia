@@ -6,6 +6,32 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.19.0] - 2026-07-26
+
+Deepening Christian and Jewish coverage: twelve new entities filling central dangling targets across
+the sacramental, conciliar, halakhic, kabbalistic, and Hasidic layers. Five enter `verified` on open
+primary reads, seven honestly `reviewed`. The verified tier reaches 100.
+
+### Added
+- **Christianity**: the sacraments `eucharist` and `real-presence`; `papal-primacy` (the Petrine-office
+  doctrine, a hinge of the East-West and Reformation disputes); the two Second Vatican Council
+  constitutions `lumen-gentium` (on the Church) and `dei-verbum` (on divine revelation); and
+  `montanus` (the second-century New Prophecy, known only through hostile sources).
+- **Judaism**: `joseph-karo` (codifier of the Shulchan Aruch and mystic of the Maggid Meisharim);
+  `cordovero` (the Ramak, systematizer of pre-Lurianic kabbalah); the Chabad foundational text `tanya`
+  and the `chabad` school; and two disciples of the Maggid of Mezeritch, `levi-yitzchak-of-berdichev`
+  and `elimelech-of-lizhensk` (the doctrine of the tzaddik).
+
+### Changed
+- Verified (5): `lumen-gentium` and `dei-verbum` (phrases confirmed verbatim at vatican.va),
+  `joseph-karo` (Shulchan Arukh OC 1:1 and the Maggid Meisharim read at Sefaria), `cordovero`
+  (Tomer Devorah ch. 1), and `tanya` (Tanya I.1-3). The verified tier is now 100.
+- Reviewed (7), honestly: `eucharist` and `real-presence` (a Lutheran primary and an academic
+  monograph not yet read at load-bearing depth), `papal-primacy` (held for balance), `montanus`
+  (no primary in his own voice survives), `chabad` (dynastic history rests on secondary sources),
+  and `levi-yitzchak-of-berdichev` and `elimelech-of-lizhensk` (their distinctive claims rest on
+  secondary scholarship, while the read primary carries only the shared theology).
+
 ## [0.18.0] - 2026-07-26
 
 A second dangling-close batch: twelve more high-value forward references filled across all three
