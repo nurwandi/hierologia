@@ -1,0 +1,108 @@
+{
+  "id": "joseph-karo",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Joseph Karo",
+    "original": "יוֹסֵף קָארוֹ",
+    "transliteration": "Yosef Qaro",
+    "aliases": [
+      "Yosef Karo",
+      "Joseph Caro",
+      "Rabbi Yosef Karo",
+      "ha-Mechaber ('the Author', as author of the Shulchan Aruch)",
+      "Maran ('our master', an honorific used especially among Sephardic and Mizrahi communities)",
+      "author of the Beit Yosef and the Shulchan Aruch"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "halakhist (posek) and codifier of Jewish law",
+    "talmudist",
+    "kabbalist and mystic",
+    "author"
+  ],
+  "summary": "Joseph Karo (1488-1575) was the preeminent halakhic codifier of the early modern period, active in Ottoman Safed, author of the Beit Yosef, a vast commentary on Jacob ben Asher's Tur, and of the Shulchan Aruch ('The Set Table', first printed Venice 1565), which with the Ashkenazi glosses of Moses Isserles (the Mappah) came to be regarded across much of the Jewish world as the authoritative code of Jewish law. He was also a kabbalist whose mystical diary, the Maggid Meisharim, records what it presents as revelations from a maggid, a heavenly mentor identified in the diary with the personified Mishnah.",
+  "description": "Joseph Karo, born in 1488 into the generation of the Iberian expulsions (his family left the Iberian Peninsula in his childhood, in the wake of the 1492 expulsion of the Jews from Spain), lived in the Ottoman lands and settled in Safed (Tzfat) in the Galilee, then a gathering point for Sephardic exiles and a centre of kabbalistic activity. He is recorded in the tradition as the leading halakhic authority of his age and as a member of the mystical circle of Safed. He died in Safed in 1575.\n\nKaro's principal legal works are two linked projects. The first is the Beit Yosef ('House of Joseph'), a vast commentary built on the Arba'ah Turim (the 'Tur') of Jacob ben Asher, in which Karo traces each law back through the Talmud and the later authorities and argues his rulings; the tradition treats it as one of the great works of halakhic analysis. Out of it he distilled the Shulchan Aruch ('The Set Table'), a concise digest of practical law arranged in four parts following the structure of the Tur (Orach Chayim, Yoreh De'ah, Even ha-Ezer, Choshen Mishpat), first printed in Venice in 1565. Its opening ruling, at Orach Chayim 1:1, reads: 'One should strengthen himself like a lion to get up in the morning to serve his creator.' Karo's method in resolving disputed law is generally described as following the majority among three earlier authorities, Isaac Alfasi (the Rif), Maimonides (the Rambam), and Asher ben Jehiel (the Rosh). Because this method reflected largely Sephardic precedent, the Ashkenazi authority Moses Isserles of Krakow (the Rema) added glosses recording Ashkenazi custom and ruling where it diverged, a layer he called the Mappah ('the Tablecloth') spread over Karo's 'Set Table'; the two together, printed on the same page, came to be regarded within the tradition as the authoritative code of Jewish law across both Sephardic and Ashkenazi communities. This entry states that standing as the tradition's own regard for the work, not as a ruling of the editor. The first printing already interwove a further voice, since the very opening gloss at Orach Chayim 1:1 is Isserles' Hagah, which cites 'I have set the Lord always before me' (Psalm 16:8) as 'a great principle in the Torah', drawing on Maimonides' Guide for the Perplexed III:52.\n\nAlongside the codifier stands the mystic. Karo kept a mystical diary, published as the Maggid Meisharim ('Preacher of Righteousness'), which records over decades what the diary presents as nocturnal visitations and speeches of a maggid, a heavenly mentor or 'preacher' that the text identifies with the personified Mishnah and with the Shekhinah, addressing Karo, admonishing him in matters of ascetic practice and study, and promising him spiritual attainments. The diary is written largely as the speech of the maggid to Karo in the first person. This entry presents these revelations as what the diary reports and as what the tradition transmits under Karo's name, not as events the editor affirms or denies. The standard modern study, R. J. Zwi Werblowsky's Joseph Karo: Lawyer and Mystic, takes as its explicit problem the union in one person of the sober legal codifier and the visionary diarist, and argues that in the setting of sixteenth-century Safed the two roles were not felt as a contradiction; contemporary scholarship (Roni Weinstein) situates Karo's codification project within the early modern Ottoman and wider Eurasian legal world and reads his law and his mysticism as parts of a single enterprise.\n\nKaro belonged to the Safed circle, the concentration of kabbalists and halakhists in the Galilean town in the sixteenth century that included Solomon Alkabetz and Moses Cordovero and, in the following generation, Isaac Luria. His code was later reworked from within Hasidism by Shneur Zalman of Liady, whose Shulchan Aruch ha-Rav recast Karo's rulings with their reasons. This entry records Karo on the tradition's own terms as author of the Beit Yosef and the Shulchan Aruch and as the diarist of the Maggid Meisharim, with the work's authoritative standing and the diary's revelations attributed to the tradition and to Karo's own text rather than asserted by the editor.",
+  "editorial_notes": "This entry presents Joseph Karo (1488-1575) on Judaism's own terms as the halakhic codifier of the Beit Yosef and the Shulchan Aruch and as the mystic-diarist of the Maggid Meisharim, covering BOTH the halakhic and the mystical sides as the prompt requires. NEUTRALITY (neutrality #1, #4): the authoritative standing of the Shulchan Aruch is stated as the tradition's own regard for the work ('came to be regarded within the tradition as the authoritative code', 'the tradition's own regard for the work, not as a ruling of the editor'), NOT ruled 'binding' in the editor's voice; the maggid revelations are presented as 'what the diary reports' and 'what the tradition transmits', explicitly 'not as events the editor affirms or denies'. No adjudication of which authority (Rif/Rambam/Rosh) is correct, only Karo's attributed method. SOURCING triangulates per neutrality #8-#9: (b) PRIMARY, open and auditable on Sefaria, READ LINE-BY-LINE: the Shulchan Arukh, Orach Chayim 1:1, whose text ('One should strengthen himself like a lion to get up in the morning to serve his creator') and whose embedded Isserles Hagah (Shiviti / Psalm 16:8 as 'a great principle in the Torah', citing Guide III:52) were confirmed verbatim via the Sefaria text API on 2026-07-26; and the Maggid Meisharim, opening (Parashat Bereshit, hakdamah), whose Hebrew was READ line-by-line and confirms the maggid addressing Karo, 'rak ki tidbak bi u-ve-yirati u-mi-mishnati lo tafrid machshavtecha' ('only cleave to Me and to My fear, and do not separate your thought from My Mishnah'), the maggid identified with the personified Mishnah, HOWEVER Sefaria carries NO English translation of the Maggid Meisharim, so only the Hebrew was read and it is rated high for the Hebrew actually read, not for any translation. (a) academic: R. J. Zwi Werblowsky, Joseph Karo: Lawyer and Mystic (Oxford University Press, 1962), the standard monograph, verified to exist and be on-topic, not read line-by-line, medium. (c) contemporary Jewish scholar on-topic: Roni Weinstein, Joseph Karo and Shaping of Modern Jewish Law (Anthem Press, 2022), verified to exist and be on-topic, medium. NO encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: Sefaria primaries read line-by-line are rated high (Shulchan Arukh OC 1:1 in both Hebrew and English; Maggid Meisharim in Hebrew only); proprietary monographs are medium and were verified to exist, not read cover to cover. RELATION TARGETS: safed and shneur-zalman exist (verified in data/); the following are DANGLING forward references to not-yet-created entities and are flagged as such: isserles (the Rema, author of the Mappah), mappah, shulchan-aruch (the work), alkabetz, cordovero (created in this same batch). isaac-luria exists.",
+  "lifespan": {
+    "birth": 1488,
+    "death": 1575,
+    "note": "1488-1575 CE. Born into the generation of the Iberian expulsions (his family left the Iberian Peninsula in his childhood, following the 1492 expulsion from Spain); lived in the Ottoman lands and settled in Safed (Tzfat) in the Galilee, a centre of Sephardic exile and kabbalistic activity, where he served as a leading halakhic authority. Died in Safed in 1575."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "safed",
+      "note": "Karo was a leading member of the sixteenth-century kabbalist and halakhist circle of Safed (Tzfat), which included Solomon Alkabetz and Moses Cordovero and, in the next generation, Isaac Luria. The safed entry exists (data/schools/judaism/safed.json) and references Karo."
+    },
+    {
+      "type": "articulated",
+      "target": "shulchan-aruch",
+      "note": "Karo is the author (ha-Mechaber) of the Shulchan Aruch ('The Set Table', first printed Venice 1565), the concise digest of practical law distilled from his Beit Yosef; its opening ruling (Orach Chayim 1:1) was read line-by-line on open Sefaria. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "related_to",
+      "target": "isserles",
+      "note": "Moses Isserles of Krakow (the Rema) added the Ashkenazi glosses known as the Mappah ('the Tablecloth') to Karo's Shulchan Aruch, recording Ashkenazi custom where it diverged from Karo's largely Sephardic rulings; the two printed together came to be regarded in the tradition as the authoritative code across both communities. The figure relation enum has no 'opposed' type; related_to with this note records the complementary-and-divergent relationship. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "related_to",
+      "target": "mappah",
+      "note": "The Mappah is Isserles' layer of Ashkenazi glosses spread over Karo's Shulchan Aruch ('the Tablecloth' over 'the Set Table'); the very opening gloss at Orach Chayim 1:1 (the Hagah citing Psalm 16:8 and the Guide III:52) was read verbatim on Sefaria within the Shulchan Arukh text. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "related_to",
+      "target": "cordovero",
+      "note": "Moses Cordovero (the Ramak) was a fellow member of the Safed circle in Karo's generation, the great systematizer of pre-Lurianic kabbalah there. Forward reference to the cordovero figure entity created in this same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "alkabetz",
+      "note": "Solomon Alkabetz, author of Lekhah Dodi, was a fellow member of the Safed circle and Cordovero's brother-in-law; he and Karo belonged to the same mystical fellowship. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "related_to",
+      "target": "isaac-luria",
+      "note": "Isaac Luria (the Arizal), of the following generation at Safed, is recorded in the tradition as having been present at Karo's circle; the two are linked as members of the Safed kabbalistic milieu (Luria arriving toward the end of Karo's life). The isaac-luria entry exists (data/figures/judaism/isaac-luria.json). This edge marks their shared Safed setting, not a doctrinal dependence of Karo on the younger Luria; related_to is used rather than influenced_by for that reason."
+    },
+    {
+      "type": "related_to",
+      "target": "shneur-zalman",
+      "note": "Shneur Zalman of Liady reworked Karo's code as the Shulchan Aruch ha-Rav, recasting the rulings with their reasons and later authorities; the shneur-zalman entry exists and records the reciprocal related_to edge to joseph-karo. The shneur-zalman entry exists (data/figures/judaism/shneur-zalman.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Joseph Karo. Shulchan Arukh, Orach Chayim 1:1 ('din hashkamat ha-boker'), first printed Venice 1565. Open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text carrying the opening of Karo's code, read line-by-line and confirmed verbatim: 'One should strengthen himself like a lion to get up in the morning to serve his creator. He should get up early enough to welcome in the dawn.' The passage as printed already embeds the Ashkenazi gloss of Moses Isserles (the Hagah, marked 'Hagah'), read verbatim, which cites 'I have set the Lord always before me' (Psalm 16:8) as 'a great principle in the Torah and among the virtues of the righteous', invoking Maimonides' Guide for the Perplexed III:52. Read line-by-line via the Sefaria text API (2026-07-26).",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.1.1",
+      "license": "Sefaria; English translation Sefaria Community Translation (CC0) and Hebrew public domain, both openly auditable on Sefaria; Orach Chayim 1:1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Joseph Karo. Maggid Meisharim ('Preacher of Righteousness'), opening (Parashat Bereshit, the introductory 'hakdamah azharot ve-seyagim'). Open Hebrew text on Sefaria (Kabbalah, Other Kabbalah Works). Cited as Karo's own mystical diary recording what it presents as the speeches of a maggid, a heavenly mentor identified with the personified Mishnah, addressing Karo. Read line-by-line in Hebrew and confirmed verbatim: the maggid enjoins Karo 'rak ki tidbak bi u-ve-yirati u-mi-mishnati lo tafrid machshavtecha va-afilu rega echad' ('only cleave to Me and to My fear, and do not separate your thought from My Mishnah, even for a single moment'), presenting the revelations as the diary reports them. NOTE / HONESTY: Sefaria carries NO English translation of the Maggid Meisharim; only the Hebrew was read, so this citation is rated high for the Hebrew text actually read and not for any translation.",
+      "url": "https://www.sefaria.org/Maggid_Meisharim.1",
+      "license": "Sefaria; Hebrew public domain, openly auditable; Parashat Bereshit opening read line-by-line in Hebrew via the Sefaria text API (2026-07-26). No English translation available on Sefaria.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Werblowsky, R. J. Zwi. Joseph Karo: Lawyer and Mystic. Scripta Judaica IV. Oxford: Oxford University Press, 1962 (reissued Philadelphia: Jewish Publication Society, 1977). The standard academic monograph on Karo, taking as its explicit problem the union in one person of the halakhic codifier of the Beit Yosef and Shulchan Aruch and the visionary diarist of the Maggid Meisharim, and reading the two in the setting of sixteenth-century Safed. Cited as the academic-historian lens on Karo the lawyer and mystic. Verified to exist and be on-topic (WorldCat/Google Books records; the author was professor of comparative religion at the Hebrew University of Jerusalem), not read line-by-line.",
+      "url": "https://books.google.com/books/about/Joseph_Karo.html?id=T5URAQAAIAAJ",
+      "license": "Proprietary; cited for reference (catalogue/Google Books record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Weinstein, Roni. Joseph Karo and Shaping of Modern Jewish Law: The Early Modern Ottoman and Global Settings. Anthem Intercultural Transfer Studies. London and New York: Anthem Press, 2022. A contemporary study situating Karo's codification project (the Beit Yosef and Shulchan Aruch) within the early modern Ottoman and wider Eurasian legal world, reading his law and his mysticism together. Cited as the contemporary-Jewish-scholar lens on Karo, on-topic for both the halakhic and the mystical sides. Verified to exist and be on-topic (Anthem Press record; review in Annales, Cambridge Core; the author is a historian of early modern Judaism at the Hebrew University of Jerusalem), not read line-by-line.",
+      "url": "https://anthempress.com/business-management-and-law/joseph-karo-and-shaping-of-modern-jewish-law-pb",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

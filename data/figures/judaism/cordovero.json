@@ -1,0 +1,96 @@
+{
+  "id": "cordovero",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Moses ben Jacob Cordovero",
+    "original": "מֹשֶׁה בֶּן יַעֲקֹב קוֹרְדּוֹבֵירוֹ",
+    "transliteration": "Moshe ben Ya'akov Qordovero",
+    "aliases": [
+      "the Ramak (an acronym of Rabbi Moshe Cordovero)",
+      "Moses Cordovero",
+      "Moshe Cordovero",
+      "author of the Pardes Rimonim and the Tomer Devorah"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "kabbalist and systematizer of kabbalah",
+    "talmudist and halakhist",
+    "teacher",
+    "author"
+  ],
+  "summary": "Moses ben Jacob Cordovero (1522-1570), known by the acronym the Ramak, was the leading systematizer of kabbalah in sixteenth-century Safed in the generation before Isaac Luria. His Pardes Rimonim ('Orchard of Pomegranates') is a systematic summa of pre-Lurianic kabbalah, and his Tomer Devorah ('The Palm Tree of Deborah') is an ethical-mystical work on imitatio Dei through the sefirot, in particular on emulating the thirteen attributes of divine mercy. He was the brother-in-law of Solomon Alkabetz and a teacher whose synthesis Luria's later system partly superseded.",
+  "description": "Moses ben Jacob Cordovero, known by the acronym the Ramak (Rabbi Moshe Cordovero), lived in Safed (Tzfat) in the Galilee, the sixteenth-century centre of kabbalistic activity gathered around figures such as Joseph Karo and Solomon Alkabetz. He is recorded in the tradition as the great systematizer of kabbalah in the generation before Isaac Luria (the Arizal). He was a student and brother-in-law of Solomon Alkabetz, and himself the teacher of many of the Safed kabbalists, including, in the accounts, the young Luria. He died in Safed in 1570.\n\nCordovero's major theoretical work is the Pardes Rimonim ('Orchard of Pomegranates'), which the tradition and modern scholarship alike treat as the first comprehensive and orderly synthesis of the kabbalah that had developed since the Zohar, a systematic summa organized by topic (the gates, or she'arim) that gathers, harmonizes, and analyzes the doctrines of the sefirot, the divine names, and the structure of the emanated worlds. It became a standard reference for the study of theoretical kabbalah. His work of ethical-mystical instruction is the Tomer Devorah ('The Palm Tree of Deborah', a short treatise later printed at Venice in 1588), which sets out a programme of imitatio Dei: the human being is to resemble the Creator by emulating the divine qualities as they are configured in the sefirot. Its first chapter opens, in the open text on Sefaria, 'It is fitting for a person to resemble his Creator, and then he will be in the secret of the Highest Form, in image and likeness', and expounds the thirteen supernal attributes of mercy (read by the tradition out of Micah 7:18-20, rendered in the Sefaria text as 'Who is a power like You, who bears iniquity and passes over transgression') as thirteen traits a person is to practise toward others: tolerance of insult, bearing the wrongs of one's fellow, pardon, and the rest, so that (in the chapter's closing words) 'just as a person acts below, so too will he merit to open for himself the highest trait above'. This entry reports this teaching as Cordovero's own, set out in his text, and attributes it to him rather than affirming its metaphysics.\n\nCordovero's systematization is generally described in scholarship as the high point of the theosophical kabbalah that preceded Isaac Luria. Luria arrived in Safed near the end of Cordovero's life and, in the accounts, was briefly among those associated with him; the new and highly influential system Luria then taught, with its distinctive doctrines of the contraction (tzimtzum), the shattering of the vessels (shevirat ha-kelim), and cosmic repair (tikkun), reframed and in large measure superseded Cordovero's synthesis in the later reception of kabbalah, though Cordoveran and Lurianic ideas continued to be studied together (later kabbalists and Hasidic authors, Shneur Zalman of Liady among them, cite both Cordovero's Pardes and 'the Kabbalah of the Arizal' side by side). This entry states the relation between the two systems as the tradition and scholarship describe it, without ranking their truth.\n\nCordovero belonged to the Safed circle, the concentration of kabbalists and halakhists in the Galilean town, and this entry records him on the tradition's own terms as the systematizer of the Pardes Rimonim and the author of the Tomer Devorah, with his teaching attributed to him and his place before Luria stated as the tradition and scholarship report it.",
+  "editorial_notes": "This entry presents Moses ben Jacob Cordovero (the Ramak, 1522-1570) on Judaism's own terms as the great systematizer of pre-Lurianic kabbalah in Safed, author of the Pardes Rimonim (the systematic summa) and the Tomer Devorah (imitatio Dei through the sefirot, the thirteen attributes of mercy). NEUTRALITY (neutrality #1, #4): the metaphysics of the sefirot and the imitatio Dei programme are stated as Cordovero's own teaching set out in his text ('reports this teaching as Cordovero's own', 'attributes it to him rather than affirming its metaphysics'); the relation to Luria's later system is stated 'as the tradition and scholarship describe it, without ranking their truth', with Luria's system said to have 'partly superseded' Cordovero's synthesis in the RECEPTION, not adjudicated as superior. SOURCING triangulates per neutrality #8-#9: (b) PRIMARY, open and auditable on Sefaria, READ LINE-BY-LINE: the Tomer Devorah, Chapter 1, read in English (Sefaria's translation) line-by-line and confirmed verbatim, including the opening ('It is fitting for a person to resemble his Creator...') and the exposition of all thirteen attributes of mercy out of Micah 7:18-20 down to the closing ('just as a person acts below, so too will he merit to open for himself the highest trait above'); confirmed via the Sefaria text API on 2026-07-26. (a) academic: Bracha Sack, Be-Sha'arei ha-Kabbalah shel Rabbi Moshe Cordovero ('The Kabbalah of Rabbi Moses Cordovero'; Be'er Sheva: Ben-Gurion University of the Negev Press, 1995), the standard scholarly study of Cordovero's kabbalah, verified to exist and be on-topic, medium; supplemented by Lawrence Fine, Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship (Stanford University Press, 2003) for the Safed context and Cordovero's place before Luria, medium. (c) contemporary Jewish scholar on-topic: Ira Robinson, Moses Cordovero's Introduction to Kabbalah: An Annotated Translation of His Or Ne'erav (Hoboken: Yeshiva University Press / Michael Scharf Publication Trust, 1994), a contemporary critical translation and study of Cordovero, medium. NO encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Tomer Devorah ch. 1 on open Sefaria is rated high, read line-by-line in English; the proprietary monographs are medium and were verified to exist and be on-topic, not read cover to cover. RELATION TARGETS: safed exists (data/schools/judaism/safed.json) and isaac-luria exists (data/figures/judaism/isaac-luria.json), so his systematization preceding Lurianic kabbalah is recorded against an existing target; alkabetz (Solomon Alkabetz, his brother-in-law) and pardes-rimonim / tomer-devorah (the works) are DANGLING forward references to not-yet-created entities and are flagged as such. joseph-karo is created in this same batch.",
+  "lifespan": {
+    "birth": 1522,
+    "death": 1570,
+    "note": "1522-1570 CE. Lived in Safed (Tzfat) in the Galilee, the sixteenth-century centre of kabbalah; a student and brother-in-law of Solomon Alkabetz, and the teacher of many of the Safed kabbalists. Isaac Luria arrived at Safed near the end of Cordovero's life. Cordovero died in Safed in 1570."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "safed",
+      "note": "Cordovero was a leading member of the sixteenth-century kabbalist circle of Safed (Tzfat), which included Joseph Karo and Solomon Alkabetz. The safed entry exists (data/schools/judaism/safed.json) and references Cordovero."
+    },
+    {
+      "type": "articulated",
+      "target": "pardes-rimonim",
+      "note": "Cordovero is the author of the Pardes Rimonim ('Orchard of Pomegranates'), the systematic summa of pre-Lurianic kabbalah organized by gates (she'arim), gathering and harmonizing the doctrines of the sefirot and the divine names. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "articulated",
+      "target": "tomer-devorah",
+      "note": "Cordovero is the author of the Tomer Devorah ('The Palm Tree of Deborah'), the ethical-mystical treatise on imitatio Dei through the sefirot and the thirteen attributes of mercy (Micah 7:18-20); its first chapter was read line-by-line on open Sefaria. Dangling forward reference to a not-yet-created work entity."
+    },
+    {
+      "type": "related_to",
+      "target": "alkabetz",
+      "note": "Solomon Alkabetz, author of Lekhah Dodi, was Cordovero's teacher and brother-in-law and a fellow member of the Safed circle. The figure relation enum has no dedicated in-law/kin type; related_to with this note records the family and teacher relationship. Dangling forward reference to a not-yet-created figure entity."
+    },
+    {
+      "type": "related_to",
+      "target": "isaac-luria",
+      "note": "Cordovero's systematization of kabbalah preceded, and in the later reception was partly superseded by, the system of Isaac Luria (the Arizal), who arrived in Safed near the end of Cordovero's life; Cordoveran and Lurianic ideas continued to be studied together. The isaac-luria entry exists (data/figures/judaism/isaac-luria.json). Relation stated as the tradition and scholarship describe it, without ranking the two systems."
+    },
+    {
+      "type": "related_to",
+      "target": "joseph-karo",
+      "note": "Joseph Karo, author of the Beit Yosef and the Shulchan Aruch, was a fellow member of the Safed circle in Cordovero's town and generation. Forward reference to the joseph-karo figure entity created in this same batch."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Moses Cordovero. Tomer Devorah ('The Palm Tree of Deborah'), Chapter 1 ('That it is fitting for a person to resemble his Creator'), first printed Venice 1588. Open Hebrew and English text on Sefaria (Kabbalah). Cited as the openly-auditable primary text carrying Cordovero's programme of imitatio Dei through the sefirot, read line-by-line and confirmed verbatim: the chapter opens 'It is fitting for a person to resemble his Creator, and then he will be in the secret of the Highest Form, in image and likeness', and expounds the thirteen supernal attributes of mercy read out of Micah 7:18-20 ('Who is a power like You... who bears iniquity... and passes over transgression') as thirteen traits a person is to practise (tolerance of insult, bearing a fellow's wrongs, pardon, and the rest), closing 'just as a person acts below, so too will he merit to open for himself the highest trait above'. Read line-by-line via the Sefaria text API (2026-07-26).",
+      "url": "https://www.sefaria.org/Tomer_Devorah.1",
+      "license": "Sefaria; English translation Sefaria Community Translation (CC0) and Hebrew public domain, both openly auditable on Sefaria; Chapter 1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Sack, Bracha. Be-Sha'arei ha-Kabbalah shel Rabbi Moshe Cordovero ('In the Gates of the Kabbalah of Rabbi Moses Cordovero'). Be'er Sheva: Ben-Gurion University of the Negev Press, 1995. The standard scholarly monograph on Cordovero's kabbalah, analyzing the doctrine of the sefirot and the divine emanation as systematized in the Pardes Rimonim and Cordovero's other works. Cited as the academic lens on Cordovero specifically. Verified to exist and be on-topic (the author is a scholar of Cordovero at Ben-Gurion University of the Negev), not read line-by-line.",
+      "url": "https://bgu.academia.edu/BrachaSack",
+      "license": "Proprietary; cited for reference (author's academic profile / library records).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003. A scholarly study of Lurianic kabbalah and its Safed setting, treating pre-Lurianic Safed and Cordovero's place as the systematizer whose synthesis Luria's system followed and reframed. Cited for the Safed context and Cordovero's position before Luria. Verified to exist and be on-topic (Stanford University Press record; reviewed in AJS Review, Cambridge Core), not read line-by-line.",
+      "url": "https://www.sup.org/books/jewish-studies/physician-soul-healer-cosmos",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Robinson, Ira (trans. and ed.). Moses Cordovero's Introduction to Kabbalah: An Annotated Translation of His Or Ne'erav. Sources and Studies in Kabbalah, Hasidism, and Jewish Thought III. Hoboken: Michael Scharf Publication Trust of the Yeshiva University Press, 1994. A contemporary critical translation and study of Cordovero's Or Ne'erav, his justification of and guide to the study of kabbalah, with introduction and annotation. Cited as the contemporary-Jewish-scholar lens presenting Cordovero in his own words. Verified to exist and be on-topic (Yeshiva University Press record; reviewed by Pinchas Giller, Studies in Religion, 1996), not read line-by-line.",
+      "url": "https://books.google.com/books/about/Moses_Cordovero_s_Introduction_to_Kabbal.html?id=MQcnE9YaxecC",
+      "license": "Proprietary; cited for reference (catalogue/Google Books record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

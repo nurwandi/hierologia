@@ -1,0 +1,102 @@
+{
+  "id": "papal-primacy",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Papal Primacy",
+    "original": "primatus Romani Pontificis",
+    "transliteration": "primatus Romani Pontificis",
+    "aliases": [
+      "the primacy of the bishop of Rome",
+      "the Petrine primacy",
+      "primacy of the Roman Pontiff",
+      "the primacy of the pope",
+      "primacy of Peter's successor"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "Papal primacy is the doctrine of the special standing of the bishop of Rome within the church as the successor of the Apostle Peter. In the Roman Catholic Church's teaching, defined at the First Vatican Council (Pastor Aeternus, 1870), this primacy is one of full and supreme jurisdiction over the whole church, together with the infallibility of the pope when he defines a doctrine of faith or morals ex cathedra; the Eastern Orthodox churches, by contrast, accord the bishop of Rome a primacy of honour as first among equals but reject his universal jurisdiction, and the Protestant Reformers rejected the doctrine as such. This entry states each tradition's position as its own and does not adjudicate them.",
+  "description": "Papal primacy concerns the standing of the bishop of Rome (the pope) among the bishops and churches of Christianity. The Roman Catholic Church teaches that Christ conferred a unique office on the Apostle Peter and that the bishops of Rome, as Peter's successors in his see, inherit that office. As the ground of this teaching the Catholic tradition reads three New Testament texts, attributed here as the Catholic reading. In Matthew 16:18-19, after Peter confesses Jesus as the Christ, Jesus says, 'you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.' In Luke 22:32 Jesus tells Peter, 'I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.' In John 21:15-17 the risen Jesus three times commissions Peter, 'Feed my lambs', 'Tend my sheep', 'Feed my sheep'. The Catholic reading takes these together as the institution by Christ of a Petrine office of unifying and governing the whole church, passed to the bishop of Rome. The interpretation of Matthew 16, in particular the referent of 'this rock', is itself contested among the traditions and is not adjudicated in this entry.\n\nHistorically the Roman see came to be counted among the great apostolic sees, and its bishops advanced claims to a special authority; Leo I (pope 440-461) articulated a strong doctrine of the Roman bishop as heir to Peter's commission. On the account of the historian Klaus Schatz, the primacy underwent a long development rather than existing in its later form from the beginning, and the scope of Roman authority was understood differently in different periods and places. The claim of the bishop of Rome to a jurisdiction over the other churches was one of the questions at issue in the estrangement of the Latin West and the Greek East (see great-schism) and again at the Council of Florence (see council-of-florence), where a short-lived union addressed the papal role.\n\nThe traditions differ, and their positions are stated here each on its own terms and not ranked. The Roman Catholic position was defined at the First Vatican Council in the dogmatic constitution Pastor Aeternus (1870): that Christ instituted the apostolic primacy in blessed Peter (chapter 1); that this primacy passes to the Roman pontiff by divine right (chapters 2-3); that the pope holds a power of jurisdiction over the whole church that is 'ordinary', 'immediate', and 'episcopal', to which all the faithful owe obedience (chapter 3); and that when the Roman pontiff speaks ex cathedra, that is, when as pastor and teacher of all Christians he defines by his supreme apostolic authority a doctrine concerning faith or morals to be held by the whole church, he possesses, by the divine assistance promised to him in blessed Peter, that infallibility with which the divine Redeemer willed his church to be endowed, so that such definitions are irreformable of themselves and not by the consent of the church (chapter 4). The Eastern Orthodox churches, by contrast, honour the see of Rome traditionally as first in rank among the ancient patriarchal sees, a primacy of honour (presbeia tes times) or a primacy among equals, while holding that this confers no universal jurisdiction over the other churches and no personal infallibility, and that supreme authority in the church rests with the ecumenical council; the Orthodox reading of Matthew 16 typically refers the 'rock' to Peter's confession of faith rather than to a transmissible office of the Roman bishop. The Protestant Reformers of the sixteenth century rejected the papal primacy as a divinely instituted office altogether. These are recorded as the attributed positions of the respective traditions, and this entry does not rule on the correct reading of Matthew 16 or on which account of the primacy is right.",
+  "editorial_notes": "This concept is a load-bearing hinge: it is referenced by both great-schism (the Catholic-Orthodox estrangement) and council-of-florence (the attempted Catholic-Orthodox union), and it stands behind the Catholic-Protestant division as well. Because it sits at the centre of live inter-church disputes, the entry is written to state each tradition's position AS ITS OWN and to adjudicate none (neutrality #1, #2). Concretely: the Catholic doctrine (Petrine office, universal jurisdiction, papal infallibility) is presented as the teaching of the Roman Catholic Church as defined at Vatican I; the Orthodox primacy-of-honour position and rejection of universal jurisdiction is attributed to the Orthodox churches; the Protestant rejection is attributed to the Reformers. The Petrine proof-texts (Matthew 16:18-19, Luke 22:32, John 21:15-17) are quoted verbatim and their application to the Roman see is flagged throughout as the CATHOLIC READING, not as neutral fact; the contested referent of 'this rock' in Matthew 16 is named as contested and NOT adjudicated (neutrality #1).\n\nSourcing triangulates three lenses per neutrality #8: (a) an academic historian of the papacy (Klaus Schatz, Papal Primacy: From Its Origins to the Present, the standard scholarly account of the historical development), rated medium; (b) the primary corpus read verbatim on open pages, namely the three New Testament proof-texts (biblehub.com) and the conciliar definition itself, Vatican I, Pastor Aeternus (papalencyclicals.net); (c) contemporary theology on the disputed question, represented by the international Catholic-Orthodox dialogue's Ravenna Document on conciliarity and authority, cited as an attributed statement of where the two communions agree and differ, rated medium. No encyclopedias, no tertiary or popular sources.\n\nCONFIDENCE HONESTY: high is reserved for the OPEN primaries read line by line. The three proof-texts were read verbatim in the ESV at biblehub.com and are quoted exactly (Matthew 16:18-19 'you are Peter, and on this rock...the keys of the kingdom...bind...loose'; Luke 22:32 'I have prayed for you that your faith may not fail...strengthen your brothers'; John 21:15-17 'Feed my lambs / Tend my sheep / Feed my sheep'). Pastor Aeternus was read on the open page at papalencyclicals.net (councils/ecum20.htm) and its four chapters were confirmed: the institution of the primacy in Peter (ch. 1), its perpetuity in the Roman pontiffs (ch. 2), the ordinary, immediate, and episcopal power of jurisdiction over the whole church (ch. 3), and the ex cathedra infallibility definition (ch. 4); these are rated high for what was read on the open page. Schatz (proprietary monograph) and the Ravenna Document (verified to exist and be on-topic) are rated medium. Relation targets great-schism, council-of-florence, roman-catholicism, eastern-orthodoxy, protestantism, and filioque all exist in the dataset; peter (Simon Peter) also exists and is the target of the Petrine-office relation.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "great-schism",
+      "note": "The claim of the bishop of Rome to a jurisdiction over the other churches was one of the questions at issue in the estrangement of the Latin West and Greek East. This entry supplies the doctrine referenced by great-schism; the Catholic and Orthodox readings are each attributed to their own tradition and not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-florence",
+      "note": "At the Council of Florence (1439) the attempted union of the Latin and Greek churches addressed the papal role; the primacy of the Roman pontiff is one of the doctrines defined there. Referenced by council-of-florence; the differing readings are attributed, not adjudicated."
+    },
+    {
+      "type": "part_of",
+      "target": "roman-catholicism",
+      "note": "Papal primacy, and in its developed form papal infallibility, is a defining doctrine of the Roman Catholic Church, dogmatically defined at the First Vatican Council in Pastor Aeternus (1870). Presented as the Catholic Church's own teaching."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "eastern-orthodoxy",
+      "note": "The Eastern Orthodox churches accord the see of Rome a primacy of honour (first among equals) but reject universal jurisdiction and personal infallibility, holding supreme authority to rest with the ecumenical council. Attributed to the Orthodox tradition as its own position; the difference is described, not ranked."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "protestantism",
+      "note": "The Protestant Reformers rejected the papal primacy as a divinely instituted office. Attributed to the Reformers as their position; not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "filioque",
+      "note": "The papal primacy and the filioque are the two doctrinal questions most often named together in the Catholic-Orthodox estrangement; they are distinct doctrines and are treated in separate entries. Related-to link, not an assertion of dependence."
+    },
+    {
+      "type": "related_to",
+      "target": "peter",
+      "note": "The doctrine rests, on the Catholic reading, on the office conferred by Christ on the Apostle Peter (Matthew 16, Luke 22, John 21) and inherited by the bishops of Rome as his successors. The peter entry (Simon Peter) exists in the dataset (data/figures/christianity/peter.json)."
+    }
+  ],
+  "historical_period": {
+    "start": 440,
+    "note": "The doctrine developed over a long span rather than from a single origin. Conventional anchor at Leo I (pope 440-461), who articulated a strong doctrine of the Roman bishop as heir to Peter; the primacy was contested in the Latin-Greek estrangement (eleventh century and after) and at the Council of Florence (1439), and was dogmatically defined in its developed form, with papal infallibility, at the First Vatican Council (Pastor Aeternus, 1870). The doctrine remains living in the Roman Catholic Church; no end date is asserted. Dates mark a development, not a fixed point."
+  },
+  "sources": [
+    {
+      "citation": "The Holy Bible, Matthew 16:18-19 (English Standard Version): 'And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.' Primary scriptural text; the principal proof-text of the Catholic reading of the Petrine office. Read verbatim on the open page.",
+      "url": "https://biblehub.com/matthew/16-18.htm",
+      "license": "Underlying Greek text public domain; ESV English quoted for wording, versions vary by edition.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Holy Bible, Luke 22:32 (English Standard Version): 'but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.' And John 21:15-17 (ESV): 'Feed my lambs' / 'Tend my sheep' / 'Feed my sheep', the threefold commission of Peter by the risen Jesus. Primary scriptural texts adduced in the Catholic reading alongside Matthew 16. Read verbatim on the open pages.",
+      "url": "https://biblehub.com/luke/22-32.htm",
+      "license": "Underlying Greek text public domain; ESV English quoted for wording, versions vary by edition.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "First Vatican Council (1870). Pastor Aeternus (First Dogmatic Constitution on the Church of Christ). Primary conciliar text. Read verbatim on the open page: chapter 1, the institution of the apostolic primacy in blessed Peter, citing Matthew 16; chapter 2, the perpetuity of the primacy in the Roman pontiffs; chapter 3, the ordinary, immediate, and episcopal power of jurisdiction of the Roman pontiff over the whole church; chapter 4, the definition that the Roman pontiff, when he speaks ex cathedra, defining a doctrine of faith or morals to be held by the whole church, possesses that infallibility with which the divine Redeemer willed his church to be endowed, such definitions being irreformable of themselves. The load-bearing definition of the Catholic doctrine.",
+      "url": "https://www.papalencyclicals.net/councils/ecum20.htm",
+      "license": "Conciliar text public domain; read line-by-line at papalencyclicals.net.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Schatz, Klaus. Papal Primacy: From Its Origins to the Present. Translated by John A. Otto and Linda M. Maloney. Collegeville, MN: Liturgical Press, 1996. The standard scholarly history of the papal primacy, treating its long development, the role of Leo I and the Petrine sees, the East-West difference, and the definition at Vatican I. Academic history-of-doctrine lens.",
+      "url": "https://litpress.org/Products/5522/Papal-Primacy",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Joint International Commission for the Theological Dialogue between the Roman Catholic Church and the Orthodox Church. 'Ecclesiological and Canonical Consequences of the Sacramental Nature of the Church: Ecclesial Communion, Conciliarity and Authority' (the Ravenna Document), 2007. Cited as an attributed statement of where the Catholic and Orthodox communions agree on primacy and conciliarity and where they still differ over the universal-level primacy and the role of the bishop of Rome; contemporary-theology lens on the disputed question, quoting neither side's position as settled.",
+      "url": "https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-inglese1.html",
+      "license": "Published by the dialogue commission; cited as an attributed ecumenical statement, not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

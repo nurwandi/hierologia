@@ -1,0 +1,114 @@
+{
+  "id": "real-presence",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Real Presence",
+    "aliases": [
+      "the Real Presence of Christ in the Eucharist",
+      "eucharistic presence",
+      "the presence of Christ in the Lord's Supper"
+    ]
+  },
+  "category": "sacraments",
+  "summary": "The real presence is the doctrine that Jesus Christ is genuinely present in the bread and wine of the Eucharist, and, by extension, the name for the long-running family of disagreements among Christian traditions over the MODE of that presence. A number of traditions share the affirmation that Christ is truly present, while differing over how: the Roman Catholic account of transubstantiation, the Lutheran presence 'in, with, and under' the elements (a sacramental union), the Reformed teaching of a real but spiritual reception of Christ by faith (following Calvin), and the memorialist or symbolic view associated with Zwingli, which denies a substantial presence in the elements. These positions are recorded here as the attributed teachings of their respective traditions, and none is adjudicated.",
+  "description": "Real presence is the term used for the affirmation that Christ is genuinely present in the eucharistic bread and wine, and for the cluster of disputes over the manner of that presence that runs through Christian history and, above all, the Reformation. The scriptural material at issue is shared: the words of institution, 'this is my body' and 'this cup is the new testament in my blood' (1 Corinthians 11:24-25, and the Synoptic parallels), and the Johannine discourse in which Jesus says 'my flesh is meat indeed, and my blood is drink indeed' (John 6:55). The traditions divide over how these texts are to be understood and what, if anything, happens to the elements. The distinctive matter of this entry is that dispute, and the entry is scrupulous to attribute each position rather than to rule among them.\n\nThe Roman Catholic Church teaches transubstantiation: at the consecration the whole substance of the bread and wine is converted into the substance of the body and blood of Christ, only the appearances (species) remaining, so that Christ is present, in the words of the Council of Trent (Thirteenth Session, 1551, Canon I), 'truly, really, and substantially'. The Lutheran tradition, following Martin Luther, affirms the true bodily presence of Christ in, with, and under the bread and wine (a sacramental union), received by all communicants, while rejecting transubstantiation and its scholastic metaphysics; Lutheran writers have generally not adopted 'consubstantiation', a later label applied to their view by others. The Reformed tradition, following John Calvin, affirms a real presence that is spiritual and pneumatic: Christ is truly given and received, but by the secret power of the Holy Spirit, who lifts the believer to feed by faith on the body and blood of the ascended Christ, rather than by any local enclosing of Christ in the elements (Institutes IV.17). The view associated with Huldrych Zwingli holds the Supper to be a memorial and a sign, a commemoration of Christ's death and a pledge of profession, and denies a substantial or bodily presence of Christ in the elements, understanding the words of institution figuratively ('this signifies my body'). Eastern Orthodoxy affirms that the bread and wine truly become the body and blood of Christ and treats the manner as a mystery, generally declining the substance-and-accident framework. The failure of the Reformers to agree on this point, notably the disagreement between Luther and Zwingli over whether 'is' in 'this is my body' means a substantial presence or a signifying, is one of the defining internal divisions of Protestantism. This entry states the shared affirmation of a genuine presence held by several traditions, and then presents the divergent modes strictly as the attributed positions of their holders, without the editor ruling which is correct.",
+  "editorial_notes": "The distinctive substance of this entry is a live intra-Christian dispute, so attribution is the governing discipline throughout, per neutrality principles #1, #2, and #4. The entry states the shared affirmation (that Christ is genuinely present) and then the divergent modes strictly as attributed positions: Catholic transubstantiation (the whole substance converted); Lutheran presence 'in, with, and under' the elements (a sacramental union); Reformed real-but-spiritual reception by faith through the Holy Spirit, per Calvin's Institutes IV.17; Zwinglian symbolic memorial, denying a substantial presence and reading the words of institution figuratively; and the Orthodox affirmation of a true change treated as a mystery. The editor does NOT adjudicate which account is correct: that is the sensitive point of this entry, and it is handled by attribution and by declining to rank the positions. The Lutheran view is stated on its own terms and the later label 'consubstantiation' is flagged as applied by others rather than owned by Lutherans, so as not to misattribute it.\n\nSourcing triangulates the three lenses per neutrality #8. (a) Academic historian of doctrine: Jaroslav Pelikan, The Christian Tradition, especially volume 4, Reformation of Church and Dogma (1300-1700) (University of Chicago Press, 1984), which treats the Reformation eucharistic controversies. (b) The primary corpus, read directly and open: the Council of Trent, Thirteenth Session, Canon I (papalencyclicals), for the Catholic real presence 'truly, really, and substantially'; Calvin, Institutes IV.17 (CCEL), for the Reformed spiritual presence and the refutation of transubstantiation; and the scriptural texts 1 Corinthians 11:23-26 and John 6:55 (biblehub, KJV). (c) A contemporary Christian theologian on-topic: Alexander Schmemann, The Eucharist: Sacrament of the Kingdom (St Vladimir's Seminary Press, 1988). No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY. Rated high, open primaries read line-by-line to confirm the exact cited wording: (1) the Council of Trent, Thirteenth Session, Canon I, read directly at papalencyclicals, confirming 'truly, really, and substantially ... the whole Christ' and (canon II) the affirmation of the conversion of the whole substance; (2) Calvin, Institutes IV.17, read directly at CCEL, confirming the refutation of transubstantiation and the teaching of a real spiritual feeding by the power of the Holy Spirit; (3) 1 Corinthians 11:23-26 and John 6:55, read verbatim in the KJV at biblehub. Rated medium, verified to exist and be on-topic (via publisher catalogues and reviews) but not read line-by-line: Pelikan and Schmemann. The Lutheran 'in, with, and under' formula and the Zwinglian 'this signifies' are standard characterizations of those positions; they are attributed to Luther and Zwingli respectively and, for a line-by-line Lutheran primary, the Formula of Concord and Luther's own confession would be the sources to read directly at the reviewed stage (flagged as not yet read here).\n\nRelation targets present in the dataset: transubstantiation (which references this entry), sacraments, martin-luther, john-calvin, huldrych-zwingli, reformed-tradition, roman-catholicism, eastern-orthodoxy, council-of-trent. The target eucharist is created together with this entry in the same batch (mutual cross-reference); no dangling forward references remain once both files land.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "eucharist",
+      "note": "The real presence is the contested question of how Christ is present in the Eucharist; it arises within the shared rite treated in the eucharist entry. Created together with this entry."
+    },
+    {
+      "type": "related_to",
+      "target": "transubstantiation",
+      "note": "Transubstantiation is the Roman Catholic account of the mode of the real presence, that the whole substance of the elements is converted; transubstantiation references this entry. Recorded as the attributed Catholic teaching, not adjudicated."
+    },
+    {
+      "type": "part_of",
+      "target": "sacraments",
+      "note": "The doctrine concerns the sacrament of the Eucharist and belongs to the tradition's sacramental theology."
+    },
+    {
+      "type": "related_to",
+      "target": "council-of-trent",
+      "note": "The Council of Trent (Thirteenth Session, 1551, Canon I) defined the Catholic real presence, that Christ is contained 'truly, really, and substantially'; read directly at papalencyclicals. Attributed to the Catholic Church, not endorsed."
+    },
+    {
+      "type": "articulated_by",
+      "target": "martin-luther",
+      "note": "Luther affirmed the true bodily presence 'in, with, and under' the bread and wine (a sacramental union) while rejecting transubstantiation; the later label 'consubstantiation' was applied by others, not by Lutherans. Attributed to Luther, not adjudicated."
+    },
+    {
+      "type": "articulated_by",
+      "target": "john-calvin",
+      "note": "Calvin taught a real but spiritual presence, Christ received by faith through the power of the Holy Spirit rather than by a local enclosing in the elements (Institutes IV.17, read directly at CCEL). Attributed to Calvin, not adjudicated."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "huldrych-zwingli",
+      "note": "Zwingli held the Supper to be a memorial and a sign and denied a substantial or bodily presence in the elements, reading 'this is my body' figuratively; his disagreement with Luther over the words of institution is a defining internal division of the Reformation. Attributed to Zwingli, not adjudicated or ranked."
+    },
+    {
+      "type": "related_to",
+      "target": "reformed-tradition",
+      "note": "The Reformed tradition, following Calvin, holds a real-but-spiritual reception of Christ by faith through the Holy Spirit. Attributed, not ranked."
+    },
+    {
+      "type": "related_to",
+      "target": "roman-catholicism",
+      "note": "Roman Catholicism holds the real presence by transubstantiation, Christ present truly, really, and substantially. Attributed to the Catholic Church, not endorsed."
+    },
+    {
+      "type": "related_to",
+      "target": "eastern-orthodoxy",
+      "note": "Eastern Orthodoxy affirms that the bread and wine truly become the body and blood of Christ and treats the manner as a mystery. Attributed to the Orthodox tradition, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 800,
+    "end": 1551,
+    "note": "As an affirmation the real presence is ancient (attested in the patristic testimony), but the sustained dispute over its mode runs from the Carolingian debates (ninth century, Paschasius Radbertus and Ratramnus) through the Berengar controversy (eleventh century), the naming of transubstantiation (Fourth Lateran, 1215), and the Reformation divisions between Catholics, Lutherans, the Reformed, and the memorialists, to the Catholic definition at the Council of Trent (Thirteenth Session, 1551). The range marks the period in which the mode of presence was chiefly contested and defined; the positions continue in their respective traditions to the present."
+  },
+  "sources": [
+    {
+      "citation": "The Council of Trent, Decree Concerning the Most Holy Sacrament of the Eucharist (Thirteenth Session, 11 October 1551), Canon I: 'If any one denieth, that, in the sacrament of the most holy Eucharist, are contained truly, really, and substantially, the body and blood together with the soul and divinity of our Lord Jesus Christ, and consequently the whole Christ; but saith that He is only therein as in a sign, or in figure, or virtue; let him be anathema.' Canon II affirms the conversion of the whole substance. The primary-corpus lens for the Catholic definition of the real presence.",
+      "url": "https://www.papalencyclicals.net/councils/trent/thirteenth-session.htm",
+      "license": "Underlying conciliar text public domain. Canons I and II read directly, line-by-line (2026-07-26), and Canon I confirmed verbatim.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "John Calvin, Institutes of the Christian Religion, Book IV, chapter 17 (Of the Lord's Supper, and the benefits conferred by it), Beveridge translation. Calvin refutes transubstantiation and teaches a real but spiritual presence: Christ is truly given and received, but by the secret power of the Holy Spirit, who unites the believer to the flesh and blood of the ascended Christ, received by faith, rather than by a local enclosing of Christ in the elements. The primary-corpus lens for the Reformed account of the mode of presence.",
+      "url": "https://www.ccel.org/ccel/calvin/institutes.vi.xviii.html",
+      "license": "Public-domain translation. Chapter IV.17 read directly at CCEL (2026-07-26); the refutation of transubstantiation and the teaching of a real spiritual feeding by the Holy Spirit confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Holy Bible, 1 Corinthians 11:23-26 (KJV), the words of institution ('this is my body, which is broken for you'; 'This cup is the new testament in my blood'), and John 6:55 (KJV): 'For my flesh is meat indeed, and my blood is drink indeed.' The shared scriptural texts over which the traditions divide in their accounts of the presence; the primary-corpus lens.",
+      "url": "https://biblehub.com/kjv/1_corinthians/11.htm",
+      "license": "Underlying Greek text public domain; KJV public domain. 1 Corinthians 11:23-26 and John 6:55 read directly, line-by-line (2026-07-26), and confirmed verbatim.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine. Volume 4, Reformation of Church and Dogma (1300-1700). Chicago: University of Chicago Press, 1984. Standard scholarly history of the Reformation eucharistic controversies, including the divisions among Catholics, Lutherans, the Reformed, and the memorialists over the mode of Christ's presence; the academic-historian lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3634587.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the University of Chicago Press catalogue.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schmemann, Alexander. The Eucharist: Sacrament of the Kingdom. Translated by Paul Kachur. Crestwood, NY: St Vladimir's Seminary Press, 1988. A contemporary Orthodox theological treatment of the Eucharist and Christ's presence in it as the sacrament of the Kingdom; the contemporary-theologian lens.",
+      "url": "https://svspress.com/eucharist-the/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the St Vladimir's Seminary Press catalogue.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

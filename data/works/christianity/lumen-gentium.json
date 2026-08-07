@@ -1,0 +1,66 @@
+{
+  "id": "lumen-gentium",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Lumen Gentium",
+    "original": "Lumen Gentium",
+    "transliteration": "Lumen Gentium",
+    "aliases": [
+      "Dogmatic Constitution on the Church",
+      "Constitutio Dogmatica de Ecclesia",
+      "Light of the Nations"
+    ]
+  },
+  "category": "conciliar constitution (dogmatic constitution)",
+  "date": {
+    "year": 1964,
+    "note": "Solemnly promulgated by Pope Paul VI on 21 November 1964, during the third period of the Second Vatican Council (1962-1965). The Latin title Lumen Gentium ('Light of the Nations') is taken from the document's opening words."
+  },
+  "summary": "Lumen Gentium ('Light of the Nations') is the Dogmatic Constitution on the Church of the Second Vatican Council (1962-1965), promulgated by Pope Paul VI on 21 November 1964. It presents the Catholic Church as a mystery and as the People of God, treats the hierarchy and the college of bishops, sets out a universal call to holiness, and closes with a chapter on the Blessed Virgin Mary; its eighth section states that the Church of Christ 'subsists in the Catholic Church'.",
+  "description": "Lumen Gentium ('Light of the Nations') is the Second Vatican Council's Dogmatic Constitution on the Church, promulgated by Pope Paul VI on 21 November 1964. Its Latin title is drawn from its opening words, which the promulgated English text renders 'Christ is the Light of nations'; the document opens by presenting the Church as a sign and instrument of Christ's light to all peoples.\n\nThe constitution first treats the Church as a mystery, a reality at once visible and spiritual. Its second chapter, headed 'On the People of God', develops the Church as a people that God has willed to bring together and to sanctify, a chapter placed deliberately before the treatment of the hierarchy. The third chapter, 'On the Hierarchical Structure of the Church and in Particular on the Episcopate', sets out the office of bishops and teaches the doctrine of episcopal collegiality: at LG 22 the text states that 'the order of bishops, which succeeds to the college of apostles and gives this apostolic body continued existence, is also the subject of supreme and full power over the universal Church, provided we understand this body together with its head the Roman Pontiff and never without this head.' The fifth chapter, 'The Universal Call to Holiness in the Church', teaches that holiness is not reserved to clergy or religious but is the vocation of all the baptized; at LG 39-40 the constitution states that everyone in the Church, 'whether belonging to the hierarchy, or being cared for by it, is called to holiness.' The eighth and final chapter treats the Blessed Virgin Mary in the mystery of Christ and the Church.\n\nThe constitution's eighth section (LG 8) contains the formula that has drawn the most subsequent discussion. Describing the one Church of Christ, the text states that 'this Church constituted and organized in the world as a society, subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him.' The Latin verb subsistit in ('subsists in') has been much debated in later Catholic theology and in ecumenical dialogue as to how it relates the Church of Christ to the Catholic Church and to other Christian communities; this entry records the phrase as it stands in the promulgated text and attributes the doctrinal claims throughout to the council and the document, not adjudicating between interpretations. As a dogmatic constitution of the Roman Catholic Church, Lumen Gentium articulates that church's self-understanding; other Christian traditions hold differing ecclesiologies, and this entry presents the teaching as the council's own rather than as settled for all Christians.",
+  "editorial_notes": "This entry describes Lumen Gentium on the council's own terms and attributes every doctrinal claim to the document and the Second Vatican Council, adjudicating nothing (neutrality #1, #2, #4, #6). It is a Roman Catholic dogmatic constitution; the entry flags that its ecclesiology is the council's own and that other Christian traditions differ, without ranking any position. The load-bearing phrases were read directly on the open official English text at vatican.va and are quoted verbatim: the opening 'Christ is the Light of nations'; the LG 8 formula 'this Church ... subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him'; the LG 22 statement on the order of bishops succeeding to the college of apostles (episcopal collegiality); and the LG 39-40 statement that everyone in the Church is 'called to holiness'. The chapter headings read verbatim on the page are 'On the People of God' (ch. II), 'On the Hierarchical Structure of the Church and in Particular on the Episcopate' (ch. III), and 'The Universal Call to Holiness in the Church' (ch. V). VERIFICATION LIMIT: the chapter VIII heading on the Blessed Virgin Mary was NOT captured verbatim (the fetched rendering of the page truncated before chapter VIII), so the entry states only that chapter VIII treats Mary in the mystery of Christ and the Church, which is verified-to-exist rather than quoted verbatim; the exact wording of that heading is not asserted here. Sources triangulate three lenses per neutrality #8-#9: (b) the primary text itself, the official English translation open at vatican.va, rated HIGH because the quoted phrases above were read line-by-line and confirmed on the page; (a) an academic historian of the council, John W. O'Malley, What Happened at Vatican II (Belknap/Harvard, 2008), medium, verified to exist and on-topic; and (c) a contemporary Catholic theologian, Richard R. Gaillardetz, The Church in the Making: Lumen Gentium, Christus Dominus, Orientalium Ecclesiarum (Paulist, 2006), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources. Relations: part_of and produced_by the second-vatican-council event, which exists in the dataset (data/events/christianity/second-vatican-council.json); no dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "second-vatican-council",
+      "note": "Lumen Gentium is one of the four constitutions of the Second Vatican Council, promulgated during its third period on 21 November 1964. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "adopted_at",
+      "target": "second-vatican-council",
+      "note": "Debated, amended, and solemnly promulgated by Pope Paul VI with the council fathers at the Second Vatican Council (1962-1965); recorded as produced by the council. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "dei-verbum",
+      "note": "A companion dogmatic constitution of the same council (promulgated 18 November 1965); Lumen Gentium on the Church and Dei Verbum on divine revelation are the council's two dogmatic constitutions. The dei-verbum entry is authored alongside this one."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council. Lumen Gentium: Dogmatic Constitution on the Church. Promulgated by Pope Paul VI, 21 November 1964. Official English translation on vatican.va. Read directly and confirmed verbatim: the opening 'Christ is the Light of nations'; LG 8, 'This Church constituted and organized in the world as a society, subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him'; LG 22, 'The order of bishops, which succeeds to the college of apostles and gives this apostolic body continued existence, is also the subject of supreme and full power over the universal Church, provided we understand this body together with its head the Roman Pontiff and never without this head'; LG 39, everyone in the Church 'is called to holiness'. Chapter headings confirmed on the page: 'On the People of God' (ch. II), 'On the Hierarchical Structure of the Church and in Particular on the Episcopate' (ch. III), 'The Universal Call to Holiness in the Church' (ch. V). The chapter VIII heading on the Blessed Virgin Mary was not captured verbatim in the read and is not quoted here.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+      "license": "Official English text published openly by the Holy See (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "O'Malley, John W. What Happened at Vatican II. Cambridge, MA: The Belknap Press of Harvard University Press, 2008 (ISBN 9780674031692). A peer-reviewed academic historian's narrative history of the Second Vatican Council from its announcement (1959) to its close (1965), based on the official documentation, treating the drafting and adoption of Lumen Gentium and the other constitutions; cited as the outside-scholarship lens. Verified to exist and be on-topic via the Harvard University Press catalog and journal reviews (Journal of Ecclesiastical History; Journal of Religion), not read line-by-line here.",
+      "url": "https://www.hup.harvard.edu/books/9780674047495",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gaillardetz, Richard R. The Church in the Making: Lumen Gentium, Christus Dominus, Orientalium Ecclesiarum. Rediscovering Vatican II. New York: Paulist Press, 2006 (ISBN 9780809142767). A contemporary Catholic theologian's study of the council's teaching on the Church, focused on Lumen Gentium, outlining the document's history and central themes (People of God, episcopal collegiality, the universal call to holiness) and their reception; cited as the contemporary-Catholic-theologian lens. Verified to exist and be on-topic via the Paulist Press catalog and a Horizons review, not read line-by-line here.",
+      "url": "https://www.paulistpress.com/Products/4276-7/the-church-in-the-making.aspx",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
