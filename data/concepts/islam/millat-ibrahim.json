@@ -49,6 +49,13 @@
   },
   "sources": [
     {
+      "citation": "The Qur'an, Q 2:135 and Q 22:78, the load-bearing ayat for Islam's self-understanding as the restored religion of Abraham (millat Ibrahim). Q 2:135: 'Rather, [we follow] the religion of Abraham, inclining toward truth (hanifan), and he was not of the polytheists' (Sahih International); Q 22:78: 'It is the religion of your father, Abraham. He named you Muslims before and in this [revelation]' (Sahih International). Read line-by-line at quran.com in two independent translations (Sahih International and The Clear Quran, Khattab), which agree on the load-bearing wording; the classical Arabic is the open primary text. Confirmed 2026-07-26.",
+      "url": "https://quran.com/2/135",
+      "license": "Primary religious text; the classical Arabic is in the public domain; English translations vary.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
       "citation": "Firestone, Reuven. 'Abraham's Association with the Meccan Sanctuary and the Pilgrimage in the Pre-Islamic and Early Islamic Periods.' Le Muséon 104, no. 3-4 (1991): 359-387. A peer-reviewed study of how Islamic tradition brings Abraham from a biblical into a Qur'anic (Meccan) geographical and religious context, bearing on the Qur'an's identification of the true religion with the religion of Abraham. Cited as the Western academic lens. Relevant passages not read line-by-line.",
       "url": "https://www.researchgate.net/publication/230563023_Abraham's_Association_with_the_Meccan_Sanctuary_and_the_Pilgrimage_in_the_Pre-Islamic_and_Early_Islamic_Periods",
       "license": "Proprietary; cited for reference; relevant passages not read line-by-line.",
@@ -76,8 +83,8 @@
       "confidence": "medium"
     }
   ],
-  "status": "reviewed",
+  "status": "verified",
   "schema_version": "0.4.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-07-26"
 }
