@@ -6,6 +6,20 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.19.1] - 2026-07-26
+
+Islam verified push (V12): a promotion pass over seven `reviewed` Islam entries whose distinctive
+claim was tested against an open, quotable Qur'an ayah read line-by-line. No new entities.
+
+### Changed
+- Verified (3): `millat-ibrahim` (Q 2:135, Q 22:78), `isma-il` (Q 19:54-55, Q 2:127), and `dunya`
+  (Q 87:16-17, Q 57:20), each promoted on open Qur'anic text confirmed verbatim in two translations;
+  a dedicated `high` open-primary Qur'an source was added to each. The verified tier is now 103.
+- Held at `reviewed`, honestly (4): `tanzih`, `tahrif`, `ruyat-allah`, and `shura`. In each, the
+  distinctive substance is a kalam or juristic dispute (the divine-attributes debate; the tahrif
+  al-mana vs al-nass doctrine; the beatific-vision debate; the binding-vs-advisory question) carried
+  by secondary scholarship, not by the bare ayah that only proof-texts it.
+
 ## [0.19.0] - 2026-07-26
 
 Deepening Christian and Jewish coverage: twelve new entities filling central dangling targets across
