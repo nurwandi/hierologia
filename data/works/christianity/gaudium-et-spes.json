@@ -1,0 +1,71 @@
+{
+  "id": "gaudium-et-spes",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Gaudium et Spes",
+    "original": "Gaudium et Spes",
+    "transliteration": "Gaudium et Spes",
+    "aliases": [
+      "Pastoral Constitution on the Church in the Modern World",
+      "Constitutio Pastoralis de Ecclesia in Mundo Huius Temporis",
+      "Joy and Hope"
+    ]
+  },
+  "category": "conciliar constitution (pastoral constitution)",
+  "date": {
+    "year": 1965,
+    "note": "Solemnly promulgated by Pope Paul VI on 7 December 1965, the final working day of the Second Vatican Council (1962-1965). The Latin title Gaudium et Spes ('Joy and Hope') is taken from the document's opening words."
+  },
+  "summary": "Gaudium et Spes ('Joy and Hope') is the Pastoral Constitution on the Church in the Modern World of the Second Vatican Council (1962-1965), promulgated by Pope Paul VI on 7 December 1965. It opens by identifying the Church with the joys, hopes, griefs, and anxieties of the people of the age, especially the poor and afflicted, treats the dignity of the human person, and addresses the Church's engagement with modern culture, economic and political life, marriage and family, and peace.",
+  "description": "Gaudium et Spes ('Joy and Hope') is the Second Vatican Council's Pastoral Constitution on the Church in the Modern World, promulgated by Pope Paul VI on 7 December 1965, the last working day of the council. Its Latin title is drawn from its opening words. The constitution opens: 'The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ.' This opening sets the document's stated purpose, to address the Church's relation to the whole of contemporary humanity and its concerns.\n\nThe constitution is styled 'pastoral' rather than 'dogmatic', and it turns from the Church's inner constitution (treated in Lumen Gentium) to the Church's engagement with the world. Its first part treats the dignity of the human person, the human community, and human activity in the universe, grounding human dignity in creation and, in the council's account, in Christ. Its second part treats a series of urgent questions of the age: the dignity of marriage and the family, the proper development of culture, economic and social life, the life of the political community, and the fostering of peace and the community of nations.\n\nThe document articulates a method of reading 'the signs of the times'. At GS 4 the text states: 'To carry out such a task, the Church has always had the duty of scrutinizing the signs of the times and of interpreting them in the light of the Gospel.' This phrase, 'the signs of the times', became a characteristic expression of the council's pastoral orientation. As a pastoral constitution of the Roman Catholic Church, Gaudium et Spes articulates that church's self-understanding and its reading of the modern world; this entry records the document's teaching and attributes every doctrinal claim to the council and the document, adjudicating nothing. Other Christian traditions hold differing accounts of the Church's relation to society and culture, and the entry presents this teaching as the council's own rather than as settled for all Christians.",
+  "editorial_notes": "This entry describes Gaudium et Spes on the council's own terms and attributes every doctrinal claim to the document and the Second Vatican Council, adjudicating nothing (neutrality #1, #2, #4, #6). It is a Roman Catholic pastoral constitution; the entry flags that its account of the Church and the modern world is the council's own and that other Christian traditions differ, without ranking any position. The load-bearing phrases were read directly on the open official English text at vatican.va and are quoted verbatim: the GS 1 opening 'The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ'; and the GS 4 statement 'To carry out such a task, the Church has always had the duty of scrutinizing the signs of the times and of interpreting them in the light of the Gospel'. The title 'Pastoral Constitution on the Church in the Modern World' and the promulgation date (Pope Paul VI, 7 December 1965) were confirmed on the page. The topical coverage (dignity of the human person; marriage and family; culture; economic and social life; the political community; peace and the community of nations) was confirmed to be present on the page but the individual section headings were not each captured verbatim, so they are stated as verified-to-exist rather than quoted. Sources triangulate three lenses per neutrality #8-#9: (b) the primary text itself, the official English translation open at vatican.va, rated HIGH because the two quoted phrases above and the title and date were read and confirmed on the page; (a) an academic historian of the council, John W. O'Malley, What Happened at Vatican II (Belknap/Harvard, 2008), medium, verified to exist and on-topic; and (c) a contemporary Catholic theologian, Norman Tanner, The Church and the World: Gaudium et Spes, Inter Mirifica (Paulist, 2005), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources. Relations: part_of and adopted_at the second-vatican-council event, which exists in the dataset (data/events/christianity/second-vatican-council.json); related_to lumen-gentium and dignitatis-humanae, both of which exist in the dataset. No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "second-vatican-council",
+      "note": "Gaudium et Spes is one of the four constitutions of the Second Vatican Council, promulgated on 7 December 1965, the council's final working day. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "adopted_at",
+      "target": "second-vatican-council",
+      "note": "Debated, amended, and solemnly promulgated by Pope Paul VI with the council fathers at the Second Vatican Council (1962-1965); recorded as produced by the council. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "lumen-gentium",
+      "note": "Gaudium et Spes, the pastoral constitution on the Church in the modern world, is the counterpart to Lumen Gentium, the dogmatic constitution on the Church; the two are read together as the council's inward and outward accounts of the Church. The lumen-gentium entry exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "dignitatis-humanae",
+      "note": "A companion document of the same council promulgated on the same day (7 December 1965); Gaudium et Spes on the Church in the modern world and Dignitatis Humanae on religious freedom both treat the human person in civil society. The dignitatis-humanae entry is authored alongside this one."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council. Gaudium et Spes: Pastoral Constitution on the Church in the Modern World. Promulgated by Pope Paul VI, 7 December 1965. Official English translation on vatican.va. Read directly and confirmed verbatim: the GS 1 opening 'The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ'; and GS 4, 'To carry out such a task, the Church has always had the duty of scrutinizing the signs of the times and of interpreting them in the light of the Gospel'. Title 'Pastoral Constitution on the Church in the Modern World' and promulgation (Pope Paul VI, 7 December 1965) confirmed on the page; the topical coverage (dignity of the human person, marriage and family, culture, economic and social life, the political community, peace) confirmed present but the individual section headings were not each captured verbatim.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html",
+      "license": "Official English text published openly by the Holy See (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "O'Malley, John W. What Happened at Vatican II. Cambridge, MA: The Belknap Press of Harvard University Press, 2008 (ISBN 9780674031692). A peer-reviewed academic historian's narrative history of the Second Vatican Council from its announcement (1959) to its close (1965), based on the official documentation, treating the drafting and adoption of Gaudium et Spes as the council's last and most contested major document; cited as the outside-scholarship lens. Verified to exist and be on-topic via the Harvard University Press catalog and journal reviews (Journal of Ecclesiastical History; Journal of Religion), not read line-by-line here.",
+      "url": "https://www.hup.harvard.edu/books/9780674047495",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. The Church and the World: Gaudium et Spes, Inter Mirifica. Rediscovering Vatican II. New York: Paulist Press, 2005 (ISBN 9780809142385). A contemporary Catholic theologian and church historian's study of the council's teaching on the Church and the modern world, focused on Gaudium et Spes, outlining the document's history and central themes (the dignity of the human person, culture, economic and political life, marriage and family, peace) and their reception; cited as the contemporary-Catholic-theologian lens. Verified to exist and be on-topic via the Paulist Press catalog, not read line-by-line here.",
+      "url": "https://www.paulistpress.com/Products/4238-5/the-church-and-the-world.aspx",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

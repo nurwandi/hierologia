@@ -1,0 +1,62 @@
+{
+  "id": "noam-elimelech",
+  "tradition": "judaism",
+  "names": {
+    "primary": "No'am Elimelech",
+    "original": "נֹעַם אֱלִימֶלֶךְ",
+    "transliteration": "No'am Elimelekh",
+    "aliases": [
+      "Noam Elimelech ('the Pleasantness of Elimelech')",
+      "Noam Elimelekh",
+      "Sefer No'am Elimelech",
+      "the No'am Elimelech (used also as an epithet for its author)"
+    ]
+  },
+  "category": "treatise (Hasidic homiletical commentary on the Torah)",
+  "date": {
+    "year": 1788,
+    "note": "First printed in 1788 (Lviv/Lemberg), after the author's death in 1787, by his son Elazar. The book is a homiletical commentary on the weekly Torah portions (parashot). The digitized Hebrew and English text on Sefaria is arranged by book of the Torah and portion; canonical Sefaria refs drop the 'Parashat_' prefix, so the opening comment on Bereshit is 'Noam_Elimelekh,_Sefer_Bereshit,_Bereshit.1'."
+  },
+  "summary": "The No'am Elimelech ('the Pleasantness of Elimelech'), first printed in 1788, is a Hasidic homiletical commentary on the Torah by Elimelech of Lizhensk (1717-1787), studied within Hasidism as the classic literary source for the doctrine of the tzaddik: the righteous leader understood as the channel who, through complete clinging to God (devekut), draws down the divine flow (shefa) to the community of Israel. On the work's opening comment on Bereshit the completeness of the tzaddik's clinging is what brings the flow down to all Israel, and the account that follows presents this teaching as the work's own attributed doctrine rather than a claim the editor affirms.",
+  "description": "The No'am Elimelech ('the Pleasantness of Elimelech') is the homiletical commentary on the Torah composed by Elimelech of Lizhensk (1717-1787), a leading disciple of the Maggid Dov Ber of Mezeritch and a founder of Hasidism in Poland and Galicia. It was first printed in 1788 at Lviv (Lemberg) by his son Elazar, after Elimelech's death, and is arranged as comments (mostly homiletical) on the weekly Torah portions. Within Hasidism the book is studied as the classic literary statement of the doctrine of the tzaddik, and the account that follows presents its teaching as the work's own attributed doctrine rather than as a claim the editor affirms or denies.\n\nThe teaching for which the work is best known concerns the tzaddik, the righteous leader, described as the human channel through whom divine blessing reaches the world. On this doctrine the tzaddik, by his complete clinging to God (devekut), becomes the conduit of the divine flow (shefa) drawn down to the community. The work's opening comment on the first portion, Bereshit, states the point directly: expounding the phrase 'the congregation of Yaakov', it teaches that this is 'the complete clinging that the righteous have, through which they bring down the flow to all Israel, only good' (Noam Elimelekh, Sefer Bereshit, Bereshit 1, read on open Sefaria). The tzaddik is thus presented not merely as a moral exemplar but as a cosmic intermediary whose devekut sustains and channels blessing for others.\n\nThis account of the tzaddik is, on the tradition's telling and on later scholarship's, the literary source that gave the doctrine its developed form and the movement its model of charismatic leadership, in which the rebbe stands as the axis linking his followers to the divine. The book presents the tzaddik's role, his intercessory prayer, his 'descent' for the sake of raising others, and his function as the drawer-down of shefa, throughout its comments on the portions; this entry describes chiefly the opening statement of the doctrine, whose load-bearing line was read line-by-line, and attributes the wider teaching to the work as its own without adjudicating it. The doctrine of the tzaddik is the attributed ideal of the Hasidic movement for which the No'am Elimelech is a classic source, described here on the tradition's own terms and not affirmed by the editor.",
+  "editorial_notes": "This entry presents the No'am Elimelech on Judaism's own terms as the classic literary source, within Hasidism, for the DOCTRINE OF THE TZADDIK, the righteous leader as the channel who draws down the divine flow (shefa) to Israel through complete clinging (devekut) (neutrality #1, #4, #6). The tzaddik doctrine is stated throughout as the WORK'S OWN ATTRIBUTED teaching ('on this doctrine', 'on the work's opening comment', 'presents its teaching as the work's own attributed doctrine', 'the attributed ideal of the Hasidic movement'), DESCRIBED and not affirmed or denied by the editor, and not ranked against the Mitnagdic alternative. Sources triangulate three lenses per neutrality #8-#9: (a) the PRIMARY text itself, open and auditable on Sefaria; (b) an academic study, Arthur Green, 'The Zaddiq as Axis Mundi in Later Judaism', JAAR XLV/3 (1977); and (c) a contemporary Jewish scholar on-topic, Louis Jacobs, Hasidic Prayer. No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the No'am Elimelech on Sefaria is rated HIGH because the opening comment on Bereshit (Noam Elimelekh, Sefer Bereshit, Bereshit 1) was READ line-by-line via the open Sefaria text API and the load-bearing line was confirmed VERBATIM in English: 'the complete clinging that the righteous have, through which they bring down the flow to all Israel, only good' (Hebrew: 'הדביקות גמור שיש לצדיק, עי\"ז הוא משפיע לכלל ישראל כל טוב'). Both the API ref and the human-readable URL (https://www.sefaria.org/Noam_Elimelekh,_Sefer_Bereshit,_Bereshit.1) were confirmed to resolve (HTTP 200) on 2026-07-26; note canonical refs drop the 'Parashat_' prefix. The Green article (medium) and the Jacobs book (medium) were verified to exist and be on-topic (Green: JAAR Vol. XLV, No. 3, 1977, pp. 327-347, via the Oxford Academic / JSTOR record; Jacobs: Hasidic Prayer, Littman Library, which treats the No'am Elimelech as a crucial text for the tzaddik doctrine), not read line-by-line. Relation targets: elimelech-of-lizhensk EXISTS (its author; the figure entry already records the reciprocal 'articulated' edge to this work) and tzaddik EXISTS (data/concepts/judaism/tzaddik.json). No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "elimelech-of-lizhensk",
+      "note": "The No'am Elimelech was written by Elimelech of Lizhensk (1717-1787) and first printed in 1788, after his death, by his son Elazar; the elimelech-of-lizhensk figure entry EXISTS and already records the reciprocal edge (its author 'articulated' this work). The opening comment on Bereshit was read line-by-line on open Sefaria."
+    },
+    {
+      "type": "related_to",
+      "target": "tzaddik",
+      "note": "The No'am Elimelech is studied within Hasidism as the classic literary source for the doctrine of the tzaddik, the righteous leader as the channel who, through complete clinging (devekut), draws down the divine flow (shefa) to Israel; stated as the work's attributed teaching. The tzaddik concept EXISTS (data/concepts/judaism/tzaddik.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Elimelech of Lizhensk. No'am Elimelech ('the Pleasantness of Elimelech'), Sefer Bereshit, Bereshit, comment 1; first printed 1788 (Lviv/Lemberg). Open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text carrying the work's load-bearing statement of the tzaddik doctrine, read line-by-line and verified verbatim: expounding 'the congregation of Yaakov', the comment teaches 'the complete clinging that the righteous have, through which they bring down the flow to all Israel, only good' (Hebrew: 'הדביקות גמור שיש לצדיק, עי\"ז הוא משפיע לכלל ישראל כל טוב'), the tzaddik as the channel who through devekut draws down the shefa to the community. Note: canonical Sefaria refs drop the 'Parashat_' prefix (Noam_Elimelekh,_Sefer_Bereshit,_Bereshit.1). Both the API ref and the human-readable URL were confirmed to resolve (HTTP 200) on 2026-07-26.",
+      "url": "https://www.sefaria.org/Noam_Elimelekh,_Sefer_Bereshit,_Bereshit.1",
+      "license": "Hebrew and English on Sefaria (openly auditable). Sefer Bereshit, Bereshit comment 1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Green, Arthur. 'The Zaddiq as Axis Mundi in Later Judaism.' Journal of the American Academy of Religion XLV, no. 3 (September 1977): 327-347. A peer-reviewed academic study reading the figure of the zaddiq in later Jewish mysticism and Hasidism through the symbol of the axis mundi, the tzaddik as the human channel and pillar linking his community to the divine, drawing on the developed 'zaddikology' of works such as the No'am Elimelech; cited as the academic-historian lens on the doctrine the work is a classic source for. Verified to exist and be on-topic (Oxford Academic / JSTOR record, JAAR Vol. XLV No. 3, pp. 327-347), not read line-by-line.",
+      "url": "https://academic.oup.com/jaar/article-abstract/XLV/3/327/915347",
+      "license": "Proprietary; cited for reference (journal record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Jacobs, Louis. Hasidic Prayer. Littman Library of Jewish Civilization (London / Portland, OR). A study by a contemporary Jewish scholar of the attitudes of the Hasidic masters to prayer, based on works compiled by the rebbes and their disciples, which treats the No'am Elimelech as a crucial text for the doctrine of the tzaddik (the 'zaddikology') of the later Hasidic movement and the tzaddik's role as intercessor and drawer-down of divine influence; cited as the contemporary-Jewish-scholar lens on the work's tzaddik teaching. Verified to exist and be on-topic (Littman Library / JSTOR and Internet Archive records), not read line-by-line.",
+      "url": "https://www.jstor.org/stable/j.ctv2d8qx8c",
+      "license": "Proprietary; cited for reference (publisher / distributor record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "chaim-of-volozhin",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Chaim of Volozhin",
+    "original": "חַיִּים מִוָּולוֹזִ'ין",
+    "transliteration": "Chayyim mi-Volozhin",
+    "aliases": [
+      "Hayyim of Volozhin",
+      "Chaim ben Isaac of Volozhin",
+      "Rabbi Chaim Volozhiner",
+      "author of Nefesh ha-Chayim",
+      "founder of the Volozhin Yeshiva"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "talmudist",
+    "yeshiva founder and head (rosh yeshiva)",
+    "theologian of the Mitnagdic tradition",
+    "author"
+  ],
+  "summary": "Chaim of Volozhin (1749-1821) was the foremost disciple of Elijah ben Solomon Zalman, the Vilna Gaon, and the founder in 1802 of the Volozhin Yeshiva, the institution regarded as the prototype of the modern Lithuanian yeshiva. He is the author of Nefesh ha-Chayim ('The Soul of Life'), the systematic theological statement of the Mitnagdic worldview, which sets out the supremacy of Torah study, undertaken for its own sake (lishmah), as the highest form of divine service. This entry records his roles as the Gaon's disciple, the founder of Volozhin, and the theologian of the Lithuanian tradition, with the ideal of study attributed to him and to that tradition.",
+  "description": "Chaim ben Isaac of Volozhin (Valozhyn), born in 1749 and active in the Lithuanian lands within the Russian Empire, is recorded in the tradition as the foremost disciple of Elijah ben Solomon Zalman, the Vilna Gaon (ha-Gra), the towering figure of Lithuanian rabbinic learning and the leading opponent of the nascent Hasidic movement. Chaim studied with the Gaon and became, in the accounts, the principal transmitter and institutional heir of his master's approach to Torah study, and he died in 1821.\n\nIn 1802 (traditionally 1802/1803) Chaim founded the yeshiva of Volozhin, formally Yeshivat Etz Chaim ('Tree of Life'), which the scholarship, chiefly that of Shaul Stampfer, treats as the prototype of the modern Lithuanian yeshiva: an independent institution of full-time advanced Talmud study, supported by contributions gathered from a wide public rather than by the local community, and drawing students from afar, distinct from the older pattern of study organized within the local town. Volozhin became the 'mother of the yeshivas', the model for the network of Lithuanian yeshivas that followed through the nineteenth century, and its structure shaped much of the modern yeshiva world (the volozhin-yeshiva entry treats the institution in detail).\n\nChaim's theological work is the Nefesh ha-Chayim ('The Soul of Life'), published after his death, which is read in the tradition and in scholarship as the systematic statement of the Mitnagdic (Lithuanian, non-Hasidic) worldview, in particular of the supremacy of Torah study. In the fourth gate of that work, whose opening chapter is open and auditable on Sefaria and was read directly, Chaim sets out the tremendous obligation of the involvement with Torah (esek ha-Torah) incumbent on every person of Israel day and night, and holds that the direct, steady study of the Torah itself, the written and the oral, undertaken for its own sake (lishmah) and joined to the awe or fear of God, is the highest religious occupation. He warns there, in the read passage, against those who, though their intention is for Heaven, make the core of their study the books of ethical and devotional instruction (sifrei yirah u-musar) rather than the direct study of scripture and the myriad laws, teaching that this 'is not the path' in which the light of the Torah rests. This valuation of study is given here as the attributed ideal of Chaim and of the Lithuanian (Mitnagdic) tradition, described and not affirmed or denied by the editor.\n\nThe Nefesh ha-Chayim is also read as articulating, on the Mitnagdic side, a theology of the divine presence and of the human role in sustaining the worlds through Torah and mitzvot, developed in the accounts partly in engagement with the emphases of the contemporaneous Hasidic movement; the wider dispute between the Mitnagdim, the Lithuanian circles of the Vilna Gaon, and the Hasidim stands in the background of Chaim's life and work, and it is noted here as historical context and treated elsewhere in the dataset as a dispute with both sides attributed and not adjudicated. This entry presents Chaim of Volozhin on the tradition's own terms as the Gaon's disciple, the founder of Volozhin, and the theologian of the Mitnagdic ideal of study, with the scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Chaim of Volozhin (1749-1821) on Judaism's own terms (neutrality #1, #4, #6) as the foremost disciple of the Vilna Gaon, the founder in 1802 of the Volozhin Yeshiva (the prototype of the modern Lithuanian yeshiva), and the author of Nefesh ha-Chayim, the systematic statement of the Mitnagdic worldview. NEUTRALITY: the ideal of the supremacy of Torah study, undertaken lishmah and joined to awe of God as the highest divine service, and the theology of the divine presence developed in Nefesh ha-Chayim, are stated as the ATTRIBUTED ideal and teaching of Chaim and of the Lithuanian/Mitnagdic tradition ('given here as the attributed ideal... described and not affirmed or denied by the editor'), not endorsed. The Hasidim-Mitnagdim conflict is NOTED as the historical context of Chaim's life and work and is NOT adjudicated (neutrality #1-#2): it is handled as a dispute with both sides attributed in the mitnagdim, hasidism, and vilna-gaon entries, and this entry does not rule on it. SOURCING triangulates three lenses per neutrality #8-#9: (b) PRIMARY, open and auditable on Sefaria, READ LINE-BY-LINE: Chaim of Volozhin, Nefesh ha-Chayim, Gate IV, chapter 1 (Sefaria 'Nefesh HaChayim, Gate IV.1'), read directly via the Sefaria text API on 2026-07-26; the load-bearing statement was confirmed verbatim, that the tremendous obligation of the involvement with Torah (esek ha-Torah) is incumbent on every person of Israel day and night, and (in the read passage) the warning against those who, though their intention is for Heaven, make the core of their study the sifrei yirah u-musar (books of awe and ethical instruction) 'without making a steady practice, the core of their involvement, with our holy Torah, in scripture and myriad laws', so that 'this is not the path' in which the light of the Torah rests; the URL https://www.sefaria.org/Nefesh_HaChayim%2C_Gate_IV.1 resolves. (a) academic: Norman Lamm, Torah Lishmah: Torah for Torah's Sake in the Works of Rabbi Hayyim of Volozhin and His Contemporaries (Hoboken: Ktav / New York: Yeshiva University Press, 1989), the standard study of Chaim's doctrine of Torah lishmah, verified to exist and be on-topic, medium; supplemented by Immanuel Etkes, The Gaon of Vilna: The Man and His Image (Berkeley: University of California Press, 2002), for the Gaon and his disciple Chaim, medium. (c) contemporary Jewish scholar on-topic: Shaul Stampfer, Lithuanian Yeshivas of the Nineteenth Century: Creating a Tradition of Learning (Oxford: Littman Library, 2012), the standard history of the Volozhin yeshiva Chaim founded, medium; carries the same rating it holds in the volozhin-yeshiva entry. NO encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: Nefesh ha-Chayim Gate IV.1 on open Sefaria is rated HIGH because it was read directly and the load-bearing supremacy-of-Torah-study / lishmah statement was confirmed in the text; the Hebrew there is public domain (Vilna, 1874) and the English is a CC-BY-NC translation (Leonard Moskowitz, 2012), openly auditable. The systematic characterization of the whole work as the theology of the Mitnagdic worldview, and the doctrine of Torah lishmah as Chaim's distinctive contribution, rest partly on Lamm and the secondary scholarship (medium, verified to exist and be on-topic, not read cover to cover), so that interpretive framing is honestly secondary; this entry is left at draft, reviewed-eligible. RELATION TARGETS: vilna-gaon exists (data/figures/judaism/vilna-gaon.json) and volozhin-yeshiva exists (data/schools/judaism/volozhin-yeshiva.json); both reference this figure. nefesh-ha-chayim is a DANGLING forward reference to a not-yet-created work entity (flagged; created in this same batch per the build plan).",
+  "lifespan": {
+    "birth": 1749,
+    "death": 1821,
+    "note": "1749-1821 CE. Active in the Lithuanian lands within the Russian Empire; the foremost disciple of Elijah ben Solomon Zalman, the Vilna Gaon (d. 1797). Founded the Volozhin Yeshiva in 1802 (traditionally 1802/1803). Author of Nefesh ha-Chayim, published after his death. Died in 1821."
+  },
+  "relations": [
+    {
+      "type": "influenced_by",
+      "target": "vilna-gaon",
+      "note": "Chaim of Volozhin was the foremost disciple of Elijah ben Solomon Zalman, the Vilna Gaon (ha-Gra), and the principal transmitter and institutional heir of his master's approach to Torah study and of the Lithuanian rabbinic tradition. The vilna-gaon entry exists (data/figures/judaism/vilna-gaon.json) and references this figure."
+    },
+    {
+      "type": "founded",
+      "target": "volozhin-yeshiva",
+      "note": "Chaim founded the Volozhin Yeshiva (Yeshivat Etz Chaim) in 1802, the institution regarded in the scholarship as the prototype of the modern Lithuanian yeshiva and the model for the yeshivas that followed. The volozhin-yeshiva entry exists (data/schools/judaism/volozhin-yeshiva.json) and records the reciprocal founded_by edge to this figure."
+    },
+    {
+      "type": "articulated",
+      "target": "nefesh-ha-chayim",
+      "note": "Chaim is the author of Nefesh ha-Chayim ('The Soul of Life'), read in the tradition and scholarship as the systematic statement of the Mitnagdic worldview and of the supremacy of Torah study undertaken lishmah; Gate IV.1 was read line-by-line on open Sefaria and the load-bearing statement confirmed. Dangling forward reference to a not-yet-created work entity (created in this same batch per the build plan)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Chaim of Volozhin. Nefesh ha-Chayim ('The Soul of Life'), Gate IV, chapter 1 (Sha'ar IV). Published after the author's death; the systematic theological work of the Mitnagdic (Lithuanian) tradition. Open Hebrew and English text on Sefaria, cited as the openly-auditable primary text carrying Chaim's own statement of the supremacy of Torah study, read line-by-line: the tremendous obligation of the involvement with Torah (esek ha-Torah) that is incumbent on every person of Israel day and night, and the warning against those who, though their intention is for Heaven, make the core of their study the books of awe and ethical instruction (sifrei yirah u-musar) rather than the direct, steady study of the holy Torah, in scripture and the myriad laws, so that 'this is not the path' in which the light of the Torah rests. This passage was read and verified as the load-bearing text for the Mitnagdic ideal of Torah study, undertaken for its own sake (lishmah) and joined to the awe of God.",
+      "url": "https://www.sefaria.org/Nefesh_HaChayim%2C_Gate_IV.1",
+      "license": "Hebrew public domain (Vilna, 1874); English a CC-BY-NC translation (Leonard Moskowitz, 2012), openly auditable on Sefaria. Gate IV.1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Lamm, Norman. Torah Lishmah: Torah for Torah's Sake in the Works of Rabbi Hayyim of Volozhin and His Contemporaries. Hoboken: Ktav / New York: Yeshiva University Press, 1989. The standard scholarly study of the doctrine of Torah study for its own sake (lishmah) in the works of Chaim of Volozhin, analyzing the Nefesh ha-Chayim and its account of Torah study as the supreme divine service; cited as the academic lens on Chaim's distinctive theology. Verified to exist and be on-topic (Ktav / Yeshiva University Press record; the author was a scholar and head of Yeshiva University), not read line-by-line.",
+      "url": "https://www.ktav.com/",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Gaon of Vilna: The Man and His Image. Translated by Jeffrey M. Green. Berkeley: University of California Press, 2002. A scholarly study of Elijah ben Solomon Zalman, the Vilna Gaon, and his circle, including his disciple Chaim of Volozhin and the transmission of the Gaon's approach to Torah study; cited as the contemporary-Jewish-scholarship lens on Chaim's relation to his master and on the Lithuanian tradition. Verified to exist and be on-topic (University of California Press record), not read line-by-line.",
+      "url": "https://www.ucpress.edu/book/9780520223943/the-gaon-of-vilna",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

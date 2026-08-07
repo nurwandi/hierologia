@@ -1,0 +1,67 @@
+{
+  "id": "nefesh-ha-chayim",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Nefesh ha-Chayim",
+    "original": "נֶפֶשׁ הַחַיִּים",
+    "transliteration": "Nefesh ha-Chayim",
+    "aliases": [
+      "Nefesh HaChayim ('the Soul of Life')",
+      "Nefesh HaChaim",
+      "Sefer Nefesh ha-Chayim",
+      "Nefesh haChaim"
+    ]
+  },
+  "category": "treatise (systematic work of Mitnagdic / Lithuanian theology)",
+  "date": {
+    "year": 1824,
+    "note": "Published posthumously in 1824 (Vilna and Grodno) by the author's son Isaac, after the death of Chaim of Volozhin in 1821. The work is arranged in four 'gates' (she'arim). The digitized Hebrew and English text on Sefaria is arranged by gate and chapter, so Gate IV chapter 1 is 'Nefesh_HaChayim,_Gate_IV.1'."
+  },
+  "summary": "The Nefesh ha-Chayim ('the Soul of Life'), published posthumously in 1824, is the major theological work of Chaim of Volozhin (1749-1821), studied as the systematic statement of the Mitnagdic (Lithuanian, non-Hasidic) worldview and, in its fourth gate, of the supremacy of Torah study (Torah lishmah, study for its own sake) as the highest religious value. On the tradition's telling the work also frames a response to aspects of Hasidic doctrine; this entry describes that response as context and as the work's attributed position, not as a refutation the editor endorses, and attributes the Torah-study ideal to the work rather than affirming it.",
+  "description": "The Nefesh ha-Chayim ('the Soul of Life') is the principal theological work of Chaim of Volozhin (1749-1821), the foremost disciple of the Vilna Gaon and the founder of the Volozhin yeshiva. It was published posthumously in 1824 by his son Isaac, three years after the author's death, and is arranged in four 'gates' (she'arim). Within the Lithuanian (Mitnagdic) world it is studied as the systematic written statement of that world's theology, and the account that follows presents its doctrines as the work's own attributed teaching rather than as claims the editor affirms or denies.\n\nThe first three gates develop a theology of the human being as the bearer of the worlds, of prayer, and of the divine unity, in dialogue with the Kabbalah of the Vilna Gaon's circle. The fourth and final gate is devoted to the study of Torah and is the part for which the work is best known: it sets out the supremacy of Torah study, and specifically of Torah lishmah (Torah studied for its own sake), as the highest religious value. Its opening chapter (Gate IV, chapter 1) states 'the tremendous obligation of involvement with Torah that's incumbent upon each person of Israel day and night' and, on this teaching, that the 'primary steady practice' of Israel should be the study of the holy Torah, written and oral, and its laws, 'them being the essentials of Torah', warning that the books of ethical guidance (musar), for all their worth, were not intended to displace steady involvement with the main body of Torah (Nefesh HaChayim, Gate IV, chapter 1, read on open Sefaria). On this account study of the Torah for its own sake is the central and highest avenue of the religious life.\n\nOn the tradition's telling, and on later scholarship's, the Nefesh ha-Chayim frames its fourth gate, and its account of the value of study and of prayer, partly as a response to aspects of Hasidic teaching, in particular to emphases on devekut, fervor, and the tzaddik that the Lithuanian world held to draw attention away from the steady study of Torah. This entry records that response as historical context and as the work's own attributed position within the broader Hasidic-Mitnagdic dispute; it does not present the work as refuting Hasidism, and it does not adjudicate the dispute. The supremacy of Torah study set out here is described as the attributed ideal of the Mitnagdic world for which the Nefesh ha-Chayim is the systematic statement, on the tradition's own terms and not affirmed by the editor.",
+  "editorial_notes": "This entry presents the Nefesh ha-Chayim on Judaism's own terms as the systematic statement of the MITNAGDIC (Lithuanian, non-Hasidic) worldview and, in its fourth gate, of the SUPREMACY OF TORAH STUDY (Torah lishmah, study for its own sake) as the highest religious value (neutrality #1, #4, #6). The Torah-study ideal is stated throughout as the WORK'S OWN ATTRIBUTED teaching ('on this teaching', 'on this account', 'the attributed ideal of the Mitnagdic world'), DESCRIBED and not affirmed or denied by the editor. NEUTRALITY ON THE DISPUTE: the work's response to aspects of Hasidic doctrine is recorded as historical context and as the work's attributed position within the Hasidic-Mitnagdic dispute; it is NOT presented as refuting Hasidism, and the dispute itself is NOT adjudicated (neutrality #1, #2). Sources triangulate three lenses per neutrality #8-#9: (a) the PRIMARY text itself, open and auditable on Sefaria; (b) an academic study, Norman Lamm, Torah Lishmah: Torah for Torah's Sake in the Works of Rabbi Hayyim of Volozhin and His Contemporaries; and (c) a contemporary Jewish scholar on-topic, Immanuel Etkes, The Gaon of Vilna: The Man and His Image (California, 2002). No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Nefesh ha-Chayim on Sefaria is rated HIGH because Gate IV chapter 1 (Nefesh_HaChayim,_Gate_IV.1) was READ line-by-line via the open Sefaria text API and the load-bearing statements were confirmed VERBATIM in English: 'the tremendous obligation of involvement with Torah that's incumbent upon each person of Israel day and night'; that Israel's 'primary steady practice of learning would be only the holy Torah, written and oral, and myriad laws, them being the essentials of Torah'; and the warning that the musar (ethical-guidance) authors 'didn't intend therewith to cause the involvement with the main body of Torah to be abandoned'. Both the API ref and the human-readable URL (https://www.sefaria.org/Nefesh_HaChayim,_Gate_IV.1) were confirmed to resolve (HTTP 200) on 2026-07-26. The Lamm book (medium) and the Etkes book (medium) were verified to exist and be on-topic (Lamm: Torah Lishmah, Ktav, the standard study of Torah lishmah in R. Hayyim of Volozhin's thought, ISBN 088125133X; Etkes: The Gaon of Vilna, trans. Jeffrey M. Green, University of California Press, 2002, on the Gaon and the Lithuanian/Mitnagdic world of which Chaim of Volozhin is the leading disciple), not read line-by-line. RELATION TARGETS: chaim-of-volozhin (the author) EXISTS (data/figures/judaism/chaim-of-volozhin.json), with a reciprocal articulated edge; torah-study does NOT yet exist and is flagged as a dangling forward reference. volozhin-yeshiva EXISTS (data/schools/judaism/volozhin-yeshiva.json) and mitnagdim EXISTS (data/schools/judaism/mitnagdim.json).",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "chaim-of-volozhin",
+      "note": "The Nefesh ha-Chayim was written by Chaim of Volozhin (1749-1821), the foremost disciple of the Vilna Gaon and founder of the Volozhin yeshiva, and published posthumously in 1824 by his son Isaac. The chaim-of-volozhin figure entry exists (data/figures/judaism/chaim-of-volozhin.json). Gate IV chapter 1 was read line-by-line on open Sefaria."
+    },
+    {
+      "type": "related_to",
+      "target": "mitnagdim",
+      "note": "The Nefesh ha-Chayim is studied as the systematic written statement of the Mitnagdic (Lithuanian, non-Hasidic) worldview, especially the supremacy of Torah study; its response to aspects of Hasidic doctrine is recorded as context within the Hasidic-Mitnagdic dispute, not as a refutation, and the dispute is not adjudicated. The mitnagdim school entry EXISTS (data/schools/judaism/mitnagdim.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "torah-study",
+      "note": "The fourth gate of the Nefesh ha-Chayim sets out the supremacy of Torah study, and specifically Torah lishmah (study for its own sake), as the highest religious value; stated as the work's attributed teaching (Gate IV chapter 1, read on open Sefaria). DANGLING forward reference: the torah-study concept entry does NOT yet exist."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Chaim of Volozhin. Nefesh ha-Chayim ('the Soul of Life'), Gate IV (Sha'ar IV), chapter 1; published posthumously 1824. Open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text carrying the work's load-bearing statement of the supremacy of Torah study, read line-by-line and verified verbatim: 'the tremendous obligation of involvement with Torah that's incumbent upon each person of Israel day and night'; that the 'primary steady practice of learning would be only the holy Torah, written and oral, and myriad laws, them being the essentials of Torah'; and the warning that the authors of the books of ethical guidance (musar) 'didn't intend therewith to cause the involvement with the main body of Torah to be abandoned', framing the Torah lishmah ideal. Both the API ref (Nefesh_HaChayim,_Gate_IV.1) and the human-readable URL were confirmed to resolve (HTTP 200) on 2026-07-26.",
+      "url": "https://www.sefaria.org/Nefesh_HaChayim,_Gate_IV.1",
+      "license": "Hebrew and English on Sefaria (openly auditable). Gate IV, chapter 1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Lamm, Norman. Torah Lishmah: Torah for Torah's Sake in the Works of Rabbi Hayyim of Volozhin and His Contemporaries. Studies and Sources in Kabbalah, Hasidism and Jewish Thought, vol. 1. Hoboken, NJ: Ktav (ISBN 088125133X / 9780881251333); English edition of a study first published in Hebrew (1972). The standard academic study of the concept of Torah lishmah (study for its own sake) centered on Chaim of Volozhin and the Nefesh ha-Chayim, situating the ideal against the Hasidic-Mitnagdic controversy over study, prayer, and immanence; cited as the academic lens on the work's Torah-study doctrine. Verified to exist and be on-topic (publisher / distributor and PhilPapers records), not read line-by-line.",
+      "url": "https://philpapers.org/rec/LAMTSO-8",
+      "license": "Proprietary; cited for reference (catalog record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Gaon of Vilna: The Man and His Image. Translated by Jeffrey M. Green. Berkeley and Los Angeles: University of California Press, 2002 (viii + 299 pp.). A study by a contemporary Jewish scholar (Hebrew University) of the Vilna Gaon and the Lithuanian scholarly world he anchored, the Mitnagdic milieu of which Chaim of Volozhin is the leading disciple and the Volozhin yeshiva the institutional heir; cited as the contemporary-Jewish-scholar lens on the world and worldview the Nefesh ha-Chayim states systematically. Verified to exist and be on-topic (University of California Press record; H-Net review), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/the-gaon-of-vilna/hardcover",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

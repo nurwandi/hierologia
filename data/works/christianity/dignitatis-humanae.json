@@ -1,0 +1,72 @@
+{
+  "id": "dignitatis-humanae",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Dignitatis Humanae",
+    "original": "Dignitatis Humanae",
+    "transliteration": "Dignitatis Humanae",
+    "aliases": [
+      "Declaration on Religious Freedom",
+      "Declaration on the Right of the Person and of Communities to Social and Civil Freedom in Matters Religious",
+      "Declaratio de Libertate Religiosa",
+      "Of the Dignity of the Human Person"
+    ]
+  },
+  "category": "conciliar declaration",
+  "date": {
+    "year": 1965,
+    "note": "Solemnly promulgated by Pope Paul VI on 7 December 1965, the final working day of the Second Vatican Council (1962-1965). The Latin title Dignitatis Humanae ('Of the Dignity of the Human Person') is taken from the document's opening words."
+  },
+  "summary": "Dignitatis Humanae ('Of the Dignity of the Human Person') is the Second Vatican Council's Declaration on Religious Freedom, promulgated by Pope Paul VI on 7 December 1965. It declares that the human person has a right to religious freedom grounded in the dignity of the person, and holds that this freedom means immunity from coercion in civil society, so that no one is to be forced to act against his conscience nor restrained from acting according to it within due limits.",
+  "description": "Dignitatis Humanae ('Of the Dignity of the Human Person') is the Second Vatican Council's Declaration on Religious Freedom, promulgated by Pope Paul VI on 7 December 1965, the last working day of the council. Its full title is the Declaration on the Right of the Person and of Communities to Social and Civil Freedom in Matters Religious, and its Latin name is drawn from its opening words.\n\nThe declaration's central affirmation appears at DH 2. The text states: 'This Vatican Council declares that the human person has a right to religious freedom.' It grounds this right in the dignity of the human person and specifies its content as an immunity from coercion in civil society. The text continues: 'This freedom means that all men are to be immune from coercion on the part of individuals or of social groups and of any human power, in such wise that no one is to be forced to act in a manner contrary to his own beliefs, whether privately or publicly, whether alone or in association with others, within due limits.' The declaration likewise states that a person is not 'to be restrained from acting in accordance with his conscience, especially in matters religious'. The right so described is presented as a civil and social immunity from coercion, and the document distinguishes this civil right from the question of religious truth.\n\nDignitatis Humanae is widely treated in the scholarship as a notable instance of the development of doctrine, in that its account of religious freedom in civil society departs from earlier church-state positions taken in nineteenth-century Catholic teaching; the drafting was closely associated with the American Jesuit theologian John Courtney Murray. This entry records the development-of-doctrine characterization as a matter attributed to the scholarship and does not adjudicate whether, or how, the declaration is continuous with earlier teaching, a question debated within Catholic theology itself. As a declaration of the Roman Catholic Church, Dignitatis Humanae articulates that church's teaching; this entry attributes every doctrinal claim to the council and the document, presents the teaching as the council's own rather than as settled for all Christians, and adjudicates none of the interpretive questions it raises.",
+  "editorial_notes": "This entry describes Dignitatis Humanae on the council's own terms and attributes every doctrinal claim to the document and the Second Vatican Council, adjudicating nothing (neutrality #1, #2, #4, #6). It is a Roman Catholic conciliar declaration; the entry presents its teaching on religious freedom as the council's own. The development-of-doctrine point, that the declaration's account of religious freedom departs from earlier nineteenth-century church-state positions, is stated factually and attributed to the scholarship, and the entry does NOT rule on whether the declaration is continuous or discontinuous with earlier teaching, which is itself a debated question in Catholic theology (neutrality #1, #2). The load-bearing phrases were read directly on the open official English text at vatican.va and are quoted verbatim: the DH 2 statement 'This Vatican Council declares that the human person has a right to religious freedom'; the immunity-from-coercion statement 'This freedom means that all men are to be immune from coercion on the part of individuals or of social groups and of any human power, in such wise that no one is to be forced to act in a manner contrary to his own beliefs, whether privately or publicly, whether alone or in association with others, within due limits'; and the further clause that a person is not 'to be restrained from acting in accordance with his conscience, especially in matters religious'. The title (Declaration on Religious Freedom / Declaration on the Right of the Person and of Communities to Social and Civil Freedom in Matters Religious) and the promulgation (Pope Paul VI, 7 December 1965) were confirmed on the page. Sources triangulate three lenses per neutrality #8-#9: (b) the primary text itself, the official English translation open at vatican.va, rated HIGH because the quoted phrases above and the title and date were read and confirmed on the page; (a) an academic study, Barrett Hamilton Turner, 'Dignitatis Humanae and the Development of Moral Doctrine' (peer-reviewed theological scholarship on the declaration and the John Courtney Murray question), medium, cited for the development-of-doctrine point and verified to exist and be on-topic; and (c) a contemporary Catholic theologian, John Courtney Murray, whose commentary and drafting role are treated in his collected writings on religious liberty, medium, verified to exist and be on-topic. No encyclopedias, no Wikipedia, no tertiary sources. Relations: part_of and adopted_at the second-vatican-council event, which exists in the dataset (data/events/christianity/second-vatican-council.json); related_to gaudium-et-spes and lumen-gentium, both of which exist in the dataset. No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "second-vatican-council",
+      "note": "Dignitatis Humanae is a declaration of the Second Vatican Council, promulgated on 7 December 1965, the council's final working day. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "adopted_at",
+      "target": "second-vatican-council",
+      "note": "Debated, amended, and solemnly promulgated by Pope Paul VI with the council fathers at the Second Vatican Council (1962-1965); recorded as produced by the council. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "gaudium-et-spes",
+      "note": "A companion document of the same council promulgated on the same day (7 December 1965); both Dignitatis Humanae on religious freedom and Gaudium et Spes on the Church in the modern world treat the dignity of the human person in civil society. The gaudium-et-spes entry is authored alongside this one."
+    },
+    {
+      "type": "related_to",
+      "target": "lumen-gentium",
+      "note": "Both are documents of the Second Vatican Council; Lumen Gentium, the dogmatic constitution on the Church, sets the ecclesiological frame within which Dignitatis Humanae articulates the council's teaching on religious freedom. The lumen-gentium entry exists in the dataset."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council. Dignitatis Humanae: Declaration on Religious Freedom (On the Right of the Person and of Communities to Social and Civil Freedom in Matters Religious). Promulgated by Pope Paul VI, 7 December 1965. Official English translation on vatican.va. Read directly and confirmed verbatim: DH 2, 'This Vatican Council declares that the human person has a right to religious freedom'; the immunity-from-coercion statement 'This freedom means that all men are to be immune from coercion on the part of individuals or of social groups and of any human power, in such wise that no one is to be forced to act in a manner contrary to his own beliefs, whether privately or publicly, whether alone or in association with others, within due limits'; and the clause that a person is not 'to be restrained from acting in accordance with his conscience, especially in matters religious'. Title and promulgation (Pope Paul VI, 7 December 1965) confirmed on the page.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html",
+      "license": "Official English text published openly by the Holy See (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Turner, Barrett Hamilton. 'Dignitatis Humanae and the Development of Moral Doctrine: Assessing Change in Catholic Social Teaching on Religious Liberty.' Doctoral dissertation, The Catholic University of America, 2015 (peer-reviewed academic theological study). Treats the declaration's teaching on religious freedom as a case in the development of doctrine and engages the church-state question and the John Courtney Murray scholarship; cited as the outside-scholarship lens for the development-of-doctrine characterization, which the entry attributes rather than adjudicates. Verified to exist and be on-topic via the Catholic University of America dissertation catalog, not read line-by-line here.",
+      "url": "https://www.academia.edu/120326277/",
+      "license": "Academic dissertation; cited for reference.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Murray, John Courtney. Religious Liberty: Catholic Struggles with Pluralism. Edited by J. Leon Hooper. Louisville: Westminster/John Knox Press, 1993 (ISBN 9780664253608). Collected writings of the American Jesuit theologian most closely associated with the drafting of Dignitatis Humanae, on religious liberty and the church-state question; cited as the contemporary-Catholic-theologian lens and for Murray's own account of the declaration's argument. Verified to exist and be on-topic via library records and the Internet Archive copy, not read line-by-line here.",
+      "url": "https://archive.org/details/religiousliberty0000murr",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

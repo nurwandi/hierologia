@@ -1,0 +1,62 @@
+{
+  "id": "tomer-devorah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Tomer Devorah",
+    "original": "תֹּמֶר דְּבוֹרָה",
+    "transliteration": "Tomer Devorah",
+    "aliases": [
+      "Tomer Devora",
+      "The Palm Tree of Deborah",
+      "The Palm of Deborah",
+      "Palm Tree of Devorah"
+    ]
+  },
+  "category": "treatise (ethical-mystical / musar work)",
+  "date": {
+    "year": 1588,
+    "note": "First printed at Venice in 1588. Composed by Moses Cordovero (the Ramak, 1522-1570) of Safed. A short ethical treatise built on kabbalistic doctrine; the openly-auditable text on Sefaria carries the Hebrew and an English translation (Sefaria Community Translation, CC0)."
+  },
+  "summary": "Tomer Devorah ('The Palm Tree of Deborah'), first printed at Venice in 1588, is a short ethical-mystical treatise by Moses Cordovero of Safed on imitatio Dei, teaching that a person should emulate the divine qualities as configured in the sefirot. Its opening chapter expounds the thirteen supernal attributes of mercy, read out of Micah 7:18-20, as thirteen traits of character to be put into practice.",
+  "description": "Tomer Devorah ('The Palm Tree of Deborah', from Judges 4:5) is a short ethical-mystical treatise composed by Moses Cordovero (the Ramak, 1522-1570), the systematizing kabbalist of Safed, and first printed at Venice in 1588. It belongs to the genre of ethical instruction (musar) but grounds its ethics in the kabbalistic doctrine of the sefirot, the ten configurations or attributes through which, on the teaching Cordovero expounds, the divine is described as acting in the world. The book is brief, and this entry describes its teaching as the work's own attributed doctrine, presenting Cordovero's kabbalah as what the text sets out rather than as claims the editor affirms.\n\nThe governing theme, announced at the opening of chapter 1, is imitatio Dei, the imitation of God. The text opens: 'It is fitting for a person to resemble his Creator, and then he will be [configured] in the secret of the Highest Form, [both] in image and likeness.' On the doctrine expounded, the human being, made in the divine image and likeness (Genesis 1:26-27), is called to make that likeness actual by conforming his own character to the qualities of the supernal Form, so that ethical practice is understood as the alignment of the person with the sefirot. Because a person cannot resemble the hidden essence of God but only God as God acts, the imitation is directed at the divine attributes, the middot, and the treatise proceeds attribute by attribute, drawing out from each a corresponding human trait to be cultivated.\n\nChapter 1, the longest and best known, expounds the thirteen supernal attributes of mercy, which the tradition reads out of the closing verses of the book of Micah (7:18-20, 'Who is a power like You, who bears iniquity and passes over transgression... He will again have mercy on us... You shall give truth to Jacob'). Cordovero configures these thirteen attributes with the highest sefirah, Keter, and treats each as a trait a person must practise. The first, drawn from 'Who is a power like You' (mi El kamocha, Micah 7:18), he expounds as divine forbearance: the text describes the Holy One as 'an insulted King [that] tolerates insult that is inconceivable', who even as a person sins by the very life-force God sustains in him 'does not withhold good from a person for this' but 'tolerates the insult, flows the force [to do this] and gives the person of His goodness'; from this the human trait to be learned is tolerance, 'to be insulted, even to this extent, and nonetheless not to withhold one's goodness from the recipient.' The remaining twelve attributes of the chapter are treated in the same pattern, each supernal quality yielding a discipline of character, so that the thirteen attributes of mercy become thirteen ways in which a person is taught to imitate God.\n\nThe later chapters of the treatise extend the same method to the further sefirot below Keter, Chochmah, Binah, and the seven lower attributes down to Malkhut, drawing from the character of each a corresponding way of acting and of directing one's conduct and even one's bodily faculties. Within the kabbalistic and musar traditions the little book came to be widely studied and reprinted as a manual of character-refinement grounded in Cordovero's system; this entry describes that teaching and that standing on the tradition's own terms, presenting the kabbalistic scheme of the sefirot and the attributes as the work's attributed doctrine and not as a cosmology the editor endorses.",
+  "editorial_notes": "This entry presents Tomer Devorah on Judaism's own terms as the short ethical-mystical treatise by Moses Cordovero of Safed, first printed at Venice in 1588 (neutrality #1, #4, #6). Its doctrine, imitatio Dei realized by conforming one's character to the sefirot, and the thirteen supernal attributes of mercy (read out of Micah 7:18-20) as thirteen traits to practise, is DESCRIBED as the WORK'S OWN ATTRIBUTED teaching ('on the teaching Cordovero expounds', 'on the doctrine expounded', 'the work's attributed doctrine'). NEUTRALITY: Cordovero's kabbalah, the sefirot and the configuration of the attributes with Keter, is described, NOT affirmed as a true cosmology by the editor ('presenting the kabbalistic scheme... as the work's attributed doctrine and not as a cosmology the editor endorses'). Sources triangulate per neutrality #8-#9: (a) the PRIMARY text on Sefaria, open and auditable, chapter 1 READ LINE-BY-LINE; (b) an academic monograph, Lawrence Fine, Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship (Stanford, 2003), for Cordovero and the Safed kabbalistic milieu; and (c) a contemporary Jewish scholar on-topic, Bracha Sack, whose studies of Cordovero (in Hebrew, Be-Shaarei ha-Kabbalah shel Rabbi Moshe Cordovero, Beer Sheva, 1995) are the standard scholarship on the Ramak. No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Sefaria primary is rated HIGH because chapter 1 was READ line-by-line via the open Sefaria API and the load-bearing lines were confirmed VERBATIM: the imitatio Dei opening 'It is fitting for a person to resemble his Creator, and then he will be [configured] in the secret of the Highest Form, [both] in image and likeness' (Hebrew 'הָאָדָם רָאוּי שֶׁיִּתְדַּמֶּה לְקוֹנוֹ...'), the thirteen attributes of mercy anchored to Micah 7:18 ('מִי אֵל כָּמוֹךָ', 'Who is a power like You'), and the first attribute rendered as the King who 'tolerates insult that is inconceivable' and 'does not withhold good from a person for this'. NOTE ON PHRASING: the sample phrase 'who bears iniquity and passes over transgression' is the sense of Micah 7:18 that the chapter expounds, but the Sefaria English of chapter 1 renders the FIRST attribute in terms of tolerating insult ('Who is a power like You', the King who 'tolerates insult'); I have quoted the Sefaria text as it actually reads rather than a phrase not present verbatim, and attributed the 'bears iniquity / passes over transgression' wording to the underlying Micah verse. The Sefaria English is the Sefaria Community Translation (CC0, public domain). Fine (Stanford, 2003) and Sack (Beer Sheva, 1995) are MEDIUM, verified to exist and be on-topic (publisher/library records), not read line-by-line. RELATION TARGETS: cordovero EXISTS (data/figures/judaism/cordovero.json) and is its author; safed EXISTS (data/schools/judaism/safed.json). No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "cordovero",
+      "note": "Tomer Devorah was composed by Moses Cordovero (the Ramak, 1522-1570), the systematizing kabbalist of Safed, and first printed at Venice in 1588; chapter 1 read line-by-line on open Sefaria. The cordovero figure entry EXISTS (data/figures/judaism/cordovero.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "safed",
+      "note": "The treatise belongs to the kabbalistic circle of Safed in which Cordovero taught and systematized the Kabbalah; its imitatio-Dei ethics grounded in the sefirot reflects that milieu. The safed school entry EXISTS (data/schools/judaism/safed.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Moses Cordovero. Tomer Devorah ('The Palm Tree of Deborah'), chapter 1; first printed Venice, 1588. Open Hebrew and English text on Sefaria (English: Sefaria Community Translation, CC0). Cited as the openly-auditable primary text carrying the work's opening doctrine of imitatio Dei and the thirteen attributes of mercy, read line-by-line and verified verbatim: the opening 'It is fitting for a person to resemble his Creator, and then he will be [configured] in the secret of the Highest Form, [both] in image and likeness' ('הָאָדָם רָאוּי שֶׁיִּתְדַּמֶּה לְקוֹנוֹ...'); the thirteen attributes of mercy anchored to Micah 7:18-20 ('מִי אֵל כָּמוֹךָ', 'Who is a power like You'); and the first attribute expounded as the insulted King who 'tolerates insult that is inconceivable' and 'does not withhold good from a person for this', from which the human trait of tolerance is drawn. These lines were read and verified verbatim as the load-bearing text for the imitatio-Dei theme and the thirteen attributes.",
+      "url": "https://www.sefaria.org/Tomer_Devorah.1",
+      "license": "English: Sefaria Community Translation, CC0 (public domain). Openly auditable; chapter 1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford Studies in Jewish History and Culture. Stanford: Stanford University Press, 2003 (ISBN 9780804748261). A scholarly monograph on the sixteenth-century Safed kabbalistic milieu out of which Cordovero and Luria came, treating the ethical and contemplative culture within which works such as Tomer Devorah were produced; cited as the academic-historian lens on the treatise's setting and its author. Verified to exist and be on-topic (Stanford University Press record), not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=2323",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sack, Bracha. Be-Shaarei ha-Kabbalah shel Rabbi Moshe Cordovero ('The Kabbalah of Rabbi Moshe Cordovero'). Beer Sheva: Ben-Gurion University of the Negev Press, 1995. The standard study by a contemporary Jewish scholar of the thought of Moses Cordovero (the Ramak), including his ethical and mystical works; cited as the contemporary-Jewish-scholar lens on Cordovero and on the doctrine that Tomer Devorah expounds. Verified to exist and be on-topic (Ben-Gurion University Press / library records), not read line-by-line.",
+      "url": "https://in.bgu.ac.il/en/heksherim/Pages/books.aspx",
+      "license": "Proprietary; cited for reference (publisher / library record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

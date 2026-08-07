@@ -1,0 +1,71 @@
+{
+  "id": "unitatis-redintegratio",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Unitatis Redintegratio",
+    "original": "Unitatis Redintegratio",
+    "transliteration": "Unitatis Redintegratio",
+    "aliases": [
+      "Decree on Ecumenism",
+      "Decretum de Oecumenismo",
+      "Restoration of Unity"
+    ]
+  },
+  "category": "conciliar decree",
+  "date": {
+    "year": 1964,
+    "note": "Solemnly promulgated by Pope Paul VI on 21 November 1964, during the third period of the Second Vatican Council (1962-1965). The Latin title Unitatis Redintegratio ('Restoration of Unity') is taken from the document's opening words."
+  },
+  "summary": "Unitatis Redintegratio ('Restoration of Unity') is the Decree on Ecumenism of the Second Vatican Council (1962-1965), promulgated by Pope Paul VI on 21 November 1964. It sets out the Catholic Church's commitment to the restoration of unity among all Christians, recognizes elements of sanctification and truth outside the visible Catholic Church, speaks of other Christians as 'separated brethren', and introduces the notion of a 'hierarchy' of truths in Catholic doctrine.",
+  "description": "Unitatis Redintegratio ('Restoration of Unity') is the Second Vatican Council's Decree on Ecumenism, promulgated by Pope Paul VI on 21 November 1964. Its Latin title is drawn from its opening words. The decree marks the Roman Catholic Church's formal commitment to the modern ecumenical movement.\n\nThe decree opens with the statement, in the promulgated English text, that 'The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council.' It observes that among 'our separated brethren also there increases from day to day the movement, fostered by the grace of the Holy Spirit, for the restoration of unity among all Christians', and it adopts the language of 'separated brethren' for Christians not in full communion with the Catholic Church.\n\nA central move of the decree is its recognition of Christian reality outside the visible Catholic Church. The council states that 'some and even very many of the significant elements and endowments which together go to build up and give life to the Church itself, can exist outside the visible boundaries of the Catholic Church', naming among them 'the written word of God; the life of grace; faith, hope and charity, with the other interior gifts of the Holy Spirit, and visible elements too'. On this basis the decree treats other churches and ecclesial communities as bearing genuine elements of sanctification and truth, while presenting this account as the council's own ecclesiological judgment.\n\nIn its second chapter the decree describes the practical shape of Catholic participation in ecumenism, including what it calls, in the text's own words, 'spiritual ecumenism'. It states that 'This change of heart and holiness of life, along with public and private prayer for the unity of Christians, should be regarded as the soul of the whole ecumenical movement, and merits the name, \"spiritual ecumenism.\"'\n\nSection 11 (UR 11) introduces a notion much cited in later ecumenical theology. Addressing how Catholic theologians should present doctrine in dialogue, the council states, 'When comparing doctrines with one another, they should remember that in Catholic doctrine there exists a \"hierarchy\" of truths, since they vary in their relation to the fundamental Christian faith.' This 'hierarchy of truths' has been widely discussed in subsequent Catholic and ecumenical theology; this entry records the phrase as it stands in the promulgated text and attributes it to the council.\n\nAs a decree of the Roman Catholic Church, Unitatis Redintegratio articulates that church's own approach to Christian unity and its own ecclesiology. Other Christian traditions hold differing ecclesiologies and differing accounts of unity, and this entry presents the decree's teaching as the council's own rather than as settled for all Christians, adjudicating nothing.",
+  "editorial_notes": "This entry describes Unitatis Redintegratio on the council's own terms and attributes every doctrinal claim to the document and the Second Vatican Council, adjudicating nothing (neutrality #1, #2, #4, #6). It is a Roman Catholic decree; the entry flags that its ecclesiology and its account of Christian unity are the council's own and that other Christian traditions differ, without ranking any position. CROSS-TRADITION NOTE: the decree speaks about other Christian churches and ecclesial communities as 'separated brethren' with 'elements' of the Church outside the Catholic Church's visible boundaries; those characterizations are recorded here as the council's attributed view of those communities, not as a neutral description of how those communities understand themselves (neutrality #10, #11). WHAT WAS READ VERBATIM: the official English text was read on the open vatican.va page and the following load-bearing phrases were confirmed verbatim and are quoted with the page's own punctuation: the opening 'The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council.'; the 'separated brethren' passage; the recognition that 'some and even very many of the significant elements and endowments ... can exist outside the visible boundaries of the Catholic Church', with the enumeration 'the written word of God; the life of grace; faith, hope and charity, with the other interior gifts of the Holy Spirit, and visible elements too'; the 'spiritual ecumenism' passage ('This change of heart and holiness of life, along with public and private prayer for the unity of Christians, should be regarded as the soul of the whole ecumenical movement, and merits the name, spiritual ecumenism'); and the UR 11 sentence 'When comparing doctrines with one another, they should remember that in Catholic doctrine there exists a \"hierarchy\" of truths, since they vary in their relation to the fundamental Christian faith.' The promulgation date (21 November 1964, 'Given in Rome at St. Peter's') was confirmed on the page; the promulgating pope was Paul VI, though the closing clause on the page does not itself name him. Sources triangulate three lenses per neutrality #8-#9: (b) the primary text, the official English translation open at vatican.va, rated HIGH because the phrases above were read line-by-line and confirmed on the page; (a) an academic historian of the council, John W. O'Malley, What Happened at Vatican II (Belknap/Harvard, 2008), medium, verified to exist and on-topic (not read line-by-line here); and (c) a contemporary Catholic study of the decree and its reception, Edward Idris Cardinal Cassidy, Ecumenism and Interreligious Dialogue: Unitatis Redintegratio, Nostra Aetate (Paulist, 2005), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources. Relations: part_of and adopted_at the second-vatican-council event, which exists in the dataset (data/events/christianity/second-vatican-council.json); the related_to lumen-gentium and nostra-aetate targets also exist in the dataset. No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "second-vatican-council",
+      "note": "Unitatis Redintegratio is one of the decrees of the Second Vatican Council, promulgated on 21 November 1964. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "adopted_at",
+      "target": "second-vatican-council",
+      "note": "Debated, amended, and solemnly promulgated by Pope Paul VI with the council fathers at the Second Vatican Council (1962-1965); recorded as produced by the council. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "lumen-gentium",
+      "note": "A dogmatic constitution of the same council, promulgated the same day (21 November 1964); Lumen Gentium's ecclesiology, including its account of the Church of Christ and of those related to it, is the doctrinal backdrop for the Decree on Ecumenism. The lumen-gentium entry exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "nostra-aetate",
+      "note": "A companion document of the same council (Declaration on the Relation of the Church to Non-Christian Religions, promulgated 28 October 1965); both belong to the council's engagement with those outside the visible Catholic Church, unitatis-redintegratio with other Christians and nostra-aetate with non-Christian religions. The nostra-aetate entry is authored alongside this one."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council. Unitatis Redintegratio: Decree on Ecumenism. Promulgated by Pope Paul VI, 21 November 1964. Official English translation on vatican.va. Read directly and confirmed verbatim: the opening 'The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council.'; the 'separated brethren' passage on the movement 'for the restoration of unity among all Christians'; the recognition that 'some and even very many of the significant elements and endowments which together go to build up and give life to the Church itself, can exist outside the visible boundaries of the Catholic Church', enumerating 'the written word of God; the life of grace; faith, hope and charity, with the other interior gifts of the Holy Spirit, and visible elements too'; the 'spiritual ecumenism' passage naming change of heart and prayer 'the soul of the whole ecumenical movement'; and the UR 11 sentence 'When comparing doctrines with one another, they should remember that in Catholic doctrine there exists a \"hierarchy\" of truths, since they vary in their relation to the fundamental Christian faith.' The promulgation date and promulgating pope were confirmed on the page.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html",
+      "license": "Official English text published openly by the Holy See (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "O'Malley, John W. What Happened at Vatican II. Cambridge, MA: The Belknap Press of Harvard University Press, 2008 (ISBN 9780674031692). A peer-reviewed academic historian's narrative history of the Second Vatican Council from its announcement (1959) to its close (1965), treating the drafting and adoption of the Decree on Ecumenism among the council's documents; cited as the outside-scholarship lens. Verified to exist and be on-topic via the Harvard University Press catalog and journal reviews, not read line-by-line here.",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674031692",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cassidy, Edward Idris. Ecumenism and Interreligious Dialogue: Unitatis Redintegratio, Nostra Aetate. Rediscovering Vatican II. New York: Paulist Press, 2005 (ISBN 9780809143382). A study by a Catholic cardinal formerly president of the Pontifical Council for Promoting Christian Unity, focused on the Decree on Ecumenism and the Declaration on non-Christian religions, treating the decree's central themes (the recognition of separated brethren, elements of the Church outside its visible boundaries, the hierarchy of truths, and spiritual ecumenism) and their reception; cited as the contemporary-Catholic lens. Verified to exist and be on-topic via the Paulist Press catalog, not read line-by-line here.",
+      "url": "https://www.paulistpress.com/Products/4338-0/ecumenism-and-interreligious-dialogue.aspx",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

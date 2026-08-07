@@ -1,0 +1,71 @@
+{
+  "id": "nostra-aetate",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Nostra Aetate",
+    "original": "Nostra Aetate",
+    "transliteration": "Nostra Aetate",
+    "aliases": [
+      "Declaration on the Relation of the Church to Non-Christian Religions",
+      "Declaratio de Ecclesiae Habitudine ad Religiones Non-Christianas",
+      "In Our Time"
+    ]
+  },
+  "category": "conciliar declaration",
+  "date": {
+    "year": 1965,
+    "note": "Solemnly promulgated by Pope Paul VI on 28 October 1965, during the fourth period of the Second Vatican Council (1962-1965). The Latin title Nostra Aetate ('In Our Time') is taken from the document's opening words. It is the shortest of the council's sixteen documents."
+  },
+  "summary": "Nostra Aetate ('In Our Time') is the Declaration on the Relation of the Church to Non-Christian Religions of the Second Vatican Council (1962-1965), promulgated by Pope Paul VI on 28 October 1965. The shortest of the council's documents, it addresses the Catholic Church's stance toward Hinduism, Buddhism, Islam, and, at greatest length in its fourth section, Judaism, where it repudiates the charge of collective Jewish guilt for the death of Christ and condemns antisemitism.",
+  "description": "Nostra Aetate ('In Our Time') is the Second Vatican Council's Declaration on the Relation of the Church to Non-Christian Religions, promulgated by Pope Paul VI on 28 October 1965. Its Latin title is drawn from its opening words. It is the shortest of the council's sixteen documents and is widely treated in the scholarship as a landmark statement of the Roman Catholic Church's posture toward other religions.\n\nThe declaration opens by situating itself in a time when, in the promulgated English text, 'day by day mankind is being drawn closer together, and the ties between different peoples are becoming stronger', prompting 'the Church' to examine 'more closely her relationship to non-Christian religions'; its first section frames the human search for the divine, observing that people look to the various religions for answers to what the text calls 'the unsolved riddles of the human condition'. The second section turns to particular traditions. Of Hinduism the council states that 'in Hinduism, men contemplate the divine mystery and express it through an inexhaustible abundance of myths and through searching philosophical inquiry', and of Buddhism that it 'in its various forms, realizes the radical insufficiency of this changeable world'. These are presented here as the council's own characterizations of those traditions, offered from a Catholic vantage, not as a neutral account of what Hinduism or Buddhism teach.\n\nThe third section addresses Islam. The council's text states, 'The Church regards with esteem also the Moslems', and continues that 'They adore the one God, living and subsisting in Himself; merciful and all-powerful, the Creator of heaven and earth, who has spoken to men', going on to relate this God to the faith of Abraham. (The promulgated English translation on vatican.va uses the spelling 'Moslems'.) This entry records the passage as the council's attributed esteem and characterization; it is not cited as evidence for what Islam itself holds.\n\nThe fourth section (NA 4), on the Jews, is the longest and the most discussed. It affirms 'the bond that spiritually ties the people of the New Covenant to Abraham's stock', acknowledging a shared spiritual patrimony. It then addresses the death of Christ and the question of Jewish responsibility, stating that 'what happened in His passion cannot be charged against all the Jews, without distinction, then alive, nor against the Jews of today'. On this basis the declaration states that the Church 'decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone'. In the scholarship this section is treated as the council's repudiation of the charge of collective and perpetual Jewish guilt for the crucifixion and as a conciliar condemnation of antisemitism.\n\nAs a declaration of the Roman Catholic Church, Nostra Aetate articulates that church's own stance toward the traditions it names. Where the text characterizes Hinduism, Buddhism, Islam, or Judaism, this entry keeps those characterizations explicitly as the council's attributed view, and it does not adjudicate any theological claim or treat the document as a neutral description of the religions it discusses.",
+  "editorial_notes": "CROSS-TRADITION CRUX: Nostra Aetate makes statements about Hinduism, Buddhism, Islam, and Judaism, and this entry presents every such statement as the Second Vatican Council's own attributed view, offered from a Roman Catholic vantage, never as a neutral description of those traditions and never as evidence for what any of them teaches (neutrality #1, #6, #10, #11). The entry does not adjudicate any of the council's characterizations; it records them and attributes them. In particular, NA 3 on Islam and NA 4 on Judaism are the council speaking about those traditions, not those traditions speaking for themselves. WHAT WAS READ VERBATIM: the official English text was read on the open vatican.va page and the following load-bearing phrases were confirmed verbatim and are quoted with the page's own spelling and punctuation: the opening 'day by day mankind is being drawn closer together' and 'her relationship to non-Christian religions' (NA 1); 'the unsolved riddles of the human condition' (NA 1); the Hinduism and Buddhism phrases (NA 2); 'The Church regards with esteem also the Moslems' and 'They adore the one God, living and subsisting in Himself; merciful and all-powerful, the Creator of heaven and earth, who has spoken to men' (NA 3, note the page's spelling 'Moslems'); 'the bond that spiritually ties the people of the New Covenant to Abraham's stock' (NA 4); the deicide-repudiation sentence 'what happened in His passion cannot be charged against all the Jews, without distinction, then alive, nor against the Jews of today' (NA 4); and 'decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone' (NA 4). The promulgation date (28 October 1965) and promulgating pope (Paul VI) were confirmed on the page. Sources triangulate three lenses per neutrality #8-#9: (b) the primary text, the official English translation open at vatican.va, rated HIGH because the phrases above were read line-by-line and confirmed on the page; (a) an academic study of the declaration's genesis, John Connelly, From Enemy to Brother: The Revolution in Catholic Teaching on the Jews, 1933-1965 (Harvard, 2012), medium, verified to exist and on-topic (not read line-by-line here); and (c) a contemporary Catholic study of the declaration and its reception, Edward Idris Cardinal Cassidy, Ecumenism and Interreligious Dialogue: Unitatis Redintegratio, Nostra Aetate (Paulist, 2005), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources. Relations: part_of and adopted_at the second-vatican-council event, which exists in the dataset (data/events/christianity/second-vatican-council.json); the related_to lumen-gentium and unitatis-redintegratio targets also exist in the dataset. No dangling targets in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "second-vatican-council",
+      "note": "Nostra Aetate is one of the three declarations of the Second Vatican Council, promulgated on 28 October 1965. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "adopted_at",
+      "target": "second-vatican-council",
+      "note": "Debated, amended, and solemnly promulgated by Pope Paul VI with the council fathers at the Second Vatican Council (1962-1965); recorded as produced by the council. The second-vatican-council event entity exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "unitatis-redintegratio",
+      "note": "A companion document of the same council (Decree on Ecumenism, promulgated 21 November 1964); both belong to the council's engagement with those outside the visible Catholic Church, unitatis-redintegratio with other Christians and nostra-aetate with non-Christian religions. The unitatis-redintegratio entry is authored alongside this one."
+    },
+    {
+      "type": "related_to",
+      "target": "lumen-gentium",
+      "note": "A dogmatic constitution of the same council (promulgated 21 November 1964) whose treatment of the People of God and of those related to the Church forms part of the context for Nostra Aetate. The lumen-gentium entry exists in the dataset."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Second Vatican Council. Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions. Promulgated by Pope Paul VI, 28 October 1965. Official English translation on vatican.va. Read directly and confirmed verbatim: the opening reference to 'her relationship to non-Christian religions' and that 'day by day mankind is being drawn closer together' (NA 1); 'the unsolved riddles of the human condition' (NA 1); the characterizations of Hinduism ('in Hinduism, men contemplate the divine mystery and express it through an inexhaustible abundance of myths and through searching philosophical inquiry') and Buddhism ('in its various forms, realizes the radical insufficiency of this changeable world') (NA 2); 'The Church regards with esteem also the Moslems. They adore the one God, living and subsisting in Himself; merciful and all-powerful, the Creator of heaven and earth, who has spoken to men' (NA 3, with the page's spelling 'Moslems'); 'the bond that spiritually ties the people of the New Covenant to Abraham's stock' (NA 4); 'what happened in His passion cannot be charged against all the Jews, without distinction, then alive, nor against the Jews of today' (NA 4); and that the Church 'decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone' (NA 4). These phrases are the council's own statements about the traditions named and are recorded as such.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "license": "Official English text published openly by the Holy See (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Connelly, John. From Enemy to Brother: The Revolution in Catholic Teaching on the Jews, 1933-1965. Cambridge, MA: Harvard University Press, 2012 (ISBN 9780674057821). A peer-reviewed academic history of the intellectual and personal genesis of Nostra Aetate's fourth section, tracing how Catholic teaching on the Jews changed in the decades before the council and how NA 4 was drafted and contested; cited as the outside-scholarship lens on the declaration. Verified to exist and be on-topic via the Harvard University Press catalog and scholarly reviews, not read line-by-line here.",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674057821",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cassidy, Edward Idris. Ecumenism and Interreligious Dialogue: Unitatis Redintegratio, Nostra Aetate. Rediscovering Vatican II. New York: Paulist Press, 2005 (ISBN 9780809143382). A study by a Catholic cardinal formerly president of the Pontifical Council for Promoting Christian Unity, treating the council's decree on ecumenism and its declaration on non-Christian religions, including Nostra Aetate's sections on Islam and Judaism and their subsequent reception; cited as the contemporary-Catholic lens. Verified to exist and be on-topic via the Paulist Press catalog, not read line-by-line here.",
+      "url": "https://www.paulistpress.com/Products/4338-0/ecumenism-and-interreligious-dialogue.aspx",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

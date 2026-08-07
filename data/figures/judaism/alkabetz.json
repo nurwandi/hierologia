@@ -1,0 +1,80 @@
+{
+  "id": "alkabetz",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Solomon ben Moses ha-Levi Alkabetz",
+    "original": "שְׁלֹמֹה בֶּן מֹשֶׁה הַלֵּוִי אַלְקַבֵּץ",
+    "transliteration": "Shlomo ben Moshe ha-Levi Alkabetz",
+    "aliases": [
+      "Solomon Alkabetz",
+      "Shlomo Alkabetz",
+      "Solomon ha-Levi Alkabetz",
+      "author of Lekha Dodi",
+      "Shlomo ha-Levi (the acrostic signature of Lekha Dodi)"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "kabbalist",
+    "liturgical poet (payytan)",
+    "member of the Safed mystical circle",
+    "author"
+  ],
+  "summary": "Solomon ben Moses ha-Levi Alkabetz (c. 1500-1576) was a kabbalist and liturgical poet of the sixteenth-century Safed circle, best known as the author of Lekha Dodi ('Come, my beloved'), the hymn welcoming the Sabbath that became a fixed part of the Kabbalat Shabbat liturgy. He was the teacher and brother-in-law of Moses Cordovero, who married Alkabetz's sister, and is associated with the Safed custom of going out into the fields at dusk on Friday to receive the Sabbath as a bride. He also composed kabbalistic and homiletical works, and signed Lekha Dodi with an acrostic spelling his name, Shlomo ha-Levi, in the initial letters of its stanzas.",
+  "description": "Solomon ben Moses ha-Levi Alkabetz, born about 1500 (in the accounts, at Salonica or in its region), settled in Safed (Tzfat) in the Galilee, the sixteenth-century centre of kabbalistic activity, where he belonged to the circle of mystics gathered there in the generations around Joseph Karo, Moses Cordovero, and later Isaac Luria. He is recorded in the tradition as a teacher of Cordovero and as his brother-in-law, Cordovero having married Alkabetz's sister, and he died in Safed about 1576.\n\nAlkabetz is best known as the author of the hymn Lekha Dodi ('Come, my beloved'), composed in Safed and adopted into the Friday-evening liturgy of Kabbalat Shabbat ('receiving the Sabbath'), where it is sung across the Jewish world to the present. Its refrain, confirmed in the open text on Sefaria, runs 'Lekha dodi likrat kallah, penei Shabbat neqabbelah' ('Come, my beloved, to meet the bride; the face of the Sabbath let us receive'), taking up the tradition, traced in the accounts to the Safed kabbalists and to a rabbinic image, of greeting the Sabbath as a bride and a queen: on the custom associated with the circle, the mystics would go out into the fields toward dusk on Friday to receive the Sabbath. The nine body stanzas of the hymn are signed with an acrostic: the initial letters of eight of them spell the poet's name, Shlomo ha-Levi, a signature confirmed verbatim in the Sefaria text (the stanzas open with the letters shin, lamed, mem, he, he, lamed, vav, yod). The hymn weaves together the theme of the Sabbath as bride with the messianic and national longing for the rebuilding of Jerusalem and the ingathering of Israel, addressing the city and the people ('Rouse yourself, rouse yourself... arise, shine, for your light has come'), and this entry reports the hymn's imagery as Alkabetz's composition and as the tradition's, not as claims the editor affirms.\n\nBeyond the hymn, Alkabetz composed a number of kabbalistic and homiletical works, among them commentaries and mystical expositions of biblical books read at the festivals (in the accounts, on the Song of Songs, Ruth, Esther, and other texts), and he is remembered, with Karo, in connection with the practice of nocturnal study-vigils in the Safed circle. Scholarship on the Kabbalat Shabbat liturgy, chiefly the study of Reuven Kimelman, reads Lekha Dodi as a carefully constructed mystical poem whose language of the Sabbath bride carries the kabbalistic theme of the union of the divine with the Shekhinah, and this kabbalistic reading is given here as the interpretation of the poem in the tradition and in the scholarship, described and attributed rather than affirmed.\n\nThis entry presents Solomon Alkabetz on the tradition's own terms as a poet and kabbalist of the Safed circle, the author of Lekha Dodi, and the teacher and brother-in-law of Cordovero, with his poetry and its kabbalistic reading attributed to him and to the scholarship, and the primary hymn text auditable on open Sefaria.",
+  "editorial_notes": "This entry presents Solomon ben Moses ha-Levi Alkabetz (c. 1500-1576) on Judaism's own terms as the Safed kabbalist and liturgical poet who wrote Lekha Dodi, the teacher and brother-in-law of Moses Cordovero (Cordovero married Alkabetz's sister), and a figure associated with the Safed custom of going out into the fields to welcome the Sabbath. NEUTRALITY (neutrality #1, #4): the imagery of the hymn (the Sabbath as bride, the union of the divine with the Shekhinah in the kabbalistic reading) and the mystical practices of the circle are stated as Alkabetz's composition and as the tradition's and scholarship's reading ('reports the hymn's imagery as Alkabetz's composition and as the tradition's, not as claims the editor affirms'; 'given here as the interpretation... described and attributed rather than affirmed'), not endorsed by the editor. SOURCING triangulates per neutrality #8-#9: (b) PRIMARY, open and auditable on Sefaria, READ LINE-BY-LINE: the hymn Lekha Dodi (Sefaria 'Lekha Dodi'), all ten sections read via the Sefaria text API on 2026-07-26; the opening refrain was confirmed verbatim ('Lekha dodi likrat kallah, penei Shabbat neqabbelah'), and the Shlomo ha-Levi acrostic was confirmed by reading the initial letters of the eight body stanzas (shin, lamed, mem, he, he, lamed, vav, yod = Shlomo ha-Levi); the URL https://www.sefaria.org/Lekha_Dodi resolves. (a) academic: Reuven Kimelman, The Mystical Meaning of 'Lekhah Dodi' and 'Kabbalat Shabbat' (Jerusalem: Magnes Press / Los Angeles: Cherub Press, 2003), the standard scholarly study of the hymn, verified to exist and be on-topic (publisher and library records), medium; supplemented by Bracha Sack as a scholar of the Safed kabbalah (her Be-Sha'arei ha-Kabbalah shel Rabbi Moshe Cordovero, Ben-Gurion University Press, 1995, treats the Cordovero-Alkabetz circle), medium. (c) contemporary Jewish scholar on-topic: Lawrence Fine, Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship (Stanford University Press, 2003), for the Safed circle and its practices, medium. NO encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Lekha Dodi text on open Sefaria is rated HIGH because it was read line-by-line and the load-bearing lines (the opening refrain and the Alkabetz acrostic) were confirmed verbatim; the Hebrew is a traditional liturgical text in the public domain. The distinctive kabbalistic READING of the hymn (the Shekhinah symbolism) rests on Kimelman and the secondary scholarship, which are medium (verified to exist and be on-topic, not read line-by-line), so that interpretive layer is honestly secondary; this entry is therefore left at draft, reviewed-eligible. Biographical details (birthplace, exact dates, the list of his other works) are as reported in the scholarship and are approximate. RELATION TARGETS: cordovero exists (data/figures/judaism/cordovero.json, which records the reciprocal edge to alkabetz) and safed exists (data/schools/judaism/safed.json); this is the most-referenced dangling figure, referenced by cordovero, joseph-karo, and safed. lekha-dodi is a DANGLING forward reference to a not-yet-created work entity (flagged; created in this same batch per the build plan).",
+  "lifespan": {
+    "birth": 1500,
+    "death": 1576,
+    "note": "c. 1500-1576 CE (dates approximate). Born about 1500, in the accounts at or near Salonica; settled in Safed (Tzfat) in the Galilee, the sixteenth-century centre of kabbalah, where he belonged to the mystical circle around Joseph Karo and Cordovero. Teacher and brother-in-law of Moses Cordovero (who married Alkabetz's sister). Died in Safed about 1576. Birth and death years are given as commonly reported approximations."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "safed",
+      "note": "Alkabetz belonged to the Safed (Tzfat) circle of kabbalists and poets in the sixteenth century, the centre of kabbalistic activity around Joseph Karo, Cordovero, and later Luria; he is associated with its custom of going out into the fields to welcome the Sabbath. The safed entry exists (data/schools/judaism/safed.json) and references this figure."
+    },
+    {
+      "type": "teacher_of",
+      "target": "cordovero",
+      "note": "Alkabetz was a teacher of Moses Cordovero (the Ramak) and also his brother-in-law, Cordovero having married Alkabetz's sister. The cordovero entry exists (data/figures/judaism/cordovero.json) and records the reciprocal student_of / brother-in-law relation to Alkabetz."
+    },
+    {
+      "type": "related_to",
+      "target": "cordovero",
+      "note": "Beyond the teacher relation, Alkabetz and Cordovero were brothers-in-law within the Safed kabbalistic circle: Cordovero married Alkabetz's sister, and the two are consistently paired in the accounts of the circle. Recorded as a related_to edge because the figure relation enum has no in-law/family type; the cordovero entry exists."
+    },
+    {
+      "type": "articulated",
+      "target": "lekha-dodi",
+      "note": "Alkabetz composed the hymn Lekha Dodi ('Come, my beloved'), adopted into the Kabbalat Shabbat liturgy, signed with an acrostic spelling his name Shlomo ha-Levi in the initial letters of its body stanzas; the hymn was read line-by-line on open Sefaria and its refrain and acrostic confirmed verbatim. Dangling forward reference to a not-yet-created work entity (created in this same batch per the build plan)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Solomon ben Moses ha-Levi Alkabetz. Lekha Dodi ('Come, my beloved'), the hymn for welcoming the Sabbath, composed at Safed in the sixteenth century and adopted into the Friday-evening Kabbalat Shabbat liturgy. Open Hebrew text on Sefaria, cited as the openly-auditable primary text carrying Alkabetz's own composition, read line-by-line (all ten sections): the opening refrain confirmed verbatim, 'Lekha dodi likrat kallah, penei Shabbat neqabbelah' ('Come, my beloved, to meet the bride; the face of the Sabbath let us receive'), and the poet's signature acrostic confirmed by the initial letters of the eight body stanzas, shin-lamed-mem-he-he-lamed-vav-yod, spelling Shlomo ha-Levi. These lines were read and verified verbatim as the load-bearing text for Alkabetz's authorship of the hymn and its Sabbath-bride imagery.",
+      "url": "https://www.sefaria.org/Lekha_Dodi",
+      "license": "Traditional liturgical text; Hebrew in the public domain, openly auditable on Sefaria. All ten sections read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Kimelman, Reuven. The Mystical Meaning of 'Lekhah Dodi' and 'Kabbalat Shabbat'. Jerusalem: Magnes Press (Hebrew University) / Los Angeles: Cherub Press, 2003. The standard scholarly study of the hymn Lekha Dodi and the Kabbalat Shabbat liturgy, reading the poem's language of the Sabbath bride as carrying the kabbalistic theme of the union of the divine with the Shekhinah; cited as the academic lens on the hymn and its author. Verified to exist and be on-topic (Magnes/Cherub Press records; the author, of Brandeis University, is a scholar of Jewish liturgy), not read line-by-line.",
+      "url": "https://www.magnespress.co.il/",
+      "license": "Proprietary; cited for reference.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fine, Lawrence. Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship. Stanford: Stanford University Press, 2003. A scholarly study of the sixteenth-century Safed kabbalistic circle and its practices, including the fellowship, its devotional customs, and the setting in which Alkabetz, Karo, and Cordovero worked; cited as the contemporary-Jewish-scholarship lens on the Safed circle to which Alkabetz belonged. Verified to exist and be on-topic (Stanford University Press record), not read line-by-line.",
+      "url": "https://www.sup.org/books/title/?id=1728",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
