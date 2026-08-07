@@ -6,6 +6,31 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.20.0] - 2026-07-26
+
+Closing the highest-value dangling forward references: all four remaining Second Vatican Council
+documents, plus the works and figures orbiting the Safed, Hasidic, and Lithuanian cluster built in
+the previous two releases. Ten enter `verified` on open primary reads, two honestly `reviewed`. This
+release closes every dangling document of the Second Vatican Council.
+
+### Added
+- **Christianity**: the four remaining Vatican II documents, `nostra-aetate` (the relation to
+  non-Christian religions), `unitatis-redintegratio` (ecumenism), `gaudium-et-spes` (the Church in
+  the modern world), and `dignitatis-humanae` (religious freedom).
+- **Judaism**: the works `shulchan-aruch` (Karo's code), `tomer-devorah` (Cordovero), `lekha-dodi`
+  (Alkabetz's Sabbath hymn), `kedushat-levi` (Levi Yitzchak of Berdichev), `noam-elimelech`
+  (Elimelech of Lizhensk), and `nefesh-ha-chayim` (Chaim of Volozhin); and the figures `alkabetz`
+  and `chaim-of-volozhin`.
+
+### Changed
+- Verified (10): the four Vatican II documents (phrases confirmed verbatim at vatican.va, including
+  the Nostra Aetate repudiation of collective Jewish guilt and Dignitatis Humanae's right to
+  religious freedom), and the six Judaism works (Sefaria primaries read line-by-line). The verified
+  tier is now 113.
+- Reviewed (2), honestly: `alkabetz` and `chaim-of-volozhin`. The open primary verifies one fact each
+  (authorship of Lekha Dodi via its acrostic; the Torah-study ideal in Nefesh ha-Chayim Gate IV.1),
+  but each figure's distinctive interpretive claim rests on secondary scholarship.
+
 ## [0.19.1] - 2026-07-26
 
 Islam verified push (V12): a promotion pass over seven `reviewed` Islam entries whose distinctive
