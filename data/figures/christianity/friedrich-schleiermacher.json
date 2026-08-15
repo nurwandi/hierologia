@@ -1,0 +1,81 @@
+{
+  "id": "friedrich-schleiermacher",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Friedrich Schleiermacher",
+    "original": "Friedrich Daniel Ernst Schleiermacher",
+    "transliteration": "Friedrich Daniel Ernst Schleiermacher",
+    "aliases": [
+      "F. D. E. Schleiermacher",
+      "Friedrich Daniel Ernst Schleiermacher",
+      "the father of modern Protestant theology",
+      "the father of modern liberal theology"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "philosopher",
+    "preacher",
+    "classicist",
+    "translator"
+  ],
+  "summary": "Friedrich Schleiermacher (1768-1834) was a German Reformed theologian, philosopher, and preacher, widely called the father of modern liberal Protestant theology for relocating the ground of religion from doctrine and morality to the immediate self-consciousness he named the feeling of absolute dependence (das schlechthinnige Abhaengigkeitsgefuehl). His On Religion: Speeches to Its Cultured Despisers (1799) and his systematic theology The Christian Faith (1821-22) reshaped Protestant thought and set the terms against which later theologians, above all Karl Barth, defined themselves.",
+  "description": "Friedrich Daniel Ernst Schleiermacher was born in 1768 in Breslau (then in Prussian Silesia) into a Reformed clergy family and was educated among the Moravian Brethren (Herrnhuter) before studying at the University of Halle. He became a Reformed preacher, was associated with the early German Romantic circle in Berlin, later taught at Halle, and from 1810 was a founding professor of theology at the new University of Berlin, where he also served as preacher at Trinity Church. Alongside his theology he was a philosopher, an ethicist, a pioneering theorist of interpretation (hermeneutics), and the translator of Plato into German.\n\nSchleiermacher's early and programmatic work On Religion: Speeches to Its Cultured Despisers (Ueber die Religion: Reden an die Gebildeten unter ihren Veraechtern, 1799) addresses religion's educated critics by arguing that religion is not to be identified with metaphysics or with morality, that is, neither with a system of knowing nor with a code of doing, but has its own distinct province in immediate experience. In John Oman's translation, Schleiermacher writes that religion 'neither seeks like metaphysics to determine and explain the nature of the Universe, nor like morals to advance and perfect the Universe by the power of freedom and the divine will of man,' but is 'neither thinking nor acting, but intuition and feeling'; religion, he says, is 'sense and taste for the Infinite.' This relocation of religion's essence to intuition and feeling (Anschauung und Gefuehl) is the seed of his mature position.\n\nIn his major systematic work The Christian Faith (Der christliche Glaube, first edition 1821-22, revised 1830-31) Schleiermacher grounds the whole of dogmatics in what he calls the feeling of absolute dependence (das schlechthinnige Abhaengigkeitsgefuehl), the immediate self-consciousness in which one is aware of being utterly and unconditionally dependent, an awareness he identifies as the point of contact between the self and God and as the common essence of piety underlying the determinate forms of the Christian religion. On this account Christian doctrines are understood as 'accounts of the Christian religious affections set forth in speech,' that is, as expressions and articulations of this pious self-consciousness as it is determined by the redemption accomplished through Jesus of Nazareth, rather than as speculative statements about God in himself derived independently of that consciousness. Schleiermacher is standardly credited by historians of doctrine with inaugurating modern liberal Protestant theology and modern theological method, and his influence runs broadly through nineteenth- and twentieth-century Protestant thought.\n\nIn the twentieth century Schleiermacher became the chief representative of the liberal theology against which the dialectical or crisis theology of Karl Barth reacted. Barth, trained in the tradition descended from Schleiermacher, broke sharply with it, charging that a theology grounded in religious experience and human self-consciousness risked making God a projection of the human and displacing the priority of God's self-revelation; Barth's critique is recorded here as his attributed position in that reaction, not adjudicated. Schleiermacher's contributions, his location of religion in the feeling of absolute dependence, his understanding of doctrine as the expression of the religious affections, and his founding role in modern liberal theology, are presented as his own attributed positions.",
+  "editorial_notes": "Schleiermacher is described here on Christian and history-of-doctrine terms (neutrality #6). His distinctive theological claims (religion as intuition and feeling; the feeling of absolute dependence as the ground of dogmatics; doctrine as the expression of the religious affections; his paternity of modern liberal Protestant theology) are stated as his attributed positions and not endorsed (neutrality #1, #2). Karl Barth's critique of him is likewise recorded as Barth's attributed reaction, not adjudicated; this mirrors, from Schleiermacher's side, the influenced_by/related edge to Schleiermacher already present in the karl-barth entry, and closes that dangling forward reference. This entry is referenced by karl-barth.\n\nSourcing triangulates the three Christian lenses per neutrality #8: (a) an academic historian of doctrine and biographer (Martin Redeker, Schleiermacher: Life and Thought); (b) the primary corpus, above all On Religion in John Oman's OPEN public-domain translation, read line by line, together with The Christian Faith; (c) a contemporary scholar on Schleiermacher (Jacqueline Marina, Transformation of the Self in the Thought of Schleiermacher). No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: This entry is REVIEWED-eligible, not verified, and only ONE source is rated high. On Religion: Speeches to Its Cultured Despisers in John Oman's 1893 translation was read directly, line by line, in the OPEN, public-domain full text at the Internet Archive (confirmed NOT_IN_COPYRIGHT, freely readable, not borrow-only), and the load-bearing passages were verified verbatim: that religion 'neither seeks like metaphysics to determine and explain the nature of the Universe, nor like morals to advance and perfect the Universe... It is neither thinking nor acting, but intuition and feeling,' and that religion is 'sense and taste for the Infinite.' On the strength of that direct reading the On Religion source is rated HIGH and is verified-eligible for the claims it backs (religion located in intuition and feeling, distinguished from metaphysics and morals). IMPORTANTLY, Schleiermacher's most distinctive single formula, the feeling of absolute dependence (das schlechthinnige Abhaengigkeitsgefuehl), belongs to The Christian Faith section 4, whose only standard English translation (Mackintosh and Stewart, 1928) is a proprietary, copyright-restricted (borrow-only) text that was NOT read line by line for this entry; that claim therefore rests on the proprietary translation together with secondary scholarship (Redeker, Marina) and is deliberately kept honest: The Christian Faith is rated MEDIUM, not high, and this entry is not promoted past reviewed on the strength of that formula. Redeker and Marina are rated MEDIUM: verified to exist and be on-topic via publisher records, not read line by line. Dates 1768-1834 are secure and standardly reported. Relation target karl-barth exists in the dataset; liberal-theology and university-of-berlin are dangling forward references to not-yet-created entities, flagged in their edges.",
+  "lifespan": {
+    "birth": 1768,
+    "death": 1834,
+    "note": "1768-1834 CE; born at Breslau in Prussian Silesia, educated among the Moravian Brethren and at Halle, preacher and Romantic-circle figure in Berlin, professor at Halle and then a founding professor of theology at the University of Berlin from 1810, where he was also preacher at Trinity Church; died at Berlin in 1834. Dates are secure and standardly reported in the scholarship."
+  },
+  "relations": [
+    {
+      "type": "influenced",
+      "target": "liberal-theology",
+      "note": "Schleiermacher is standardly credited by historians of doctrine as the father of modern liberal Protestant theology, for grounding dogmatics in the feeling of absolute dependence and understanding doctrine as the expression of the religious affections; his influence runs broadly through nineteenth- and twentieth-century Protestant thought. Attributed as his contribution and its reception, not endorsed. Dangling forward reference; liberal-theology is not yet a separate entry."
+    },
+    {
+      "type": "related_to",
+      "target": "karl-barth",
+      "note": "In the twentieth century Schleiermacher became the chief representative of the liberal theology against which Karl Barth's dialectical/crisis theology reacted; Barth, trained in the tradition descended from Schleiermacher, broke sharply with it, charging that grounding theology in religious experience risked displacing God's self-revelation. Recorded as Barth's attributed reaction, not adjudicated; mirrors the edge to friedrich-schleiermacher in the karl-barth entry and closes that forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "university-of-berlin",
+      "note": "Schleiermacher was a founding professor of theology at the newly established University of Berlin from 1810 and served as preacher at Trinity Church; recorded as a matter of historical fact. Dangling forward reference; university-of-berlin is not yet a separate entry."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Schleiermacher, Friedrich. On Religion: Speeches to Its Cultured Despisers (Ueber die Religion: Reden an die Gebildeten unter ihren Veraechtern, 1799). Translated by John Oman. London: Kegan Paul, Trench, Truebner, 1893. Primary text, read directly line by line in the open full text. Load-bearing passages verified verbatim from the Second Speech ('The Nature of Religion'): religion 'neither seeks like metaphysics to determine and explain the nature of the Universe, nor like morals to advance and perfect the Universe by the power of freedom and the divine will of man. It is neither thinking nor acting, but intuition and feeling'; and 'Religion therefore is sense and taste for the Infinite.'",
+      "url": "https://archive.org/details/onreligionspeech00schluoft",
+      "license": "Public domain (confirmed NOT_IN_COPYRIGHT at the Internet Archive); the 1799 German original and the 1893 Oman English translation are both out of copyright. Read line by line in the open full text.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Schleiermacher, Friedrich. The Christian Faith (Der christliche Glaube nach den Grundsaetzen der evangelischen Kirche im Zusammenhange dargestellt, 1st ed. 1821-22, 2nd ed. 1830-31). English translation of the second German edition edited by H. R. Mackintosh and J. S. Stewart. Edinburgh: T. and T. Clark, 1928. Primary text; the mature systematic work in which Schleiermacher grounds dogmatics in the feeling of absolute dependence (das schlechthinnige Abhaengigkeitsgefuehl, section 4) and defines Christian doctrines as accounts of the Christian religious affections set forth in speech. The standard English translation is proprietary and copyright-restricted (borrow-only) and was NOT read line by line for this entry; cited as the primary corpus, verified to exist and be on-topic.",
+      "url": "https://archive.org/details/christianfaithen0000frie",
+      "license": "Underlying 1830-31 German original public domain; the Mackintosh and Stewart 1928 English translation is proprietary and access-restricted (borrow-only). Cited for reference, not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Redeker, Martin. Schleiermacher: Life and Thought. Translated by John Wallhausser. Philadelphia: Fortress Press, 1973. A standard scholarly biography and study of Schleiermacher's life, context, and theology, treating the development from On Religion to The Christian Faith and the feeling of absolute dependence. Academic history-of-doctrine / biography lens.",
+      "url": "https://archive.org/details/schleiermacherli0000rede",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Marina, Jacqueline. Transformation of the Self in the Thought of Schleiermacher. Oxford: Oxford University Press, 2008. A contemporary scholarly monograph on Schleiermacher's philosophy and theology, including his account of the feeling of absolute dependence and the religious self-consciousness. Contemporary-scholar lens; Marina is also editor of The Cambridge Companion to Schleiermacher (Cambridge University Press, 2005).",
+      "url": "https://global.oup.com/academic/product/transformation-of-the-self-in-the-thought-of-schleiermacher-9780199206377",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

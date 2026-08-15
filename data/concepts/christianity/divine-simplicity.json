@@ -1,0 +1,79 @@
+{
+  "id": "divine-simplicity",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Divine Simplicity",
+    "original": "simplicitas Dei",
+    "transliteration": "simplicitas Dei",
+    "aliases": [
+      "the simplicity of God",
+      "divina simplicitas",
+      "God's simpleness",
+      "the doctrine of divine simplicity (DDS)"
+    ]
+  },
+  "category": "doctrine of God",
+  "summary": "Divine simplicity is the classical-theist doctrine that God is not composed of parts of any kind, that God's attributes are not really distinct from one another or from God's essence, and that God is identical with God's own act of existence. In its Thomistic articulation, God is pure actuality (actus purus) and subsistent being itself (ipsum esse subsistens), so that in God, unlike in every creature, essence and existence are one and the same.",
+  "description": "Divine simplicity holds that God is 'simple' in the technical sense of being wholly non-composite: God is not made up of physical parts, nor of matter and form, nor of a substance and its accidents, nor of a genus and a specifying difference, nor, most pointedly, of an essence (what God is) and an existence (that God is) that are really distinct in God. On this doctrine God's attributes (goodness, wisdom, power, and the rest) are not parts or properties added to a divine substance but are each identical with the one divine essence and, in reality though not in our manner of conceiving, with one another; the plurality lies in our concepts and language, not in God. The doctrine is a shared inheritance of patristic and medieval Christian theology and is developed with particular rigour in the scholastic tradition.\n\nThe classic Christian articulation is Thomas Aquinas's, in the Summa Theologiae, First Part, Question 3, 'On the Simplicity of God' (De Dei simplicitate), an eight-article treatment that denies successively that God is a body, that God is composed of matter and form, that God is distinct from his own essence or nature, that in God essence and existence differ, that God belongs to a genus, that any accident is in God, and that God enters into composition with anything, concluding that God is 'altogether simple.' Article 4 argues that God is his own existence: reasoning that the first being must be wholly in act and in no way in potentiality, Aquinas concludes, in the Fathers of the English Dominican Province translation of the open text, 'Therefore God is His own existence, and not merely His own essence.' From this identity of essence and existence in God, expressed in the formula ipsum esse subsistens (subsistent being itself), and from God as actus purus (pure act, with no admixture of potency), the wider doctrine follows, so that Article 7 concludes that 'God is altogether simple.' Aquinas presents the doctrine as drawn from and consonant with scripture and the Fathers: within Question 3 he appeals to Augustine's De Trinitate, where God is said to be truly and simply what he has, so that for God to be is the same as to be wise or good, and to Hilary of Poitiers. (The divine name given at Exodus 3:14, 'I AM WHO I AM', read in the tradition to identify God with being itself, is Aquinas's warrant for God as subsistent being elsewhere in the Summa, at Questions 2 and 13, rather than within the simplicity question itself.)\n\nDivine simplicity is standardly identified by historians of doctrine as a shared concern of classical theism across the Abrahamic traditions, and this entry records those cross-tradition parallels as attributed comparisons, not as adjudications. In Islamic theology (kalam and falsafa) the oneness of God (tawhid) and God's incomparability and transcendence (tanzih) are held to exclude composition and multiplicity in the divine, and the status of the divine attributes (the sifat), whether they are identical with the divine essence, additional to it, or to be affirmed without asking how (bila kayf), is the subject of a long internal debate among the Mu'tazila, the Ash'ari, the Maturidi, and the Athari/traditionist positions; the shared question is how God can be named by many attributes while remaining one and uncomposed, and the traditions and their internal schools answer it differently. In Jewish theology, Moses Maimonides in the Guide of the Perplexed argues from God's unity and necessary existence that God is one in every respect with no plurality or anything superadded to the divine essence, so that the attributes predicated of God in scripture must be understood either as attributes of action or by way of negation, and that God's existence is not superadded to but identical with the divine essence. Within Christianity itself the doctrine is contested at its edges: the Eastern Orthodox essence-energies distinction, given its definitive form by Gregory Palamas, draws a distinction (held by its adherents to be a distinction and not a division) between the unknowable divine essence and the uncreated divine energies in which creatures participate, and Palamite theology presents this distinction as compatible with, or as the proper qualification of, God's simplicity, whereas the Western scholastic tradition associated with Aquinas has often regarded a real distinction between essence and energies as in tension with a strong doctrine of simplicity. This entry states that difference as an attributed contrast between the traditions and does not adjudicate it.",
+  "editorial_notes": "This entry presents divine simplicity primarily in its classical Christian and specifically Thomistic articulation, and reports the cross-tradition parallels (Islamic tawhid/tanzih and the debate over the divine attributes; Jewish simplicity in Maimonides) and the intra-Christian qualification (the Palamite essence-energies distinction) as ATTRIBUTED shared-question comparisons, never as rulings that the traditions teach the same thing or that any account is correct (neutrality #1, #2, #10). Each cross-tradition note states the shared question (how God can be one and uncomposed while named by many attributes) and the difference, and ranks no answer. The Palamite/Thomist difference is stated as an attributed doctrinal contrast between East and West and is explicitly not adjudicated; it mirrors, from the simplicity side, the contrast already recorded in the essence-energies-distinction entry, which forward-references this entry. This entry is referenced by essence-energies-distinction (a contrasts_with edge) and closes that dangling relation.\n\nSourcing triangulates the three Christian lenses per neutrality #8: (a) an academic historian/philosopher of doctrine (Peter Weigel, Aquinas on Simplicity, a scholarly monograph on the foundations of the doctrine); (b) the primary corpus, above all Aquinas, Summa Theologiae Ia q.3, read line by line in the OPEN New Advent text, together with the scriptural and patristic warrants Aquinas himself adduces (Exodus 3:14; Augustine, De Trinitate); (c) a contemporary theologian on the topic (James E. Dolezal, God Without Parts). The cross-tradition comparisons are sourced to that tradition's own voice or scholarship, not to one tradition's polemic about the other (neutrality #11): the Islamic parallel is handled through the existing tanzih and tawhid entries and the standard framing of the sifat debate, and the Jewish parallel is anchored in Maimonides' Guide of the Perplexed I.57 (an openly available primary text). No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: Aquinas, Summa Theologiae Ia q.3 is rated HIGH. It was read article by article in the OPEN, freely readable New Advent text (https://www.newadvent.org/summa/1003.htm, Fathers of the English Dominican Province translation, underlying Latin public domain), and the two load-bearing conclusions were verified verbatim: Article 4, 'Therefore God is His own existence, and not merely His own essence,' and Article 7, that God 'is altogether simple.' On the strength of that direct reading the primary source is verified-eligible. The Maimonides Guide I.57 source is rated MEDIUM: it is openly available and on-topic and is cited only for the attributed Jewish parallel, not read exhaustively for this entry. Weigel and Dolezal are rated MEDIUM: verified to exist and be on-topic via publisher records, not read line by line. Relation targets aquinas, essence-energies-distinction, tanzih, tawhid, and maimonides all exist in the dataset; none is dangling. Birth/death and dating of Aquinas are handled in his own figure entry, not repeated here.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "aquinas",
+      "note": "Thomas Aquinas gives the doctrine its classic Christian articulation in Summa Theologiae Ia q.3, 'On the Simplicity of God,' concluding that in God essence and existence are one (God as ipsum esse subsistens and actus purus) and that God is altogether simple. Attributed to Aquinas as his articulation; the doctrine itself is older and shared."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "essence-energies-distinction",
+      "note": "The Eastern Orthodox distinction between the divine essence and the uncreated energies, given definitive form by Gregory Palamas, is presented by its holders as compatible with, or a qualification of, divine simplicity, while the Western scholastic (Thomist) tradition has often regarded a real distinction between essence and energies as in tension with a strong doctrine of simplicity (God as actus purus). Stated as an attributed doctrinal contrast between the traditions, not adjudicated; mirrors the contrasts_with edge in the essence-energies-distinction entry and closes its forward reference."
+    },
+    {
+      "type": "compares_with",
+      "target": "tanzih",
+      "note": "Shared question, not shared answer: Islamic tanzih (God's incomparability and transcendence) and tawhid (God's oneness) are likewise held to exclude composition and multiplicity in the divine, and the status of the divine attributes (the sifat), whether identical with the essence, additional to it, or affirmed without asking how (bila kayf), is debated among the Mu'tazila, Ash'ari, Maturidi, and Athari positions. Christian divine simplicity and Islamic tanzih both address how God can be one and uncomposed while named by many attributes; their answers differ and are not ranked or equated here (neutrality #10, #11)."
+    },
+    {
+      "type": "related_to",
+      "target": "maimonides",
+      "note": "Attributed Jewish parallel: Moses Maimonides, in the Guide of the Perplexed (I.57), argues from God's unity and necessary existence that God is one in every respect with nothing superadded to the divine essence, that God's existence is identical with the divine essence, and that the attributes of God must be read as attributes of action or by negation. Recorded as a shared classical-theist concern for divine simplicity across traditions, stated as Maimonides' position and not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 1225,
+    "note": "The doctrine has patristic and biblical roots (read by the tradition into Exodus 3:14 and developed by Augustine and others) and is a shared inheritance of classical theism; its definitive Christian scholastic articulation is Thomas Aquinas's Summa Theologiae Ia q.3 (composed c. 1265-1268). The start year (c. 1225, Aquinas's birth) is a conventional anchor for that articulation rather than the origin of the doctrine, which is older; no end date is asserted, the doctrine remaining debated in contemporary theology."
+  },
+  "sources": [
+    {
+      "citation": "Thomas Aquinas. Summa Theologiae, First Part (Prima Pars), Question 3, 'On the Simplicity of God' (De Dei simplicitate), articles 1-8. Translated by the Fathers of the English Dominican Province. Primary text, read article by article in the open New Advent edition. Load-bearing conclusions verified verbatim: Article 4, 'Whether essence and existence are the same in God,' concludes 'Therefore God is His own existence, and not merely His own essence' (reasoning that the first being must be wholly in act and in no way in potentiality); Article 7, 'Whether God is altogether simple,' concludes that God 'is altogether simple.' Within Question 3 the patristic warrants read on the page are Augustine's De Trinitate and Hilary of Poitiers; the Exodus 3:14 divine-name warrant appears elsewhere in the Summa (Questions 2 and 13), not in this question.",
+      "url": "https://www.newadvent.org/summa/1003.htm",
+      "license": "Underlying thirteenth-century Latin public domain; Fathers of the English Dominican Province translation out of copyright. Freely readable line by line at New Advent.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Moses Maimonides. The Guide of the Perplexed (Dalalat al-ha'irin / Moreh Nevukhim), Book I, chapter 57, 'On the Identity of the Essence of God and His Attributes.' Primary text (Jewish tradition), cited for the attributed cross-tradition parallel: Maimonides argues that God is one in every respect with nothing superadded to the divine essence, that God's necessary existence is identical with (not superadded to) the divine essence, and that the divine attributes must be understood as attributes of action or by way of negation. Cited for the shared classical-theist concern for divine simplicity, not read exhaustively for this entry.",
+      "url": "https://www.ccel.org/ccel/maimonides/guide/guide.toc.html",
+      "license": "Underlying medieval text public domain; the Michael Friedlander English translation hosted at CCEL is out of copyright and freely readable.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Weigel, Peter. Aquinas on Simplicity: An Investigation into the Foundations of His Philosophical Theology. Studies in Philosophy and the History of Philosophy. Oxford and Bern: Peter Lang, 2008. A scholarly monograph on the metaphysical foundations and coherence of Aquinas's doctrine of divine simplicity (actus purus, the identity of essence and existence, ipsum esse subsistens). Academic history-of-doctrine / philosophical-theology lens.",
+      "url": "https://www.peterlang.com/document/1053447",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Dolezal, James E. God Without Parts: Divine Simplicity and the Metaphysics of God's Absoluteness. Eugene, OR: Pickwick Publications (Wipf and Stock), 2011. A contemporary systematic-theological defence and exposition of divine simplicity, treating God as ipsum esse subsistens and actus purus and the identity of the divine attributes with the divine essence. Contemporary-theologian lens; cited for the contemporary articulation of the doctrine, its own claims attributed to its holders and not endorsed here.",
+      "url": "https://wipfandstock.com/9781608993468/god-without-parts/",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

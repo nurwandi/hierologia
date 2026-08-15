@@ -1,0 +1,63 @@
+{
+  "id": "church-dogmatics",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Church Dogmatics",
+    "original": "Kirchliche Dogmatik",
+    "transliteration": "Kirchliche Dogmatik",
+    "aliases": [
+      "Die Kirchliche Dogmatik",
+      "KD",
+      "CD"
+    ]
+  },
+  "category": "systematic theology (dogmatics)",
+  "date": {
+    "year": 1932,
+    "note": "Issued in numerous part-volumes between 1932 (when the first half-volume, I/1, appeared) and 1967, and left unfinished at Karl Barth's death in 1968. The German original (Die Kirchliche Dogmatik) comprises thirteen part-volumes across four volumes; the standard English translation was published by T. & T. Clark (Edinburgh) between 1936 and 1977. The year 1932 marks the first part-volume, not a single date of completion."
+  },
+  "summary": "The Church Dogmatics (Kirchliche Dogmatik) is the unfinished multi-volume systematic theology of the Swiss Reformed theologian Karl Barth, issued in thirteen part-volumes between 1932 and 1967 and left incomplete at his death. Organized around the self-revelation of God in Jesus Christ, it treats dogmatics as the church's critical self-examination of its talk about God, takes the Word of God as the ground and object of theology, and recasts the doctrine of election christologically; it is widely regarded as a central work of twentieth-century Protestant theology.",
+  "description": "The Church Dogmatics (Die Kirchliche Dogmatik) is the major work of Karl Barth (1886-1968), the Swiss Reformed theologian widely treated as the most influential Protestant theologian of the twentieth century. Barth issued it in a long sequence of part-volumes from 1932 onward and continued working on it until near his death in 1968, leaving it unfinished; the German original runs to thirteen part-volumes grouped into four volumes (I, the doctrine of the Word of God; II, the doctrine of God; III, the doctrine of creation; IV, the doctrine of reconciliation), with the projected fifth volume on redemption never written. The standard English translation, edited by G. W. Bromiley and T. F. Torrance, was published by T. & T. Clark between 1936 and 1977.\n\nIn its opening volume Barth defines the scope and method of the enterprise. He presents dogmatics not as a free speculative system but as a function of the church: the discipline by which the church critically examines and measures its own proclamation, its talk about God, against the standard of the Word of God to which it is bound. On this account theology is a churchly and a critical activity, a self-examination rather than a construction of general truths about religion. Barth orders the whole around the Word of God, which he presents in a threefold form (revealed in Jesus Christ, written in Scripture, and preached in the church's proclamation), and treats the Word of God as at once the ground and the object of theology, so that God is known only where God gives himself to be known in his self-revelation and not by way of an independent natural theology; his sharp rejection of natural theology and of analogia entis in favor of an analogy of faith is a defining and much-discussed feature of the work.\n\nIn the second volume, in the doctrine of God, Barth undertakes the christological recasting of the doctrine of election for which the Church Dogmatics is especially known. Against the Reformed tradition of a double decree fixing the eternal destinies of individuals apart from Christ, Barth presents election as God's gracious self-determination in Jesus Christ: Jesus Christ is understood as both the electing God and the elected human being, the one in whom God chooses fellowship with humanity and takes rejection upon himself. Scholarship treats this revision as among Barth's most distinctive and debated moves. The fourth volume, on reconciliation, develops his christocentric account of the atonement and of the covenant of grace at great length and is which some scholars regard as the summit of the work. Across its volumes the Church Dogmatics is marked by close engagement with Scripture, the Reformed and wider confessional heritage, and the history of doctrine, and by its concentration of theology on Jesus Christ. This entry attributes these positions (the definition of dogmatics as churchly self-examination, the theology of the Word of God, the rejection of natural theology, and the christological doctrine of election) to Barth and to the work, and records the work's standing in twentieth-century Protestant theology as a matter of scholarly report, without endorsing or adjudicating its claims.",
+  "editorial_notes": "This entry describes the Church Dogmatics on Christian terms (neutrality #1, #4, #6) and attributes its theological claims to Karl Barth and to the work itself. Barth's definition of dogmatics as the church's self-examination of its proclamation, his theology of the Word of God as ground and object of theology, his rejection of natural theology, and his christological recasting of election are stated as his attributed positions, not endorsed or adjudicated; the work's centrality to twentieth-century Protestant theology is reported as scholarly assessment, not as the editor's verdict.\n\nHONESTY / status and confidence: this entry is DRAFT and, on the sourcing available, tops out at REVIEWED rather than verified. The Church Dogmatics text itself is a twentieth-century PROPRIETARY translation (T. & T. Clark, ed. Bromiley and Torrance) and is NOT openly readable line-by-line; its load-bearing passages were not read verbatim for this entry, so the work itself is cited as the primary corpus, verified to exist and be on-topic, and rated MEDIUM. No open primary was invented to raise this. One genuinely open Barth primary bearing on the same author and the christocentric shape of his theology, the Barmen Declaration (1934, of which Barth was principal drafter), was read directly and is rated HIGH, but it is a short confessional text and not the Church Dogmatics; it is cited only for the christocentric concentration of revelation continuous with the Dogmatics, not as evidence for the specific volume-by-volume content, which rests on the secondary studies. Because the central textual claims rest on proprietary text plus secondary scholarship rather than a directly read open primary of the work, verified status is not claimed.\n\nSources triangulate the three Christian lenses (neutrality #8): (a) an academic-historical study, Bruce L. McCormack, Karl Barth's Critically Realistic Dialectical Theology (Clarendon Press, 1995), medium, verified to exist and on-topic; (b) the primary corpus, the Church Dogmatics itself (T. & T. Clark translation), medium, plus the open Barmen Declaration (1934), high, read directly; (c) a contemporary theologian, the essays in John Webster (ed.), The Cambridge Companion to Karl Barth (Cambridge University Press, 2000), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: karl-barth exists in the dataset and already references this work (data/figures/christianity/karl-barth.json). No dangling relation targets in this entry.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "karl-barth",
+      "note": "Written by the Swiss Reformed theologian Karl Barth (1886-1968) and left unfinished at his death; issued in thirteen part-volumes between 1932 and 1967. karl-barth exists in the dataset and already references this work."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Barth, Karl. Church Dogmatics (Die Kirchliche Dogmatik). Edited by G. W. Bromiley and T. F. Torrance. Edinburgh: T. & T. Clark, 1936-1977 (German Kirchliche Dogmatik, 4 volumes in 13 part-volumes, 1932-1967). Volume I, the doctrine of the Word of God (dogmatics as the church's self-examination of its proclamation; the threefold Word of God as ground and object of theology; the rejection of natural theology); Volume II, the doctrine of God (the christological recasting of election, Jesus Christ as both the electing God and the elected human being); Volume IV, the doctrine of reconciliation. Cited as the primary corpus for the work's scope, method, and doctrine. A twentieth-century proprietary translation NOT read line-by-line for the load-bearing passages; verified to exist and be on-topic.",
+      "url": "https://www.abebooks.com/9780567058096/Church-Dogmatics-14-Volume-Set-0567058093/plp",
+      "license": "Proprietary translation; cited for reference (14-volume T. & T. Clark set, ISBN 9780567058096). Load-bearing passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "McCormack, Bruce L. Karl Barth's Critically Realistic Dialectical Theology: Its Genesis and Development, 1909-1936. Oxford: Clarendon Press, 1995 (ISBN 9780198269564). The principal modern intellectual-biographical study of the development of Barth's theology from his liberal training through the early Church Dogmatics, treating the emergence of the theology of the Word of God and the analogy of faith; cited as the academic-historical lens. Verified to exist and be on-topic (Oxford University Press / Clarendon Press; review in Scottish Journal of Theology), not read line-by-line.",
+      "url": "https://www.abebooks.com/9780198269564/Karl-Barths-Critically-Realistic-Dialectical-0198269560/plp",
+      "license": "Proprietary; cited for reference (Clarendon Press, ISBN 9780198269564).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Webster, John, ed. The Cambridge Companion to Karl Barth. Cambridge Companions to Religion. Cambridge: Cambridge University Press, 2000 (ISBN 9780521585606). A collection of essays by leading Barth scholars on the major features of Barth's theology, including the doctrine of the Word of God, the doctrine of election, and the shape of the Church Dogmatics, and on his place in twentieth-century Christian thought; cited as the contemporary-theological lens. Verified to exist and be on-topic (Cambridge University Press; review in Theology Today), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-karl-barth/903C95E481A1E90DC40342B0E50FB616",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Theological Declaration of Barmen, 1934. English translation, Thesis 1, confessing 'Jesus Christ, as he is attested to us in Holy Scripture, is the one Word of God whom we have to hear, and whom we have to trust and obey in life and in death,' and its rejection of the false doctrine that the Church could recognize 'other events, powers, historic figures and truths' as God's revelation. Read directly for this entry. Barth was the principal drafter; cited as an open Barth primary for the christocentric concentration of revelation continuous with the Church Dogmatics, not as evidence for the volume-by-volume content of the Dogmatics itself.",
+      "url": "https://www.ucc.org/beliefs_barmen-declaration/",
+      "license": "Confessional text of 1934; the quoted passages are short and attributed. Open and publicly available.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

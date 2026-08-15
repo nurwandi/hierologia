@@ -1,0 +1,83 @@
+{
+  "id": "isserles",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Moses Isserles",
+    "original": "מֹשֶׁה איסֶּרְלֶש",
+    "transliteration": "Moshe Isserles",
+    "aliases": [
+      "Moses Isserles of Krakow",
+      "Moshe Isserlis",
+      "the Rema",
+      "the ReMA (Rabbi Moshe Isserles)",
+      "Moses ben Israel Isserles",
+      "author of the Mappah and the Darkei Moshe"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "halakhist (posek) and codifier of Jewish law",
+    "talmudist",
+    "rosh yeshiva (head of the Krakow yeshiva)",
+    "author"
+  ],
+  "summary": "Moses Isserles of Krakow (the Rema, c. 1530-1572) is recorded in the tradition as the preeminent Ashkenazi halakhic authority of the sixteenth century. His glosses on Joseph Karo's Shulchan Aruch, collectively titled the Mappah ('the Tablecloth'), recorded Ashkenazi custom (minhag) where it diverged from Karo's largely Sephardic rulings, and the combined work, Karo's 'Set Table' with Isserles' 'Tablecloth', came to be regarded across both major branches of the Jewish world as the authoritative code of Jewish law.",
+  "description": "Moses Isserles (c. 1530-1572), known by the acronym the Rema (ReMA, Rabbi Moshe Isserles), was a rabbi and halakhic authority in Krakow, where he headed a yeshiva and served on the rabbinical court. The tradition records him as the leading posek of Ashkenazi Jewry in his generation, the counterpart in the Ashkenazi world to Joseph Karo (1488-1575) in the Sephardic. This entry presents his standing and his rulings as attributed features of his work and of the tradition's regard for it, not as claims the editor affirms.\n\nIsserles' principal halakhic project began as an independent one. He composed the Darkei Moshe ('the Ways of Moses'), a commentary on the Arbaah Turim (the 'Tur') of Jacob ben Asher, tracing the law and its authorities much as Karo had done in his own Tur-commentary, the Beit Yosef. When Karo's Beit Yosef and then his digest the Shulchan Aruch appeared, Isserles recast his work: rather than issue a competing code, he wrote glosses to be printed alongside Karo's text, recording where Ashkenazi practice and the later authorities (the Acharonim) differed from the rulings Karo had drawn from the largely Sephardic tradition. These glosses, printed interwoven with the Shulchan Aruch from the Krakow editions onward, are collectively titled the Mappah ('the Tablecloth'), set over Karo's 'Set Table'. Through them the combined work spoke to both branches of practice at once, the base text carrying Karo's ruling and the gloss the Ashkenazi, and it came in the reception of the tradition to be treated as the authoritative code of halakha across both communities.\n\nA guiding principle attributed to Isserles is deference to established Ashkenazi custom (minhag Ashkenaz) and to the later authorities where they had settled a practice: where Karo followed his pillars among the earlier authorities (Alfasi, Maimonides, and Asher ben Yehiel), Isserles frequently ruled with the minhag and the Acharonim as received among Ashkenazim. The character of his glossing can be seen in the very first ruling of the code. To Karo's opening charge at Orach Chayim 1:1, that one should 'strengthen himself like a lion to get up in the morning to serve his creator', Isserles' opening Hagah (gloss) adds the verse 'I have set the Lord always before me' (shiviti, Psalm 16:8), calling it 'a great principle in the Torah and among the virtues of the righteous who walk before God', and it develops the theme of the constant awareness of God with reference to Maimonides' Guide of the Perplexed (III:52). This gloss, read line-by-line on the open text of Sefaria, is the openly-auditable primary that carries Isserles' authorship of the Mappah and its function in his own words.\n\nIsserles' relationship to Karo is recorded as complementary and divergent at once: the scholarship records no personal meeting between the two, though they corresponded on halakhic questions, and Isserles' glosses both complete Karo's code for the Ashkenazi reader and mark, siman by siman, where Ashkenazi ruling parts from the Sephardic base text. The difference in the two rulings, Sephardic in the base and Ashkenazi in the gloss, is described here as a difference of received practice between communities, not ranked or adjudicated by the editor. Isserles was also a student of philosophy and kabbalah and wrote beyond halakha, but he is remembered above all as the author of the Mappah, the layer that made Karo's Shulchan Aruch a code for the whole Jewish world.",
+  "editorial_notes": "This entry presents Moses Isserles (the Rema, c. 1530-1572) on Judaism's own terms as the preeminent Ashkenazi halakhic authority of the sixteenth century, author of the Darkei Moshe (his commentary on the Tur) and above all of the Mappah glosses on Karo's Shulchan Aruch, and his principle of following minhag Ashkenaz and the later authorities (neutrality #1, #4, #7). NEUTRALITY: the authoritative standing of the combined Shulchan-Aruch-with-Mappah is stated as the tradition's own regard ('came in the reception of the tradition to be treated as the authoritative code'), NOT ruled binding in the editor's voice; the Ashkenazi/Sephardi difference is DESCRIBED as a difference of received communal practice (base text Sephardic, gloss Ashkenazi), explicitly 'not ranked or adjudicated by the editor'. SOURCING triangulates per neutrality #8-#9: (b) PRIMARY, open and auditable on Sefaria, READ LINE-BY-LINE: the Isserles Hagah (gloss) embedded in Shulchan Arukh, Orach Chayim 1:1, whose opening gloss was confirmed VERBATIM via the Sefaria text API on 2026-07-26, citing 'שויתי ה' לנגדי תמיד' ('I have set the Lord always before me', Psalm 16:8) as 'כלל גדול בתורה' ('a great principle in the Torah') with reference to Maimonides' Guide III:52 ('מורה נבוכים ח\"ג פ' נ\"ב'). This IS the Mappah, so the same open primary carries BOTH this figure entry and the mappah work entry, and it is the load-bearing high-confidence source. (a) academic: Edward Fram, 'The Codification of Jewish Law on the Cusp of Modernity', and the studies of the Rema by Asher Siev; (c) contemporary Jewish scholar on-topic: Elchanan Reiner on Ashkenazi rabbinic culture and the printing of the code. NO encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: the Sefaria Isserles-gloss primary is rated HIGH because it was READ line-by-line and its load-bearing lines confirmed verbatim; his authorship of the Mappah and its function are carried by that open primary, so this figure is verified-eligible on it. The monographs and studies (Fram, Ziv, Reiner) are MEDIUM, verified to exist and be on-topic, not read cover to cover, and broader biographical and interpretive claims (his headship of the Krakow yeshiva, the never-met detail, his philosophical and kabbalistic writing) rest on that secondary scholarship and are kept honest. RELATION TARGETS: joseph-karo EXISTS (data/figures/judaism/joseph-karo.json) and references isserles; shulchan-aruch EXISTS (data/works/judaism/shulchan-aruch.json) and references isserles; mappah is created in this same batch (data/works/judaism/mappah.json). The Darkei Moshe is discussed in prose but NOT given a relation edge, to avoid introducing a dangling relation target (no darkei-moshe entity exists or is planned in this batch); if a darkei-moshe work entity is later authored, an articulated edge to it can be added. The figure relation enum has NO 'opposed' type, so the complementary-and-divergent relation to Karo is recorded as related_to with the difference stated in the note (neutrality #1).",
+  "lifespan": {
+    "birth": 1530,
+    "death": 1572,
+    "note": "c. 1530-1572 CE (the birth year is given approximately in the scholarship, commonly c. 1525-1530). Lived and taught in Krakow (Cracow), in the Polish-Lithuanian realm, where he headed a yeshiva and served on the rabbinical court; the leading Ashkenazi halakhic authority of his generation."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "joseph-karo",
+      "note": "Joseph Karo (1488-1575), author of the Shulchan Aruch, is the Sephardic-world counterpart to Isserles the Ashkenazi authority; Isserles' Mappah glosses complete Karo's code for the Ashkenazi reader AND mark, siman by siman, where Ashkenazi ruling diverges from Karo's largely Sephardic base text. The relation is complementary and divergent at once; the figure relation enum has no 'opposed' type, so related_to is used and the difference (Sephardic base, Ashkenazi gloss, described not ranked) is stated here. The joseph-karo entry EXISTS (data/figures/judaism/joseph-karo.json) and records the reciprocal related_to edge to isserles."
+    },
+    {
+      "type": "articulated",
+      "target": "mappah",
+      "note": "Isserles is the author of the Mappah ('the Tablecloth'), his set of glosses recording Ashkenazi custom printed interwoven with Karo's Shulchan Aruch; the opening gloss at Orach Chayim 1:1 (shiviti / Psalm 16:8 as 'a great principle in the Torah', citing Guide III:52) was read line-by-line on open Sefaria. The mappah work entry is created in this same batch (data/works/judaism/mappah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "shulchan-aruch",
+      "note": "Isserles' Mappah glosses are printed interwoven with the Shulchan Aruch of Joseph Karo, so that the combined work (Karo's 'Set Table' with Isserles' 'Tablecloth') addresses both Sephardic and Ashkenazi practice and came in the reception of the tradition to be treated as the authoritative code across both communities. The shulchan-aruch work entry EXISTS (data/works/judaism/shulchan-aruch.json) and references isserles."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Moses Isserles (the Rema). Hagah (gloss) on Joseph Karo, Shulchan Arukh, Orach Chayim 1:1 ('din hashkamat ha-boker'), printed interwoven with Karo's text (Hebrew: Maginei Eretz, Lemberg 1893, public domain; English on Sefaria). Open Hebrew and English text on Sefaria. This gloss, the opening of the Mappah, is the openly-auditable primary carrying Isserles' authorship and his method in his own words; read line-by-line and confirmed verbatim: to Karo's 'One should strengthen himself like a lion to get up in the morning to serve his creator', Isserles adds 'שויתי ה' לנגדי תמיד הוא כלל גדול בתורה ובמעלות הצדיקים אשר הולכים לפני האלהים' ('I have set the Lord always before me [Psalm 16:8] is a great principle in the Torah and among the virtues of the righteous who walk before God'), developing the theme of the constant awareness of God with explicit reference to Maimonides' Guide of the Perplexed III:52 ('מורה נבוכים ח\"ג פ' נ\"ב'). Read line-by-line via the Sefaria text API (2026-07-26).",
+      "url": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.1.1",
+      "license": "Sefaria; Hebrew Maginei Eretz (Lemberg, 1893) public domain and English openly auditable on Sefaria; Isserles' gloss on Orach Chayim 1:1 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Fram, Edward. 'The Codification of Jewish Law on the Cusp of Modernity.' In Rabbinic Culture and Its Critics: Jewish Authority, Dissent, and Heresy in Medieval and Early Modern Times, edited by Daniel Frank and Matt Goldish, 359-378 (Detroit: Wayne State University Press, 2008); and Edward Fram, The Codification of Jewish Law on the Cusp of Modernity (Cambridge University Press, 2022). Cited as the academic-historian lens on the codification of Jewish law and on Isserles' glosses (the Mappah) as the Ashkenazi layer of Karo's code. Verified to exist and be on-topic (publisher records; the author is a historian of early modern Polish Jewry at Ben-Gurion University), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/codification-of-jewish-law-on-the-cusp-of-modernity/",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Siev, Asher. Rabbi Moshe Isserles (ha-Rema) (Jerusalem: Mossad HaRav Kook, 1972) [Hebrew: הרמ\"א], the standard scholarly biography and study of the Rema and his works, including the Darkei Moshe and the Mappah. Cited as the dedicated scholarly study of Isserles' life and halakhic method. Verified to exist and be on-topic (Mossad HaRav Kook / library catalogue records; Siev, a Yeshiva University faculty member, edited the Rema's responsa), not read line-by-line.",
+      "url": "https://search.worldcat.org/search?q=Asher+Ziv+Rabbi+Moshe+Isserles",
+      "license": "Proprietary; cited for reference (catalogue record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Reiner, Elchanan. 'The Ashkenazi Elite at the Beginning of the Modern Era: Manuscript versus Printed Book.' Polin: Studies in Polish Jewry 10 (1997): 85-98; and related studies by Reiner on early modern Ashkenazi rabbinic culture and the printing and reception of the halakhic codes. Cited as the contemporary-Jewish-scholar lens on the Ashkenazi rabbinic world in which Isserles worked and on how the printed Shulchan Aruch with the Mappah was received. Verified to exist and be on-topic (Polin / Littman Library records; the author is a historian of early modern Ashkenazi Jewry at Tel Aviv University), not read line-by-line.",
+      "url": "https://www.jstor.org/journal/polistudpoljew",
+      "license": "Proprietary; cited for reference (journal record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

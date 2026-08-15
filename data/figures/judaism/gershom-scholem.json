@@ -1,0 +1,87 @@
+{
+  "id": "gershom-scholem",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Gershom Scholem",
+    "original": "גֶּרְשׁוֹם שׁוֹלֶם",
+    "transliteration": "Gershom Shalom",
+    "aliases": [
+      "Gerhard Scholem (his given German name)",
+      "Gershom Gerhard Scholem",
+      "founder of the academic study of Jewish mysticism"
+    ]
+  },
+  "roles": [
+    "historian of Jewish mysticism and Kabbalah",
+    "philologist",
+    "philosopher and historian of religion",
+    "professor at the Hebrew University of Jerusalem",
+    "author"
+  ],
+  "summary": "Gershom Scholem (1897-1982), born Gerhard Scholem in Berlin and settled in Jerusalem, was the German-born Israeli historian and philologist who founded the modern academic study of Jewish mysticism and Kabbalah and held the first chair in the subject at the Hebrew University of Jerusalem. In Major Trends in Jewish Mysticism (1941), Sabbatai Sevi: The Mystical Messiah (Hebrew 1957, English 1973), and essays collected as On the Kabbalah and Its Symbolism, he advanced, on his own account, the theses that mysticism was a vital and central force in Jewish history rather than a marginal aberration, and reconstructed the history of the Kabbalah philologically from its manuscript sources.",
+  "description": "Gershom Scholem, born Gerhard Scholem in Berlin in 1897 into an assimilated German-Jewish family, broke with that milieu as a young Zionist, learned Hebrew and the sources of Jewish tradition, and emigrated to Mandate Palestine in 1923, where he was appointed to the Hebrew University of Jerusalem and became the first professor of Jewish mysticism (Kabbalah). He is widely regarded in the scholarship as the founder of the modern, academic, historical-philological study of Jewish mysticism, a field he in large part constituted by gathering, cataloguing, and analyzing the manuscript sources of the Kabbalah. This entry records his scholarly theses as his own attributed positions, the interpretations of a historian, and does not adjudicate them.\n\nScholem's most widely read work, Major Trends in Jewish Mysticism, grew out of lectures delivered in 1938 at the Jewish Theological Seminary in New York and was published in 1941. In it he set out a narrative of Jewish mysticism from the ancient Merkabah (chariot) mysticism through the medieval Kabbalah, the Zohar, the Lurianic Kabbalah of Safed, the Sabbatian movement, and Hasidism. A central thesis, argued as his own scholarly position, was that mysticism had been a living and central force in Jewish religious history, not a marginal or foreign intrusion as an older rationalist historiography (the nineteenth-century Wissenschaft des Judentums) had tended to treat it; on his account the mystical and even the antinomian and messianic currents belonged to the vitality of the tradition and had to be studied on their own terms and from their own sources. This reconstruction, and the value he placed on the material, are recorded here as his attributed interpretation, contested and revised by later scholars, and not endorsed by the editor.\n\nHis Sabbatai Sevi: The Mystical Messiah, 1626-1676 (the Hebrew original completed in 1957, the English translation by R. J. Zwi Werblowsky published by Princeton in the Bollingen Series in 1973), is a large-scale study of the seventeenth-century messianic movement gathered around Sabbatai Sevi, which Scholem read as a mass movement generated from within Lurianic Kabbalah and continuing, in clandestine and heretical forms, after Sevi's conversion to Islam; the book is widely counted among his major works. His essays on the symbolic language of the Kabbalah, the doctrine of the sefirot, the tradition of the Golem, and the meaning of the Torah in mysticism were collected in English as On the Kabbalah and Its Symbolism. Alongside these he wrote a memoir of his friendship with Walter Benjamin and reflections on Zionism and on German-Jewish history.\n\nScholem's interpretations were themselves the subject of scholarly debate, which this entry records as debate. He engaged Martin Buber over the reading of Hasidism, arguing in a 1961 critique that Buber's existential retelling did not answer to the historical and textual record, while granting that Buber had brought Hasidism to Western attention; and a later generation of scholars, chief among them Moshe Idel, revised parts of Scholem's synthesis, questioning for instance his account of the place of unio mystica in Jewish mysticism and his broadly historical, as against phenomenological, method. This entry presents Scholem as the modern academic founder of the field on the terms the scholarship uses of him, with his theses attributed to him as scholarly positions and the disagreements about them recorded and not adjudicated.",
+  "editorial_notes": "This entry presents Gershom Scholem (1897-1982) as the German-born Israeli historian and philologist who founded the modern ACADEMIC study of Jewish mysticism and Kabbalah, and held the first chair in the subject at the Hebrew University of Jerusalem. NEUTRALITY (neutrality #1, #2, #4): Scholem's theses, above all that mysticism was a VITAL and central force in Jewish history rather than a marginal aberration, are stated throughout as his OWN ATTRIBUTED scholarly positions ('records his scholarly theses as his own attributed positions', 'argued as his own scholarly position', 'not endorsed by the editor'), the interpretations of a historian, and are NOT adjudicated by the editor; the older rationalist historiography (Wissenschaft des Judentums) he reacted against and the later scholars (Idel) who revised him are both named, so the debate is recorded as debate, not flattened into 'the answer'. His critique of Buber's reading of Hasidism is stated as an ATTRIBUTED scholarly disagreement, matching the reciprocal edge already recorded in martin-buber.json (which cites Scholem's 1961 Commentary critique), and is not adjudicated. Scholem is a MODERN ACADEMIC, not a devotional figure of the tradition; the metaphysics of the kabbalah he studied is described, not affirmed. HONESTY / status: this entry is DRAFT and tops out at REVIEWED-eligible, NOT verified, because Scholem's own major works are the primaries here and they are PROPRIETARY (Schocken / Princeton), so NO open licensed primary could be read line-by-line for the load-bearing passages; every source is rated MEDIUM and none is rated high. The primaries (Major Trends in Jewish Mysticism, Schocken 1941; Sabbatai Sevi, Princeton/Bollingen 1973; On the Kabbalah and Its Symbolism, Schocken) are cited as the primary corpus, verified to exist and be on-topic via publisher and Internet Archive records, and were NOT read line-by-line against a licensed open copy. Scholem's central theses rest on his own scholarship, which is itself contested; this is stated plainly. SOURCING triangulates three lenses per neutrality #8-#9: (a) academic study of Scholem, David Biale, Gershom Scholem: Kabbalah and Counter-History (Harvard University Press, 1979; 2nd ed. 1982), the standard peer-reviewed monograph on Scholem; (b) the PRIMARY corpus, Scholem's own major works (proprietary, medium); and (c) a contemporary Jewish scholar on-topic, Moshe Idel, Kabbalah: New Perspectives (Yale, 1988), who both continues and revises Scholem's field. No encyclopedias (no Encyclopaedia Judaica, no Encyclopedia.com, no Stanford Encyclopedia of Philosophy, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. RELATION TARGETS: martin-buber EXISTS (data/figures/judaism/martin-buber.json), which already records the reciprocal 'related_to' edge for the Hasidism controversy; this entry resolves the forward reference that martin-buber.json flagged as dangling. kabbalah EXISTS (data/schools/judaism/kabbalah.json); hasidism EXISTS (data/schools/judaism/hasidism.json). No dangling targets in this entry.",
+  "lifespan": {
+    "birth": 1897,
+    "death": 1982,
+    "note": "1897-1982 CE. Born Gerhard Scholem in Berlin into an assimilated German-Jewish family; a young Zionist who learned Hebrew and the Jewish sources and emigrated to Mandate Palestine in 1923, where he taught at the Hebrew University of Jerusalem as the first professor of Jewish mysticism (Kabbalah). He died in Jerusalem in 1982."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "martin-buber",
+      "note": "Scholem and Buber were interlocutors; Scholem's 1961 critique ('Martin Buber's Hasidism', Commentary) argued that Buber's existential retelling of Hasidism did not answer to the historical and textual record, while granting that Buber had brought Hasidism to Western attention. Recorded as an attributed scholarly disagreement, not adjudicated (attributed intellectual history). The martin-buber entry exists (data/figures/judaism/martin-buber.json) and records the reciprocal edge; this resolves its dangling forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Scholem founded the modern academic, historical-philological study of the Kabbalah, reconstructing its history from its manuscript sources; his account of the field is stated as his attributed scholarship, contested and revised by later scholars, not affirmed as metaphysics. The kabbalah entry exists (data/schools/judaism/kabbalah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "hasidism",
+      "note": "Scholem treated Hasidism as the last of the major trends in his narrative of Jewish mysticism and engaged Buber over how to read it (see the martin-buber edge); stated as his attributed scholarly position. The hasidism entry exists (data/schools/judaism/hasidism.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered in 1938 at the Jewish Theological Seminary, New York; many later reprintings). Cited as the primary corpus for Scholem's founding synthesis of the history of Jewish mysticism (Merkabah mysticism, the medieval Kabbalah, the Zohar, Lurianic Kabbalah, Sabbatianism, and Hasidism) and for his central thesis, argued as his own scholarly position, that mysticism was a vital and central force in Jewish history rather than a marginal aberration. Verified to exist and be on-topic (Schocken / Penguin Random House record; Internet Archive copy), and NOT read line-by-line against a licensed open copy (the work is proprietary, under copyright). Rated medium.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary (Schocken; under copyright); cited for reference (publisher page). Text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Sabbatai Sevi: The Mystical Messiah, 1626-1676. Translated by R. J. Zwi Werblowsky. Bollingen Series 93. Princeton: Princeton University Press, 1973 (Hebrew original completed 1957). Cited as the primary corpus for Scholem's large-scale study of the seventeenth-century Sabbatian messianic movement, which he read as generated from within Lurianic Kabbalah and continuing in clandestine and heretical forms after Sabbatai Sevi's conversion to Islam; counted among his major works. Verified to exist and be on-topic (Princeton University Press / Bollingen record; Internet Archive copy), not read line-by-line against a licensed open copy (proprietary). Rated medium.",
+      "url": "https://press.princeton.edu/books/paperback/9780691172095/sabbatai-sevi",
+      "license": "Proprietary (Princeton / Bollingen; under copyright); cited for reference (publisher page). Text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. On the Kabbalah and Its Symbolism. Translated by Ralph Manheim. New York: Schocken Books, 1965 (German essays; many reprintings). Cited as the primary corpus for Scholem's essays on the symbolic language of the Kabbalah, the doctrine of the sefirot, the tradition of the Golem, and the meaning of the Torah in Jewish mysticism. Verified to exist and be on-topic (Schocken / Penguin Random House record), not read line-by-line against a licensed open copy (proprietary). Rated medium.",
+      "url": "https://www.penguinrandomhouse.com/books/162202/on-the-kabbalah-and-its-symbolism-by-gershom-scholem/",
+      "license": "Proprietary (Schocken; under copyright); cited for reference (publisher page). Text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Biale, David. Gershom Scholem: Kabbalah and Counter-History. Cambridge, Mass.: Harvard University Press, 1979 (2nd edition 1982; ISBN 9780674363328; 279 pp.). The standard peer-reviewed monograph on Scholem, the first book devoted to him, treating his founding of the academic study of Jewish mysticism, his conception of Kabbalah as a 'counter-history' recovering the vital and suppressed currents of the tradition, and the place of that project in debates over Zionism and Jewish theology. Cited as the principal academic lens on Scholem himself. Verified to exist and be on-topic (Harvard University Press / BiblioVault record; reviewed in the American Historical Review, 1980), not read line-by-line. Rated medium.",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780674363328",
+      "license": "Proprietary; cited for reference (publisher / distributor record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Idel, Moshe. Kabbalah: New Perspectives. New Haven: Yale University Press, 1988 (xx + 419 pp.; ISBN 9780300046991). A study by a contemporary Jewish scholar (Hebrew University) that both continues and revises Scholem's field, questioning parts of his synthesis (for example his account of the place of unio mystica in Jewish mysticism) and proposing a phenomenological alongside a historical method; cited as the contemporary-Jewish-scholar lens on Scholem's theses and their revision. Verified to exist and be on-topic (Yale University Press record; AJS Review notice), not read line-by-line. Rated medium.",
+      "url": "https://yalebooks.yale.edu/book/9780300046991/kabbalah/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

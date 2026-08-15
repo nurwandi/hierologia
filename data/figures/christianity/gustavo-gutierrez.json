@@ -1,0 +1,78 @@
+{
+  "id": "gustavo-gutierrez",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Gustavo Gutierrez",
+    "original": "Gustavo Gutierrez Merino",
+    "transliteration": "Gustavo Gutierrez Merino",
+    "aliases": [
+      "Gustavo Gutierrez Merino",
+      "Gustavo Gutierrez, O.P.",
+      "father of liberation theology"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "priest",
+    "Dominican friar"
+  ],
+  "summary": "Gustavo Gutierrez (1928-2024) was a Peruvian Dominican priest and theologian widely regarded as the father of Latin American liberation theology, whose book A Theology of Liberation (Teologia de la liberacion, 1971) framed theology as critical reflection on Christian praxis in the light of a 'preferential option for the poor' and understood salvation as including liberation from social, political, and economic injustice.",
+  "description": "Gustavo Gutierrez was born in Lima, Peru, in 1928, of partly Quechua descent, and after early studies in medicine and philosophy trained for the priesthood and studied theology in Europe (Louvain and Lyon) before returning to pastoral and academic work in Peru. He later entered the Order of Preachers (the Dominicans) and, in his final decades, taught at the University of Notre Dame in the United States. He died in Lima in 2024.\n\nGutierrez is regarded, on the standard account of the movement's historians, as the principal founder of Latin American liberation theology. He is credited with giving the approach its programmatic name and statement: from a 1968 lecture, later expanded into his best-known book, Teologia de la liberacion: Perspectivas (Lima, 1971; English, A Theology of Liberation, Orbis, 1973). In that work he presents theology, on his own account, not primarily as a body of doctrine but as 'critical reflection on praxis', that is, reflection on committed Christian action on behalf of the poor, carried out in the light of the word of God. Central to his thought is the 'preferential option for the poor', the commitment to read the gospel from the standpoint of the poor and oppressed and to make their liberation a first concern of Christian life and reflection; the phrase and its emphasis became, through his work and the 1968 Medellin conference of the Latin American bishops, one of the most widely discussed themes of twentieth-century theology. Gutierrez holds, on his own account, that salvation is not reduced to social or political liberation but includes it: he distinguishes levels of liberation (from unjust social structures, from all that dehumanizes, and from sin as the ultimate root), while insisting they are bound together in the one saving work of Christ. To analyze the situation of poverty and oppression, he and other liberation theologians draw on social-scientific tools, including categories drawn from Marxist social analysis such as class and structural injustice; on the movement's own account this is a tool of analysis rather than an adoption of Marxist philosophy or atheism.\n\nGutierrez's later writings develop the spirituality implicit in this theology, above all We Drink from Our Own Wells (Beber en su propio pozo, 1983) on the spiritual journey of a people, and On Job (Hablar de Dios desde el sufrimiento del inocente, 1986), a study of innocent suffering and the language of God. His work was engaged, and in part critiqued, by the Roman Catholic magisterium: the Congregation for the Doctrine of the Faith's 1984 Instruction Libertatis Nuntius warned against an insufficiently critical use of Marxist concepts in liberation theology while affirming the preferential option for the poor, and its 1986 companion Libertatis Conscientia set out a fuller account of Christian freedom and liberation. This entry records Gutierrez's theology as his own attributed position and records the magisterial reception as an attributed position too, adjudicating neither.",
+  "editorial_notes": "This entry presents Gustavo Gutierrez's theology as his own attributed position (neutrality #1, #2). His distinctive claims (theology as critical reflection on praxis, the preferential option for the poor, salvation as including but not reduced to social/political/economic liberation, the use of Marxist social analysis as a tool rather than a philosophy) are stated as his and the movement's own self-understanding, not endorsed or refuted. The Roman Catholic magisterium's engagement (the 1984 and 1986 CDF Instructions) is likewise recorded as an attributed position, adjudicating neither, mirroring the handling in the existing liberation-theology school entry (data/schools/christianity/liberation-theology.json) and the cdf-libertatis-nuntius work entry authored alongside this one.\n\nCONFIDENCE HONESTY: this entry is HONESTLY capped at reviewed-eligible, not verified. Gutierrez's distinctive theological claims rest on A Theology of Liberation and his other books, which are proprietary translations (Orbis Books) and were NOT read line-by-line here; they are therefore reconstructed from the primary text as cited plus secondary scholarship, not confirmed verbatim against an openly readable primary in his own voice. No source in this entry is rated high, precisely because the load-bearing primary is proprietary. This contrasts with the cdf-libertatis-nuntius entry, whose primary (the CDF Instruction) is open at vatican.va and was read line-by-line and so is verified-eligible.\n\nLifespan 1928-2024 as standardly reported in the scholarship and obituaries. Sourcing triangulates three lenses per neutrality #8: (b) the primary corpus, Gutierrez, A Theology of Liberation (Orbis, 1973; Spanish 1971), cited as the founding text and rated medium honestly (proprietary translation, not read line-by-line); (a) academic historians of the movement, Robert McAfee Brown, Gustavo Gutierrez: An Introduction to Liberation Theology (Orbis, 1990), and Christopher Rowland (ed.), The Cambridge Companion to Liberation Theology (CUP), including Gutierrez's own chapter, both medium, verified to exist and on-topic; (c) a contemporary theologian on-topic, Daniel G. Groody and Gustavo Gutierrez (eds.), The Preferential Option for the Poor beyond Theology (University of Notre Dame Press, 2013), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources.\n\nRELATIONS / DANGLING TARGETS: influenced liberation-theology, which EXISTS in the dataset (data/schools/christianity/liberation-theology.json, which carries a mirror key_figure relation back to this figure). articulated a-theology-of-liberation is a DANGLING forward reference (his 1971 book is not yet a separate Work entry) and is flagged as such. related_to preferential-option-for-the-poor is a DANGLING forward reference (not yet a separate Concept entry; the liberation-theology entry also references it as dangling) and is flagged as such.",
+  "lifespan": {
+    "birth": 1928,
+    "death": 2024,
+    "note": "1928-2024. Born in Lima, Peru, in 1928; Dominican priest and theologian; taught in later years at the University of Notre Dame; died in Lima in 2024. Dates as standardly reported in the scholarship and in the obituary record."
+  },
+  "relations": [
+    {
+      "type": "influenced",
+      "target": "liberation-theology",
+      "note": "Gutierrez is regarded as the principal founder of Latin American liberation theology; his 1968 lecture and his 1971 book A Theology of Liberation gave the movement its programmatic name and statement, and popularized the 'preferential option for the poor'. The liberation-theology school entry exists in the dataset and carries a mirror key_figure relation back to this figure. Attributed as his role in the movement."
+    },
+    {
+      "type": "articulated",
+      "target": "a-theology-of-liberation",
+      "note": "Gutierrez authored Teologia de la liberacion (1971; English A Theology of Liberation, Orbis, 1973), the movement's founding programmatic text, in which he set out theology as critical reflection on praxis and the preferential option for the poor. Dangling forward reference: the book is not yet a separate Work entry in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "preferential-option-for-the-poor",
+      "note": "The 'preferential option for the poor', reading the gospel from the standpoint of the poor and making their liberation a first concern, is the commitment most associated with Gutierrez's theology; attributed to him and the movement as their own. Dangling forward reference: preferential-option-for-the-poor is not yet a separate Concept entry (the liberation-theology entry also references it as dangling)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Gutierrez, Gustavo. A Theology of Liberation: History, Politics, and Salvation. Maryknoll, NY: Orbis Books, 1973 (Spanish orig. Teologia de la liberacion: Perspectivas, Lima: CEP, 1971; rev. ed. 1988). Gutierrez's founding programmatic text, articulating theology as critical reflection on praxis, the preferential option for the poor, and salvation as including but not reduced to liberation from social, political, and economic injustice. Cited as the primary corpus for his distinctive claims. HONEST RATING: proprietary English translation (Orbis), not read line-by-line for this entry; rated medium, not high.",
+      "url": "https://orbisbooks.com/products/a-theology-of-liberation-gustavo-gutierrez",
+      "license": "Proprietary, cited for reference; not reproduced here.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Robert McAfee. Gustavo Gutierrez: An Introduction to Liberation Theology. Maryknoll, NY: Orbis Books, 1990 (rev. ed. of Gustavo Gutierrez, 1980). An academic study of Gutierrez's life and thought by a theologian and historian of the movement, drawing on Gutierrez's own writings and treating the preferential option for the poor, theology as reflection on praxis, and the controversies with Rome. Academic history-of-doctrine lens. Verified to exist and be on-topic; not read line-by-line here.",
+      "url": "https://orbisbooks.com/products/gustavo-gutierrez-9781620329023",
+      "license": "Proprietary, cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rowland, Christopher, ed. The Cambridge Companion to Liberation Theology. 2nd ed. Cambridge: Cambridge University Press, 2007 (1st ed. 1999). Academic survey of the movement including Gutierrez's own chapter 'The task and content of liberation theology'; cited as the academic lens on Gutierrez's role and self-account, the same source used in the liberation-theology school entry. Verified to exist and be on-topic; not read line-by-line here.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-liberation-theology/F500C9F34574087A4C4EA2658E89762B",
+      "license": "Proprietary, cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Groody, Daniel G., and Gustavo Gutierrez, eds. The Preferential Option for the Poor beyond Theology. Notre Dame, IN: University of Notre Dame Press, 2013 (ISBN 9780268029869). A contemporary academic volume, co-edited by Gutierrez, exploring the preferential option for the poor across disciplines; cited as the contemporary-theologian lens on the theme most associated with Gutierrez's thought. Verified to exist and be on-topic; not read line-by-line here.",
+      "url": "https://undpress.nd.edu/9780268029869/the-preferential-option-for-the-poor-beyond-theology/",
+      "license": "Proprietary, cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
