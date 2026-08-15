@@ -6,6 +6,37 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.21.0] - 2026-07-26
+
+Closing more high-value dangling forward references across the Christian systematic/modern and Jewish
+halakhic/kabbalistic/scholarship clusters. Six enter `verified` on open primary reads, six honestly
+`reviewed`. This release also reframes the project's positioning.
+
+### Changed
+- **Positioning.** The lead framing is now "a machine-readable, source-attributed knowledge base for
+  religious topics" rather than "an open academic API." The new framing promises the verifiable
+  technical properties the project has today (structured entities, mandatory sources, per-claim
+  confidence, explicit non-adjudication) rather than an academic authority it does not yet claim. The
+  Zenodo DOI is retained as archival, citability, and versioned provenance (the CITATION file is
+  `type: dataset`). Updated: the README tagline and the CITATION.cff title.
+
+### Added
+- **Christianity**: `divine-simplicity` (the classical-theist doctrine, with attributed cross-tradition
+  parallels to Islamic tanzih and Maimonides), `friedrich-schleiermacher`, `church-dogmatics` (Barth's
+  opus), `cdf-libertatis-nuntius` (the 1984 CDF Instruction on liberation theology), `gustavo-gutierrez`,
+  and `deutsche-christen` (the pro-Nazi "German Christians", completing the Confessing-Church story).
+- **Judaism**: `isserles` (the Rema) and his `mappah` glosses; `pardes-rimonim` (Cordovero's kabbalah
+  summa); `gershom-scholem`; and the Conservative-Judaism founders `solomon-schechter` and `zacharias-frankel`.
+
+### Changed (entities)
+- Verified (6): `divine-simplicity` (Aquinas ST Ia q.3), `cdf-libertatis-nuntius` (vatican.va), `isserles`
+  and `mappah` (the Rema's gloss on Shulchan Arukh OC 1:1), `pardes-rimonim` (Sefaria), and
+  `solomon-schechter` (his own Studies in Judaism). The verified tier is now 119.
+- Reviewed (6), honestly: `friedrich-schleiermacher` (the signature formula rests on a proprietary
+  translation), `church-dogmatics` and `gustavo-gutierrez` (proprietary primaries), `gershom-scholem`
+  (proprietary works), `zacharias-frankel` (works not openly readable in English), and `deutsche-christen`
+  (the movement's texts survive via secondary scholarship).
+
 ## [0.20.0] - 2026-07-26
 
 Closing the highest-value dangling forward references: all four remaining Second Vatican Council

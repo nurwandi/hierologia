@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use Hierologia, please cite it as below."
-title: "Hierologia: an open academic API for the comparative study of sacred traditions"
+title: "Hierologia: a machine-readable, source-attributed knowledge base for religious topics"
 abstract: >-
   Hierologia preserves theological, historical, and sociological knowledge across
   religious traditions as structured, neutral, well-sourced, and versioned data.
@@ -31,6 +31,6 @@ keywords:
   - comparative religion
   - digital humanities
   - open data
-version: 0.20.0
+version: 0.21.0
 date-released: "2026-07-26"
 doi: 10.5281/zenodo.21436391

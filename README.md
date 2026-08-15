@@ -4,7 +4,7 @@
 
 <h1 align="center">Hierologia</h1>
 
-<p align="center"><strong>An open, neutral, well-sourced academic API for the comparative study of sacred traditions.</strong></p>
+<p align="center"><strong>A machine-readable, source-attributed knowledge base for religious topics, open, neutral, and versioned.</strong></p>
 
 <p align="center">
   <a href="https://nurwandi.github.io/hierologia/"><img src="https://img.shields.io/badge/demo-live-2ea44f" alt="Live demo"></a>
@@ -26,7 +26,7 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
 > **Status.** The three Abrahamic traditions are covered, Islamic theology (*kalam*)
-> with 117 entities, Christian theology with 92, and Judaism with 78, all
+> with 117 entities, Christian theology with 98, and Judaism with 84, all
 > peer-`reviewed`, linked by cross-tradition comparisons, alongside a small
 > `philosophy` namespace for the shared Greek substrate each tradition draws on.
 > Coverage is deliberately partial and growing; the project says what it does not yet
