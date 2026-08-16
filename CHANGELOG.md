@@ -6,6 +6,31 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.23.0] - 2026-07-26
+
+Opening the Judaism history layer. Judaism had zero Event entities, a structural hole against the mission's
+promise of historical knowledge, and the most dangling references of the three traditions. This batch adds
+the first six Judaism events plus six concepts/figures/works that close outstanding dangling references. Ten
+enter `verified` on open primary reads, two honestly `reviewed`. Judaism crosses 100 entities.
+
+### Added
+- **Judaism events (the first six)**: `babylonian-exile` (586 BCE), `destruction-of-the-second-temple`
+  (70 CE), `bar-kokhba-revolt` (132-135), `yavneh` (the reconstitution after 70), `barcelona-disputation`
+  (1263), and `expulsion-from-spain` (1492).
+- **Judaism concepts/figures/works** closing dangling references: `sanhedrin` and `mikveh`, the medieval
+  `tosafists` and `rabbenu-tam`, the early `merkavah-mysticism`, and Karo's `beit-yosef`.
+
+### Changed
+- Verified (10): the six events (Torah, Talmud, Josephus, and the Alhambra Decree read verbatim), plus
+  `sanhedrin`, `mikveh`, `merkavah-mysticism`, and `beit-yosef` (Sefaria primaries). The verified tier is now 137.
+- Reviewed (2), honestly: `tosafists` and `rabbenu-tam`, whose distinctive claims (the school's history and
+  the figure's biography) rest on secondary scholarship, while the one read primary carries only the Tosafist
+  method and Rabbenu Tam's tefillin position.
+- Neutrality cruxes handled: the Barcelona disputation's two rival accounts attributed to each side and not
+  adjudicated; the Alhambra Decree's polemical language quoted strictly as the document's own voice; the
+  "Council of Jamnia" model flagged as contested scholarship; Bar Kokhba's messianic acclamation attributed
+  with its built-in dissent; the sinat chinam and covenantal readings attributed, not asserted as causation.
+
 ## [0.22.0] - 2026-07-26
 
 Opening the sociological layer. The dataset's mission promises theological, historical, AND sociological
