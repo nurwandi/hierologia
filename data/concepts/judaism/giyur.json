@@ -1,0 +1,95 @@
+{
+  "id": "giyur",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Giyur",
+    "original": "גִּיּוּר",
+    "transliteration": "giyyur",
+    "aliases": [
+      "Conversion to Judaism",
+      "Giur",
+      "Becoming a Jew",
+      "Gerut",
+      "The ger (convert)"
+    ]
+  },
+  "category": "law",
+  "summary": "Giyur is conversion to Judaism, the halakhic process by which a non-Jew (a gentile) becomes a Jew and a member of the covenantal community of Israel. In the classical rabbinic requirement it involves acceptance of the commandments (kabbalat ha-mitzvot), circumcision for men (milah), and immersion in a ritual bath (tevilah in a mikveh), before a rabbinic court (beit din). Sociologically it is the point of entry into Jewish peoplehood, and the modern movements (Orthodox, Conservative, Reform) hold differing standards for a valid conversion and differ on which conversions they recognize.",
+  "description": "Giyur (from the same root as ger, the resident stranger of the Torah, which in rabbinic usage comes to mean the convert) is the process by which a non-Jew becomes a Jew. In the self-understanding of the rabbinic tradition, presented here on its own terms, the convert does not merely adopt a set of beliefs but enters the covenantal community of Israel, becoming, in the words of the Talmud, 'a Jew in every sense.' The biblical paradigm the tradition returns to is Ruth the Moabite, whose declaration to Naomi, 'wherever you go, I will go; wherever you lodge, I will lodge; your people shall be my people, and your God my God' (Ruth 1:16), is read as the model of attachment both to the God of Israel and to the people of Israel, joining religious commitment to peoplehood.\n\nThe classical procedure is set out in the Babylonian Talmud, tractate Yevamot 47a-b. A prospective convert is first questioned as to motive and told of the difficulties Israel bears; if the person persists, the court, in the language of the passage read here, 'inform[s] him of some of the lenient mitzvot and some of the stringent mitzvot,' together with the penalties for transgression and the reward for observance, so that acceptance is informed. The requirements the tradition derives are three: acceptance of the commandments (kabbalat ol ha-mitzvot, taking on the yoke of the commandments); for a man, circumcision (milah); and immersion in a mikveh (tevilah), the whole conducted before a beit din, understood in the passage (with Rabbi Yohanan's ruling) to require three. In the words of the same passage, once the convert 'has immersed and emerged, he is a Jew in every sense,' the status held to be irrevocable thereafter. A woman converts by acceptance of the commandments and immersion, without circumcision.\n\nThe modern Jewish movements differ on the standards for a valid conversion and on which conversions they recognize, and these differences are recorded here as the attributed positions of each movement rather than adjudicated. Orthodox authorities require conversion by an Orthodox beit din with full acceptance of the binding halakhic system, including circumcision and immersion, and generally recognize only conversions performed to that standard. Conservative (Masorti) Judaism likewise requires circumcision (or hatafat dam brit) and immersion before a beit din within its own halakhic framework. Reform Judaism, in North America, does not in general require circumcision or immersion as absolute conditions and centres the convert's sincere commitment and study, and it also recognizes patrilineal as well as matrilineal descent, so that the movements do not uniformly recognize one another's conversions. Sociologically, giyur marks the boundary of Jewish peoplehood: the question of who is admitted, and by whom, is at once a religious and a communal question, which is why the differing standards carry consequences for personal status, marriage, and membership. This entry states the classical procedure and the movements' positions as attributed; it does not rule which movement's conversion is the valid one.",
+  "editorial_notes": "This entry describes giyur on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding that the convert enters the covenantal community and becomes 'a Jew in every sense,' without the editor affirming or denying the theology. The classical requirements (kabbalat ha-mitzvot, milah, tevilah, before a beit din) and the Ruth paradigm rest on the primary texts read line-by-line on Sefaria. Per neutrality #2 the denominational differences over conversion standards and mutual recognition (Orthodox, Conservative, Reform) are each attributed to their holders and NOT adjudicated: no movement's conversion is ruled the valid one, mirroring the neutral handling of the movements in the halakha and mitzvot entries. Sources triangulate three lenses per neutrality #8-9: an academic study of the boundary of Jewishness and conversion (Shaye J. D. Cohen, The Beginnings of Jewishness, UC Press 1999); the primary texts themselves, read openly and line-by-line on Sefaria (Ruth 1:16 for the paradigm; Yevamot 47a-b for the procedure); and a contemporary Jewish scholar on-topic (Gary G. Porton, The Stranger Within Your Gates, Univ. of Chicago Press 1994, a monograph on converts and conversion in rabbinic literature). No encyclopedias, Wikipedia, or tertiary sources. Confidence honesty: the two Sefaria primary texts read line-by-line (Ruth 1:16 and Yevamot 47a-b) are rated high and carry the load-bearing classical claims (the Ruth paradigm; the acceptance of the commandments, circumcision, and immersion before a court; and that the convert is thereafter 'a Jew in every sense'); Cohen and Porton are verified to exist and be on-topic (author, title, publisher, year confirmed) but not read line-by-line, so medium, and the denominational-recognition differences, which are contemporary and movement-specific, rest on that secondary scholarship and general knowledge kept honest at medium rather than asserted from a read primary. Cross-tradition compares_with to shahada (Islam) and baptism (Christianity) both exist in the dataset. Relation target brit exists; beit-din exists in the dataset; mikveh is a dangling forward reference (not yet created).",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "halakha",
+      "note": "Giyur is a halakhic process: its requirements (acceptance of the commandments, circumcision, immersion, before a court) and its recognition are governed by Jewish law, and the movements differ within their own halakhic frameworks."
+    },
+    {
+      "type": "related_to",
+      "target": "brit",
+      "note": "Conversion is entry into the covenant (brit) between God and Israel; for a male convert circumcision (brit milah), the sign of the covenant, is one of the requirements, and giyur is understood as taking on the covenantal obligations."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "Acceptance of the commandments (kabbalat ha-mitzvot, taking on the yoke of the mitzvot) is a defining requirement of conversion in the classical rabbinic procedure; the convert takes on the obligation of the mitzvot."
+    },
+    {
+      "type": "related_to",
+      "target": "beit-din",
+      "note": "The classical procedure requires a rabbinic court (beit din), understood in Yevamot 47a-b, with Rabbi Yohanan's ruling, to require three; the court examines the convert, informs him of the commandments, and oversees the conversion. beit-din exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "mikveh",
+      "note": "Immersion in a mikveh (tevilah), a ritual bath, is one of the classical requirements of conversion for both men and women; the convert immerses and emerges as, in the words of the Talmud, 'a Jew in every sense.' Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "compares_with",
+      "target": "shahada",
+      "note": "Both giyur and the shahada address how one enters the religious community, but the answers differ and are not ranked or equated (per ADR-0005 and neutrality #10): in Judaism entry is a halakhic process (acceptance of the commandments, circumcision, immersion before a court) that is at once entry into a covenantal peoplehood, whereas in Islam the shahada is the verbal testimony of faith by which one becomes a Muslim. shahada exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "baptism",
+      "note": "Both giyur and baptism address how one enters the religious community, but the answers differ and are not ranked or equated (per ADR-0005 and neutrality #10): Jewish conversion is a halakhic process joining acceptance of the commandments to entry into a covenantal people, whereas Christian baptism is a water rite of initiation into the church. baptism exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 200,
+    "note": "The classical rabbinic procedure of giyur is set out in the Talmud (Yevamot 47a-b, redacted in late antiquity), building on the biblical figure of the ger and the paradigm of Ruth; the 200 CE marker anchors the rabbinic legal corpus (the Mishnah's redaction) from which the procedure is elaborated, not a dating of any single ruling. Conversion remains a living halakhic practice in the streams of Judaism, and the modern movements' differing standards are of the nineteenth to twenty-first centuries, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Ruth 1:16, open Hebrew and English text on Sefaria (JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: Ruth's declaration to Naomi, 'For wherever you go, I will go; wherever you lodge, I will lodge; your people shall be my people, and your God my God,' the load-bearing biblical paradigm the tradition reads as the model of the convert's attachment to both the God and the people of Israel.",
+      "url": "https://www.sefaria.org/Ruth.1.16",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (JPS) cited for reference. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Babylonian Talmud, Yevamot 47a-b, open Hebrew/Aramaic and English text on Sefaria (William Davidson digital edition of the Koren Noe Talmud). Cited as the openly-auditable primary text, read line-by-line: the procedure for accepting a convert, in which the court 'inform[s] him of some of the lenient mitzvot and some of the stringent mitzvot' together with the penalties and rewards, requires circumcision and immersion, and rules (with Rabbi Yohanan) that a court of three is needed, concluding that once the convert 'has immersed and emerged, he is a Jew in every sense.' The load-bearing rabbinic source for the classical conversion procedure and the convert's status.",
+      "url": "https://www.sefaria.org/Yevamot.47a",
+      "license": "William Davidson Talmud, CC-BY-NC 4.0 (English translation); underlying Hebrew/Aramaic in the public domain. Read line-by-line for this entry (47a-b).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. The Beginnings of Jewishness: Boundaries, Varieties, Uncertainties. Hellenistic Culture and Society 31. Berkeley: University of California Press, 1999 (xv, 426 pp.; ISBN 9780520226937). An academic study of what made a Jew a Jew in antiquity, including a detailed treatment of conversion to Judaism, the place of the convert, and the boundary of Jewish identity between ethnicity, nationality, and religion; cited for the historical and sociological question of the boundary of Jewishness that conversion crosses. Verified to exist and be on-topic (author, title, series, publisher, year, and ISBN confirmed); not read line-by-line.",
+      "url": "https://www.ucpress.edu/book/9780520226937/the-beginnings-of-jewishness",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Porton, Gary G. The Stranger Within Your Gates: Converts and Conversion in Rabbinic Literature. Chicago Studies in the History of Judaism. Chicago: University of Chicago Press, 1994 (ISBN 9780226675862). A contemporary Jewish scholar's monograph analyzing the references to converts across the rabbinic corpus and the community's understanding of the convert's entry, drawing on anthropological and sociological studies of conversion; cited for the rabbinic conception of the convert and the sociological framing of entry into the community. Verified to exist and be on-topic (author, title, series, publisher, year, and ISBN confirmed); not read line-by-line.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3635387.html",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

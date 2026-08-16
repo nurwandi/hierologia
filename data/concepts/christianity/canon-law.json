@@ -1,0 +1,75 @@
+{
+  "id": "canon-law",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Canon Law",
+    "original": "ius canonicum (Latin); Codex Iuris Canonici (Code of Canon Law)",
+    "transliteration": "ius canonicum",
+    "aliases": [
+      "ecclesiastical law",
+      "the law of the Church",
+      "Codex Iuris Canonici",
+      "the 1983 Code of Canon Law",
+      "kanon (Greek, rule or measure)"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "Canon law is the internal law of a Christian church, the body of ordinances and rules (from the Greek kanon, a rule or measure) governing the church's structure, offices, sacraments, and discipline. In the Roman Catholic Church it is the church's own legal-social order, developed over centuries from conciliar canons, papal decretals, and the classical collections (above all Gratian's Decretum), and codified in the modern period, first in the 1917 Code and then in the current 1983 Code of Canon Law (Codex Iuris Canonici); the Eastern Catholic churches have a parallel Code (1990), and the Orthodox and Anglican and other churches have their own canonical traditions. This entry describes canon law as the church's own legal order and attributes its provisions to the church that enacts them, without adjudicating them.",
+  "description": "Canon law is the internal, self-imposed law of a Christian church: the ordered body of rules by which the church governs its own life. The word derives from the Greek kanon, a rule, measure, or standard, and from antiquity it named the disciplinary rulings (canons) of church councils, as distinct from the civil laws (nomoi) of the state. Its function is that of a legal-social order for a religious community: it regulates the church's hierarchical structure and offices, the administration of the sacraments, the status and obligations of clergy, religious, and laity, the holding and use of church property (temporal goods), the church's judicial procedure, and its penal or disciplinary sanctions. It is thus religious law functioning as social order, the framework within which the church constitutes itself as an ordered community.\n\nIn the Roman Catholic Church, on the account of historians of canon law such as R. H. Helmholz, the canonical tradition grew over a long span from many sources: the canons of the early ecumenical and local councils, the decretal letters of the popes, the writings of the Fathers, and Roman law as received into the church's practice. These were gathered in successive collections, the decisive one being the Concordia discordantium canonum, the Decretum, compiled by the jurist Gratian at Bologna around 1140, which harmonized and systematized the earlier material and became the foundation of the medieval science of canon law. Later official collections (the Liber Extra of 1234, the Liber Sextus of 1298, the Clementines, and the Extravagantes) were gathered with the Decretum into the body known as the Corpus Iuris Canonici, which remained the church's law until the twentieth century. The scattered and complex state of this law led to its codification: the first Code of Canon Law (Codex Iuris Canonici) was promulgated in 1917, and a revised Code, mandated by the Second Vatican Council and reflecting its ecclesiology, was promulgated by John Paul II in 1983 and remains in force. The 1983 Code opens by defining its own scope: 'The canons of this Code regard only the Latin Church' (Canon 1), and it provides that on taking force it abrogates the 1917 Code and other universal laws contrary to it, while ordering that 'insofar as they repeat former law, the canons of this Code must be assessed also in accord with canonical tradition' (Canon 6). The Eastern Catholic churches are governed by a separate code, the Code of Canons of the Eastern Churches (1990).\n\nOther Christian traditions maintain their own canonical orders, described here each on its own terms. The Eastern Orthodox churches recognize the ancient canons of the ecumenical councils and the Fathers, gathered in collections such as the Pedalion (the Rudder), and govern themselves conciliarly and synodically rather than by a single unified code; the Anglican churches and other bodies of the Reformation retain or have developed their own bodies of canon law and church order. The scope and binding force of canon law, and its relation to civil law and to the divine and natural law that the traditions hold to underlie it, are treated differently across these traditions and within the scholarly literature; this entry describes canon law as the church's own legal order and does not rule on its claims.",
+  "editorial_notes": "This entry describes canon law primarily through the Roman Catholic Church's own legal order (its most fully codified form) while noting the parallel canonical traditions of the Eastern Catholic, Orthodox, and Anglican and other churches (neutrality #6). Its provisions are ATTRIBUTED to the church that enacts them and are not adjudicated (neutrality #1, #2). The sociological core is religious law as SOCIAL ORDER: the entry treats canon law as the framework by which a religious community constitutes and governs itself as an ordered institution, rather than assessing the truth or bindingness of any provision.\n\nThe compares_with links (sharia, halakha) compare the shared QUESTION, not the answers (neutrality #10, ADR-0005). The shared question is religious law as a social order for the community; the stated difference is that canon law governs the CHURCH as an institution and is more circumscribed than the all-encompassing halakha and sharia, which order the whole of a believer's life and community, not principally an ecclesiastical institution. The comparison ranks none and equates none. halakha exists in the dataset (data/concepts/judaism/halakha.json, shared id namespace); sharia is the Islam sibling of this batch and now exists in the dataset (data/concepts/islam/sharia.json).\n\nSourcing triangulates the three Christian lenses per neutrality #8. (b) The PRIMARY corpus was read verbatim on open pages at vatican.va: the 1983 Code of Canon Law, Canon 1 ('The canons of this Code regard only the Latin Church') and Canon 6 §1-§2 (the abrogation of the 1917 Code and the direction that canons repeating former law be assessed in accord with canonical tradition). These load-bearing canons, read verbatim, are rated high. (a) A peer-reviewed academic study of the history and character of canon law, R. H. Helmholz's The Spirit of Classical Canon Law, and the standard reference commentary, John P. Beal, James A. Coriden, and Thomas J. Green (eds.), New Commentary on the Code of Canon Law; the Helmholz monograph carries the historical claims and is rated medium. (c) A contemporary Catholic canonist on the theology and function of the law, Ladislas Orsy's Theology and Canon Law, rated medium. No encyclopedias, no tertiary or popular sources.\n\nCONFIDENCE HONESTY: the 1983 Code source is rated high ONLY for the canons read verbatim at vatican.va (Canon 1 and Canon 6); the history of canon law (Gratian's Decretum, the Corpus Iuris Canonici, the 1917 and 1983 Codes) rests on the scholarship (Helmholz, medium), and the commentary and canonist sources are medium. Because the concept and its history rest chiefly on scholarship (medium) rather than on primary text read verbatim, this entry is filed as draft and kept honest: it is not claimed as verified on the strength of the two canons alone. Relation target halakha (Judaism concept) exists; compares_with target sharia now exists in the dataset.",
+  "relations": [
+    {
+      "type": "compares_with",
+      "target": "halakha",
+      "note": "Shared question: religious law as a social order for a religious community. Difference: canon law governs the Church as an institution (its offices, sacraments, discipline, and property) and is more circumscribed than halakha, the all-encompassing body of Jewish law that orders the whole of a Jew's life and the life of the community, not principally an ecclesiastical institution. The comparison names the shared question and the difference, ranking and equating neither. halakha exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "sharia",
+      "note": "Shared question: religious law as a social order for a religious community. Difference: canon law is the internal law of the Church as an institution and is more circumscribed than the sharia, understood in Islam as the comprehensive divine law ordering worship, transaction, and conduct across the whole of life and community. The comparison names the shared question and the difference, ranking and equating neither. sharia is the Islam sibling of this batch and now exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "papal-primacy",
+      "note": "In the Roman Catholic Church the supreme legislative, executive, and judicial authority over canon law belongs to the Roman Pontiff (see the office treated in papal-primacy); the codification of the law is an exercise of that authority. Related-to link; the Catholic account of the authority is attributed, not adjudicated."
+    }
+  ],
+  "historical_period": {
+    "start": 325,
+    "note": "Canon law as the disciplinary law of the church has roots in the canons of the early councils; a conventional early anchor is the First Council of Nicaea (325), whose canons are among the foundational disciplinary rulings. The classical science of canon law dates from Gratian's Decretum (c. 1140) and the medieval collections gathered as the Corpus Iuris Canonici. The law was codified in the 1917 Code and recodified in the current 1983 Code of Canon Law; the Eastern Catholic churches received their own code in 1990. Living law of the Roman Catholic Church and analogously of other churches; no end date is asserted. Dates mark a long development, not a fixed origin."
+  },
+  "sources": [
+    {
+      "citation": "Codex Iuris Canonici (Code of Canon Law), 1983, Canon 1 and Canon 6 §1-§2. Primary legal text. Read verbatim on the open page: Canon 1, 'The canons of this Code regard only the Latin Church'; Canon 6 §1, that on taking force the Code abrogates the 1917 Code of Canon Law, other universal or particular laws contrary to it, universal or particular penal laws of the Apostolic See not contained in it, and other universal disciplinary laws on matter the Code completely reorders; Canon 6 §2, 'Insofar as they repeat former law, the canons of this Code must be assessed also in accord with canonical tradition.' Load-bearing for the scope of the Code and its relation to prior canonical tradition.",
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann1-6_en.html",
+      "license": "Code text; read line-by-line on the open page at vatican.va.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Helmholz, R. H. The Spirit of Classical Canon Law. Spirit of the Laws. Athens, GA: University of Georgia Press, 1996. A peer-reviewed academic study of the character, sources, and jurisprudence of the classical (medieval and early modern) canon law of the Western Church, treating Gratian's Decretum, the decretal collections, and the working of the canonical order. Academic history-of-canon-law lens; carries the historical claims in this entry.",
+      "url": "https://ugapress.org/book/9780820330020/the-spirit-of-classical-canon-law/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Beal, John P., James A. Coriden, and Thomas J. Green, eds. New Commentary on the Code of Canon Law. Commissioned by the Canon Law Society of America. New York: Paulist Press, 2000. The standard English-language scholarly commentary on the 1983 Code, canon by canon, treating its structure, sources, and interpretation. Academic canon-law lens on the scope and function of the Code.",
+      "url": "https://www.paulistpress.com/Products/1990-1/new-commentary-on-the-code-of-canon-law.aspx",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Orsy, Ladislas. Theology and Canon Law: New Horizons for Legislation and Interpretation. Collegeville, MN: Liturgical Press, 1992. A contemporary Catholic canonist's treatment of the theological foundations and function of canon law as the law proper to the Church. Contemporary-canonist lens on canon law as the Church's own legal-social order.",
+      "url": "https://litpress.org/Products/4715/Theology-and-Canon-Law",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

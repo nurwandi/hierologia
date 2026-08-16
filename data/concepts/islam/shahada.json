@@ -1,0 +1,81 @@
+{
+  "id": "shahada",
+  "tradition": "islam",
+  "names": {
+    "primary": "Shahada",
+    "original": "الشهادة",
+    "transliteration": "al-shahāda",
+    "aliases": [
+      "the testimony of faith",
+      "the profession of faith",
+      "the declaration of faith",
+      "the two testimonies (al-shahadatan)",
+      "there is no god but God, and Muhammad is the messenger of God",
+      "la ilaha illa Allah, Muhammad rasul Allah"
+    ]
+  },
+  "category": "ritual and community",
+  "summary": "The shahada is the Muslim testimony or profession of faith, in its standard form 'there is no god but God, and Muhammad is the messenger of God' (la ilaha illa Allah, Muhammad rasul Allah), the first of the five pillars of Islam and the verbal act by which a person enters the Muslim community. Its two clauses affirm the oneness of God (tawhid) and the messengership of Muhammad, and sincere utterance of the formula, traditionally before witnesses, is treated as the act that makes one a Muslim and marks the boundary of belonging to the community.",
+  "description": "The shahada (from the root sh-h-d, 'to witness' or 'to testify') is the Muslim testimony of faith. In its standard double form it runs 'I bear witness that there is no god but God, and I bear witness that Muhammad is the messenger of God' (ashhadu an la ilaha illa Allah wa-ashhadu anna Muhammadan rasul Allah). It is composed of two clauses: the first, the affirmation of God's exclusive oneness (the content that the concept tawhid names), and the second, the affirmation of the messengership (risala) of Muhammad. The two together are known as the two testimonies (al-shahadatan).\n\nIn the classical Sunni scheme the shahada is the first of the five pillars (arkan) on which Islam is built. The hadith 'Islam is built on five' (buniya al-islam ʿala khamsin), reported in the canonical collections of al-Bukhari and Muslim on the authority of Ibn ʿUmar, lists them as the testimony that there is no god but God and that Muhammad is the messenger of God, the establishment of prayer (salat), the payment of alms (zakat), the pilgrimage (hajj), and the fast of Ramadan, with the testimony placed first. Sociologically the shahada functions as the pillar of entry and as the boundary of the community: to utter it sincerely, on the tradition's account, is to become a Muslim, and it is traditionally pronounced by a convert before witnesses, so that the verbal testimony operates as a rite of initiation, the threshold act that constitutes membership. This entry describes that function and reports the tradition's claim that sincere utterance makes one a Muslim as the tradition's own account, without adjudicating it.\n\nThe two clauses are anchored in the Qur'an, which affirms God's absolute oneness, as in the short creed of Surat al-Ikhlas, 'Say, He is God the One, God the eternal. He begot no one nor was He begotten. No one is comparable to Him' (Q 112), and which repeatedly affirms the messengership of Muhammad, as in the opening of Q 48:29, 'Muhammad is the Messenger of God'. The compact two-clause formula as a single fixed sentence is, on the account of modern historical scholarship, something that took shape in the first Islamic generations: the earliest documentary attestations (on coins, papyri, and inscriptions) carry the first clause alone, and the paired double shahada becomes prominent on the coinage and monuments of the Umayyad caliph ʿAbd al-Malik in the 690s CE. This entry overlaps the concept tawhid, since the first clause is the affirmation of divine oneness, but its distinctive angle is the shahada precisely as the testimony-formula, the first pillar, and the verbal act of entry into the community, rather than the doctrine of oneness as such.",
+  "editorial_notes": "This is a sociological/institutional concept: the distinctive angle is the shahada as the testimony-formula, the first pillar, and the entry/initiation rite of the community, not the doctrine of divine oneness as such (which the concept tawhid covers, and to which this entry is linked via a related_to relation flagging the overlap). Per neutrality #1 the tradition's claim that sincere utterance of the shahada makes one a Muslim and constitutes membership is reported as the tradition's own account ('on the tradition's account', 'the tradition's claim'), not adjudicated as fact by the editor.\n\nCONFIDENCE HONESTY: this entry is verified-eligible on the strength of primary texts read verbatim, rated high. (1) The pillars hadith was read line by line in two canonical collections at Sunnah.com data: Sahih al-Bukhari 8 (Book 2, Hadith 1), English 'Islam is based on (the following) five (principles): 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger...', with the Arabic verified verbatim (buniya al-islam ʿala khamsin: shahadati an la ilaha illa Allah wa-anna Muhammadan rasul Allah, wa-iqami al-salat, wa-itaʾi al-zakat, wa-l-hajj, wa-sawmi ramadan); and Sahih Muslim 113 (Book 1, Hadith 21), 'al-Islam is raised on five (pillars), testifying (the fact) that there is no god but Allah, that Muhammad is His bondsman and messenger, and the establishment of prayer, payment of Zakat, Pilgrimage... and the fast of Ramadan'. Both place the shahada first and carry the two clauses verbatim; both are canonical Sahih material (Bukhari and Muslim), so the pillar-and-formula claim rests on high-confidence primary text. (2) The tawhid clause was read verbatim in two translations against the Arabic in Surat al-Ikhlas (Q 112:1-4: Abdel Haleem and Yusuf Ali), and the messengership clause in Q 48:29 ('Muhammad is the Messenger of God', Yusuf Ali and Abdel Haleem), against the Arabic. These primary sources are rated high and make the entry verified-eligible.\n\nThe secondary/interpretive framing (the two-clause formula's gradual historical formation; the sociological function as boundary/entry) rests on scholarship rated medium, triangulating lenses per neutrality #8: (a) academic historians, Jere L. Bacharach and Sherif Anwar, 'Early Versions of the shahada' (Der Islam 89, 2012), a peer-reviewed study of the early documentary attestations and the emergence of the double shahada on ʿAbd al-Malik's coinage; (c) a contemporary Muslim scholar, Celene Ibrahim, Islam and Monotheism (Cambridge University Press, Elements in Religion and Monotheism, 2022), a peer-reviewed academic treatment that centres the shahada, tawhid, and the messengership of Muhammad. Per neutrality #9 no encyclopedias or tertiary sources are cited. compares_with targets baptism (Christianity) and giyur (Judaism) exist in the dataset as the entry/initiation comparanda; tawhid exists (the overlap noted above); iman exists (inward faith as the correlate of the outward testimony).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The first clause of the shahada ('there is no god but God') is the verbal affirmation of tawhid, the oneness of God. This entry overlaps tawhid deliberately but treats the shahada distinctively as the testimony-formula, first pillar, and entry rite, rather than the doctrine of oneness itself."
+    },
+    {
+      "type": "related_to",
+      "target": "iman",
+      "note": "The shahada is the outward verbal testimony; iman (inward faith) is its inward correlate. Their exact relation (whether the testimony without inward assent suffices) is a classical topic in kalam, not adjudicated here."
+    },
+    {
+      "type": "compares_with",
+      "target": "baptism",
+      "note": "Shared question: how does one enter the religious community, and what act constitutes membership. Difference: the shahada is a verbal testimony (sincere utterance of a two-clause formula, traditionally before witnesses), whereas Christian baptism is a water rite administered to the initiand. Shared theme of initiation, differing answer, no ranking; baptism exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "giyur",
+      "note": "Shared question: how one enters the religious community, and what constitutes the boundary of belonging. Difference: the shahada is a single verbal testimony taken to make one a Muslim, whereas giyur, the Jewish process of conversion, is a halakhic process (acceptance of the commandments, immersion, and for males circumcision, before a rabbinic court). Shared theme, differing answer, no ranking; giyur exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The two clauses are anchored in the Qur'anic revelation (from c. 610 CE); the compact double formula as a single fixed sentence took shape in the first Islamic generations, the paired 'double shahada' becoming prominent on the coinage and monuments of the caliph ʿAbd al-Malik in the 690s CE (per Bacharach and Anwar). No end date is given; the shahada remains the living testimony and first pillar of Islam."
+  },
+  "sources": [
+    {
+      "citation": "The pillars hadith 'Islam is built on five' (buniya al-islam ʿala khamsin), read verbatim in two canonical collections. (1) Sahih al-Bukhari 8 (Book of Belief, Book 2 Hadith 1), on the authority of Ibn ʿUmar: 'Islam is based on (the following) five (principles): 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger. 2. To offer the... prayers... 3. To pay Zakat... 4. To perform Hajj... 5. To observe fast during the month of Ramadan.' Arabic verified verbatim: buniya al-islamu ʿala khamsin, shahadati an la ilaha illa Allah wa-anna Muhammadan rasul Allah, wa-iqami al-salat, wa-itaʾi al-zakat, wa-l-hajj, wa-sawmi ramadan. (2) Sahih Muslim 113 (Book 1, Hadith 21): 'al-Islam is raised on five (pillars), testifying (the fact) that there is no god but Allah, that Muhammad is His bondsman and messenger, and the establishment of prayer, payment of Zakat, Pilgrimage to the House (Kaʿba) and the fast of Ramadan.' Both are canonical Sahih material and both place the shahada first with its two clauses. Primary-text lens, read line by line.",
+      "url": "https://sunnah.com/bukhari:8",
+      "license": "Classical Arabic hadith texts public domain; English translations from the Sunnah.com corpus, quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Qur'an on the two clauses, read verbatim in two translations against the Arabic. Tawhid clause, Surat al-Ikhlas (Q 112:1-4): Abdel Haleem, 'Say, He is God the One, God the eternal. He begot no one nor was He begotten. No one is comparable to Him'; Yusuf Ali, 'Say: He is Allah, the One and Only; Allah, the Eternal, Absolute; He begetteth not, nor is He begotten; And there is none like unto Him' (Arabic: qul huwa Allahu ahad...). Messengership clause, Q 48:29 opening: Abdel Haleem and Yusuf Ali both 'Muhammad is the Messenger of God' (Muhammadun rasul Allah). Cited as the Qur'anic anchoring the two clauses of the shahada invoke; primary-text lens, read line by line.",
+      "url": "https://quran.com/112",
+      "license": "Qur'anic Arabic text public domain; English translations quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Bacharach, Jere L., and Sherif Anwar. 'Early Versions of the shahada: A Tombstone from Aswan of 71 A.H., the Dome of the Rock, and Contemporary Coinage.' Der Islam 89, no. 1-2 (2012): 60-69. A peer-reviewed study arguing that more than one version of the shahada circulated in the later seventh century CE and tracing the emergence of the paired 'double shahada' on the Dome of the Rock and on the coinage of ʿAbd al-Malik. The academic-historian lens on the formation of the two-clause formula. Not read in full for this draft; verified to exist and be on-topic.",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/islam-2012-0003/html",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibrahim, Celene. Islam and Monotheism. Elements in Religion and Monotheism. Cambridge: Cambridge University Press, 2022. A peer-reviewed treatment by a contemporary Muslim scholar centring the profession of faith (shahada), the oneness of God (tawhid), and the messengership of Muhammad as the core of the Islamic worldview. The contemporary Muslim scholar lens on the shahada as creed and profession. Relevant sections not read line by line for this draft; verified to exist and be on-topic.",
+      "url": "https://www.cambridge.org/core/elements/islam-and-monotheism/6005A7F7FEADE4E9832146AA48787029",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

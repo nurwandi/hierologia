@@ -1,0 +1,94 @@
+{
+  "id": "hajj",
+  "tradition": "islam",
+  "names": {
+    "primary": "Hajj",
+    "original": "الحج",
+    "transliteration": "al-ḥajj",
+    "aliases": [
+      "Hadj",
+      "the pilgrimage",
+      "the greater pilgrimage",
+      "pilgrimage to Mecca",
+      "pilgrimage to the House"
+    ]
+  },
+  "category": "worship and ritual",
+  "summary": "The hajj is the pilgrimage to Mecca, counted in Sunni and Shiʿi tradition among the pillars of Islam and held to be obligatory once in a lifetime on every adult Muslim who is able to undertake it. The Qur'an makes pilgrimage to the House a duty on those able (Q 3:97) and commands its completion for God (Q 2:196), and the tradition performs it through a set of rites in and around Mecca during the appointed days. It is also a gathering of the worldwide Muslim community (umma), whose members enter a common state and dress of consecration (ihram).",
+  "description": "The hajj is the annual pilgrimage to Mecca and its surrounding sacred sites, performed during the month of Dhu al-Hijja. In the standard tradition it is one of the pillars of Islam, an obligation (fard) upon every Muslim who is adult, sane, and able (in body and means) to make the journey, to be performed at least once in a lifetime. Its Qur'anic basis is direct: Q 3:97, in the Sahih International rendering, states, 'And [due] to Allah from the people is a pilgrimage to the House, for whoever is able to find thereto a way'; Q 2:196 commands, 'And complete the hajj and ʿumra for Allah'; and Q 2:197 begins, 'Hajj is [during] well-known months,' setting the pilgrimage within appointed times and enjoining restraint from quarrelling and wrongdoing during it. Q 22:27 has God command that the pilgrimage be proclaimed to the people, 'they will come to you on foot and on every lean camel, they will come from every distant pass.' The distinction between the greater pilgrimage (hajj), tied to the appointed days, and the lesser pilgrimage (ʿumra), which may be performed at other times, is drawn in the sources.\n\nThe tradition also grounds the pillar in the Sunna. A widely transmitted hadith, reported in the canonical collections on the authority of Ibn ʿUmar, states that Islam is built upon five, and includes the pilgrimage to the House among them, alongside the testimony of faith, the prayer, the alms, and the fast of Ramadan; this report is cited here as the tradition's own attestation of hajj as a pillar.\n\nThe rites are described here as the tradition's attributed practice. The pilgrim first enters ihram, the consecrated state, putting on (for men) two seamless white cloths and abstaining from certain ordinary acts, and pronouncing the talbiya. The central rites include the tawaf, the sevenfold circumambulation of the Kaʿba, the cubic structure at the heart of the Sacred Mosque; the saʿy, the going seven times between the hills of Safa and Marwa; and, as the essential standing of the hajj, the wuquf at ʿArafat on the ninth of Dhu al-Hijja. Further rites include the stay at Muzdalifa, the stoning of pillars at Mina, and the sacrifice, after which the pilgrim leaves the state of ihram. Accounts of the sequence and details differ across the legal schools and are given here in brief and in outline, not as a ruling on any school's practice.\n\nThe hajj carries a strong social dimension in the tradition's own account. It gathers Muslims from across the world in one place and time, and the common dress of ihram is widely read as levelling distinctions of rank and wealth before God, so that the pilgrimage is presented as an enactment of the unity and equality of the community (umma). This entry describes the hajj on the tradition's own terms and reports its rites and their meanings as that tradition's account, without adjudicating them.",
+  "editorial_notes": "This entry describes the hajj on the tradition's own terms (neutrality #6) and reports its rites and their religious meanings as the tradition's attributed account, not as fact endorsed by the editor (neutrality #1). Phrasing such as 'in the standard tradition', 'the tradition also grounds', 'described here as the tradition's attributed practice', and 'widely read as' marks the attribution. The differences among the legal schools over the details and sequence of the rites are noted and not adjudicated (neutrality #2, #7); the rite outline is given in brief and does not rule on any school's practice.\n\nCONFIDENCE HONESTY: hajj is verified-eligible because the load-bearing Qur'anic obligation and pillar-basis verses were read verbatim, line by line, at quran.com in the Sahih International (and, where noted, Clear Quran) translations, and the Arabic was checked: Q 3:97 ('And [due] to Allah from the people is a pilgrimage to the House, for whoever is able to find thereto a way'), Q 2:196 ('And complete the hajj and ʿumra for Allah'), Q 2:197 ('Hajj is [during] well-known months'), and Q 22:27 ('And proclaim to the people the hajj [pilgrimage]; they will come to you on foot and on every lean camel'). Those Qur'anic sources are rated high. The canonical hadith 'Islam is built upon five' (Sahih al-Bukhari, on the authority of Ibn ʿUmar) carries the fifth-pillar claim for hajj, but sunnah.com was not readable in this pass (the host returned a Cloudflare challenge / 403), so the hadith was NOT read verbatim here; it is a widely known, canonical report cited at medium confidence and rated medium (verified to exist, not read line by line in this pass). The Qur'anic obligation verses, read verbatim, independently carry the obligation claim, so hajj remains verified-eligible on the scriptural sources alone. The rite descriptions and social dimension rest on the two scholarly sources (Peters and Nasr), web-verified to exist and be on-topic but not read page by page, rated medium.\n\nSourcing triangulates the three lenses per neutrality #8: (b) primary open scriptural text (the Qur'anic verses at quran.com, read verbatim) plus the canonical Sunna (the Bukhari pillars hadith); (a) an academic study of the pilgrimage (F. E. Peters, The Hajj, Princeton, 1994); (c) a contemporary Muslim scholar (Seyyed Hossein Nasr, The Heart of Islam, 2002, which treats the pillars including hajj). No encyclopedias, Wikipedia, or tertiary sources (neutrality #9).\n\nCOMPARISON: compares_with aliyah-la-regel (Judaism, exists in the dataset) and christian-pilgrimage (exists in the dataset) states the shared question, pilgrimage as a sacred practice and communal gathering, and the difference (the hajj is an obligatory pillar, whereas the Jewish festival pilgrimage was to the Temple on the three regalim, and Christian pilgrimage is a non-obligatory devotion), with no ranking (neutrality #10). Dangling relation target flagged: umra does not yet exist as an entry (forward reference, will surface via validate.py).",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "islam",
+      "note": "The hajj is counted among the pillars of Islam, the acts the tradition treats as the framework of Muslim practice; described here on the tradition's own terms."
+    },
+    {
+      "type": "related_to",
+      "target": "umra",
+      "note": "The ʿumra (lesser pilgrimage) is distinguished from the hajj (greater pilgrimage): the ʿumra may be performed at other times, while the hajj is tied to the appointed days, and Q 2:196 commands the completion of both for God. Target is a forward reference; umra does not yet exist as an entry."
+    },
+    {
+      "type": "compares_with",
+      "target": "aliyah-la-regel",
+      "note": "Shared question: both the hajj and the Jewish aliyah la-regel are a tradition's pilgrimage to a central sacred place that gathers the community. Difference: the hajj is an obligatory pillar performed at Mecca once in a lifetime by those able, whereas the aliyah la-regel was the ascent to the Temple in Jerusalem on the three pilgrimage festivals (regalim); no ranking or equivalence is asserted (neutrality #10). Target (aliyah-la-regel) exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "christian-pilgrimage",
+      "note": "Shared question: both the hajj and Christian pilgrimage are sacred journeys to holy places undertaken as an act of devotion and communal gathering. Difference: the hajj is an obligatory pillar with fixed rites and times, whereas Christian pilgrimage (to Jerusalem, Rome, Santiago, and other sites) is a non-obligatory devotional practice; the shared theme is stated without ranking either (neutrality #10). Target (christian-pilgrimage) exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic verses grounding the hajj (Q 3:97, 2:196-197, 22:27) belong to the period of the Prophet's mission (c. 610-632 CE); the tradition holds the pilgrimage to reach back to Abraham (Ibrahim) and traces the standard rites to the Prophet's Farewell Pilgrimage. The pilgrimage remains a living annual practice; no end date is asserted."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an 3:97 (Surat Al ʿImran). Read line by line at quran.com; Sahih International, 'In it are clear signs [such as] the standing place of Abraham. And whoever enters it shall be safe. And [due] to Allah from the people is a pilgrimage to the House, for whoever is able to find thereto a way. But whoever disbelieves, then indeed, Allah is free from need of the worlds.' The Clear Quran (Khattab) renders the load-bearing clause, 'Pilgrimage to this House is an obligation by Allah upon whoever is able among the people.' Primary scriptural text carrying the obligation of hajj on those able; read verbatim.",
+      "url": "https://quran.com/3/97",
+      "license": "Underlying Arabic text public domain; English translations vary by edition.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Qur'an 2:196-197 (Surat al-Baqara). Read at quran.com; Sahih International 2:196, 'And complete the hajj and ʿumra for Allah'; 2:197, 'Hajj is [during] well-known months, so whoever has made hajj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during hajj.' Primary scriptural text on completing the pilgrimage for God and its appointed months; read verbatim.",
+      "url": "https://quran.com/2/196-197",
+      "license": "Underlying Arabic text public domain; English translations vary by edition.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Qur'an 22:27 (Surat al-Hajj). Read at quran.com; Sahih International, 'And proclaim to the people the hajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass.' Primary scriptural text on the proclamation of the pilgrimage and the gathering of people from afar; read verbatim.",
+      "url": "https://quran.com/22/27",
+      "license": "Underlying Arabic text public domain; English translations vary by edition.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Sahih al-Bukhari, Book of Faith (Kitab al-Iman), hadith 8, on the authority of ʿAbd Allah ibn ʿUmar: 'Islam is built upon five [pillars],' among them the pilgrimage (hajj) to the House, together with the testimony of faith, the prayer (salat), the alms (zakat), and the fast of Ramadan. The canonical Sunna attestation the tradition invokes for hajj as one of the pillars. Cited at medium confidence: sunnah.com returned a Cloudflare challenge (HTTP 403) in this pass, so the hadith was NOT read verbatim here; it is a widely transmitted, canonical report verified to exist but not read line by line.",
+      "url": "https://sunnah.com/bukhari:8",
+      "license": "Classical primary text (hadith); English translations vary. Not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Peters, F. E. The Hajj: The Muslim Pilgrimage to Mecca and the Holy Places. Princeton: Princeton University Press, 1994. An academic literary and historical study of the pilgrimage, its rites, and its social and historical dimensions drawn from firsthand accounts; the outside-scholarship lens. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://press.princeton.edu/books/paperback/9780691026190/the-hajj",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. The Heart of Islam: Enduring Values for Humanity. San Francisco: HarperSanFrancisco, 2002. A contemporary Muslim scholar's exposition of Islam that treats the pillars, including the hajj, its rites, and its meaning as a gathering of the community; the contemporary Muslim scholar lens. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://books.google.com/books/about/The_Heart_of_Islam.html?id=oAbB52U0icgC",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

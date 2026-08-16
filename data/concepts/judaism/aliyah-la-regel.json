@@ -1,0 +1,86 @@
+{
+  "id": "aliyah-la-regel",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Aliyah la-regel",
+    "original": "עֲלִיָּה לָרֶגֶל",
+    "transliteration": "ʿaliyyah la-regel",
+    "aliases": [
+      "Pilgrimage to the Temple",
+      "Aliyah laregel",
+      "Ascent for the festival",
+      "The pilgrimage festivals",
+      "Shalosh regalim (the three pilgrimage festivals)"
+    ]
+  },
+  "category": "practice",
+  "summary": "Aliyah la-regel (the ascent for the festival) is the pilgrimage to the Temple in Jerusalem on the three pilgrimage festivals (the shalosh regalim: Pesach, Shavuot, and Sukkot), commanded in the Torah, where all males were to 'appear before the LORD' three times a year. Practised in the Temple period, it ceased as an active Temple rite after the destruction of the Second Temple in 70 CE, and survives in the memory of the liturgy; the Hebrew word aliyah, ascent, also carries a modern resonance.",
+  "description": "Aliyah la-regel (literally the ascent for the festival, from aliyah, going up or ascending, and regel, a festival foot-pilgrimage) is the Jewish practice of pilgrimage to the Temple in Jerusalem on the three pilgrimage festivals, the shalosh regalim: Pesach (Passover), Shavuot (the Feast of Weeks), and Sukkot (the Feast of Booths or Tabernacles). The practice rests on a Torah command that Israel appear before God three times a year. In the words of Exodus 23:14-17, read here line-by-line, 'Three times a year you shall hold a festival for Me,' naming the Feast of Unleavened Bread, the Feast of the Harvest, and the Feast of Ingathering, and concluding, 'Three times a year all your males shall appear before the Sovereign, GOD.' Deuteronomy 16:16 states the command with the festivals named as they are known in the tradition: 'Three times a year, on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths, all your males shall appear before the ETERNAL your God in the place that [God] will choose,' adding that none shall appear empty-handed but each with a gift.\n\nIn the Second Temple period the pilgrimage was a mass communal practice: pilgrims from within the land of Israel and from the diaspora ascended to Jerusalem at each of the three festivals to appear at the Temple, to offer the festival sacrifices, and to bring the required gifts, so that the festivals were the great occasions of national and religious gathering. With the destruction of the Second Temple by Rome in 70 CE, and the end of the sacrificial cult, the pilgrimage ceased as an active Temple rite; the Torah command of appearing before God at the chosen place could no longer be fulfilled in its Temple form.\n\nAfter 70 CE the aliyah la-regel persists chiefly in memory and liturgy. The three festivals retained their character as the shalosh regalim and their prayers recall the Temple pilgrimage and the sacrifices once brought, and the tradition preserves the hope of a restored pilgrimage. The Hebrew word aliyah, ascent, carries this resonance into later Jewish usage: it names the honour of being called up to the Torah in the synagogue, and, in the modern period, immigration to the land of Israel, so that the vocabulary of ascent to Jerusalem outlived the Temple rite it first described. This entry states the Torah command, the Temple-period practice, and its cessation and memory as a matter of the tradition's own texts and history.",
+  "editorial_notes": "This entry describes aliyah la-regel on Judaism's own terms (neutrality #1, #4, #6). The Torah command to appear before God three times a year, and the naming of the three festivals, rest on the primary texts read line-by-line on Sefaria (Exodus 23:14-17 and Deuteronomy 16:16). The historical claims (the mass communal pilgrimage of the Second Temple period, its cessation as a Temple rite after the destruction of 70 CE, and its afterlife in the liturgy) rest on secondary scholarship and are kept honest at medium rather than asserted from a read primary. Sources triangulate three lenses per neutrality #8-9: an academic study of the Temple-period pilgrimage (Shmuel Safrai, Ha-Aliyyah le-Regel bi-Ymei ha-Bayit ha-Sheni / The Pilgrimage to the Temple in the Days of the Second Temple, 1965); the primary texts themselves, read openly and line-by-line on Sefaria (Exodus 23:14-17 and Deuteronomy 16:16, the load-bearing Torah command); and a contemporary Jewish scholar on-topic (Jeffrey L. Rubenstein, The History of Sukkot in the Second Temple and Rabbinic Periods, Brown Judaic Studies 302, Scholars Press 1995, a monograph on one of the three pilgrimage festivals across the Temple and rabbinic periods). No encyclopedias, Wikipedia, or tertiary sources. Confidence honesty: the two Sefaria primary texts read line-by-line (Exodus 23:14-17 and Deuteronomy 16:16) are rated high and carry the load-bearing scriptural command (the appearance before God three times a year, the three festivals); Safrai and Rubenstein are verified to exist and be on-topic (author, title, publisher, year confirmed) but not read line-by-line, so medium, and the historical narrative of practice and cessation rests on that secondary scholarship at medium. Cross-tradition compares_with to hajj (Islam) and christian-pilgrimage (Christianity) both exist in the dataset. Relation target shalosh-regalim is a dangling forward reference to a not-yet-created entity; pesach, shavuot, and sukkot are likewise not-yet-created and are folded into the shalosh-regalim reference rather than each linked separately.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "shalosh-regalim",
+      "note": "Aliyah la-regel is the pilgrimage dimension of the shalosh regalim, the three pilgrimage festivals (Pesach, Shavuot, Sukkot); the command to appear before God three times a year is what makes them pilgrimage festivals. Dangling forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The pilgrimage rests on a Torah command that Israel appear before God three times a year (Exodus 23:14-17; Deuteronomy 16:16), bringing the required gifts and offerings at the chosen place."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "Appearing before God at the three festivals (the mitzvah of re'iyah, being seen) is among the commandments of the Torah; aliyah la-regel is the observance of that commanded appearance, now unfulfillable in its Temple form."
+    },
+    {
+      "type": "compares_with",
+      "target": "hajj",
+      "note": "Both aliyah la-regel and the hajj address pilgrimage as a commanded, communal sacred practice, but the answers differ and are not ranked or equated (per ADR-0005 and neutrality #10): the Jewish practice is a Torah-commanded thrice-yearly pilgrimage to the Jerusalem Temple, now historical and preserved in liturgy since the Temple's destruction, whereas the hajj is one of the five pillars of Islam, an obligatory once-in-a-lifetime pilgrimage to Mecca. hajj exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "christian-pilgrimage",
+      "note": "Both aliyah la-regel and Christian pilgrimage address pilgrimage as a communal sacred practice, but the answers differ and are not ranked or equated (per ADR-0005 and neutrality #10): the Jewish practice was a Torah-commanded thrice-yearly obligation to the Temple, now historical and liturgical, whereas Christian pilgrimage is in general a non-obligatory act of devotion to holy sites. christian-pilgrimage exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": -1000,
+    "end": 70,
+    "note": "The pilgrimage rests on a Torah command placed by the tradition in the Mosaic period; the -1000 marker is a rough conventional anchor for the era of the First Temple pilgrimage cult in Jerusalem, not a precise dating claim. As an active Temple rite the pilgrimage ends with the destruction of the Second Temple in 70 CE, hence the end date, after which it survives in the memory of the liturgy and in the tradition's hope of restoration rather than as a practised Temple rite."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Exodus 23:14-17, open Hebrew and English text on Sefaria (JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Three times a year you shall hold a festival for Me,' naming the Feast of Unleavened Bread, the Feast of the Harvest, and the Feast of Ingathering, and concluding 'Three times a year all your males shall appear before the Sovereign, GOD.' A load-bearing Torah source for the command of the thrice-yearly appearance.",
+      "url": "https://www.sefaria.org/Exodus.23.14-17",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (JPS) cited for reference. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 16:16, open Hebrew and English text on Sefaria (JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Three times a year, on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths, all your males shall appear before the ETERNAL your God in the place that [God] will choose,' adding that none shall appear empty-handed. The load-bearing Torah source naming the three pilgrimage festivals as they are known in the tradition.",
+      "url": "https://www.sefaria.org/Deuteronomy.16.16",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (JPS) cited for reference. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Safrai, Shmuel. Ha-Aliyyah le-Regel bi-Ymei ha-Bayit ha-Sheni (The Pilgrimage to the Temple in the Days of the Second Temple). Tel Aviv: Am ha-Sefer, 1965 (Hebrew). The standard academic monograph on the practice of the festival pilgrimage to Jerusalem in the Second Temple period, by a leading historian of the period; cited for the mass communal character of the Temple-period pilgrimage and the streams of pilgrims from the land and the diaspora at each of the three festivals. Verified to exist and be on-topic (author, title, and 1965 date confirmed); not read line-by-line.",
+      "url": "https://www.nli.org.il/en/books/NNL_ALEPH001200780/NLI",
+      "license": "Proprietary; cited for reference (Hebrew monograph).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rubenstein, Jeffrey L. The History of Sukkot in the Second Temple and Rabbinic Periods. Brown Judaic Studies 302. Atlanta: Scholars Press, 1995 (xiv, 361 pp.). A contemporary Jewish scholar's monograph tracing one of the three pilgrimage festivals (Sukkot) across the Second Temple and rabbinic periods, including its celebration at the Temple and the transformation of the festival after the Temple's destruction; cited for the character of the pilgrimage festivals in the Temple period and their afterlife in the liturgy. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://judaicstudies.brown.edu/monograph/history-sukkot-second-temple-and-rabbinic-periods",
+      "license": "Proprietary; cited for reference (publisher/series page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "semikhah",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Semikhah",
+    "original": "סְמִיכָה",
+    "transliteration": "semikhah",
+    "aliases": [
+      "Semicha",
+      "Semichah",
+      "Rabbinic ordination",
+      "Ordination",
+      "Semikhat zekenim (ordination of elders)",
+      "Laying on of hands"
+    ]
+  },
+  "category": "religious authority",
+  "summary": "Semikhah is rabbinic ordination, the conferral of rabbinic authority. The word derives from a root meaning to lean or lay on (as in the laying on of hands), and the tradition traces the institution to Moses laying his hands upon Joshua and to the appointment of the seventy elders. In the classical rabbinic understanding, presented here on its own terms, semikhah was a formal ordination transmitted in an unbroken chain from Moses through a line of ordained sages in the land of Israel, empowering its holders to sit on courts and adjudicate certain categories of law; that classical ordination is generally held to have lapsed in late antiquity, and the certification called semikhah in the medieval and modern periods is a testimony of halakhic competence and licence to rule, not the classical ordination.",
+  "description": "Semikhah (from the Hebrew root s-m-kh, to lean, press, or lay upon, hence the laying on of hands) is the term in Judaism for rabbinic ordination, the act by which rabbinic authority is conferred and legitimated. The tradition, described here on its own terms, roots the institution in the Torah: at Numbers 27:18-23 God tells Moses to take Joshua son of Nun and 'lay your hand upon him' (ve-samakhta et yadekha alav), and Moses 'laid his hands upon him and commissioned him', investing Joshua with a share of his own authority so that the community would obey; the tradition connects this with the appointment of the seventy elders (Numbers 11) who were to bear the burden of the people with Moses. From these the rabbinic sources derive a formal, transmissible ordination.\n\nIn the classical rabbinic account, elaborated in the Babylonian Talmud tractate Sanhedrin, semikhah was conferred by those already ordained, so that authority passed in an unbroken chain from Moses down through the generations of sages. The Gemara (Sanhedrin 13b-14a) discusses the procedure (ordination by a court of three; the conferral of the title Rabbi and of the licence to adjudicate specified categories, including cases of fines), the principle that 'there is no ordination outside the land of Israel', and the narrative of Rabbi Yehuda ben Bava, who during a period of Roman persecution risked and lost his life to ordain five disciples and preserve the chain. Because the classical semikhah required an unbroken succession of ordained sages within the land of Israel, scholars hold that it lapsed in late antiquity as the conditions for it failed, and the classical ordination in its full sense was not thereafter conferred. What is called semikhah in the medieval and modern periods, on this account, is a distinct institution: a certification (in later usage often the document heter hora'ah, licence to rule) attesting that its recipient has attained competence in halakha and is authorized to decide questions of Jewish law and, where relevant, to sit as a judge, but not the classical ordination with its particular juridical powers.\n\nThe distinction between the classical chain and the later certification is itself a matter of historical and halakhic discussion rather than a settled point beyond debate: in sixteenth-century Safed, Jacob Berab and a group of rabbis attempted in 1538 to renew the classical semikhah, ordaining Berab and then others (among them Joseph Karo), on the argument that the sages of the land of Israel could by consensus reconstitute the ordination; the attempt was contested, most prominently by Levi ibn Habib (the Ralbah) of Jerusalem, and did not succeed in re-establishing the classical institution. This entry describes semikhah on the tradition's own terms and reports the distinction between the classical ordination and the later certification, and the debate over renewing it, as historical and scholarly characterizations, not as points the editor adjudicates.",
+  "editorial_notes": "This entry treats semikhah as a sociological and institutional concept: the mechanism by which religious authority is transmitted and legitimated in the rabbinic tradition. It is described on Judaism's own terms (neutrality #1, #4, #6). The rabbinic self-understanding of an unbroken chain of ordination from Moses is recorded as the tradition's attributed account, not affirmed or denied by the editor.\n\nThe classical-versus-modern distinction (that the classical semikhah, requiring an unbroken succession of ordained sages in the land of Israel, lapsed in late antiquity, and that the medieval-and-modern semikhah is a certification of halakhic competence and licence to rule rather than the classical ordination) is stated as a historical and scholarly characterization, per neutrality #1-2, and not adjudicated as a halakhic ruling. Likewise the failed sixteenth-century Safed renewal (Jacob Berab, 1538, opposed by Levi ibn Habib) is reported as a contested historical episode, with the dispute attributed to its parties rather than resolved by the editor.\n\nSourcing triangulates the three lenses per neutrality #8. (b) The primary corpus was read openly and line-by-line on Sefaria: Numbers 27:18-23, where Moses lays his hand on Joshua ('lay your hand upon him', ve-samakhta et yadekha alav; 'He laid his hands upon him and commissioned him'), and the Babylonian Talmud, Sanhedrin 13b-14a, on the procedure of ordination (a court of three; the title Rabbi; licence for cases of fines), the principle 'there is no ordination outside the land of Israel', and the Rabbi Yehuda ben Bava narrative. These carry the load-bearing claims (the biblical root and the classical chain and its territorial requirement) and are rated high. (a) The academic-historian lens is Hayim Lapin (Rabbis as Romans) and Catherine Hezser (The Social Structure of the Rabbinic Movement in Roman Palestine), on the constitution and legitimation of rabbinic authority in Roman Palestine, and Jacob Katz's study of the Berab-Ralbah semikhah dispute for the Safed episode; medium (verified to exist and be on-topic, not read line-by-line). (c) The contemporary Jewish-scholar lens is Chaim Saiman (Halakhah: The Rabbinic Idea of Law), on rabbinic legal authority and its transmission; medium. No encyclopedias, Wikipedia, or tertiary sources.\n\nCONFIDENCE HONESTY: the open Sefaria primaries carrying the load-bearing claims (Numbers 27:18-23 and Sanhedrin 13b-14a) were read line-by-line and are rated high; the broader historical claims (the lapse of the classical semikhah, the sixteenth-century Safed renewal attempt) rest on the secondary scholarship rated medium. Nothing is fabricated; the cited Sefaria URLs resolve to the passages quoted.\n\nRelation targets: halakha exists; ijma (Islam) and magisterium (Christianity) exist in the dataset; beit-din exists in the dataset. The compares_with links to ijma and magisterium state a shared question and a difference and rank nothing, per ADR-0005 and neutrality #10.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "Semikhah is the conferral of authority to rule on and adjudicate halakha; the later certification called semikhah is precisely a licence attesting competence to decide questions of Jewish law. The institution and the law it authorizes are mutually defining."
+    },
+    {
+      "type": "related_to",
+      "target": "beit-din",
+      "note": "In the classical account, ordination qualified its holders to sit on a beit din (rabbinical court) and to adjudicate specified categories of law; semikhah and the court are the linked institutions of rabbinic legal authority. beit-din exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "ijma",
+      "note": "Both address how binding religious authority is constituted and transmitted within a tradition. Semikhah locates that authority in a formal ordination passed in a personal chain from Moses through ordained sages (in the classical account), and in the later certification of competence to rule; ijma (the consensus of the scholars) locates binding authority in the agreement of the qualified community of the learned rather than in an ordaining succession. The link marks a shared question about the source and transmission of religious authority and an explicit difference in the answer, a chain of ordained persons versus a consensus of scholars, and ranks neither. ijma exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "magisterium",
+      "note": "Both address how teaching and juridical authority in a tradition is constituted and legitimated. Semikhah, in the rabbinic account, vests authority through ordination transmitted from Moses and, later, through certified competence in the law; the Catholic magisterium vests authoritative teaching in the office of the bishops in communion with the pope, held to stand in apostolic succession. The link marks a shared question about the seat and transmission of authoritative teaching and an explicit difference in the answer, a chain of ordained scholars versus a hierarchical teaching office, and ranks neither. magisterium exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The tradition roots the institution in the Mosaic period (Moses and Joshua, Numbers 27; the seventy elders, Numbers 11), for which a conventional and approximate date is given; the classical rabbinic ordination is elaborated in the Talmudic period and is generally held to have lapsed in late antiquity (conventionally by roughly the fourth to fifth century CE). The certification called semikhah in the medieval and modern periods remains a living institution, and the sixteenth-century Safed renewal attempt is a later episode; no end date is asserted. Dates are conventional and mark a long development rather than a single origin."
+  },
+  "sources": [
+    {
+      "citation": "Torah, Numbers 27:18-23 (Bemidbar), open Hebrew and English text on Sefaria. Primary scriptural text, read line-by-line. Load-bearing for the biblical root of semikhah: God tells Moses to take Joshua son of Nun and 'lay your hand upon him' (verse 18, Hebrew ve-samakhta et yadekha alav, from the root s-m-kh), to have him stand before Eleazar and the whole community and 'invest him with some of your authority' (verses 19-20), and Moses 'laid his hands upon him and commissioned him, as the LORD had spoken through Moses' (verse 23), the passage the tradition takes as the origin of ordination and the transmission of authority.",
+      "url": "https://www.sefaria.org/Numbers.27.18-23",
+      "license": "Underlying Hebrew in the public domain; Sefaria English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Sanhedrin 13b-14a, open Hebrew/Aramaic and English text on Sefaria. Primary rabbinic text, read line-by-line. Load-bearing for the classical account of semikhah: the conferral of ordination by a court of three, the granting of the title Rabbi and of the licence to adjudicate specified categories (including cases of fines); the principle 'there is no ordination (semikhah) outside the land of Israel' (Sanhedrin 14a); and the narrative of Rabbi Yehuda ben Bava, who during Roman persecution ordained five disciples (Rabbi Meir, Rabbi Yehuda, Rabbi Shimon, Rabbi Yosei, and Rabbi Elazar ben Shammua) at the cost of his life to preserve the chain of ordination.",
+      "url": "https://www.sefaria.org/Sanhedrin.13b",
+      "license": "Underlying Hebrew/Aramaic in the public domain; Sefaria English translation (William Davidson Talmud) under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Lapin, Hayim. Rabbis as Romans: The Rabbinic Movement in Palestine, 100-400 C.E. Oxford and New York: Oxford University Press, 2012. An academic study of the rabbinic movement as a social formation in Roman Palestine; cited for the constitution and legitimation of rabbinic authority and the character of the movement within which ordination functioned. Academic-historian lens. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/rabbis-as-romans-9780195179309",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hezser, Catherine. The Social Structure of the Rabbinic Movement in Roman Palestine. Texts and Studies in Ancient Judaism 66. Tubingen: Mohr Siebeck, 1997. An academic study of the rabbinic movement as a loosely structured network rather than a formal institution; cited for the sociological question of how rabbinic authority was constituted, recognized, and transmitted in late antiquity, the context in which the classical semikhah operated and lapsed. Academic-historian lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.mohrsiebeck.com/en/book/the-social-structure-of-the-rabbinic-movement-in-roman-palestine-9783161467974",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Katz, Jacob (Yaakov). 'Mahloket ha-Semikhah bein Rabbi Yaakov Beirav ve-ha-Ralbah' (The Controversy over Semikhah between Rabbi Jacob Berab and the Ralbah). Zion 16 (1951), pp. 28-45. A scholarly study of the sixteenth-century attempt in Safed to renew classical semikhah (Jacob Berab, 1538) and the dispute with Levi ibn Habib (the Ralbah) that followed; cited specifically for the Safed renewal episode and its contested reception. Academic-historian lens. Verified to exist and be on-topic (author, article, journal, and year confirmed); not read line-by-line.",
+      "url": "https://www.jstor.org/journal/zion",
+      "license": "Proprietary (Hebrew-language scholarly journal Zion, published by the Historical Society of Israel); cited for reference.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saiman, Chaim N. Halakhah: The Rabbinic Idea of Law. Library of Jewish Ideas. Princeton: Princeton University Press, 2018. A contemporary Jewish scholar's account (the author is a legal academic and a sitting dayyan) of the rabbinic conception of law and legal authority; cited for the transmission and legitimation of rabbinic authority to rule, within which semikhah as licence to decide the law is situated. Contemporary-Jewish-scholar lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691152110/halakhah",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "magisterium",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Magisterium",
+    "original": "magisterium (Latin, teaching office)",
+    "transliteration": "magisterium",
+    "aliases": [
+      "the teaching office of the Church",
+      "the teaching authority of the Church",
+      "the Church's magisterium",
+      "the authentic magisterium",
+      "munus docendi (the office of teaching)"
+    ]
+  },
+  "category": "ecclesiology",
+  "summary": "In Roman Catholic teaching, the magisterium is the living teaching office of the Church, exercised by the pope and the bishops in communion with him, whose task is to give an authentic (that is, authoritative) interpretation of the word of God, whether in its written form (Scripture) or in the form of Tradition. Catholic teaching distinguishes the ordinary magisterium (the day-to-day authentic teaching of pope and bishops) from the extraordinary magisterium (solemn definitions by a pope speaking ex cathedra or by an ecumenical council), and holds that this office is not above the word of God but serves it. The Eastern Orthodox and Protestant traditions do not accept the Roman magisterium in this form, the Protestant Reformers holding to sola scriptura; this entry states each position as its own and does not adjudicate them.",
+  "description": "The magisterium is the Roman Catholic Church's term for its own teaching authority, the office (Latin munus) of authentically teaching the Christian faith. In Catholic ecclesiology this office belongs to the pope and to the bishops in communion with him, understood as the successors of the Apostle Peter and of the apostles; the Second Vatican Council's Dogmatic Constitution on Divine Revelation, Dei Verbum, states that 'the task of authentically interpreting the word of God, whether written or handed on, has been entrusted exclusively to the living teaching office of the Church, whose authority is exercised in the name of Jesus Christ' (Dei Verbum 10). The word 'authentic' here carries its older sense of authoritative rather than merely genuine.\n\nA structuring distinction in Catholic teaching is that between the ordinary and the extraordinary magisterium. The extraordinary (or solemn) magisterium is exercised when a pope, speaking ex cathedra as pastor and teacher of all Christians, defines a doctrine of faith or morals to be held by the whole Church, or when the bishops gathered in an ecumenical council do the same; in the Catholic account these solemn definitions engage the Church's charism of infallibility. The 1983 Code of Canon Law states both cases: 'By virtue of his office, the Supreme Pontiff possesses infallibility in teaching when as the supreme pastor and teacher of all the Christian faithful, who strengthens his brothers and sisters in the faith, he proclaims by definitive act that a doctrine of faith or morals is to be held' (Canon 749 §1), and it extends the same to the college of bishops in an ecumenical council, and to the bishops dispersed throughout the world when, teaching authentically together with the Roman Pontiff, they agree that a proposition is to be held definitively (Canon 749 §2). The ordinary magisterium is the continual, non-defining teaching of pope and bishops in their day-to-day exercise of the office; Lumen Gentium 25 teaches that a religious submission of mind and will (in the Latin, obsequium) is owed to the authentic magisterium of the Roman Pontiff even when he is not speaking ex cathedra. The distinction between these modes, and the precise weight owed to each grade of teaching, is itself the subject of Catholic theological discussion.\n\nOn the relation of the magisterium to its sources, Catholic teaching is emphatic that the teaching office does not stand over the word of God. Dei Verbum 10 states that 'this teaching office is not above the word of God, but serves it, teaching only what has been handed on, listening to it devoutly, guarding it scrupulously and explaining it faithfully in accord with a divine commission and with the help of the Holy Spirit'; the same passage sets Sacred Tradition, Sacred Scripture, and the teaching office of the Church in a mutual relation, 'so linked and joined together that one cannot stand without the others'. This is presented in this entry as the Roman Catholic Church's own teaching about itself.\n\nThe other Christian traditions do not accept the Roman magisterium in this form, and their positions are stated here each on its own terms and not ranked. The Eastern Orthodox churches locate binding doctrinal authority not in a universal teaching office headed by the bishop of Rome but conciliarly, in the consensus of the Church expressed above all through the ecumenical councils, and they do not accept the universal jurisdiction or the personal infallibility of the pope (see papal-primacy). The Protestant Reformers of the sixteenth century held the principle of sola scriptura, that Scripture is the supreme and self-sufficient authority (norma normans) for doctrine, and rejected a magisterium claiming to bind conscience alongside or over Scripture; the various Protestant traditions accord differing weight to creeds, confessions, and church teaching, but none accepts the Roman magisterium as defined by the Catholic Church. These are recorded as the attributed positions of the respective traditions, and this entry does not rule on which account of teaching authority is correct.",
+  "editorial_notes": "This entry describes a Roman Catholic institution and states the Catholic doctrine AS THE CATHOLIC CHURCH'S OWN TEACHING (neutrality #1, #2, #6). The sociological core is that the magisterium is where binding interpretive authority over the tradition's foundational texts is institutionally located: the entry describes how the Catholic Church constitutes and locates that authority (in the pope and the bishops in communion with him) rather than assessing whether the claim is true. The ordinary/extraordinary distinction and the relation to Scripture and Tradition are set out as Catholic teaching. The Orthodox and Protestant differences (they do not accept the Roman magisterium; the Reformers held sola scriptura) are ATTRIBUTED to those traditions and NOT adjudicated (neutrality #1, #2).\n\nThe compares_with links (ijma, semikhah) compare the shared QUESTION, not the answers (neutrality #10, ADR-0005): each names how a tradition constitutes binding religious authority and states the difference, ranking none. ijma (Islamic consensus of the scholars) and semikhah (rabbinic ordination transmitting halakhic authority) are the Islam and Judaism siblings of this batch and both exist in the dataset.\n\nSourcing triangulates the three Christian lenses per neutrality #8. (b) The PRIMARY corpus was read verbatim on open pages at vatican.va: Dei Verbum 10 (confirming the sentence 'This teaching office is not above the word of God, but serves it, teaching only what has been handed on...' and the entrusting of authentic interpretation 'exclusively to the living teaching office of the Church'); Lumen Gentium 25 (the religious submission of mind and will owed to the authentic magisterium of the Roman Pontiff even when not speaking ex cathedra, and the conditions for infallible teaching by the bishops); and the 1983 Code of Canon Law, Canon 749 §1-§2 (the infallibility of the Supreme Pontiff and of the college of bishops). These three primaries are rated high for the phrases confirmed on the page. (a) An academic ecclesiology, Francis A. Sullivan's Magisterium: Teaching Authority in the Catholic Church, the standard scholarly monograph on the topic, rated medium (verified to exist and be on-topic, not read line by line). (c) A contemporary Catholic theologian on the disputed and developing question of the grades of magisterial teaching, Richard R. Gaillardetz's Teaching with Authority, rated medium. No encyclopedias, no tertiary or popular sources.\n\nCONFIDENCE HONESTY: high is reserved for the OPEN primaries read line by line at vatican.va; Sullivan and Gaillardetz are medium. Relation targets papal-primacy (concept), dei-verbum and lumen-gentium (works, same id namespace) all exist in the dataset. compares_with targets ijma and semikhah now exist in the dataset. This entry is verified-eligible on the strength of the verbatim reading of Dei Verbum 10 and Lumen Gentium 25 at vatican.va, but is filed as draft pending review.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "papal-primacy",
+      "note": "The magisterium as a universal teaching office headed by the bishop of Rome presupposes the doctrine of papal primacy; the extraordinary magisterium includes the pope's ex cathedra definitions, whose infallibility papal-primacy treats. Distinct doctrines, treated in separate entries; the Catholic account is attributed, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "dei-verbum",
+      "note": "Dei Verbum 10 (Vatican II, Dogmatic Constitution on Divine Revelation) is the load-bearing conciliar statement that the task of authentically interpreting the word of God is entrusted to the living teaching office of the Church, which 'is not above the word of God, but serves it'. dei-verbum exists as a work entry; the relation crosses entity type in the shared id namespace."
+    },
+    {
+      "type": "related_to",
+      "target": "lumen-gentium",
+      "note": "Lumen Gentium 25 (Vatican II, Dogmatic Constitution on the Church) sets out the teaching authority of the bishops in communion with the pope, the religious submission owed to the authentic magisterium of the Roman Pontiff, and the conditions for infallible teaching. lumen-gentium exists as a work entry; the relation crosses entity type in the shared id namespace."
+    },
+    {
+      "type": "compares_with",
+      "target": "ijma",
+      "note": "Shared question: how a religious tradition constitutes binding authority over the interpretation of its foundational texts. The Catholic magisterium locates that authority in a personal teaching office (pope and bishops in communion with him); ijma (in Sunni usul al-fiqh) locates a binding authority in the consensus of the qualified scholars of the community. The comparison is of the question, not the answers; neither is ranked or equated. ijma is the Islam sibling of this batch and exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "semikhah",
+      "note": "Shared question: how binding religious authority is transmitted and constituted within a tradition. The Catholic magisterium is an ongoing teaching office of pope and bishops; semikhah (rabbinic ordination) is the transmission of authority to render binding halakhic rulings within the rabbinic tradition. The comparison names the shared question and the difference in how authority is located and passed on, without ranking or equating them. semikhah is the Judaism sibling of this batch and now exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 100,
+    "note": "The Catholic understanding of a teaching office of the bishops as successors of the apostles has roots in the early Church and developed over a long span; the term magisterium in its modern technical sense (the Church's teaching authority) took its current shape in the nineteenth century. Conventional early anchor in the second century (the appeal to apostolic succession in teaching); the doctrine was given its developed conciliar formulation at the First Vatican Council (1870, papal infallibility) and the Second Vatican Council (1962-1965, Dei Verbum and Lumen Gentium), and codified in the 1983 Code of Canon Law. Living doctrine of the Roman Catholic Church; no end date is asserted. Dates mark a development, not a fixed origin."
+  },
+  "sources": [
+    {
+      "citation": "Second Vatican Council (1965). Dei Verbum (Dogmatic Constitution on Divine Revelation), n. 10. Primary conciliar text. Read verbatim on the open page: the task of authentically interpreting the word of God 'has been entrusted exclusively to the living teaching office of the Church, whose authority is exercised in the name of Jesus Christ'; and 'this teaching office is not above the word of God, but serves it, teaching only what has been handed on, listening to it devoutly, guarding it scrupulously and explaining it faithfully in accord with a divine commission and with the help of the Holy Spirit'; and that Tradition, Scripture, and the teaching office are 'so linked and joined together that one cannot stand without the others'. The load-bearing statement of the magisterium's relation to Scripture and Tradition.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "license": "Conciliar text; read line-by-line on the open page at vatican.va.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Second Vatican Council (1964). Lumen Gentium (Dogmatic Constitution on the Church), n. 25. Primary conciliar text. Read verbatim on the open page: that the bishops teaching in communion with the Roman Pontiff are to be respected as witnesses to divine and Catholic truth and their teaching adhered to with religious assent; that 'this religious submission of mind and will must be shown in a special way to the authentic magisterium of the Roman Pontiff, even when he is not speaking ex cathedra'; and that the bishops, though not individually infallible, proclaim Christ's doctrine infallibly when, in agreement among themselves and with the successor of Peter, they concur that a position is to be definitively held, and more clearly still when gathered in an ecumenical council. The load-bearing statement of the ordinary and collegial magisterium.",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+      "license": "Conciliar text; read line-by-line on the open page at vatican.va.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Codex Iuris Canonici (Code of Canon Law), 1983, Canon 747 §1 and Canon 749 §1-§2. Primary legal text. Read verbatim on the open page: Canon 747 §1, that the Church, to which Christ entrusted the deposit of faith, 'has the duty and innate right, independent of any human power whatsoever, to preach the gospel to all peoples'; Canon 749 §1, 'By virtue of his office, the Supreme Pontiff possesses infallibility in teaching when as the supreme pastor and teacher of all the Christian faithful...he proclaims by definitive act that a doctrine of faith or morals is to be held'; Canon 749 §2, extending the same infallibility to the college of bishops in an ecumenical council and to the bishops dispersed throughout the world teaching authentically together with the Roman Pontiff. Load-bearing for the ordinary/extraordinary distinction as codified.",
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib3-cann747-755_en.html",
+      "license": "Code text; read line-by-line on the open page at vatican.va.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Sullivan, Francis A. Magisterium: Teaching Authority in the Catholic Church. New York: Paulist Press, 1983. The standard scholarly monograph on the Catholic magisterium, treating the biblical and patristic background, the ordinary and extraordinary magisterium, and the grades of magisterial teaching and the response owed to each. Academic ecclesiology lens.",
+      "url": "https://www.paulistpress.com/Products/2119-4/magisterium.aspx",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Gaillardetz, Richard R. Teaching with Authority: A Theology of the Magisterium in the Church. Collegeville, MN: Liturgical Press, 1997. A contemporary Catholic theologian's systematic treatment of the theology of the magisterium and the differentiated authority of magisterial teaching. Contemporary-theologian lens on the developing question of the grades of teaching.",
+      "url": "https://litpress.org/Products/5060/Teaching-with-Authority",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

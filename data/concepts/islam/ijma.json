@@ -1,0 +1,91 @@
+{
+  "id": "ijma",
+  "tradition": "islam",
+  "names": {
+    "primary": "Ijma",
+    "original": "الإجماع",
+    "transliteration": "ijmāʿ",
+    "aliases": [
+      "consensus",
+      "scholarly consensus",
+      "the consensus of the community",
+      "juristic consensus"
+    ]
+  },
+  "category": "legal theory and authority",
+  "summary": "Ijma is consensus, in Sunni usul al-fiqh (the theory of the sources of law) the agreement of the qualified scholars (or, on some formulations, of the community) that Sunni theory treats as the third source of authority after the Qur'an and the Sunna, binding once established and taken to yield certainty. Whose consensus counts, that of the Prophet's Companions, of the scholars of a given age, or of the whole community, and on what textual warrant it rests, are questions on which the tradition's own theorists differ, and the Shia locate binding authority differently, in the Imams rather than in scholarly agreement.",
+  "description": "Ijma (from the root j-m-ʿ, 'to gather' or 'to agree upon') names, in classical Sunni legal theory (usul al-fiqh), the agreement of the qualified interpreters of the law, and on the definition of some theorists of the whole community, on a point of religion or law. In the standard fourfold scheme of the sources (usul), ijma is ranked as the third source of authority after the Qur'an and the Sunna and ahead of analogical reasoning (qiyas); once a consensus is held to have been established, its ruling is treated as binding and, on the dominant view, as certain (qatʿi) and not open to being reopened by later generations. Sociologically the doctrine is an account of how interpretive authority is socially constituted after the founder: what makes a ruling bind the community is not only its derivation from scripture but the collective agreement of those qualified to judge, so that the community's own consensus becomes a locus of authority alongside the revealed texts.\n\nThe warrant Sunni theorists most often cite for the authority of ijma is twofold: the Qur'anic verse Q 4:115, which warns against following 'a path other than that of the believers' (ghayr sabil al-muʾminin), read as making the way of the believing community normative; and a prophetic hadith to the effect that the community will not agree upon an error, transmitted in wordings such as 'my community will not unite upon misguidance' (inna ummati la tajtamiʿu ʿala dalala) and 'God will not gather my community upon error'. Al-Ghazali in al-Mustasfa is a classic instance of a jurist grounding ijma on exactly these two proofs. Whose agreement constitutes a binding ijma is itself debated within Sunni usul: some restrict it to the consensus of the Prophet's Companions, some extend it to the qualified jurists (mujtahids) of any single generation, some require the agreement of the whole community, and theorists dispute whether the participants must be contemporaries of one another and whether lay believers count alongside the scholars. These are presented here as positions internal to the tradition's theorists, not adjudicated. The doctrine also marks a line between the major Islamic branches: Sunni theory treats the consensus of the scholars as authoritative in itself, whereas Twelver Shia usul al-fiqh, while it too lists ijma among the sources, treats a consensus as authoritative only insofar as it discloses the view of the infallible Imam, so that the binding authority is located in the Imam and not in scholarly agreement as such. This branch difference is stated here as the attributed self-understanding of each side, without ruling on which account of religious authority is correct.",
+  "editorial_notes": "This is a sociological/institutional concept: the entry treats ijma as the tradition's account of how binding interpretive authority is constituted after revelation, and describes it on the tradition's own terms (neutrality #1, #6). Per neutrality #2 the internal Sunni disputes (whose consensus counts, Companions vs. the mujtahids of an age vs. the whole community; whether participants must be contemporaries; whether lay believers count) and the Sunni/Shia branch difference (Sunni: scholarly consensus authoritative in itself; Twelver Shia: a consensus binds only as it discloses the Imam's view) are attributed to their holders and left unadjudicated; phrasing such as 'some restrict', 'some extend', 'Sunni theory treats', and 'Twelver Shia usul al-fiqh treats' marks attributed positions.\n\nCONFIDENCE HONESTY. The two Qur'anic/hadith warrants were read verbatim and are rated high FOR WHAT THE TEXTS SAY, with an important qualification about the hadith. (1) Q 4:115 ('a path other than that of the believers... We shall leave him on his chosen path') was read line by line in two translations (Abdel Haleem; Yusuf Ali) against the Arabic (ghayr sabil al-muʾminin); it is the verse the usul theorists themselves invoke, cited here as the tradition's own proof-text, not as the editor's proof of the doctrine. (2) The warrant hadith was read verbatim in two collections at Sunnah.com data: Sunan Ibn Majah 3950 ('My nation will not unite on misguidance...', Arabic inna ummati lan tajtamiʿa ʿala dalala) and Jamiʿ al-Tirmidhi 2167 ('Indeed Allah will not gather my Ummah upon deviation, and Allah's Hand is over the Jamaʿa...'). HONEST GRADING: these warrant hadith are graded weak by major hadith critics. Ibn Majah 3950 is graded 'Very Daif' (very weak) by al-Albani, ʿAbd al-Baqi, and Shuʿayb al-Arnaʾut, and 'Daif' by Zubayr ʿAli Zaʾi. Tirmidhi 2167 has a contested grade, 'Sahih' per Ahmad Shakir, weak ('Daif') in the al-Albani-convention listings and per Zubayr ʿAli Zaʾi, while al-Tirmidhi himself calls it gharib; the Tirmidhi text also carries an early gloss that the jamaʿa are 'the people of jurisprudence, knowledge, and hadith' (ahl al-fiqh wa-l-ʿilm wa-l-hadith), which bears directly on the 'whose consensus counts' question. So the hadith is rated high for what its text says and that it is the cited warrant, but the entry reports honestly that its authenticity is contested and weak-graded, and does not present it as established prophetic teaching.\n\nThe DISTINCTIVE usul-al-fiqh doctrine (ijma as a binding, certainty-yielding third source; the debate over whose consensus counts; the Sunni/Shia difference) does not rest on those weak-graded warrants but on scholarship and the classical usul corpus, rated medium: (a) Western academic lens, Wael Hallaq, A History of Islamic Legal Theories (CUP, 1997), and Bernard Weiss, The Search for God's Law (on al-Amidi), which treats precisely the whose-consensus questions (mujtahids vs. commoners, contemporaneity); (b) the tradition's classical primary usul text, al-Ghazali's al-Mustasfa min ʿilm al-usul, which grounds ijma on Q 4:115 and the la-tajtamiʿu hadith and treats it as certain once established. Because the distinctive doctrine is carried by medium-rated scholarship (and the warrant hadith is weak-graded), this entry should top out at an honest 'reviewed' status, not 'verified', even though the warrant texts themselves were read verbatim. Per neutrality #9 no encyclopedias or tertiary sources are cited. Relation targets usul-al-fiqh and qiyas do not yet exist in the dataset (dangling forward references flagged here); imama exists (Shia location of authority in the Imam); magisterium (Christianity) and semikhah (Judaism) exist in the dataset as the compares_with targets on the shared question of how binding religious authority is constituted after the founder/revelation.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "usul-al-fiqh",
+      "note": "Ijma is one of the four sources (usul) in Sunni legal theory (usul al-fiqh), ranked third after the Qur'an and the Sunna. Forward reference: usul-al-fiqh does not yet exist in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "qiyas",
+      "note": "In the standard fourfold Sunni scheme ijma (consensus) ranks above qiyas (analogical reasoning); the two are the third and fourth sources. Forward reference: qiyas does not yet exist in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "imama",
+      "note": "The Sunni/Shia difference over ijma turns on where binding authority is located: Twelver Shia usul treats a consensus as authoritative only insofar as it discloses the view of the infallible Imam (imama), whereas Sunni theory treats scholarly consensus as authoritative in itself. Attributed, not adjudicated."
+    },
+    {
+      "type": "compares_with",
+      "target": "magisterium",
+      "note": "Shared question: how is binding religious authority constituted after the founder/revelation, and who is qualified to settle contested doctrine for the whole community. Difference: Sunni ijma locates that authority in the collective agreement of the qualified scholars (with the warrant that the community will not agree upon error), whereas the Catholic magisterium locates teaching authority in the ordained hierarchy culminating in the bishops in communion with the pope. Neither answer is ranked or equated here; magisterium exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "semikhah",
+      "note": "Shared question: how is binding interpretive authority transmitted and constituted within a community after the founding revelation. Difference: ijma constitutes authority through the collective agreement of the qualified scholars of an age, whereas rabbinic semikhah constitutes it through the ordination and transmitted chain of individual authorized scholars. Shared theme, differing answer, no ranking; semikhah exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 632,
+    "note": "The appeal to the consensus of the community is traced in Sunni memory to the generation after the Prophet's death (632 CE) and the practice of the early community, and ijma was systematized as one of the four sources in the classical usul al-fiqh literature from roughly the 8th-11th centuries CE (e.g. al-Shafiʿi, later al-Ghazali). No end date is given; the doctrine remains a live source in Islamic legal theory and its scope is still debated."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an, Q 4:115 (Surat al-Nisa'). Read verbatim in two translations against the Arabic: Abdel Haleem, 'if anyone opposes the Messenger, after guidance has been made clear to him, and follows a path other than that of the believers, We shall leave him on his chosen path'; Yusuf Ali, 'If anyone contends with the Messenger... and follows a path other than that becoming to men of Faith, We shall leave him in the path he has chosen'. Arabic: wa-man yushaqiq al-rasula min baʿdi ma tabayyana lahu al-huda wa-yattabiʿ ghayra sabil al-muʾminin. This is the verse Sunni usul theorists (e.g. al-Ghazali) invoke as the Qur'anic warrant for the authority of ijma, the 'path of the believers' (sabil al-muʾminin) being read as normative. Cited as the tradition's own proof-text, not as the editor's proof of the doctrine. High for what the verse says and that it is the cited warrant.",
+      "url": "https://quran.com/4/115",
+      "license": "Qur'anic Arabic text public domain; English translations quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The prophetic warrant hadith for ijma, read verbatim in two collections. (1) Sunan Ibn Majah 3950 (Book 36, Hadith 25): 'My nation will not unite on misguidance, so if you see them differing, follow the great majority' (Arabic: inna ummati lan tajtamiʿa ʿala dalala, fa-idha raʾaytum ikhtilafan fa-ʿalaykum bi-l-sawad al-aʿzam). GRADING (reported honestly): 'Very Daif' (very weak) per al-Albani, Muhammad Fuʾad ʿAbd al-Baqi, and Shuʿayb al-Arnaʾut; 'Daif' per Zubayr ʿAli Zaʾi. (2) Jamiʿ al-Tirmidhi 2167 (Book 33, Hadith 10): 'Indeed Allah will not gather my Ummah... upon deviation, and Allah's Hand is over the Jamaʿa, and whoever deviates, he deviates to the Fire.' GRADING (contested): 'Sahih' per Ahmad Shakir, weak ('Daif') in the al-Albani-convention listings and per Zubayr ʿAli Zaʾi; al-Tirmidhi calls the report gharib, and appends the gloss that the Jamaʿa are 'the people of jurisprudence, knowledge, and hadith' (ahl al-fiqh wa-l-ʿilm wa-l-hadith). Rated high for what the texts verbatim say and that they are the hadith invoked as ijma's warrant; the entry reports honestly that their authenticity is contested and weak-graded, so they do not by themselves establish the doctrine.",
+      "url": "https://sunnah.com/ibnmajah:3950",
+      "license": "Classical Arabic hadith texts public domain; English translations from the Sunnah.com corpus, quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hallaq, Wael B. A History of Islamic Legal Theories: An Introduction to Sunni Usul al-fiqh. Cambridge: Cambridge University Press, 1997. The standard English-language introduction to Sunni legal theory, treating ijma as one of the four sources (usul), its authority, warrant, and place among ijtihad, consensus, and analogy. The Western academic lens on the distinctive usul-al-fiqh doctrine. Relevant chapters not read line by line for this draft.",
+      "url": "https://www.cambridge.org/core/books/history-of-islamic-legal-theories/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Weiss, Bernard G. The Search for God's Law: Islamic Jurisprudence in the Writings of Sayf al-Din al-Amidi. Rev. ed. Salt Lake City: University of Utah Press, 2010 (1st ed. 1992). A close study of al-Amidi's usul al-fiqh that treats the authority of ijma directly, including precisely the 'whose consensus counts' questions, whether participants in a consensus must be mujtahids or may include commoners, and whether they must be contemporaries of one another. Western-academic lens on the internal Sunni debate. Relevant sections not read line by line for this draft.",
+      "url": "https://uofupress.lib.utah.edu/the-search-for-gods-law/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid Muhammad (d. 505/1111). al-Mustasfa min ʿilm al-usul (The Distilled Essence of the Science of the Principles of Jurisprudence). Classical Sunni (Shafiʿi/Ashʿari) usul al-fiqh work. Grounds the authority of ijma on the Qur'anic verse Q 4:115 ('the path of the believers') and the prophetic report that the community will not agree upon error, and treats a duly established ijma as certain (qatʿi) and binding. The tradition's own classical primary-text lens on the doctrine. Relevant chapters (kitab al-ijmaʿ) not read line by line for this draft; Arabic text consulted via the openly hosted edition.",
+      "url": "https://archive.org/details/GAZALIMustasfaMinIlmUsulI",
+      "license": "Classical Arabic text public domain; cited for reference, not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
