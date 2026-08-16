@@ -6,6 +6,31 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.22.0] - 2026-07-26
+
+Opening the sociological layer. The dataset's mission promises theological, historical, AND sociological
+knowledge, but coverage had been heavily theological/historical. This batch adds twelve institutional and
+lived-practice concepts arranged as four cross-tradition axes, each shown across all three traditions and
+linked by `compares_with`. Eight enter `verified` on open primary reads, four honestly `reviewed`.
+
+### Added
+- **Religious authority** (how binding interpretation is constituted): `ijma` (Islam), `magisterium`
+  (Christianity), `semikhah` (Judaism).
+- **Initiation** (entering the community): `shahada` (Islam), `baptism` (Christianity), `giyur` (Judaism).
+- **Sacred law as social order**: `sharia` (Islam), `canon-law` (Christianity), `beit-din` (the rabbinical
+  court, Judaism; alongside the existing `halakha`).
+- **Pilgrimage and lived practice**: `hajj` (Islam), `christian-pilgrimage` (Christianity),
+  `aliyah-la-regel` (the Temple pilgrimage festivals, Judaism).
+
+### Changed
+- Verified (8): `hajj`, `shahada` (Qur'an + canonical hadith), `magisterium` (Dei Verbum 10 / Canon 749 at
+  vatican.va), `baptism` (New Testament + Didache), and `semikhah`, `beit-din`, `giyur`, `aliyah-la-regel`
+  (Torah and Talmud at Sefaria). The verified tier is now 127.
+- Reviewed (4), honestly: `sharia` (the system concept rests on secondary scholarship beyond its Qur'anic
+  anchor), `canon-law` (its history rests on scholarship beyond the two canons read), `ijma` (its warrant
+  hadith is weak-graded and the usul doctrine rests on scholarship), and `christian-pilgrimage` (a
+  non-obligatory devotion whose history rests on scholarship).
+
 ## [0.21.0] - 2026-07-26
 
 Closing more high-value dangling forward references across the Christian systematic/modern and Jewish
