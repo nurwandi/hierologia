@@ -1,0 +1,68 @@
+{
+  "id": "tosafists",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Tosafists",
+    "original": "בַּעֲלֵי הַתּוֹסָפוֹת",
+    "transliteration": "Ba'alei ha-Tosafot",
+    "aliases": [
+      "Ba'alei ha-Tosafot",
+      "Baalei HaTosafot",
+      "the Tosafot masters",
+      "the northern French and German glossators of the Talmud",
+      "the authors of the Tosafot ('additions')"
+    ]
+  },
+  "summary": "The Tosafists (Ba'alei ha-Tosafot, 'the masters of the additions') were the school of medieval Talmud commentators of northern France and Germany in the twelfth and thirteenth centuries, mostly descendants and students of Rashi, whose dialectical glosses, the Tosafot ('additions'), are printed on the outer margin of the standard Talmud page opposite Rashi's commentary. Their comparative, dialectical method sought to reconcile apparently contradictory Talmudic passages across the whole corpus.",
+  "description": "The Tosafists, in Hebrew the Ba'alei ha-Tosafot ('the masters of the Tosafot', the 'additions'), were the circle of Talmud commentators active in the academies of northern France (Champagne and the Ile-de-France) and the German Rhineland across the twelfth and thirteenth centuries. The movement grew directly out of the school of Rashi (Rabbi Shlomo Yitzchaki of Troyes, 1040-1105): its leading figures were mostly his descendants and pupils, and it took his continuous commentary on the Babylonian Talmud as the base upon which it built. E. E. Urbach's standard study, Ba'alei ha-Tosafot, treats the Tosafists in chronological order as a coherent scholarly movement, and Ephraim Kanarfogel's work situates them within the broader intellectual culture of medieval Ashkenaz. This entry follows that scholarship and the Tosafot themselves, and describes the school's method and figures without adjudicating the halakhic questions they debated.\n\nThe Tosafot are named for being 'additions' to Rashi's commentary, but their method is distinct from his. Where Rashi supplies a running gloss that explains the flow of the discussion, the Tosafists proceed dialectically: they juxtapose a passage in one tractate with apparently contradictory passages elsewhere in the Talmud, raise a difficulty (kushya), and resolve it (terutz), often refining or revising Rashi's reading in the process. The characteristic aim is comparative and harmonizing, to reconcile the whole Talmudic corpus with itself by treating it as a single consistent body of law and argument, and the characteristic form is the short signed gloss beginning from a catchword (dibbur ha-matchil) of the Talmudic text. A single printed Tosafot passage may cite and weigh the views of several masters and name the one whose explanation it adopts; the gloss on Menachot 34b, for example, sets out the derivation of the four scriptural passages placed in the tefillin and records that 'Rabbenu Tam explains' (u-mefaresh Rabbenu Tam) the grammar of the word totafot in a particular way.\n\nThe leading figures of the school were largely Rashi's own family and their students. His grandsons stood at its head: Rabbenu Tam (Jacob ben Meir, c. 1100-1171), the foremost halakhic authority of the movement, and his elder brother the Rashbam (Samuel ben Meir), who both continued Rashi's Talmud commentary and composed Tosafot. Isaac ben Samuel of Dampierre (known as the Ri, the Ri ha-Zaken, a nephew and pupil of Rabbenu Tam) led the next generation and trained many disciples whose glosses fill the printed Tosafot. Later Tosafists collected, edited, and abridged the accumulated glosses into the recensions that were eventually printed. The enduring place of the school is visible on every page of the standard Vilna Talmud: the text sits in the centre, Rashi's commentary runs down the inner margin, and the Tosafot run down the outer margin opposite him, so that the Tosafists' dialectical additions have been studied alongside Rashi as the second indispensable commentary of the Talmud ever since. The entry presents the Tosafists on Judaism's own terms as this medieval school of dialectical Talmud commentary, with the scholarship on their method and the Tosafot themselves recorded as its sources.",
+  "editorial_notes": "This entry presents the Tosafists (Ba'alei ha-Tosafot) on Judaism's own terms as the twelfth-and-thirteenth-century school of dialectical Talmud commentary in northern France and Germany that grew out of Rashi's school (neutrality #1, #4, #6). It is referenced by rashi.json (which records an 'influenced' edge to tosafists, exists). The school's method (comparative, dialectical, reconciling apparently contradictory Talmudic passages across the whole corpus) and its leading figures (Rashi's grandsons Rabbenu Tam and the Rashbam, and Isaac of Dampierre / the Ri) are DESCRIBED and ATTRIBUTED, not ranked; the halakhic questions the Tosafists debated are recorded, not adjudicated (neutrality #2). Sources triangulate three lenses per neutrality #8-#9: (a) academic and standard scholarship on the Tosafists, E. E. Urbach's Ba'alei ha-Tosafot (the standard Hebrew study) and Ephraim Kanarfogel's The Intellectual History and Rabbinic Culture of Medieval Ashkenaz; (b) the tradition's OWN primary text, open and auditable on Sefaria: the Tosafot on Menachot 34b:1:1, read verbatim, which names Rabbenu Tam on the derivation of the tefillin passages; (c) Kanarfogel serves also as a contemporary Jewish scholar on the movement. No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: one OPEN Sefaria primary carries a load-bearing claim and is rated HIGH, read verbatim via the Sefaria text API: Tosafot on Menachot 34b:1:1 (Vilna Edition, Public Domain, Hebrew only, no English translation exists), which sets out the derivation of the four tefillin passages and states 'u-mefaresh Rabbenu Tam' (Rabbenu Tam explains) the grammar of totafot, the load-bearing text for the school's dialectical method and for its leading figure. The broader history of the movement (its geography, chronology, the roll of its masters, its place opposite Rashi on the printed page) rests on secondary scholarship: Urbach and Kanarfogel are rated MEDIUM, verified to exist and be on-topic via publisher and library records (Urbach: Bialik Institute, 1955, expanded ed. 1980; Kanarfogel: Wayne State University Press, 2012/2013, winner of the Goldstein-Goren prize), not read line-by-line. The entry does NOT claim high confidence for the movement's history, which honestly rests on Urbach and Kanarfogel. Relation targets: rashi and talmud exist; rabbenu-tam is created in this same batch (data/figures/judaism/rabbenu-tam.json). This entry is authored as a DRAFT.",
+  "period": {
+    "founded": 1100,
+    "active_until": 1300,
+    "note": "The Tosafist movement flourished in northern France and Germany across the twelfth and thirteenth centuries, growing out of the school of Rashi (d. 1105); its first generation is that of Rashi's sons-in-law and grandsons (Rabbenu Tam d. 1171, the Rashbam), its central generation that of Isaac of Dampierre (the Ri), and later Tosafists edited and abridged the glosses into the thirteenth century and beyond. c. 1100-1300 is an approximate marker for the period of the movement's greatest activity, not a precise span."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "rashi",
+      "note": "The Tosafists grew directly out of Rashi's school and took his running commentary on the Babylonian Talmud as the base for their dialectical glosses; several of the leading Tosafists were his own descendants and pupils, and in the printed Talmud the Tosafot stand on the outer margin opposite Rashi's commentary. The rashi entry exists and records an 'influenced' edge to tosafists."
+    },
+    {
+      "type": "related_to",
+      "target": "rabbenu-tam",
+      "note": "Rabbenu Tam (Jacob ben Meir, c. 1100-1171), Rashi's grandson, was the foremost halakhic authority of the Tosafist movement; the rabbenu-tam figure records the reciprocal member_of edge to tosafists. Created in this same batch (data/figures/judaism/rabbenu-tam.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The Tosafot are a dialectical commentary on the Babylonian Talmud, printed on the outer margin of the standard Talmud page opposite Rashi; the Tosafists' method reconciles apparently contradictory Talmudic passages across the whole corpus. The talmud entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Tosafot on Menachot 34b:1:1 (s.v. 'le-totafot le-totafot le-totafot'), open Hebrew text on Sefaria (Vilna Edition). Cited as an openly-auditable primary text of the Tosafist school, read verbatim: the gloss sets out the derivation of the four scriptural passages placed in the tefillin from the word totafot, weighs the grammatical difficulty, and records 'u-mefaresh Rabbenu Tam' (Rabbenu Tam explains) that the first vav of u-le-totafot is to be placed at the end of the word, resolving the count of the passages. Read and verified verbatim via the Sefaria text API as the load-bearing text for the Tosafists' dialectical method and for the standing of Rabbenu Tam among them. Hebrew only; no English translation exists on Sefaria for this passage.",
+      "url": "https://www.sefaria.org/Tosafot_on_Menachot.34b.1.1",
+      "license": "Hebrew: Public Domain (Vilna Edition). Openly auditable; Tosafot on Menachot 34b:1:1 read verbatim via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Urbach, Ephraim Elimelech. Ba'alei ha-Tosafot: Toldotehem, Hiburehem, Shitatam ('The Tosafists: Their History, Writings, and Methods'). Jerusalem: Bialik Institute (Mosad Bialik), 1955; expanded fourth edition 1980. The standard scholarly Hebrew study of the Tosafists, treating the masters in chronological order and reconstructing their biographies, literary corpus, and dialectical method from manuscript evidence; cited as the load-bearing academic lens on the movement's history and method. Verified to exist and be on-topic (Bialik Institute; the standard reference in Tosafist scholarship), not read line-by-line.",
+      "url": "https://www.nli.org.il/en/books/NNL_ALEPH001200055/NLI",
+      "license": "Proprietary; cited for reference (National Library of Israel catalogue record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kanarfogel, Ephraim. The Intellectual History and Rabbinic Culture of Medieval Ashkenaz. Detroit: Wayne State University Press, 2012 (xvii + 565 pp.; winner of the Goldstein-Goren prize for Best Book in Jewish Thought). A study of the intellectual world of the Tosafists and their contemporaries in twelfth-and-thirteenth-century northern France and Germany, situating the Tosafist enterprise within the broader rabbinic culture of medieval Ashkenaz; cited as both academic historian and contemporary Jewish scholar on the movement. Verified to exist and be on-topic (Wayne State University Press record, ISBN 9780814330241), not read line-by-line.",
+      "url": "https://wsupress.wayne.edu/9780814330241/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

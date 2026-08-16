@@ -1,0 +1,67 @@
+{
+  "id": "barcelona-disputation",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Disputation of Barcelona",
+    "original": "וִיכּוּחַ הָרַמְבַּ\"ן",
+    "transliteration": "Vikuach ha-Ramban",
+    "aliases": [
+      "The Barcelona Disputation",
+      "The Disputation of 1263",
+      "The Disputation at Barcelona"
+    ]
+  },
+  "category": "forced public disputation (Christian-Jewish)",
+  "location": "the royal palace of King James I of Aragon, Barcelona",
+  "date": {
+    "year": 1263,
+    "note": "Held over four sessions in July 1263 (conventionally in late July (the sources give ranges such as 20-24 or 20-27 July)) before King James I of Aragon (Jaume I). Two accounts of the disputation survive: a Hebrew narrative written by Nachmanides himself (the Vikuach, Sefer ha-Vikuach) and a shorter Latin protocol from the Christian side; the Hebrew account is generally dated by scholars to late 1264 or early 1265, about a year and a half after the event."
+  },
+  "summary": "The Disputation of Barcelona was a public, Christian-initiated and coerced disputation held in July 1263 before King James I of Aragon, between the Catalan Jewish scholar Nachmanides (the Ramban) and the Dominican friar Pablo Christiani (Friar Paul), a convert from Judaism, on whether the Messiah had already come and whether rabbinic (talmudic and midrashic) texts attest it. Two partisan accounts survive: Nachmanides' own Hebrew narrative (the Vikuach), which presents him as prevailing, and a shorter Latin Christian protocol, which presents Christiani as prevailing; each side claimed victory, and this entry adjudicates neither the outcome nor the messianic question.",
+  "description": "The Disputation of Barcelona was one of the major forced Christian-Jewish disputations of the medieval period. In July 1263, over four sessions in the royal palace at Barcelona and before King James I of Aragon (Jaume I) and his court, the Dominican friar Pablo Christiani (Friar Paul), himself a convert from Judaism, argued against the Catalan rabbi, Talmudist, and biblical exegete Nachmanides (Moses ben Nahman, the Ramban). The disputation was Christian-initiated and coerced: it was pressed by the Dominican order, which had developed a missionary strategy of arguing from the Jews' own rabbinic sources, and Nachmanides took part under compulsion rather than as an equal in an open debate. The framework was set by the Christian side, and the questions were the Christian side's questions: whether the Messiah foretold by the prophets had already come, whether the Messiah is both divine and human, and whether the Talmud and Midrash (the aggadic passages of rabbinic literature) themselves concede these Christian claims.\n\nFriar Paul's method was to cite rabbinic passages, chiefly aggadic midrashim, and argue that they already acknowledged that the Messiah had come. Nachmanides' response, as recorded in his own Hebrew account, was in part to argue that the messianic prophecies remained unfulfilled and in part to set out a view of the authority of aggadah, that the non-legal, homiletical portions of rabbinic literature are not binding in the way halakha is and need not be read as the Christian side read them, a position that itself became controversial. On the central question he argued that the Messiah had not come because the conditions the prophets attached to the messianic age, above all universal peace, had not been realized.\n\nTHE ACCOUNTS. Two sources survive, and they conflict, so this entry presents each as the attributed testimony of its own side and does not rule between them. Nachmanides' own Hebrew narrative, the Vikuach (Sefer ha-Vikuach), gives his messianic argument in his own words, reasoning that the Messiah cannot have come because the prophecy of his universal dominion is unfulfilled: 'It is impossible for me to accept that the Nazarene [Jesus] is the Messiah, for the prophet has said of the Messiah, He will have dominion from sea to sea, and from the river unto the ends of the earth [Ps. 72:8]', a dominion, he argues, that the world has not seen. His account also has the king pay him a compliment at the debate's close, 'Never have I seen a man in the wrong plead his case as excellently as you have', and presents him as having held his ground and been dismissed with a gift. The shorter Latin Christian protocol tells it the other way, concluding of Nachmanides that 'thus it is clear that he dares not, and cannot, defend his erroneous belief.' Modern scholarship (Chazan, Maccoby) treats both as tendentious records written for their own communities, notes that both sides claimed victory, and generally describes the historical outcome as indecisive rather than a demonstrable win for either party.\n\nAFTERMATH. In the wake of the disputation Nachmanides' written Hebrew account drew the hostility of the Dominicans and the church; a proceeding was brought against it and it was condemned as containing blasphemies against Christianity, and Nachmanides came under pressure in its aftermath. Some years later he left Spain and settled in the Land of Israel, at Acre, where he spent the closing years of his life. The disputation also belongs to a wider thirteenth-century pattern of Christian pressure on Jewish books and rabbinic literature, of which the earlier Paris disputation and the burning of the Talmud (1240s) are the best-known instances.",
+  "editorial_notes": "THE CRUX is the two rival accounts, handled per neutrality #11. The 1263 disputation survives in two conflicting partisan sources: Nachmanides' own Hebrew Vikuach (which presents him as prevailing) and a shorter Latin Christian protocol (which presents Friar Paul / Pablo Christiani as prevailing). This entry attributes each account to its own side, quotes each in its own voice (Nachmanides on the unfulfilled messianic prophecy and the king's parting compliment; the Latin protocol's 'he dares not, and cannot, defend his erroneous belief'), and adjudicates NEITHER the outcome NOR the underlying question of whether the Messiah has come. The Christian record is not used as neutral fact about Judaism, and Nachmanides' record is not used as neutral fact about Christianity; each stands as the attributed testimony of its side, exactly as neutrality #11 requires. The format is stated as it was, a Christian-initiated, unequal, and coerced disputation whose questions were set by the Christian side, not an open debate between equals (neutrality #1, #4). The aftermath (the condemnation of Nachmanides' written account as blasphemous, and his later departure for the Land of Israel) is given as historical record. The disputation was already described, consistently, in the nachmanides figure entry (data/figures/judaism/nachmanides.json), which this entry mirrors and closes as a dangling relation target.\n\nSOURCING triangulates the lenses adapted for a cross-tradition medieval episode (neutrality #8, #11): (b) PRIMARY, read line-by-line: an open academic translation (University of Texas at Austin, Miriam Bodian's course materials) that reproduces BOTH the Hebrew (Nachmanides) protocol and the Latin Christian protocol, presenting excerpts of both accounts, with the extended Nachmanides passage attributed on the page to Robert Chazan, Barcelona and Beyond (p. 674) and the full protocols on offline course reserves; the load-bearing quotes above (Ps. 72:8 argument; 'Never have I seen a man in the wrong...'; 'he dares not, and cannot, defend his erroneous belief'; 'both sides claimed victory') were read verbatim from that page and are rated high. (a) academic historians: Robert Chazan, Barcelona and Beyond (the standard modern reconstruction from the conflicting sources, and the source for the 'indecisive' reading and the dating of the Hebrew account) and Hyam Maccoby, Judaism on Trial (the classic study and translation of the medieval disputations), both rated medium, verified to exist and be on-topic via publisher/JSTOR records but not read in full. CONFIDENCE HONESTY: high only on the primary passages actually read line-by-line on the open UT Austin page; the reconstruction, dating, and 'both claimed victory / indecisive' framing rest on Chazan/Maccoby and are rated medium. No encyclopedias, no Wikipedia, no tertiary sources. Relation targets present in the dataset: nachmanides (data/figures/judaism), mashiach (data/concepts/judaism), talmud (data/works/judaism). No dangling relation targets. Status draft, pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "participant",
+      "target": "nachmanides",
+      "note": "Nachmanides (Moses ben Nahman, the Ramban) took part under compulsion as the Jewish disputant and afterwards wrote the Hebrew account (the Vikuach). His arguments are given as his attributed position, not adjudicated. Closes the dangling forward reference from data/figures/judaism/nachmanides.json; the figure entry exists."
+    },
+    {
+      "type": "related_to",
+      "target": "mashiach",
+      "note": "The central question disputed was whether the Messiah (mashiach) foretold by the prophets had already come; Nachmanides argued he had not, on the ground that the prophesied universal peace and dominion were unfulfilled. The messianic claim is stated as the matter at issue and is not adjudicated. The mashiach concept entry exists (data/concepts/judaism/mashiach.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "Friar Paul argued from rabbinic (talmudic and midrashic) texts that they conceded Christian claims about the Messiah; Nachmanides contested that reading and set out a view of the non-binding authority of aggadah. The role of the Talmud is reported as the contested ground, both readings attributed, neither adjudicated. The talmud entry exists (data/works/judaism/talmud.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "The Disputation of Barcelona, 1263: open academic translation of both the Hebrew (Nachmanides) protocol and the Latin Christian protocol, hosted by Miriam Bodian, University of Texas at Austin, presenting excerpts of both attributed accounts (the extended Nachmanides passage is credited on the page to Robert Chazan, Barcelona and Beyond, p. 674). Read line-by-line as the source for the quoted passages. Nachmanides' Hebrew account is quoted verbatim on the unfulfilled messianic prophecy ('It is impossible for me to accept that the Nazarene is the Messiah, for the prophet has said of the Messiah, He will have dominion from sea to sea, and from the river unto the ends of the earth [Ps. 72:8]') and on the king's parting words ('Never have I seen a man in the wrong plead his case as excellently as you have'); the Latin protocol is quoted verbatim on its opposite claim ('thus it is clear that he dares not, and cannot, defend his erroneous belief'). The page also states that 'both sides claimed victory.'",
+      "url": "https://www.laits.utexas.edu/bodian/me-disputationBarcelona.html",
+      "license": "Academic course material (University of Texas at Austin); underlying medieval texts in the public domain, English translations from Hyam Maccoby, Judaism on Trial. Read line-by-line for the attributed quotes above.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Chazan, Robert. Barcelona and Beyond: The Disputation of 1263 and Its Aftermath. Berkeley and Los Angeles: University of California Press, 1992. The standard modern reconstruction of the 1263 disputation from the conflicting Christian (Latin) and Jewish (Hebrew) sources, with attention to the coerced format, the dating of Nachmanides' Hebrew account to late 1264 / early 1265, the aftermath, and the finding that the two accounts each claim victory and that the outcome is best described as indecisive. The academic-history lens; verified to exist and be on-topic (University of California Press record; Internet Archive), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/barcelona-and-beyond/paper",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Maccoby, Hyam. Judaism on Trial: Jewish-Christian Disputations in the Middle Ages. Littman Library of Jewish Civilization. Rutherford, NJ: Fairleigh Dickinson University Press, 1982. The classic study and English translation of the medieval Christian-Jewish disputations, whose Part II is a complete translation of Nachmanides' Hebrew account of the Barcelona disputation; the source-critical and translation lens underlying the open UT Austin text. Verified to exist and be on-topic (JSTOR record for the reissue), the volume as a whole not read line-by-line here.",
+      "url": "https://www.jstor.org/stable/j.ctv1rmjqp",
+      "license": "Proprietary; cited for reference (JSTOR record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

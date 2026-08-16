@@ -1,0 +1,94 @@
+{
+  "id": "destruction-of-the-second-temple",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Destruction of the Second Temple",
+    "original": "חֻרְבַּן בַּיִת שֵׁנִי",
+    "transliteration": "Ḥurban Bayit Sheni",
+    "aliases": [
+      "The Destruction of the Second Temple",
+      "The Fall of Jerusalem (70 CE)",
+      "Churban Bayit Sheni",
+      "The Roman destruction of the Temple"
+    ]
+  },
+  "category": "conquest and destruction of the Temple",
+  "location": "Jerusalem, Roman province of Judaea",
+  "date": {
+    "year": 70,
+    "note": "The Roman siege and capture of Jerusalem and the destruction of the Second Temple by forces under Titus occurred in 70 CE, during the First Jewish-Roman War (66-73 CE, the Great Revolt). Jewish tradition commemorates the destruction on the ninth of Av (Tisha b'Av). The war continued after 70 CE, with the fall of the last strongholds, conventionally including Masada, dated to 73 or 74 CE. The 'year' field encodes 70 CE, the year the Temple was destroyed."
+  },
+  "summary": "The Destruction of the Second Temple is the Roman capture of Jerusalem and the burning of the Second Temple by forces under Titus in 70 CE, during the First Jewish-Roman War (66-73 CE). The near-contemporary account of Josephus, an eyewitness and participant in the war, describes the burning of the Temple (The Jewish War, Book VI). The Talmud narrates the destruction through the story of Kamtza and Bar Kamtza and reads the loss as caused by sinat chinam, baseless hatred, a reading attributed to the Talmud. The destruction ended Temple sacrifice and is widely regarded as pivotal to the emergence of rabbinic Judaism, centered on Torah, prayer, and the synagogue rather than on the Temple cult.",
+  "description": "The Destruction of the Second Temple refers to the fall of Jerusalem to Roman forces and the burning of the Temple in 70 CE, the decisive event of the First Jewish-Roman War (the Great Revolt, 66-73 CE). The fullest near-contemporary narrative is that of Josephus (Titus Flavius Josephus), a Jewish commander in the revolt who went over to the Romans and wrote The Jewish War as an eyewitness and participant. In Book VI he recounts that, during the assault on the Temple, 'one of the soldiers, without staying for any orders', took fire from the burning materials and, lifted up by a fellow soldier, set fire to a golden window of the Temple, and that the ensuing conflagration spread despite Titus's efforts to preserve the structure. Josephus's account is a primary source read here for the historical event; his framing (including his presentation of Titus as reluctant to destroy the Temple) is itself debated in scholarship and is not adopted by this entry as settled fact.\n\nThe rabbinic tradition preserves its own narrative of the destruction, most fully in the Babylonian Talmud, tractate Gittin (55b-57a). There the story of Kamtza and Bar Kamtza is told: a host who meant to invite his friend Kamtza had his enemy Bar Kamtza brought instead, and, refusing Bar Kamtza's offers to pay rather than be publicly humiliated, expelled him from the feast; Rabbi Yochanan opens the account with the statement that 'Jerusalem was destroyed on account of Kamtza and bar Kamtza' (Gittin 55b). In the wider rabbinic reflection on the two destructions, the loss of the Second Temple is attributed to sinat chinam, baseless or wanton hatred: the Talmud (Yoma 9b) asks why the Second Temple was destroyed given that its generation was engaged in Torah, mitzvot, and acts of kindness, and answers that 'it was destroyed due to the fact that there was wanton hatred during that period', which it declares equivalent in gravity to the three cardinal sins. This causal reading of the destruction as the fruit of baseless hatred is a theological and moral interpretation internal to the rabbinic sources; the present entry attributes it to the Talmud and does not adjudicate it as the historical cause of the Roman victory.\n\nThe destruction of the Temple ended the sacrificial cult that had been the center of Israelite and Jewish worship, since the Torah's sacrificial system was bound to the Temple in Jerusalem, and it removed the institutional world of the priesthood and the pilgrimage. In the standard scholarly and traditional account it is a pivot: with the Temple gone, the forms of Judaism that could survive without it, above all the emerging rabbinic movement centered on the study and practice of Torah, on communal prayer, and on the synagogue, came to define Jewish religious life. The tradition remembers the destruction annually on the ninth of Av and links the fall of the Second Temple to that of the First. This entry records the Roman destruction of 70 CE, the Josephan account of the burning, and the rabbinic narrative and its sinat chinam reading as matters carried respectively by Josephus and by the Talmud; it attributes the theological reading to the Talmud and does not present it as the historical cause of the event.",
+  "editorial_notes": "This is one of the first two Event entries for the judaism tradition (Judaism previously had zero events); it is filed under data/events/judaism/ per ADR-0006 and ADR-0008. NEUTRALITY: the rabbinic reading of the destruction as caused by sinat chinam (baseless hatred), and the Kamtza / Bar Kamtza narrative, are theological and moral interpretations internal to the Talmud; per neutrality principles #1 and #2 they are ATTRIBUTED to the Talmud (Gittin and Yoma) and are NOT adjudicated by the editor as the historical cause of the Roman victory, which is treated as a matter of Roman imperial and military history. Josephus's own framing (notably his portrayal of Titus as reluctant to burn the Temple) is flagged in the description as debated and is not adopted as settled fact.\n\nSOURCING triangulates three lenses per neutrality principles #8 and #9. (b) The OPEN PRIMARY corpus was read line-by-line and rated high only where opened: the Babylonian Talmud, Gittin 55b (the Kamtza and Bar Kamtza narrative and Rabbi Yochanan's statement that 'Jerusalem was destroyed on account of Kamtza and bar Kamtza'), read at Sefaria; the Talmud Yoma 9b (the explicit sinat chinam / wanton-hatred statement, the classic locus for that reading, which the destruction narrative in Gittin presupposes), read at Sefaria; and Josephus, The Jewish War, Book VI (the burning of the Temple, chapter 4), read in the Whiston translation open at penelope.uchicago.edu. All three URLs were confirmed to resolve. The Sefaria Talmud is served in the William Davidson Edition (bracketed material is the Davidson translation's explanatory insertion); the Whiston Josephus and the underlying Talmud and Greek are public domain. NOTE ON LOCUS: the task named Gittin 55b-57a for both the Kamtza narrative and the sinat chinam reading; Gittin 55b carries the Kamtza / Bar Kamtza destruction narrative verbatim, while the explicit 'wanton hatred' (sinat chinam) formula is stated at Yoma 9b, which is cited here as the load-bearing source for that specific reading so the attribution is exact.\n\n(a) The academic-history lens is Martin Goodman, Rome and Jerusalem (a peer-reviewed-caliber monograph on the war and the destruction), and Seth Schwartz, Imperialism and Jewish Society, on the social consequences; both rated medium (verified to exist and be on-topic, not read line-by-line). (c) A contemporary Jewish scholar on the post-destruction transition to rabbinic Judaism (Shaye J. D. Cohen, From the Maccabees to the Mishnah) is rated medium on the same basis. No encyclopedias, Wikipedia, or tertiary sources are cited.\n\nRELATIONS: related_to targets rabbinic-judaism and second-temple-judaism both EXIST (data/schools/judaism/); related_to aliyah-la-regel (the pilgrimage that ceased with the Temple) EXISTS (data/concepts/judaism/). The precedes / followed_by link to yavneh resolves: yavneh exists in the dataset (data/events/judaism/yavneh.json). CONFIDENCE HONESTY: this entry is verified-eligible on the load-bearing primary claims read verbatim (Josephus on the burning; Gittin on Kamtza; Yoma on sinat chinam), rated high; the sinat chinam causal reading is attributed to the Talmud, not asserted as historical causation, and the broader historical-consequence claims (the pivot to rabbinic Judaism) rest on secondary scholarship rated medium. Status is draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "The destruction of the Temple ended the sacrificial cult and is widely regarded as pivotal to the rise of rabbinic Judaism, centered on Torah study, prayer, and the synagogue rather than the Temple. Stated as a historical consequence on the authority of scholarship, not adjudicated as inevitable."
+    },
+    {
+      "type": "related_to",
+      "target": "second-temple-judaism",
+      "note": "The destruction ended the Second Temple period; the diverse Judaisms of that era (Pharisees, Sadducees, and others) were reshaped by the loss of the Temple. Reported as the era the destruction brings to a close."
+    },
+    {
+      "type": "related_to",
+      "target": "aliyah-la-regel",
+      "note": "The pilgrimage festivals (aliyah la-regel), the ascent to the Temple in Jerusalem three times a year, ceased with the Temple's destruction, since the Temple was their object. Stated as a consequence of the destruction."
+    },
+    {
+      "type": "followed_by",
+      "target": "yavneh",
+      "note": "In the traditional and scholarly account the rabbinic center associated with Yavneh (Jamnia) emerged in the aftermath of the destruction and is credited with sustaining Jewish religious life without the Temple. The yavneh entity exists in the dataset (data/events/judaism/yavneh.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Josephus (Titus Flavius Josephus). The Wars of the Jews (The Jewish War), Book VI, chapter 4. Trans. William Whiston. Read line-by-line at the Penelope (University of Chicago) edition. The eyewitness and participant account of the Roman assault and the burning of the Temple: 'one of the soldiers, without staying for any orders' took fire and 'set fire to a golden window', the conflagration spreading despite Titus's efforts. The open primary-text lens (Greek original and Whiston translation both public domain).",
+      "url": "http://penelope.uchicago.edu/josephus/war-6.html",
+      "license": "Public domain (Whiston translation; Greek original ancient). Passages read line-by-line; URL confirmed to resolve.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Gittin 55b. Read line-by-line at Sefaria (William Davidson Edition). The narrative of Kamtza and Bar Kamtza and Rabbi Yochanan's statement that 'Jerusalem was destroyed on account of Kamtza and bar Kamtza', the rabbinic account of the destruction. The open primary-text lens; the Aramaic/Hebrew is public domain.",
+      "url": "https://www.sefaria.org/Gittin.55b",
+      "license": "Underlying Talmud public domain; William Davidson Edition English served openly by Sefaria (CC-BY-NC). Passages read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Yoma 9b. Read line-by-line at Sefaria (William Davidson Edition). The explicit statement that the Second Temple was destroyed 'due to the fact that there was wanton hatred (sinat chinam) during that period', declared equivalent in gravity to idol worship, forbidden sexual relations, and bloodshed. The load-bearing primary source for the sinat chinam reading. The open primary-text lens; the underlying text is public domain.",
+      "url": "https://www.sefaria.org/Yoma.9b",
+      "license": "Underlying Talmud public domain; William Davidson Edition English served openly by Sefaria (CC-BY-NC). Passages read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Goodman, Martin. Rome and Jerusalem: The Clash of Ancient Civilizations. New York: Alfred A. Knopf, 2007. A scholarly history of Rome and Judaea, the First Jewish-Roman War, and the destruction of the Temple and its aftermath. The academic-history lens on the war and its causes and consequences.",
+      "url": "https://www.penguinrandomhouse.com/books/117005/rome-and-jerusalem-by-martin-goodman/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the publisher catalogue.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schwartz, Seth. Imperialism and Jewish Society, 200 B.C.E. to 640 C.E. Jews, Christians, and Muslims from the Ancient to the Modern World. Princeton: Princeton University Press, 2001. A scholarly study of the social and religious transformation of Jewish society under Roman rule, including the impact of the destruction of the Temple. The academic-history lens on the social consequences of 70 CE.",
+      "url": "https://press.princeton.edu/books/paperback/9780691117676/imperialism-and-jewish-society",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Princeton University Press catalogue.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. From the Maccabees to the Mishnah. 3rd ed. Library of Early Christianity. Louisville: Westminster John Knox Press, 2014. A contemporary Jewish scholar's account of Judaism from the second century BCE through the rabbinic period, including the destruction of the Second Temple and the emergence of rabbinic Judaism. The contemporary Jewish scholar lens on the post-70 transition.",
+      "url": "https://www.wjkbooks.com/Products/0664239048/from-the-maccabees-to-the-mishnah.aspx",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Westminster John Knox Press catalogue.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

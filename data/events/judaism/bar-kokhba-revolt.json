@@ -1,0 +1,76 @@
+{
+  "id": "bar-kokhba-revolt",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Bar Kokhba Revolt",
+    "original": "מרד בר כוכבא",
+    "transliteration": "Mered Bar Kokhva",
+    "aliases": [
+      "The Second Jewish Revolt",
+      "The Second Jewish War against Rome",
+      "The Bar Kokhba War",
+      "The revolt of Bar Koseva"
+    ]
+  },
+  "category": "revolt (armed uprising against Rome)",
+  "location": "Judea (Roman province of Judaea), centred on the Judean hills and the fortress of Betar",
+  "date": {
+    "year": 132,
+    "end_year": 135,
+    "note": "Conventionally dated 132-135 CE, under the emperor Hadrian. The precise dating of the revolt's start and end is debated in scholarship, and some historians extend the war to 136 CE (so Menahem Mor, who dates it 132-136). The documentary evidence from the Judean Desert caves (the Bar Kokhba letters and deeds) attests to an administration in the revolt leader's name during these years. The revolt was crushed with the fall of the fortress of Betar, traditionally placed in 135 CE."
+  },
+  "summary": "The Bar Kokhba Revolt was the second major Jewish uprising against Roman rule, fought in Judea under the emperor Hadrian and led by Simon bar Koseva, called Bar Kokhba ('son of a star'). After early successes that established a short-lived independent Judean administration, it was crushed at the fortress of Betar with catastrophic consequences: mass death and enslavement, Jerusalem refounded as the pagan colony Aelia Capitolina, the province of Judaea renamed Syria Palaestina, and Jews barred from Jerusalem. Rabbinic tradition (the Yerushalmi) reports that Rabbi Akiva acclaimed Bar Kokhba as the messianic king, reading 'a star shall come out of Jacob' (Numbers 24:17); this dataset records that acclamation as an attributed aggadic tradition, not as adjudicated messianic fact.",
+  "description": "The Bar Kokhba Revolt (132-135 CE) was the second of the two great Jewish revolts against Rome, fought in the province of Judaea under the emperor Hadrian. Its leader was Simon bar Koseva (Shimon ben Kosiba), known by the messianic epithet Bar Kokhba, 'son of a star.' The causes are debated in modern scholarship and are attributed here rather than adjudicated: proposed factors include Hadrian's plan to refound Jerusalem as the pagan colony Aelia Capitolina, a ban on circumcision, and longer-running grievances after the First Revolt (66-73 CE) and the destruction of the Second Temple. Documentary evidence recovered from caves in the Judean Desert (letters and legal deeds issued in Bar Koseva's name, styling him nasi, 'prince,' over Israel) attests that the revolt established a functioning administration, a short-lived independent Judean polity, during the years of the war.\n\nThe rabbinic tradition preserves a report, transmitted in the name of Rabbi Shimon bar Yohai, that Rabbi Akiva acclaimed Bar Koseva as the messianic king. In the Jerusalem Talmud (Y. Ta'anit 4:5, 68d), Akiva is said to have applied to him the verse 'a star (kokhav) shall come out of Jacob' (Numbers 24:17), reading 'Koziba' where scripture reads 'kokhav,' and to have declared 'this is the King Messiah,' to which Rabbi Yohanan ben Torta is reported to have replied, 'Akiva, grass will grow in your cheeks (jaws) and still the son of David will not have come.' This dataset records that acclamation as an attributed aggadic and Talmudic tradition, one that already carries a dissenting voice within the source itself, and does not adjudicate it as messianic fact; the historicity and exact meaning of Akiva's reported endorsement are themselves debated in scholarship.\n\nThe revolt was ultimately crushed by Roman forces under the general Sextus Julius Severus. The war ended with the fall of the fortress of Betar (Beitar), southwest of Jerusalem, traditionally dated to 135 CE, an event later mourned in Jewish memory. The consequences were catastrophic for the Jewish population of Judea: ancient and later sources report mass death, enslavement, and the devastation of the Judean countryside, with Jewish life shifting northward to the Galilee. In the aftermath, Jerusalem was rebuilt as the Roman colonia Aelia Capitolina, the province of Judaea was renamed Syria Palaestina, and Jews were barred from entering Jerusalem. This entry records the revolt, its leadership, the reported messianic acclamation, the fall of Betar, and the aftermath as matters attributed to their sources; it does not rule on the causes of the war, on the historicity of the aggadic reports, or on the messianic claim itself.",
+  "editorial_notes": "This entry describes the Bar Kokhba Revolt as a historical episode and treats the contested points as attributed rather than adjudicated, per neutrality principles #1 and #2. THE MESSIANIC CRUX: Rabbi Akiva's reported acclamation of Bar Kokhba as the messianic king, reading Numbers 24:17 ('a star shall come out of Jacob'), is presented strictly as the rabbinic tradition's attributed aggadic account, transmitted in the name of Rabbi Shimon bar Yohai in the Jerusalem Talmud (Y. Ta'anit 4:5, 68d), and it is not adjudicated as messianic fact. The dataset notes that the source itself preserves a dissenting reply (Rabbi Yohanan ben Torta), that the historicity of Akiva's endorsement is debated in scholarship (Schafer, 'Bar Kokhba and the Rabbis'), and it makes no claim as to whether Bar Kokhba was or was not the messiah. The concept mashiach hosts the messianic idea itself; this entry links to it for the claim, not to assert it. Numbers 24:17 was read line-by-line at Sefaria (open text) and is quoted for the proof-text; it is rated high. The Yerushalmi Ta'anit 4:5 passage on Akiva and Bar Kokhba was also read line-by-line at Sefaria (Guggenheimer translation, openly available) and is rated high for the wording of the acclamation and the reply; the historical reconstruction of the war rests on secondary scholarship rated medium, kept honest. Sources triangulate the lenses adapted for Judaism (neutrality #8): (a) the primary texts, Numbers 24:17 and Y. Ta'anit 4:5 at Sefaria (high); (b) academic historians, Peter Schafer ed., The Bar Kokhba War Reconsidered (Mohr Siebeck 2003), the standard scholarly reassessment (medium); (c) a contemporary Jewish scholar of the revolt, Menahem Mor, The Second Jewish Revolt (Brill 2016) (medium). No encyclopedias, Wikipedia, or tertiary sources are cited. RELATION TARGETS: rabbi-akiva (present, data/figures/judaism/rabbi-akiva.json), mashiach (present, data/concepts/judaism/mashiach.json), and destruction-of-the-second-temple (present in the same batch at data/events/judaism/destruction-of-the-second-temple.json) all resolve; validate.py reports no dangling target for this entry. This entry is a draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "rabbi-akiva",
+      "note": "Rabbinic tradition (Y. Ta'anit 4:5, 68d), transmitted in the name of Rabbi Shimon bar Yohai, reports that Rabbi Akiva acclaimed Bar Kokhba as the King Messiah, reading Numbers 24:17. Recorded as an attributed aggadic tradition (which itself preserves a dissenting reply by Rabbi Yohanan ben Torta), not adjudicated as fact."
+    },
+    {
+      "type": "related_to",
+      "target": "mashiach",
+      "note": "The reported acclamation of Bar Kokhba draws on the messianic idea (mashiach): Akiva is said to have named him 'King Messiah' on the reading of 'a star shall come out of Jacob' (Numbers 24:17). This link connects the event to the concept for the messianic claim; it does not assert that Bar Kokhba was the messiah, a matter the source itself already contests."
+    },
+    {
+      "type": "related_to",
+      "target": "destruction-of-the-second-temple",
+      "note": "The Bar Kokhba Revolt followed the First Jewish Revolt and the destruction of the Second Temple (70 CE) by roughly two generations, and the loss of the Temple and the Roman refounding of Jerusalem as Aelia Capitolina are among the factors scholars attribute to it. Reported as a historical relation between the two events."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Numbers 24:17 (Tanakh, Bemidbar), the fourth oracle of Balaam: 'A star rises from Jacob, / A scepter comes forth from Israel,' Hebrew 'darakh kokhav mi-Ya'aqov ve-qam shevet mi-Yisra'el.' The proof-text the rabbinic tradition (Y. Ta'anit 4:5) reports Rabbi Akiva applied to Bar Kokhba ('son of a star'). Primary text, read line-by-line at Sefaria (open).",
+      "url": "https://www.sefaria.org/Numbers.24.17",
+      "license": "Public domain (Hebrew Masoretic text); Sefaria English (JPS 1985 / Sefaria community translations) per Sefaria terms. Read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Jerusalem Talmud (Talmud Yerushalmi), Ta'anit 4:5 (68d): 'Rebbi Shimon ben Yohai stated: Aqiba my teacher used to preach, there appeared a star out of Jacob (Numbers 24:17), there appeared Koziba out of Jacob. When Rebbi Aqiba saw Bar Koziba he said, this is the King Messiah. Rebbi Yohanan ben Torta said to him, Aqiba! Grass will grow from your jaws and still David's son will not have come.' The primary rabbinic (aggadic) report of Akiva's messianic acclamation of Bar Kokhba and of the dissent to it. Read line-by-line at Sefaria (open), Guggenheimer translation.",
+      "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.5",
+      "license": "Public domain (Aramaic/Hebrew text); Sefaria English (Heinrich W. Guggenheimer, 1999-2015, licensed to Sefaria) per Sefaria terms. Read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Schafer, Peter, ed. The Bar Kokhba War Reconsidered: New Perspectives on the Second Jewish Revolt against Rome. Texts and Studies in Ancient Judaism 100. Tubingen: Mohr Siebeck, 2003. The standard scholarly reassessment of the revolt, arising from a 2001 Princeton conference; Schafer's own essay 'Bar Kokhba and the Rabbis' (pp. 1-22) examines the rabbinic reports of Akiva's acclamation and treats their historicity critically. The academic-history lens on the revolt and on the messianic report.",
+      "url": "https://www.mohrsiebeck.com/en/book/the-bar-kokhba-war-reconsidered-9783161587948/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Mohr Siebeck catalogue and a peer-reviewed review (Journal of Roman Archaeology).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Mor, Menahem. The Second Jewish Revolt: The Bar Kokhba War, 132-136 CE. Brill Reference Library of Judaism 50. Leiden and Boston: Brill, 2016. A comprehensive study of the revolt by a professor of Jewish History at the University of Haifa who has worked on the subject for decades, presenting and critiquing the documentary, archaeological, and literary evidence. The contemporary Jewish scholar lens on the revolt.",
+      "url": "https://brill.com/display/title/24975",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the Brill catalogue and a peer-reviewed review (Cambridge University Press).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "yavneh",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Yavneh",
+    "original": "יַבְנֶה",
+    "transliteration": "Yavneh",
+    "aliases": [
+      "Jamnia",
+      "Jabneh",
+      "The academy at Yavneh",
+      "The sages of Yavneh"
+    ]
+  },
+  "category": "reconstitution of religious life (rabbinic centre)",
+  "location": "Yavneh (Jamnia), on the coastal plain of Roman Judaea",
+  "date": {
+    "year": 70,
+    "note": "Conventionally placed from c. 70 CE onward, after the destruction of the Second Temple, through the generation of sages associated with the town before the Bar Kokhba Revolt (132-135 CE). Yavneh names less a single dated event than a period and a place: the reconstitution of Jewish religious leadership under Rabban Yohanan ben Zakkai and, after him, Rabban Gamliel II. The precise chronology of the enactments and of the shift of authority to Yavneh is reconstructed from later rabbinic sources and is not securely datable year by year."
+  },
+  "summary": "Yavneh (Greek Jamnia) names the reconstitution of Jewish religious life at the coastal town of Yavneh after the Roman destruction of the Second Temple in 70 CE. The Talmudic narrative (Gittin 56a-b) reports that Rabban Yohanan ben Zakkai was smuggled out of besieged Jerusalem and asked the Roman commander Vespasian for 'Yavne and its Sages,' where a rabbinic centre then took shape and adapted Temple practices to a world without the Temple through a series of enactments (takkanot). It is widely taken as marking the transition from a Judaism centred on Temple and priesthood to one centred on Torah, study, and the rabbis. The older scholarly construct of a formal 'Council of Jamnia' that closed the biblical canon and expelled Christians is now widely questioned; this dataset presents the Talmudic account as attributed tradition and flags the 'council' model as contested scholarship, adjudicating neither.",
+  "description": "Yavneh (Greek Jamnia; Hebrew Yavneh) is the name Jewish tradition gives to the reconstitution of Jewish religious life after the Roman destruction of the Second Temple in 70 CE, centred on the coastal town of Yavneh in Roman Judaea. With the Temple destroyed, its sacrificial cult ended, and the priesthood and the Jerusalem institutions gone, the tradition holds that leadership passed to the sages gathered at Yavneh, first under Rabban Yohanan ben Zakkai and then under Rabban Gamliel II. Yavneh is widely taken, in both the tradition's memory and modern scholarship, as marking the transition from a Judaism organized around Temple and priesthood to the rabbinic Judaism organized around Torah, study, prayer, and the authority of the sages.\n\nThe Babylonian Talmud (Gittin 56a-b) preserves the narrative that gives this transition its founding story. According to it, during the Roman siege of Jerusalem Rabban Yohanan ben Zakkai had himself smuggled out of the city in a coffin, feigning death, and was carried to the Roman camp. Brought before the commander Vespasian, he is reported to have greeted him as king and to have predicted that he would indeed become emperor ('in truth, you are a king ... for otherwise Jerusalem will not be handed over into your hand'); when word came of Vespasian's elevation, Vespasian granted him a request, and Yohanan asked, in the Talmud's words, 'Give me Yavne and its Sages,' along with the sparing of the dynasty of Rabban Gamliel and a physician for Rabbi Tzadok. This dataset records the account as the attributed Talmudic narrative of the tradition, not as an independently verified historical report; its historicity and its later literary shaping are themselves debated in scholarship.\n\nTo the sages of Yavneh the tradition ascribes a body of enactments (takkanot) adapting practices formerly bound to the Temple to a world without it, for example extending observances once performed only in the Temple to the synagogue and to everywhere Jews lived, and regulating the calendar and communal life in the Temple's absence. In the older scholarly literature Yavneh was also described as the site of a formal 'Council of Jamnia' that is said to have fixed (closed) the canon of the Hebrew Bible around 90 CE and to have formally expelled Christians and other dissenters from the synagogue. IMPORTANT SCHOLARLY CAUTION: this 'council' model is now widely questioned. Since the work of Jack P. Lewis and others, many scholars have argued that there was no formal canon-closing council at Jamnia, that the deliberations rabbinic sources record concerned particular disputed books rather than the settling of the whole canon, and (with Shaye J. D. Cohen and Daniel Boyarin) that Yavneh is better understood as a gradual reconstitution and as a partly retrojected later legend than as a single decisive assembly. This dataset presents the Talmudic Yavneh narrative as attributed tradition, notes the 'Council of Jamnia' construct explicitly as contested scholarship, and does not adjudicate either the historicity of the narrative or the canon-and-expulsion claims associated with the older 'council' model.",
+  "editorial_notes": "This entry describes Yavneh both as the tradition's founding narrative of rabbinic reconstitution and as a contested object in modern scholarship, keeping the two distinct and adjudicating neither, per neutrality principles #1 and #2. THE TALMUDIC NARRATIVE (Yohanan ben Zakkai smuggled out of Jerusalem, the greeting and prediction to Vespasian, the request for 'Yavne and its Sages') is presented as the attributed account of the Babylonian Talmud (Gittin 56a-b), not as an independently verified historical report; the description says so explicitly. Gittin 56a-b was read line-by-line at Sefaria (open text, William Davidson translation): the request is quoted verbatim as 'Give me Yavne and its Sages ... and give me doctors to heal Rabbi Tzadok,' and the prediction of Vespasian's kingship was confirmed on the same page. That primary passage is rated high. THE 'COUNCIL OF JAMNIA' CAUTION: the older scholarly construct of a formal council at Jamnia that closed the biblical canon (c. 90 CE) and expelled Christians is flagged explicitly as contested and now widely questioned scholarship (Lewis; Cohen; Boyarin), not asserted as fact; the dataset does not adjudicate the canon-closing or expulsion claims. This historical reconstruction rests on secondary scholarship rated medium, kept honest. Sources triangulate the lenses adapted for Judaism (neutrality #8): (a) the primary text, Gittin 56a-b at Sefaria (high); (b) academic historians, Shaye J. D. Cohen, 'The Significance of Yavneh' (HUCA 1984), the standard reassessment which argues Yavneh's aim was the end of sectarianism rather than expulsion (medium); (c) contemporary Jewish scholarship, Daniel Boyarin, Border Lines (2004), which treats the 'Yavneh legend' as a later construction, and Jack P. Lewis's article that opened the modern critique of the 'council' model (medium). No encyclopedias, Wikipedia, or tertiary sources are cited. RELATION TARGETS: rabbinic-judaism (present, data/schools/judaism/rabbinic-judaism.json), oral-torah (present, data/concepts/judaism/oral-torah.json), and destruction-of-the-second-temple (present in the same batch at data/events/judaism/destruction-of-the-second-temple.json) all resolve; validate.py reports no dangling target for this entry. This entry is a draft pending theology-reviewer audit.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "rabbinic-judaism",
+      "note": "Yavneh is widely taken to mark the transition from a Temple-and-priesthood Judaism to rabbinic Judaism, the form organized around Torah, study, prayer, and the authority of the sages. Stated as the tradition's and scholarship's characterization of the shift, not evaluated."
+    },
+    {
+      "type": "related_to",
+      "target": "destruction-of-the-second-temple",
+      "note": "The reconstitution at Yavneh is the response to the Roman destruction of the Second Temple in 70 CE, which ended the sacrificial cult and the Jerusalem institutions. Reported as the historical antecedent to which the reconstitution at Yavneh is the response."
+    },
+    {
+      "type": "related_to",
+      "target": "oral-torah",
+      "note": "The sages of Yavneh are, in the tradition's memory, the transmitters and developers of the Oral Torah, and the enactments (takkanot) attributed to them adapt inherited practice to a world without the Temple. In later rabbinic memory (and, in Boyarin's reading, as a retrojected legend) Yavneh becomes the assembly through which the Oral Torah is handed on. Attributed, not adjudicated."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Babylonian Talmud, Gittin 56a-b: the narrative of Rabban Yohanan ben Zakkai smuggled out of besieged Jerusalem, his greeting and prediction of kingship to Vespasian ('in truth, you are a king ... for otherwise Jerusalem will not be handed over into your hand'), and his request, 'Give me Yavne and its Sages and do not destroy it, and spare the dynasty of Rabban Gamliel ..., and give me doctors to heal Rabbi Tzadok.' The primary Talmudic account of the founding of the rabbinic centre at Yavneh. Read line-by-line at Sefaria (open), William Davidson translation.",
+      "url": "https://www.sefaria.org/Gittin.56b",
+      "license": "Public domain (Aramaic/Hebrew text); Sefaria English (William Davidson Talmud, Steinsaltz, CC-BY-NC) per Sefaria terms. Read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Cohen, Shaye J. D. 'The Significance of Yavneh: Pharisees, Rabbis, and the End of Jewish Sectarianism.' Hebrew Union College Annual 55 (1984): 27-53. The standard scholarly reassessment of Yavneh, arguing that the aim of the Yavnean rabbis was the cessation of sectarianism and the creation of a society tolerant of internal debate, rather than the expulsion of dissenters, and questioning the older 'grand assembly' picture. The academic-history lens on Yavneh.",
+      "url": "https://www.jstor.org/stable/23507609",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via JSTOR and the Orion Center bibliography (Hebrew University of Jerusalem).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lewis, Jack P. 'What Do We Mean by Jabneh?' Journal of Bible and Religion 32, no. 2 (1964): 125-132. The article that opened the modern critique of the 'Council of Jamnia' construct, arguing that the rabbinic sources do not attest a formal council that closed the biblical canon at Jamnia. The academic-history lens on the contested 'council' model.",
+      "url": "https://www.jstor.org/stable/1460205",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via JSTOR.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Boyarin, Daniel. Border Lines: The Partition of Judaeo-Christianity. Divinations: Rereading Late Ancient Religion. Philadelphia: University of Pennsylvania Press, 2004. Treats the 'Yavneh legend' as a later rabbinic construction (projected back and shaped down to the redaction of the Babylonian Talmud) rather than a datable first-century council, including a chapter on 'The Yavneh Legend of the Stammaim.' The contemporary Jewish scholarship lens on the Yavneh narrative and the 'council' caution.",
+      "url": "https://www.pennpress.org/9780812219869/border-lines/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line. Existence and topic confirmed via the University of Pennsylvania Press catalogue and peer-reviewed reviews.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

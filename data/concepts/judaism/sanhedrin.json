@@ -1,0 +1,90 @@
+{
+  "id": "sanhedrin",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sanhedrin",
+    "original": "סַנְהֶדְרִין",
+    "transliteration": "sanhedrin",
+    "aliases": [
+      "Sanhedrin (Great Assembly)",
+      "Great Sanhedrin",
+      "Sanhedrin Gedolah",
+      "Lesser Sanhedrin",
+      "Sanhedrin Ketanah",
+      "Council of seventy-one",
+      "Supreme rabbinic court"
+    ]
+  },
+  "category": "religious authority",
+  "summary": "The Sanhedrin was the supreme rabbinic court and legislative-judicial assembly of ancient Judaism. In the rabbinic account the Great Sanhedrin was a body of seventy-one sages, seated in the Chamber of Hewn Stone within the Jerusalem Temple, which acted as the highest court and central legal authority of the tradition; below it stood lesser courts (the lesser Sanhedrin) of twenty-three for capital cases. The Mishnah derives the number seventy-one from the seventy elders gathered with Moses (Numbers 11:16) together with Moses at their head. The institution functioned in the Second Temple and early rabbinic periods and is generally held to have ceased in late antiquity. It is distinguished in the tradition from the ordinary beit din, the standard court of three.",
+  "description": "The Sanhedrin (from the Greek synedrion, a council or assembly, taken into rabbinic Hebrew) is the name in the rabbinic tradition for the supreme court and central legislative-judicial assembly of ancient Judaism. The tradition, described here on its own terms, distinguishes two bodies that bear the name: the Great Sanhedrin (Sanhedrin Gedolah), the highest court, and the lesser Sanhedrin (Sanhedrin Ketanah), the court required for graver categories of case.\n\nThe structure is set out in the opening chapter of the Mishnah's tractate Sanhedrin, read here line-by-line. The Mishnah states, 'The Great Sanhedrin was composed of seventy-one judges, and a lesser Sanhedrin was composed of twenty-three' (Mishnah Sanhedrin 1:6). The same mishnah supplies the derivation of the number seventy-one: 'From where is it derived that the Great Sanhedrin was composed of seventy-one? As it is stated, Gather Me seventy men of the elders of Israel (Numbers 11:16), and Moses over them, thus seventy-one', so that the seventy elders whom God commanded Moses to gather, together with Moses at their head, yield the seventy-one of the supreme court. The lesser Sanhedrin of twenty-three was the court competent to try capital cases; the Great Sanhedrin of seventy-one stood above it as the final authority.\n\nIn the rabbinic account of the Second Temple period the Great Sanhedrin sat in the Chamber of Hewn Stone (Lishkat ha-Gazit) within the Temple precincts in Jerusalem, and it functioned as both the supreme judicial court and the central legislative and interpretive authority of the tradition: it heard the gravest cases, ruled on questions that the lower courts could not resolve, and, in the rabbinic picture, decided matters bearing on the calendar, the Temple, and the standing of the whole community. Only those who had received ordination (semikhah) in the classical sense were held qualified to sit as its judges, so that the court's authority was tied to the transmitted chain of ordination. Modern scholars debate the historical constitution, powers, and even the character of the institution in the Second Temple period, since the ancient evidence, rabbinic, Josephan, and that of the New Testament, is uneven and partly divergent, and this entry reports the rabbinic account as the tradition's own without adjudicating the contested historical reconstructions.\n\nThe institution is generally held to have ceased in late antiquity: with the loss of the Temple in 70 CE the court is said in the rabbinic sources to have relocated and continued for a time, and the classical ordination on which sitting depended lapsed as the conditions for it failed, so that the Great Sanhedrin in its full sense was not thereafter reconstituted, later attempts at renewal (as in sixteenth-century Safed) notwithstanding. The Sanhedrin is distinguished within the tradition from the ordinary beit din: where the beit din of three is the standard court of Jewish law, the Sanhedrin was the supreme court that crowned the graded judicial system, the Great Sanhedrin of seventy-one at its summit and the lesser Sanhedrin of twenty-three between it and the courts of three. This entry describes the Sanhedrin on the tradition's own terms and reports its structure, authority, and cessation as the tradition's account and as matters of scholarly discussion, without adjudicating the disputed historical questions.",
+  "editorial_notes": "This entry treats the Sanhedrin as a sociological and institutional concept: the supreme court and central legislative-judicial assembly of ancient Judaism as the rabbinic tradition describes it. It is described on Judaism's own terms (neutrality #1, #4, #6), and its structure, powers, and cessation are recorded as the tradition's account and as matters of scholarly discussion rather than adjudicated.\n\nNEUTRALITY: the historical constitution, powers, and character of the Sanhedrin in the Second Temple period are contested in modern scholarship (the rabbinic, Josephan, and New Testament evidence diverges), and per neutrality #1-2 the entry reports the rabbinic account as the tradition's attributed self-description and flags the scholarly debate rather than settling it; the editor does not adjudicate the contested reconstructions (for instance whether there was one central Sanhedrin or several bodies, or the exact scope of its powers under Roman rule).\n\nSourcing triangulates the three lenses per neutrality #8. (b) The primary corpus was read openly and line-by-line on Sefaria: Mishnah Sanhedrin 1:6, which carries the load-bearing structure ('The Great Sanhedrin was composed of seventy-one judges, and a lesser Sanhedrin was composed of twenty-three') and the derivation of the seventy-one from the seventy elders plus Moses; and Numbers 11:16 itself ('Gather Me seventy men of the elders of Israel'), the verse the Mishnah cites. These load-bearing passages are rated high. (a) The academic-historian lens is David Goodblatt (The Monarchic Principle: Studies in Jewish Self-Government in Antiquity), a study of Jewish self-government and the institution in antiquity that questions the standard reconstruction of a single fixed Sanhedrin, and Catherine Hezser (The Social Structure of the Rabbinic Movement in Roman Palestine) on rabbinic judicial authority and its social setting; medium. (c) The contemporary-Jewish-scholar lens is Chaim Saiman (Halakhah: The Rabbinic Idea of Law), whose author is himself a sitting dayyan (rabbinical-court judge), on the rabbinic conception of the court and legal authority; medium. No encyclopedias, Wikipedia, or tertiary sources.\n\nCONFIDENCE HONESTY: the open Sefaria primaries carrying the load-bearing claims (Mishnah Sanhedrin 1:6 and Numbers 11:16) were read line-by-line and are rated high; the historical-institutional claims (the seat in the Chamber of Hewn Stone, the scope of the court's powers, its cessation in late antiquity, and the contested reconstructions) rest on the secondary scholarship rated medium and are kept honest as such. Nothing is fabricated; the cited Sefaria URLs resolve to the passages quoted.\n\nRelation targets: beit-din exists in the dataset (this related_to link closes its dangling forward reference to sanhedrin); semikhah exists (ordination was required to sit); halakha exists; second-temple-judaism exists in the dataset as a school (the Great Sanhedrin functioned within the Second Temple period matrix). A relation to a destruction-of-the-second-temple entity was considered but omitted because no such entity yet exists in the dataset (it would be a dangling forward reference); the destruction of 70 CE is discussed in prose instead.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "beit-din",
+      "note": "The Sanhedrin is distinguished within the tradition from the ordinary beit din: the beit din of three is the standard court of Jewish law, while the Sanhedrin (the Great Sanhedrin of seventy-one and the lesser of twenty-three) is the supreme court that crowned the graded judicial system. This link closes the dangling forward reference from beit-din to sanhedrin. beit-din exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "semikhah",
+      "note": "In the classical account, only those who had received ordination (semikhah) in its full sense were qualified to sit as judges of the Sanhedrin, so the court's authority was tied to the transmitted chain of ordination; the lapse of the classical semikhah in late antiquity is bound up with the cessation of the classical Sanhedrin. semikhah exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The Sanhedrin was, in the rabbinic account, the supreme court and central legislative-interpretive authority of halakha: it resolved questions the lower courts could not decide and ruled on matters bearing on the calendar, the Temple, and the community. sanhedrin and the law it administered are the linked halves of the highest reach of the rabbinic legal system. halakha exists in the dataset."
+    },
+    {
+      "type": "part_of",
+      "target": "second-temple-judaism",
+      "note": "In the rabbinic account the Great Sanhedrin sat in the Chamber of Hewn Stone within the Jerusalem Temple and functioned as the central court of the tradition during the Second Temple period; it belongs to the institutional world of Second Temple Judaism, whose end (the destruction of the Temple in 70 CE) is bound up with the court's later cessation. second-temple-judaism exists in the dataset as a school."
+    }
+  ],
+  "historical_period": {
+    "start": -200,
+    "end": 400,
+    "note": "The Sanhedrin as the rabbinic sources describe it belongs to the Second Temple and early rabbinic periods; the Mishnah's account of its structure was redacted around 200 CE but describes an institution of the earlier period, and the classical institution is generally held to have ceased in late antiquity (conventionally by roughly the fourth to fifth century CE) as the classical ordination lapsed. The start and end are conventional and approximate markers for a long institutional history whose exact bounds and constitution are debated in scholarship, not precise dates."
+  },
+  "sources": [
+    {
+      "citation": "Mishnah, Sanhedrin 1:6, open Hebrew and English text on Sefaria. Primary rabbinic text, read line-by-line. Load-bearing for the structure of the Sanhedrin: 'The Great Sanhedrin was composed of seventy-one judges, and a lesser Sanhedrin was composed of twenty-three' (Hebrew: Sanhedri gedolah hayetah shel shivim ve-echad, u-ketanah shel esrim u-sheloshah), with the derivation of the seventy-one: 'From where is it derived that the Great Sanhedrin was composed of seventy-one? As it is stated, Gather Me seventy men of the elders of Israel (Numbers 11:16), and Moses over them, thus seventy-one.'",
+      "url": "https://www.sefaria.org/Mishnah_Sanhedrin.1.6",
+      "license": "Underlying Hebrew in the public domain; Sefaria English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Torah, Numbers 11:16 (Bemidbar), open Hebrew and English text on Sefaria. Primary scriptural text, read line-by-line. Load-bearing for the derivation of the number seventy-one: God tells Moses, 'Gather Me seventy men of the elders of Israel' (Hebrew: esfah li shivim ish mi-ziknei Yisrael), the seventy elders whom the Mishnah, adding Moses at their head, takes as the source of the seventy-one judges of the Great Sanhedrin.",
+      "url": "https://www.sefaria.org/Numbers.11.16",
+      "license": "Underlying Hebrew in the public domain; Sefaria English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Goodblatt, David. The Monarchic Principle: Studies in Jewish Self-Government in Antiquity. Texte und Studien zum Antiken Judentum 38. Tubingen: J. C. B. Mohr (Paul Siebeck), 1994. An academic study of Jewish self-government in antiquity that critically examines the evidence for a central Sanhedrin and questions the standard reconstruction of a single fixed high court; cited for the institution's contested history and constitution in the Second Temple period. Academic-historian lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://d-nb.info/94007379X",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hezser, Catherine. The Social Structure of the Rabbinic Movement in Roman Palestine. Texts and Studies in Ancient Judaism 66. Tubingen: Mohr Siebeck, 1997. An academic study of the rabbinic movement in late antiquity; cited for the social setting and character of rabbinic judicial authority, the context in which the courts and the memory of the Sanhedrin functioned. Academic-historian lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.mohrsiebeck.com/en/book/the-social-structure-of-the-rabbinic-movement-in-roman-palestine-9783161467974",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saiman, Chaim N. Halakhah: The Rabbinic Idea of Law. Library of Jewish Ideas. Princeton: Princeton University Press, 2018. A contemporary Jewish scholar's account of the rabbinic conception of law and legal authority; the author is a legal academic and a sitting dayyan (rabbinical-court judge). Cited for the rabbinic conception of the supreme court and of judicial-legislative authority within the tradition. Contemporary-Jewish-scholar lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://press.princeton.edu/books/hardcover/9780691152110/halakhah",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

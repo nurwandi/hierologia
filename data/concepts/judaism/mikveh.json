@@ -1,0 +1,83 @@
+{
+  "id": "mikveh",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Mikveh",
+    "original": "מִקְוֶה",
+    "transliteration": "miqveh",
+    "aliases": [
+      "Mikvah",
+      "Mikva",
+      "Miqveh",
+      "Mikvaot (plural)",
+      "Ritual bath",
+      "Ritual immersion bath"
+    ]
+  },
+  "category": "ritual purity",
+  "summary": "A mikveh (literally a gathering or collection of water) is the ritual immersion bath used in Judaism for purification. Immersion (tevilah) in a mikveh is required in the classical halakha for conversion to Judaism (giyur), for a woman's return to permitted marital relations after menstruation (niddah, the laws of family purity), for immersing certain vessels, and, in some communities, before Shabbat and festivals. A valid mikveh must be filled with natural 'living water' (mayim hayyim), rainwater or spring water gathered according to halakhic specification rather than drawn by hand. The tradition roots ritual immersion in the purity laws of the Torah, especially the requirement in Leviticus 15 to bathe the body in water, and in living water, to become pure after certain forms of impurity.",
+  "description": "A mikveh (Hebrew miqveh, from the root q-w-h, to gather or collect, hence a gathering of water; plural mikvaot) is the pool of water used in Judaism for ritual immersion (tevilah) as a means of purification. The concept is described here on the tradition's own terms as an instrument of ritual purity, not as a matter of hygiene: immersion in a mikveh effects a change of ritual status, the passage from a state of impurity (tumah) to a state of purity (taharah), for persons, and, in a parallel way, for vessels.\n\nThe tradition roots ritual immersion in the purity laws of the Torah. Leviticus 15, read here line-by-line, sets out the impurities arising from bodily discharges and repeatedly prescribes bathing the body in water followed by a period of waiting until evening: 'When a man has an emission of semen, he shall bathe his whole body in water and remain impure until evening' (Leviticus 15:16), and for the one recovering from an abnormal discharge (the zav), 'he shall count off seven days for his purification, wash his clothes, and bathe his body in living water (Hebrew mayim hayyim); then he shall be pure' (Leviticus 15:13). The phrase 'living water' (mayim hayyim), naturally flowing or gathered water rather than drawn water, is one biblical anchor for the rabbinic requirement that a valid mikveh be filled with natural water. The rabbinic tractate Mikvaot elaborates the law of the pool. Its opening chapter, read here, ranks the waters, 'There are six grades among gatherings of water (mikvaot), each superior to the other' (Mishnah Mikvaot 1:1), rising from ordinary standing water to, at the summit, 'living waters' (mayim hayyim), in which alone there is immersion for those with certain impurities (the zav) and which serve for the sprinkling water of purification (Mishnah Mikvaot 1:8). In the developed halakha a mikveh must hold a minimum measure of water (forty seah) that is naturally gathered, rainwater or spring water collected without being drawn in a vessel, so that the pool is fit for immersion.\n\nThe occasions of immersion in classical and later practice are several. It is one of the requirements of conversion to Judaism (giyur): a convert immerses in a mikveh before a rabbinical court, and in the tradition's account emerges a Jew. It is central to the laws of niddah, the laws of menstrual or family purity (taharat ha-mishpachah): a married woman immerses in a mikveh after the conclusion of the menstrual period and the counting of the prescribed days, after which marital relations resume. Vessels acquired from a non-Jew are immersed in a mikveh (tevilat kelim) before use for food. In some communities immersion is also practiced by men before Shabbat and the festivals, and (in the classical Temple-period purity system) by those preparing to enter the Temple or to eat consecrated food. This entry describes the mikveh on the tradition's own terms and reports the biblical roots and the halakhic specification as the tradition's account, without adjudicating the halakhic questions of its construction or use.",
+  "editorial_notes": "This entry describes the mikveh on Judaism's own terms (neutrality #1, #4, #6) as an instrument of ritual purity, recording the passage from tumah (impurity) to taharah (purity) as the tradition's own category rather than a claim the editor affirms. Its uses (conversion, niddah/family purity, immersion of vessels, and in some communities before Shabbat and festivals) and the requirement of naturally gathered 'living water' are reported as the tradition's account and as the settled halakha, not adjudicated.\n\nSourcing triangulates the three lenses per neutrality #8. (b) The primary corpus was read openly and line-by-line on Sefaria: Leviticus 15, which carries the biblical root, the command to bathe the body in water and, for the zav, in 'living water' (mayim hayyim) to become pure (Leviticus 15:13, 15:16), and Mishnah Mikvaot chapter 1, which carries the rabbinic law of the pool and the ranking of waters ('There are six grades among gatherings of water', 1:1; living waters as the superior category with immersion for the zav, 1:8). These load-bearing passages are rated high. (a) The academic lens is Jonathan Klawans (Impurity and Sin in Ancient Judaism), a study of ritual and moral purity in ancient Judaism, and Jacob Milgrom (Leviticus 1-16, Anchor Bible), the standard critical commentary on the purity laws of Leviticus; medium. (c) The contemporary-Jewish-scholar lens is Rahel R. Wasserfall, ed. (Women and Water: Menstruation in Jewish Life and Law), a scholarly volume on the mikveh and the laws of niddah with contributions by Jewish scholars of the tradition; medium. No encyclopedias, Wikipedia, or tertiary sources.\n\nCONFIDENCE HONESTY: the open Sefaria primaries carrying the load-bearing claims (Leviticus 15:13 and 15:16, and Mishnah Mikvaot 1:1 and 1:8) were read line-by-line and are rated high; the halakhic-specification details (the forty-seah minimum, the prohibition of drawn water, the several occasions of immersion in later practice) rest on the secondary scholarship rated medium and are kept honest as such. Nothing is fabricated; the cited Sefaria URLs resolve to the passages quoted.\n\nRelation targets: giyur exists in the dataset (this related_to link closes its dangling forward reference to mikveh); halakha exists (the mikveh's construction and use are matters of halakha). The compares_with to baptism (Christianity) exists in the dataset and states a shared question about ritual water and a difference, ranking neither, per ADR-0005 and neutrality #10. A relation to tumah/taharah (the purity/impurity categories) was considered but omitted because no such entity yet exists in the dataset (it would be a dangling forward reference); tumah and taharah are discussed in prose instead and flagged here as candidates for a future clean link.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "giyur",
+      "note": "Immersion (tevilah) in a mikveh is one of the classical requirements of conversion to Judaism (giyur): the convert immerses before a rabbinical court, and in the tradition's account emerges a Jew. This link closes the dangling forward reference from giyur to mikveh. giyur exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The construction of a valid mikveh (the minimum measure of naturally gathered water, the prohibition of drawn water, the ranking of waters) and the occasions requiring immersion are matters of halakha, elaborated from the Torah's purity laws through the rabbinic tractate Mikvaot; the mikveh and the law governing it are the linked halves of the purity system. halakha exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "baptism",
+      "note": "Both address ritual immersion in water and a change of status effected through it. In Judaism immersion in a mikveh (tevilah) is a repeated act of ritual purification (for niddah, for conversion, for vessels) that moves a person or object from impurity (tumah) to purity (taharah); in Christianity baptism is, in the churches' accounts, a rite of initiation into the Christian community, generally understood as unrepeatable. The link marks a shared question about immersion in water and status and an explicit difference in the answer, a repeated purification within a standing purity system versus a once-for-all rite of initiation, and ranks neither. baptism exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The tradition roots ritual immersion in the purity laws of the Torah (Leviticus 15), for which a conventional and approximate date is given; the detailed law of the mikveh belongs to the rabbinic period (the tractate Mikvaot in the Mishnah, redacted around 200 CE) and its later development, and the mikveh remains a living institution in Jewish communal life, so no end date is asserted. Dates are conventional and mark a long development rather than a single origin."
+  },
+  "sources": [
+    {
+      "citation": "Torah, Leviticus 15 (Vayikra), open Hebrew and English text on Sefaria. Primary scriptural text, read line-by-line. Load-bearing for the biblical root of ritual immersion: the chapter sets out the impurities of bodily discharges and prescribes bathing the body in water and waiting until evening to become pure, including 'When a man has an emission of semen, he shall bathe his whole body in water and remain impure until evening' (15:16) and, for the recovering zav, 'he shall count off seven days for his purification, wash his clothes, and bathe his body in living water (Hebrew be-mayim hayyim); then he shall be pure' (15:13), the phrase mayim hayyim ('living water') being a biblical anchor for the requirement of naturally gathered water.",
+      "url": "https://www.sefaria.org/Leviticus.15",
+      "license": "Underlying Hebrew in the public domain; Sefaria English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Mishnah, Mikvaot 1 (chapter 1, mishnayot 1-8), open Hebrew and English text on Sefaria. Primary rabbinic text, read line-by-line. Load-bearing for the rabbinic law of the pool and the categories of water: 'There are six grades among gatherings of water (mikvaot), each superior to the other' (Mishnah Mikvaot 1:1), rising to the superior category, 'living waters' (mayim hayyim), in which alone there is immersion for those with certain impurities (the zav) and which serve for the sprinkling water of purification (Mishnah Mikvaot 1:8).",
+      "url": "https://www.sefaria.org/Mishnah_Mikvaot.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Klawans, Jonathan. Impurity and Sin in Ancient Judaism. New York: Oxford University Press, 2000. An academic study distinguishing ritual and moral impurity in ancient Judaism and treating the purity system within which ritual immersion functions; cited for the character of ritual purity (tumah and taharah) and the place of immersion within it. Academic lens. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/impurity-and-sin-in-ancient-judaism-9780195162622",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Milgrom, Jacob. Leviticus 1-16: A New Translation with Introduction and Commentary. Anchor Bible 3. New York: Doubleday, 1991. The standard critical commentary on the first half of Leviticus, including the purity laws of chapter 15 (bodily discharges, bathing in water, the requirement of 'living water'); cited for the biblical purity laws underlying ritual immersion. Academic lens. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/183090/leviticus-1-16-by-jacob-milgrom/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wasserfall, Rahel R., ed. Women and Water: Menstruation in Jewish Life and Law. HBI Series on Jewish Women. Hanover, NH: Brandeis University Press / University Press of New England, 1999. A scholarly edited volume on the mikveh and the laws of niddah (menstrual / family purity) in Jewish life, history, and law, with contributions by contemporary Jewish scholars of the tradition; cited for the mikveh's central role in the laws of family purity and its practice. Contemporary-Jewish-scholar lens. Verified to exist and be on-topic (editor, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://brandeisuniversitypress.com/title/women-and-water-menstruation-in-jewish-life-and-law/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

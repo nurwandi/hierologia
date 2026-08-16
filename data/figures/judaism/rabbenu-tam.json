@@ -1,0 +1,78 @@
+{
+  "id": "rabbenu-tam",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Rabbenu Tam",
+    "original": "רַבֵּנוּ תָּם",
+    "transliteration": "Rabbenu Tam (Jacob ben Meir)",
+    "aliases": [
+      "Jacob ben Meir",
+      "Ya'akov ben Meir",
+      "Rabbeinu Tam",
+      "Rabbi Jacob Tam",
+      "Jacob ben Meir Tam of Ramerupt"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "talmudist (Tosafist)",
+    "halakhic authority (posek)"
+  ],
+  "summary": "Rabbenu Tam (Jacob ben Meir, c. 1100-1171), a grandson of Rashi, was the foremost of the Tosafists and a leading halakhic authority in twelfth-century northern France. His Sefer ha-Yashar preserves his Talmudic analyses and responsa, and his halakhic positions, among them his view on the order of the scriptural passages in the tefillin (the 'Rabbenu Tam tefillin'), were debated and followed across later Judaism.",
+  "description": "Rabbenu Tam ('our teacher the upright one'), the honorific of Jacob ben Meir, lived at Ramerupt and later Troyes in the Champagne region of northern France and was the grandson of Rashi (Rabbi Shlomo Yitzchaki), the son of Rashi's daughter Yocheved and Meir ben Samuel. With his elder brother the Rashbam (Samuel ben Meir), he stood at the head of the first generation of the Tosafists, the school of dialectical Talmud commentators that grew out of Rashi's academy, and he is generally regarded in the scholarship as the foremost halakhic authority of that movement. Avraham (Rami) Reiner's study of Rabbenu Tam reconstructs his exegetical path, his halakhic thought, and his often stormy interactions with rabbinic contemporaries in France, Germany, and Provence.\n\nRabbenu Tam's principal work is the Sefer ha-Yashar ('the Book of the Upright'), a collection of his Talmudic novellae (chiddushim) and his responsa (she'elot u-teshuvot), preserving his analyses in something close to his own words rather than only as mediated through later Tosafot. In it and in the glosses attributed to him he developed and at points revised the readings of his grandfather Rashi, and his dialectical method, juxtaposing and reconciling apparently contradictory Talmudic passages, became characteristic of the Tosafist enterprise. His halakhic authority was such that his rulings were weighed across the medieval and later Ashkenazi tradition, sometimes prevailing and sometimes not, and his name recurs in the printed Tosafot as the master whose explanation a gloss adopts.\n\nHis best-known halakhic position concerns the order of the four scriptural passages written on the parchments placed inside the tefillin (phylacteries). Rashi held one arrangement of the passages; Rabbenu Tam, reading the same Talmudic and grammatical evidence, held a different order, and the two arrangements became known as 'Rashi tefillin' and 'Rabbenu Tam tefillin'. The Tosafot on Menachot 34b preserve the argument, recording that 'Rabbenu Tam explains' (u-mefaresh Rabbenu Tam) the grammar of the word totafot in a way that bears on the count and derivation of the passages. This entry records the disagreement between Rashi and Rabbenu Tam as a matter of halakhic history, and does not rule either arrangement correct; both are documented in the later tradition, and some observant Jews wear a second pair of 'Rabbenu Tam tefillin' out of regard for his view. He is also remembered for his communal leadership in the difficult years after the Second Crusade (1147), when the Jewish communities of the Rhineland and France suffered violence, and he was among the rabbinic authorities who convened synods and issued takkanot (communal enactments) for the Jews of northern France. The entry presents Rabbenu Tam on Judaism's own terms as the foremost Tosafist and a leading halakhic authority, with the scholarship on his work and the Tosafot themselves recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Rabbenu Tam (Jacob ben Meir, c. 1100-1171) on Judaism's own terms as a grandson of Rashi, the foremost of the Tosafists, and a leading halakhic authority of twelfth-century northern France (neutrality #1, #4, #6). It is referenced by rashi.json (which records a 'teacher_of' edge to rabbenu-tam, exists). The relationship to Rashi is recorded with an 'influenced_by' edge (Rashi was his grandfather and the base of his Talmud study); per the brief and the figure schema, which has NO 'opposed' relation type, the Rashi/Rabbenu-Tam halakhic disagreement over the order of the tefillin passages is captured with a 'related_to' edge to rashi and described in the note, NOT with an 'opposed' edge. The tefillin dispute ('Rashi tefillin' vs 'Rabbenu Tam tefillin') is DESCRIBED and ATTRIBUTED as a matter of halakhic history and is NOT adjudicated: neither arrangement is ruled correct (neutrality #1, #2). Sources triangulate three lenses per neutrality #8-#9: (a) academic scholarship, E. E. Urbach's Ba'alei ha-Tosafot (the standard Hebrew study), which treats Rabbenu Tam among the Tosafists; (b) the tradition's OWN primary text, open and auditable on Sefaria: the Tosafot on Menachot 34b:1:1, read verbatim, which names Rabbenu Tam on the tefillin/totafot derivation; (c) a contemporary Jewish scholar on-topic, Avraham (Rami) Reiner, Rabbenu Tam: Parshanut, Halakha, Pulmus (Bar-Ilan University Press, 2021), a monograph devoted to Rabbenu Tam. No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: one OPEN Sefaria primary carries a load-bearing claim and is rated HIGH, read verbatim via the Sefaria text API: Tosafot on Menachot 34b:1:1 (Vilna Edition, Public Domain, Hebrew only, no English translation exists), which sets out the derivation of the four tefillin passages and states 'u-mefaresh Rabbenu Tam' (Rabbenu Tam explains) the grammar of totafot, the load-bearing text for his standing among the Tosafists and for the tefillin question associated with his name. The biographical frame (his descent from Rashi, his authorship of Sefer ha-Yashar, his leadership after the Second Crusade) rests on secondary scholarship: Urbach and Reiner are rated MEDIUM, verified to exist and be on-topic via publisher, library, and scholarly-review records (Urbach: Bialik Institute, 1955, expanded ed. 1980; Reiner: Bar-Ilan University Press, 2021, reviewed in Tradition), not read line-by-line. The entry does NOT claim high confidence for the biography, which honestly rests on Urbach and Reiner; the open primary carries the tefillin/Tosafist claim only. Sefer ha-Yashar itself exists as an open text on Sefaria but was not read verbatim for this entry, so its content is not rated high here. Relation targets: rashi and talmud exist; tosafists is created in this same batch (data/schools/judaism/tosafists.json).",
+  "lifespan": {
+    "birth": 1100,
+    "death": 1171,
+    "note": "c. 1100-1171 CE; lived at Ramerupt and Troyes in the Champagne region of northern France. Grandson of Rashi (d. 1105) through Rashi's daughter Yocheved. The birth year c. 1100 is approximate; the death year 1171 is the one generally given in the scholarship."
+  },
+  "relations": [
+    {
+      "type": "influenced_by",
+      "target": "rashi",
+      "note": "Rabbenu Tam was Rashi's grandson (son of Rashi's daughter Yocheved) and took his grandfather's Talmud commentary as the base of his own study, developing and at points revising Rashi's readings. Their halakhic disagreement over the order of the tefillin passages ('Rashi tefillin' vs 'Rabbenu Tam tefillin') is noted here and in the related_to edge; since the figure schema has no 'opposed' type, the disagreement is described, not encoded as opposition, and neither arrangement is ruled correct. The rashi entry exists and records a teacher_of edge to rabbenu-tam."
+    },
+    {
+      "type": "related_to",
+      "target": "rashi",
+      "note": "Beyond the family and teaching line, Rabbenu Tam differed from Rashi on a number of halakhic questions, most famously the order of the four scriptural passages placed in the tefillin, preserved in the Tosafot on Menachot 34b (u-mefaresh Rabbenu Tam). The disagreement is recorded as halakhic history and not adjudicated (there is no 'opposed' relation type in the figure schema). The rashi entry exists."
+    },
+    {
+      "type": "member_of",
+      "target": "tosafists",
+      "note": "Rabbenu Tam stood at the head of the first generation of the Tosafists and is generally regarded as the foremost halakhic authority of the movement; the tosafists school records the reciprocal related_to edge to rabbenu-tam. Created in this same batch (data/schools/judaism/tosafists.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "Rabbenu Tam's work is Talmudic: his Sefer ha-Yashar collects his novellae and responsa on the Babylonian Talmud, and his glosses form part of the Tosafot printed on the Talmud page. The talmud entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Tosafot on Menachot 34b:1:1 (s.v. 'le-totafot le-totafot le-totafot'), open Hebrew text on Sefaria (Vilna Edition). Cited as an openly-auditable primary text in which Rabbenu Tam's view is recorded verbatim: the gloss sets out the derivation of the four scriptural passages placed in the tefillin from the word totafot and states 'u-mefaresh Rabbenu Tam' (Rabbenu Tam explains) that the first vav of u-le-totafot is to be placed at the end of the word, bearing on the count of the passages. Read and verified verbatim via the Sefaria text API as the load-bearing text for Rabbenu Tam's standing among the Tosafists and for the tefillin question associated with his name. Hebrew only; no English translation exists on Sefaria for this passage.",
+      "url": "https://www.sefaria.org/Tosafot_on_Menachot.34b.1.1",
+      "license": "Hebrew: Public Domain (Vilna Edition). Openly auditable; Tosafot on Menachot 34b:1:1 read verbatim via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Reiner, Avraham (Rami). Rabbenu Tam: Parshanut, Halakha, Pulmus ('Rabbenu Tam: Interpretation, Halakhah, Controversy'). Ramat Gan: Bar-Ilan University Press, 2021. A monograph by a scholar of Talmudic interpretation and the history of halakhah in medieval Europe (Ben-Gurion University of the Negev) devoted to Rabbenu Tam, reconstructing his exegetical path, his halakhic thought, and his controversies with rabbinic contemporaries in France, Germany, and Provence; cited as the contemporary Jewish scholar on-topic. Verified to exist and be on-topic (Bar-Ilan University Press; reviewed in Tradition, traditiononline.org), not read line-by-line.",
+      "url": "https://traditiononline.org/review-rabbenu-tam/",
+      "license": "Proprietary; cited for reference (scholarly review of the book).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Urbach, Ephraim Elimelech. Ba'alei ha-Tosafot: Toldotehem, Hiburehem, Shitatam ('The Tosafists: Their History, Writings, and Methods'). Jerusalem: Bialik Institute (Mosad Bialik), 1955; expanded fourth edition 1980. The standard scholarly Hebrew study of the Tosafists, which treats Rabbenu Tam among the masters of the movement and reconstructs his biography, writings, and method from manuscript evidence; cited as the academic lens on Rabbenu Tam and his place in the Tosafist school. Verified to exist and be on-topic (Bialik Institute; the standard reference in Tosafist scholarship), not read line-by-line.",
+      "url": "https://www.nli.org.il/en/books/NNL_ALEPH001200055/NLI",
+      "license": "Proprietary; cited for reference (National Library of Israel catalogue record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

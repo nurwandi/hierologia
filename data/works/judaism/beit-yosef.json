@@ -1,0 +1,68 @@
+{
+  "id": "beit-yosef",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Beit Yosef",
+    "original": "בֵּית יוֹסֵף",
+    "transliteration": "Beit Yosef",
+    "aliases": [
+      "Beth Yosef",
+      "Bet Yosef",
+      "House of Joseph",
+      "the Beit Yosef commentary on the Tur",
+      "Beit Yosef of Rabbi Joseph Karo"
+    ]
+  },
+  "category": "halakhic commentary",
+  "date": {
+    "year": 1550,
+    "note": "Joseph Karo (1488-1575) worked on the Beit Yosef over some twenty years, beginning in the late 1520s (Adrianople) and largely completing it at Safed; the four parts were first printed between 1550 and 1559 (Venice and Sabbioneta). It is a running commentary on the Arbaah Turim (the Tur) of Jacob ben Asher and follows the Tur's fourfold division into Orach Chayim, Yoreh Deah, Even ha-Ezer, and Choshen Mishpat. The year given is an approximate marker for the first printing of the work, not a precise composition date. The Beit Yosef is openly available in Hebrew on Sefaria (Halakhah, Tur, Commentary)."
+  },
+  "summary": "The Beit Yosef ('House of Joseph') is the vast halakhic commentary of Joseph Karo on the Arbaah Turim (the Tur) of Jacob ben Asher, in which Karo traced each law back through the Talmud and the later authorities and argued his rulings at length. Out of it he later distilled his concise code, the Shulchan Aruch; in the reception of the tradition the Beit Yosef is regarded as one of the great works of halakhic analysis.",
+  "description": "The Beit Yosef ('House of Joseph') is the comprehensive halakhic commentary composed by Joseph Karo (1488-1575) on the Arbaah Turim (the Tur), the fourfold code of Jacob ben Asher. Karo built his work upon the Tur rather than as a freestanding treatise, following its division into four parts, Orach Chayim, Yoreh Deah, Even ha-Ezer, and Choshen Mishpat, and taking each of its rulings in turn. The account below presents the work's method, structure, and standing as attributed features of the text and of its reception in the tradition, not as claims the editor affirms.\n\nKaro states his purpose in the introduction to the work. Surveying the halakhic literature of his day, he laments that the multiplication of books had produced 'great doubt and confusion' (safek u-mevukhah rabbah), one author repeating or contradicting another, rulings cited plainly as though undisputed where in fact the great authorities were divided; the Torah, he writes in the language of Isaiah 29:14, had come to seem 'like countless Torahs'. His remedy was a single work that would set out every practical law together with its roots and sources in the Talmud and 'all the differing views of the decisors, not one omitted'. He chose to attach this commentary to Jacob ben Asher's Tur, he explains, rather than to Maimonides' code, because the Tur 'includes most of the opinions of the decisors', whereas Maimonides gives only a single view.\n\nThe method Karo describes, and carries out, is to take each ruling of the Tur and trace it to its source: whether it rests on a mishnah, a baraita, a tosefta, or a statement in the Babylonian or Jerusalem Talmud; whether the matter is agreed or is a dispute among the tannaim or amoraim; on what ground the Tur's author ruled as he did; and, where opinions were omitted, to supply them and their reasoning. The work thus assembles before the reader, for each law, the talmudic source with the discussions of the commentators and the rulings of the major decisors, from Alfasi, Maimonides, and Asher ben Yehiel through a long list of later authorities. For deciding the law among the conflicting views, Karo announces in the introduction the rule he will generally follow: the three 'pillars of instruction on which the House of Israel leans in their rulings' are Isaac Alfasi (the Rif), Maimonides (the Rambam), and Asher ben Yehiel (the Rosh), and 'where two of them agree on one view, we rule the law according to them', save where the sages of Israel or the majority hold otherwise and custom has spread against it.\n\nFrom this vast analytical work Karo afterward distilled his concise practical code, the Shulchan Aruch ('The Set Table'), which states in brief the rulings that the Beit Yosef establishes at length. In the reception of the tradition the Beit Yosef is regarded as one of the major works of halakhic analysis, a standing this entry describes as the position the work holds within the tradition rather than adjudicating it, and Karo himself came to be known by its name, 'the Beit Yosef', after it.",
+  "editorial_notes": "This entry presents the Beit Yosef on Judaism's own terms as Joseph Karo's comprehensive halakhic commentary on the Arbaah Turim (the Tur) of Jacob ben Asher, and closes the dangling reference from the shulchan-aruch work entry, which names the Beit Yosef as the larger work Karo distilled into the Shulchan Aruch (neutrality #1, #4, #6). NEUTRALITY: the work's method (following the majority of the three pillars Alfasi, Maimonides, and Asher), its comprehensiveness, and its standing as one of the great works of halakhic analysis are DESCRIBED as attributed features of the text and its reception ('as attributed features', 'regarded as one of the major works', 'the position the work holds within the tradition'), not asserted in the editor's own voice; the code's authority and the work's greatness are attributed to the tradition's regard, not affirmed by the editor. CONFIDENCE / HONESTY per the task: this entry is verified-eligible because an OPEN Beit Yosef passage was READ LINE-BY-LINE on Sefaria and confirmed VERBATIM, carrying its method, and rated HIGH: the Introduction, where Karo (Hebrew, with only a partial crowd-sourced Sefaria Community Translation of the closing paragraphs, which corroborates the rendering used here) laments the 'great doubt and confusion' (safek u-mevukhah rabbah) of the proliferating halakhic books (Intro 1, citing Isaiah 29:14); explains attaching the work to the Tur because it 'includes most of the opinions of the decisors' (Intro 5); sets out his source-tracing method (Intro 6); and states the load-bearing majority-of-three rule, the 'three pillars of instruction' (שלשת עמודי ההוראה), the Rif, the Rambam, and the Rosh (הרי\"ף והרמב\"ם והרא\"ש), where 'two of them agree on one view we rule the law according to them' save where the majority of the sages of Israel and custom hold otherwise (Intro 11). Sources triangulate per neutrality #8-#9: (a) the PRIMARY text on Sefaria, open and auditable, the Introduction READ LINE-BY-LINE; (b) an academic monograph, R. J. Zwi Werblowsky, Joseph Karo: Lawyer and Mystic (Oxford, 1962); (c) a contemporary Jewish scholar on-topic, Isadore Twersky, 'The Shulhan 'Aruk: Enduring Code of Jewish Law' (Judaism, 1967), which treats the Beit Yosef behind the Shulchan Aruch. No encyclopedias, no Wikipedia, no tertiary sources. RELATION TARGETS: joseph-karo EXISTS (data/figures/judaism/joseph-karo.json) and is its author; shulchan-aruch EXISTS (data/works/judaism/shulchan-aruch.json) and is the code distilled from it. DANGLING, flagged: tur / arba-ah-turim (the Arbaah Turim of Jacob ben Asher, the work the Beit Yosef comments on) does NOT yet exist as an entity and is recorded honestly as a forward reference. The work schema has no 'commentary_on' relation type; the commentary relation to the Tur is expressed via related_to with an explanatory note.",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "joseph-karo",
+      "note": "The Beit Yosef was composed by Joseph Karo (1488-1575), largely at Safed, and first printed 1550-1559; the Introduction (setting out his purpose and his majority-of-three method) was read line-by-line on open Sefaria. The joseph-karo figure entry EXISTS (data/figures/judaism/joseph-karo.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "shulchan-aruch",
+      "note": "The Shulchan Aruch is the concise practical code that Karo distilled from the Beit Yosef: where the Beit Yosef sets out the sources and the debate at length, the Shulchan Aruch states the resulting ruling in brief. The shulchan-aruch work entry EXISTS (data/works/judaism/shulchan-aruch.json) and names the Beit Yosef as its source; this entry closes that dangling reference."
+    },
+    {
+      "type": "related_to",
+      "target": "arba-ah-turim",
+      "note": "The Beit Yosef is a running commentary on the Arbaah Turim (the Tur) of Jacob ben Asher, following its fourfold division (Orach Chayim, Yoreh Deah, Even ha-Ezer, Choshen Mishpat) and tracing each of its rulings to its sources; Karo attached his work to the Tur because it 'includes most of the opinions of the decisors' (Introduction, read line-by-line). The work schema has no 'commentary_on' type, so the commentary relation is recorded here as related_to. DANGLING: the arba-ah-turim (Tur) work entry does NOT yet exist."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Joseph Karo. Beit Yosef, Introduction (paragraphs read: 1, 5, 6, 11); the four parts first printed 1550-1559. Open Hebrew text on Sefaria (Halakhah, Tur, Commentary; no published English translation on Sefaria for the Introduction, only a partial Sefaria Community Translation of the closing paragraphs, which independently corroborates the three-pillars rendering). Cited as the openly-auditable primary text carrying the work's purpose and method, read line-by-line and verified verbatim: Karo laments that the multiplying halakhic books have produced 'great doubt and confusion' (Hebrew 'ספק ומבוכה רבה', Intro 1, citing Isaiah 29:14); explains attaching his commentary to Jacob ben Asher's Tur rather than to Maimonides 'because it includes most of the opinions of the decisors' ('כי הוא כולל רוב דעות הפוסקים', Intro 5); sets out his source-tracing method for each ruling of the Tur (Intro 6); and states the load-bearing majority-of-three rule, the 'three pillars of instruction on which the House of Israel leans in their rulings' ('שלשת עמודי ההוראה אשר הבית בית ישראל נשען עליהם'), namely the Rif, the Rambam, and the Rosh ('הרי\"ף והרמב\"ם והרא\"ש'), 'where two of them agree on one view we rule the law according to them' ('במקום ששנים מהם מסכימים לדעת אחת נפסוק הלכה כמותם') save where the sages of Israel or the majority disagree and custom has spread to the contrary (Intro 11). Read line-by-line via the Sefaria text API.",
+      "url": "https://www.sefaria.org/Beit_Yosef,_Introduction.11",
+      "license": "Hebrew in the public domain (Sefaria, Halakhah > Tur > Commentary). Openly auditable; Introduction paragraphs 1, 5, 6, and 11 read line-by-line via the Sefaria text API (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Werblowsky, R. J. Zwi. Joseph Karo: Lawyer and Mystic. Scripta Judaica 4. Oxford: Oxford University Press, 1962 (reissued Philadelphia: Jewish Publication Society, 1977). The standard academic monograph on Joseph Karo, treating together his legal work (the Beit Yosef and the Shulchan Aruch) and his mystical diary the Maggid Mesharim; cited as the academic-historian lens on the Beit Yosef, its author, and his method. Verified to exist and be on-topic (Oxford University Press / JPS records; JSTOR catalog record), not read line-by-line.",
+      "url": "https://www.jstor.org/stable/j.ctt3fgvfn",
+      "license": "Proprietary; cited for reference (publisher / catalog record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Twersky, Isadore. 'The Shulhan 'Aruk: Enduring Code of Jewish Law.' Judaism 16, no. 2 (1967): 141-158. A study by a contemporary Jewish scholar (Harvard) of the codification of Jewish law, treating Karo's project from the Beit Yosef to the Shulchan Aruch and its reception; cited as the contemporary-Jewish-scholar lens on the Beit Yosef as the analytical work behind the code. Verified to exist and be on-topic (journal record), not read line-by-line.",
+      "url": "https://www.jstor.org/journal/judaism",
+      "license": "Proprietary; cited for reference (journal record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
