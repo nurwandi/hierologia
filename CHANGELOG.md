@@ -6,6 +6,30 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.24.0] - 2026-07-26
+
+Closing the Christianity dangling references from the coverage health-check, and opening Islam's legal-theory
+layer. Two enter `verified` on open primary reads, ten honestly `reviewed` (many are modern works in proprietary
+translation, a figure known only through hostile sources, or legal-theory concepts that rest on scholarship).
+
+### Added
+- **Christianity**: the Bonhoeffer works `discipleship` and `letters-and-papers-from-prison`; the liberation
+  works/concepts `a-theology-of-liberation` and `preferential-option-for-the-poor`; the Montanist `paraclete`
+  and `priscilla-and-maximilla`; and the Schleiermacher-milieu `liberal-theology` and `university-of-berlin`;
+  plus `martin-niemoeller` of the Confessing Church.
+- **Islam**: the legal-theory concepts `usul-al-fiqh`, `fiqh`, and `qiyas`.
+
+### Changed
+- Verified (2): `paraclete` (the Johannine Paraclete sayings read verbatim; the Islamic reading of parakletos
+  attributed, not adjudicated) and `preferential-option-for-the-poor` (the CDF Instructions read at vatican.va).
+  The verified tier is now 139.
+- Reviewed (10), honestly: the Bonhoeffer and Gutierrez works (proprietary translations), `priscilla-and-maximilla`
+  (known only through hostile sources), `liberal-theology` and `university-of-berlin` (one open Harnack primary,
+  the rest secondary), `martin-niemoeller` (the "First they came" wording is contested), and `usul-al-fiqh`, `fiqh`,
+  `qiyas` (a Qur'anic anchor read verbatim, but the legal-theory content rests on scholarship).
+- Fixed a dead publisher URL (Gutierrez, A Theology of Liberation) that had propagated across several entries,
+  and corrected a batch of stale relation notes that described now-existing targets as not yet created.
+
 ## [0.23.0] - 2026-07-26
 
 Opening the Judaism history layer. Judaism had zero Event entities, a structural hole against the mission's
