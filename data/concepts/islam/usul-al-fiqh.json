@@ -1,0 +1,81 @@
+{
+  "id": "usul-al-fiqh",
+  "tradition": "islam",
+  "names": {
+    "primary": "Usul al-fiqh",
+    "original": "أصول الفقه",
+    "transliteration": "uṣūl al-fiqh",
+    "aliases": [
+      "the roots of jurisprudence",
+      "the principles of jurisprudence",
+      "the roots of the law",
+      "Islamic legal theory",
+      "the sources and methodology of the law",
+      "legal methodology"
+    ]
+  },
+  "category": "legal theory and authority",
+  "summary": "Usul al-fiqh, literally the roots or principles of jurisprudence, is, in the tradition's own account, the Islamic legal theory that sets out the sources (usul) of the law and the interpretive principles by which the jurists derive concrete rulings (fiqh) from them. The classical Sunni scheme most often names a fourfold set of sources, the Qur'an, the Sunna, the consensus of the scholars (ijma), and reasoning by analogy (qiyas), together with further principles (istihsan, istislah or maslaha, urf, and others) that some jurists accept and others do not. Which principles are valid, and how they rank, are questions on which the schools and the Sunni and Shia traditions differ, and those differences are attributed here, not adjudicated.",
+  "description": "Usul al-fiqh (from usul, 'roots' or 'foundations', and fiqh, 'understanding' or 'jurisprudence') names, in the tradition's self-understanding, the theory and methodology of the law: the discipline that identifies the sources from which the law is drawn and the interpretive rules by which a jurist moves from those sources to a concrete ruling (hukm). It is commonly distinguished from fiqh itself, the body of derived rulings, as the theory is distinguished from its product: usul al-fiqh studies the method, fiqh states the results. The discipline is generally described as treating the sources of the law, the ways language in the revealed texts bears meaning (command and prohibition, the general and the particular, the clear and the ambiguous), the theory of abrogation (naskh), the qualifications and activity of the jurist who exercises independent reasoning (the mujtahid practising ijtihad), and the assignment of acts to the categories of the law.\n\nThe classical Sunni account most often enumerates a fourfold scheme of sources (usul), ordered by rank: the Qur'an; the Sunna of the Prophet; the consensus of the qualified scholars (ijma); and reasoning by analogy (qiyas), by which a ruling in the texts is extended to a new case sharing the operative cause (illa). Beyond these four, jurists recognize a further set of disputed principles, accepted by some and rejected or restricted by others: juristic preference or equity (istihsan), associated especially with the Hanafis; consideration of the public interest or welfare (istislah, maslaha, and the maslaha mursala), associated especially with the Malikis; custom (urf); the presumption of continuity (istishab); and the received practice of the people of Medina (amal ahl al-Madina) in the Maliki school, among others. Whether and how far each of these is a valid source is itself a subject of the discipline, and the schools differ; these positions are presented here as attributed views internal to the tradition, not settled by the editor.\n\nMuslim scholars generally credit the systematic founding of the discipline to al-Shafiʿi (d. 204/820), whose Risala is described as the first sustained work to set out the sources of the law and the relations among them as a coherent theory, and later works such as al-Ghazali's al-Mustasfa min ʿilm al-usul (d. 505/1111) developed the discipline further within the Shafiʿi and Ashʿari tradition. The revealed texts the theorists themselves invoke include the Qur'anic command, in Q 4:59, to 'obey Allah and obey the Messenger and those in authority among you' and, in case of dispute, to 'refer it to Allah and His Messenger', which usul writers read as pointing to the Qur'an and the Sunna as the primary authorities and to a further authority within the community. The schools of law (madhhabs) can be understood in part as differing bodies of usul as well as of fiqh: they weight the sources and admit the disputed principles differently, which is one reason their concrete rulings diverge. The Sunni and Shia traditions also differ at the level of usul; Twelver Shia legal theory, while it shares much of the apparatus, is generally described as giving a larger and more explicit place to reason (aql) among the sources and as locating a decisive authority differently from the Sunni schools. These school and branch differences are stated here as the attributed self-understanding of each tradition, and none is ruled correct.\n\nThis entry presents usul al-fiqh strictly as the tradition's own theory of how the law is known and derived, described on its own terms (neutrality #6). The enumeration of the sources, the status of the disputed principles, the founding role assigned to al-Shafiʿi, and the differences among the schools and between the Sunni and Shia traditions are all attributed to those who hold them and left unadjudicated.",
+  "editorial_notes": "This is a legal-theory / system concept: the entry treats usul al-fiqh as the tradition's own account of the sources of the law and the method of deriving rulings, described on the tradition's own terms (neutrality #1, #6). Per neutrality #2 the internal disputes (which of the disputed principles, istihsan, istislah/maslaha, urf, istishab, amal ahl al-Madina, count as valid sources; how the sources rank) and the Sunni/Shia difference (Twelver usul giving a larger place to aql/reason) are attributed to their holders and left unadjudicated; phrasing such as 'the classical Sunni account most often enumerates', 'accepted by some and rejected or restricted by others', 'Muslim scholars generally credit', and 'is generally described' marks the attribution. The founding role of al-Shafiʿi's Risala is given as the tradition's own scholarly attribution, not as an adjudicated historical verdict.\n\nSENSITIVE POINT (usul/fiqh relation): the theory-versus-product distinction (usul al-fiqh is the method; fiqh the derived body of rulings) is presented as the tradition's own self-understanding, attributed, and mirrors how the sharia entry handles the sharia/fiqh distinction. The school and branch differences are stated and not ranked (neutrality #2, #7); the traditionist/Athari position, which characteristically restricts the valid sources closer to the revealed texts (Qur'an and Sunna) and is more cautious about the disputed rational principles such as istihsan and maslaha, is representable within this same attributed frame and is not treated as deviant.\n\nCONFIDENCE HONESTY: one Qur'anic anchor was read verbatim and is rated high FOR WHAT THE TEXT SAYS and that it is the cited warrant, not as the editor's proof of the doctrine. Q 4:59 was read line by line at quran.com (The Clear Quran, Mustafa Khattab: 'O believers! Obey Allah and obey the Messenger and those in authority among you. Should you disagree on anything, then refer it to Allah and His Messenger'), with the load-bearing Arabic confirmed (atiʿu Allah wa-atiʿu al-rasul wa-uli al-amr minkum); usul theorists invoke this verse for the authority of the Qur'an and the Sunna and the referral of disputes. The classical primary usul text, al-Ghazali's al-Mustasfa min ʿilm al-usul, was web-verified to be openly hosted (Internet Archive, opensource/Community Texts collection) and confirmed on-topic (Ghazali's usul al-fiqh, vol. I); the relevant chapters were not read line by line in this pass, so it is rated medium. The DISTINCTIVE system content, the fourfold scheme and the disputed further principles, the founding role of al-Shafiʿi's Risala, and the school/Sunni-Shia differences, rests on modern scholarship (Hallaq, Kamali) and the classical usul corpus, web-verified to exist and be on-topic but not read page by page here, and is rated medium. Because the load-bearing systematic content rests on medium sources, this entry honestly tops out at 'reviewed', not 'verified', even though its scriptural anchor is verbatim-confirmed; it is entered as 'draft' pending review. This mirrors the sharia entry's confidence handling.\n\nRELATIONS: this entry closes a dangling reference from ijma (part_of usul-al-fiqh) and from sharia (usul al-fiqh named as the roots of the law). Relation targets sharia, fiqh (this batch), and ijma exist or are created in this batch; qiyas exists in the dataset (data/concepts/islam/qiyas.json). Per neutrality #9 no encyclopedias (no Encyclopaedia of Islam), no Wikipedia, and no tertiary sources are cited.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sharia",
+      "note": "Usul al-fiqh is the tradition's theory of the sources (usul) of the sharia and the method by which the revealed law is known; the sharia entry names usul al-fiqh as 'the roots of the law'. Target (sharia) exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "fiqh",
+      "note": "Usul al-fiqh (the theory and method) is commonly distinguished from fiqh (the derived body of rulings) as the method is distinguished from its product; the distinction is attributed to the tradition, not adjudicated. Target (fiqh) is created in this batch."
+    },
+    {
+      "type": "related_to",
+      "target": "ijma",
+      "note": "Consensus of the qualified scholars (ijma) is named in the classical Sunni scheme as the third of the four sources (usul), after the Qur'an and the Sunna and ahead of analogy. Target (ijma) exists in the dataset and references usul-al-fiqh in turn."
+    },
+    {
+      "type": "related_to",
+      "target": "qiyas",
+      "note": "The qiyas concept exists in the dataset (data/concepts/islam/qiyas.json)"
+    }
+  ],
+  "historical_period": {
+    "start": 767,
+    "note": "The systematic founding of the discipline is generally credited to al-Shafiʿi (d. 204/820) and his Risala; the enumeration of the four sources and the theory of the disputed principles were elaborated across the classical centuries (roughly 8th-13th CE), and works such as al-Ghazali's al-Mustasfa (d. 505/1111) developed it further. No end date is given; usul al-fiqh remains a live discipline and its disputed principles are still debated. The start year is placed roughly in al-Shafiʿi's mature activity."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an 4:59 (Surat al-Nisa'). Read line by line at quran.com; The Clear Quran (Mustafa Khattab): 'O believers! Obey Allah and obey the Messenger and those in authority among you. Should you disagree on anything, then refer it to Allah and His Messenger, if you ˹truly˺ believe in Allah and the Last Day. This is the best and fairest resolution.' The load-bearing Arabic was confirmed: atiʿu Allah wa-atiʿu al-rasul wa-uli al-amr minkum (أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم), and the clause on referring disputes 'to Allah and His Messenger'. This is the verse usul theorists invoke for the authority of the Qur'an and the Sunna as the primary sources and for the referral of disputed matters; cited as the tradition's own proof-text, not as the editor's proof of the doctrine. Read verbatim; high for what the verse says and that it is the cited warrant.",
+      "url": "https://quran.com/4/59",
+      "license": "Qur'anic Arabic text public domain; English translations quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid Muhammad (d. 505/1111). al-Mustasfa min ʿilm al-usul (The Distilled Essence of the Science of the Principles of Jurisprudence), vol. I. Classical Sunni (Shafiʿi/Ashʿari) usul al-fiqh work, a systematic treatment of the sources of the law and the theory of legal derivation. Confirmed openly hosted at the Internet Archive (opensource / Community Texts collection) and confirmed on-topic (Ghazali's juristic doctrine, usul al-fiqh) as the tradition's own classical primary-text lens on the discipline. Relevant chapters not read line by line for this draft; the item and its subject were web-verified.",
+      "url": "https://archive.org/details/GAZALIMustasfaMinIlmUsulI",
+      "license": "Classical Arabic text public domain; freely downloadable via the Internet Archive.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hallaq, Wael B. A History of Islamic Legal Theories: An Introduction to Sunni Usul al-fiqh. Cambridge: Cambridge University Press, 1997. The standard English-language introduction to Sunni legal theory, treating the sources (usul), the fourfold scheme and the disputed further principles (istihsan, istislah/maslaha, and others), the formation of the discipline including al-Shafiʿi's role, and ijtihad. The Western academic lens on the distinctive usul-al-fiqh system. Relevant chapters not read line by line for this draft; web-verified to exist and be on-topic.",
+      "url": "https://www.cambridge.org/core/books/history-of-islamic-legal-theories/",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kamali, Mohammad Hashim. Principles of Islamic Jurisprudence. 3rd rev. ed. Cambridge: Islamic Texts Society, 2003. A contemporary Muslim scholar's standard textbook of usul al-fiqh, treating the sources of the law (Qur'an, Sunna, ijma, qiyas), the disputed principles (istihsan, istislah/maslaha, istishab, urf, and others), the rules of interpretation, abrogation, and ijtihad. The contemporary Muslim scholar lens on the discipline. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://www.amazon.com/Principles-Islamic-Jurisprudence-Mohammad-Hashim/dp/0946621810",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

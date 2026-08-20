@@ -1,0 +1,74 @@
+{
+  "id": "qiyas",
+  "tradition": "islam",
+  "names": {
+    "primary": "Qiyas",
+    "original": "القياس",
+    "transliteration": "qiyās",
+    "aliases": [
+      "analogy",
+      "analogical reasoning",
+      "juristic analogy",
+      "legal analogy"
+    ]
+  },
+  "category": "legal theory and methodology",
+  "summary": "Qiyas is analogical reasoning, in classical Sunni usul al-fiqh (the theory of the sources of law) the fourth source or method after the Qur'an, the Sunna, and ijma (consensus). It extends a ruling from an established case (asl) to a new, unregulated case (farʿ) on the basis of a shared effective cause (ʿilla); the classic textbook example extends the Qur'anic prohibition of wine (khamr) to other intoxicants that share its intoxicating cause. Whether qiyas is a valid source at all is itself contested within Islam: the four Sunni schools accept it, the Zahiri (literalist) school is reported to have rejected it, and Twelver Shia usul al-fiqh treats reason (ʿaql) differently and does not accord qiyas the same standing.",
+  "description": "Qiyas (from the root q-y-s, 'to measure' or 'to compare') names, in classical Sunni legal theory (usul al-fiqh), the disciplined extension of a legal ruling from a case for which a text or consensus already provides a ruling to a new case that the texts do not directly address, where the two cases share the relevant effective cause. In the standard fourfold scheme of the sources (usul), qiyas is ranked as the fourth source or method, after the Qur'an, the Sunna, and ijma (consensus), and is generally treated as yielding probable (zanni) rather than certain knowledge, since it depends on the jurist's identification of the operative cause.\n\nThe classical analysis of a qiyas turns on four elements (arkan): the root or original case (asl) with its established ruling; the branch or new case (farʿ) whose ruling is sought; the ruling itself (hukm) that is to be extended; and the effective cause (ʿilla), the property shared by the two cases that is taken to be the reason for the ruling. The stock textbook illustration is the prohibition of wine: the Qur'an forbids khamr (grape wine), naming it, alongside gambling and idols, as an abomination to be shunned (Q 5:90); jurists identify the effective cause of that prohibition as its intoxicating quality (iskar), and by qiyas extend the prohibition to other intoxicating substances not named in the text, since they share the same effective cause. Much of the theoretical labor of qiyas lies in the methods for isolating and validating the ʿilla, a discipline the usul writers develop at length.\n\nWhether qiyas is a legitimate source at all is a live dispute within the tradition, and the entry reports the differing positions without adjudicating them. The four Sunni schools of law (Hanafi, Maliki, Shafiʿi, Hanbali) accept qiyas as a valid method, and al-Shafiʿi is credited in Sunni memory with systematizing its use; some Sunni theorists ground the authority of qiyas in the Qur'an and the Sunna and in the practice of the Companions, though it is reported that the scriptural warrant for qiyas is itself indirect and contested rather than a single explicit command. Against this, the Zahiri (literalist) school, associated with Dawud al-Zahiri and later Ibn Hazm, is reported to have rejected qiyas as a source, holding that the law is to be derived from the apparent (zahir) sense of the revealed texts and that reasoning by analogy imports human judgment where the texts are silent. Twelver Shia usul al-fiqh, for its part, does not accord qiyas the standing it has in Sunni theory; while Shia jurists reason from the texts and employ intellect, mainstream Twelver usul relies on reason (ʿaql) as an independent indicator and treats qiyas of the Sunni type with reserve. These positions are presented here as the attributed self-understandings of the schools, not ranked or resolved.",
+  "editorial_notes": "This entry authors qiyas to close the dangling relation target referenced by the ijma and sharia entries (both name qiyas as the fourth source in the fourfold Sunni scheme). It is treated as a doctrine of usul al-fiqh and described on the tradition's own terms (neutrality #1, #6).\n\nNEUTRALITY / attributed differences: the validity of qiyas is genuinely contested inside Islam, and the disagreement is attributed and left unadjudicated per neutrality #1, #2, #7. The Sunni fourfold acceptance, the Zahiri (Dawud al-Zahiri, Ibn Hazm) rejection of qiyas in favor of the apparent sense (zahir) of the texts, and the different Twelver Shia treatment (reliance on reason, ʿaql, rather than Sunni-style analogy) are each stated as the position of its holders. The Zahiri rejection in particular is represented fairly and on its own terms as their attributed textualist position, in keeping with the skill's mandate to give the literalist/textual voice full weight, not caricatured as mere anti-rationalism. Phrasing such as 'the four Sunni schools accept', 'is reported to have rejected', and 'mainstream Twelver usul relies on' marks attributed positions.\n\nCONFIDENCE HONESTY: this entry tops out at an honest 'reviewed', not 'verified'. (1) The Qur'anic proof-text for the stock wine analogy, Q 5:90 (Surat al-Ma'ida), was read verbatim at quran.com and is rated high FOR WHAT THE VERSE SAYS and that it is the case from which the analogy is standardly drawn (it names khamr, grape wine, as an abomination to be shunned); it is cited as the tradition's own textual starting point for the example, not as the editor's proof that qiyas is valid. Note honestly that the verse forbids khamr by name and that the EXTENSION to other intoxicants is the work of qiyas (via the effective cause, intoxication), not something the verse itself states. (2) al-Ghazali's al-Mustasfa (openly hosted at archive.org) is the classical Sunni usul primary text treating qiyas; the item is open, but its qiyas chapter (kitab al-qiyas) was not read line by line for this draft, so it is rated medium, not high. (3) Wael Hallaq, A History of Islamic Legal Theories (CUP, 1997), is the Western academic lens on qiyas, its four elements, and the disputes over its validity, rated medium (verified to exist and be on-topic, relevant chapters not read line by line). (4) A contemporary Muslim scholarly voice is carried by Ahmad Hasan's study of the doctrine of ijtihad and the early development of qiyas, rated medium. The Zahiri rejection and the Shia treatment rest on this medium-rated scholarship; honestly, the scriptural basis for qiyas is itself contested (the Zahiris denied it), so the entry does not present qiyas as textually self-evident. Per neutrality #9 no encyclopedias or tertiary sources are cited.\n\nRelation targets ijma, sharia, and usul-al-fiqh all exist in the dataset; no dangling forward references in this entry.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "usul-al-fiqh",
+      "note": "Qiyas is one of the four sources or methods (usul) in Sunni legal theory (usul al-fiqh), ranked fourth after the Qur'an, the Sunna, and ijma. usul-al-fiqh exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "ijma",
+      "note": "In the standard fourfold Sunni scheme ijma (consensus) ranks third and qiyas (analogical reasoning) fourth; the two are the third and fourth sources after the Qur'an and the Sunna. Mirror of the related_to edge in the ijma entry; ijma exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "sharia",
+      "note": "Qiyas is one of the methods by which the jurists derive rulings of the sharia (the revealed law) for cases the texts do not directly address, extending an established ruling to a new case on a shared effective cause. sharia exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 767,
+    "note": "Analogical reasoning was systematized as one of the four sources in the classical usul al-fiqh literature; al-Shafiʿi (d. 204/820) is credited in Sunni memory with systematizing qiyas, and it is treated at length by later usul writers such as al-Ghazali (d. 505/1111). The start year (c. 767 CE, roughly the era of Abu Hanifa and the early schools) is a rough anchor for the early legal reasoning from which the doctrine developed; no end date, qiyas remains a live and debated source in Islamic legal theory, and the Zahiri rejection and the Shia treatment persist."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an, Q 5:90 (Surat al-Ma'ida). Read verbatim at quran.com: 'O you who believe! Intoxicants (khamr), gambling, idols, and divining arrows are an abomination of Satan's handiwork; so shun them, that you may be successful.' This is the case (asl) from which the standard textbook qiyas is drawn: the verse forbids khamr (grape wine) by name, jurists identify its effective cause (ʿilla) as intoxication (iskar), and by qiyas extend the prohibition to other intoxicants not named in the text. Cited as the tradition's own textual starting point for the stock example; the extension to other intoxicants is the work of qiyas, not stated by the verse itself. High for what the verse says and that it names khamr as the prohibited case.",
+      "url": "https://quran.com/5/90",
+      "license": "Qur'anic Arabic text public domain; English translation quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid Muhammad (d. 505/1111). al-Mustasfa min ʿilm al-usul (The Distilled Essence of the Science of the Principles of Jurisprudence). Classical Sunni (Shafiʿi/Ashʿari) usul al-fiqh work that treats qiyas at length, including its rukns (asl, farʿ, hukm, ʿilla) and the methods for establishing the effective cause. The tradition's own classical primary-text lens on the doctrine. Openly hosted Arabic edition; the qiyas chapter (kitab al-qiyas) not read line by line for this draft, so rated medium rather than high.",
+      "url": "https://archive.org/details/GAZALIMustasfaMinIlmUsulI",
+      "license": "Classical Arabic text public domain; cited for reference, not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hallaq, Wael B. A History of Islamic Legal Theories: An Introduction to Sunni Usul al-fiqh. Cambridge: Cambridge University Press, 1997. The standard English-language introduction to Sunni legal theory, treating qiyas as the fourth source, its four elements, the identification and validation of the effective cause (ʿilla), and the disputes over its authority and scriptural warrant, including the Zahiri rejection. The Western academic lens; relevant chapters not read line by line for this draft.",
+      "url": "https://doi.org/10.1017/CBO9780511801266",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hasan, Ahmad. Analogical Reasoning in Islamic Jurisprudence: A Study of the Juridical Principle of Qiyas. Islamabad: Islamic Research Institute, 1992 (ISBN 0-935782-35-4). A contemporary Muslim scholar's book-length study of qiyas, its concept, rules, and application as developed in the classical period, the four Sunni schools' acceptance of it, and the arguments over its validity including the literalist (Zahiri) objection. Contemporary Muslim-scholar lens; reviewed in the Journal of Law and Religion, verified to exist and be on-topic, not read line by line for this draft.",
+      "url": "https://books.google.com/books/about/Analogical_Reasoning_in_Islamic_Jurispru.html?id=ZG0DA95SbLkC",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

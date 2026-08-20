@@ -1,0 +1,68 @@
+{
+  "id": "fiqh",
+  "tradition": "islam",
+  "names": {
+    "primary": "Fiqh",
+    "original": "الفقه",
+    "transliteration": "fiqh",
+    "aliases": [
+      "understanding",
+      "Islamic jurisprudence",
+      "jurisprudence",
+      "the science of the law",
+      "the derived rulings"
+    ]
+  },
+  "category": "law and society",
+  "summary": "Fiqh, literally 'understanding', is, in the tradition's own account, Islamic jurisprudence: the human science of understanding and deriving the concrete rulings of the sharia, and the body of those rulings. It is commonly distinguished from the sharia itself, the divine law as such: on this account fiqh is the fallible human effort (ijtihad) of the jurists (fuqaha) to know the law, while the sharia is the divine guidance they seek to know. Fiqh is generally described as covering acts of worship (ibadat) and dealings between people (muamalat), as sorting acts into five categories (ahkam), and as elaborated into differing bodies by the Sunni schools (madhhabs) and the Shia (notably the Jaʿfari) school; the schools' differences are attributed here, not adjudicated.",
+  "description": "Fiqh (from the root f-q-h, 'to understand'; the noun means 'understanding' and, as a technical term, 'jurisprudence') names, in the tradition's self-understanding, both the activity and the product of the jurists' effort to know the law: the science of deriving the concrete rulings of the sharia from its sources, and the body of rulings so derived. A distinction commonly drawn by Muslim scholars separates fiqh from the sharia: the sharia is the divinely revealed law as it is in itself, one and from God, while fiqh is the human, fallible, plural, and revisable understanding of it, the effort (ijtihad) of the qualified jurists (the fuqaha, singular faqih) to grasp and articulate the law. On this account a ruling of fiqh can be mistaken and can be revised, and jurists can disagree, precisely because fiqh is human understanding and not the divine law itself; this is presented here as the tradition's own way of holding that the law is from God even as the jurists differ.\n\nFiqh is generally described as covering two great domains, mirroring the reach of the sharia: acts of worship (ibadat), such as ritual purity, the prayer, fasting, almsgiving, and pilgrimage; and transactions or dealings between people (muamalat), such as contracts, sale, debt, marriage and family, inheritance, and criminal and procedural matters. The Qur'an itself contains verses the jurists treat as legal material for the muamalat domain, such as Q 2:282, which instructs the believers, 'When you contract a loan for a fixed period of time, commit it to writing', read as scriptural warrant for the documentation of debts and contracts. Within fiqh, human acts are commonly sorted into five categories or rulings (al-ahkam al-khamsa): the obligatory (wajib or fard), the recommended (mandub or mustahabb), the permitted or neutral (mubah), the disliked (makruh), and the forbidden (haram). This fivefold scheme is described as a distinctive feature of Islamic jurisprudence, ordering acts not only into lawful and unlawful but across a graded range.\n\nOut of the jurists' activity arose differing bodies of fiqh, the schools of law (madhhabs). In Sunni Islam the four schools that survive as living traditions, the Hanafi, Maliki, Shafiʿi, and Hanbali, differ in method and in many concrete rulings while recognizing one another as valid; the Twelver Shia follow the Jaʿfari school, named for the imam Jaʿfar al-Sadiq, as their distinct body of fiqh, and other Shia and Ibadi traditions have their own. The tradition generally regards this plurality of schools as a longstanding and accepted feature of the law rather than a defect, and the schools themselves differ on many questions without one being ruled correct here. The theory of how fiqh is derived, its sources and the interpretive principles, is the separate discipline of usul al-fiqh (the roots of jurisprudence), which stands to fiqh as method to product.\n\nThis entry presents fiqh strictly as the tradition's own concept of the human science of the law and the body of its rulings, described on its own terms (neutrality #6). The sharia-versus-fiqh distinction, the domains, the five categories, and the differences among the Sunni schools and the Jaʿfari school are all attributed to those who hold them and left unadjudicated.",
+  "editorial_notes": "This is a law-and-society / system concept: the entry treats fiqh as the tradition's own account of the jurists' human science of the law and the body of derived rulings, described on the tradition's own terms (neutrality #1, #6). Per neutrality #2 the differences among the schools (the four Sunni madhhabs; the Jaʿfari Shia school) and the internal features (the domains, the five ahkam) are attributed and not ranked; phrasing such as 'commonly distinguished', 'generally described', and 'without one being ruled correct here' marks the attribution.\n\nSENSITIVE POINT (the sharia/fiqh distinction): the core claim, that the sharia is the divine law as such while fiqh is the fallible human understanding (ijtihad) of it, is presented as the tradition's own self-understanding, attributed with phrasing such as 'a distinction commonly drawn by Muslim scholars' and 'this is presented here as the tradition's own way of holding', and never asserted by the editor as a metaphysical fact about a divine law. This mirrors exactly how the sharia entry (which this closes a dangling reference from) handles the same distinction: it is the tradition's account of why the law can be from God even as jurists disagree, not the editor's ruling. The school differences are stated and not adjudicated (neutrality #2, #7); the traditionist/Athari and Hanbali textualist emphasis, its caution about extending the law beyond the revealed texts, is representable within this same attributed frame and is not treated as deviant.\n\nCONFIDENCE HONESTY: one Qur'anic anchor was read verbatim and is rated high FOR WHAT THE TEXT SAYS and that it is treated as legal material, not as the editor's proof of any doctrine. Q 2:282 was read at quran.com (The Clear Quran, Mustafa Khattab: 'O believers! When you contract a loan for a fixed period of time, commit it to writing'), instancing a Qur'anic verse the jurists treat as legal material in the muamalat domain (documentation of debts). The DISTINCTIVE system content, the sharia/fiqh distinction, the ibadat/muamalat domains, the five ahkam, and the four Sunni schools plus the Jaʿfari school, rests on modern scholarship (Hallaq, Kamali) and the classical corpus, web-verified to exist and be on-topic but not read page by page here, and is rated medium. Because the load-bearing systematic content rests on medium sources, this entry honestly tops out at 'reviewed', not 'verified', even though its scriptural anchor is verbatim-confirmed; it is entered as 'draft' pending review. This mirrors the sharia entry's confidence handling.\n\nRELATIONS: this entry closes a dangling reference from sharia (which contrasts_with fiqh). Relation targets sharia and usul-al-fiqh (this batch) exist or are created in this batch; madhhab is a dangling forward reference and does not yet exist as an entry (flagged, surfaced by validate.py). Per neutrality #9 no encyclopedias (no Encyclopaedia of Islam), no Wikipedia, and no tertiary sources are cited.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "sharia",
+      "note": "Fiqh (the fallible human jurisprudence and its body of rulings) is commonly distinguished by Muslim scholars from the sharia (the divine law as such): fiqh is the jurists' effort (ijtihad) to understand the sharia. The distinction is attributed to the tradition, not adjudicated; the sharia entry contrasts_with fiqh in turn. Target (sharia) exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "usul-al-fiqh",
+      "note": "Fiqh (the derived body of rulings) stands to usul al-fiqh (the theory of the sources and the method of derivation) as product to method; the two are complementary disciplines. Target (usul-al-fiqh) is created in this batch."
+    },
+    {
+      "type": "related_to",
+      "target": "madhhab",
+      "note": "The jurists' activity produced differing bodies of fiqh, the schools of law (madhhabs): the four Sunni schools (Hanafi, Maliki, Shafiʿi, Hanbali) and the Jaʿfari (Twelver Shia) school, differing in method and rulings; the diversity is described and not ranked. Target is a forward reference; madhhab does not yet exist as an entry (surfaced by validate.py)."
+    }
+  ],
+  "historical_period": {
+    "start": 632,
+    "note": "The activity of understanding and deriving the law is traced in the tradition to the generation after the Prophet's death (632 CE) and the early jurists; fiqh was systematized and the schools (madhhabs) took shape across the classical centuries (roughly 8th-10th CE). No end date is given; fiqh remains a living science and its schools remain active."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an 2:282 (Surat al-Baqara). Read at quran.com; The Clear Quran (Mustafa Khattab): 'O believers! When you contract a loan for a fixed period of time, commit it to writing.' Cited as a representative legal ayah in the domain of dealings between people (muamalat), instancing a Qur'anic verse the jurists treat as legal material (the documentation of debts and contracts) that fiqh elaborates; read verbatim. High for what the verse says and that it is treated as legal material by the jurists, not as the editor's proof of any doctrine.",
+      "url": "https://quran.com/2/282",
+      "license": "Qur'anic Arabic text public domain; English translation quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Hallaq, Wael B. Sharīʿa: Theory, Practice, Transformations. Cambridge: Cambridge University Press, 2009. A leading academic monograph on Islamic law, treating the relation of the divine sharia to the jurists' fiqh, the domains of the law, the categories of legal qualification, and the formation and character of the schools (madhhabs). The Western academic lens on the distinctive concept. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://www.cambridge.org/9780521678742",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kamali, Mohammad Hashim. Principles of Islamic Jurisprudence. 3rd rev. ed. Cambridge: Islamic Texts Society, 2003. A contemporary Muslim scholar's standard textbook that treats the relation of fiqh to the sharia and to usul al-fiqh, the five categories of the ahkam (al-ahkam al-khamsa), and the derivation of concrete rulings. The contemporary Muslim scholar lens. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://www.amazon.com/Principles-Islamic-Jurisprudence-Mohammad-Hashim/dp/0946621810",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

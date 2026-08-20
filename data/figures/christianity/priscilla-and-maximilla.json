@@ -1,0 +1,61 @@
+{
+  "id": "priscilla-and-maximilla",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Priscilla and Maximilla",
+    "original": "Πρίσκιλλα καὶ Μαξιμίλλα",
+    "transliteration": "Priskilla kai Maximilla",
+    "aliases": [
+      "Prisca and Maximilla",
+      "Priscilla (Prisca)",
+      "Maximilla",
+      "the prophetesses of the New Prophecy",
+      "the Montanist prophetesses"
+    ]
+  },
+  "roles": [
+    "prophet"
+  ],
+  "summary": "Priscilla (also called Prisca) and Maximilla were the two prophetesses who, together with Montanus, led the second-century prophetic renewal movement known to its followers as the New Prophecy and to its opponents as Montanism, in Phrygia (Asia Minor) around 165-175 CE. On the account of hostile heresiological sources, on which the surviving picture rests almost entirely, they prophesied in ecstasy, delivered oracles as the New Prophecy, and were counted by the movement as prophetesses of Montanus. Like Montanus, they left no writings of their own, and this entry presents their reported prophecy as attributed to their opponents, not as neutral fact.",
+  "description": "Priscilla, also called Prisca, and Maximilla were two women who, with Montanus, stood at the head of the New Prophecy (he kaine propheteia), the ecstatic-prophetic renewal movement that arose in Phrygia in Asia Minor in the second century CE, conventionally around 165-175 CE, and that its opponents and later tradition named Montanism after Montanus. In the movement they were reckoned prophetesses, delivering oracles alongside Montanus; a small number of sayings attributed to them survive as quoted by later, largely hostile, writers. The prominence of two women as prophetic leaders is one of the features that modern scholarship, above all Christine Trevett, treats as central to the New Prophecy and to the controversy it provoked over prophecy, authority, and the place of women.\n\nThe decisive difficulty in describing Priscilla and Maximilla is that, like Montanus, they left no surviving writings of their own, and the picture of them rests almost entirely on HOSTILE heresiological sources, that is, on the reports of those who opposed and condemned the movement. The principal witness is Eusebius of Caesarea, Ecclesiastical History Book 5, chapters 16-18, who himself quotes earlier anti-Montanist writers, an anonymous author (the Anonymous) and Apollonius. According to the Anonymous, as quoted by Eusebius (EH 5.16) and read verbatim here, Montanus 'stirred up besides two women, and filled them with the false spirit, so that they talked wildly and unreasonably and strangely, like the person already mentioned', and the movement's followers were 'boasting that Montanus was the Paraclete, and that the women that followed him, Priscilla and Maximilla, were prophetesses of Montanus'. The same source reports oracles of Maximilla and dwells on the manner of her prophesying and on the end of the prophets; it also transmits a charge touching Prisca (in one passage disputing that she was rightly called a virgin). These reports are the hostile testimony of the movement's opponents, and are recorded here as such, not as a settled account of what the two prophetesses in fact said or did.\n\nBecause the whole surviving portrait of Priscilla and Maximilla is mediated through their opponents, and because no text in their own voice survives, modern historians such as Christine Trevett reconstruct their role in the New Prophecy cautiously, distinguishing the movement's own self-understanding, that the Spirit spoke through its prophets, women among them, from the heresiographers' framing of the two women as filled with a 'false spirit' and prophesying in disorder. This entry follows that caution: the prophecy, oracles, and conduct attributed to Priscilla and Maximilla are presented throughout as reported by hostile sources and attributed to them, and the question of whether the New Prophecy was a genuine or a false prophecy is not adjudicated.",
+  "editorial_notes": "The crux of this entry, and the reason for its editorial caution, is that Priscilla (Prisca) and Maximilla left NO surviving writings of their own and, exactly like the montanus entry it accompanies, are known almost entirely through HOSTILE heresiological sources. The picture rests on the reports of the movement's opponents: Eusebius, Ecclesiastical History Book 5.16-18, who quotes the earlier anti-Montanist writers the Anonymous and Apollonius, and later hostile transmission (Epiphanius, Panarion). Accordingly, following the same handling as the montanus entry, the prophetesses' reported prophecy, ecstatic oracles, and conduct are presented throughout as ATTRIBUTED, that is, as reported by their opponents, and NEVER stated as neutral fact (neutrality #1, #2). Whether the New Prophecy was genuine or false prophecy is NOT adjudicated. The figure relation schema has no 'opposed' type, so the hostile relationship is conveyed in the notes as attribution, not by relation type.\n\nDates (fl. c. 165-175 CE) are approximate and disputed in the scholarship; birth and death years are unknown and no precise dates are asserted, so no lifespan block with years is given. Sourcing follows the three-lens model per neutrality #8, adapted to figures known only through their opponents: (a) academic history of early Christianity, Christine Trevett, Montanism: Gender, Authority and the New Prophecy (Cambridge University Press, 1996), which treats the two women specifically and the question of gender and prophetic authority, rated medium; (b) the primary corpus, present here as a HOSTILE primary witness read verbatim on an open page, Eusebius, EH 5.16-18, quoting the Anonymous and Apollonius, cited as such; (c) contemporary reception, a contemporary scholar on women prophets and the New Prophecy (Nasrallah, An Ecstasy of Folly), rated medium. No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: because the entire picture is hostile-attributed and no non-hostile primary text in the prophetesses' OWN voice is readable, this entry is honestly capped at 'draft' now and is reviewed-eligible at best, NOT verifiable to a primary in their own voice, exactly as with montanus, and it says so here. The one source rated high is the OPEN primary read line by line: Eusebius, Ecclesiastical History Book 5, chapters 16-18, read verbatim at newadvent.org, where the load-bearing passages were confirmed word for word: the Anonymous's report that Montanus 'stirred up besides two women, and filled them with the false spirit, so that they talked wildly and unreasonably and strangely'; that the followers were 'boasting that Montanus was the Paraclete, and that the women that followed him, Priscilla and Maximilla, were prophetesses of Montanus'; the material on Maximilla's oracles and death; and the disputed remark touching Prisca. This high rating attaches to what the open page actually says (that these opponents so reported), NOT to the truth of the charges. Trevett and Nasrallah (proprietary) are rated medium, verified to exist and be on-topic. This entry is referenced by montanus. Relation targets montanus (exists) and montanism (exists, status verified) are present in the dataset; no dangling relation targets in this entry.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "montanus",
+      "note": "Priscilla (Prisca) and Maximilla were the two prophetesses who, with Montanus, led the New Prophecy; the Anonymous quoted by Eusebius (EH 5.16) reports the followers 'boasting that Montanus was the Paraclete, and that the women that followed him, Priscilla and Maximilla, were prophetesses of Montanus'. Attributed to the hostile source, not stated as fact. Mirror of the 'related_to' relation in the montanus entry, which references this one."
+    },
+    {
+      "type": "related_to",
+      "target": "montanism",
+      "note": "The two prophetesses were leaders of the movement its adherents called the New Prophecy and its opponents named Montanism; their ecstatic oracles are part of the movement as its hostile sources describe it. Attributed to those hostile sources, not adjudicated. The montanism entry exists in the dataset (data/schools/christianity/montanism.json, status verified)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Eusebius of Caesarea. Ecclesiastical History (Church History), Book 5, chapters 16-18. Translated by Arthur Cushman McGiffert, Nicene and Post-Nicene Fathers, Second Series, Vol. 1. HOSTILE PRIMARY WITNESS, read verbatim on the open page: Eusebius quotes the anti-Montanist writers the Anonymous and Apollonius. Load-bearing passages confirmed word for word for the two prophetesses: Montanus 'stirred up besides two women, and filled them with the false spirit, so that they talked wildly and unreasonably and strangely, like the person already mentioned' (5.16); the followers 'boasting that Montanus was the Paraclete, and that the women that followed him, Priscilla and Maximilla, were prophetesses of Montanus'; the reports of Maximilla's oracles and of the end of the prophets; and the disputed remark touching Prisca. Cited as an attributed report by the prophetesses' opponents, not as neutral fact; rated high only for what the open page actually says (that these opponents so reported), not for the truth of the charges.",
+      "url": "https://www.newadvent.org/fathers/250105.htm",
+      "license": "Underlying fourth-century Greek and the McGiffert (NPNF2) translation are public domain; read line-by-line at newadvent.org.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Trevett, Christine. Montanism: Gender, Authority and the New Prophecy. Cambridge: Cambridge University Press, 1996. The standard scholarly monograph on the New Prophecy, which treats Priscilla (Prisca) and Maximilla specifically, the prominence of women prophets in the movement, their attributed oracles, and the problem that the sources are overwhelmingly hostile. Academic history-of-early-Christianity lens; same source and rating as in the montanus entry.",
+      "url": "https://www.cambridge.org/core_title/gb/113592",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasrallah, Laura Salah. An Ecstasy of Folly: Prophecy and Authority in Early Christianity. Harvard Theological Studies 52. Cambridge, MA: Harvard University Press / Harvard Divinity School, 2003. A contemporary scholarly study of ecstatic prophecy and the contest over prophetic authority in early Christianity, treating the New Prophecy and its women prophets and the heresiological framing of ecstatic prophecy. Contemporary-scholar lens.",
+      "url": "https://www.hup.harvard.edu/books/9780674012295",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

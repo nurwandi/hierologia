@@ -1,0 +1,67 @@
+{
+  "id": "university-of-berlin",
+  "tradition": "christianity",
+  "names": {
+    "primary": "University of Berlin",
+    "original": "Universitaet zu Berlin",
+    "transliteration": "Universitaet zu Berlin",
+    "aliases": [
+      "Friedrich Wilhelm University",
+      "Friedrich-Wilhelms-Universitaet",
+      "Humboldt University of Berlin",
+      "Humboldt-Universitaet zu Berlin",
+      "Berlin University"
+    ]
+  },
+  "category": "institution",
+  "summary": "The University of Berlin (founded 1810; today the Humboldt University of Berlin) is a founding institution of the modern research university, the model associated with Wilhelm von Humboldt that unites teaching and research and organizes knowledge as Wissenschaft. It became a central hub of modern Protestant theology, where Friedrich Schleiermacher, a co-founder of its theology faculty, and later Adolf von Harnack taught.",
+  "description": "The University of Berlin was founded in 1810 in the Prussian capital and is today known as the Humboldt University of Berlin (Humboldt-Universitaet zu Berlin); for much of its history it bore the name Friedrich Wilhelm University (Friedrich-Wilhelms-Universitaet). It is standardly treated by historians of the university as a founding institution of the modern research university, associated with the reforming statesman and scholar Wilhelm von Humboldt, whose conception, the so-called Humboldtian model, joined teaching and research in a single institution, held to the unity of research and teaching, and organized inquiry as Wissenschaft (systematic scholarship) pursued in academic freedom. This model became widely influential on the modern university in Europe and beyond.\n\nFrom its foundation the university was also a central hub of modern Protestant theology and of the historical and critical study of religion. Friedrich Schleiermacher (1768-1834), widely called the father of modern liberal Protestant theology, was involved in the planning of the new university and was a founding professor of its theology faculty from 1810, where he also served as a preacher; he is a central figure in the shaping of modern theological method. Later in the nineteenth and into the twentieth century the historian of dogma Adolf von Harnack (1851-1930) taught at Berlin, where he delivered the lectures published as What Is Christianity? (Das Wesen des Christentums, 1900), 'sixteen lectures delivered in the University of Berlin during the winter-term 1899-1900.' The university's place in the history of modern theology is thus tied to the movement of liberal Protestantism that ran from Schleiermacher through Harnack, though it housed a far wider range of scholarship across the disciplines. This entry records the institution's history and significance and does not adjudicate the theological positions of those who taught there.",
+  "editorial_notes": "This entry treats the University of Berlin as an institution: its founding date (1810), its later name (the Humboldt University of Berlin), its association with the Humboldtian model of the modern research university, and its role as a hub of modern Protestant theology (neutrality #5). It exists chiefly to close a dangling relation target from friedrich-schleiermacher, who was a founding professor of its theology faculty, and it is referenced by friedrich-schleiermacher. The theological claims of those who taught there (Schleiermacher, Harnack) are described elsewhere and are attributed, not endorsed here (neutrality #1, #2); the institutional facts (foundation, naming, the Humboldtian model, and Schleiermacher's and Harnack's chairs) are stated as matters of historical record.\n\nSourcing per neutrality #8: (a) an academic historian of the university (Charles E. McClelland, State, Society, and University in Germany 1700-1914) for the founding and the Humboldtian research-university model; (b) an open primary, Adolf von Harnack's What Is Christianity?, whose title page states the lectures were 'delivered in the University of Berlin during the winter-term 1899-1900,' directly attesting Harnack's teaching there; (c) a contemporary scholar on Schleiermacher and the founding of the university (Terrence N. Tice / Martin Redeker on Schleiermacher's founding role). No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: This entry is REVIEWED-eligible, not verified, and only ONE source is rated high. Harnack's What Is Christianity? (T. B. Saunders's translation) was read directly in the OPEN, public-domain full text at the Internet Archive (both the detail page and the plain-text djvu were confirmed to resolve, freely readable, not borrow-only), and its title page attestation was verified verbatim: the work is 'sixteen lectures delivered in the University of Berlin during the winter-term 1899-1900.' On the strength of that direct reading the Harnack source is rated HIGH for the single load-bearing claim it backs (that Harnack taught and lectured at the University of Berlin). The remaining claims (the 1810 foundation, the Humboldtian research-university model and its influence, and Schleiermacher's role as a co-founder of the theology faculty) rest on the secondary scholarship (McClelland, Redeker/Tice), which is rated MEDIUM: verified to exist and be on-topic via publisher and catalogue records, not read line by line. The founding date 1810 and the lifespans given are secure and standardly reported.\n\nRelation targets friedrich-schleiermacher and liberal-theology exist in the dataset (liberal-theology authored in this same batch). adolf-von-harnack is a dangling forward reference to a not-yet-created entity, flagged in its edge.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "friedrich-schleiermacher",
+      "note": "Friedrich Schleiermacher was involved in the planning of the new university and was a founding professor of its theology faculty from 1810, where he also served as a preacher; recorded as a matter of historical fact. friedrich-schleiermacher exists in the dataset and references this entry."
+    },
+    {
+      "type": "related_to",
+      "target": "liberal-theology",
+      "note": "The University of Berlin was a central institutional hub of the liberal Protestant theology that ran from Schleiermacher through Harnack, both of whom held chairs there; recorded as institutional history, not an endorsement of the movement's positions. liberal-theology exists in the dataset (authored in this batch)."
+    },
+    {
+      "type": "related_to",
+      "target": "adolf-von-harnack",
+      "note": "Adolf von Harnack taught at the University of Berlin, where he delivered the lectures published as What Is Christianity? (Das Wesen des Christentums, 1900), whose title page attests the lectures were 'delivered in the University of Berlin during the winter-term 1899-1900.' Dangling forward reference, not yet a separate entry."
+    }
+  ],
+  "historical_period": {
+    "start": 1810,
+    "note": "Founded 1810 in Berlin (long named the Friedrich Wilhelm University; today the Humboldt University of Berlin). A founding institution of the modern research university (the Humboldtian model). Schleiermacher was a founding professor of theology from 1810; Harnack taught there and lectured in 1899-1900. The institution continues today, so no end date is asserted; the start marks its foundation, not the whole of its history."
+  },
+  "sources": [
+    {
+      "citation": "Harnack, Adolf von. What Is Christianity? (Das Wesen des Christentums, 1900). Translated by Thomas Bailey Saunders. London: Williams and Norgate; New York: G. P. Putnam's Sons, 1901. Primary text, read directly in the open full text. Load-bearing attestation verified verbatim from the title page: the work consists of 'sixteen lectures delivered in the University of Berlin during the winter-term 1899-1900,' directly attesting that Adolf von Harnack taught and lectured at the University of Berlin. Cited for Harnack's teaching at Berlin.",
+      "url": "https://archive.org/details/whatischristiani00harnuoft",
+      "license": "Public domain (the 1900 German original and the 1901 Saunders English translation are both out of copyright). Read in the open full text at the Internet Archive; the detail page and the plain-text (djvu) full text both resolve and are freely readable, not borrow-only.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "McClelland, Charles E. State, Society, and University in Germany 1700-1914. Cambridge: Cambridge University Press, 1980. A standard scholarly history of the German university, including the founding of the University of Berlin in 1810 and the Humboldtian research-university model (the unity of research and teaching, Wissenschaft, and academic freedom) and its influence. Academic-historian lens; verified to exist and be on-topic, not read line by line.",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Redeker, Martin. Schleiermacher: Life and Thought. Translated by John Wallhausser. Philadelphia: Fortress Press, 1973; with Terrence N. Tice, Schleiermacher (Abingdon Pillars of Theology), Nashville: Abingdon Press, 2006. Scholarly studies of Schleiermacher treating his involvement in the founding of the University of Berlin and his role as a founding professor of its theology faculty from 1810. Contemporary-scholar lens on Schleiermacher's founding role; verified to exist and be on-topic, not read line by line.",
+      "url": "https://archive.org/details/schleiermacherli0000rede",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

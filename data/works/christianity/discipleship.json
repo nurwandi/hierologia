@@ -1,0 +1,80 @@
+{
+  "id": "discipleship",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Discipleship",
+    "original": "Nachfolge",
+    "transliteration": "Nachfolge",
+    "aliases": [
+      "The Cost of Discipleship",
+      "Cost of Discipleship",
+      "Nachfolge",
+      "DBWE 4",
+      "Dietrich Bonhoeffer Works, Volume 4"
+    ]
+  },
+  "category": "theological treatise (spiritual and ethical)",
+  "date": {
+    "year": 1937,
+    "note": "First published in German as Nachfolge in 1937. Long known in English as The Cost of Discipleship (the SCM Press translation, from 1948 onward); the critical English edition in the Dietrich Bonhoeffer Works series, translated afresh from the German critical edition, appeared as Discipleship (Fortress Press, 2003, DBWE volume 4). The year 1937 marks the German first edition."
+  },
+  "summary": "Discipleship (Nachfolge, 1937), long known in English as The Cost of Discipleship, is a theological treatise by the German Lutheran pastor and theologian Dietrich Bonhoeffer. It is organized around a contrast between 'cheap grace,' grace treated as forgiveness dispensed without repentance or discipleship, and 'costly grace,' grace that calls a person to follow Christ, and it develops this through an extended exposition of the Sermon on the Mount; it was written during the German Church Struggle of the 1930s.",
+  "description": "Discipleship (German Nachfolge) is a book by Dietrich Bonhoeffer (1906-1945), a German Lutheran pastor and theologian of the Confessing Church, first published in 1937 and long circulated in English under the title The Cost of Discipleship. The critical English edition, freshly translated from the German critical edition, was published as Discipleship in the Dietrich Bonhoeffer Works series (Fortress Press, 2003, volume 4). Bonhoeffer wrote it out of his work directing the underground Confessing Church seminary at Finkenwalde and against the background of the German Church Struggle (Kirchenkampf), the conflict within German Protestantism over the alignment of the church with National Socialism.\n\nThe book opens with the distinction for which it is best known, between what Bonhoeffer calls 'cheap grace' and 'costly grace.' Cheap grace, in his account, is grace treated as a possession the church dispenses cheaply, the preaching of forgiveness without requiring repentance, grace without discipleship, grace without the cross and without the living Jesus Christ; he calls it 'the deadly enemy of our church.' Costly grace, by contrast, is 'the treasure hidden in the field' and 'the pearl of great price,' costly because it costs a person their life and grace because it gives that person the only true life; it is costly because it calls to discipleship and grace because it calls a person to follow Jesus Christ. Bonhoeffer ties grace inseparably to the call to follow, summarized in the often-quoted sentence, in the standard English rendering, 'when Christ calls a man, he bids him come and die.' The obedience of the disciple and the grace of Christ are, on his account, not opposed but bound together in the concrete act of following.\n\nThe central chapters develop this understanding through a sustained exposition of the Sermon on the Mount (Matthew 5-7), which Bonhoeffer reads not as an unreachable ideal or a set of general principles but as the concrete call of Christ to be obeyed in discipleship. He treats the Beatitudes, the call to be salt and light, and the 'extraordinary' demands of the sermon, on retaliation and love of enemies, as descriptions of the life of those who follow, and he resists readings that would soften these into mere dispositions or defer them. The later part of the book turns to the church as the community of those called, the visible body of Christ in which discipleship is lived. This entry attributes the 'cheap grace' and 'costly grace' distinction, the reading of grace as the call to follow, and the christological interpretation of the Sermon on the Mount to Bonhoeffer and to the work itself, and records the book's setting in the German Church Struggle as a matter of historical report, without endorsing or adjudicating its theological claims.",
+  "editorial_notes": "This entry describes Discipleship on Christian terms (neutrality #1, #4, #6) and attributes its theological claims to Dietrich Bonhoeffer and to the work itself. The 'cheap grace' and 'costly grace' distinction, the account of grace as the call to follow Christ, and the christological reading of the Sermon on the Mount are stated as the attributed positions of Bonhoeffer and the book, not endorsed or adjudicated; the book's setting in the German Church Struggle of the 1930s is reported as historical context, not as the editor's verdict.\n\nHONESTY / status and confidence: this entry is DRAFT and, on the sourcing available, tops out at REVIEWED rather than verified. The text of Discipleship is a twentieth-century work whose German original (Nachfolge) and English translations (the SCM Press The Cost of Discipleship and the Dietrich Bonhoeffer Works / DBWE critical edition, Fortress Press) are under copyright and are NOT openly readable line-by-line; its load-bearing passages were not read verbatim for this entry, so the work itself is cited as the primary corpus, verified to exist and be on-topic, and rated MEDIUM. The short quoted phrases ('the deadly enemy of our church'; 'the treasure hidden in the field'; 'the pearl of great price'; 'when Christ calls a man, he bids him come and die') are the standard renderings of the Discipleship / Cost of Discipleship text as reported across the scholarship and the DBWE edition, flagged here as standard renderings not personally verified against a licensed open copy. No open primary was invented to raise this to verified; because the central textual claims rest on proprietary text plus secondary scholarship rather than a directly read open primary of the work, verified status is not claimed.\n\nSources triangulate the three Christian lenses (neutrality #8): (a) an academic biography, Eberhard Bethge, Dietrich Bonhoeffer: A Biography, rev. ed. (Fortress Press, 2000), medium, verified to exist and on-topic; (b) the primary corpus, Discipleship itself (DBWE volume 4, Fortress Press, 2003), medium, plus the open biblical text of the Sermon on the Mount (Matthew 5, Berean Standard Bible via Bible Hub), which anchors the sermon Bonhoeffer expounds and was consulted directly, rated high but cited only for the biblical text expounded, not for Bonhoeffer's interpretation of it; (c) a contemporary theologian, Stephen Plant, Bonhoeffer, Outstanding Christian Thinkers (Continuum, 2004), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: dietrich-bonhoeffer exists in the dataset (data/figures/christianity/dietrich-bonhoeffer.json) and already references this work as a forward reference. grace exists in the dataset (the 'costly grace' relation). confessing-church exists in the dataset (data/schools/christianity/confessing-church.json). sermon-on-the-mount is a dangling forward reference (not yet created).",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "dietrich-bonhoeffer",
+      "note": "Written by the German Lutheran pastor and theologian Dietrich Bonhoeffer (1906-1945), first published in German as Nachfolge in 1937. dietrich-bonhoeffer exists in the dataset and already references this work."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "The book turns on Bonhoeffer's distinction between 'cheap grace' and 'costly grace,' costly grace being grace that calls a person to follow Christ. grace exists in the dataset; the note attributes the distinction to Bonhoeffer and the work."
+    },
+    {
+      "type": "related_to",
+      "target": "confessing-church",
+      "note": "Written out of Bonhoeffer's work at the Finkenwalde seminary of the Confessing Church and against the background of the German Church Struggle. confessing-church exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "sermon-on-the-mount",
+      "note": "The central chapters are an extended exposition of the Sermon on the Mount (Matthew 5-7). sermon-on-the-mount is a dangling forward reference not yet created in the dataset."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Bonhoeffer, Dietrich. Discipleship. Dietrich Bonhoeffer Works, Volume 4. Edited by Geffrey B. Kelly and John D. Godsey; translated by Barbara Green and Reinhard Krauss from the German critical edition (Nachfolge, 1937). Minneapolis: Fortress Press, 2003 (ISBN 9780800683245). Cited as the primary corpus for the work's structure and content: the opening contrast of 'cheap grace' and 'costly grace,' grace as the call to follow Christ ('when Christ calls a man, he bids him come and die'), and the exposition of the Sermon on the Mount. A twentieth-century proprietary text (German original and English translation both under copyright), NOT read line-by-line for the load-bearing passages; the quoted phrases are the standard renderings as reported across the scholarship and the DBWE edition. Verified to exist and be on-topic.",
+      "url": "https://www.abebooks.com/9780800683245/Discipleship-Dietrich-Bonhoeffer-Works-Volume-0800683242/plp",
+      "license": "Proprietary; cited for reference (Fortress Press, DBWE volume 4, ISBN 9780800683245). Load-bearing passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bethge, Eberhard. Dietrich Bonhoeffer: A Biography. Revised edition, edited by Victoria J. Barnett. Minneapolis: Fortress Press, 2000 (ISBN 9780800628444). The standard biography, written by Bonhoeffer's close friend, student, and literary executor, and editor of the German collected works; treats the composition of Nachfolge in the Finkenwalde period and its place in the German Church Struggle. Cited as the academic-biographical lens. Verified to exist and be on-topic (Fortress Press), not read line-by-line.",
+      "url": "https://www.fortresspress.com/store/product/9780800628444/Dietrich-Bonhoeffer",
+      "license": "Proprietary; cited for reference (Fortress Press, ISBN 9780800628444).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Plant, Stephen. Bonhoeffer. Outstanding Christian Thinkers. London and New York: Continuum, 2004 (ISBN 9780826450890). A contemporary theological study of Bonhoeffer that reads his works as exercises in theological ethics and treats the argument of Discipleship, including the theme of costly grace and the reading of the Sermon on the Mount, within his wider thought. Cited as the contemporary-theological lens. Verified to exist and be on-topic (Continuum, Outstanding Christian Thinkers series), not read line-by-line.",
+      "url": "https://www.abebooks.com/9780826450883/Bonhoeffer-Outstanding-Christian-Thinkers-Plant-0826450881/plp",
+      "license": "Proprietary; cited for reference (Continuum, ISBN 9780826450890 / 9780826450883).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Gospel of Matthew, chapter 5 (the opening of the Sermon on the Mount: the Beatitudes, salt and light, and the antitheses on anger, retaliation, and love of enemies). Berean Standard Bible, via Bible Hub. Read directly for this entry as the open biblical text that Discipleship expounds. Cited only for the biblical text of the Sermon on the Mount that Bonhoeffer interprets, not as evidence for Bonhoeffer's interpretation of it, which rests on the primary and secondary sources above.",
+      "url": "https://biblehub.com/matthew/5.htm",
+      "license": "Berean Standard Bible, released for free use; open and publicly available.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

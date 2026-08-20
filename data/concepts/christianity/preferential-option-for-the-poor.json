@@ -1,0 +1,81 @@
+{
+  "id": "preferential-option-for-the-poor",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Preferential option for the poor",
+    "original": "opcion preferencial por los pobres",
+    "transliteration": "opcion preferencial por los pobres",
+    "aliases": [
+      "option for the poor",
+      "the preferential option for the poor",
+      "love of preference for the poor",
+      "opcion por los pobres"
+    ]
+  },
+  "category": "social ethics",
+  "summary": "The preferential option for the poor is the principle, central to Latin American liberation theology and later affirmed with qualification in official Catholic social teaching, that God and the Church show a special love and priority for the poor and the oppressed, so that the gospel is to be read and the Church's action ordered from their standpoint. The phrase arose in the liberation-theology movement and in the 1968 Medellin and 1979 Puebla conferences of the Latin American bishops, and was received into the wider magisterium, the CDF's 1986 Instruction Libertatis Conscientia stating that those 'oppressed by poverty are the object of a love of preference on the part of the Church'.",
+  "description": "The preferential option for the poor is the principle that God and the Church show a special love, concern, and priority for the poor and the oppressed, and that Christian life, reflection, and action are therefore to be ordered from their standpoint and toward their liberation. It is one of the most widely discussed themes of twentieth-century Christian theology and ethics, and it functions both as a claim about God (that the God of the Bible sides with the poor) and as a practical commitment (that the Church reads the gospel and orders its action from the perspective of the poor).\n\nOn the standard account of the movement's historians, the emphasis and its programmatic articulation belong first to Latin American liberation theology, above all to Gustavo Gutierrez, whose A Theology of Liberation (1971) made the option for the poor central to the theological task. Its Latin American ecclesial roots lie in the conferences of the Latin American bishops (CELAM): the 1968 Medellin conference, which applied the Second Vatican Council to the continent and named the 'institutional violence' of poverty and injustice, and the 1979 Puebla conference, which is commonly cited as giving the phrase its established form in the language of a preferential option for the poor. The movement understands the option, on its own account, not as an exclusion of others but as a priority: reading Scripture from the standpoint of the poor and making their liberation from social, political, and economic injustice a first concern, while holding that salvation, though not reduced to social change, includes it.\n\nThe principle was subsequently received, with qualification, into the wider Roman Catholic magisterium. The Congregation for the Doctrine of the Faith's 1984 Instruction Libertatis Nuntius, while warning against an insufficiently critical use of Marxist concepts in some liberation theology, stated that its warning 'should in no way be interpreted as a disavowal' of those responding to the preferential option for the poor; and its 1986 companion Instruction Libertatis Conscientia affirmed that 'those who are oppressed by poverty are the object of a love of preference on the part of the Church' (no. 68), setting the theme within a fuller account of Christian freedom and liberation. This entry attributes the movement's use of the principle to the movement and Gutierrez, and the magisterial reception to the Congregation and the wider Church, presenting both as attributed positions and adjudicating neither, mirroring the handling in the existing liberation-theology and cdf-libertatis-nuntius entries.",
+  "editorial_notes": "This entry presents the preferential option for the poor both as the liberation-theology movement's own commitment AND as a theme received, with qualification, into official Catholic social teaching, and adjudicates neither (neutrality #1, #2, #6). The movement's use (Gutierrez, the Medellin and Puebla conferences of the Latin American bishops) is stated as the movement's and the Latin American episcopate's own account; the magisterial reception (the CDF's 1984 and 1986 Instructions) is stated as the Congregation's and the wider Church's attributed position. The editor does not rule either the correct one, mirroring the existing liberation-theology school entry (data/schools/christianity/liberation-theology.json) and the cdf-libertatis-nuntius work entry (data/works/christianity/cdf-libertatis-nuntius.json), which handle the same two positions the same way.\n\nCONFIDENCE HONESTY: verified-eligible on the strength of the open primary. The load-bearing magisterial phrase was read verbatim at vatican.va: the 1986 Instruction Libertatis Conscientia, no. 68, states 'Hence also those who are oppressed by poverty are the object of a love of preference on the part of the Church, which since her origin and in spite of the failings of many of her members has not ceased to work for their relief, defence and liberation.' The 1984 Instruction Libertatis Nuntius's qualifier that its warning 'should in no way be interpreted as a disavowal of all those who want to respond generously and with an authentic evangelical spirit to the preferential option for the poor' was likewise read directly at vatican.va. Both open, official vatican.va texts are rated HIGH. The origin of the emphasis in the movement rests on Gutierrez's A Theology of Liberation, a proprietary Orbis translation not read line-by-line, cited as the primary corpus and rated MEDIUM honestly, and on the Cambridge Companion academic survey, rated MEDIUM. No open primary was invented to raise the movement-origin claims.\n\nSourcing triangulates the three lenses per neutrality #8: (b) the primary texts, the two CDF Instructions open at vatican.va (Libertatis Conscientia no. 68 and Libertatis Nuntius), read directly and rated high, together with Gutierrez, A Theology of Liberation (Orbis, 1973; Spanish 1971) as the movement's founding text, medium; (a) an academic survey of the movement and its magisterial reception, Christopher Rowland (ed.), The Cambridge Companion to Liberation Theology (CUP), the same academic source used in the liberation-theology and gustavo-gutierrez entries, medium; (c) a contemporary theologian on-topic, Daniel G. Groody and Gustavo Gutierrez (eds.), The Preferential Option for the Poor beyond Theology (University of Notre Dame Press, 2013), medium, verified to exist and on-topic. No encyclopedias, no Wikipedia, no tertiary sources.\n\nNOTE on Puebla: the 1979 Puebla conference is standardly credited with establishing the phrase's canonical form; that historical claim rests on the secondary scholarship (Rowland Companion) rather than on a primary reading of the Puebla document, and is attributed to the movement's historians. Relation targets: related_to liberation-theology EXISTS (data/schools/christianity/liberation-theology.json), which already carries a mirror 'holds' relation to this concept; related_to gustavo-gutierrez EXISTS (data/figures/christianity/gustavo-gutierrez.json), which already carries a mirror related_to relation to this concept; related_to cdf-libertatis-nuntius EXISTS (data/works/christianity/cdf-libertatis-nuntius.json). No dangling relation targets remain in this entry.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "liberation-theology",
+      "note": "The preferential option for the poor is the central commitment of Latin American liberation theology, reading the gospel from the standpoint of the poor and making their liberation a first concern; attributed to the movement as its own. liberation-theology exists in the dataset and already carries a mirror 'holds' relation to this concept."
+    },
+    {
+      "type": "related_to",
+      "target": "gustavo-gutierrez",
+      "note": "Gustavo Gutierrez (1928-2024) is the theologian most associated with the programmatic articulation of the option for the poor, above all in A Theology of Liberation (1971); attributed to him and the movement as their own. gustavo-gutierrez exists in the dataset and already references this concept."
+    },
+    {
+      "type": "related_to",
+      "target": "cdf-libertatis-nuntius",
+      "note": "The Congregation for the Doctrine of the Faith's 1984 Instruction Libertatis Nuntius affirmed that its warning against an insufficiently critical use of Marxist concepts should 'in no way be interpreted as a disavowal' of those responding to the preferential option for the poor, and its 1986 companion Libertatis Conscientia affirmed a 'love of preference' for the poor (no. 68). Recorded as the magisterium's attributed reception, not adjudicated. cdf-libertatis-nuntius exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 1968,
+    "note": "The emphasis was articulated programmatically in Latin American liberation theology from the late 1960s (Gutierrez's A Theology of Liberation, 1971) and in the Medellin (1968) and Puebla (1979) conferences of the Latin American bishops, and received with qualification into the wider Roman Catholic magisterium in the 1980s (the CDF Instructions of 1984 and 1986). The principle remains living in Catholic social teaching and theology; no end date is asserted. Dates are conventional, marking a development rather than a single origin."
+  },
+  "sources": [
+    {
+      "citation": "Congregation for the Doctrine of the Faith. Instruction on Christian Freedom and Liberation (Libertatis Conscientia), 22 March 1986. Official English translation on vatican.va, read directly for this entry and confirmed verbatim: no. 68, 'Hence also those who are oppressed by poverty are the object of a love of preference on the part of the Church, which since her origin and in spite of the failings of many of her members has not ceased to work for their relief, defence and liberation.' Cited as the primary magisterial text for the reception of the preferential option for the poor into official Catholic social teaching. Primary source, read line-by-line; the load-bearing phrase confirmed on the page.",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_en.html",
+      "license": "Official Vatican text, freely available online (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Congregation for the Doctrine of the Faith. Instruction on certain aspects of the 'Theology of Liberation' (Libertatis Nuntius), 6 August 1984. Official English translation on vatican.va, read directly for the load-bearing phrase quoted here: the warning 'should in no way be interpreted as a disavowal of all those who want to respond generously and with an authentic evangelical spirit to the preferential option for the poor'. Cited as the 1984 magisterial text affirming the option for the poor while cautioning against an insufficiently critical use of Marxist concepts. Primary source, read line-by-line.",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19840806_theology-liberation_en.html",
+      "license": "Official Vatican text, freely available online (vatican.va). Read directly at the passage level and confirmed.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Gutierrez, Gustavo. A Theology of Liberation: History, Politics, and Salvation. Maryknoll, NY: Orbis Books, 1973 (Spanish orig. Teologia de la liberacion: Perspectivas, Lima: CEP, 1971; rev. ed. 1988). The founding programmatic text of Latin American liberation theology, which made the preferential option for the poor central to the theological task; cited as the primary corpus for the movement's articulation of the principle. HONEST RATING: proprietary English translation (Orbis), not read line-by-line for this entry; rated medium, not high.",
+      "url": "https://orbisbooks.com/products/9781626985414",
+      "license": "Proprietary translation; cited for reference (Orbis Books). Load-bearing passages not read line-by-line.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rowland, Christopher, ed. The Cambridge Companion to Liberation Theology. 2nd ed. Cambridge: Cambridge University Press, 2007 (1st ed. 1999). Academic survey of the movement, its Latin American origins (including the Medellin 1968 and Puebla 1979 conferences of the bishops), and its magisterial reception, including Gutierrez's own chapter; cited as the academic-historical lens on the origin and reception of the preferential option for the poor, the same source used in the liberation-theology and gustavo-gutierrez entries. Verified to exist and be on-topic (Cambridge University Press); not read line-by-line here.",
+      "url": "https://www.cambridge.org/core/books/cambridge-companion-to-liberation-theology/F500C9F34574087A4C4EA2658E89762B",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Groody, Daniel G., and Gustavo Gutierrez, eds. The Preferential Option for the Poor beyond Theology. Notre Dame, IN: University of Notre Dame Press, 2013 (ISBN 9780268029869). A contemporary academic volume, co-edited by Gutierrez, exploring the preferential option for the poor across disciplines; cited as the contemporary-theologian lens on the principle. Verified to exist and be on-topic (University of Notre Dame Press); not read line-by-line here.",
+      "url": "https://undpress.nd.edu/9780268029869/the-preferential-option-for-the-poor-beyond-theology/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "martin-niemoeller",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Martin Niemoeller",
+    "original": "Martin Niemöller",
+    "transliteration": "Martin Niemoeller",
+    "aliases": [
+      "Friedrich Gustav Emil Martin Niemöller",
+      "Martin Niemoller",
+      "Pastor Niemöller"
+    ]
+  },
+  "roles": [
+    "pastor",
+    "theologian",
+    "church leader",
+    "naval officer",
+    "pacifist"
+  ],
+  "summary": "Martin Niemoeller (1892-1984 CE) was a German Lutheran pastor and a leading figure of the Confessing Church, the movement of Protestant clergy that opposed the pro-Nazi 'German Christian' movement and the Nazi coordination of the Protestant churches. A decorated U-boat commander in the First World War who welcomed parts of the early Nazi program before turning against it, he co-founded the Pastors' Emergency League (Pfarrernotbund) in 1933, was arrested in 1937 and held in the Sachsenhausen and Dachau camps until 1945, and after the war helped draft the Stuttgart Declaration of Guilt, became a pacifist, and served as a president of the World Council of Churches. The widely circulated confession 'First they came ...' is attributed to him, in wordings that vary across versions.",
+  "description": "Martin Niemoeller was born in 1892 in Lippstadt, Westphalia, into a Lutheran pastor's family. He served in the Imperial German Navy in the First World War, commanding a U-boat, and was decorated; after the war he studied theology and was ordained, becoming pastor of the parish of Berlin-Dahlem. Like many German Protestant nationalists of his milieu he was initially sympathetic to parts of the National Socialist program and its promise of national renewal, a stance he later publicly repudiated. His decisive break came over church policy: the attempt by the state-aligned 'German Christian' (Deutsche Christen) movement to reorganize the Protestant churches along Nazi lines, including the application of the 'Aryan paragraph' to exclude clergy of Jewish descent, drove him in 1933 to co-found the Pastors' Emergency League (Pfarrernotbund), which grew into the Confessing Church (Bekennende Kirche).\n\nWithin the Church Struggle (Kirchenkampf) Niemoeller was one of the most prominent voices of the Confessing Church, which at the Synod of Barmen in 1934 issued the Barmen Declaration rejecting the subordination of the church's proclamation to the state and the Fuehrer. His opposition was directed at the Nazification of the church and at the German Christians; scholarship notes that his resistance was framed chiefly in terms of the church's freedom and confession rather than as a broad political opposition, and that his own record in these years, including earlier nationalist and, in places, antisemitic attitudes he later came to renounce, is documented and not smoothed over. Repeatedly harassed and briefly detained, he was arrested in 1937; after a court imposed a relatively light sentence, Hitler ordered him held as a 'personal prisoner', and he was interned in the Sachsenhausen and then the Dachau concentration camps from 1938 until his liberation in 1945.\n\nAfter the war Niemoeller was among the church leaders who in October 1945 issued the Stuttgart Declaration of Guilt (Stuttgarter Schuldbekenntnis), in which the Evangelical Church in Germany confessed its share of guilt for not having resisted the Nazi regime more forcefully; Niemoeller was one of its drafters and a leading advocate of its confession of guilt. In his later decades he moved toward pacifism, opposed nuclear armament and the rearmament of West Germany, engaged in reconciliation across Cold War lines, and served as a president of the World Council of Churches from 1961. He is also widely associated with the confession that begins 'First they came for the ...' and ends 'and there was no one left to speak for me', a text that grew out of his postwar lectures, most often traced to a 1946 address in Frankfurt, and that survives in many differing wordings with the list of targeted groups varying from telling to telling; it is presented here as attributed to him with that caveat, since he spoke extemporaneously and did not fix a single authorized text. He died in 1984.",
+  "editorial_notes": "Martin Niemoeller is authored here to close the dangling relation target referenced by the confessing-church entry, which names him as a leading figure of the movement. He is documented on the tradition's own terms as a pastor and church leader (neutrality #4, #6), and his role in the Church Struggle, his imprisonment, and his postwar activity are stated as historical fact.\n\nNEUTRALITY / Nazi-era record: the anti-Nazi character of the Confessing Church and Niemoeller's leading part in it is uncontroversial historical record, reported and not editorialized. His record is presented factually and without softening: that he initially welcomed parts of the early Nazi program, that his opposition was framed principally around the church's freedom and confession (the German Christians and the Aryan paragraph in the church) rather than as a broad political resistance, and that his earlier nationalist and antisemitic attitudes are documented and were later repudiated by him, are all stated as attributed historical fact per the scholarship, neither excused nor condemned by the editor (neutrality #1). The German Christian movement is named as the party he opposed; per the figure schema (which has no 'opposed' relation type) this opposition is carried on a related_to edge with the opposition stated in the note, not adjudicated.\n\n'FIRST THEY CAME' CAVEAT: the famous confession is presented throughout as ATTRIBUTED to Niemoeller with an explicit caveat that its wording varies across versions and that no single authorized text exists. Harold Marcuse's study of the quotation's origin and reception (traced to postwar lectures, most often a 1946 Frankfurt address, delivered extemporaneously with the list of victim groups varying by occasion) is the load-bearing source for that caveat; the entry does not present any one wording as the definitive original.\n\nSOURCING follows the three-lens Christian model (neutrality #8): (a) academic biography, Matthew Hockenos, Then They Came for Me: Martin Niemoeller, the Pastor Who Defied the Nazis (Basic Books, 2018), the standard modern scholarly life, rated medium (verified to exist and be on-topic via publisher and reviews in the Journal of Modern History and Holocaust and Genocide Studies, not read line by line); (b) the primary-corpus lens is represented by the Confessing Church's founding confession, the Barmen Declaration (1934), and by the Stuttgart Declaration of Guilt (1945) that Niemoeller helped draft, both of which he stood behind, cited as the movement's own documents; (c) the contested-quotation scholarship, Harold Marcuse (2014), a specialist historical study of the 'First they came' text's origin and transmission, rated medium and used specifically to support the attribution caveat. No encyclopedias, no Wikipedia, no tertiary or popular sources; USHMM and similar reference summaries were deliberately not cited.\n\nCONFIDENCE HONESTY: this entry tops out at an honest 'reviewed', not 'verified'. The biography rests on secondary scholarship not read line by line, and the 'First they came' wording is genuinely contested in the scholarship, so it is flagged and rated medium rather than presented as settled. Birth and death years (1892-1984 CE) are as standardly reported. Relation targets confessing-church, barmen-declaration, and deutsche-christen all exist in the dataset; no dangling forward references in this entry.",
+  "lifespan": {
+    "birth": 1892,
+    "death": 1984,
+    "note": "1892-1984 CE; born at Lippstadt in Westphalia, First World War U-boat commander, pastor at Berlin-Dahlem, co-founder of the Pastors' Emergency League (1933) and leading figure of the Confessing Church, interned in the Sachsenhausen and Dachau camps 1938-1945, postwar co-drafter of the Stuttgart Declaration of Guilt, pacifist, and a president of the World Council of Churches from 1961."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "confessing-church",
+      "note": "Niemoeller co-founded the Pastors' Emergency League (1933) that grew into the Confessing Church and was one of its most prominent leaders in the Church Struggle. Mirror of the confessing-church entry, which names him as a leading figure; confessing-church exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "barmen-declaration",
+      "note": "Niemoeller was a leading figure of the Confessing Church whose founding synod at Barmen (1934) issued the Barmen Declaration rejecting the subordination of the church's proclamation to the state and the Fuehrer; he stood behind its confession. Recorded as historical fact; barmen-declaration exists in the dataset as a work."
+    },
+    {
+      "type": "related_to",
+      "target": "deutsche-christen",
+      "note": "OPPOSITION: Niemoeller and the Pastors' Emergency League he co-founded were formed in opposition to the pro-Nazi 'German Christian' (Deutsche Christen) movement and its attempt to reorganize the Protestant churches along Nazi lines, including the Aryan paragraph. The figure schema has no 'opposed' relation type, so the opposition is stated here in the note and carried on a related_to edge; reported as historical fact, not adjudicated. deutsche-christen exists in the dataset."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Hockenos, Matthew D. Then They Came for Me: Martin Niemöller, the Pastor Who Defied the Nazis. New York: Basic Books, 2018. The standard modern academic biography of Niemoeller, covering his First World War naval service, his early sympathy for and later break with National Socialism, his leadership of the Pastors' Emergency League and the Confessing Church, his imprisonment in Sachsenhausen and Dachau, and his postwar role in the Stuttgart Declaration of Guilt and turn to pacifism; it also treats honestly his earlier nationalist and antisemitic attitudes and his later repudiation of them. Academic biography lens. Reviewed in the Journal of Modern History and Holocaust and Genocide Studies; verified to exist and be on-topic, relevant passages not read line by line.",
+      "url": "https://www.hachettebookgroup.com/titles/matthew-d-hockenos/then-they-came-for-me/9780465097876/?lens=basic-books",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Barmen Declaration (Theologische Erklärung von Barmen), 1934, the founding confession of the Confessing Church, issued at the Synod of Barmen. Cited as the movement's own primary document, whose rejection of the subordination of the church's proclamation to the state and the Fuehrer expresses the confessional stand that Niemoeller, as a leading figure of the movement, stood behind. Primary-corpus lens; documented in the dataset as the barmen-declaration work entry.",
+      "url": "https://www.ekd.de/en/The-Barmen-Declaration-303.htm",
+      "license": "Confessional text; German original public domain, English translations quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Stuttgart Declaration of Guilt (Stuttgarter Schuldbekenntnis), 19 October 1945, issued by the Council of the Evangelical Church in Germany, in whose drafting Niemoeller took a leading part and whose confession of the church's share of guilt for not resisting the Nazi regime more forcefully he advocated. Cited as a postwar primary document standing behind the biographical account. Primary-corpus lens; verified to exist and be on-topic, not read line by line in the original.",
+      "url": "https://marcuse.faculty.history.ucsb.edu/projects/niem/StuttgartDeclaration.htm",
+      "license": "Confessional/ecclesial text; German original public domain, English translations quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Marcuse, Harold. 'The Origin and Reception of Martin Niemöller's Quotation \"First they came for the Communists ...\".' Study of the origin, wording, and transmission of the confession attributed to Niemoeller, tracing it to his postwar lectures (most often a 1946 address in Frankfurt), delivered extemporaneously with the list of targeted groups (Communists, the incurably sick, Jews, people in occupied countries, and in other tellings socialists, trade unionists, and others) varying from occasion to occasion, so that many differing versions circulate and no single authorized text exists. Cited specifically to support the ATTRIBUTED-with-caveat presentation of the 'First they came' confession, not to fix a definitive wording. Academic (author-hosted open copy, University of California, Santa Barbara).",
+      "url": "https://marcuse.faculty.history.ucsb.edu/projects/niem/articles/Marcuse2014NiemoellerQuote147gWeb.pdf",
+      "license": "Author-hosted scholarly copy; cited for reference, quoted briefly for identification.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
