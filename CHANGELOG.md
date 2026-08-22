@@ -6,6 +6,35 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.25.0] - 2026-07-26
+
+Closing the Judaism dangling references from the coverage health-check: twelve entities spanning the modern
+transformation of Judaism (the Haskalah, Wissenschaft des Judentums, the American denominational seminaries)
+and the classical/liturgical substrate (the Tur, the pilgrimage festivals, Torah study, Kabbalat Shabbat, and
+the beginnings of Jewish philosophy and Karaism). Three enter `verified` on open primary reads (Sefaria and a
+public-domain Zunz text); nine honestly `reviewed` (institutional histories on secondary scholarship, works in
+proprietary translation, and a figure known largely through later and partly-hostile sources).
+
+### Added
+- **Judaism, modernity**: the figure `abraham-geiger`; the concepts `maskilim`, `jewish-theological-seminary`,
+  and `yeshiva-university`; the school `wissenschaft-des-judentums`; and the work `ha-meassef`.
+- **Judaism, classical/liturgical**: the work `arba-ah-turim` (the Tur); the concepts `shalosh-regalim`,
+  `torah-study`, and `kabbalat-shabbat`; the work `emunot-ve-deot`; and the figure `anan-ben-david`.
+
+### Changed
+- Verified (3): `arba-ah-turim` (the Tur's opening read verbatim on Sefaria), `shalosh-regalim` (Leviticus 23,
+  Deuteronomy 16:16, and Exodus 23:14-17 read verbatim), and `wissenschaft-des-judentums` (Zunz's 1818
+  programmatic essay read verbatim in the public-domain Gesammelte Schriften). The verified tier is now 142.
+- Reviewed (9), honestly: `torah-study` and `kabbalat-shabbat` (open Sefaria primaries carry the load, historical
+  claims rest on scholarship); `abraham-geiger`, `maskilim`, and `ha-meassef` (Haskalah/Wissenschaft history on
+  secondary scholarship); `jewish-theological-seminary` and `yeshiva-university` (institutional histories, the
+  denominations described on their own terms, not adjudicated); `emunot-ve-deot` (Saadia's Introduction read
+  openly, the body in proprietary translation); and `anan-ben-david` (Karaism's reputed origin, known through
+  later and partly-hostile sources, attributed and not adjudicated).
+- Removed three constructed WorldCat/OCLC URLs that resolved to unrelated records (bibliographic data retained),
+  a dead publisher URL (Heschel, Chicago), and corrected a stale Brandeis URL; cleaned residual "dangling"
+  build-state prose from the `reform-judaism` and `haskalah` editorial notes now that the targets exist.
+
 ## [0.24.0] - 2026-07-26
 
 Closing the Christianity dangling references from the coverage health-check, and opening Islam's legal-theory

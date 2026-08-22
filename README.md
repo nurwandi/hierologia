@@ -26,7 +26,7 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
 > **Status.** The three Abrahamic traditions are covered, Islamic theology (*kalam*)
-> with 124 entities, Christian theology with 111, and Judaism with 100, all
+> with 124 entities, Christian theology with 111, and Judaism with 112, all
 > peer-`reviewed`, linked by cross-tradition comparisons, alongside a small
 > `philosophy` namespace for the shared Greek substrate each tradition draws on.
 > Coverage is deliberately partial and growing; the project says what it does not yet
