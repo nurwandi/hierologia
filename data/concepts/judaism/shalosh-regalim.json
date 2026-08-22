@@ -1,0 +1,91 @@
+{
+  "id": "shalosh-regalim",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shalosh Regalim",
+    "original": "שָׁלוֹשׁ רְגָלִים",
+    "transliteration": "Shalosh Regalim",
+    "aliases": [
+      "The Three Pilgrimage Festivals",
+      "The Three Festivals",
+      "Pilgrimage Festivals",
+      "Shalosh regalim (Pesach, Shavuot, Sukkot)"
+    ]
+  },
+  "category": "festivals (moadim)",
+  "summary": "The shalosh regalim (the three pilgrimage festivals) are Pesach (Passover), Shavuot (the Feast of Weeks), and Sukkot (the Feast of Booths), the three festivals on which the Torah commands that all males appear before the Lord three times a year, historically at the Temple in Jerusalem. Each carries both an agricultural meaning tied to the harvest year and a historical-commemorative meaning within Israel's founding story.",
+  "description": "The shalosh regalim (literally the three foot-festivals, from regel, a festival made on foot as a pilgrimage) are the three pilgrimage festivals of the Jewish year: Pesach (Passover), Shavuot (the Feast of Weeks), and Sukkot (the Feast of Booths or Tabernacles). They are grouped together in the Torah as the three occasions on which Israel is commanded to appear before God. Exodus 23:14-17 gives the command in agricultural terms, 'Three times a year you shall hold a festival for Me,' naming the Feast of Unleavened Bread, the Feast of the Harvest, and the Feast of Ingathering, and concluding 'Three times a year all your males shall appear before the Sovereign, GOD.' Deuteronomy 16:16, read here line-by-line, names the festivals as they are known in the tradition: 'Three times a year, on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths, all your males shall appear before the ETERNAL your God in the place that [God] will choose,' adding that none shall appear empty-handed. The comprehensive festival calendar of Leviticus 23, also read line-by-line, sets out the three festivals in their fixed times among 'the fixed times of God ... that you shall proclaim as sacred occasions', from the Feast of Unleavened Bread (Leviticus 23:4-8) through the offering of the first fruits and the counting to the Feast of Weeks, to the Feast of Booths, 'On the fifteenth day of this seventh month there shall be the Feast of Booths to God, [to last] seven days' (Leviticus 23:33-36). This entry states the Torah basis and the character of the festivals as a matter of the tradition's own texts.\n\nEach of the three festivals carries a double significance in the tradition, agricultural and historical-commemorative. Pesach falls in the spring, at the beginning of the barley harvest, and commemorates the Exodus from Egypt, the deliverance of Israel from slavery. Shavuot, the Feast of Weeks, falls seven weeks later at the wheat harvest and the bringing of the first fruits, and in the tradition is associated with the giving of the Torah at Sinai. Sukkot, the Feast of Booths, falls in the autumn at the ingathering of the year's produce, and commemorates the dwelling of Israel in booths during the wandering in the wilderness, marked by dwelling in the sukkah (booth) for seven days. In this way the three festivals map both the agricultural year, from the spring harvest through the summer to the autumn ingathering, and the founding narrative, from the Exodus through the giving of the Torah to the wilderness wandering.\n\nThe three festivals are called the pilgrimage festivals because the command to appear before God three times a year was fulfilled, in the Temple period, by ascending to Jerusalem to appear at the Temple and to bring the festival offerings, the practice of aliyah la-regel. With the destruction of the Second Temple the pilgrimage ceased as a Temple rite, but the three festivals retained their character as the shalosh regalim, and their observance continued: the reading of the Torah portions and the festival liturgy, the special offerings recalled in prayer, and the practices particular to each festival, among them the eating of matzah and the removal of leaven at Pesach, the reading associated with Shavuot, and the dwelling in the sukkah and the taking of the four species at Sukkot. This entry describes the festivals, their Torah basis, their agricultural and historical meanings, and their observance as features of the tradition's own texts and practice.",
+  "editorial_notes": "This entry describes the shalosh regalim on Judaism's own terms (neutrality #1, #4, #6). The Torah command to appear before God three times a year, the naming of the three festivals, and the festival calendar rest on the primary texts read line-by-line on Sefaria (Exodus 23:14-17, Deuteronomy 16:16, and Leviticus 23, the festival calendar including 23:4-8 on Unleavened Bread and 23:33-36 on Booths). The characterizations of each festival's agricultural and historical-commemorative meaning and of the details of observance rest on secondary scholarship and the tradition's own liturgical practice, and are kept honest at medium rather than asserted from a read primary. Sources triangulate three lenses per neutrality #8-#9: (a) an academic study of the biblical festival calendar; (b) the primary texts themselves, read openly and line-by-line on Sefaria (Leviticus 23 and Deuteronomy 16:16, the load-bearing festival calendar and the thrice-yearly command); and (c) a contemporary Jewish scholar on-topic (Jeffrey L. Rubenstein, The History of Sukkot in the Second Temple and Rabbinic Periods, Brown Judaic Studies 302, Scholars Press 1995, a monograph on one of the three pilgrimage festivals). No encyclopedias, Wikipedia, or tertiary sources. CONFIDENCE / HONESTY: the Sefaria primary texts read line-by-line are rated HIGH and carry the load-bearing scriptural material and were confirmed VERBATIM: Deuteronomy 16:16 ('שלוש פעמים בשנה יראה כל זכורך את פני יהוה אלהיך', 'Three times a year ... all your males shall appear before the ETERNAL your God', naming the three festivals), and Leviticus 23 (the fixed times of God, the Feast of Unleavened Bread in 23:4-8, and 'On the fifteenth day of this seventh month there shall be the Feast of Booths to God, [to last] seven days' in 23:33-36). The Sefaria English read is the Revised JPS (2023) translation (CC-BY-NC); the underlying Hebrew is public domain. Milgrom's academic study of the calendar and Rubenstein are MEDIUM, verified to exist and be on-topic, not read line-by-line, and the festival characterizations rest on that secondary scholarship at medium. RELATION TARGETS: the shalosh regalim are referenced by aliyah-la-regel (the pilgrimage dimension of these festivals); pesach, shavuot, and sukkot are the three constituent festivals. The relations describe those relationships; the build state of any target is not asserted here.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "aliyah-la-regel",
+      "note": "Aliyah la-regel, the ascent to the Temple in Jerusalem three times a year, is the pilgrimage dimension of the shalosh regalim; the Torah command that all males appear before God three times a year is what makes these three festivals pilgrimage festivals. The two entries describe the same festivals from complementary angles: this entry the festivals themselves, aliyah-la-regel the pilgrimage practice."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The three festivals and the command to appear before God three times a year rest on the Torah: Exodus 23:14-17, Deuteronomy 16:16, and the festival calendar of Leviticus 23, read line-by-line on open Sefaria."
+    },
+    {
+      "type": "part_of",
+      "target": "pesach",
+      "note": "Pesach (Passover), the spring festival at the barley harvest commemorating the Exodus from Egypt, is the first of the three pilgrimage festivals, named in the Torah as the Feast of Unleavened Bread (Exodus 23:15; Deuteronomy 16:16; Leviticus 23:4-8)."
+    },
+    {
+      "type": "part_of",
+      "target": "shavuot",
+      "note": "Shavuot (the Feast of Weeks), falling seven weeks after Pesach at the wheat harvest and the first fruits and associated in the tradition with the giving of the Torah, is the second of the three pilgrimage festivals (Deuteronomy 16:16; Leviticus 23)."
+    },
+    {
+      "type": "part_of",
+      "target": "sukkot",
+      "note": "Sukkot (the Feast of Booths), the autumn festival at the ingathering commemorating the dwelling in booths in the wilderness, is the third of the three pilgrimage festivals, named in the Torah as the Feast of Ingathering / the Feast of Booths (Exodus 23:16; Deuteronomy 16:16; Leviticus 23:33-36)."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The three festivals rest on Torah commands placed by the tradition in the Mosaic period; the -1200 marker is a rough conventional anchor for that era, not a precise dating claim. Unlike the Temple pilgrimage (aliyah la-regel), which ceased as a rite after 70 CE, the shalosh regalim continue to be observed as festivals, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Leviticus 23:1-8 and 23:33-36, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: the festival calendar's framing, 'These are My fixed times, the fixed times of God, that you shall proclaim as sacred occasions', the Feast of Unleavened Bread (23:4-8), and the Feast of Booths, 'On the fifteenth day of this seventh month there shall be the Feast of Booths to God, [to last] seven days' (23:33-36). A load-bearing Torah source for the festival calendar and the character of the three festivals as fixed sacred occasions.",
+      "url": "https://www.sefaria.org/Leviticus.23",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 16:16, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Three times a year, on the Feast of Unleavened Bread, on the Feast of Weeks, and on the Feast of Booths, all your males shall appear before the ETERNAL your God in the place that [God] will choose', adding that none shall appear empty-handed. The load-bearing Torah source naming the three pilgrimage festivals as they are known in the tradition and stating the thrice-yearly command.",
+      "url": "https://www.sefaria.org/Deuteronomy.16.16",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Exodus 23:14-17, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Three times a year you shall hold a festival for Me,' naming the Feast of Unleavened Bread, the Feast of the Harvest, and the Feast of Ingathering, and concluding 'Three times a year all your males shall appear before the Sovereign, GOD.' The load-bearing Torah source for the agricultural naming of the three festivals and the thrice-yearly appearance.",
+      "url": "https://www.sefaria.org/Exodus.23.14-17",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Milgrom, Jacob. Leviticus 23-27. Anchor Bible 3B. New York: Doubleday, 2001 (reissued in the Anchor Yale Bible, New Haven: Yale University Press, 2007). The standard critical commentary on the festival calendar of Leviticus 23, treating the fixed times (moadim), the Feast of Unleavened Bread, the counting to Weeks, and the Feast of Booths, and the agricultural and calendrical structure of the three festivals; cited as the academic lens on the biblical festival calendar underlying the shalosh regalim. Verified to exist and be on-topic (Anchor Bible / Anchor Yale Bible publication record), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300140880/leviticus-23-27/",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rubenstein, Jeffrey L. The History of Sukkot in the Second Temple and Rabbinic Periods. Brown Judaic Studies 302. Atlanta: Scholars Press, 1995 (xiv, 361 pp.). A contemporary Jewish scholar's monograph tracing one of the three pilgrimage festivals (Sukkot) across the Second Temple and rabbinic periods, including its agricultural and commemorative meanings, its celebration at the Temple, and its observance (the sukkah and the four species); cited as the contemporary-Jewish-scholar lens on the character and observance of the festivals. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed), not read line-by-line.",
+      "url": "https://judaicstudies.brown.edu/monograph/history-sukkot-second-temple-and-rabbinic-periods",
+      "license": "Proprietary; cited for reference (publisher/series page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "maskilim",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Maskilim",
+    "original": "מַשְׂכִּילִים",
+    "transliteration": "maskilim (singular: maskil)",
+    "aliases": [
+      "the enlighteners",
+      "the adherents of the Haskalah",
+      "the Me'assefim (the circle of the journal Ha-Me'assef)"
+    ]
+  },
+  "category": "movement / social and intellectual grouping (modern Judaism)",
+  "summary": "The maskilim (singular maskil, an 'enlightened one') were the adherents and proponents of the Haskalah, the Jewish Enlightenment that arose in the German lands in the later eighteenth century and spread through Central and Eastern Europe into the nineteenth. In their program, as they understood it, they promoted secular education and the sciences, integration into the surrounding society and its vernacular, the revival of Hebrew as a literary language, and engagement with modern European culture and thought, aims that brought them into recurring tension with traditional rabbinic authority.",
+  "description": "The maskilim (singular maskil, from the Hebrew root s-k-l, to be prudent or enlightened, hence 'the enlightened ones') were the men, and the intellectual and social grouping, who carried the Haskalah, the Jewish Enlightenment. The movement took shape in Berlin and the German lands in the later eighteenth century, associated above all with Moses Mendelssohn and the circle around him, and spread over the following decades through Central Europe and then into the Habsburg lands and the Russian Empire. In the scholarship (Shmuel Feiner, The Jewish Enlightenment; David Sorkin) the maskilim are read as the Jewish participants in the broader European Enlightenment, understanding their own project as a renewal and broadening of Jewish life.\n\nThe program the maskilim advanced, presented here as their own self-understanding, brought together several aims. They promoted secular education and the sciences, urging the reform of Jewish schooling to add secular subjects and the language of the state to the traditional curriculum of Talmud and its commentaries. They pressed for the integration of Jews into the surrounding society and for command of its vernacular languages, while at the same time working to revive and cultivate Hebrew as a literary language, purified in their aspiration on a biblical model, and to open Jewish readers to modern European culture, philosophy, and letters. In their own account these aims went together: a Jew could be at home in European learning and civic life and remain a Jew, and the renewal of Hebrew and of Jewish education was part of that home rather than a departure from it.\n\nThe maskilim built their own networks of print and sociability through which this program was carried. Their foremost literary organ was the Hebrew journal Ha-Me'assef ('The Gatherer'), founded in Konigsberg in 1783 by younger followers of Mendelssohn and published, with interruptions, into the early nineteenth century; its circle of writers were so identified with it that they were called the 'generation of the Me'assefim'. Around such journals, reading societies, and reforming schools the maskilim formed a self-conscious movement with its own vocabulary and sense of mission, spread across the cities of Central and Eastern Europe by correspondence and travel.\n\nThe maskilim's relation to the established religious tradition was contested, and this entry records the tension as a historical dispute rather than adjudicating it. In their own self-understanding the maskilim were renewing and broadening Jewish life, not abandoning it, and many remained observant; from the side of traditional rabbinic authority, their opening to secular culture, their reform of education, and their critical spirit were viewed by many as a threat to the received forms of Torah study, observance, and communal authority, and the maskilim were at points in open conflict with communal leaders. Both positions are attributed here to the parties that held them, and the editor does not rule between them. In the longer arc reconstructed by the scholarship the maskilim are widely treated as agents of Jewish modernization whose impulses fed, along divergent paths, into the nineteenth-century Reform movement, the Wissenschaft des Judentums (the scholarly study of Judaism), and, later and by a different route, forms of Jewish nationalism and the revival of Hebrew. This entry describes the maskilim through the scholarship on them and on the terms of their own program, with their aims and their opponents' concerns each attributed to the parties that held them.",
+  "editorial_notes": "This entry describes the maskilim, the adherents of the Haskalah, through the modern scholarship and on the terms of their own program (neutrality #1, #4, #6). It is kept consistent with the haskalah school entry, which treats the movement itself; this concept entry treats its adherents and their program, and reuses the same load-bearing scholarship. The maskilim's aims (secular education, integration and the vernacular, the revival of Hebrew, engagement with modern European culture) are stated as THEIR ATTRIBUTED self-understanding, described and not endorsed by the editor. The tension with traditional rabbinic authority is handled as a historical dispute per neutrality #1-#2: the maskilim's view of their project (a legitimate renewal and broadening of Jewish life, many of them remaining observant) is attributed to them, and the concern of traditional authorities (that the opening to secular culture and educational reform threatened received Torah study, observance, and communal authority) is attributed to them, without the editor adjudicating or ranking, mirroring the reform-judaism and haskalah entries. The claim that the maskilim were agents of modernization feeding into the Reform movement, Wissenschaft des Judentums, and later Jewish nationalism and the Hebrew revival is given as the reconstruction of the scholarship (Feiner, Sorkin), noting divergent and non-identical paths. Sources triangulate three lenses per neutrality #8-9: (a) academic historians of the Haskalah (Feiner, The Jewish Enlightenment; Sorkin, The Berlin Haskalah and German Religious Thought); (b) a primary maskilic source, the Hebrew journal Ha-Me'assef, the movement's own literary organ, available in the original as a digitized run on the Internet Archive; and (c) a contemporary Jewish scholar (Feiner, Professor of Jewish History at Bar-Ilan, and Sorkin, both writing as Jewish historians of the movement). No encyclopedias (the Encyclopaedia Judaica, the Jewish Encyclopedia, the YIVO Encyclopedia, the Jewish Virtual Library, My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: this entry is REVIEWED-eligible at most, not verified-eligible: its load-bearing account rests on the secondary scholarship of Feiner and Sorkin, rated medium (verified to exist and be on-topic via publisher, review, and library records, not read line-by-line); Ha-Me'assef is rated medium (digitized original run confirmed on the Internet Archive; cited as the maskilic organ, not read at the article level for a specific load-bearing claim here). Relations: haskalah names the movement of which the maskilim were the adherents (the haskalah entry treats the movement itself, linking reciprocally); ha-meassef was their literary organ (cited here as a primary source); wissenschaft-des-judentums is treated in the scholarship as one of the paths the maskilim's impulses fed into.",
+  "historical_period": {
+    "start": 1770,
+    "end": 1881,
+    "note": "The maskilim emerged with the Haskalah in the German lands, and above all in Berlin, in the later eighteenth century (a conventional marker around 1770-1783, the latter the founding year of Ha-Me'assef), around Moses Mendelssohn and his circle, and spread through Central and Eastern Europe across the nineteenth century. The end date is placed conventionally around the 1881 pogroms in the Russian Empire, after which the eastern maskilim gave way to new movements (Jewish nationalism, socialism). The dates are approximate scholarly markers, not precise boundaries; scholars draw them differently."
+  },
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "haskalah",
+      "note": "The maskilim (singular maskil, 'enlightened one') were the adherents and proponents of the Haskalah, the Jewish Enlightenment; this concept treats the adherents and their program, the haskalah entry the movement itself, the two linking reciprocally."
+    },
+    {
+      "type": "related_to",
+      "target": "ha-meassef",
+      "note": "Ha-Me'assef ('The Gatherer'), founded in Konigsberg in 1783 by younger followers of Mendelssohn, was the Hebrew literary organ of the maskilim, whose circle of writers were called the 'generation of the Me'assefim'; cited here as a primary maskilic source."
+    },
+    {
+      "type": "related_to",
+      "target": "wissenschaft-des-judentums",
+      "note": "The critical and scholarly spirit of the maskilim is treated in the scholarship as one of the paths that fed, along a divergent route, into the Wissenschaft des Judentums, the nineteenth-century scholarly study of Judaism."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Feiner, Shmuel. The Jewish Enlightenment. Translated by Chaya Naor. Jewish Culture and Contexts. Philadelphia: University of Pennsylvania Press, 2004. A history of the eighteenth-century Haskalah reading it as the Jewish version of the pan-European Enlightenment and as a foundational chapter in the modern transformation of Jewish life; cited as the load-bearing academic-historical and contemporary-Jewish-scholarly lens for the maskilim, their program (secular education, integration and the vernacular, the revival of Hebrew, engagement with European culture), their networks, and their relation to traditional authority. Winner of the Koret Jewish Book Award; the author is Professor of Jewish History at Bar-Ilan University. Verified to exist and be on-topic (University of Pennsylvania Press record; American Historical Review review), not read line-by-line.",
+      "url": "https://www.pennpress.org/9780812221725/the-jewish-enlightenment/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sorkin, David. The Berlin Haskalah and German Religious Thought: Orphans of Knowledge. London and Portland, OR: Vallentine Mitchell / The Parkes-Wiener Series on Jewish Studies, 2000 (originating in the Sherman Lectures, University of Manchester). A study situating the Berlin Haskalah and its maskilim within the wider Central European religious and intellectual changes of the age, as a Jewish attempt to rearticulate belief in the light of the new science and philosophy; cited as an academic-historical lens on the maskilim's program and setting. Verified to exist and be on-topic (University of Wisconsin faculty listing; Project MUSE review), not read line-by-line.",
+      "url": "https://history.wisc.edu/publications/the-berlin-haskalah-and-german-religious-thought/",
+      "license": "Proprietary; cited for reference (author / scholarly-review records).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ha-Me'assef (המאסף, 'The Gatherer'), the Hebrew journal of the Haskalah, founded in Konigsberg in 1783 by younger followers of Moses Mendelssohn and published, with interruptions, into the early nineteenth century. Cited as a primary maskilic source and the literary organ of the maskilim, whose circle of writers were called the 'generation of the Me'assefim'. A digitized run of the original Hebrew journal is available on the Internet Archive. Confirmed to exist as a digitized original; cited as the movement's own organ, not read at the article level for a specific claim here.",
+      "url": "https://archive.org/details/haMeasef",
+      "license": "Hebrew original in the public domain (published from 1783); digitized on the Internet Archive.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "yeshiva-university",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Yeshiva University",
+    "original": "ישיבה אוניברסיטה",
+    "transliteration": "Yeshiva Universitah",
+    "aliases": [
+      "YU",
+      "Yeshiva",
+      "Rabbi Isaac Elchanan Theological Seminary (RIETS, its rabbinical school)",
+      "RIETS"
+    ]
+  },
+  "category": "institution",
+  "summary": "Yeshiva University (YU), in New York, is the flagship institution of Modern Orthodox Judaism in America. On its own self-understanding it embodies the ideal of Torah u-Madda, the synthesis of Torah study with secular and general knowledge, holding that strict observance of Jewish law and engagement with the wider world of learning belong together. Its rabbinical school, the Rabbi Isaac Elchanan Theological Seminary (RIETS), and the long teaching of Joseph B. Soloveitchik there shaped American Modern Orthodoxy across the twentieth century. The institution traces its origins to the yeshiva Etz Chaim (1886) and RIETS, which combined and grew into a university (chartered 1945).",
+  "description": "Yeshiva University (YU), in New York City, is the principal institution of Modern Orthodox Judaism in the United States, joining a rabbinical seminary and yeshiva with a full undergraduate college and graduate and professional schools. Its origins lie in the yeshiva Etz Chaim, founded on the Lower East Side in 1886, and the Rabbi Isaac Elchanan Theological Seminary (RIETS), founded in the 1890s; the two combined under Bernard Revel, and Yeshiva College was established in 1928, the institution receiving university status by charter in 1945 under Samuel Belkin. This entry describes the institution on the movement's own terms and reports its self-understanding as the movement's account rather than adjudicating it.\n\nOn its own self-understanding, Yeshiva University is defined by the ideal of Torah u-Madda (Torah and knowledge, or Torah and science), the synthesis of Torah study with secular and general knowledge, which is the institution's motto and self-description. In the German Modern Orthodox tradition of Samson Raphael Hirsch's Torah im Derekh Eretz (Torah together with the way of the world), the ideal holds that strict observance of the commandments is fully compatible with, and enriched by, engagement with the sciences, the humanities, and civic life. Samuel Belkin, the Talmudist and scholar of Hellenistic Judaism who led YU from 1943, presented the university not as a compromise between sacred and secular study but as their integration, holding that Torah is the source from which the other studies take their place. Norman Lamm, YU's president from 1976, gave the ideal its fullest theoretical statement in Torah Umadda (1990), articulating a Maimonidean Judaism fully committed to the observance of halakha while open to worldly knowledge, and arguing that the two together accomplish what neither could achieve alone.\n\nThe institution's rabbinical school, RIETS, is the training ground of much of the American Modern Orthodox rabbinate, and the long presence there of Joseph B. Soloveitchik (1903-1993), 'the Rav', as rosh yeshiva shaped American Modern Orthodoxy across the twentieth century: he ordained generations of rabbis and, in works such as Halakhic Man and The Lonely Man of Faith, articulated a religious personality living wholly within the halakhic system, often joined to religious Zionism. Jeffrey Gurock's history of the institution traces its sustained effort to synthesize traditional Judaism with the values of Western higher education, and the tensions and achievements of that project. Where Orthodoxy differs from Conservative and Reform Judaism over the authority and mutability of halakha, and where Modern Orthodoxy differs from the Haredi currents over engagement with secular culture, those differences are stated on each position's own terms in the related entries, and this entry does not rule which movement is the authentic or correct Judaism.",
+  "editorial_notes": "This entry treats Yeshiva University as a sociological and institutional concept: the flagship institution of Modern Orthodox Judaism in America and, on the movement's self-understanding, the embodiment of the Torah u-Madda ideal joining Torah study with secular and general knowledge. It is described on the movement's own terms (neutrality #1, #4, #6, #7), and its self-understanding is recorded as the movement's account rather than adjudicated. The Modern Orthodox self-understanding is attributed to the movement, mirroring the orthodox-judaism entry (which presents Modern Orthodoxy / Torah im Derekh Eretz and the Haredi currents without ranking them); the editor does not rule that Modern Orthodoxy, or Orthodoxy over Conservative Judaism, is the authentic Judaism (THE denominations crux, neutrality #1-#2).\n\nSourcing triangulates the three lenses per neutrality #8-9. (a) The academic-historian lens is Jeffrey S. Gurock, The Men and Women of Yeshiva: Higher Education, Orthodoxy, and American Judaism (Columbia University Press, 1988), on the institution's history and its effort to synthesize traditional Judaism with Western higher education; medium. (c) The contemporary-Jewish-scholar lens is Norman Lamm, Torah Umadda: The Encounter of Religious Learning and Worldly Knowledge in the Jewish Tradition (Jason Aronson, 1990), YU's president giving the Torah u-Madda ideal its fullest theoretical statement from within the movement; medium. (b) The primary lens is Samuel Belkin, Essays in Traditional Jewish Thought (Philosophical Library, 1956), the founding president's own statement of the integration of traditional learning with the modern university, cited as the institution's own voice; medium, since it was not read openly line-by-line. No encyclopedias (including the Encyclopaedia Judaica or My Jewish Learning), no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: this is an institutional-history entry that rests on secondary scholarship (Gurock, medium) together with the movement's own scholars (Lamm and Belkin, medium), all verified to exist and be on-topic but not read line-by-line. The founding facts are conventional and well attested (Etz Chaim 1886; RIETS in the 1890s; Yeshiva College 1928 under Revel; university charter 1945 under Belkin). Nothing is fabricated; the Gurock citation was verified against its publisher record, and the Lamm and Belkin citations' bibliographic data (author, title, publisher, year) was confirmed independently. Soloveitchik's role at RIETS is treated more fully in the joseph-soloveitchik entry. Given the secondary-scholarship base and the primary not read openly line-by-line, this entry is honest as reviewed rather than verified.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "orthodox-judaism",
+      "note": "Yeshiva University is the flagship institution of the Modern Orthodox current of Orthodox Judaism in America; its Torah u-Madda ideal stands in the tradition of Hirsch's Torah im Derekh Eretz, one of the currents the orthodox-judaism entry describes without ranking. The institution and the movement whose Modern Orthodox current it anchors are the linked terms, stated on the movement's own terms."
+    },
+    {
+      "type": "related_to",
+      "target": "joseph-soloveitchik",
+      "note": "Joseph B. Soloveitchik (1903-1993), 'the Rav', taught for decades as rosh yeshiva at YU's rabbinical school (RIETS), ordaining generations of Modern Orthodox rabbis and shaping the movement's thought; the institution and its leading twentieth-century teacher are the linked figures of American Modern Orthodoxy."
+    }
+  ],
+  "historical_period": {
+    "start": 1886,
+    "note": "The institution traces its origins to the yeshiva Etz Chaim, founded on the Lower East Side in 1886, and the Rabbi Isaac Elchanan Theological Seminary (RIETS) founded in the 1890s; the two combined under Bernard Revel, Yeshiva College was established in 1928, and the institution received university status by charter in 1945 under Samuel Belkin. It remains an active institution to the present, so no end date is asserted; 1886 marks the origin of the yeshiva from which YU grew."
+  },
+  "sources": [
+    {
+      "citation": "Gurock, Jeffrey S. The Men and Women of Yeshiva: Higher Education, Orthodoxy, and American Judaism. New York: Columbia University Press, 1988. Academic monograph on the history of Yeshiva University by its Libby M. Klaperman Professor of Jewish History; cited for the institution's development and its sustained effort to synthesize traditional Judaism with the values of Western higher education, and for the tensions and achievements of that project. Academic-historian lens. Verified to exist and be on-topic (author, title, subtitle, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://cup.columbia.edu/book/the-men-and-women-of-yeshiva/9780231066181/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lamm, Norman. Torah Umadda: The Encounter of Religious Learning and Worldly Knowledge in the Jewish Tradition. Northvale, NJ: Jason Aronson, 1990. The fullest theoretical statement of the Torah u-Madda ideal, by the president of Yeshiva University (from 1976); cited as a contemporary Jewish scholar's voice within the movement for the ideal of a Maimonidean Judaism fully committed to the observance of halakha while open to the sciences, the humanities, and secular culture, holding that Torah and worldly knowledge together accomplish what neither could achieve alone. Contemporary-Jewish-scholar lens. Verified to exist and be on-topic (author, title, subtitle, publisher, and year confirmed); not read line-by-line.",
+      "license": "Proprietary (Jason Aronson, 1990, ISBN 0-87668-810-5); cited for reference by bibliographic record.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Belkin, Samuel. Essays in Traditional Jewish Thought. New York: Philosophical Library, 1956. Essays by the president who led Yeshiva University from 1943 and secured its university charter in 1945; cited as the institution's own primary voice for the integration of traditional rabbinic learning with the modern university, presented not as a compromise between sacred and secular study but as their integration, with Torah as the source from which the other studies take their place. Primary lens (the founding president's own statement). Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read openly line-by-line, hence medium rather than high.",
+      "license": "Proprietary (Philosophical Library, 1956, 191 pp.); cited for reference by bibliographic record.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

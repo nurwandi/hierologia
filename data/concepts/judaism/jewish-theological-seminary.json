@@ -1,0 +1,66 @@
+{
+  "id": "jewish-theological-seminary",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Jewish Theological Seminary of America",
+    "original": "בית המדרש לרבנים באמריקה",
+    "transliteration": "Beit ha-Midrash le-Rabbanim be-America",
+    "aliases": [
+      "JTS",
+      "The Seminary",
+      "Jewish Theological Seminary",
+      "The Jewish Theological Seminary of America (JTSA)"
+    ]
+  },
+  "category": "institution",
+  "summary": "The Jewish Theological Seminary of America (JTS), founded in 1886 and reorganized in 1902 under Solomon Schechter, is the principal academic and rabbinical institution of Conservative (Masorti) Judaism in America. On the movement's own self-understanding it is at once a seat of traditional Jewish learning and a center of Wissenschaft des Judentums, the critical, historical study of the Jewish sources, and it was around the Seminary, Schechter's leadership, and the congregational union of the United Synagogue that Conservative Judaism took institutional shape. From it have come generations of Conservative rabbis and a large body of scholarship in Bible, rabbinics, Jewish history, and thought.",
+  "description": "The Jewish Theological Seminary of America (Hebrew Beit ha-Midrash le-Rabbanim be-America, the Rabbinical House of Study in America), commonly JTS or the Seminary, is the central academic and rabbinical institution of Conservative (Masorti) Judaism in the United States. It was founded in New York in 1886 by traditionalist rabbis and laity as a rabbinical school for the training of an American traditional rabbinate, and it was reorganized in 1902 with the arrival of Solomon Schechter (1847-1915), the Romanian-born scholar of rabbinics and reader in Talmudic and rabbinic literature at Cambridge, who came from England to lead its faculty. This entry describes the institution on the movement's own terms and reports its self-understanding as the movement's account rather than adjudicating it.\n\nOn the Seminary's own self-understanding, articulated by Schechter, the institution joins two commitments that it holds to belong together: fidelity to the traditional practice and learning of the Jewish past, and the free, critical, historical study of the Jewish sources associated with Wissenschaft des Judentums. In his inaugural address of 1902 and the papers gathered as Seminary Addresses, Schechter described a rabbinate that should 'know everything Jewish', Bible, Talmud, Midrash, liturgy, Jewish ethics and philosophy, history and mysticism, and a Judaism that 'permeates the whole of your life' and demands the observance of the commandments, while also submitting the sources to open scholarly inquiry. In its self-description the Seminary presents this combination of traditional observance with critical scholarship as its distinctive character.\n\nHistorically the Seminary became the institutional center of Conservative Judaism. Michael R. Cohen has argued that Schechter, who advocated a return to traditional practice but articulated no sharp position on the movement's divisive issues, could not implement his vision alone, so that the movement as a distinct denomination was shaped in the first half of the twentieth century by his disciples, the rabbinical students and alumni of the Seminary, who together with the congregational union of the United Synagogue (1913) built the Conservative movement around it. Over the twentieth century the Seminary produced a large body of academic scholarship in Bible, rabbinic literature, Jewish history, philosophy, and liturgy, and it trained the movement's rabbis, cantors, and educators. Jack Wertheimer's history of the institution situates the Seminary within the larger course of American Jewish life, tracing its scholarship, its faculty, and its role in the formation of Conservative Judaism. Where Conservative Judaism differs from Orthodox and Reform Judaism over the authority and development of halakha, those differences are stated on each movement's own terms in the related entries, and this entry does not rule which movement is the authentic or correct Judaism.",
+  "editorial_notes": "This entry treats the Jewish Theological Seminary of America as a sociological and institutional concept: the principal academic and rabbinical institution of Conservative (Masorti) Judaism and, on the movement's self-understanding, a seat of both traditional learning and Wissenschaft-style critical scholarship. It is described on the movement's own terms (neutrality #1, #4, #6), and its self-understanding is recorded as the movement's account rather than adjudicated. The Conservative and Orthodox self-understandings are each attributed to their movements, mirroring the conservative-judaism and orthodox-judaism entries; the editor does not rule that either is the authentic Judaism (THE denominations crux, neutrality #1-#2).\n\nSourcing triangulates the three lenses per neutrality #8-9. (b) The primary lens is Solomon Schechter's Seminary Addresses and Other Papers, read openly in the public-domain full-text copy on the Internet Archive, including 'The Charter of the Seminary' and the 1902 inaugural address, for the Seminary's own self-understanding (the rabbinate that should know everything Jewish; Judaism as permeating the whole of life and demanding observance; the joining of traditional learning with critical scholarship); rated high for those load-bearing self-description claims read openly. (a) The academic-historian lens is Michael R. Cohen, The Birth of Conservative Judaism (Columbia University Press, 2012), on Schechter's disciples and the shaping of the movement around the Seminary; medium, carrying the same rating it holds in the conservative-judaism entry. (c) The contemporary-Jewish-scholar lens is Jack Wertheimer, ed., Tradition Renewed: A History of the Jewish Theological Seminary (JTS Press, 1997), the institution's own scholarly history by its longtime professor of American Jewish history; medium. No encyclopedias (including the Encyclopaedia Judaica, the Jewish Encyclopedia, or My Jewish Learning), no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: this is an institutional-history entry that rests on secondary scholarship (Cohen, Wertheimer, both medium, verified to exist and be on-topic but not read line-by-line) together with the openly-read Schechter primary carrying the Seminary's self-description (high). The founding date of 1886 and the 1902 reorganization under Schechter are conventional and well attested. Nothing is fabricated; the cited Internet Archive copy of the Schechter primary resolves and is openly readable, the Cohen citation was verified against its publisher record, and the Wertheimer citation's bibliographic data (editor, title, volumes, publisher, year) was confirmed independently. Given the secondary-scholarship base, this entry is honest as reviewed rather than verified.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "conservative-judaism",
+      "note": "The Seminary is the principal academic and rabbinical institution of Conservative (Masorti) Judaism; the movement took institutional shape around the Seminary, Schechter's leadership, and the United Synagogue, and the Seminary trains its rabbis and produces much of its scholarship. The institution and the movement built around it are the linked halves of American Conservative Judaism, stated on the movement's own terms."
+    },
+    {
+      "type": "related_to",
+      "target": "solomon-schechter",
+      "note": "Solomon Schechter (1847-1915) came from Cambridge in 1902 to lead the Seminary's faculty and is the central figure in its reorganization and in the American institutionalization of Conservative Judaism; his Seminary Addresses articulate the institution's self-understanding of traditional learning joined to critical scholarship. The scholar and the institution he led are the linked figures of the movement's formation."
+    },
+    {
+      "type": "related_to",
+      "target": "wissenschaft-des-judentums",
+      "note": "On its own self-understanding the Seminary is a center of Wissenschaft des Judentums, the critical, historical, scientific study of the Jewish sources, joined to fidelity to traditional practice; the movement presents this combination of critical scholarship with observance as the Seminary's distinctive character. The Seminary and the scholarly method it houses are the linked terms, stated as the movement's account."
+    }
+  ],
+  "historical_period": {
+    "start": 1886,
+    "note": "The Seminary was founded in New York in 1886 as a rabbinical school for an American traditional rabbinate and was reorganized in 1902 with the arrival of Solomon Schechter, the reorganization around which Conservative Judaism took institutional shape (the United Synagogue following in 1913). It remains an active institution to the present, so no end date is asserted; 1886 marks the founding and 1902 the reorganization that made it the movement's center."
+  },
+  "sources": [
+    {
+      "citation": "Schechter, Solomon. Seminary Addresses and Other Papers. Cincinnati: Ark Publishing Co., 1915 (repr. 1969). Primary source, read openly in the public-domain full-text copy on the Internet Archive; includes 'The Charter of the Seminary' and Schechter's inaugural address as President of the Faculty of the Jewish Theological Seminary of America (delivered November 20, 1902). Load-bearing for the Seminary's self-understanding: the rabbinate that should know everything Jewish (Bible, Talmud, Midrash, liturgy, Jewish ethics and philosophy, history and mysticism); Judaism that permeates the whole of life and demands observance of the commandments; and the joining of traditional learning with the free, critical study of the sources. Cited as the institution's own primary statement, on its own terms, not as a neutral reference work.",
+      "url": "https://archive.org/details/seminaryaddress00schegoog",
+      "license": "Not in copyright (public domain); openly readable and downloadable full text on the Internet Archive. The cited addresses read openly for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Cohen, Michael R. The Birth of Conservative Judaism: Solomon Schechter's Disciples and the Creation of an American Religious Movement. New York: Columbia University Press, 2012. Academic monograph drawing on the archives of the Jewish Theological Seminary and the Ratner Center; cited for the argument that the Conservative movement as a distinct denomination was shaped in the first half of the twentieth century by Schechter's disciples, the students and alumni of the Seminary, so that the movement took form around the institution. Academic-historian lens. Verified to exist and be on-topic (author, title, subtitle, publisher, and year confirmed); not read line-by-line. Carries the same medium rating it holds in the conservative-judaism entry.",
+      "url": "https://cup.columbia.edu/book/the-birth-of-conservative-judaism/9780231156356/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wertheimer, Jack, ed. Tradition Renewed: A History of the Jewish Theological Seminary. 2 vols. New York: Jewish Theological Seminary of America (JTS Press), 1997. The institution's own scholarly two-volume history, with essays by some forty scholars, edited by the Seminary's longtime Joseph and Martha Mendelson Professor of American Jewish History; cited as a contemporary Jewish scholar's account for the Seminary's scholarship, faculty, and role in the formation of Conservative Judaism, set within the larger course of American Jewish life. Contemporary-Jewish-scholar lens. Verified to exist and be on-topic (editor, title, volumes, publisher, and year confirmed); not read line-by-line.",
+      "license": "Proprietary (JTS Press, 1997, 2 vols, ISBN 9780873340755); cited for reference by bibliographic record.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

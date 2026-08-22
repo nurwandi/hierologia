@@ -1,0 +1,69 @@
+{
+  "id": "ha-meassef",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Ha-Me'assef",
+    "original": "הַמְאַסֵּף",
+    "transliteration": "Ha-Me'assef",
+    "aliases": [
+      "Ha-Meassef",
+      "Ha-Measef",
+      "The Gatherer",
+      "The Collector",
+      "The Gleaner",
+      "Der Sammler"
+    ]
+  },
+  "category": "periodical (Hebrew-language journal)",
+  "date": {
+    "year": 1783,
+    "note": "Founded in Königsberg in 1783 by a circle of younger followers of Moses Mendelssohn organized as the Chevrat Doreshei Leshon Ever (the 'Society of Friends of the Hebrew Language'). It appeared, with interruptions and changes of place (Königsberg, then Berlin, and later Breslau and elsewhere), into the early nineteenth century, with its runs conventionally dated to the periods around 1783-1790s and a later revival in the first years of the 1800s. Dates are approximate scholarly markers; scholars draw the boundaries of its several series differently."
+  },
+  "summary": "Ha-Me'assef ('The Gatherer') was the Hebrew-language periodical founded at Königsberg in 1783 by younger followers of Moses Mendelssohn, widely described as the first modern Hebrew journal and the literary organ of the Haskalah, the Jewish Enlightenment. It published Hebrew poetry, essays, biography, biblical and philological studies, and reviews, promoting the revival of Hebrew, secular learning, and the Enlightenment program among its Jewish readers.",
+  "description": "Ha-Me'assef (Hebrew for 'The Gatherer' or 'The Collector', from the root meaning to gather in, on the model of a harvest ingathering) is the Hebrew-language periodical founded at Königsberg in 1783 by a circle of younger followers of Moses Mendelssohn, who organized themselves as the Chevrat Doreshei Leshon Ever, the 'Society of Friends of the Hebrew Language'. It is widely described in the scholarship as the first modern Hebrew-language journal and as the chief literary organ of the Haskalah, the Jewish Enlightenment; its circle of writers came to be known in Jewish literary history as the 'generation of the Me'assefim' (dor ha-me'assefim). The account that follows presents the journal's character, contents, and significance as attributed features of the periodical and its reception in the scholarship, not as claims the editor affirms.\n\nWritten in Hebrew and modeled in form on the learned and literary periodicals of the surrounding European Enlightenment, Ha-Me'assef carried Hebrew poetry, essays and moral fables, biography, translations, book reviews, and studies of the Bible, the Hebrew language, and Jewish history, alongside items of general knowledge and current affairs addressed to a Jewish readership. Through this program it advanced the several aims that the scholarship associates with the maskilim: the revival and cultivation of Hebrew as a living literary language, purified in their aspiration toward a biblical model; the opening of Jewish life to European culture, the sciences, and secular learning; and the reform of Jewish education. It served as a vehicle for the circle around Mendelssohn and for the wider maskilic project, gathering and circulating the movement's writing, so that later historians treated the journal and its contributors as a distinct literary generation.\n\nThe journal appeared, with interruptions and shifts of place, from 1783 into the early nineteenth century: begun at Königsberg, continued at Berlin, and revived later in a further series, its several runs are dated by scholars to the years around 1783 into the 1790s and to a renewed appearance in the opening years of the 1800s. Its significance, as reconstructed in the scholarship, lies less in any single text it printed than in its role as the maskilim's own instrument of print and publicity, the periodical through which the early Haskalah addressed its Jewish public in Hebrew and gave itself a shared literary voice. This entry describes that role as the standing the journal holds in the history of the movement and in its scholarly reception, and attributes the aims it served to the maskilim who wrote for it, without ruling on the merits of their program.",
+  "editorial_notes": "This entry presents Ha-Me'assef on the terms of the movement it served and through the modern scholarship on the Haskalah (neutrality #1, #4, #6). Its character as the first modern Hebrew periodical and the literary organ of the Haskalah, its contents (Hebrew poetry, essays, biography, biblical and philological studies, reviews), its founding circle (the Chevrat Doreshei Leshon Ever, younger followers of Mendelssohn at Königsberg in 1783), and the 'generation of the Me'assefim' are DESCRIBED as attributed features of the periodical and its reception, not adjudicated. NEUTRALITY: the maskilic program the journal advanced (the revival of Hebrew, the opening to secular learning, educational reform, the Enlightenment project among Jews) is attributed to the maskilim who wrote for it and is NOT endorsed or ranked against traditional positions; the journal's significance is stated as the standing it HOLDS in the movement's history and scholarly reception ('widely described as', 'the scholarship associates with', 'the standing the journal holds'), not affirmed in the editor's own voice. Sources triangulate per neutrality #8-#9: (a) academic historians of the Haskalah and of modern Judaism (Feiner, The Jewish Enlightenment; Schorsch, From Text to Context); (b) the PRIMARY periodical itself, Ha-Me'assef, the movement's own Hebrew organ, confirmed to exist as a digitized original run on the Internet Archive; and (c) contemporary Jewish scholars (Feiner, historian of the Haskalah; Schorsch, historian of modern Judaism), each writing on-topic. No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no YIVO Encyclopedia, no Jewish Virtual Library, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: this entry is REVIEWED-level in ambition, not verified. Feiner and Schorsch are MEDIUM, verified to exist and be on-topic (publisher and library records; Schorsch's From Text to Context is also confirmed as a full scanned copy on the Internet Archive), not read line-by-line for the specific load-bearing claims here. The Ha-Me'assef primary is rated MEDIUM: a digitized original run is confirmed to resolve on the Internet Archive and is cited as the maskilic organ, but it was not read at the article level for a specific load-bearing claim in this entry, so it is not rated high. RELATION TARGETS: haskalah and moses-mendelssohn exist; the maskilim relation describes the periodical's tie to the movement's adherents, the 'generation of the Me'assefim'.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "haskalah",
+      "note": "Ha-Me'assef was the Hebrew literary organ of the Haskalah, the periodical through which the early Jewish Enlightenment addressed its Jewish public in Hebrew and gave itself a shared literary voice; its contributors were called the 'generation of the Me'assefim'. The haskalah entry exists (data/schools/judaism/haskalah.json)."
+    },
+    {
+      "type": "related_to",
+      "target": "maskilim",
+      "note": "Ha-Me'assef was founded and written by the maskilim (the adherents of the Haskalah), organized at Königsberg as the Chevrat Doreshei Leshon Ever ('Society of Friends of the Hebrew Language'), younger followers of Moses Mendelssohn; its circle of writers is known in Jewish literary history as the 'generation of the Me'assefim'."
+    },
+    {
+      "type": "related_to",
+      "target": "moses-mendelssohn",
+      "note": "Ha-Me'assef was founded by younger followers of Moses Mendelssohn and served as an organ of the circle around him and of the wider maskilic project he is associated with. The moses-mendelssohn entry exists (data/figures/judaism/moses-mendelssohn.json)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ha-Me'assef (המאסף, 'The Gatherer'), the Hebrew journal of the Haskalah, founded at Königsberg in 1783 by the Chevrat Doreshei Leshon Ever, a society of younger followers of Moses Mendelssohn, and published with interruptions into the early nineteenth century. Cited as the primary maskilic source and the literary organ of the movement, whose circle of writers were called the 'generation of the Me'assefim'. A digitized run of the original Hebrew journal is available on the Internet Archive; confirmed to resolve as a digitized original (HTTP 200 on 2026-07-26). Cited as the movement's own organ, not read at the article level for a specific load-bearing claim here.",
+      "url": "https://archive.org/details/haMeasef",
+      "license": "Hebrew original in the public domain (published from 1783); digitized on the Internet Archive.",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Feiner, Shmuel. The Jewish Enlightenment. Translated by Chaya Naor. Jewish Culture and Contexts. Philadelphia: University of Pennsylvania Press, 2004. A history of the eighteenth-century Haskalah reading it as the Jewish version of the pan-European Enlightenment and as a foundational chapter in the modern transformation of Jewish life; cited here as the academic-historical and contemporary-Jewish-scholarly lens on Ha-Me'assef as the movement's literary organ, on the maskilim who wrote for it, and on the journal's place in the early Haskalah. Winner of the Koret Jewish Book Award; the author is Professor of Jewish History at Bar-Ilan University. Verified to exist and be on-topic (University of Pennsylvania Press record; American Historical Review review), not read line-by-line for the specific claims here.",
+      "url": "https://www.pennpress.org/9780812221725/the-jewish-enlightenment/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schorsch, Ismar. From Text to Context: The Turn to History in Modern Judaism. Tauber Institute for the Study of European Jewry Series. Hanover and London: Brandeis University Press / University Press of New England, 1994. A collection of studies on the emergence of Jewish scholarship and historical consciousness in the modern period, spanning the Haskalah and the Wissenschaft des Judentums; cited as the academic-historical and contemporary-Jewish-scholarly lens (the author is Chancellor Emeritus and Professor of Jewish History at the Jewish Theological Seminary) on the maskilic turn to secular learning, print, and Hebrew of which Ha-Me'assef was an instrument. Verified to exist and be on-topic (Brandeis University Press record; a full scanned copy is on the Internet Archive, identifier fromtexttocontex0000scho), not read line-by-line for the specific claims here.",
+      "url": "https://www.brandeis.edu/tauber/publications/books/schorsch-text-context.html",
+      "license": "Proprietary; cited for reference (publisher record). A scanned copy is on the Internet Archive (fromtexttocontex0000scho).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

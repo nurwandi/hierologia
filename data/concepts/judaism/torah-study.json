@@ -1,0 +1,81 @@
+{
+  "id": "torah-study",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Torah study",
+    "original": "תַּלְמוּד תּוֹרָה",
+    "transliteration": "talmud torah",
+    "aliases": [
+      "Talmud Torah",
+      "The study of Torah",
+      "Limmud Torah",
+      "Torah lishmah (study for its own sake)"
+    ]
+  },
+  "category": "practice",
+  "summary": "Torah study (talmud Torah) is the study of the Torah and the wider sacred texts of Judaism, held in the rabbinic tradition not merely as a means to observance but as a supreme religious value and an act of worship in its own right. The classical sources place it among the deeds whose reward is enjoyed in this world while the principal endures for the world to come, and rank it, in the recurring formula, as equal to all the other commandments together. The tradition prizes study for its own sake (Torah lishmah), and the value received a special intensity in the Lithuanian (Mitnagdic) yeshiva world.",
+  "description": "Torah study (talmud Torah) is, in the self-understanding of the rabbinic tradition presented here on its own terms, the study of the Torah and of the sacred texts that unfold from it, valued not only as the means by which one learns what the commandments require but as a supreme religious act in itself. The tradition speaks of it as an obligation incumbent on every Jew and as a form of worship, and a substantial body of classical statements places it at or near the summit of the religious life.\n\nThe most frequently cited of these statements is the opening mishnah of tractate Peah (Mishnah Peah 1:1), which lists the deeds that have no fixed measure and then the deeds a person enjoys the fruits of in this world while the principal endures for the world to come, honouring one's father and mother, acts of loving kindness, and making peace between a person and another, and closes: 'and the study of Torah is equal to them all' (ve-talmud Torah ke-neged kullam). The same teaching is quoted in the Babylonian Talmud, tractate Shabbat 127a, which restates the mishnaic list and its conclusion 'and Torah study is equal to all of them,' and surrounds it with the sages' further praise of study and of the deeds that accompany it. Alongside these, the tractate Pirkei Avot (Ethics of the Fathers) repeatedly exalts study and the labour of the sages, and the broader rabbinic corpus returns to the theme that engagement with Torah is the characteristic activity of the covenant people.\n\nA distinct strand of the tradition prizes study for its own sake, Torah lishmah, study undertaken as an end in itself and as devotion rather than for reward, honour, or even the practical derivation of law. This value runs across the tradition but received a particular intensity and theological articulation in the Lithuanian (Mitnagdic) world, where the study of Torah became the organizing centre of religious life and of the great yeshivot. Chaim of Volozhin's Nefesh ha-Chayim gives this outlook a systematic form, presenting sustained Torah study as the highest avodah (service) and as itself sustaining the worlds, an emphasis that stood in a considered relationship to the Hasidic stress on prayer and devekut. This entry describes the supremacy the tradition assigns to study, and the positions of its various strands, as their own attributed teaching; it does not affirm or adjudicate the theological claims involved.",
+  "editorial_notes": "This entry describes Torah study (talmud Torah) on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding the standing of study as a supreme religious value and an act of worship, and the special emphasis it received in the Lithuanian/Mitnagdic world (see nefesh-ha-chayim), without the editor affirming or ranking these claims. The load-bearing classical statement, 'the study of Torah is equal to them all,' is given from the primary texts read line-by-line on open Sefaria: Mishnah Peah 1:1, whose Hebrew ends ve-talmud Torah ke-neged kullam, and the Babylonian Talmud, Shabbat 127a, which quotes the same mishnaic list and its conclusion 'and Torah study is equal to all of them.' The Torah-lishmah strand and its Mitnagdic intensification rest on secondary scholarship and are kept at that confidence. Sources triangulate three lenses per neutrality #8-9: an academic study of the value and religious meaning of study (Kraemer, and Fishman on the yeshiva and Lithuanian learning); the primary texts themselves, read openly and line-by-line on Sefaria (Mishnah Peah 1:1 and Shabbat 127a); and a contemporary Jewish scholar (Norman Lamm, Torah Lishmah, on study for its own sake in the thought of Chaim of Volozhin and his circle). No encyclopedias (including the Encyclopaedia Judaica, the Jewish Encyclopedia, and My Jewish Learning), Wikipedia, or tertiary sources. Confidence: the two Sefaria primaries read line-by-line (Mishnah Peah 1:1, quoted verbatim below, and Shabbat 127a) are rated high, carrying the load-bearing claim (the ranking of study as equal to all the commandments together); the Peah 1:1 Hebrew read on Sefaria ends '...וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם' ('...and bringing peace between a person and another, and the study of Torah is equal to them all'), and Shabbat 127a states verbatim 'and Torah study is equal to all of them.' The historical claim about the Lithuanian/Mitnagdic emphasis and the Torah-lishmah ideal rests on secondary scholarship (Kraemer, Fishman, Lamm), verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium. Relations: related_to nefesh-ha-chayim (Chaim of Volozhin's systematic articulation of study as the highest service), halakha, and mitzvot (study as the means of learning and as itself a commandment).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "nefesh-ha-chayim",
+      "note": "Chaim of Volozhin's Nefesh ha-Chayim gives the Lithuanian (Mitnagdic) valuation of Torah study its systematic articulation, presenting sustained study as the highest avodah (service) and as itself sustaining the worlds."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "Torah study is in one aspect the means by which halakha (Jewish law) is learned, derived, and transmitted, the engagement with the legal corpus of the Mishnah, Talmud, codes, and responsa; and study is itself treated within halakha as an obligation."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "The study of Torah is counted among the mitzvot (the commandments) and, in the recurring rabbinic formula, is ranked as equal to all the other commandments together (Mishnah Peah 1:1; Shabbat 127a); study is also the means by which the content of the commandments is known."
+    }
+  ],
+  "historical_period": {
+    "start": 200,
+    "note": "Torah study as a religious value is rooted in the biblical injunction and the Second Temple period, but its classical articulation as a supreme value belongs to the rabbinic corpus, conventionally anchored from the redaction of the Mishnah around 200 CE (Mishnah Peah 1:1; the parallel in the Babylonian Talmud, Shabbat 127a, redacted in late antiquity). The ideal develops continuously, receiving a distinctive intensification in the Lithuanian yeshiva world from the late eighteenth century (Chaim of Volozhin and the Nefesh ha-Chayim), and remains central to the practising streams of Judaism, so no end date is given. The 200 CE marker is a conventional starting point for the rabbinic articulation, not a claim about the origin of the value."
+  },
+  "sources": [
+    {
+      "citation": "Mishnah, tractate Peah 1:1, open Hebrew and English text on Sefaria. Cited as the openly-auditable primary text, read line-by-line: the mishnah lists the deeds whose fruits are enjoyed in this world while the principal endures for the world to come, honouring father and mother, acts of loving kindness, and making peace between a person and another, and concludes 've-talmud Torah ke-neged kullam' ('and the study of Torah is equal to them all'), the load-bearing classical statement of the supremacy of Torah study. Read and verified verbatim.",
+      "url": "https://www.sefaria.org/Mishnah_Peah.1.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Babylonian Talmud, tractate Shabbat 127a, open Hebrew/Aramaic and English text on Sefaria (William Davidson digital edition of the Koren Noe Talmud). Cited as the openly-auditable primary text, read line-by-line: the Gemara restates the mishnaic list of deeds whose principal endures for the world to come and its conclusion 'and Torah study is equal to all of them,' and surrounds it with the sages' praise of study; the load-bearing Talmudic parallel to Mishnah Peah 1:1 for the ranking of study. Read and verified verbatim.",
+      "url": "https://www.sefaria.org/Shabbat.127a",
+      "license": "William Davidson Talmud, CC-BY-NC 4.0 (English translation); underlying Hebrew/Aramaic in the public domain. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Kraemer, David. The Mind of the Talmud: An Intellectual History of the Bavli. New York: Oxford University Press, 1990. An academic study of the intellectual world and argumentative culture of the Babylonian Talmud, the setting in which study of the sacred texts became the characteristic religious activity of the rabbinic sages; cited for the value and religious meaning the tradition assigns to study. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/the-mind-of-the-talmud-9780195062908",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Fishman, Talya. Becoming the People of the Talmud: Oral Torah as Written Tradition in Medieval Jewish Cultures. Philadelphia: University of Pennsylvania Press, 2011. An academic study of how the study of the Talmud became the organizing centre of Jewish religious life and learning, background to the culture of study that reached its intensity in the Lithuanian yeshiva world; cited for the historical development of the primacy of study. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.pennpress.org/9780812243130/becoming-the-people-of-the-talmud/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Lamm, Norman. Torah Lishmah: Torah for Torah's Sake in the Works of Rabbi Hayyim of Volozhin and His Contemporaries. Hoboken, NJ: Ktav; New York: Yeshiva University Press, 1989 (English; Hebrew, Torah Lishmah, 1972). A contemporary Jewish scholar's study of the ideal of study for its own sake in the thought of Chaim of Volozhin and the Lithuanian school, the intellectual setting of the Nefesh ha-Chayim; cited for the Torah-lishmah ideal and its Mitnagdic articulation, as an attributed position. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.ktav.com/products/torah-lishmah",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

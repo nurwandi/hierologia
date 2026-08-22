@@ -1,0 +1,74 @@
+{
+  "id": "kabbalat-shabbat",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Kabbalat Shabbat",
+    "original": "קַבָּלַת שַׁבָּת",
+    "transliteration": "Qabbalat Shabbat",
+    "aliases": [
+      "Kabbalas Shabbos",
+      "Welcoming the Sabbath",
+      "Receiving the Sabbath",
+      "The Friday evening service of welcoming the Sabbath"
+    ]
+  },
+  "category": "liturgy",
+  "summary": "Kabbalat Shabbat ('Welcoming the Sabbath') is the liturgical service that inaugurates the Sabbath on Friday evening, recited before the regular evening prayer (Maariv). It took shape among the sixteenth-century kabbalists of Safed and centres on a sequence of Psalms (95 through 99 and 29) followed by the hymn Lekha Dodi, which personifies the Sabbath as a bride and queen, and concludes with Psalms 92 and 93. Composed within the mystical world of Safed, the service was adopted across the Jewish world and became a near-universal part of the Friday night liturgy.",
+  "description": "Kabbalat Shabbat (literally 'Receiving' or 'Welcoming the Sabbath') is the liturgical service, prefixed to the Friday evening prayer (Maariv), by which the Sabbath is greeted as it begins at nightfall. It is one of the most widely known additions to the Jewish liturgy, and its origin lies specifically in the mystical circle of sixteenth-century Safed (Tzfat) in the Galilee, the same community that produced Lurianic Kabbalah and the Shulchan Aruch. The Safed kabbalists cultivated the practice of going out, literally or in the imagination, to welcome the Sabbath, personified as a bride (kallah) and a queen (malketa), and gave this welcome a fixed liturgical form that later spread far beyond Safed.\n\nThe service is built around a sequence of Psalms. Its core is a series of six psalms, Psalms 95 through 99 and Psalm 29, understood in the kabbalistic reading as corresponding to the six weekdays and as an ascent toward the Sabbath; Psalm 95 opens 'Come, let us sing to the Lord; let us raise a shout for our rock and deliverer' (lekhu neranenah la-Adonai), and Psalm 29, the last of the six, is a psalm of David invoking the divine voice and glory ('Ascribe to the Lord, O divine beings, ascribe to the Lord glory and strength'). After the six psalms comes the hymn Lekha Dodi ('Come, my beloved'), composed by the Safed kabbalist Solomon Alkabetz, whose refrain calls 'Come, my beloved, to meet the bride; let us welcome the presence of the Sabbath,' and whose stanzas weave together themes of the Sabbath, the exile and hoped-for redemption, and the Sabbath-bride. The service then continues with Psalm 92 (the 'Song for the Sabbath day') and Psalm 93, after which the regular evening service begins.\n\nFrom its Safed origin the Kabbalat Shabbat spread rapidly, carried by the influence of the Safed kabbalists and their liturgical creativity, and was adopted across Sephardi, Ashkenazi, and other communities, so that its Psalm sequence and Lekha Dodi became a near-universal feature of the Friday night service in the traditional rites and, with variation, in the modern movements. The scholarship of Reuven Kimelman and others reads the service as a deliberately structured mystical drama of welcoming the Sabbath, its Psalms and hymn forming an ordered ascent rather than a loose collection. This entry describes the service, its Safed-kabbalistic origin and development, and the bride-and-queen imagery of the Sabbath as the tradition's own liturgical creation and self-understanding; it does not affirm or adjudicate the mystical meanings the tradition assigns to it.",
+  "editorial_notes": "This entry describes Kabbalat Shabbat on Judaism's own terms (neutrality #1, #4, #6), recording as the tradition's attributed self-understanding the mystical imagery of welcoming the Sabbath as a bride and queen, without the editor affirming the theology. Its sixteenth-century Safed-kabbalistic origin, its structure (the six psalms, Psalms 95-99 and 29, then Lekha Dodi, then Psalms 92-93), and its subsequent near-universal adoption are the load-bearing historical/liturgical claims and rest on secondary scholarship (Kimelman, Hoffman), kept at that confidence. The primary-text load is carried by the service's own Psalms, read line-by-line on open Sefaria (Psalm 95 and Psalm 29), confirming the opening of the sequence. Sources triangulate three lenses per neutrality #8-9: an academic study of the service and its meaning (Reuven Kimelman, The Mystical Meaning of Lekhah Dodi and Kabbalat Shabbat) alongside a scholar of Jewish liturgy (Lawrence Hoffman); the primary texts themselves, read openly and line-by-line on Sefaria (Psalms 95:1 and 29:1); and the contemporary Jewish scholarship named. No encyclopedias (including the Encyclopaedia Judaica, the Jewish Encyclopedia, and My Jewish Learning), Wikipedia, or tertiary sources. Confidence: the two Sefaria Psalms read line-by-line are rated high for the content and opening of the service's Psalm sequence; Psalm 95:1 Hebrew read on Sefaria reads 'לְכוּ נְרַנְּנָה לַיהוָה נָרִיעָה לְצוּר יִשְׁעֵנוּ' ('Come, let us sing to the Lord, let us raise a shout for the rock of our deliverance'), and Psalm 29:1 reads 'מִזְמוֹר לְדָוִד הָבוּ לַיהוָה בְּנֵי אֵלִים הָבוּ לַיהוָה כָּבוֹד וָעֹז' ('A psalm of David: Ascribe to the Lord, O divine beings, ascribe to the Lord glory and strength'). The historical claims (the Safed-kabbalistic origin, the fixed structure, the universal adoption) rest on Kimelman and Hoffman, verified to exist and be on-topic (author/title/publisher/year confirmed) but not read line-by-line, so medium, kept honest. Relations: related_to lekha-dodi (the hymn at the heart of the service), safed (the community of its origin), and shabbat (the Sabbath the service inaugurates).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "lekha-dodi",
+      "note": "Lekha Dodi ('Come, my beloved'), Solomon Alkabetz's hymn greeting the Sabbath as a bride, is the centrepiece of the Kabbalat Shabbat service, recited after the sequence of six Psalms and before Psalms 92 and 93."
+    },
+    {
+      "type": "related_to",
+      "target": "safed",
+      "note": "The Kabbalat Shabbat service took shape among the sixteenth-century kabbalists of Safed (Tzfat), whose practice of going out to welcome the Sabbath as a bride and queen gave the welcome its fixed liturgical form; it is among Safed's enduring liturgical creations."
+    },
+    {
+      "type": "related_to",
+      "target": "shabbat",
+      "note": "Kabbalat Shabbat ('Welcoming the Sabbath') is the service that inaugurates the Sabbath (Shabbat) at nightfall on Friday evening, greeting its arrival before the regular evening prayer; the service exists to receive the day it precedes."
+    }
+  ],
+  "historical_period": {
+    "start": 1550,
+    "note": "The Kabbalat Shabbat service as a fixed liturgical form took shape among the kabbalists of sixteenth-century Safed, conventionally placed around the mid-1500s (the generation of Alkabetz, Cordovero, and Luria); the c. 1550 marker is an approximate anchor for its Safed formation, not a precise date. Its component Psalms are far older biblical texts, and Lekha Dodi is Alkabetz's sixteenth-century composition. From Safed the service spread across the Jewish world and remains a near-universal part of the Friday evening liturgy, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "Psalms 95:1, open Hebrew and English text on Sefaria. Cited as an openly-auditable primary text of the service, read line-by-line: the opening of the first of the six psalms of Kabbalat Shabbat, 'Come, let us sing to the Lord, let us raise a shout for the rock of our deliverance' (Hebrew 'לְכוּ נְרַנְּנָה לַיהוָה נָרִיעָה לְצוּר יִשְׁעֵנוּ'), confirming the content and opening of the Psalm sequence at the heart of the service. Read and verified verbatim.",
+      "url": "https://www.sefaria.org/Psalms.95.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Psalms 29:1, open Hebrew and English text on Sefaria. Cited as an openly-auditable primary text of the service, read line-by-line: the last of the six psalms of Kabbalat Shabbat, 'A psalm of David: Ascribe to the Lord, O divine beings, ascribe to the Lord glory and strength' (Hebrew 'מִזְמוֹר לְדָוִד הָבוּ לַיהוָה בְּנֵי אֵלִים הָבוּ לַיהוָה כָּבוֹד וָעֹז'), confirming the close of the psalm sequence that precedes Lekha Dodi. Read and verified verbatim.",
+      "url": "https://www.sefaria.org/Psalms.29.1",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation under a Creative Commons license. Read line-by-line for this entry.",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Kimelman, Reuven. The Mystical Meaning of 'Lekhah Dodi' and 'Kabbalat Shabbat' (Hebrew, with English introduction). Jerusalem: Magnes Press, Hebrew University; and Los Angeles: Cherub Press, 2003. A close scholarly study of the Kabbalat Shabbat service and the Lekha Dodi hymn, reading the sequence of Psalms and the hymn as a deliberately structured mystical drama of welcoming the Sabbath as a bride; the load-bearing academic source for the service's Safed-kabbalistic meaning and structure. Verified to exist and be on-topic (author, title, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.magnespress.co.il/book/מיסטיקה_של_קבלת_שבת-2361",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hoffman, Lawrence A., ed. Kabbalat Shabbat: Welcoming Shabbat in the Synagogue. My People's Prayer Book, Vol. 8. Woodstock, VT: Jewish Lights, 2004. A scholar of Jewish liturgy's edited volume presenting the Kabbalat Shabbat service with its texts and historical and interpretive commentary, tracing its origin among the Safed kabbalists and its structure and spread; cited for the historical development and liturgical structure of the service. Verified to exist and be on-topic (editor, title, series, publisher, and year confirmed); not read line-by-line.",
+      "url": "https://www.jewishlights.com/page/product/978-1-58023-121-5",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

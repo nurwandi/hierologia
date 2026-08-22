@@ -1,0 +1,77 @@
+{
+  "id": "abraham-geiger",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Abraham Geiger",
+    "original": "אַבְרָהָם גַּייגֶר",
+    "transliteration": "Avraham Geiger",
+    "aliases": [
+      "Abraham Geiger of Breslau and Frankfurt",
+      "Avraham Geiger"
+    ]
+  },
+  "roles": [
+    "rabbi",
+    "scholar of Judaism (Wissenschaft des Judentums)",
+    "theologian and liturgist",
+    "leading figure of the Reform movement"
+  ],
+  "summary": "Abraham Geiger (1810-1874) was a German rabbi and scholar generally regarded in the scholarship as a principal architect of Reform Judaism and a leading figure of the Wissenschaft des Judentums, the scholarly study of Judaism. He advanced, as his own view, a historical-critical understanding of Judaism as a religion that develops through history, reformed the synagogue liturgy in that light, and produced scholarship on the Bible and its ancient reading, on the Pharisees, and on Judaism's relation to early Christianity and Islam.",
+  "description": "Abraham Geiger, born in Frankfurt am Main in 1810 and serving as rabbi successively in Wiesbaden, Breslau, again Frankfurt, and finally Berlin, where he taught at the Hochschule fur die Wissenschaft des Judentums, is treated in the scholarship (Michael A. Meyer, Response to Modernity) as the foremost theological and scholarly voice of nineteenth-century German Reform Judaism, and as one of the founding scholars of the Wissenschaft des Judentums, the critical academic study of Judaism that arose in the German lands in his century. He was active in the German rabbinical conferences of the 1840s at which the emerging Reform movement debated its principles, and he combined the roles of congregational rabbi, liturgical reformer, and productive scholar throughout his career.\n\nA guiding idea of Geiger's thought, presented here as his own view, was that Judaism is not a fixed and finished deposit but a living tradition that unfolds and develops across history. On this understanding the forms of Jewish worship, law, and doctrine took shape under particular historical conditions and could be consciously reshaped as conditions changed, while what he took to be the enduring core, an ethical monotheism given to the world by Israel, persisted through the changes. Geiger set this developmental reading of Judaism within a universal frame: in the opening lecture of his popular lectures, published in English as Judaism and Its History, he speaks of Judaism as a 'world-historic phenomenon' in that 'it had given birth to kindred phenomena, Christianity and Islam, and projected them into history as grand energies', so that the two later monotheisms are read as offspring of Judaism rather than as its supersessors. This account of Judaism's relation to Christianity and Islam is given here as Geiger's own scholarly and theological position, attributed to him and not affirmed or denied by the editor.\n\nOn the basis of this developmental view Geiger carried through reforms of the synagogue liturgy, revising and abridging the traditional prayer book, giving a place to the vernacular alongside Hebrew, and removing or reinterpreting prayers he judged bound to superseded historical circumstances, such as petitions for the restoration of the sacrificial cult and, in his framing, the return to Zion, understanding the mission of Israel instead in universal ethical terms. His scholarship pursued the same historical method. His early major work, Urschrift und Ubersetzungen der Bibel (1857), argued that the biblical text and its ancient translations preserve traces of the changing legal and doctrinal outlooks of the parties of Second Temple Judaism, and in it and in later studies he read the Pharisees, against a long negative image, as a progressive and popular party whose interpretation of the law carried Judaism forward, in contrast to the priestly conservatism he ascribed to the Sadducees. He also wrote on the place of Judaism in the origins of Christianity and, in a study of Muhammad, on what Judaism had contributed to early Islam. Both his liturgical reforms and his historical scholarship are recorded here as his attributed positions and contributions.\n\nGeiger understood his work as a faithful renewal of Judaism from within rather than a break with it, and this self-understanding was contested by others in his own time, both by defenders of traditional observance and rabbinic authority, who saw his reforms and his historical treatment of the sources as a departure from the tradition, and by contemporaries within the reforming camp who differed on how far change should go. This entry records those tensions as a historical dispute, attributing each side's view to its holders, and does not rule on whether Geiger's account of Judaism, or that of his critics, is the correct or authentic one.",
+  "editorial_notes": "This entry presents Abraham Geiger on the terms of his own scholarship and theology (neutrality #1, #4, #6). His central idea, that Judaism is a historically developing tradition, his liturgical reforms, and his readings of the Pharisees and of Judaism's relation to Christianity and Islam are stated as HIS ATTRIBUTED positions and contributions, described and not affirmed or denied by the editor. The tension between Geiger's self-understanding (a renewal of Judaism from within) and his critics, both defenders of traditional observance and rabbinic authority and reformers who differed on the pace of change, is recorded as a historical dispute with each side attributed to its holders, and the editor does not rule which account of Judaism is authentic or correct (neutrality #1-#2, the intra-Jewish denominational crux, handled as in the reform-judaism and haskalah entries). His account of Christianity and Islam as 'kindred phenomena' to which Judaism 'had given birth' is his own scholarly-theological position, attributed and not used as a neutral description of those traditions (neutrality #11). Sources triangulate three lenses per neutrality #8-9: (b) an OPEN primary, Geiger's own Judaism and Its History (Newburgh translation, 1911) on the Internet Archive, read for the load-bearing Lecture I passage; (a) the academic-historical lens, Michael A. Meyer, Response to Modernity, the standard history of the Reform movement, and Ismar Schorsch, From Text to Context, on the Wissenschaft des Judentums; and (c) a contemporary Jewish scholar on-topic (Susannah Heschel, Abraham Geiger and the Jewish Jesus). No encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Jewish Virtual Library, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: Geiger's Judaism and Its History is rated HIGH because Lecture I was read on the open Internet Archive full text and the load-bearing line was confirmed verbatim: Judaism is a 'world-historic phenomenon' in that 'it had given birth to kindred phenomena, Christianity and Islam, and projected them into history as grand energies which exerted their transforming, vivifying effect upon great multitudes.' The Pharisees material sits in Lectures VII-VIII and in Geiger's Urschrift, and is attributed to Geiger through the read primary and the secondary scholarship rather than quoted verbatim here. Meyer, Schorsch, and Heschel are medium, verified to exist and be on-topic via publisher and library records, not read line-by-line. Relations: reform-judaism, wissenschaft-des-judentums, and haskalah describe Geiger's role in and relation to the Reform movement, the scholarly study of Judaism, and the Jewish Enlightenment respectively; reform-judaism records the reciprocal key_figure edge to abraham-geiger.",
+  "lifespan": {
+    "birth": 1810,
+    "death": 1874,
+    "note": "1810-1874 CE. Born in Frankfurt am Main; rabbi in Wiesbaden, Breslau, Frankfurt am Main, and finally Berlin, where he taught at the Hochschule fur die Wissenschaft des Judentums (founded 1872). Active in the German rabbinical conferences of the 1840s."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "reform-judaism",
+      "note": "Geiger is regarded in the scholarship as a principal theological and scholarly architect of nineteenth-century German Reform Judaism, giving the movement its guiding idea that Judaism is a historically developing tradition and carrying through reforms of the liturgy in that light; stated as his attributed role. The reform-judaism entry records the reciprocal key_figure edge to abraham-geiger."
+    },
+    {
+      "type": "related_to",
+      "target": "wissenschaft-des-judentums",
+      "note": "Geiger was one of the founding scholars of the Wissenschaft des Judentums, the critical academic study of Judaism, applying its historical method to the Bible, the parties of Second Temple Judaism, and the relation of Judaism to Christianity and Islam."
+    },
+    {
+      "type": "related_to",
+      "target": "haskalah",
+      "note": "Geiger's developmental and critical treatment of Judaism stands in the intellectual line of the Haskalah, the Jewish Enlightenment, which had earlier pressed the engagement of Jewish life with modern European learning; the connection is one of intellectual background."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Geiger, Abraham. Judaism and Its History (Das Judenthum und seine Geschichte), Lecture I. Translated by Charles Newburgh. New York: Bloch Publishing, 1911 (from lectures first delivered and published in German, 1864-1871). Cited as the openly-auditable primary text carrying Geiger's own account of Judaism as a developing religion and of its relation to Christianity and Islam, read on the Internet Archive: Lecture I calls Judaism a 'world-historic phenomenon' in that 'it had given birth to kindred phenomena, Christianity and Islam, and projected them into history as grand energies which exerted their transforming, vivifying effect upon great multitudes.' This load-bearing line was read and verified verbatim in the Archive full text; the fuller treatment of the Pharisees stands in Lectures VII-VIII of the same work.",
+      "url": "https://archive.org/details/judaismitshistor00geig",
+      "license": "Public domain (published 1911); full text openly readable on the Internet Archive. Lecture I read and the quoted line verified against the Archive full text (2026-07-26).",
+      "accessed": "2026-07-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Meyer, Michael A. Response to Modernity: A History of the Reform Movement in Judaism. Studies in Jewish History. New York: Oxford University Press, 1988 (reprinted Detroit: Wayne State University Press, 1995). The standard scholarly history of the Reform movement, treating Geiger as its foremost theological and scholarly voice, his developmental understanding of Judaism, his liturgical reforms, and his role in the German rabbinical conferences; cited as the academic-historical lens on Geiger and the movement. Verified to exist and be on-topic (Oxford University Press / Wayne State University Press record; reviewed in AJS Review and the American Historical Review), not read line-by-line.",
+      "url": "https://global.oup.com/academic/product/response-to-modernity-9780195051674",
+      "license": "Proprietary; cited for reference (publisher/library record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schorsch, Ismar. From Text to Context: The Turn to History in Modern Judaism. The Tauber Institute for the Study of European Jewry Series. Hanover, NH: Brandeis University Press / University Press of New England, 1994. A study of the emergence of the Wissenschaft des Judentums, the critical historical study of Judaism, of which Geiger was a founding practitioner; cited as the academic lens on the scholarly movement within which Geiger's Bible scholarship and his history of the Jewish parties are situated. Verified to exist and be on-topic (Brandeis University Press record; the author is a scholar of the Wissenschaft des Judentums), not read line-by-line.",
+      "url": "https://www.brandeis.edu/tauber/publications/books/schorsch-text-context.html",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Heschel, Susannah. Abraham Geiger and the Jewish Jesus. Chicago Studies in the History of Judaism. Chicago: University of Chicago Press, 1998. A contemporary Jewish scholar's study of Geiger's scholarship on the Pharisees, on the Jewish setting of Jesus and the origins of Christianity, and on his historical-critical method as an assertion of a Jewish counter-history; cited as the contemporary-Jewish-scholarly lens on Geiger's reading of the Pharisees and of Judaism's relation to Christianity. Verified to exist and be on-topic (University of Chicago Press record; the author is Professor of Jewish Studies at Dartmouth), not read line-by-line.",
+      "license": "Proprietary; cited for reference (University of Chicago Press, 1998; confirmed via the Church History review, Cambridge).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}

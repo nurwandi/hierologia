@@ -1,0 +1,74 @@
+{
+  "id": "anan-ben-david",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Anan ben David",
+    "original": "עָנָן בֶּן דָּוִד",
+    "transliteration": "Anan ben David",
+    "aliases": [
+      "Anan ha-Nasi",
+      "Anan the Exilarch",
+      "ANan ben David",
+      "the reputed founder of the Ananites"
+    ]
+  },
+  "roles": [
+    "eighth-century Jewish leader",
+    "figure associated by later tradition with the origins of Karaism",
+    "reputed author of a Book of Commandments (Sefer ha-Mitzvot)"
+  ],
+  "summary": "Anan ben David (active in the mid-eighth century in Babylonia) is the figure whom later tradition, both Rabbanite and Karaite, associates with the origins of Karaism, the Jewish movement that recognizes the Written Torah alone as authoritative and rejects the rabbinic Oral Torah. He is credited by that tradition with rejecting the authority of the rabbinic Oral Torah in favor of deriving the law from Scripture, and with the maxim 'search well in the Torah'. His own teaching survives only in fragments, largely in the citations of his Rabbanite opponents, and the picture of him as founder is regarded in scholarship as partly retrospective and partly shaped by later, sometimes polemical, sources.",
+  "description": "Anan ben David, active in the mid-eighth century in Babylonia (Iraq) under the early Abbasid caliphate, is the figure whom later tradition, in both its Rabbanite (rabbinic) and its Karaite forms, associates with the beginnings of Karaism, the movement within Judaism that takes the Written Torah as the sole authoritative source of religious law and rejects the rabbinic Oral Torah (the Mishnah, the Talmud, and the accumulated rabbinic tradition) which Rabbanite Judaism holds to have been given at Sinai alongside the written text. The account that follows presents Anan's role as it is attributed to him by later tradition and reconstructed by scholarship, not as settled biography and not as the editor's adjudication of the Rabbanite-Karaite dispute.\n\nThe traditional narrative, transmitted on both sides, credits Anan with breaking from the rabbinic establishment and founding a community, the Ananites, whose adherents were in later centuries aligned with or absorbed into the emerging Karaite movement. He is remembered as the reputed author of a Book of Commandments (Sefer ha-Mitzvot, in Aramaic), of which fragments survive, and as one who insisted that the law be sought in the scriptural text itself rather than received on the authority of the rabbinic chain of transmission. To him is attributed the maxim, transmitted in the tradition, 'search well in the Torah and do not rely on my opinion', taken as a programmatic statement of the scripturalist principle that each student is to derive the law from Scripture by study rather than defer to a fixed authority. On the Karaite understanding, presented here on the movement's own terms, this scripturalism is a considered religious position, the recognition of the Written Torah alone, and not a mere rejection or absence of tradition; the Karaite scholarship that flowered in the tenth and eleventh centuries (al-Qirqisani, Yefet ben Ali) built a full scriptural jurisprudence and exegesis on that foundation.\n\nThe historical figure behind this narrative is difficult to recover, and the scholarship is careful on the point. Anan's own teaching is preserved only in fragments, chiefly in citations by his Rabbanite opponents (above all Saadia Gaon, whose polemical Refutation of Anan is a principal source) and in reconstructions of his Book of Commandments from Cairo Geniza fragments; the sources that describe him are later than his lifetime and partly hostile, and the retrospective picture of him as the single founder of Karaism is itself, scholars observe, part of the movement's and its opponents' later self-understanding rather than a matter of settled fact. Daniel Frank and Meira Polliack, treating the origins of Karaism, present the connection between Anan and the later Karaites as a construction of the tradition to be examined rather than a straightforward line of descent. This entry therefore records Anan's role as an attribution by later Rabbanite and Karaite tradition, gives the Karaite scripturalist position on its own terms rather than through the Rabbanite polemic against it, and does not rule on the dispute between the rabbinic doctrine of a divinely given Oral Torah and the Karaite recognition of the Written Torah alone; the parties are named and each position is attributed, and the editor adjudicates neither.",
+  "editorial_notes": "This entry presents Anan ben David with the same caution the scholarship urges and that karaites.json already applies (neutrality #1, #2, #4, #6, #7). ATTRIBUTION, NOT ADJUDICATION: Anan's role in the origins of Karaism, his rejection of the authority of the rabbinic Oral Torah in favor of Scripture, his reputed Book of Commandments, and the maxim 'search well in the Torah' are given throughout as the attribution of LATER Rabbanite and Karaite tradition and as scholarly reconstruction ('the figure whom later tradition associates with', 'credited by that tradition', 'attributed to him', 'the reputed author'), NOT as settled biography. His own teaching survives only in fragments, largely in the citations of his Rabbanite opponents (Saadia's Refutation of Anan) and in Geniza reconstructions of his Book of Commandments; the sources are later and partly hostile, and the 'founder' picture is flagged as partly retrospective, exactly as karaites.json handles it. KARAISM ON ITS OWN TERMS: the scripturalist position (the Written Torah alone) is represented as the Karaites' considered religious position, NOT as the 'heresy' of the Rabbanite polemic; the golden-age Karaite scholarship (al-Qirqisani, Yefet ben Ali) is named as building a full jurisprudence on it. The Rabbanite-Karaite dispute is attributed to both sides and NOT adjudicated; the editor does not use the Rabbanite polemic (Saadia) as the description of Karaism or of Anan. Sourcing triangulates three lenses per neutrality #8-9. HONESTY on the primary-text lens: no open primary passage in Anan's own voice could be read line-by-line (his Book of Commandments survives only in scholarly-reconstructed Geniza fragments, not openly on Sefaria), and the principal near-contemporary source that describes him, Saadia's Refutation of Anan, is a Rabbanite POLEMIC and is cited only as an attributed hostile source, never as a neutral description of Anan or of Karaism (neutrality #11-adjacent). The lenses are: (a) academic scholarship on Karaite origins (Daniel Frank, Search Scripture Well, Brill 2004, carrying the same medium rating it holds in karaites.json and oral-torah.json; Meira Polliack, ed., Karaite Judaism: A Guide to Its History and Literary Sources, Brill 2003, the standard reference collection); (b) the early Karaite literature in translation (Leon Nemoy, Karaite Anthology, Yale 1952), standing for the movement's own voice since Anan's own corpus is not open; (c) a contemporary Jewish scholar (Fred Astren, Karaite Judaism and Historical Understanding, South Carolina 2004, on Karaite historiography and how the tradition constructed its own past, precisely the caution this entry rests on). No encyclopedias (no Encyclopaedia Judaica, no Jewish Encyclopedia, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: because Anan is known only through later and partly-hostile sources and no primary passage in his own voice was read line-by-line, all sources are medium and the entry is authored as a DRAFT best treated as REVIEWED-only, not verified, in the same way karaites.json and the sadducees-type figures are handled. RELATION TARGETS: karaites is the movement later tradition associates with him (its founded_by edge points back to this figure, recorded there as an attributed and partly-retrospective 'founder' picture); oral-torah is the rabbinic authority he is said to reject, stated by attribution not adjudication.",
+  "lifespan": {
+    "birth": 715,
+    "death": 795,
+    "note": "Active in the mid-eighth century CE in Babylonia (Iraq) under the early Abbasid caliphate; the birth and death years c. 715-c. 795 are the conventional approximate markers used in the scholarship and are not firmly documented. The chronology, like much of the biography, is reconstructed from later sources and is uncertain."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "karaites",
+      "note": "Later tradition, both Rabbanite and Karaite, associates Anan ben David with the origins of Karaism and remembers him as founder of the Ananites, whose adherents were later aligned with or absorbed into the emerging Karaite movement. Stated as the attribution of later tradition and scholarly reconstruction, not as settled fact: his teaching survives only in fragments and the 'founder' picture is partly retrospective. The karaites entry records the reciprocal (founded_by anan-ben-david) with the same caution. Presented on the movement's own terms, not through the Rabbanite polemic."
+    },
+    {
+      "type": "related_to",
+      "target": "oral-torah",
+      "note": "Anan is credited by later tradition with rejecting the authority of the rabbinic Oral Torah (the Mishnah, Talmud, and rabbinic tradition) in favor of deriving the law from the Written Torah directly, associated with the maxim 'search well in the Torah'. Stated as the position attributed to him by later Rabbanite and Karaite tradition, not adjudicated: the editor does not rule between the rabbinic doctrine of a divinely given Oral Torah and the Karaite recognition of the Written Torah alone. The oral-torah entry exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Frank, Daniel. Search Scripture Well: Karaite Exegetes and the Origins of the Jewish Bible Commentary in the Islamic East. Etudes sur le judaisme medieval 29. Leiden and Boston: Brill, 2004. Academic monograph on the Karaite exegetes of the Islamic east who built a scriptural jurisprudence in deliberate opposition to the Rabbanite doctrine of a divinely given Oral Torah; cited for the Karaite scripturalist position, the origins of Karaism, and the question of Anan and the 'founder' narrative as an attributed and partly-retrospective construction. Verified to exist and be on-topic; carries the same medium rating it holds in karaites.json and oral-torah.json. Not read line-by-line.",
+      "url": "https://brill.com/display/title/8574",
+      "license": "Proprietary; cited for reference (Brill title record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Polliack, Meira, ed. Karaite Judaism: A Guide to Its History and Literary Sources. Handbook of Oriental Studies, Section 1: The Near and Middle East 73. Leiden and Boston: Brill, 2003 (ISBN 9789004122512). The standard scholarly reference collection on Karaite history and literature, covering the movement's origins, the question of Anan ben David and the Ananites, the golden-age scholarship (al-Qirqisani, Yefet ben Ali), and the relationship of the later Karaites to Anan; cited for the origins narrative and the scholarly caution on Anan's role. Verified to exist and be on-topic (Brill record), not read line-by-line.",
+      "url": "https://brill.com/edcollbook/title/7223",
+      "license": "Proprietary; cited for reference (Brill Handbook record).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nemoy, Leon, ed. and trans. Karaite Anthology: Excerpts from the Early Literature. Yale Judaica Series 7. New Haven: Yale University Press, 1952 (repr. 1980; ISBN 9780300039290). Translated excerpts from the early Karaite literature, rendered directly from the Arabic, Aramaic, and Hebrew originals, including material bearing on Anan and the early scripturalist argument; cited for the early Karaite tradition and its account of Anan in the movement's own voice (in translation), since Anan's own corpus is not open. Verified to exist and be on-topic (Yale University Press record), not read line-by-line.",
+      "url": "https://yalebooks.yale.edu/book/9780300039290/karaite-anthology/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Astren, Fred. Karaite Judaism and Historical Understanding. Studies in Comparative Religion. Columbia: University of South Carolina Press, 2004 (ISBN 9781570035180). A contemporary Jewish scholar's study of Karaite historiography and self-understanding, and of how the tradition constructed and recorded its own past, including the retrospective picture of Anan ben David as founder; cited as the contemporary-Jewish-scholarship lens carrying precisely the caution on which this entry's attributed handling of Anan rests. Verified to exist and be on-topic (University of South Carolina Press record; reviewed in The Journal of Religion and The American Historical Review), not read line-by-line.",
+      "url": "https://uscpress.com/Karaite-Judaism-and-Historical-Understanding",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-07-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-07-26",
+  "updated": "2026-07-26"
+}
