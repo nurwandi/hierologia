@@ -20,6 +20,14 @@ Usage:
   python3 scripts/query.py refs-to <id>
       Every entity whose relations point at <id> (with the relation type).
 
+  python3 scripts/query.py neighbors <id>
+      Outbound relations of <id>: what it points at, the relation type, and
+      whether the target exists (or is still dangling).
+
+  python3 scripts/query.py orphans
+      Entities with no relations at all (in or out) — disconnected from the
+      graph. Candidates for wiring up or review.
+
   python3 scripts/query.py show <id> [<id> ...]
       Compact view of an entity: id, type, tradition, status, and summary only.
 
@@ -110,6 +118,31 @@ def cmd_refs_to(ents, target):
         print(f"(note: {target} EXISTS in the dataset)")
 
 
+def cmd_neighbors(ents, source):
+    d = ents.get(source)
+    if not d:
+        print(f"{source}: NOT FOUND")
+        return
+    rels = d.get("relations", [])
+    print(f"{source}  [{d['_type']}/{d['tradition']}]  -> {len(rels)} relation(s):")
+    for r in rels:
+        t = r.get("target", "?")
+        mark = "" if t in ents else "  (DANGLING)"
+        print(f"  {r.get('type','?'):16} {t}{mark}")
+
+
+def cmd_orphans(ents):
+    inbound = set()
+    for d in ents.values():
+        for r in d.get("relations", []):
+            if r.get("target") in ents:
+                inbound.add(r["target"])
+    orphans = [d for d in ents.values() if not d.get("relations") and d["id"] not in inbound]
+    print(f"orphans: {len(orphans)} entity(ies) with no in/out relations")
+    for d in sorted(orphans, key=lambda d: (d["tradition"], d["id"])):
+        print(f"  {d['id']}  [{d['_type']}/{d['tradition']}/{d['status']}]")
+
+
 def cmd_show(ents, ids):
     for i in ids:
         d = ents.get(i)
@@ -148,6 +181,10 @@ def main():
         cmd_worklist(ents)
     elif cmd == "refs-to" and rest:
         cmd_refs_to(ents, rest[0])
+    elif cmd == "neighbors" and rest:
+        cmd_neighbors(ents, rest[0])
+    elif cmd == "orphans":
+        cmd_orphans(ents)
     elif cmd == "show" and rest:
         cmd_show(ents, rest)
     elif cmd == "list":
