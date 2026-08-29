@@ -13,6 +13,10 @@ Usage:
       Dangling relation targets (referenced but not present), grouped by the
       tradition(s) that reference them.
 
+  python3 scripts/query.py worklist
+      Dangling targets ranked by how many entities reference them, with each
+      referrer and its relation type. The "write this next" to-do list.
+
   python3 scripts/query.py refs-to <id>
       Every entity whose relations point at <id> (with the relation type).
 
@@ -77,6 +81,22 @@ def cmd_dangling(ents):
             print(f"  {tr} ({len(u)}): " + ", ".join(u))
 
 
+def cmd_worklist(ents):
+    present = set(ents)
+    dang = collections.defaultdict(list)  # target -> [(referrer_id, rel_type, tradition)]
+    for d in ents.values():
+        for r in d.get("relations", []):
+            t = r.get("target")
+            if t and t not in present:
+                dang[t].append((d["id"], r.get("type", "?"), d["tradition"]))
+    ranked = sorted(dang.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+    print(f"worklist: {len(ranked)} dangling, ranked by inbound refs")
+    for target, refs in ranked:
+        trads = ",".join(sorted({r[2] for r in refs}))
+        who = " ".join(f"{i}({ty})" for i, ty, _ in sorted(refs))
+        print(f"  {len(refs)}  {target}  [{trads}]  <- {who}")
+
+
 def cmd_refs_to(ents, target):
     hits = []
     for d in ents.values():
@@ -124,6 +144,8 @@ def main():
         cmd_summary(ents)
     elif cmd == "dangling":
         cmd_dangling(ents)
+    elif cmd == "worklist":
+        cmd_worklist(ents)
     elif cmd == "refs-to" and rest:
         cmd_refs_to(ents, rest[0])
     elif cmd == "show" and rest:
