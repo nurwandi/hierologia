@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/hierologia.svg" alt="Hierologia logo" width="88" height="88">
+  <img src="assets/hierologia-logo.png" alt="Hierologia logo" width="88" height="88">
 </p>
 
 <h1 align="center">Hierologia</h1>
