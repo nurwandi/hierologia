@@ -6,6 +6,30 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.26.0] - 2026-09-15
+
+The graph gains its center. ADR-0009 introduces deity concepts, one per tradition: the God each tradition
+worships, described from the tradition's own self-understanding, never adjudicated across traditions. The
+three Abrahamic deity concepts ship together, pairwise linked with claims-first `compares_with` notes, and
+the doctrine entries about God now point at the God they are about.
+
+### Added
+- **ADR-0009** (deity concepts, one per tradition): God is modeled as a `concept` per tradition, never as a
+  single universal node; ids follow each tradition's own dominant self-designation; referent identity across
+  traditions is never asserted or denied by the editor. No schema change.
+- The concepts `allah` (Islam), `hashem` (Judaism), and `god-in-christianity` (Christianity), each covering,
+  as attributed positions: what kind of God this is, what worship is commanded and why the tradition holds it
+  owed, and how the tradition grounds God's existence. All three enter `reviewed` after independent audits
+  (one audit returned fail and was fixed and re-audited; two returned minor-fixes with fixes applied).
+  Primary spines read directly: Kiddushin 71a and Yesodei ha-Torah 1 (Sefaria), Aquinas ST I q.2 a.3, the
+  scriptural anchors (Mark 12:29-31, 1 John 4:8, and the Qur'anic loci as standard references).
+
+### Changed
+- `tawhid` and `trinity` gain `elaborates` relations to their tradition's deity concept, and `ein-sof` a
+  `related_to` relation to `hashem`, per the ADR-0009 wiring; no other content changed in those entries.
+- New logo and favicon across the project (`assets/hierologia-logo.png`, `web/hierologia.png`,
+  `web/favicon.png`); the old SVG mark is removed.
+
 ## [0.25.0] - 2026-07-26
 
 Closing the Judaism dangling references from the coverage health-check: twelve entities spanning the modern
