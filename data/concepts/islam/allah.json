@@ -1,0 +1,133 @@
+{
+  "id": "allah",
+  "tradition": "islam",
+  "names": {
+    "primary": "Allah",
+    "original": "الله",
+    "transliteration": "Allāh",
+    "aliases": [
+      "God (Islam)"
+    ]
+  },
+  "category": "theology-proper",
+  "summary": "The concept of God in Islamic theology: Allah, the Arabic proper name of the one God, held by the tradition to be the sole creator and sustainer of all things, absolutely one, to whom alone worship and submission are owed.",
+  "description": "Allah is the Arabic proper name of God in Islam; the word predates Islam and is also used by Arabic-speaking Jews and Christians. The tradition's central claim about God is tawhid: God is absolutely one, without partner, offspring, or equal, classically anchored in Sura 112 and in Q 42:11, 'there is nothing like Him'. Islamic theology holds God to be transcendent yet near: beyond all likeness to creation, yet 'closer than the jugular vein' (Q 50:16), continuously sustaining all that exists (Q 2:255). The tradition ascribes to God the most beautiful names (al-asma al-husna, Q 59:22-24), conventionally enumerated as ninety-nine, which al-Ghazali treats as truly predicated of God and as templates for the servant's own virtue. How the divine attributes relate to the divine essence became the tradition's defining debate, treated at length in the entry on the names and attributes: the Mu'tazila held that affirming eternal attributes distinct from God's essence compromises divine unity, the Ash'ariyya affirmed eternal attributes subsisting in the essence without asking how, and the Athari (traditionist) school, in its own self-understanding preserving prophetic teaching without alteration, affirms every revealed description (including hand, face, and settling on the Throne) exactly as revealed, bila kayf, without distortion (tahrif), divestment (ta'til), asking how (takyif), or likening God to creation (tamthil). The tradition holds that God creates the world and continuously sustains it (Q 2:255). Worship (ibada) is presented by the Qur'an as the very purpose of human and jinn existence (Q 51:56), and 'islam' itself names submission to this God: worship is owed because God alone creates, sustains, and owns all things, so directing it elsewhere (shirk) is, in the tradition's terms, the one unforgivable wrong; Ibn Taymiyya articulates this as the distinction between acknowledging God as Lord (rububiyya) and devoting worship to Him alone (uluhiyya). On the grounding of God's existence, the Qur'an's own method is the ayat, signs in the cosmos and the self (Q 3:190-191, 41:53), which Fazlur Rahman reads as reminders addressed to an innate awareness rather than formal proofs; the kalam tradition built formal arguments upon this, above all the argument from the world's temporal origination (huduth), while the epistemology is itself school-divided: Maturidis hold reason can recognize God even absent revelation, Ash'aris tie the obligation to revelation's arrival, and Ibn Taymiyya distrusts kalam proofs, holding that the innate disposition (fitra, Q 30:30) already knows its Maker and needs only prophetic reminding.",
+  "editorial_notes": "Authored under ADR-0009 (deity concepts, one per tradition): this entry describes the God Muslims worship from the tradition's own self-understanding, with attribution markers throughout; the editor takes no position on any confessional claim, including the identity of referents across traditions. Three school-level disputes are attributed, not adjudicated: attribute ontology (Mu'tazila vs Ash'ari), the revealed descriptions (Athari bila kayf vs Ash'ari/Maturidi ta'wil or tafwid, with the Athari position presented on its own terms per the manual's balance rule), and the epistemology of knowing God (Maturidi reason, Ash'ari revelation-conditioned obligation, Taymiyyan fitra). Three-lens sourcing: classical primary texts (the Qur'an, al-Ghazali's Maqsad, Ibn Taymiyya's Wasitiyya), Western academic scholarship (Shihadeh's chapter on the existence of God, Hoover's Brill monograph on Ibn Taymiyya), and modern Muslim scholars (Rahman, Harvey, Yasien Mohamed). The fitra doctrine is described as a family of classical readings (per Yasien Mohamed's survey), not a single dogma. Harvey's monograph is cited at book level, not chapter level, per the verification actually performed. The compares_with notes are the editor's framing under ADR-0005 rules (shared question stated claims-first, difference named, nothing equated or ranked), not sourced comparative scholarship. Review pass 2026-09-15: the Hoover citation was corrected to the 2007 Brill monograph whose first chapter carries the cited material, the Athari formula was completed to the creed's fourfold form (tahrif, ta'til, takyif, tamthil), and school-level claims about divine action without a carrying source were removed.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "tawhid",
+      "note": "The doctrine of the absolute oneness of the God this entry describes."
+    },
+    {
+      "type": "related_to",
+      "target": "al-asma-wa-l-sifat",
+      "note": "The names and attributes ascribed to God, and the school debate over their ontology."
+    },
+    {
+      "type": "related_to",
+      "target": "islam",
+      "note": "Islam names the submission the tradition holds is owed to this God."
+    },
+    {
+      "type": "related_to",
+      "target": "fitra",
+      "note": "The innate disposition by which, in the tradition's account, humans already incline to recognize their Maker."
+    },
+    {
+      "type": "related_to",
+      "target": "kalam",
+      "note": "The discipline whose formal arguments (above all from the world's temporal origination) are held to ground God's existence rationally."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "shirk",
+      "note": "Directing worship to anything besides God, in the tradition's terms the one unforgivable wrong."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid-al-rububiyya",
+      "note": "The oneness of God's lordship: God alone creates, sustains, and governs all things."
+    },
+    {
+      "type": "related_to",
+      "target": "tawhid-al-uluhiyya",
+      "note": "The oneness of worship: devotion directed to God alone, the tradition's ground for why worship is owed."
+    },
+    {
+      "type": "compares_with",
+      "target": "hashem",
+      "note": "Both traditions claim the worship of the sole creator God in continuity with Abraham: Islamic theology affirms tawhid, with the Qur'an as final revelation and Muhammad as the last prophet; Judaism affirms the unity of God per the Shema, with Torah and covenant at Sinai; each tradition assesses the other's revelation claim differently."
+    },
+    {
+      "type": "compares_with",
+      "target": "god-in-christianity",
+      "note": "Both address which God is worshiped and what this God is like: Islamic theology affirms an absolute divine oneness admitting no persons and no incarnation; Christian theology confesses one God in three persons, self-revealed in the incarnate Christ."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic proclamation begins in 610 CE; the school-level articulation of the divine attributes unfolds from roughly the 8th to the 14th centuries CE."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an. Trans. M. A. S. Abdel Haleem. Oxford: Oxford University Press (Oxford World's Classics), 2004, rev. 2008. Key loci: Sura 112; Q 2:255; Q 42:11; Q 50:16; Q 51:56; Q 59:22-24; Q 30:30; Q 3:190-191; Q 41:53.",
+      "url": "https://global.oup.com/academic/product/the-quran-9780199535958",
+      "license": "Arabic text public domain; translation proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Shihadeh, Ayman. 'The Existence of God', in Tim Winter (ed.), The Cambridge Companion to Classical Islamic Theology. Cambridge: Cambridge University Press, 2008, pp. 197-217. On the kalam arguments for God's existence, especially from the temporal origination of the world (huduth).",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-classical-islamic-theology/existence-of-god/B62F5D411809DBA493CE81C2DC5200CB",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Rahman, Fazlur. Major Themes of the Qur'an. 2nd ed. Chicago: University of Chicago Press, 2009 (1st ed. 1980). Chapter One, 'God': the Qur'anic conception of divine unity, and the reading that the Qur'an offers signs and reminders addressed to an innate awareness rather than formal proofs.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo6826294.html",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Harvey, Ramon. Transcendent God, Rational World: A Maturidi Theology. Edinburgh: Edinburgh University Press, 2021. A contemporary constructive statement of the Maturidi position on God's nature and attributes, including the view that reason can know God's existence independently of revelation. Cited at book level.",
+      "url": "https://academic.oup.com/edinburgh-scholarship-online/book/42898",
+      "license": "Proprietary (open access edition available via OAPEN), cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Ghazali, Abu Hamid. al-Maqsad al-asna fi sharh asma' Allah al-husna. Trans. David B. Burrell and Nazih Daher, Al-Ghazali on the Ninety-Nine Beautiful Names of God. Cambridge: The Islamic Texts Society, 1992. Classical treatment of the divine names as truly predicated of God and as templates for human virtue.",
+      "url": "https://its.org.uk/catalogue/al-ghazali-on-the-ninety-nine-beautiful-names-of-god-hardback-copy/",
+      "license": "Classical text public domain; translation proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ibn Taymiyya. al-'Aqida al-Wasitiyya. Trans. Merlin Swartz, 'A Seventh-Century (A.H.) Sunni Creed: The 'Aqida Wasitiya of Ibn Taymiya', Humaniora Islamica 1 (1973): 91-131. The Athari creed on affirming all revealed names and attributes bila kayf, without tahrif, ta'til, takyif, or tamthil. Cited for the creed's position as a whole; the print journal was not directly accessed.",
+      "license": "Classical text public domain; translation proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hoover, Jon. Ibn Taymiyya's Theodicy of Perpetual Optimism. Leiden: Brill, 2007. Chapter One, 'Worship, Religious Epistemology and Theological Jurisprudence', including the section 'The Centrality of Worshipping God Alone': the rububiyya/uluhiyya distinction and the preference for fitra and revelation over kalam proofs. Chapter and section titles verified against the table of contents and the open-access text.",
+      "url": "https://www.jstor.org/stable/10.1163/j.ctt1w76tv7",
+      "license": "Proprietary (open access edition available), cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Mohamed, Yasien. 'The Interpretations of Fitrah'. Islamic Studies 34/2 (1995): 129-151. Survey of the classical range of interpretations of the innate disposition toward recognizing God. Content inferred from title and its use in secondary literature; article text not directly read.",
+      "url": "https://www.jstor.org/stable/20840202",
+      "license": "Proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

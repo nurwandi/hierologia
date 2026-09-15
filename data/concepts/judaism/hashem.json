@@ -1,0 +1,129 @@
+{
+  "id": "hashem",
+  "tradition": "judaism",
+  "names": {
+    "primary": "HaShem",
+    "original": "יהוה",
+    "transliteration": "YHWH",
+    "aliases": [
+      "God (Judaism)",
+      "The Tetragrammaton",
+      "YHWH",
+      "Adonai",
+      "The God of Israel"
+    ]
+  },
+  "category": "theology-proper",
+  "summary": "The concept of God in Judaism: the one God confessed in the Shema, creator of heaven and earth and covenant God of Israel, whose four-letter Name (the Tetragrammaton) is held too holy for ordinary pronunciation and is spoken of as Adonai or HaShem, 'the Name'.",
+  "description": "Judaism's confessional core is the Shema (Deuteronomy 6:4), the declaration that God is one; the tradition confesses this God as the creator of heaven and earth and as the covenant God who redeemed Israel from Egypt and gave the Torah at Sinai. In Judaism the handling of the divine Name is constitutive of the concept, not an appendix: the four-letter Name YHWH is revealed in Exodus 3, glossed there as 'Ehyeh asher Ehyeh', and treated by the rabbis as too holy for ordinary pronunciation. The Talmud (Kiddushin 71a) records the practice: the Name is written one way and read another, pronounced as Adonai in prayer and Scripture reading, its pronunciation transmitted to students only once or twice in seven years; the circumlocution HaShem ('the Name') extends this reticence into everyday speech, and this entry's id follows that usage. On what kind of God this is, Maimonides gives the classic formulation (Mishneh Torah, Yesodei ha-Torah 1): a necessarily existent, absolutely and non-numerically one, incorporeal God, with biblical anthropomorphisms read as 'the Torah speaking in the language of man'; in the Guide of the Perplexed (I.50-60) he holds the stronger position that only negations and attributes of action may be predicated of God. Incorporeality was not always uncontested: Sommer argues that some biblical texts assume divine embodiment and a fluid divine self, and Wyschogrod defends a modern account of God's corporeal indwelling in the people Israel; the tradition also carries a live polarity between the via negativa and the personal, pathos-filled God of the Bible and liturgy, restated in modern idiom by Heschel and mapped by Jacobs. Obedience takes the form of mitzvot: commanded acts grounded in the Sinai covenant, with avodah (service, originally sacrificial, later prayer) directed to God alone and idolatry (avodah zarah) as the paradigmatic breach; Maimonides counts knowing, loving, and fearing God among the commandments themselves, so that theology is itself commanded. On the grounding of God's existence, the tradition's liturgy and modern thinkers such as Heschel foreground historical revelation, the national revelation at Sinai and the covenantal memory transmitted through Israel, alongside which stand the medieval philosophical arguments: Saadia Gaon's kalam-style proof from the createdness of the world and Maimonides' demonstrations, attributed here as medieval rationalist strategies within the tradition.",
+  "editorial_notes": "Authored under ADR-0009 (deity concepts, one per tradition): this entry describes the God Jews worship from the tradition's own self-understanding, with attribution markers throughout; the editor takes no position on any confessional claim, including the identity of referents across traditions. The id follows the tradition's own everyday reverent usage (HaShem) rather than a vocalized form of the Tetragrammaton, consistent with the non-pronunciation practice the entry itself documents; the academic transliteration YHWH is carried in names and aliases for findability, and the vocalized form Yahweh is deliberately not used, a reverence-consistent choice documented here. Internal disputes are attributed, not adjudicated: biblical corporeality vs Maimonidean incorporeality (Sommer's academic thesis and Wyschogrod's constructive theology vs Yesodei ha-Torah), and the via negativa vs the personal God of liturgy (Maimonides vs Heschel, with Jacobs mapping the polarity). Three-lens sourcing: academic scholarship (Sommer, Halbertal and Margalit), classical primary texts (Kiddushin 71a and Yesodei ha-Torah ch. 1 read directly via Sefaria during research, the 2:1 locus confirmed during review; the Guide and Saadia cited at the section level actually verified), and modern Jewish thinkers (Heschel, Jacobs, Wyschogrod). Mishnah Sanhedrin 10:1 and Raavad's gloss on corporealists were deliberately not cited: they were not verified during research. The corporeality and via negativa disputes are summarized here in attributed form; ADR-0009 assigns their full treatment to doctrine entries, and this entry keeps only the summary. The compares_with notes are the editor's framing under ADR-0005 rules (shared question stated claims-first, difference named, nothing equated or ranked), not sourced comparative scholarship. Review pass 2026-09-15: the Yesodei ha-Torah citation was corrected to chs. 1-2, the Wyschogrod citation was corrected to the 1983 first-edition subtitle, unverifiable record URLs were dropped, and the comparison notes were reframed claims-first.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "shema",
+      "note": "The liturgical confession of the oneness of this God, recited twice daily."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "The commanded acts through which obedience to this God takes concrete form."
+    },
+    {
+      "type": "related_to",
+      "target": "brit",
+      "note": "The covenant at Sinai grounds both the obligation of the mitzvot and the relationship this entry describes."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "The kabbalistic designation of God as the Infinite beyond all description, a distinct register of the same tradition's God-concept."
+    },
+    {
+      "type": "compares_with",
+      "target": "allah",
+      "note": "Both traditions claim the worship of the sole creator God in continuity with Abraham: Judaism affirms the unity of God per the Shema, with Torah and covenant at Sinai; Islamic theology affirms tawhid, with the Qur'an as final revelation; each tradition assesses the other's revelation claim differently."
+    },
+    {
+      "type": "compares_with",
+      "target": "god-in-christianity",
+      "note": "Both traditions claim continuity with the God of Abraham and Israel: Judaism affirms the absolute unity of God per the Shema and does not recognize a triune structure or an incarnation; Christianity confesses the God of Israel as triune and self-revealed in Jesus Christ."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "Rooted in the biblical period; the non-pronunciation practice is attested in Second Temple and rabbinic sources, and the philosophical articulation runs from Saadia (10th century) through Maimonides (12th century)."
+  },
+  "sources": [
+    {
+      "citation": "Tanakh: Deuteronomy 6:4 (the Shema); Exodus 3:13-15 (the revelation of the Name, 'Ehyeh asher Ehyeh'); Exodus 20 (the Decalogue).",
+      "url": "https://www.sefaria.org/Deuteronomy.6.4",
+      "license": "Public domain (Hebrew text).",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Kiddushin 71a. The non-pronunciation tradition as rabbinic institution: the four-letter Name transmitted to students once in seven years, and the Name 'written with yod-heh-vav-heh but pronounced with alef-dalet-nun-yod' (read as Adonai). Read directly via Sefaria during research.",
+      "url": "https://www.sefaria.org/Kiddushin.71a",
+      "license": "Public domain (Talmudic text); Sefaria translations variously licensed.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Maimonides, Moses. Mishneh Torah, Hilkhot Yesodei ha-Torah (Laws of the Foundations of the Torah), chs. 1-2. God's existence as the foundation of foundations, absolute non-numerical unity, and incorporeality (1:1-9); the commandments to love and fear God (2:1-2), with knowing God commanded in 1:1 and 1:6. Chapter 1 read directly via Sefaria during research; the 2:1 locus for love and fear confirmed via Sefaria during review.",
+      "url": "https://www.sefaria.org/Mishneh_Torah%2C_Foundations_of_the_Torah.1",
+      "license": "Public domain (Hebrew text); Sefaria translations variously licensed.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Maimonides, Moses. The Guide of the Perplexed. Trans. Shlomo Pines. Chicago: University of Chicago Press, 1963. Part I, chs. 50-60: the doctrine of negative attributes, only negations and attributes of action predicable of God. Section attribution confirmed via secondary literature, not re-read during research.",
+      "license": "Classical text public domain; translation proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saadia Gaon. The Book of Beliefs and Opinions (Emunot ve-Deot). Trans. Samuel Rosenblatt, Yale Judaica Series 1. New Haven: Yale University Press, 1948. Treatise I (creation) and Treatise II (unity of the Creator): the earliest systematic Jewish philosophical defense of God's existence and unity, in kalam style. Treatise-level content per the standard description; not read line-by-line.",
+      "url": "https://yalebooks.co.uk/book/9780300044904/saadia-gaon/",
+      "license": "Classical text public domain; translation proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sommer, Benjamin D. The Bodies of God and the World of Ancient Israel. New York: Cambridge University Press, 2009. The academic thesis that some biblical texts assume divine embodiment and a fluid divine self, against which later incorporeality doctrine developed. Thesis confirmed via multiple academic reviews.",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/654856",
+      "license": "Proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Halbertal, Moshe and Avishai Margalit. Idolatry. Trans. Naomi Goldblum. Cambridge, MA: Harvard University Press, 1992. Jewish monotheism as defined against idolatry, and the Maimonidean reframing of idolatry as cognitive error about God. Scope confirmed via publisher description; not read line-by-line.",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674443136",
+      "license": "Proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Heschel, Abraham Joshua. God in Search of Man: A Philosophy of Judaism. New York: Farrar, Straus and Cudahy, 1955. A major modern articulation of the personal, covenantal God of Judaism and of revelation as the ground of Jewish faith. Broad themes confirmed via reviews; not read line-by-line.",
+      "license": "Proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Jacobs, Louis. A Jewish Theology. London: Darton, Longman & Todd, 1973. Chapters 'The Unity of God', 'The Via Negativa and God as Person', 'The Names of God', 'Revelation', 'Torah and Mitzvah' (titles verified from table of contents). A single modern-Jewish voice spanning the entry's full scope.",
+      "url": "https://booksof.louisjacobs.org/book/a-jewish-theology/",
+      "license": "Proprietary, cited for reference; chapter contents inferred from verified titles.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wyschogrod, Michael. The Body of Faith: Judaism as Corporeal Election. New York: Seabury Press, 1983 (later editions subtitled God in the People Israel). Modern Jewish counterpoint to Maimonidean abstraction: God's corporeal indwelling in the people Israel. Thesis and first-edition subtitle confirmed via the AJS Review record; not read line-by-line.",
+      "license": "Proprietary, cited for reference; not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

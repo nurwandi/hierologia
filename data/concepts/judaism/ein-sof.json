@@ -35,6 +35,11 @@
       "note": "Ein Sof is a central concept of Kabbalah, the tradition of Jewish esoteric and mystical theosophy in which the hidden infinite and the ten emanated sefirot form the account of the Godhead."
     },
     {
+      "type": "related_to",
+      "target": "hashem",
+      "note": "In Kabbalah's account, Ein Sof is the concealed infinite aspect of the God confessed in the Shema and worshipped in the tradition's religious life."
+    },
+    {
       "type": "compares_with",
       "target": "neoplatonism",
       "note": "Ein Sof and the Neoplatonic One both address the shared question of an ineffable, utterly transcendent source that lies beyond being and description and from which a derived, ordered manifestation proceeds; this link compares that question, not the answers, ranking and equating neither (neutrality #10). The difference is one of framing: Ein Sof is the hidden Godhead of Jewish Kabbalah, from which the ten sefirot emanate and through which the God of scripture and covenant becomes knowable and active, and it is approached through a radical negative theology; the One (to hen) of Plotinus and Neoplatonism is the first principle of a philosophical metaphysics, beyond being and thought, from which Intellect (Nous) and Soul proceed by emanation and to which the soul returns. Scholars note the historical contact (Neoplatonic emanation reached Jewish thought through figures such as Ibn Gabirol), but each is recorded as attributed to its tradition, and neither is treated as the measure of the other."
@@ -94,5 +99,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-23",
-  "updated": "2026-07-23"
+  "updated": "2026-09-15"
 }

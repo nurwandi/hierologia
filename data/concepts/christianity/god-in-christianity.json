@@ -1,0 +1,120 @@
+{
+  "id": "god-in-christianity",
+  "tradition": "christianity",
+  "names": {
+    "primary": "God (Christianity)",
+    "original": "Θεός",
+    "transliteration": "Theos",
+    "aliases": [
+      "The Triune God",
+      "God the Father, Son, and Holy Spirit"
+    ]
+  },
+  "category": "theology-proper",
+  "summary": "The concept of God in Christian theology: the one God, maker of heaven and earth, confessed as existing eternally as Father, Son, and Holy Spirit, held by the tradition to be the God of Israel definitively self-revealed in Jesus Christ.",
+  "description": "Christian theology confesses one God, the creator of all things visible and invisible, who exists eternally as three persons, Father, Son, and Holy Spirit, per the Nicene-Constantinopolitan Creed. The tradition holds this trinitarian confession to be monotheism, not tritheism: one divine being, with the Son homoousios (of one being) with the Father, a grammar consolidated in the fourth-century councils. The tradition teaches creation ex nihilo: God freely creates all that is from nothing, and is therefore not a part of the world but its transcendent source. The classical scholastic articulation ascribes to God simplicity, eternity, immutability, omnipotence, omniscience, and perfect goodness, alongside the scriptural identification of God as love (1 John 4:8), which Augustine develops in De Trinitate and Barth restates as 'the One who loves in freedom'. Christians hold that the God they worship is the God of Abraham, Isaac, and Jacob, the God of Israel, now self-revealed in Jesus Christ; the second-century rejection of Marcion, who severed the creator from the Father of Jesus, committed the church to this identity. The tradition commands worship of this God alone and holds worship to be owed to God as creator and redeemer; it is enacted in creed and liturgy (the Creed is confessed in worship, and the Spirit is 'worshipped and glorified' together with Father and Son), and the moral life is grounded in Jesus's two great commandments, love of God and love of neighbor, the first of which quotes Israel's Shema (Mark 12:29-30) and the second Leviticus 19:18 (Mark 12:31). On the grounding of God's existence the tradition carries two streams: a natural-theology stream holding that God's existence can be known by reason (Anselm's a priori Proslogion argument; Aquinas's five ways, arguing a posteriori from creatures, with Aquinas denying that God's existence is self-evident to us), and a revelation-only stream (Barth) holding that God is known solely through God's self-revelation in Christ.",
+  "editorial_notes": "Authored under ADR-0009 (deity concepts, one per tradition): this entry describes the God Christians worship from the tradition's own self-understanding, with attribution markers throughout; the editor takes no position on any confessional claim, including the identity of referents across traditions. The continuity claim (the God of Israel self-revealed in Christ) is recorded as the Christian claim, per neutrality principles #10 and #11. The natural theology vs revelation-only polarity (Anselm and Aquinas vs Barth) is attributed in the description; other internal disputes about the God-concept (the filioque, the divine simplicity debates) are assigned by ADR-0009 to the doctrine entries and are not absorbed here. The compares_with notes are the editor's framing under ADR-0005 rules (shared question stated claims-first, difference named, nothing equated or ranked), not sourced comparative scholarship. Three-lens sourcing: academic historians of doctrine (Pelikan, Ayres), the primary corpus (scripture, conciliar creeds in Tanner's Decrees, Augustine, Aquinas), and contemporary theologians (Barth, Hart, Kathryn Tanner). Aquinas ST I q.2 a.3 and the scriptural anchors were directly checked; secondary monographs not read line-by-line are rated medium per house convention. Review pass 2026-09-15: Anselm's argument reclassified as a priori, the Shema attribution narrowed to the first commandment, secondary-source confidence aligned to house convention, the Decrees URL removed (it resolved to the wrong volume), and a directly read scripture source added.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "trinity",
+      "note": "The doctrine articulating the triune being of the God confessed in the creeds."
+    },
+    {
+      "type": "related_to",
+      "target": "divine-simplicity",
+      "note": "The classical articulation of the divine attributes ascribed to this God."
+    },
+    {
+      "type": "related_to",
+      "target": "incarnation",
+      "note": "The tradition holds the incarnation to be God's supreme self-revelation and self-gift."
+    },
+    {
+      "type": "related_to",
+      "target": "five-ways",
+      "note": "Aquinas's five arguments that the existence of this God can be known by reason from creatures."
+    },
+    {
+      "type": "compares_with",
+      "target": "allah",
+      "note": "Both address which God is worshiped and what this God is like: Christian theology confesses one God in three persons, self-revealed in the incarnate Christ; Islamic theology affirms an absolute divine oneness admitting no persons and no incarnation."
+    },
+    {
+      "type": "compares_with",
+      "target": "hashem",
+      "note": "Both traditions claim continuity with the God of Abraham and Israel: Christianity confesses the God of Israel as triune and self-revealed in Jesus Christ; Judaism affirms the absolute unity of God per the Shema and does not recognize a triune structure or an incarnation."
+    }
+  ],
+  "historical_period": {
+    "start": 30,
+    "note": "Rooted in the worship of the earliest church within Second Temple Judaism; the trinitarian confession was consolidated at Nicaea (325) and Constantinople (381)."
+  },
+  "sources": [
+    {
+      "citation": "Scriptural anchors: Mark 12:29-31 (the two great commandments, the first quoting the Shema of Deuteronomy 6:4-5, the second Leviticus 19:18) and 1 John 4:8 ('God is love'). Verses read directly and confirmed.",
+      "url": "https://biblehub.com/mark/12-29.htm",
+      "license": "Public-domain scriptural text. Verses read directly and confirmed.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Treats the development of the doctrine of God, the trinitarian settlement, and the anti-Marcionite insistence that the creator God of Israel and the Father of Jesus Christ are the same God.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ayres, Lewis. Nicaea and its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004. On the emergence of pro-Nicene theology and the homoousios grammar; cautions against reading later East-West models back into the fourth century.",
+      "url": "https://global.oup.com/academic/product/nicaea-and-its-legacy-9780198755050",
+      "license": "Proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Norman P. (ed.). Decrees of the Ecumenical Councils. 2 vols. London / Washington DC: Sheed & Ward / Georgetown University Press, 1990. Vol. 1 contains the texts of Nicaea I (325) and Constantinople I (381) with the Nicene-Constantinopolitan Creed, and Chalcedon (451). Primary text for what the tradition confesses in worship; the conciliar texts themselves are the load-bearing material.",
+      "license": "Conciliar texts public domain; edition proprietary, cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Augustine of Hippo. The Trinity (De Trinitate). Trans. Edmund Hill, The Works of Saint Augustine I/5. Hyde Park, NY: New City Press, 2nd ed. 2012. Books 1-7 defend the trinitarian confession; Books 8-15 seek understanding through the image of God in the human mind; Book 8 develops love as a path to knowing God.",
+      "license": "Classical text public domain; translation proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Thomas Aquinas. Summa Theologiae, Prima Pars, qq. 2-26 (the one God) and qq. 27-43 (the triune God). Trans. Fathers of the English Dominican Province. ST I q.2 a.3 presents the five ways; q.3 divine simplicity; qq. 12-13 how God is known and named. q.2 a.3 directly consulted at the cited URL.",
+      "url": "https://www.newadvent.org/summa/1002.htm",
+      "license": "Public domain translation.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Barth, Karl. Church Dogmatics II/1, The Doctrine of God. Ed. G. W. Bromiley and T. F. Torrance. Edinburgh: T&T Clark, 1957. Divided into 'The Knowledge of God' and 'The Reality of God': knowledge of God grounded solely in God's self-revelation, and God's being as 'the One who loves in freedom'. Section structure confirmed; not read line-by-line.",
+      "url": "https://tftorrance.org/1957-110",
+      "license": "Proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hart, David Bentley. The Experience of God: Being, Consciousness, Bliss. New Haven: Yale University Press, 2013. A contemporary defense of classical theism: God not as one being among beings but the infinite source of being; defends divine simplicity against theistic personalism.",
+      "url": "https://yalebooks.yale.edu/book/9780300209358/the-experience-of-god/",
+      "license": "Proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Tanner, Kathryn. Jesus, Humanity, and the Trinity: A Brief Systematic Theology. Minneapolis: Fortress Press, 2001. A contemporary account of God as the transcendent, non-competitive giver of gifts, whose self-giving culminates in the incarnation. Content characterization inferred from confirmed table of contents and reviews.",
+      "url": "https://www.fortresspress.com/store/product/9780800632939/Jesus-Humanity-and-the-Trinity",
+      "license": "Proprietary, cited for reference; relevant passages not read line-by-line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}
