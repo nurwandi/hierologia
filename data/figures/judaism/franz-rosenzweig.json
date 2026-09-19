@@ -1,0 +1,84 @@
+{
+  "id": "franz-rosenzweig",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Franz Rosenzweig",
+    "original": "פרנץ רוזנצווייג",
+    "transliteration": "Franz Rosenzweig",
+    "aliases": [
+      "Franz Louis August Rosenzweig"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "theologian",
+    "educator",
+    "biblical translator"
+  ],
+  "summary": "Franz Rosenzweig (1886-1929) was a German Jewish philosopher whose The Star of Redemption (Der Stern der Erlosung, 1921) sets out a system built on God, world, and man and their relations of creation, revelation, and redemption, and whose 1925 essay on the 'new thinking' presented a philosophy grounded in time, speech, and dialogue. He founded the Freies Judisches Lehrhaus in Frankfurt in 1920 and, with Martin Buber, began a German translation of the Hebrew Bible, working until his death from a paralyzing illness in 1929.",
+  "description": "Franz Rosenzweig, born in Kassel in 1886 to an assimilated German Jewish family, trained as a historian and philosopher and wrote a doctoral study, later published as Hegel und der Staat (1920), under Friedrich Meinecke. Nahum Glatzer's classic presentation of his life and thought recounts the crisis of 1913 in which Rosenzweig, having come close to converting to Christianity, resolved after attending a Yom Kippur service to remain a Jew and turned instead to an intensive engagement with Jewish sources (on Glatzer's telling he had earlier held that one should enter Christianity, if at all, only 'as a Jew'); this account of the 1913 turn is given here as Glatzer's biographical narrative, drawn from Rosenzweig's letters. During the First World War Rosenzweig served on the Balkan front, and by Glatzer's account he began drafting his major work on army postcards sent home.\n\nThat work, Der Stern der Erlosung (The Star of Redemption), was published by J. Kauffmann in Frankfurt in 1921. It opens from death: 'Vom Tode, von der Furcht des Todes, hebt alles Erkennen des All an' ('From death, from the fear of death, all knowledge of the All begins'), a sentence read directly for this entry in the public-domain German text, and it charges philosophy 'from Ionia to Jena' with evading the fear of the mortal individual. The book is built in three parts, treating God, world, and man as three irreducible elements and then their relations, which Rosenzweig names creation, revelation, and redemption, and giving Judaism and Christianity distinct roles within the whole; Benjamin Pollock's monograph argues that the Star is committed to the systematic task of grasping 'the All' that Rosenzweig inherited from German Idealism, even as he broke with Idealism's method. In his 1925 essay 'Das neue Denken' ('The New Thinking'), written as an afterword to the Star, Rosenzweig described his method as a 'speech-thinking' (Sprachdenken) that, unlike the timeless thinking of the philosophical tradition, takes time and the spoken word seriously and needs the other person; this characterization is given as Rosenzweig's own, as reported in the scholarship.\n\nRosenzweig's practical work matched the philosophy. In 1920 he founded and led the Freies Judisches Lehrhaus in Frankfurt, an open house of Jewish study for adult learners in which teachers and students were to learn from the sources together; Martin Buber was among those he drew in to teach. From early 1922 he suffered a progressive paralysis (amyotrophic lateral sclerosis) that eventually left him able to communicate only with great difficulty, yet he continued to work, translating Judah Halevi's poems and, from 1925, undertaking with Buber a German translation of the Hebrew Bible (Die Schrift) that sought to carry the spoken quality and structure of the Hebrew into German; the translation had reached the book of Isaiah when Rosenzweig died in Frankfurt in December 1929, and Buber completed it alone in 1961. The pair's essays on the translation are collected in English as Scripture and Translation. Rosenzweig is presented here on Judaism's own terms as a philosopher and educator of the German-Jewish renaissance, with the biographical and philosophical scholarship recorded alongside as attributed sources.",
+  "editorial_notes": "This entry presents Rosenzweig on Judaism's own terms as a philosopher, educator, and translator (neutrality #1, #4, #6). The 1913 near-conversion and Yom Kippur turn is given explicitly as Glatzer's biographical narrative drawn from Rosenzweig's letters, not as an editorially established fact. The Star's assignment of distinct roles to Judaism and Christianity is stated as the work's own position and is not adjudicated; no tradition is ranked (neutrality #10-#11). The 'new thinking' and 'speech-thinking' are given as Rosenzweig's self-characterization as reported in the scholarship.\n\nHONESTY / status: this entry is draft, aimed at reviewed, NOT verified-eligible on the strength of what was openly read. The German Der Stern der Erlosung (Kauffmann, 1921) is in the public domain (Rosenzweig died in 1929) and an open German text was consulted directly: the opening sentence of the Einleitung was read and is quoted verbatim ('Vom Tode, von der Furcht des Todes, hebt alles Erkennen des All an'), and the consulted page carries the complete First Part and the table of contents of all three parts. Only that much was read; the rest of the Star was NOT read line-by-line, so the summary of the system (elements; creation, revelation, redemption; the roles of Judaism and Christianity) rests on the English translations as verified-to-exist works and on Pollock's monograph, all rated medium. The English translations (Hallo 1971; Galli 2005), Glatzer's biography-anthology, Pollock's monograph, and Scripture and Translation were verified to exist and be on-topic via publisher and library records but not read line-by-line; Scripture and Translation carries the same medium rating it holds in the martin-buber entry. The 'Das neue Denken' (1925, in the journal Der Morgen) characterization is reported at the level of the scholarship, without page-level claims. Sources triangulate three lenses per neutrality #8-#9: (a) the primary corpus (the open German Stern, its English translations, Scripture and Translation); (b) academic scholarship (Pollock, Cambridge, 2009); (c) contemporary Jewish scholarship (Glatzer's presentation, reissued with a foreword by Paul Mendes-Flohr). No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: martin-buber, tanakh, and i-and-thou all exist under data/.",
+  "lifespan": {
+    "birth": 1886,
+    "death": 1929,
+    "note": "1886-1929 CE. Born in Kassel; active in Berlin and Frankfurt, where he founded the Freies Judisches Lehrhaus in 1920; from early 1922 progressively paralyzed by amyotrophic lateral sclerosis; died in Frankfurt in December 1929."
+  },
+  "relations": [
+    {
+      "type": "contemporary_of",
+      "target": "martin-buber",
+      "note": "Rosenzweig drew Buber into teaching at the Frankfurt Lehrhaus and from 1925 collaborated with him on the German translation of the Hebrew Bible (Die Schrift); their essays on the work are collected as Scripture and Translation. Both were figures of the German-Jewish renaissance of the interwar period."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "With Buber, Rosenzweig undertook a German translation of the Hebrew Bible that sought to carry the spoken quality and structure of the Hebrew into German; at his death in 1929 the translation had reached Isaiah, and Buber completed it alone in 1961."
+    },
+    {
+      "type": "related_to",
+      "target": "i-and-thou",
+      "note": "Buber's I and Thou (1923) grew in part out of lectures Buber gave at Rosenzweig's Lehrhaus in 1922, and Rosenzweig read and commented on drafts of the book; the correspondence is documented in Rivka Horwitz's study of the work's genesis. Recorded as documented intellectual exchange between the two thinkers."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Rosenzweig, Franz. Der Stern der Erlosung. Frankfurt am Main: J. Kauffmann, 1921 (second edition 1930). The primary text, in the public domain (the author died in 1929). An open German text was consulted directly for this entry: the opening sentence of the Einleitung was read and verified verbatim, 'Vom Tode, von der Furcht des Todes, hebt alles Erkennen des All an' ('From death, from the fear of death, all knowledge of the All begins'), and the consulted page carries the complete First Part (Die Elemente) and the table of contents of all three parts. Cited at that level only; the remainder of the work was not read line-by-line.",
+      "url": "http://www.roji.org/rosenzweig/DerStern.html",
+      "license": "German original in the public domain (author died 1929). Opening of the Einleitung read directly (2026-09-15).",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Rosenzweig, Franz. The Star of Redemption. Translated by William W. Hallo. New York: Holt, Rinehart and Winston, 1971 (from the second edition of 1930; reissued Notre Dame: University of Notre Dame Press, 1985); and The Star of Redemption. Translated by Barbara E. Galli, with a foreword by Michael Oppenheim and an introduction by Elliot R. Wolfson. Modern Jewish Philosophy and Religion: Translations and Critical Studies. Madison: University of Wisconsin Press, 2005. Cited as the standard English translations through which the work's system (God, world, and man; creation, revelation, and redemption; the roles of Judaism and Christianity) is described here. Both verified to exist and be on-topic via publisher and library records (Notre Dame Press; University of Wisconsin Press), not read line-by-line.",
+      "url": "https://uwpress.wisc.edu/Books/T/The-Star-of-Redemption2",
+      "license": "Proprietary translations; cited for reference (publisher pages).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Glatzer, Nahum N. Franz Rosenzweig: His Life and Thought. New York: Schocken Books, 1953 (revised 1961; third edition, Indianapolis: Hackett Publishing, 1998, with a foreword by Paul Mendes-Flohr). The classic presentation of Rosenzweig's life through his letters and writings, the source of the standard biographical narrative used here: the 1913 crisis and Yom Kippur turn, the drafting of the Star on postcards from the Balkan front, the founding and leadership of the Freies Judisches Lehrhaus in Frankfurt (1920), the paralysis from 1922, and the Bible translation with Buber reaching Isaiah at his death in 1929. Verified to exist and be on-topic (Hackett Publishing; library records), not read line-by-line.",
+      "url": "https://hackettpublishing.com/religion/franz-rosenzweig",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pollock, Benjamin. Franz Rosenzweig and the Systematic Task of Philosophy. New York: Cambridge University Press, 2009 (xiii + 338 pp., ISBN 9780521517096). An academic monograph arguing that the Star of Redemption is devoted to the systematic task of grasping 'the All,' a conception of philosophy Rosenzweig inherited from German Idealism even as he broke with its method; cited as the academic lens on the Star's structure and aims and on the 'new thinking.' Verified to exist and be on-topic (Cambridge University Press; reviews in the Journal of Religion and Notre Dame Philosophical Reviews), not read line-by-line.",
+      "url": "http://www.cambridge.org/9780521517096",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Buber, Martin, and Franz Rosenzweig. Scripture and Translation. Translated by Lawrence Rosenwald with Everett Fox. Indiana Studies in Biblical Literature. Bloomington: Indiana University Press, 1994 (German essays originally collected as Die Schrift und ihre Verdeutschung, Berlin: Schocken, 1936). Cited as the primary corpus for Buber and Rosenzweig's account of their German translation of the Hebrew Bible (Die Schrift). Verified to exist and be on-topic (Indiana University Press), not read line-by-line; carries the same medium rating it holds in the martin-buber entry.",
+      "url": "https://iupress.org/9780253312723/scripture-and-translation/",
+      "license": "Proprietary translation of proprietary essays; cited for reference.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

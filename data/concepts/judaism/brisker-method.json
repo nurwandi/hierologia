@@ -1,0 +1,79 @@
+{
+  "id": "brisker-method",
+  "tradition": "judaism",
+  "names": {
+    "primary": "The Brisker Method",
+    "original": "דרך בריסק",
+    "transliteration": "derekh Brisk",
+    "aliases": [
+      "the Brisker derekh",
+      "the analytic method",
+      "the conceptual method of Talmud study",
+      "lomdus (in the Lithuanian yeshiva sense)"
+    ]
+  },
+  "category": "method of Talmud study (rabbinic learning)",
+  "summary": "The Brisker method is the analytic, conceptual approach to Talmud study developed by Rabbi Chaim Soloveitchik of Brisk (1853-1918), who taught at the Volozhin yeshiva and then served as rabbi of Brisk (Brest-Litovsk). Instead of harmonizing texts case by case, it resolves difficulties, classically apparent contradictions in Maimonides' Mishneh Torah, by precise definition and categorization of the underlying legal concepts, for example distinguishing whether an obligation bears on the person (gavra) or on the object (cheftza), and it became the dominant mode of advanced learning in the Lithuanian-style yeshiva world.",
+  "description": "The Brisker method (derekh Brisk) is the mode of Talmudic analysis associated with Rabbi Chaim Soloveitchik (1853-1918), called Reb Chaim Brisker, who taught at the Volozhin yeshiva from the 1880s until its closure in 1892 and thereafter served as rabbi of Brisk (Brest-Litovsk), the town from which the method takes its name. Norman Solomon's monograph on the 'analytic movement' treats Soloveitchik as the founder of a circle of Lithuanian scholars who shared a distinctive style of learning and traces the method through his students and successors.\n\nIn the scholarly account, the method's signature is conceptual analysis rather than textual harmonization. Where earlier commentators typically resolved a difficulty by reconciling the wording of texts or distinguishing the cases before them, the Brisker approach asks what legal categories underlie the rule and resolves the difficulty by showing that two apparently conflicting sources rest on two distinct concepts. Characteristic tools include the two-dinim analysis, splitting what looks like one law into two independent principles, and paired distinctions such as that between an obligation resting on the person (gavra) and one attaching to the object (cheftza). Chaim Saiman's study of the 'turn to conceptualism' in nineteenth-century Jewish law describes how the Briskers recast the multitude of detailed halakhic rules into a system of abstract, autonomous legal constructs, and draws the comparison, offered as the scholar's analysis, with the conceptual legal science of the same era in European and American law. The method's classic literary monument is Soloveitchik's novellae on Maimonides, Chiddushei Rabbenu Chaim ha-Levi al ha-Rambam, published posthumously by his son in Brisk in 1936, in which apparent contradictions within the Mishneh Torah are resolved by conceptual definition; within the yeshiva world the work is treated as the model of the method.\n\nThe method arose in the world of the Lithuanian yeshivas whose prototype was Volozhin, and after Volozhin's closure it spread with Soloveitchik's students through the yeshivas of Lithuania and beyond, becoming, in the account of historians of the yeshiva movement such as Shaul Stampfer and in Solomon's study, the dominant style of advanced Talmud study (lomdus) in Lithuanian-style yeshivas, a dominance that continues in their successor institutions. It was carried into twentieth-century America by Soloveitchik's descendants, among them his grandson Joseph B. Soloveitchik, who taught in the method at Yeshiva University. Within the tradition the method has also had critics, who preferred older text-centered or halakhah-centered modes of study; Solomon's monograph records the debates around the analytic style. Those assessments, favorable and critical alike, are recorded here as attributed positions within the tradition and the scholarship, and are not adjudicated.",
+  "editorial_notes": "This entry presents the Brisker method on the tradition's own terms as the analytic, conceptual approach to Talmud study developed by Chaim Soloveitchik of Brisk (neutrality #1, #4, #6). Its dominance in Lithuanian-style yeshivas is stated as the characterization of the historians (Solomon, Stampfer, Saiman), and the debates within the tradition over the analytic style, both the method's prestige and its critics' preference for older modes of study, are recorded as attributed positions and NOT adjudicated. Saiman's comparison of Brisker conceptualism with nineteenth-century legal science is marked as the scholar's own analysis.\n\nHONESTY / status: this entry is draft, aimed at reviewed, NOT verified-eligible. The primary text, Chiddushei Rabbenu Chaim ha-Levi al ha-Rambam (Brisk, 1936, posthumous), was NOT read for this entry: it is a Hebrew rabbinic work not found on Sefaria at the time of writing, and it is cited as verified to exist and be on-topic via bibliographic and auction-house records of the 1936 first edition, rated MEDIUM. The characterizations of the method (conceptual categorization, two dinim, gavra/cheftza, the resolution of contradictions in the Mishneh Torah) are given at the level of the secondary scholarship (Solomon and Saiman), also rated MEDIUM (verified to exist and be on-topic via publisher, library, and journal records, not read line-by-line). No high rating is claimed for any source. Sources triangulate three lenses per neutrality #8-#9: (a) academic scholarship (Solomon, The Analytic Movement, Scholars Press, 1993; Stampfer, Lithuanian Yeshivas of the Nineteenth Century, Littman, 2012, which carries the same medium rating it holds in the volozhin-yeshiva entry); (b) the primary corpus (Chiddushei Rabbenu Chaim ha-Levi, Brisk, 1936); (c) a contemporary Jewish scholar (Saiman, 'Legal Theology,' Journal of Law and Religion, 2006). No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: joseph-soloveitchik, volozhin-yeshiva, torah-study, and talmud all exist under data/; the first two carry reciprocal related_to edges to this concept.",
+  "historical_period": {
+    "start": 1880,
+    "note": "The method took shape in Chaim Soloveitchik's teaching at the Volozhin yeshiva (from the 1880s until its closure in 1892) and in his rabbinate in Brisk (1892-1918); it spread through the Lithuanian yeshivas in the early twentieth century and remains the dominant style of advanced study in their successor institutions, so no end year is given."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "volozhin-yeshiva",
+      "note": "Chaim Soloveitchik developed and taught the method at the Volozhin yeshiva, the prototype of the Lithuanian yeshivas, before its closure in 1892; the volozhin-yeshiva entry records the reciprocal edge, describing the yeshiva as the cradle of the method."
+    },
+    {
+      "type": "related_to",
+      "target": "joseph-soloveitchik",
+      "note": "Joseph B. Soloveitchik, Chaim Soloveitchik's grandson, taught Talmud in the Brisker method for decades as rosh yeshiva at Yeshiva University, carrying it into American Modern Orthodoxy; the joseph-soloveitchik entry records the reciprocal edge."
+    },
+    {
+      "type": "related_to",
+      "target": "torah-study",
+      "note": "The Brisker method is a mode of the advanced Torah study (lomdus) that the Lithuanian tradition holds as the supreme religious value; it defines how, not whether, that study is pursued in the yeshivas descended from Volozhin."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The method is an approach to the study of the Talmud and its codifiers, classically applied to resolving apparent contradictions in Maimonides' Mishneh Torah by conceptual definition and categorization."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Solomon, Norman. The Analytic Movement: Hayyim Soloveitchik and his Circle. South Florida Studies in the History of Judaism 58. Atlanta: Scholars Press, 1993 (ISBN 9781555407643; based on the author's University of Manchester doctoral thesis). The standard academic monograph on the analytic (Brisker) movement, treating Hayyim Soloveitchik as its founder, analyzing the method's conceptual style through the work of the rabbis of his circle, and recording the debates around the analytic style within the tradition; the load-bearing academic source for the method's character, transmission, and reception. Verified to exist and be on-topic (Scholars Press; HathiTrust and university library catalog records), not read line-by-line.",
+      "url": "https://catalog.hathitrust.org/Record/101953373",
+      "license": "Proprietary; cited for reference (library catalog record).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saiman, Chaim N. 'Legal Theology: The Turn to Conceptualism in Nineteenth-Century Jewish Law.' Journal of Law and Religion 21, no. 1 (2005/2006): 39-100. A peer-reviewed study by a contemporary Jewish scholar of law describing how the Briskers recast the detailed rules of halakhah into a system of abstract, autonomous legal constructs, and comparing this turn, as the author's own analysis, with the conceptual legal science of the same era; cited for the account of Brisker conceptualism, including the categorization of obligations (such as the person/object distinction), and its intellectual context. Verified to exist and be on-topic (Cambridge Core record; SSRN and Villanova repository copies), not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-law-and-religion/article/abs/legal-theology-the-turn-to-conceptualism-in-nineteenthcentury-jewish-law/0C8C41834C6C2354EB582D5F70B11421",
+      "license": "Proprietary; cited for reference (journal record); an author copy circulates via SSRN.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Soloveitchik, Chaim (Hayyim ha-Levi Soloveitchik of Brisk). Chiddushei Rabbenu Chaim ha-Levi al ha-Rambam (Novellae of Rabbenu Chaim ha-Levi on Maimonides' Mishneh Torah). Brisk, 1936 (first edition, published posthumously by his son R. Moshe Soloveitchik; the author died in 1918). The classic literary monument of the Brisker method, resolving apparent contradictions within the Mishneh Torah by conceptual definition; treated within the yeshiva world as the model of the method. Cited as the primary corpus, verified to exist and be on-topic via bibliographic and auction-house records of the 1936 Brisk first edition; NOT read for this entry (no open digitized text was located at the time of writing).",
+      "url": "https://kedem-auctions.com/en/content/chiddushei-rabbeinu-chaim-halevi-brisk-1936",
+      "license": "Hebrew rabbinic work, first printed 1936; cited for reference (bibliographic record of the first edition). Not read.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Stampfer, Shaul. Lithuanian Yeshivas of the Nineteenth Century: Creating a Tradition of Learning. Translated by Lindsey Taylor-Guthartz. Oxford and Portland: The Littman Library of Jewish Civilization, 2012 (ISBN 9781906764609). The standard scholarly history of the Lithuanian yeshivas, treating Volozhin, where Chaim Soloveitchik taught until the 1892 closure, and the world of learning in which the analytic method arose and spread; cited as the academic-historian lens on the method's institutional setting. Verified to exist and be on-topic (Littman Library records), not read line-by-line; carries the same medium rating it holds in the volozhin-yeshiva entry.",
+      "url": "https://www.magnespress.co.il/en/book/Lithuanian_Yeshivas_of_the_Nineteenth_Century-3802",
+      "license": "Proprietary; cited for reference (publisher / library record). ISBN 9781906764609.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

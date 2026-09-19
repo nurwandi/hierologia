@@ -1,0 +1,93 @@
+{
+  "id": "holy-spirit",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Holy Spirit",
+    "original": "Πνεῦμα Ἅγιον / Spiritus Sanctus",
+    "transliteration": "Pneuma Hagion",
+    "aliases": [
+      "Holy Ghost",
+      "Spirit of God",
+      "Spirit of truth",
+      "the Paraclete (as promised in the Gospel of John)",
+      "Third person of the Trinity"
+    ]
+  },
+  "category": "pneumatology",
+  "summary": "The Holy Spirit is confessed in mainstream Christian tradition as the third person of the Trinity, fully God together with the Father and the Son. The Nicene-Constantinopolitan Creed (381) confesses the Spirit as 'the Lord and Giver-of-Life, who proceeds from the Father, who with the Father and the Son together is worshipped and glorified, who spoke by the prophets.' This entry reports the tradition's confession and its scriptural basis without adjudicating them.",
+  "description": "In Christian confession the Holy Spirit (Greek Pneuma Hagion, Latin Spiritus Sanctus, in older English 'Holy Ghost') is the third person of the Trinity: one God existing eternally as Father, Son, and Holy Spirit. The normative creedal statement is the third article of the Nicene-Constantinopolitan Creed, promulgated at the First Council of Constantinople (381), read verbatim for this entry: 'And [we believe] in the Holy Ghost, the Lord and Giver-of-Life, who proceeds from the Father, who with the Father and the Son together is worshipped and glorified, who spoke by the prophets.' The tradition takes the clause 'worshipped and glorified' together with Father and Son to confess the Spirit's full divinity, extending to the Spirit the logic that Nicaea (325) had applied to the Son; this is the tradition's confession, reported here and not adjudicated.\n\nThe scriptural presentation on which the tradition rests is read verbatim here. In the farewell discourse of the Gospel of John, Jesus promises the Spirit under the title Paraclete: 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth' (John 14:16-17, KJV; 'another Helper', ESV); 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you' (John 14:26, KJV); and 'when the Spirit of truth comes, He will guide you into all truth' (John 16:13). In the Pentecost narrative of Acts, 'they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them' (Acts 2:1-4), and Peter's preaching links baptism with 'the gift of the Holy Spirit' (Acts 2:38). Paul presents the Spirit as the giver and distributor of the church's gifts: 'There are different gifts, but the same Spirit', gifts that 'are the work of one and the same Spirit, who apportions them to each one as He determines' (1 Corinthians 12:4-11), and 'in one Spirit we were all baptized into one body' (12:13).\n\nThe doctrinal articulation of the Spirit's divinity belongs chiefly to the fourth century. Basil of Caesarea's treatise On the Holy Spirit defended the practice of glorifying the Spirit together with the Father and the Son against contemporaries who denied the Spirit full divine honor (labelled Pneumatomachians, 'Spirit-fighters', in the tradition's heresiological vocabulary); the Council of Constantinople (381) then gave the confession its creedal form. A later and still unresolved dispute concerns the Spirit's procession: the Latin West added Filioque ('and the Son') to the creed's procession clause, while the Greek East holds to procession from the Father alone, a question that remains church-dividing and is treated in its own entry. Throughout, the Spirit's divinity, worship, and work are presented here as the Christian tradition's confession, on its own terms.",
+  "editorial_notes": "This entry states the doctrine of the Holy Spirit on the tradition's own terms (neutrality #6): the Spirit's full divinity is the tradition's creedal confession, reported and attributed, never asserted or denied in the editor's voice (neutrality #1, #2). The Filioque dispute is named as a live division between East and West and is not resolved here; its substance belongs to the filioque entry.\n\nSourcing triangulates the three Christian lenses per neutrality #8: (a) academic history of doctrine (Pelikan vol. 1, on the fourth-century settlement of the doctrine of the Spirit); (b) the primary corpus, namely the scriptural texts and the creed of 381, plus Basil's On the Holy Spirit; (c) a contemporary theologian (Congar's three-volume pneumatology). No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: two sources are rated high because they were read verbatim for this entry. The scriptural anchors were read line by line at biblehub.com and confirmed word for word: John 14:16 'another Comforter' (KJV) / 'another Helper' (ESV), 14:17 'the Spirit of truth'; John 14:26 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance'; John 16:13 'He will guide you into all truth'; Acts 2:4 'they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them'; 1 Corinthians 12:4 'There are different gifts, but the same Spirit' and 12:11 'one and the same Spirit, who apportions them to each one as He determines'. The creed's third article was read verbatim in the NPNF2 vol. 14 text of the First Council of Constantinople at newadvent.org: 'the Lord and Giver-of-Life, who proceeds from the Father, who with the Father and the Son together is worshipped and glorified, who spoke by the prophets.' Basil's On the Holy Spirit, Pelikan, and Congar are rated medium: verified to exist and be on-topic, not read line by line. This entry is referenced by paraclete.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "trinity",
+      "note": "Confessed in the Nicene-Constantinopolitan tradition as the third person of the Trinity, worshipped and glorified together with the Father and the Son; reported as the tradition's confession."
+    },
+    {
+      "type": "related_to",
+      "target": "paraclete",
+      "note": "The Paraclete is the title Jesus gives the promised Holy Spirit in the farewell discourse of John 14-16; mainstream Christian tradition identifies the Paraclete with the Holy Spirit."
+    },
+    {
+      "type": "related_to",
+      "target": "filioque",
+      "note": "The procession of the Spirit (from the Father alone, or from the Father and the Son) is the point at issue in the Filioque dispute between the Latin West and the Greek East; named here as a live division, not resolved."
+    },
+    {
+      "type": "related_to",
+      "target": "god-in-christianity",
+      "note": "The Spirit is confessed as fully God, one of the three persons of the one God Christians worship."
+    },
+    {
+      "type": "related_to",
+      "target": "baptism",
+      "note": "Baptism is administered in the triune name including the Spirit (Matthew 28:19), and Acts 2:38 links baptism with 'the gift of the Holy Spirit'; reported as the tradition's practice and text."
+    }
+  ],
+  "historical_period": {
+    "start": 30,
+    "end": 381,
+    "note": "Presented in the first-century New Testament writings (the Johannine farewell discourse, the Pentecost narrative of Acts, the Pauline letters); the creedal confession of the Spirit's worship and glory was consolidated at the First Council of Constantinople (381). The end date marks the creedal settlement, not the end of the doctrine's history."
+  },
+  "sources": [
+    {
+      "citation": "Scriptural anchors, read verbatim: John 14:16-17 ('another Comforter', KJV; 'another Helper', ESV; 'the Spirit of truth'); John 14:26 ('But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance'); John 16:13 ('He will guide you into all truth'); Acts 2:1-4 ('they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them') and Acts 2:38 ('the gift of the Holy Spirit'); 1 Corinthians 12:4-13 ('There are different gifts, but the same Spirit'; 'one and the same Spirit, who apportions them to each one as He determines'; 'in one Spirit we were all baptized into one body'). Primary scriptural texts the confession rests on.",
+      "url": "https://biblehub.com/john/14-16.htm",
+      "license": "Underlying Greek text public domain; the King James Version is public domain; the Berean Standard Bible is released for free use. Read line by line at biblehub.com.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The First Council of Constantinople (381), the Nicene-Constantinopolitan Creed, third article, in Nicene and Post-Nicene Fathers, Second Series, Vol. 14 (The Seven Ecumenical Councils). Read verbatim: 'And [we believe] in the Holy Ghost, the Lord and Giver-of-Life, who proceeds from the Father, who with the Father and the Son together is worshipped and glorified, who spoke by the prophets.' Primary conciliar text of the tradition's confession of the Spirit.",
+      "url": "https://www.newadvent.org/fathers/3808.htm",
+      "license": "Conciliar text and the NPNF2 translation are public domain; read line by line at newadvent.org.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Basil of Caesarea. On the Holy Spirit (De Spiritu Sancto), c. 375. Trans. in Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Fourth-century primary treatise defending the glorification of the Spirit together with the Father and the Son against those who denied the Spirit full divine honor; foundational to the creedal settlement of 381. Verified to exist and be on-topic, relevant passages not read line by line.",
+      "url": "https://www.newadvent.org/fathers/3203.htm",
+      "license": "Classical Greek text and NPNF2 translation public domain; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine, Vol. 1: The Emergence of the Catholic Tradition (100-600). Chicago: University of Chicago Press, 1971. Treats the fourth-century controversy over the divinity of the Holy Spirit and the settlement at Constantinople (381). Academic history-of-doctrine lens.",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo3799466.html",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Congar, Yves. I Believe in the Holy Spirit. 3 vols. Trans. David Smith. New York: Seabury, 1983; combined edition, New York: Crossroad, 1997. A comprehensive modern treatise on pneumatology by a major twentieth-century Catholic theologian, covering the scriptural witness, the patristic development, and the East-West procession dispute. Contemporary-theologian lens; verified to exist and be on-topic, not read line by line.",
+      "url": "https://archive.org/details/ibelieveinholysp0000cong",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

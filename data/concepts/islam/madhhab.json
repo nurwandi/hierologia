@@ -1,0 +1,95 @@
+{
+  "id": "madhhab",
+  "tradition": "islam",
+  "names": {
+    "primary": "Madhhab",
+    "original": "المذهب",
+    "transliteration": "madhhab",
+    "aliases": [
+      "madhab",
+      "school of law",
+      "legal school",
+      "school of jurisprudence",
+      "rite"
+    ]
+  },
+  "category": "law and society",
+  "summary": "A madhhab (literally a way taken or followed) is a school of Islamic law: a body of legal doctrine (fiqh) and methodology (usul) transmitted from a founding authority and carried by a community of jurists who work within it. In Sunni Islam four schools survive as living traditions, the Hanafi, Maliki, Shafiʿi, and Hanbali, which in the Sunni self-understanding recognize one another as valid; Twelver Shiʿa follow the Jaʿfari school, named for the imam Jaʿfar al-Sadiq. Modern scholarship, notably Christopher Melchert, argues that the classical schools crystallized as organized traditions only in the early tenth century CE, well after their eponyms. The relation of loyalty to a school's established doctrine (taqlid) to independent derivation from the sources (ijtihad) is a long internal debate, attributed here and not adjudicated.",
+  "description": "Madhhab (from the root dh-h-b, 'to go'; the noun means a way taken, and as a technical term a school of law) names, in the tradition's own usage, an organized tradition of jurisprudence: a cumulative body of legal doctrine (fiqh) and legal methodology (usul al-fiqh) traced to a founding authority, transmitted through teachers and texts, and carried by jurists who identify with it, so that a Muslim's practice of the law is ordinarily mediated by a school. The schools differ both in concrete rulings and at the level of method, in how they weight the sources and which disputed interpretive principles they admit, which is one reason their rulings diverge.\n\nIn Sunni Islam four madhhabs survive as living traditions, each named for an eponymous jurist of the eighth or ninth century CE: the Hanafi school, named for Abu Hanifa (d. 150/767) and historically associated with the jurists of Iraq and a comparatively expansive role for reasoned opinion (raʾy) and analogy; the Maliki school, named for Malik ibn Anas (d. 179/795) and associated with Medina and the recognition of Medinan practice (ʿamal) among its sources; the Shafiʿi school, named for al-Shafiʿi (d. 204/820), to whom the tradition also credits the systematization of legal theory; and the Hanbali school, named for Ahmad ibn Hanbal (d. 241/855) and associated with close adherence to the hadith. In the Sunni self-understanding the four recognize one another as valid, and their diversity is treated as a longstanding and accepted feature of the law rather than a defect. Other early schools, such as those traced to al-Awzaʿi, Dawud al-Zahiri, and al-Tabari, are reported to have died out as organized traditions. The Twelver Shiʿa follow their own school, commonly called the Jaʿfari school after the imam Jaʿfar al-Sadiq (d. 148/765), with its own body of law and its own legal theory, generally described as giving reason (ʿaql) a distinct place among the sources; other communities, such as the Zaydi and Ibadi, likewise have their own legal traditions. The Sunni and Shiʿi schools are described here each on its own terms, and none is ranked.\n\nOn the historical formation of the schools, modern scholarship distinguishes the eponyms from the schools that bear their names. Christopher Melchert argues that although the Sunni schools are named for jurisprudents of the eighth and ninth centuries, they did not function as organized schools so early: the main earlier division was between adherents of raʾy and adherents of hadith, and the constitutive elements of the classical schools, a recognized chief, a transmitted body of doctrine, and a regular course of study, first came together in the early tenth century CE, in the work of figures such as Ibn Surayj (d. 306/918) for the Shafiʿis and al-Khallal (d. 311/923) for the Hanbalis. This is presented as an attributed scholarly reconstruction alongside the tradition's own account of continuity with the eponyms, and the two accounts are not adjudicated here.\n\nBound up with the madhhab is the pair taqlid and ijtihad. Taqlid names the adherence of a jurist or layperson to the established doctrine of a school without independently rederiving it from the sources; ijtihad names the qualified jurist's independent effort of derivation. How the two relate, who is qualified for ijtihad, and whether the scope of ijtihad narrowed in the later centuries are internal debates of the tradition; an older Western view held that the 'gate of ijtihad' was closed after the formative period, while Wael Hallaq has argued against that view that ijtihad remained a continuing activity within the schools. These positions, like the schools' own differences, are attributed to those who hold them and left unadjudicated.",
+  "editorial_notes": "This entry closes the relation targets from fiqh and sharia (both related_to madhhab) and is a law-and-society / system concept: the madhhab is described as the tradition's own institution of a school of law, on its own terms (neutrality #1, #6). Per neutrality #2 and #7 the four Sunni schools and the Jaʿfari (Twelver) school are described each on its own terms and never ranked; the Sunni mutual-recognition claim is given as the Sunni self-understanding, and the Sunni/Shiʿi difference is attributed, not adjudicated. The historical-crystallization question is handled as two attributed accounts side by side: the tradition's account of continuity with the eponyms, and Melchert's scholarly reconstruction (crystallization in the early tenth century, after an earlier raʾy-versus-hadith division); the editor endorses neither. The taqlid/ijtihad debate, including the older 'closed gate of ijtihad' view and Hallaq's argument against it, is likewise attributed.\n\nCONFIDENCE HONESTY: madhhab has no single scriptural proof-text; the concept is an institutional and historical one, and its spine is modern scholarship. All sources are therefore honestly rated medium: Melchert's The Formation of the Sunni Schools of Law (Brill, 1997) was web-verified to exist (publisher listing, IJMES review) and its central thesis confirmed from the scholarly literature about it, but the book was not read chapter by chapter in this pass; Hallaq's A History of Islamic Legal Theories and Kamali's Principles of Islamic Jurisprudence are reused from the fiqh, usul-al-fiqh, and qiyas entries at the same works and the same medium confidence (same-source-same-rating discipline); Modarressi's An Introduction to Shiʿi Law (Ithaca Press, 1984) was web-verified to exist and be on-topic for the Jaʿfari/Twelver legal tradition. Because the load-bearing content rests entirely on medium sources, this entry is entered as draft and honestly tops out at reviewed, not verified, until the key chapters are read directly.\n\nSourcing lenses (neutrality #8): (a) Western academic, Melchert and Hallaq; (c) contemporary Muslim scholars, Kamali (Sunni) and Modarressi (Shiʿi). A classical primary text is not cited in this pass: the classical lens on the schools is carried indirectly (the biographical and khilaf literature), and adding a specific classical work at chapter level without reading it would violate the no-fabrication rule; noted honestly as a gap to fill at review. Per neutrality #9 no encyclopedias (no Encyclopaedia of Islam), no Wikipedia, and no tertiary sources are cited.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "fiqh",
+      "note": "A madhhab carries a cumulative body of fiqh (derived rulings): the four Sunni schools (Hanafi, Maliki, Shafiʿi, Hanbali) and the Jaʿfari (Twelver Shiʿi) school each transmit their own, differing in method and in many concrete rulings; the diversity is described and not ranked. Mirror of the related_to edge in the fiqh entry."
+    },
+    {
+      "type": "related_to",
+      "target": "sharia",
+      "note": "The interpretive elaboration of the sharia (the revealed law) produced the legal schools (madhhabs), which differ in method and rulings while each claims fidelity to the same revealed law; the diversity is described and not ranked. Mirror of the related_to edge in the sharia entry."
+    },
+    {
+      "type": "related_to",
+      "target": "usul-al-fiqh",
+      "note": "The schools differ not only in concrete rulings but at the level of usul al-fiqh: they weight the sources and admit the disputed interpretive principles differently (for example istihsan among the Hanafis, Medinan practice among the Malikis), which is one reason their fiqh diverges."
+    },
+    {
+      "type": "related_to",
+      "target": "hanafiyya",
+      "note": "The Hanafiyya, named for Abu Hanifa (d. 150/767), are one of the four surviving Sunni madhhabs, historically associated with the jurists of Iraq and a comparatively expansive role for reasoned opinion (raʾy) and analogy."
+    },
+    {
+      "type": "related_to",
+      "target": "hanbaliyya",
+      "note": "The Hanbaliyya, named for Ahmad ibn Hanbal (d. 241/855), are one of the four surviving Sunni madhhabs, associated with close adherence to the Qur'an, the Sunna, and the reports of the early community."
+    },
+    {
+      "type": "related_to",
+      "target": "ithna-ashariyya",
+      "note": "The Twelver Shiʿa (Ithna ʿAshariyya) follow their own legal school, commonly called the Jaʿfari school after the imam Jaʿfar al-Sadiq; its law and legal theory are described on their own terms and not ranked against the Sunni schools."
+    },
+    {
+      "type": "related_to",
+      "target": "jafar-al-sadiq",
+      "note": "Jaʿfar al-Sadiq (d. 148/765) is the eponym of the Jaʿfari school, the madhhab of the Twelver Shiʿa; the attribution of the school to him is the tradition's own naming."
+    }
+  ],
+  "historical_period": {
+    "start": 767,
+    "note": "The eponyms of the surviving schools died between 148/765 (Jaʿfar al-Sadiq) and 241/855 (Ahmad ibn Hanbal); the start year (767 CE, the death of Abu Hanifa) is a rough anchor for the eponymous generation. Modern scholarship (Melchert) places the crystallization of the classical Sunni schools as organized traditions in the early tenth century CE. No end date; the madhhabs remain living traditions."
+  },
+  "sources": [
+    {
+      "citation": "Melchert, Christopher. The Formation of the Sunni Schools of Law, 9th-10th Centuries C.E. Studies in Islamic Law and Society 4. Leiden: Brill, 1997. The standard academic monograph on the historical crystallization of the Sunni madhhabs, arguing that the schools named for eighth- and ninth-century eponyms first came together as organized traditions in the early tenth century, after an earlier division between adherents of raʾy and adherents of hadith, through figures such as Ibn Surayj (d. 306/918) and al-Khallal (d. 311/923). The Western academic lens on the formation question. Web-verified to exist and be on-topic (publisher listing, review in the International Journal of Middle East Studies); not read chapter by chapter for this draft.",
+      "url": "https://brill.com/display/title/1543",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hallaq, Wael B. A History of Islamic Legal Theories: An Introduction to Sunni Usul al-fiqh. Cambridge: Cambridge University Press, 1997. The standard English-language introduction to Sunni legal theory, treating the methodological differences among the schools, ijtihad and taqlid, and arguing against the older view that the 'gate of ijtihad' was closed after the formative period. The Western academic lens on the schools' usul and on the taqlid/ijtihad debate; the same work at the same confidence as in the usul-al-fiqh and qiyas entries. Relevant chapters not read line by line for this draft; web-verified to exist and be on-topic.",
+      "url": "https://doi.org/10.1017/CBO9780511801266",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Kamali, Mohammad Hashim. Principles of Islamic Jurisprudence. 3rd rev. ed. Cambridge: Islamic Texts Society, 2003. A contemporary Muslim scholar's standard textbook of usul al-fiqh, treating the schools of law, their differing recognition of the sources and interpretive principles, and ijtihad and taqlid. The contemporary Muslim scholar lens; the same work at the same confidence as in the fiqh and usul-al-fiqh entries. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://www.amazon.com/Principles-Islamic-Jurisprudence-Mohammad-Hashim/dp/0946621810",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Modarressi Tabatabaʾi, Hossein. An Introduction to Shiʿi Law: A Bibliographical Study. London: Ithaca Press, 1984. A scholarly survey of Twelver (Jaʿfari) legal literature and its schools of legal thought by a scholar trained in the tradition, carrying the claim that the Twelver Shiʿa possess their own madhhab with its own body of law and legal theory. The Shiʿi scholarly lens on the Jaʿfari school. Web-verified to exist and be on-topic; not read chapter by chapter for this draft.",
+      "url": "https://biblio.com/book/introduction-shii-law-modarressi-tabatabai-hossein/d/1351710439",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

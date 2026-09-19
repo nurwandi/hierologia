@@ -1,0 +1,76 @@
+{
+  "id": "shavuot",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shavuot",
+    "original": "שָׁבוּעוֹת",
+    "transliteration": "Shavuʿot",
+    "aliases": [
+      "The Feast of Weeks",
+      "Chag HaShavuot",
+      "Chag HaKatzir (Feast of the Harvest)",
+      "Yom HaBikkurim (Day of the First Fruits)",
+      "Pentecost",
+      "Shavuos"
+    ]
+  },
+  "category": "festivals (moadim)",
+  "summary": "Shavuot (the Feast of Weeks) is the festival reached by counting seven weeks from the sheaf offering of the Pesach season, celebrated at the wheat harvest with an offering of new grain and first fruits; it is the second of the three pilgrimage festivals (shalosh regalim). In the rabbinic tradition, a layer attributed here as rabbinic, the festival is associated with the giving of the Torah at Sinai.",
+  "description": "Shavuot (the Feast of Weeks) is unique among the Torah's festivals in being fixed not by a calendar date but by counting. Leviticus 23:15-21, read here line-by-line, commands: 'And from the day on which you bring the sheaf of elevation offering ... you shall count off seven weeks,' 'you must count until the day after the seventh week, fifty days; then you shall bring an offering of new grain to GOD.' On that day 'two loaves of bread' baked 'after leavening' are brought 'as first fruits to GOD,' and 'on that same day you shall hold a celebration; it shall be a sacred occasion for you; you shall not work at your occupations' (Leviticus 23:21). Deuteronomy 16:9-12 gives the agricultural anchor of the count, 'You shall count off seven weeks; start to count the seven weeks when the sickle is first put to the standing grain,' and commands: 'Then you shall observe the Feast of Weeks for the ETERNAL your God, offering your freewill contribution according as the ETERNAL your God has blessed you.' The rejoicing is inclusive, 'with your son and daughter, your male and female slave, the Levite in your communities, and the stranger, the fatherless, and the widow in your midst,' at the chosen place, and is grounded in memory: 'Bear in mind that you were slaves in Egypt' (Deuteronomy 16:12).\n\nIn the Torah's own terms Shavuot is thus an agricultural festival, the festival of the wheat harvest and the first fruits, falling seven weeks after the sheaf offering of the Pesach season (the counting known in the tradition as the counting of the omer). Exodus 23:16 calls it the Feast of the Harvest. As the second of the shalosh regalim it was, in the Temple period, an occasion of pilgrimage to Jerusalem, where the two loaves and the first fruits were brought.\n\nThe association of Shavuot with the giving of the Torah at Sinai is a rabbinic layer, not stated in the Torah's festival texts themselves, and is attributed here as such. The Babylonian Talmud, Shabbat 86b, read here for this passage, records the rabbinic chronology: 'Everyone agrees that the Torah was given to the Jewish people on Shabbat,' with a dispute over the date, 'The Sages taught: On the sixth day of the month of Sivan, the Ten Commandments were given to the Jewish people. Rabbi Yosei says: On the seventh day of the month.' On that chronology the revelation at Sinai falls at the season of Shavuot, and the tradition's liturgy came to name the festival the season of the giving of our Torah (zeman matan Torateinu). Scholarship on the festival, notably Sejin Park's monograph on the Festival of Weeks and the Sinai event, traces the development of this covenant and Sinai association through the Second Temple period (including the book of Jubilees and the Qumran scrolls) into the rabbinic tradition. This entry states the Torah's agricultural festival and the rabbinic Sinai association as distinct layers of the tradition's own texts, without adjudicating between them.",
+  "editorial_notes": "This entry describes Shavuot on Judaism's own terms (neutrality #1, #4, #6) and keeps the Torah layer and the rabbinic layer explicitly distinct: the Torah texts give an agricultural festival fixed by counting, and the association with the giving of the Torah at Sinai is attributed as rabbinic, resting on the Bavli and on secondary scholarship, not asserted as the Torah's own statement. The load-bearing scriptural material rests on the primary texts read line-by-line on open Sefaria: Leviticus 23:15-21 (the counting of seven weeks and fifty days, confirmed verbatim including the Hebrew of 23:16, 'עַד מִמׇּחֳרַת הַשַּׁבָּת הַשְּׁבִיעִת תִּסְפְּרוּ חֲמִשִּׁים יוֹם', the two loaves as first fruits, and the sacred occasion of 23:21) and Deuteronomy 16:9-12 (the sickle to the standing grain, the Feast of Weeks, the inclusive rejoicing, and 'Bear in mind that you were slaves in Egypt,' confirmed verbatim). The Bavli passage was also read for this entry: Shabbat 86b in the William Davidson Edition, confirmed verbatim ('Everyone agrees that the Torah was given to the Jewish people on Shabbat,' with the Sages placing the giving on the sixth of Sivan and Rabbi Yosei on the seventh). Those three are rated high for the specific passages read. The Sefaria English for the Torah texts is the Revised JPS (2023) translation (CC-BY-NC); the Bavli English is the William Davidson Edition (CC-BY-NC); the underlying Hebrew and Aramaic are public domain. The liturgical designation zeman matan Torateinu and the omer terminology are standard features of the tradition's practice, resting on the secondary literature at medium rather than on a primary read here. Park's monograph is verified to exist and be on-topic (author, title, series, publisher, and year confirmed via the publisher and trade records), not read line-by-line, so rated medium and kept honest. Sources triangulate the primary texts read openly on Sefaria (Torah and Bavli) with an academic monograph on the festival (Park). No encyclopedias, Wikipedia, or tertiary sources. The Sefaria English cited here as the Revised JPS (2023) is the translation Sefaria displays as 'JPS TANAKH: Gender-Sensitive Edition (2023)'; they are the same text.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "shalosh-regalim",
+      "note": "Shavuot is the second of the shalosh regalim, the three pilgrimage festivals on which the Torah commands appearance before God (Deuteronomy 16:16); in the Temple period it was fulfilled by pilgrimage to Jerusalem with the new grain offering and the first fruits."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The festival rests on the Torah: the counting of seven weeks from the sheaf offering and the offering of new grain and two loaves (Leviticus 23:15-21), and the Feast of Weeks with its freewill offering and inclusive rejoicing (Deuteronomy 16:9-12), read line-by-line on open Sefaria."
+    },
+    {
+      "type": "related_to",
+      "target": "talmud",
+      "note": "The association of Shavuot with the giving of the Torah at Sinai is a rabbinic layer recorded in the Babylonian Talmud: Shabbat 86b places the giving of the Torah on Shabbat, with the Sages dating it to the sixth of Sivan and Rabbi Yosei to the seventh, the season of the festival."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The festival rests on Torah commands placed by the tradition in the Mosaic period; the -1200 marker is a rough conventional anchor for that era, not a precise dating claim. The Sinai association is a later layer, traceable through Second Temple literature and fixed in the rabbinic tradition. The festival continues to be observed, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Leviticus 23:15-21, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: the counting of seven weeks from the day of the elevation sheaf, 'you must count until the day after the seventh week, fifty days' (Hebrew 'עַד מִמׇּחֳרַת הַשַּׁבָּת הַשְּׁבִיעִת תִּסְפְּרוּ חֲמִשִּׁים יוֹם'), the offering of new grain, the two loaves 'as first fruits to GOD,' and the sacred occasion of 23:21. The load-bearing Torah source for the festival's fixing by count and its harvest offerings.",
+      "url": "https://www.sefaria.org/Leviticus.23.15-21",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 16:9-12, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'You shall count off seven weeks; start to count the seven weeks when the sickle is first put to the standing grain'; 'Then you shall observe the Feast of Weeks for the ETERNAL your God, offering your freewill contribution'; the inclusive rejoicing with son, daughter, slave, Levite, stranger, fatherless, and widow; and 'Bear in mind that you were slaves in Egypt.' The load-bearing Torah source for the agricultural anchor and the festival's name.",
+      "url": "https://www.sefaria.org/Deuteronomy.16.9-12",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Babylonian Talmud, Shabbat 86b, open text on Sefaria (William Davidson Edition English). Cited as the openly-auditable primary rabbinic text for the Sinai association, read for this passage: 'Everyone agrees that the Torah was given to the Jewish people on Shabbat,' with the dispute over the date, the Sages teaching that the Ten Commandments were given on the sixth of Sivan and Rabbi Yosei holding the seventh. The load-bearing rabbinic source for the chronology that places the giving of the Torah at the season of Shavuot; cited for that rabbinic layer, attributed as such.",
+      "url": "https://www.sefaria.org/Shabbat.86b",
+      "license": "Underlying Hebrew/Aramaic in the public domain; the William Davidson Edition English is CC-BY-NC. Read for this entry (the passage cited).",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Park, Sejin. Pentecost and Sinai: The Festival of Weeks as a Celebration of the Sinai Event. Library of Hebrew Bible/Old Testament Studies 342. London: T&T Clark, 2008. An academic monograph tracing the association of the Festival of Weeks with the Sinai event and covenant renewal from the Hebrew Bible through the book of Jubilees, the Qumran scrolls, and later literature; cited as the academic lens on the development of the festival's Sinai association. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed via publisher and trade records), not read line-by-line.",
+      "url": "https://books.google.com/books?id=zqOoAwAAQBAJ",
+      "license": "Proprietary; cited for reference (bibliographic record).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

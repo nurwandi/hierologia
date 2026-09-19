@@ -1,0 +1,82 @@
+{
+  "id": "pesach",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Pesach",
+    "original": "פֶּסַח",
+    "transliteration": "Pesaḥ",
+    "aliases": [
+      "Passover",
+      "Chag HaMatzot",
+      "The Feast of Unleavened Bread",
+      "Pessach",
+      "Pesah"
+    ]
+  },
+  "category": "festivals (moadim)",
+  "summary": "Pesach (Passover) is the spring festival commemorating the Exodus from Egypt, the first of the three pilgrimage festivals (shalosh regalim). The Torah institutes it in the Exodus narrative itself and fixes it in the festival calendar: a passover offering on the fourteenth of the first month at twilight, followed by seven days of unleavened bread; the rabbinic tradition gave the night its enduring home form, the seder, whose structure is set out in Mishnah Pesachim 10.",
+  "description": "Pesach (Passover) is instituted in the Torah within the Exodus narrative itself. Exodus 12:1-28, read here line-by-line, opens with the fixing of the month, 'This month shall mark for you the beginning of the months; it shall be the first of the months,' and commands that 'each family shall take for itself a lamb, a lamb to a household,' that 'all the assembled congregation of the Israelites shall slaughter it at twilight,' that the blood be put 'on the two doorposts and the lintel,' and that 'they shall eat it roasted over the fire, with unleavened bread and with bitter herbs.' The narrative names the rite, 'it is a passover offering to GOD,' and gives its meaning in the divine promise 'when I see the blood I will pass over you, so that no plague will destroy you.' The observance is made perpetual, 'This day shall be to you one of remembrance: you shall celebrate it as a festival to GOD throughout the ages,' with the command 'Seven days you shall eat unleavened bread,' and the answer prescribed for the children's future question, 'It is the passover sacrifice to GOD, who passed over the houses of the Israelites in Egypt' (Exodus 12:26-27). The festival calendar of Leviticus 23:4-8 fixes the times: 'In the first month, on the fourteenth day of the month, at twilight, there shall be a passover offering to GOD, and on the fifteenth day of that month GOD's Feast of Unleavened Bread. You shall eat unleavened bread for seven days,' with sacred occasions and work restrictions on the first and seventh days. Deuteronomy 16:1-8 restates the festival for the chosen place: 'Observe the month of Abib and offer a passover sacrifice to the ETERNAL your God, for it was in the month of Abib, at night, that the ETERNAL your God freed you from Egypt,' calling the unleavened bread 'bread of distress' eaten 'so that you may remember the day of your departure from the land of Egypt as long as you live,' and requiring the sacrifice 'at the place where the ETERNAL your God will choose,' 'in the evening, at sundown.'\n\nIn the tradition's festival year Pesach carries a double significance, like the other pilgrimage festivals: it falls in the spring, at the beginning of the barley harvest (the month of Abib, the month of the new ears of grain), and it commemorates the Exodus from Egypt, the deliverance of Israel from slavery that stands at the head of Israel's founding story. As the first of the shalosh regalim it was, in the Temple period, an occasion of pilgrimage to Jerusalem, where the passover offering was slaughtered and eaten; the removal of leaven (chametz) from the home and the eating of matzah for seven days are the observances the Torah itself commands.\n\nThe rabbinic tradition gave the first night of Pesach its enduring form, the seder, whose structure is set out in Mishnah Pesachim 10, read here mishnah by mishnah. The Mishnah requires that 'even the poorest of Jews should not eat the meal on Passover night until he reclines' and that the poor be given 'not less than four cups of wine'; it prescribes the child's questions over the second cup, 'Why is this night different from all other nights?', and directs that the father teach 'according to the intelligence of the son,' beginning 'with disgrace' and concluding 'with glory.' It records Rabban Gamliel's dictum that 'anyone who did not say these three matters on Passover has not fulfilled his obligation: the Paschal lamb, matzah, and bitter herbs,' and the principle that 'in each and every generation a person must view himself as though he personally left Egypt.' Scholarship on the seder, notably Baruch Bokser's study of Mishnah Pesachim 10, reads this rabbinic form as the festival's transformation after the destruction of the Second Temple, from a sacrifice eaten at the Temple to a home rite of recital, symbol, and instruction. This entry describes the festival, its Torah institution, and its rabbinic form as features of the tradition's own texts and practice.",
+  "editorial_notes": "This entry describes Pesach on Judaism's own terms (neutrality #1, #4, #6). The load-bearing scriptural material rests on the primary texts read line-by-line on open Sefaria: Exodus 12:1-28 (the institution narrative, confirmed verbatim, including 'This month shall mark for you the beginning of the months,' 'it is a passover offering to GOD,' 'when I see the blood I will pass over you,' 'This day shall be to you one of remembrance,' and the children's question and answer in 12:26-27), Leviticus 23:4-8 (the calendar fixing, confirmed verbatim including the Hebrew of 23:5, 'בַּחֹדֶשׁ הָרִאשׁוֹן בְּאַרְבָּעָה עָשָׂר לַחֹדֶשׁ בֵּין הָעַרְבָּיִם פֶּסַח לַיהוָה'), Deuteronomy 16:1-8 (the Deuteronomic restatement, confirmed verbatim including 'Observe the month of Abib' and 'bread of distress'), and Mishnah Pesachim 10 (the seder structure, read mishnah by mishnah in the William Davidson Edition, confirmed verbatim including the four cups, the child's questions, 'begins with disgrace and concludes with glory,' Rabban Gamliel's three matters, and 'in each and every generation'). Those four are rated high. The Sefaria English for the Torah texts is the Revised JPS (2023) translation (CC-BY-NC); the Mishnah English is the William Davidson Edition (CC-BY-NC); the underlying Hebrew is public domain. The characterization of the seder as the festival's post-Temple transformation rests on Bokser's monograph, verified to exist and be on-topic (author, title, publisher, year, and subject confirmed via the publisher and academic review record), not read line-by-line, so rated medium and kept honest. The agricultural characterization (spring, barley harvest, Abib as the month of new grain) is a standard scholarly reading resting on the Deuteronomy text and the secondary literature at medium. Sources triangulate three lenses per neutrality #8-9: the primary texts read openly on Sefaria (Torah and Mishnah), and an academic monograph on the seder by a scholar of rabbinic Judaism (Bokser). No encyclopedias, Wikipedia, or tertiary sources. The Sefaria English cited here as the Revised JPS (2023) is the translation Sefaria displays as 'JPS TANAKH: Gender-Sensitive Edition (2023)'; they are the same text.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "shalosh-regalim",
+      "note": "Pesach is the first of the shalosh regalim, the three pilgrimage festivals on which the Torah commands appearance before God (Exodus 23:14-17; Deuteronomy 16:16); in the Temple period it was fulfilled by pilgrimage to Jerusalem and the passover offering there."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The festival is instituted in the Torah: the Exodus narrative itself (Exodus 12:1-28), the festival calendar (Leviticus 23:4-8), and the Deuteronomic restatement (Deuteronomy 16:1-8), all read line-by-line on open Sefaria."
+    },
+    {
+      "type": "related_to",
+      "target": "mishnah",
+      "note": "The structure of the seder, the home rite of the first night of Pesach (the four cups, the child's questions, Rabban Gamliel's three matters, the recital from disgrace to glory), is set out in Mishnah Pesachim 10, the rabbinic layer of the festival's observance."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The festival rests on Torah commands placed by the tradition in the Mosaic period; the -1200 marker is a rough conventional anchor for that era, not a precise dating claim. The seder as a home rite is the rabbinic form given after the destruction of the Second Temple (post 70 CE). The festival continues to be observed, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Exodus 12:1-28, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: the institution of Pesach within the Exodus narrative, 'This month shall mark for you the beginning of the months'; the lamb per household, the slaughter at twilight, the blood on the doorposts, the eating 'roasted over the fire, with unleavened bread and with bitter herbs'; 'it is a passover offering to GOD'; 'when I see the blood I will pass over you'; the perpetual memorial ('This day shall be to you one of remembrance'); the seven days of unleavened bread; and the children's question and answer (12:26-27). The load-bearing Torah source for the festival's institution and meaning.",
+      "url": "https://www.sefaria.org/Exodus.12.1-28",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Leviticus 23:4-8, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: the festival calendar's fixing of Pesach, 'In the first month, on the fourteenth day of the month, at twilight, there shall be a passover offering to GOD' (Hebrew 'בַּחֹדֶשׁ הָרִאשׁוֹן בְּאַרְבָּעָה עָשָׂר לַחֹדֶשׁ בֵּין הָעַרְבָּיִם פֶּסַח לַיהוָה'), and the Feast of Unleavened Bread from the fifteenth, seven days, with sacred occasions on the first and seventh days. The load-bearing Torah source for the festival's fixed times.",
+      "url": "https://www.sefaria.org/Leviticus.23.4-8",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 16:1-8, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Observe the month of Abib and offer a passover sacrifice to the ETERNAL your God'; the unleavened bread as 'bread of distress' eaten 'so that you may remember the day of your departure from the land of Egypt as long as you live'; the sacrifice 'at the place where the ETERNAL your God will choose,' 'in the evening, at sundown'; and the solemn gathering of the seventh day. The load-bearing Torah source for the Deuteronomic restatement and the pilgrimage dimension.",
+      "url": "https://www.sefaria.org/Deuteronomy.16.1-8",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Mishnah Pesachim 10, open Hebrew and English text on Sefaria (William Davidson Edition). Cited as the openly-auditable primary rabbinic text for the seder structure, read mishnah by mishnah: the four cups even for the poorest ('even the poorest of Jews should not eat the meal on Passover night until he reclines'; 'not less than four cups of wine'), the child's questions over the second cup ('Why is this night different from all other nights?'), the recital that 'begins with disgrace and concludes with glory,' Rabban Gamliel's dictum ('anyone who did not say these three matters on Passover has not fulfilled his obligation: the Paschal lamb, matzah, and bitter herbs'), and 'in each and every generation a person must view himself as though he personally left Egypt.' The load-bearing rabbinic source for the seder.",
+      "url": "https://www.sefaria.org/Mishnah_Pesachim.10",
+      "license": "Underlying Hebrew in the public domain; the William Davidson Edition English is CC-BY-NC. Read for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Bokser, Baruch M. The Origins of the Seder: The Passover Rite and Early Rabbinic Judaism. Berkeley and Los Angeles: University of California Press, 1984 (xvii, 188 pp.; reissued 2019). The standard academic monograph on Mishnah Pesachim 10 and the formation of the seder, reading the rabbinic rite as the festival's transformation after the destruction of the Second Temple, from Temple sacrifice to home rite of recital and symbol; cited as the academic lens on the seder's origin and character. Verified to exist and be on-topic (author, title, publisher, year, and subject confirmed via the publisher record and the Bulletin of SOAS review), not read line-by-line.",
+      "url": "https://www.ucpress.edu/book/9780520317352/the-origins-of-the-seder",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

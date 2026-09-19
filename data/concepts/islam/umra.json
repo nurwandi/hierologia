@@ -1,0 +1,70 @@
+{
+  "id": "umra",
+  "tradition": "islam",
+  "names": {
+    "primary": "Umra",
+    "original": "العمرة",
+    "transliteration": "al-ʿumra",
+    "aliases": [
+      "Umrah",
+      "'Umra",
+      "the lesser pilgrimage",
+      "the minor pilgrimage",
+      "visitation of the House"
+    ]
+  },
+  "category": "worship and ritual",
+  "summary": "The ʿumra is the lesser or minor pilgrimage to Mecca, performable at any time of year, in contrast to the hajj, which is tied to appointed days. The Qur'an commands, 'And complete the hajj and ʿumra for Allah' (Q 2:196), and a canonical hadith reports that one ʿumra to the next is an expiation for what lies between them (Sahih al-Bukhari 1773). Its rites in the tradition's account are ihram (consecration), tawaf (circumambulation of the Kaʿba), saʿy (the going between Safa and Marwa), and halq or taqsir (shaving or shortening the hair). Whether the ʿumra is obligatory once in a lifetime or a recommended sunna is a recorded disagreement among the legal schools, attributed here and not adjudicated.",
+  "description": "The ʿumra (from the root ʿ-m-r; the term is often glossed as a visitation) is the lesser pilgrimage to Mecca. Unlike the hajj, whose essential rites are bound to the appointed days of Dhu al-Hijja, the ʿumra may in the tradition's account be performed at any time of the year, and it omits the rites specific to the hajj (the standing at ʿArafat, Muzdalifa, and the rites at Mina). The Qur'anic anchor names both pilgrimages together: Q 2:196 commands, in the Saheeh International rendering, 'And complete the hajj and ʿumra for Allah' (wa-atimmu al-hajja wa-l-ʿumrata lillah), and the verse continues with provisions for the pilgrim who is prevented from completing the rites.\n\nThe rites of the ʿumra are described here as the tradition's attributed practice. The pilgrim enters ihram, the consecrated state, at the appointed boundary (miqat), putting on (for men) two seamless white cloths, pronouncing the talbiya, and abstaining from certain ordinary acts; performs the tawaf, the sevenfold circumambulation of the Kaʿba; performs the saʿy, the going seven times between the hills of Safa and Marwa; and concludes with halq or taqsir, the shaving or shortening of the hair, by which the pilgrim leaves the state of ihram. The schools also treat the ways the ʿumra may be joined with the hajj in a single journey (in the classifications commonly called tamattuʿ, qiran, and ifrad), and their detailed rules differ; the details are left to the schools and not ruled on here.\n\nThe merit of the ʿumra is carried in the canonical Sunna. Sahih al-Bukhari reports on the authority of Abu Huraira that the Prophet said, '(The performance of) ʿUmra is an expiation for the sins committed (between it and the previous one). And the reward of Hajj Mabrur (the one accepted by Allah) is nothing except Paradise' (Sahih al-Bukhari 1773, the opening hadith of the Book of ʿUmra); Bukhari's own Arabic chapter heading there reads bab wujub al-ʿumra wa-fadliha (the chapter on the obligation of the ʿumra and its merit).\n\nWhether the ʿumra is obligatory is a recorded disagreement among the legal schools, and it is reported here as their attributed positions. In the account transmitted in the comparative-law literature, notably Ibn Rushd's Bidayat al-Mujtahid, the Shafiʿi and Hanbali schools hold the ʿumra to be obligatory (wajib) once in a lifetime on those able, while the Hanafi and Maliki schools hold it to be a recommended sunna rather than an obligation; each side invokes its own textual proofs. None of these positions is ranked or resolved here; the disagreement itself is a standing example of the schools' recorded diversity. This entry describes the ʿumra on the tradition's own terms and reports its rites, merits, and disputed status as that tradition's account, without adjudicating them.",
+  "editorial_notes": "This entry closes the relation from hajj (related_to umra) and describes the ʿumra on the tradition's own terms (neutrality #6); its rites and religious meanings are the tradition's attributed account, not fact endorsed by the editor (neutrality #1). The inter-madhhab disagreement over the obligation of the ʿumra (Shafiʿi and Hanbali wujub versus Hanafi and Maliki sunna) is attributed to the schools via the comparative-law record (Ibn Rushd's Bidayat al-Mujtahid) and is not adjudicated (neutrality #2, #7); phrasing such as 'in the account transmitted', 'hold', and 'each side invokes its own textual proofs' marks the attribution.\n\nCONFIDENCE HONESTY: the two load-bearing open primaries were read verbatim in this pass. Q 2:196 was read at quran.com in two translations (Saheeh International, 'And complete the hajj and ʿumra for Allah'; The Clear Quran, Mustafa Khattab, 'Complete the pilgrimage and minor pilgrimage for Allah'), with the load-bearing Arabic confirmed (wa-atimmu al-hajja wa-l-ʿumrata lillah); rated high for what the verse says. Sahih al-Bukhari 1773 was read verbatim at sunnah.com (narrated Abu Huraira; English as quoted in the description; Arabic matn confirmed, al-ʿumratu ila al-ʿumrati kaffaratun lima baynahuma, wa-l-hajju al-mabruru laysa lahu jazaʾun illa al-janna; Book 26, Kitab al-ʿUmra, Hadith 1; chapter heading bab wujub al-ʿumra wa-fadliha); rated high for what the report says and where it stands in the collection, not as the editor's ruling on its doctrine. The school positions on obligation rest on Ibn Rushd's Bidayat al-Mujtahid (in Nyazee's translation, The Distinguished Jurist's Primer), web-verified to exist and to be the standard record of juristic disagreement (ʿilm al-khilaf) covering the pilgrimage, but not read line by line in this pass, so rated medium; the rite outline and the year-round performability likewise rest on the medium-rated scholarship (Peters) and are given in brief. Because the school-difference claim rests on a medium source, the entry is entered as draft and honestly tops out at reviewed pending a pass that reads the Bidayat's ʿumra section directly.\n\nSourcing lenses (neutrality #8): (b) primary open scripture and canonical Sunna, read verbatim (quran.com, sunnah.com), plus the classical juristic record (Ibn Rushd); (a) an academic study of the pilgrimage (F. E. Peters, The Hajj, Princeton, 1994, reused from the hajj entry at the same confidence). A dedicated contemporary Muslim scholarly treatment of the ʿumra specifically was not added in this pass; noted honestly as a gap to fill at review. No encyclopedias, Wikipedia, or tertiary sources (neutrality #9).",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "hajj",
+      "note": "The ʿumra (lesser pilgrimage) is distinguished from the hajj (greater pilgrimage): the ʿumra may be performed at any time of year and omits the rites specific to the hajj, while the hajj is tied to the appointed days; Q 2:196 commands the completion of both for God. Mirror of the related_to edge in the hajj entry."
+    },
+    {
+      "type": "related_to",
+      "target": "madhhab",
+      "note": "Whether the ʿumra is obligatory once in a lifetime (the position attributed to the Shafiʿi and Hanbali schools) or a recommended sunna (the position attributed to the Hanafi and Maliki schools) is a recorded disagreement among the legal schools (madhhabs); the positions are attributed and not ranked."
+    }
+  ],
+  "historical_period": {
+    "start": 610,
+    "note": "The Qur'anic verse naming the ʿumra (Q 2:196) belongs to the period of the Prophet's mission (c. 610-632 CE); the tradition traces the rites to the Prophet's practice, including the ʿumras he is reported to have performed. The ʿumra remains a living, year-round practice; no end date is asserted."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an 2:196 (Surat al-Baqara). Read line by line at quran.com in two translations: Saheeh International, 'And complete the hajj and ʿumra for Allah'; The Clear Quran (Mustafa Khattab), 'Complete the pilgrimage and minor pilgrimage for Allah.' The load-bearing Arabic was confirmed: wa-atimmu al-hajja wa-l-ʿumrata lillah (وأتموا الحج والعمرة لله). Primary scriptural text naming the ʿumra alongside the hajj and commanding the completion of both; read verbatim. High for what the verse says, not as the editor's ruling on the ʿumra's legal status, which the schools dispute.",
+      "url": "https://quran.com/2/196",
+      "license": "Qur'anic Arabic text public domain; English translations quoted briefly for identification.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Sahih al-Bukhari 1773, Book of ʿUmra (Kitab al-ʿUmra, Book 26, Hadith 1), on the authority of Abu Huraira. Read verbatim at sunnah.com: 'Allah's Messenger said, \"(The performance of) ʿUmra is an expiation for the sins committed (between it and the previous one). And the reward of Hajj Mabrur (the one accepted by Allah) is nothing except Paradise.\"' The Arabic matn was confirmed: al-ʿumratu ila al-ʿumrati kaffaratun lima baynahuma, wa-l-hajju al-mabruru laysa lahu jazaʾun illa al-janna (العمرة إلى العمرة كفارة لما بينهما والحج المبرور ليس له جزاء إلا الجنة). Bukhari's chapter heading reads bab wujub al-ʿumra wa-fadliha (باب وجوب العمرة وفضلها). Canonical Sunna attestation of the ʿumra's merit; read verbatim. High for what the report says and where it stands in the collection.",
+      "url": "https://sunnah.com/bukhari:1773",
+      "license": "Classical primary text (hadith); English translation quoted briefly for identification.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ibn Rushd (Averroes, d. 595/1198). Bidayat al-Mujtahid wa-Nihayat al-Muqtasid, translated by Imran Ahsan Khan Nyazee as The Distinguished Jurist's Primer, vol. 1. Reading: Garnet Publishing (The Great Books of Islamic Civilization), 1994. The classical comparative record of juristic disagreement (ʿilm al-khilaf), whose treatment of the pilgrimage records the schools' dispute over whether the ʿumra is obligatory or recommended, with the Shafiʿi and Hanbali position of obligation against the Hanafi and Maliki position of sunna. The tradition's own classical juristic lens on the disputed status. Web-verified to exist and be on-topic; the ʿumra section not read line by line for this draft.",
+      "url": "https://books.google.com/books/about/The_Distinguished_Jurist_s_Primer.html?id=hzLYAAAAMAAJ",
+      "license": "Classical Arabic text public domain; translation proprietary, cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Peters, F. E. The Hajj: The Muslim Pilgrimage to Mecca and the Holy Places. Princeton: Princeton University Press, 1994. An academic literary and historical study of the pilgrimage that also treats the ʿumra, its rites (ihram, tawaf, saʿy), and its relation to the hajj; the outside-scholarship lens, reused from the hajj entry at the same confidence. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://press.princeton.edu/books/paperback/9780691026190/the-hajj",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

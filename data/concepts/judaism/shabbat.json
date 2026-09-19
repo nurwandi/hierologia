@@ -1,0 +1,86 @@
+{
+  "id": "shabbat",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shabbat",
+    "original": "שַׁבָּת",
+    "transliteration": "Shabbat",
+    "aliases": [
+      "The Sabbath",
+      "Shabbos",
+      "The seventh day",
+      "The day of rest"
+    ]
+  },
+  "category": "sacred time",
+  "summary": "Shabbat (the Sabbath) is the weekly seventh day of cessation from work, grounded in the Torah in God's own ceasing from the work of creation (Genesis 2:1-3) and commanded in both versions of the Decalogue, with two stated reasons: the creation ('Remember,' Exodus 20:8-11) and the liberation from Egypt ('Observe,' Deuteronomy 5:12-15). Exodus 31:16-17 makes it a covenant for all time and an eternal sign between God and Israel; the tradition elaborated its observance and welcomes the day, in the Kabbalat Shabbat liturgy, as a bride and queen.",
+  "description": "Shabbat (the Sabbath) is grounded in the Torah in the creation narrative itself. Genesis 2:1-3, read here line-by-line, states that 'the heaven and the earth were finished, and all their array,' that God ceased 'on the seventh day from doing any of the work' (the Hebrew verb shavat, 'וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי'), and that 'God blessed the seventh day and declared it holy.' The command appears in both versions of the Decalogue with two different stated reasons. Exodus 20:8-11 opens 'Remember the sabbath day and keep it holy' (Hebrew 'זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ'): 'Six days you shall labor and do all your work, but the seventh day is a sabbath of the ETERNAL your God: you shall not do any work,' extending the rest to son and daughter, slave, cattle, and stranger, and grounding it in creation, 'For in six days GOD made heaven and earth and sea ... and then rested on the seventh day; therefore GOD blessed the sabbath day and hallowed it.' Deuteronomy 5:12-15 opens 'Observe the sabbath day and keep it holy,' extends the rest likewise 'so that your male and female slave may rest as you do,' and grounds it in the liberation: 'Remember that you were a slave in the land of Egypt and the ETERNAL your God freed you from there with a mighty hand and an outstretched arm; therefore the ETERNAL your God has commanded you to observe the sabbath day.' Exodus 31:16-17 makes the day covenantal: 'The Israelite people shall keep the sabbath, observing the sabbath throughout the ages as a covenant for all time' (Hebrew 'בְּרִית עוֹלָם'), 'a sign for all time between Me and the people of Israel,' for in six days God made heaven and earth and on the seventh day 'ceased from work' and was 'refreshed' (Hebrew 'שָׁבַת וַיִּנָּפַשׁ').\n\nThe tradition thus holds Shabbat together under two rationales, creation and exodus, remembering and observing, and as a perpetual covenant sign. The rabbinic tradition elaborated the Torah's general prohibition of work into a defined system of categories of labor (melakhah) and a positive observance of the day: per the tradition's practice, the day is inaugurated with the lighting of lamps and sanctified over wine (kiddush), honored with festive meals, and closed with havdalah, the ceremony of separation between the holy day and the week. These elaborations are the rabbinic and customary layer of the day and are attributed here as such.\n\nIn the tradition's liturgical and mystical imagination Shabbat is personified: the sixteenth-century kabbalists of Safed gave fixed form to the welcome of the Sabbath as a bride and queen in the Kabbalat Shabbat service that inaugurates the day on Friday evening. Among modern Jewish thinkers, Abraham Joshua Heschel's The Sabbath (1951) articulated the day as Judaism's sanctification of time, a 'palace in time,' holiness located in time rather than in space; this is cited as a modern Jewish articulation of the day's meaning, not as the tradition's only self-understanding. This entry describes Shabbat, its Torah grounding, its two stated rationales, and its observance as features of the tradition's own texts and practice.",
+  "editorial_notes": "This entry describes Shabbat on Judaism's own terms (neutrality #1, #4, #6). The load-bearing scriptural material rests on the primary texts read line-by-line on open Sefaria: Genesis 2:1-3 (confirmed verbatim in Hebrew and English, 'וַיְבָרֶךְ אֱלֹהִים אֶת־יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ', 'And God blessed the seventh day and declared it holy'), Exodus 20:8-11 (confirmed verbatim, 'זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ', 'Remember the sabbath day and keep it holy,' with the creation rationale), Deuteronomy 5:12-15 (confirmed verbatim, 'Observe the sabbath day and keep it holy,' with the Egypt rationale and 'so that your male and female slave may rest as you do'), and Exodus 31:16-17 (confirmed verbatim, 'בְּרִית עוֹלָם', 'a covenant for all time,' and 'שָׁבַת וַיִּנָּפַשׁ', ceasing and being refreshed). Those four are rated high. The Sefaria English is the Revised JPS (2023) translation (CC-BY-NC); the underlying Hebrew is public domain. The rabbinic elaboration (the melakhah categories, kiddush, the meals, havdalah) is attributed to the tradition's practice and rests on the secondary literature at medium rather than on a primary read here; the Safed bride-and-queen welcome is treated in the kabbalat-shabbat entry and its sources. Heschel's The Sabbath is verified to exist (author, title, publisher, and year confirmed via the Internet Archive catalog record; the 'palace in time' phrase is widely attested in the scholarly and review literature), not read line-by-line, so rated medium and kept honest; the phrase is attributed to Heschel, not asserted in editorial voice. Sources triangulate the primary texts read openly on Sefaria with a modern Jewish thinker's classic study (Heschel). No encyclopedias, Wikipedia, or tertiary sources. The Sefaria English cited here as the Revised JPS (2023) is the translation Sefaria displays as 'JPS TANAKH: Gender-Sensitive Edition (2023)'; they are the same text.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "kabbalat-shabbat",
+      "note": "Kabbalat Shabbat ('Welcoming the Sabbath'), the Friday evening service shaped by the sixteenth-century kabbalists of Safed, is the liturgy by which the tradition greets Shabbat at its onset, personifying the day as a bride and queen; the service exists to receive the day this entry describes."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "Shabbat observance is commanded in the Torah (both Decalogue versions and Exodus 31:16-17) and stands within the system of the mitzvot; the rabbinic tradition elaborated its prohibition of work into defined categories of labor (melakhah) alongside the day's positive commandments."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The day rests on the Torah: God's ceasing and hallowing of the seventh day at creation (Genesis 2:1-3), the two Decalogue commands with their creation and exodus rationales (Exodus 20:8-11; Deuteronomy 5:12-15), and the covenant-sign passage (Exodus 31:16-17), all read line-by-line on open Sefaria."
+    },
+    {
+      "type": "related_to",
+      "target": "brit",
+      "note": "Exodus 31:16-17 frames Shabbat as covenantal: Israel is to keep the sabbath 'throughout the ages as a covenant for all time' (brit olam), 'a sign for all time between Me and the people of Israel'; Shabbat is thus one of the tradition's covenant signs."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The command rests on Torah texts placed by the tradition in the Mosaic period, with the day's grounding set by the Torah at creation itself; the -1200 marker is a rough conventional anchor for the Mosaic era, not a precise dating claim. The weekly observance continues, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Genesis 2:1-3, open Hebrew and English text on Sefaria (Revised JPS 2023 translation; Hebrew per Miqra according to the Masorah). Cited as the openly-auditable primary text, read line-by-line: 'The heaven and the earth were finished, and all their array,' God's ceasing on the seventh day (Hebrew 'וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכׇּל־מְלַאכְתּוֹ'), and 'And God blessed the seventh day and declared it holy.' The load-bearing Torah source for the day's grounding in creation.",
+      "url": "https://www.sefaria.org/Genesis.2.1-3",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Exodus 20:8-11, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Remember the sabbath day and keep it holy' (Hebrew 'זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ'), the six days of labor and the seventh as 'a sabbath of the ETERNAL your God,' the extension of rest to household, cattle, and stranger, and the creation rationale, 'therefore GOD blessed the sabbath day and hallowed it.' The load-bearing Decalogue source ('Remember') with the creation rationale.",
+      "url": "https://www.sefaria.org/Exodus.20.8-11",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 5:12-15, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'Observe the sabbath day and keep it holy, as the ETERNAL your God has commanded you,' the rest extended 'so that your male and female slave may rest as you do,' and the exodus rationale, 'Remember that you were a slave in the land of Egypt ... therefore the ETERNAL your God has commanded you to observe the sabbath day.' The load-bearing Decalogue source ('Observe') with the liberation rationale.",
+      "url": "https://www.sefaria.org/Deuteronomy.5.12-15",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Exodus 31:16-17, open Hebrew and English text on Sefaria (Revised JPS 2023 translation; Hebrew per Miqra according to the Masorah). Cited as the openly-auditable primary text, read line-by-line: 'The Israelite people shall keep the sabbath, observing the sabbath throughout the ages as a covenant for all time' (Hebrew 'בְּרִית עוֹלָם'), 'a sign for all time between Me and the people of Israel,' and the seventh-day ceasing and refreshment (Hebrew 'שָׁבַת וַיִּנָּפַשׁ'). The load-bearing Torah source for Shabbat as covenant and sign.",
+      "url": "https://www.sefaria.org/Exodus.31.16-17",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Heschel, Abraham Joshua. The Sabbath: Its Meaning for Modern Man. New York: Farrar, Straus and Young, 1951 (later printings Farrar, Straus and Giroux). The classic modern Jewish study of the Sabbath, articulating the day as Judaism's sanctification of time, a 'palace in time,' holiness located in time rather than in space; cited as the modern Jewish thinker's lens on the day's meaning, attributed to Heschel rather than asserted editorially. Verified to exist and be on-topic (author, title, publisher, and year confirmed via the Internet Archive catalog record and the contemporary review literature), not read line-by-line.",
+      "url": "https://archive.org/details/sabbathitsmeanin0000hesc",
+      "license": "Proprietary; cited for reference (library catalog record).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "sukkot",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sukkot",
+    "original": "סֻכּוֹת",
+    "transliteration": "Sukkot",
+    "aliases": [
+      "The Feast of Booths",
+      "The Feast of Tabernacles",
+      "Chag HaAsif (Feast of Ingathering)",
+      "Succoth",
+      "Sukkos"
+    ]
+  },
+  "category": "festivals (moadim)",
+  "summary": "Sukkot (the Feast of Booths) is the autumn festival beginning on the fifteenth day of the seventh month, celebrated for seven days at the ingathering of the year's produce; the Torah commands dwelling in booths and taking the four species, and gives as the booth's reason the remembrance that Israel dwelt in booths when brought out of Egypt. It is the third of the three pilgrimage festivals (shalosh regalim) and is marked in its texts by the command to rejoice.",
+  "description": "Sukkot (the Feast of Booths) is set out in the festival calendar of Leviticus 23:33-43, read here line-by-line: 'On the fifteenth day of this seventh month there shall be the Feast of Booths to GOD, [to last] seven days.' The calendar ties the festival to the agricultural year, 'on the fifteenth day of the seventh month, when you have gathered in the yield of your land, you shall observe the festival of GOD' (Leviticus 23:39), and commands the taking of the four species: 'On the first day you shall take the product of hadar trees, branches of palm trees, boughs of leafy trees, and willows of the brook, and you shall rejoice before the ETERNAL your God seven days' (Leviticus 23:40). The command that gives the festival its name follows: 'You shall live in booths seven days; all citizens in Israel shall live in booths' (Hebrew 'בַּסֻּכּוֹת תֵּשְׁבוּ שִׁבְעַת יָמִים'), and the Torah itself states the reason, 'in order that future generations may know that I made the Israelite people live in booths when I brought them out of the land of Egypt' (Leviticus 23:42-43). Deuteronomy 16:13-15 restates the festival for the chosen place: 'After the ingathering from your threshing floor and your vat, you shall hold the Feast of Booths for seven days,' with the inclusive command to rejoice 'with your son and daughter, your male and female slave, the Levite, the stranger, the fatherless, and the widow in your communities,' concluding 'and you shall have nothing but joy.'\n\nLike the other pilgrimage festivals Sukkot carries a double significance in the tradition: agriculturally it is the festival of the autumn ingathering, when the produce of threshing floor and vat has been gathered (Exodus 23:16 calls it the Feast of Ingathering), and commemoratively it recalls, per Leviticus 23:43, the dwelling of Israel in booths in the wilderness after the Exodus. It is distinguished in its own texts by the theme of joy: the command to rejoice appears in both the Leviticus and the Deuteronomy passages, and the tradition came to know the festival as the season of our rejoicing.\n\nAs the third of the shalosh regalim, Sukkot was, in the Temple period, an occasion of pilgrimage to Jerusalem and of the festival's offerings there; its characteristic observances, dwelling in the sukkah for seven days and taking the four species, are commanded in Leviticus 23 itself and were elaborated in the rabbinic tradition. Jeffrey Rubenstein's monograph on the history of Sukkot traces the festival's celebration and interpretation across the Second Temple and rabbinic periods, including its Temple rites and the post-Temple continuation of the sukkah and the four species. This entry describes the festival, its Torah basis, and its meanings as features of the tradition's own texts and practice.",
+  "editorial_notes": "This entry describes Sukkot on Judaism's own terms (neutrality #1, #4, #6). The load-bearing scriptural material rests on the primary texts read line-by-line on open Sefaria: Leviticus 23:33-43 (confirmed verbatim, including 'On the fifteenth day of this seventh month there shall be the Feast of Booths to GOD, [to last] seven days,' the ingathering framing of 23:39, the four species of 23:40, the command 'You shall live in booths seven days' with the Hebrew 'בַּסֻּכּוֹת תֵּשְׁבוּ שִׁבְעַת יָמִים', and the stated reason of 23:43, 'in order that future generations may know that I made the Israelite people live in booths when I brought them out of the land of Egypt') and Deuteronomy 16:13-15 (confirmed verbatim, including 'After the ingathering from your threshing floor and your vat' and 'you shall have nothing but joy'). Those two are rated high. The Sefaria English is the Revised JPS (2023) translation (CC-BY-NC); the underlying Hebrew is public domain. The characterizations of the Temple-period celebration, the rabbinic elaboration of the sukkah and the four species, and the designation of the festival as the season of rejoicing rest on secondary scholarship at medium rather than on a primary read here. Rubenstein's monograph is verified to exist and be on-topic (author, title, series, publisher, and year confirmed), not read line-by-line, so rated medium, the same rating this source carries in the shalosh-regalim entry (confidence honesty). Sources triangulate the primary texts read openly on Sefaria with a contemporary Jewish scholar's academic monograph on this festival (Rubenstein). No encyclopedias, Wikipedia, or tertiary sources. The Sefaria English cited here as the Revised JPS (2023) is the translation Sefaria displays as 'JPS TANAKH: Gender-Sensitive Edition (2023)'; they are the same text.",
+  "relations": [
+    {
+      "type": "part_of",
+      "target": "shalosh-regalim",
+      "note": "Sukkot is the third of the shalosh regalim, the three pilgrimage festivals on which the Torah commands appearance before God (Deuteronomy 16:16); in the Temple period it was fulfilled by pilgrimage to Jerusalem and the festival's offerings there."
+    },
+    {
+      "type": "derives_from",
+      "target": "torah",
+      "note": "The festival rests on the Torah: the festival calendar with the booths, the four species, and the stated wilderness reason (Leviticus 23:33-43), and the Deuteronomic restatement at the ingathering with the command to rejoice (Deuteronomy 16:13-15), read line-by-line on open Sefaria."
+    }
+  ],
+  "historical_period": {
+    "start": -1200,
+    "note": "The festival rests on Torah commands placed by the tradition in the Mosaic period; the -1200 marker is a rough conventional anchor for that era, not a precise dating claim. The festival continues to be observed, so no end date is given."
+  },
+  "sources": [
+    {
+      "citation": "The Book of Leviticus 23:33-43, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'On the fifteenth day of this seventh month there shall be the Feast of Booths to GOD, [to last] seven days' (23:34); the ingathering framing, 'when you have gathered in the yield of your land' (23:39); the four species, 'the product of hadar trees, branches of palm trees, boughs of leafy trees, and willows of the brook,' with the command to rejoice seven days (23:40); 'You shall live in booths seven days; all citizens in Israel shall live in booths' (Hebrew 'בַּסֻּכּוֹת תֵּשְׁבוּ שִׁבְעַת יָמִים', 23:42); and the stated reason, 'in order that future generations may know that I made the Israelite people live in booths when I brought them out of the land of Egypt' (23:43). The load-bearing Torah source for the festival's times, observances, and commemorative meaning.",
+      "url": "https://www.sefaria.org/Leviticus.23.33-43",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Book of Deuteronomy 16:13-15, open Hebrew and English text on Sefaria (Revised JPS 2023 translation). Cited as the openly-auditable primary text, read line-by-line: 'After the ingathering from your threshing floor and your vat, you shall hold the Feast of Booths for seven days'; the inclusive rejoicing 'with your son and daughter, your male and female slave, the Levite, the stranger, the fatherless, and the widow in your communities'; and the conclusion 'and you shall have nothing but joy.' The load-bearing Torah source for the agricultural anchor and the festival's theme of joy.",
+      "url": "https://www.sefaria.org/Deuteronomy.16.13-15",
+      "license": "Underlying Hebrew in the public domain; Sefaria's English translation (Revised JPS 2023) is CC-BY-NC. Read line-by-line for this entry.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Rubenstein, Jeffrey L. The History of Sukkot in the Second Temple and Rabbinic Periods. Brown Judaic Studies 302. Atlanta: Scholars Press, 1995 (xiv, 361 pp.). A contemporary Jewish scholar's monograph tracing the festival across the Second Temple and rabbinic periods, including its agricultural and commemorative meanings, its celebration at the Temple, and its observance (the sukkah and the four species); cited as the academic and contemporary-Jewish-scholar lens on the festival's history and observance. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed), not read line-by-line.",
+      "url": "https://judaicstudies.brown.edu/monograph/history-sukkot-second-temple-and-rabbinic-periods",
+      "license": "Proprietary; cited for reference (publisher/series page).",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "sermon-on-the-mount",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Sermon on the Mount",
+    "original": "De sermone Domini in monte (traditional Latin title, from Augustine)",
+    "transliteration": "Sermo Domini in monte",
+    "aliases": [
+      "the Sermon on the Mount (Matthew 5-7)",
+      "Bergpredigt"
+    ]
+  },
+  "category": "biblical theology and ethics",
+  "summary": "The Sermon on the Mount is the discourse of Jesus in Matthew 5-7, the first and longest of the five great discourses of the Gospel of Matthew, containing the Beatitudes, the antitheses ('You have heard that it was said... But I tell you...'), the Lord's Prayer, and the golden rule. It closes with the crowds astonished 'because He taught as one who had authority, and not as their scribes' (Matthew 7:28-29).",
+  "description": "The Sermon on the Mount is the block of teaching that the Gospel of Matthew presents Jesus delivering on a mountain in Galilee (Matthew 5:1-2), occupying chapters 5-7 and forming the first of the Gospel's five great discourses. Its traditional name descends from the Latin title of Augustine's early commentary, De sermone Domini in monte (On the Lord's Sermon on the Mount).\n\nThe contents were read verbatim for this entry (Berean Standard Bible unless noted). The sermon opens with the Beatitudes: 'Blessed are the poor in spirit, for theirs is the kingdom of heaven' (5:3), through 'Blessed are the peacemakers, for they will be called sons of God' (5:9), followed by the sayings 'You are the salt of the earth' and 'You are the light of the world' (5:13-14). Jesus then states his relation to the Law: 'Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them, but to fulfill them' (5:17), and delivers the six so-called antitheses in the recurring form 'You have heard that it was said... But I tell you...', intensifying the commandments on murder and anger, adultery, divorce, oaths, retaliation ('If someone slaps you on your right cheek, turn to him the other also', 5:39), and love of enemies ('Love your enemies and pray for those who persecute you', 5:44), concluding 'Be perfect, therefore, as your heavenly Father is perfect' (5:48). Chapter 6 treats almsgiving, prayer, and fasting done before God rather than for human praise, and contains the Lord's Prayer: 'Our Father in heaven, hallowed be Your name. Your kingdom come, Your will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one' (6:9-13), together with the summons 'But seek first the kingdom of God and His righteousness' (6:33). Chapter 7 includes the golden rule, 'In everything, then, do to others as you would have them do to you' (7:12), and closes with the parable of the wise man who 'hears these words of Mine and acts on them' and builds his house on the rock (7:24), after which 'the crowds were astonished at His teaching, because He taught as one who had authority, and not as their scribes' (7:28-29).\n\nCritical scholarship treats the sermon as a Matthean composition of Jesus tradition: Hans Dieter Betz's Hermeneia commentary surveys its history of interpretation, genre, and compositional history and reads it alongside the shorter, parallel Sermon on the Plain in Luke 6; W. D. Davies's The Setting of the Sermon on the Mount places the discourse in its first-century Jewish setting. The history of Christian interpretation is long and divided, and the divergent readings are recorded here as attributed positions: Augustine's commentary stands at the head of the tradition of reading the sermon as a rule of Christian life; later readings have variously treated it as attainable command, as counsel for the few, or as ideal that convicts; and Dietrich Bonhoeffer's Discipleship (Nachfolge, 1937) reads it as the concrete call of Christ to be obeyed in discipleship. This entry reports the text and the range of its interpretation without adjudicating among the readings.",
+  "editorial_notes": "This entry describes the Sermon on the Mount as the text of Matthew 5-7 and reports its interpretation history as attributed positions (neutrality #1, #2, #6): no reading (Augustine's, Bonhoeffer's, or any other) is endorsed, and the question of how the sermon's demands are to be lived is left to the traditions that dispute it. The claim that Jesus delivered the sermon is presented as the Gospel's presentation (Matthew 5:1-2), which is how the articulated_by relation is framed.\n\nSourcing triangulates the three Christian lenses per neutrality #8: (a) academic biblical scholarship (Betz's Hermeneia commentary; Davies's The Setting of the Sermon on the Mount); (b) the primary corpus, the text of Matthew 5-7, read verbatim; (c) a modern Christian theological reading (Bonhoeffer's Discipleship), with Augustine's De sermone Domini in monte as the classical reception at the head of the commentary tradition. No encyclopedias, no Wikipedia, no tertiary sources.\n\nCONFIDENCE HONESTY: one source is rated high. The text of Matthew 5-7 was read line by line at biblehub.com (Berean Standard Bible) and the load-bearing wording confirmed word for word: 5:3 'Blessed are the poor in spirit, for theirs is the kingdom of heaven'; 5:17 'Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them, but to fulfill them'; 5:39 'If someone slaps you on your right cheek, turn to him the other also'; 5:44 'Love your enemies and pray for those who persecute you'; 5:48 'Be perfect, therefore, as your heavenly Father is perfect'; 6:9-13 the Lord's Prayer ('Our Father in heaven, hallowed be Your name...'); 7:12 'In everything, then, do to others as you would have them do to you'; 7:28-29 'He taught as one who had authority, and not as their scribes'. Betz, Davies, Augustine, and the Bonhoeffer volume are rated medium: verified to exist and be on-topic (publisher and catalogue records; for Betz and Davies also academic reviews), not read line by line. This entry is referenced by discipleship.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "jesus-of-nazareth",
+      "note": "The Gospel of Matthew presents the sermon as the teaching of Jesus delivered on the mountain (Matthew 5:1-2), closing with the crowds astonished at his authority (7:28-29); recorded as the Gospel's presentation."
+    },
+    {
+      "type": "related_to",
+      "target": "discipleship",
+      "note": "The central chapters of Bonhoeffer's Discipleship (Nachfolge, 1937) are a sustained exposition of the Sermon on the Mount, reading it as the concrete call of Christ to be obeyed; this entry supplies the sermon that the work expounds. Bonhoeffer's reading is his attributed position."
+    },
+    {
+      "type": "related_to",
+      "target": "grace",
+      "note": "How the sermon's demands relate to grace (attainable command, counsel, convicting ideal, or call bound to costly grace) is a standing question across the interpretive traditions; the divergent answers are attributed positions, not adjudicated here."
+    }
+  ],
+  "historical_period": {
+    "start": 80,
+    "note": "The Gospel of Matthew is conventionally dated to c. 80-90 CE; the sermon's setting within the Gospel narrative is the ministry of Jesus (c. 28-30 CE). The date marks the conventional composition of the Matthean text, and both figures are approximate."
+  },
+  "sources": [
+    {
+      "citation": "The Gospel of Matthew, chapters 5-7 (the Sermon on the Mount). Berean Standard Bible, via Bible Hub. Primary text, read line by line. Load-bearing wording confirmed verbatim: the Beatitudes (5:3 'Blessed are the poor in spirit, for theirs is the kingdom of heaven'), the fulfillment saying (5:17), the antitheses (5:21-48, including 5:39 'turn to him the other also', 5:44 'Love your enemies and pray for those who persecute you', 5:48 'Be perfect, therefore, as your heavenly Father is perfect'), the Lord's Prayer (6:9-13 'Our Father in heaven, hallowed be Your name...'), 6:33 'But seek first the kingdom of God and His righteousness', the golden rule (7:12 'In everything, then, do to others as you would have them do to you'), the wise builder (7:24), and the closing note on authority (7:28-29).",
+      "url": "https://biblehub.com/matthew/5.htm",
+      "license": "Underlying Greek text public domain; the Berean Standard Bible is released for free use. Read line by line at biblehub.com.",
+      "accessed": "2026-09-15",
+      "confidence": "high"
+    },
+    {
+      "citation": "Betz, Hans Dieter. The Sermon on the Mount: A Commentary on the Sermon on the Mount, Including the Sermon on the Plain (Matthew 5:3-7:27 and Luke 6:20-49). Hermeneia. Minneapolis: Fortress Press, 1995. The major critical commentary, opening with a survey of the history of interpretation and treating the sermon's compositional history, genre, and relation to the Lukan Sermon on the Plain. Academic biblical-scholarship lens; verified to exist and be on-topic (Fortress Press; academic reviews), not read line by line.",
+      "url": "https://www.fortresspress.com/store/product/9780800660314/The-Sermon-on-the-Mount",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Davies, W. D. The Setting of the Sermon on the Mount. Cambridge: Cambridge University Press, 1964. A standard scholarly study placing the sermon in its first-century Jewish and early Christian setting. Academic biblical-scholarship lens; verified to exist and be on-topic (Cambridge University Press; reviews in New Testament Studies and Scottish Journal of Theology), not read line by line.",
+      "url": "https://archive.org/details/settingofsermono1964davi",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Augustine of Hippo. On the Lord's Sermon on the Mount (De sermone Domini in monte), c. 393-396. Trans. in Nicene and Post-Nicene Fathers, First Series, Vol. 6. The earliest full commentary on the sermon and the source of its traditional Latin title; head of the classical Christian commentary tradition. Verified to exist and be on-topic, relevant passages not read line by line.",
+      "url": "https://www.newadvent.org/fathers/1601.htm",
+      "license": "Classical Latin text and NPNF translation public domain; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bonhoeffer, Dietrich. Discipleship. Dietrich Bonhoeffer Works, Volume 4. Edited by Geffrey B. Kelly and John D. Godsey; translated by Barbara Green and Reinhard Krauss (German Nachfolge, 1937). Minneapolis: Fortress Press, 2003. A modern Christian theological reading whose central chapters expound the Sermon on the Mount as the concrete call of Christ. Modern Christian-theological lens; cited for Bonhoeffer's attributed reading, verified to exist and be on-topic, not read line by line.",
+      "url": "https://www.fortresspress.com/store/product/9780800683245/Discipleship",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-15",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-15",
+  "updated": "2026-09-15"
+}
