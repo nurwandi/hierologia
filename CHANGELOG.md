@@ -6,6 +6,34 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.27.0] - 2026-09-15
+
+Closing dangling references across all three traditions: twelve entities spanning the Jewish festival and
+sacred-time cycle, Christian pneumatology and the liberal-theology lineage, Islamic legal schools and the
+lesser pilgrimage, and the modern Jewish dialogical thinkers. Four enter `verified` on open Tanakh reads
+(Sefaria), eight `reviewed`. Dangling targets fall from 28 to 16.
+
+### Added
+- **Judaism, festivals and sacred time** (4, all `verified`): the concepts `pesach`, `shavuot`, `sukkot`
+  (closing the three pilgrimage festivals under `shalosh-regalim`), and `shabbat` (under `kabbalat-shabbat`).
+- **Christianity** (3): the concepts `holy-spirit` (pneumatology, wired to `trinity`, `paraclete`,
+  `filioque`, `god-in-christianity`) and `sermon-on-the-mount`, and the figure `adolf-von-harnack`.
+- **Islam** (2): the concepts `madhhab` (the legal schools) and `umra` (the lesser pilgrimage).
+- **Judaism, modern** (3): the figure `franz-rosenzweig`, the work `i-and-thou`, and the concept
+  `brisker-method`.
+
+### Changed
+- Verified (4): `pesach`, `shavuot`, `sukkot`, `shabbat`, each on Tanakh primaries read line-by-line on
+  Sefaria (Exodus 12; Leviticus 23; Deuteronomy 16; Genesis 2:1-3; Exodus 20 and 31; Deuteronomy 5) plus
+  Mishnah Pesachim 10 and Shabbat 86b, with the agricultural Torah layer held apart from the rabbinic
+  interpretive layer (the Sinai association of Shavuot attributed as rabbinic). The verified tier is now 146.
+- Reviewed (8), honestly: the Christian, Islamic, and modern-Jewish entries above, whose load-bearing
+  claims rest on proprietary or secondary scholarship (or, for `umra` and `madhhab`, a school-obligation
+  and school-formation account that a primary read would be needed to lift to `verified`).
+- Scrubbed stale build-state prose from four neighbor entries whose forward references are now authored
+  (`liberal-theology`, `university-of-berlin`, `volozhin-yeshiva`, `joseph-soloveitchik`); corrected the
+  Harnack archive imprints and the Congar archive identifier; fixed `brisker-method` ("son", not "sons").
+
 ## [0.26.0] - 2026-09-15
 
 The graph gains its center. ADR-0009 introduces deity concepts, one per tradition: the God each tradition
