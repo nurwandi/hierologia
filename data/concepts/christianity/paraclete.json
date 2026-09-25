@@ -36,8 +36,8 @@
     },
     {
       "type": "compares_with",
-      "target": "islam-view-of-jesus",
-      "note": "Shared question: what or whom the Johannine parakletos foretells. Christian tradition reads the Paraclete as the Holy Spirit; an Islamic interpretation reads parakletos, sometimes as periklytos ('praised'), as a foretelling of the prophet Muhammad, linked to the Qur'anic name Ahmad (Qur'an 61:6). The two readings are set side by side as attributed positions; Christian tradition does not accept the Islamic reading, and neither reading is adjudicated or ranked here (neutrality #10, #11). Dangling forward reference; islam-view-of-jesus is not yet a separate entry."
+      "target": "isa",
+      "note": "Shared question: what or whom the Johannine parakletos foretells. Christian tradition reads the Paraclete as the Holy Spirit; an Islamic interpretation reads parakletos, sometimes as periklytos ('praised'), as a foretelling of the prophet Muhammad, linked to the Qur'anic name Ahmad (Qur'an 61:6), the verse in which the isa entry records Jesus announcing a messenger to come after him. The two readings are set side by side as attributed positions; Christian tradition does not accept the Islamic reading, and neither reading is adjudicated or ranked here (neutrality #10, #11)."
     }
   ],
   "historical_period": {
@@ -77,5 +77,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-26",
-  "updated": "2026-09-15"
+  "updated": "2026-09-25"
 }

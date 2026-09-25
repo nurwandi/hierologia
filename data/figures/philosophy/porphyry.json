@@ -1,0 +1,79 @@
+{
+  "id": "porphyry",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Porphyry of Tyre",
+    "original": "Πορφύριος",
+    "transliteration": "Porphyrios",
+    "aliases": [
+      "Porphyry",
+      "Malchus",
+      "Malchos",
+      "Furfuriyus (Arabic: فرفوريوس)"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "editor",
+    "biographer"
+  ],
+  "summary": "Porphyry of Tyre (c. 234-305 CE) was a Greek philosopher, the pupil of Plotinus who after his master's death edited and arranged his fifty-four treatises into the six sets of nine known as the Enneads and prefixed to them the Life of Plotinus. His own works include the Isagoge, a short introduction to Aristotle's logic that became a standard textbook, and the treatise Against the Christians, which survives only in fragments.",
+  "description": "Porphyry was born about 234 CE, probably at Tyre, and bore in his own tongue the name Malchus, which he notes 'would give Basileus in Greek'; the Greek name Porphyry (Porphyrios, 'purple-robed') by which he is known plays on it. In the Life of Plotinus he identifies himself directly: 'I myself, Porphyry of Tyre, was one of Plotinus' very closest friends, and it was to me he entrusted the task of revising his writings.' He records that he came to Plotinus at Rome in the tenth year of the emperor Gallienus (263 CE), and the Life also preserves a personal episode in which, having 'formed the intention of ending my life', he was dissuaded by Plotinus, who 'told me that my decision sprang not from reason but from mere melancholy' and advised him to leave for Sicily.\n\nAfter Plotinus's death Porphyry carried out the editorial work for which he is best known. As he explains, 'I had fifty-four treatises before me: I divided them into six sets of nine', the arrangement (from the Greek ennea, nine) that gives the Enneads their name and order and that shapes how Plotinus has been read ever since; the biography he prefixed, On the Life of Plotinus and the Order of His Books, is the principal source for Plotinus's life. Porphyry's own writings ranged widely. The Isagoge (Introduction), a short account of the five predicables (genus, species, differentia, property, and accident) written as an introduction to Aristotle's Categories, became a standard elementary logic textbook, was translated into Latin by Boethius, and passed into the Arabic and Latin curricula, where its discussion of universals framed a long medieval debate. He also wrote on Homer, on abstinence from animal food, on the soul, and much else. His fifteen-book treatise Against the Christians (Kata Christianōn), a sustained critique of Christian scripture and doctrine, does not survive intact: it was condemned and ordered burned in later antiquity, and it is now known only through fragments and reports preserved, largely hostile, in the works of the Christian writers who answered it. This entry treats that work as a lost text reconstructed from attributed, and often adversarial, secondary witnesses, and does not endorse either Porphyry's arguments or his opponents' characterisations of them.",
+  "editorial_notes": "Porphyry is filed under the philosophy tradition per ADR-0007 (the shared Greek substrate namespace) as the pupil and editor of Plotinus, and is not annexed to any religious tradition. His treatise Against the Christians is described neutrally as a lost anti-Christian work known only in fragments: the entry reports its existence and transmission, quotes none of its polemic as evidence about Christianity, and does not adjudicate the dispute between Porphyry and his Christian respondents (cf. neutrality #11 on not citing one tradition's polemic about another as evidence for what that other teaches). Sourcing triangulates open primary text with modern scholarship per neutrality principles #8 and #9: (a) the primary text, Porphyry's Life of Plotinus; (b) his Isagoge in Jonathan Barnes's translation and commentary; (c) the fragments of Against the Christians as collected by Adolf von Harnack; (d) Andrew Smith's academic monograph on Porphyry. PRIMARY-SPINE HONESTY: the Life of Plotinus was read directly in the public-domain MacKenna translation and quoted verbatim (Porphyry's self-identification, 'I myself, Porphyry of Tyre, was one of Plotinus' very closest friends'; the Malchus/Basileus note; 'I had fifty-four treatises before me: I divided them into six sets of nine'; and the Sicily episode, 'formed the intention of ending my life'), so it is rated high. Barnes (Isagoge), Harnack (Against the Christians fragments), and Smith are rated medium, verified to exist and be on-topic via publisher and archive records, not read line-by-line. Per the source rule, no encyclopedia (including the Stanford Encyclopedia of Philosophy), no Wikipedia, and no tertiary source is cited. Relation targets plotinus, neoplatonism, and aristotle all exist under data/.",
+  "lifespan": {
+    "birth": 234,
+    "death": 305,
+    "note": "c. 234-305 CE; both years are approximate. Born probably at Tyre; he studied under Plotinus at Rome, which he reports joining in the tenth year of Gallienus (263 CE)."
+  },
+  "relations": [
+    {
+      "type": "student_of",
+      "target": "plotinus",
+      "note": "Porphyry was Plotinus's pupil at Rome, joining him (by his own account) in the tenth year of Gallienus; the plotinus entry carries the reciprocal teacher_of edge. After Plotinus's death Porphyry edited and arranged the treatises into the six Enneads and wrote the Life of Plotinus prefixed to them."
+    },
+    {
+      "type": "related_to",
+      "target": "neoplatonism",
+      "note": "Porphyry is a central figure of the current modern scholars call Neoplatonism: as Plotinus's editor he gave the Enneads the shape in which the movement's founding texts have been read, and his own writings, especially the Isagoge, carried Neoplatonic and Aristotelian logic into the later curriculum."
+    },
+    {
+      "type": "related_to",
+      "target": "aristotle",
+      "note": "Porphyry's Isagoge was written as an introduction to Aristotle's Categories, expounding the five predicables (genus, species, differentia, property, accident); through Boethius's Latin version and the Arabic tradition it became the standard entry point to Aristotelian logic and framed the medieval debate over universals."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Porphyry. On the Life of Plotinus and the Order of His Books, trans. Stephen MacKenna, prefixed to Plotinus, The Enneads. Primary text; Porphyry's own account of himself and of his editing of Plotinus. Read directly in the public-domain MacKenna translation and quoted verbatim: his self-identification ('I myself, Porphyry of Tyre, was one of Plotinus' very closest friends, and it was to me he entrusted the task of revising his writings'); the note that his native name Malchos 'would give Basileus in Greek'; his editorial statement ('I had fifty-four treatises before me: I divided them into six sets of nine'); and the episode in which, having 'formed the intention of ending my life', Plotinus advised him to leave for Sicily. Also translated by A. H. Armstrong, Loeb Classical Library 440.",
+      "url": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Porphyry's_Life_of_Plotinus",
+      "license": "Public domain (MacKenna translation, Wikisource; Greek original in the public domain).",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Porphyry. Introduction (Isagoge). Translated, with a commentary, by Jonathan Barnes. Clarendon Later Ancient Philosophers. Oxford: Clarendon Press, 2003. Primary text with scholarly apparatus; the standard introduction to the five predicables written as a preface to Aristotle's Categories. Cited for the content and afterlife of the Isagoge; verified to exist and be on-topic (Oxford University Press) but not read line-by-line, so rated medium.",
+      "url": "https://global.oup.com/academic/product/porphyry-introduction-9780199246144",
+      "license": "Proprietary translation and commentary; Greek original in the public domain. Cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Harnack, Adolf von. Porphyrius, 'Gegen die Christen', 15 Bücher: Zeugnisse, Fragmente und Referate. Abhandlungen der Königlich Preussischen Akademie der Wissenschaften, phil.-hist. Klasse, 1916, no. 1. Berlin, 1916. The standard scholarly collection of the surviving testimonia and fragments of Porphyry's lost Against the Christians, gathered from the (largely hostile) Christian authors who cite it. Cited to establish that the work survives only in fragments and as an attributed, adversarial witness; verified to exist and be on-topic (Internet Archive; HathiTrust catalogue), not read line-by-line.",
+      "url": "https://archive.org/details/harnack-gegen-die-christen.-15-bucher-1916",
+      "license": "Public domain (1916 academy volume; hosted on Internet Archive). Cited for reference; not read line-by-line.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Smith, Andrew. Porphyry's Place in the Neoplatonic Tradition: A Study in Post-Plotinian Neoplatonism. The Hague: Martinus Nijhoff, 1974. Academic monograph on Porphyry's philosophy and his position within Neoplatonism after Plotinus; cited as the modern scholarly lens. Verified to exist and be on-topic (Classical Review notice; publisher records), not read line-by-line.",
+      "url": "https://link.springer.com/book/10.1007/978-94-010-1604-9",
+      "license": "Proprietary; cited for reference; text not reproduced.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

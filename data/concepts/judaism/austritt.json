@@ -1,0 +1,63 @@
+{
+  "id": "austritt",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Austritt",
+    "original": "Austritt",
+    "transliteration": "",
+    "aliases": [
+      "Secession",
+      "Separatist Orthodoxy",
+      "Trennungsorthodoxie",
+      "Austrittsgemeinde"
+    ]
+  },
+  "category": "communal organization / denominational dispute",
+  "summary": "Austritt (German for 'secession' or 'withdrawal') is the principle and practice by which separatist Orthodox congregations in nineteenth-century Germany formally seceded from the general, Reform-influenced Jewish community (Gemeinde) to constitute independent Orthodox communities. It is associated above all with Samson Raphael Hirsch and the Frankfurt Orthodox community, and became possible in law through the Prussian Law of Secession of 1876.",
+  "description": "Austritt, from the German for stepping out or withdrawing, denotes the separatist stance within German Orthodoxy that the observant should organize themselves in communities institutionally independent of the general Jewish community once that community had come under Reform influence. The account that follows presents the competing positions as attributed to the parties who held them; this entry does not rule which side represented the authentic communal order.\n\nIn the German states each locality typically had a single legally recognized Jewish community, the Gemeinde, to which Jews belonged and which administered synagogues, schools, and communal funds. As Reform gained ground in the leadership of many such communities in the nineteenth century, Orthodox members faced the question whether they could remain organizationally bound to institutions they regarded as no longer observant. When Prussian legislation of 1876, the Law of Secession (Austrittsgesetz), permitted an individual to leave a religious community without being deemed to have left his religion, the issue became practical. Samson Raphael Hirsch, rabbi of the separatist Israelitische Religionsgesellschaft in Frankfurt am Main, pressed for Austritt, holding that the observant were obligated to withdraw from a communal body that supported non-observant institutions and to maintain a fully independent Orthodox community.\n\nHirsch's separatist position was not shared by all Orthodox authorities, and this entry records the counter-position with equal weight. Seligmann Bär Bamberger of Würzburg, a leading Orthodox halakhist, argued that where the general community was willing to guarantee the religious needs of its Orthodox members (kosher provision, ritual baths, Orthodox schooling and burial), secession was not required, and that maintaining the unity of the community (klal Yisrael) counted against a formal split. The dispute between the separatist Orthodoxy of Hirsch and the community Orthodoxy represented by Bamberger divided German Orthodox opinion; both are presented here as attributed positions within an intra-Orthodox and intra-Jewish disagreement, and neither is ranked as the correct one. The scholarship on German Orthodoxy (Breuer, Ellenson) sets the controversy in its social and legal context and traces how the two models of Orthodox communal life persisted alongside each other.",
+  "editorial_notes": "This entry presents Austritt as a communal-organizational principle and controversy within nineteenth-century German Orthodoxy, on the parties' own terms (neutrality #1, #4, #6). Per neutrality #2 and #7 both sides are recorded as attributed positions: the SEPARATIST position of Samson Raphael Hirsch (the observant are obligated to withdraw from a Reform-influenced Gemeinde and form an independent Orthodox community) and the COMMUNITY-ORTHODOX position of Seligmann Bär Bamberger of Würzburg (secession is not required where the general community guarantees Orthodox religious needs, and communal unity weighs against a split). Neither is ranked; the entry does not rule which represents the authentic communal order, consistent with the orthodox-judaism entry. The legal trigger, the Prussian Law of Secession (Austrittsgesetz) of 1876, is stated as historical fact. Sources: (a) academic historians of German Orthodoxy, Mordechai Breuer, Modernity Within Tradition: The Social History of Orthodox Jewry in Imperial Germany (trans. Elizabeth Petuchowski, Columbia University Press for the Leo Baeck Institute, 1992), and David Ellenson, Rabbi Esriel Hildesheimer and the Creation of a Modern Jewish Orthodoxy (University of Alabama Press, 1990), which treat the Austritt controversy and the Hirsch-Bamberger dispute; and Robert Liberles, Religious Conflict in Social Context: The Resurgence of Orthodox Judaism in Frankfurt am Main, 1838-1877 (Greenwood, for the Leo Baeck Institute, 1985), the social history of the Frankfurt community centred on Hirsch's leadership and the secession. All rated MEDIUM, verified to exist and be on-topic (author, title, publisher, year confirmed via publisher and scholarly-review records), not read line-by-line. No encyclopedias, no Wikipedia, no tertiary sources. Seligmann Bär Bamberger is named in the exposition as the leading representative of the community-Orthodox counter-position, but the dataset holds no figure entity for him, so no relation is drawn to him. Relation targets present in the dataset: samson-raphael-hirsch, orthodox-judaism, reform-judaism.",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "samson-raphael-hirsch",
+      "note": "As rabbi of the Frankfurt Orthodox community, Samson Raphael Hirsch pressed for Austritt after the Prussian Law of Secession of 1876, holding that the observant were obligated to withdraw from the Reform-influenced general community and maintain an independent Orthodox one. This is presented as his attributed separatist position, which other Orthodox authorities (Bamberger) did not share."
+    },
+    {
+      "type": "related_to",
+      "target": "orthodox-judaism",
+      "note": "Austritt is an intra-Orthodox controversy over communal organization: separatist Orthodoxy (Hirsch) held secession from a Reform-influenced community to be obligatory, while community Orthodoxy (Bamberger) held it unnecessary where Orthodox religious needs were guaranteed. Both are attributed positions within Orthodoxy; the entry does not rank them."
+    },
+    {
+      "type": "related_to",
+      "target": "reform-judaism",
+      "note": "The Austritt question arose because the leadership of many general Jewish communities had come under Reform influence; the separatist argument was that the observant should not be organizationally bound to institutions they regarded as non-observant. Reported as the context of the dispute, not as a ruling on which movement is authentic (neutrality #2, #7)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Breuer, Mordechai. Modernity Within Tradition: The Social History of Orthodox Jewry in Imperial Germany. Translated by Elizabeth Petuchowski. New York: Columbia University Press, for the Leo Baeck Institute, 1992 (German original, Jüdische Orthodoxie im Deutschen Reich 1871-1918, 1986). The standard social history of Orthodox Jewry in imperial Germany, treating the Austritt controversy, the Prussian Law of Secession of 1876, and the split between separatist Orthodoxy (Hirsch) and community Orthodoxy (Bamberger); cited as the academic-history lens on the controversy. Verified to exist and be on-topic (Columbia University Press / Leo Baeck Institute; American Historical Review notice), not read line-by-line.",
+      "url": "https://academic.oup.com/ahr/article/99/1/256/75750",
+      "license": "Proprietary; cited for reference (the URL is a scholarly review confirming the book's details).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ellenson, David. Rabbi Esriel Hildesheimer and the Creation of a Modern Jewish Orthodoxy. Judaic Studies Series. Tuscaloosa: University of Alabama Press, 1990. A scholarly study of German Orthodoxy centred on Esriel Hildesheimer, treating the Austritt controversy and the differing Orthodox responses to secession, including the positions of Hirsch and of Seligmann Bär Bamberger; cited as an academic lens on the intra-Orthodox dispute. Verified to exist and be on-topic (University of Alabama Press record; nominated for the National Jewish Book Council award in Jewish History, 1990), not read line-by-line.",
+      "url": "https://www.uapress.ua.edu/9780817312725/rabbi-esriel-hildesheimer-and-the-creation-of-a-modern-jewish-orthodoxy/",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Liberles, Robert. Religious Conflict in Social Context: The Resurgence of Orthodox Judaism in Frankfurt am Main, 1838-1877. Contributions to the Study of Religion 13. Westport, CT: Greenwood Press, for the Leo Baeck Institute, 1985. An academic social history of the Frankfurt Orthodox community centred on Hirsch's leadership; cited for the political, legal, and communal context of the Austritt (secession) and Hirsch's separatist stance. Verified to exist and be on-topic (author, title, series, publisher, and year confirmed via AJS Review and American Historical Review notices), not read line-by-line.",
+      "url": "https://academic.oup.com/ahr/article/91/4/946/49066",
+      "license": "Proprietary; cited for reference (the URL is a scholarly review confirming the book's details).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

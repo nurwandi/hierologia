@@ -1,0 +1,82 @@
+{
+  "id": "jacob-ben-asher",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Jacob ben Asher",
+    "original": "יעקב בן אשר",
+    "transliteration": "Yaʿaqov ben Asher",
+    "aliases": [
+      "Baal ha-Turim",
+      "Baʿal ha-Ṭurim",
+      "The Tur",
+      "Jacob ben Asher ben Jehiel"
+    ]
+  },
+  "roles": [
+    "halakhist",
+    "codifier",
+    "biblical commentator"
+  ],
+  "summary": "Jacob ben Asher (c. 1269-1343), commonly called Baal ha-Turim after his major work, was a halakhist active in Germany and then in Toledo in Castile, a son of Asher ben Jehiel (the Rosh). He is remembered in the tradition chiefly as the compiler of the Arbaah Turim (the Tur), the halakhic code that arranged practical Jewish law into four parts and supplied the structural template later followed by Joseph Karo.",
+  "description": "Jacob ben Asher, born in the Rhineland around 1269 and dying at Toledo around 1343, is presented here on the tradition's own terms as one of the leading codifiers of medieval Jewish law. He was a son of Asher ben Jehiel, known as the Rosh, a foremost halakhic authority who left Germany for Castile, and Jacob accompanied his father to Toledo, where he lived, according to the biographical tradition, in poverty and devoted himself to study and writing. His positions and the standing of his works are attributed to him and to their reception in the tradition; this entry does not itself rule any code binding.\n\nHis principal work is the Arbaah Turim ('The Four Rows' or 'The Four Columns'), from which he takes his common name, Baal ha-Turim ('Master of the Rows'). Composed in the first half of the fourteenth century, the Tur gathers the practical, still-applicable areas of halakha and divides them into four parts, each a tur: Orach Chayim, on daily conduct, prayer, the Sabbath, and the festivals; Yoreh Deah, on dietary law, ritual prohibitions, and mourning; Even ha-Ezer, on marriage and family law; and Choshen Mishpat, on civil and monetary law. Rather than state settled rulings alone, Jacob ben Asher records the range of earlier authorities on each question, the geonim and the leading rishonim, prominently his father the Rosh alongside Alfasi and Maimonides, before indicating the ruling he takes to follow, so that the work reads as a digest of the halakhic discussion as well as a code. The opening of Orach Chayim, read openly on Sefaria for this entry, sets the register of the work, beginning with the exhortation of Judah ben Tema in Pirkei Avot, 'Be as strong as a leopard and as swift as an eagle, fleet as a gazelle and mighty as a lion, to perform the will of your Father in Heaven,' and building from it to the ordering of daily religious life.\n\nJacob ben Asher also composed a commentary on the Torah. It is remembered in two layers: a fuller exegetical commentary drawing on earlier peshat interpreters, and a shorter collection of remarks turning on gematria and other allusive readings that circulated widely under the name Baal ha-Turim and was often printed alongside the biblical text. In the reception of the tradition his standing rests above all on the Tur: when Joseph Karo, in the following century, set out to treat the law comprehensively, he wrote his Beit Yosef as a running commentary on the Arbaah Turim and then arranged his own Shulchan Aruch in the same four parts under the same titles, so that Jacob ben Asher's fourfold division became the architecture of the later standard code. This entry describes that place in the chain of codification as the position the work holds within the tradition and in its reception, and attributes the code's authority to how it has been received rather than adjudicating it.",
+  "editorial_notes": "This entry presents Jacob ben Asher on Judaism's own terms as the medieval codifier known as Baal ha-Turim, compiler of the Arbaah Turim (neutrality #1, #4, #6). The structure of the Tur (Orach Chayim, Yoreh Deah, Even ha-Ezer, Choshen Mishpat), its method of recording earlier authorities before indicating a ruling, and its role as the structural template for Karo's Beit Yosef and Shulchan Aruch are DESCRIBED as attributed features of the text and its reception, not adjudicated; the editor does not call any code binding in its own voice ('came to be regarded', 'attributes the code's authority to how it has been received'). Sources triangulate per neutrality #8-#9: (b) the PRIMARY text on Sefaria, open and auditable, the opening of Tur Orach Chayim read line-by-line and the load-bearing exhortation confirmed VERBATIM, 'הוי עז כנמר וקל כנשר רץ כצבי וגבור כארי לעשות רצון אביך שבשמים' ('Be as strong as a leopard and as swift as an eagle, fleet as a gazelle and mighty as a lion, to perform the will of your Father in Heaven'), the counsel of Judah ben Tema in Pirkei Avot with which the Tur opens (Hebrew: Orach Chaim, Vilna 1923, public domain; English: Sefaria Community Translation, CC0), rated HIGH; and (a) academic studies of the codification of Jewish law, Isadore Twersky (Judaism, 1967) and Menachem Elon (Jewish Law: History, Sources, Principles), which situate Jacob ben Asher and the Tur in the sequence of the codes between the Mishneh Torah and the Shulchan Aruch, rated MEDIUM, verified to exist and be on-topic (journal and publisher records), not read line-by-line. No encyclopedias, no Wikipedia, no tertiary sources. His father Asher ben Jehiel (the Rosh), and Alfasi, are named in the exposition as the authorities the Tur records, but the dataset holds no figure entity for them, so no relation is drawn to them; the Torah commentary called Baal ha-Turim is described as an attributed work. Relation targets present in the dataset: arba-ah-turim, rabbinic-judaism, maimonides, joseph-karo, halakha.",
+  "lifespan": {
+    "birth": 1269,
+    "death": 1343,
+    "note": "c. 1269-1343 CE; dates approximate. Born in the Rhineland (Germany), a son of Asher ben Jehiel (the Rosh) whom he followed to Toledo in the Crown of Castile, where he lived and worked until his death."
+  },
+  "relations": [
+    {
+      "type": "articulated",
+      "target": "arba-ah-turim",
+      "note": "Jacob ben Asher compiled the Arbaah Turim (the Tur), the fourteenth-century halakhic code organizing practical law into four parts; the opening of its Orach Chayim was read line-by-line on open Sefaria for this entry. His common name Baal ha-Turim ('Master of the Rows') derives from this work."
+    },
+    {
+      "type": "member_of",
+      "target": "rabbinic-judaism",
+      "note": "As a codifier building on the Talmud and the rulings of the geonim and rishonim, Jacob ben Asher stands within rabbinic Judaism."
+    },
+    {
+      "type": "influenced_by",
+      "target": "maimonides",
+      "note": "The Tur records Maimonides (the Mishneh Torah) among the leading authorities it weighs on each question; the comprehensive codification of the Mishneh Torah stands in the background of Jacob ben Asher's own project, though the Tur deliberately sets aside the Temple-dependent commandments that Maimonides had included. Stated as intellectual engagement within the tradition."
+    },
+    {
+      "type": "related_to",
+      "target": "joseph-karo",
+      "note": "Joseph Karo composed his Beit Yosef as a running commentary on the Arbaah Turim and arranged his Shulchan Aruch in the same four parts under the same titles, so that Jacob ben Asher's fourfold division became the framework of the later standard code. Reported as the reception of the Tur within the tradition."
+    },
+    {
+      "type": "related_to",
+      "target": "halakha",
+      "note": "The Arbaah Turim is a comprehensive code of practical Jewish law (halakha), digesting the earlier authorities and indicating a ruling; Jacob ben Asher is remembered chiefly as a halakhist."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Jacob ben Asher. Arbaah Turim (Tur), Orach Chayim 1; composed 14th century, first printed Piove di Sacco, 1475. Open Hebrew and English text on Sefaria (Hebrew: Orach Chaim, Vilna, 1923, public domain; English: Sefaria Community Translation, CC0). Cited as the openly-auditable primary work of Jacob ben Asher, its opening read line-by-line and verified verbatim: the exhortation of Judah ben Tema in Pirkei Avot with which the Tur opens, 'הוי עז כנמר וקל כנשר רץ כצבי וגבור כארי לעשות רצון אביך שבשמים' ('Be as strong as a leopard and as swift as an eagle, fleet as a gazelle and mighty as a lion, to perform the will of your Father in Heaven'). Read as the load-bearing text for the practical register in which Jacob ben Asher sets out the law.",
+      "url": "https://www.sefaria.org/Tur,_Orach_Chayim.1",
+      "license": "Hebrew: Orach Chaim (Vilna, 1923), public domain. English: Sefaria Community Translation (CC0). Openly auditable; the opening of Orach Chayim 1 read line-by-line via the Sefaria text API.",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Twersky, Isadore. 'The Shulhan 'Aruk: Enduring Code of Jewish Law.' Judaism 16, no. 2 (1967): 141-158. A study by a contemporary Jewish scholar (Harvard) of the codification of Jewish law, situating Jacob ben Asher's Arbaah Turim in the sequence of the codes between the Mishneh Torah and the Shulchan Aruch and treating how Karo followed the Tur's fourfold structure; cited as the academic and contemporary-Jewish-scholar lens on Jacob ben Asher's place in the history of the codes. Verified to exist and be on-topic (journal record), not read line-by-line.",
+      "url": "https://faculty.history.umd.edu/BCooperman/EarlyMod/Twersky.pdf",
+      "license": "Journal article (Judaism, 1967); open scan cited for reference.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Elon, Menachem. Jewish Law: History, Sources, Principles (Ha-Mishpat ha-Ivri). Translated by Bernard Auerbach and Melvin J. Sykes. 4 vols. Philadelphia: Jewish Publication Society, 1994. The standard academic study of the history and sources of Jewish law, treating Jacob ben Asher and the Arbaah Turim, its structure and method of recording earlier authorities, and its role as the framework later adopted by the Beit Yosef and the Shulchan Aruch; cited as the academic lens on Jacob ben Asher's method and his place in the codification of halakha. Verified to exist and be on-topic (JPS publication record), not read line-by-line.",
+      "url": "https://jps.org/books/jewish-law-4-volume-set/",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

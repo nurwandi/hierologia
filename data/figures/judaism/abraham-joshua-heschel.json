@@ -46,11 +46,6 @@
       "note": "The Prophets and God in Search of Man rest on Heschel's reading of the Hebrew Bible, especially the prophetic books; the tanakh entry exists (data/works/judaism/tanakh.json)."
     },
     {
-      "type": "contemporary_of",
-      "target": "martin-luther-king",
-      "note": "Heschel took a leading part in the American civil-rights movement, marching with Martin Luther King, Jr. in the 1965 Selma-to-Montgomery march; stated factually as his attributed activity. Dangling forward reference to a not-yet-created entity."
-    },
-    {
       "type": "related_to",
       "target": "second-vatican-council",
       "note": "Heschel was active in Jewish-Christian interfaith dialogue and consulted during the Second Vatican Council on the statement concerning the Jews (Nostra Aetate); stated factually, not ranked against other traditions (neutrality #10-#11). Dangling forward reference to a not-yet-created event entity."
@@ -103,5 +98,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-24",
-  "updated": "2026-07-24"
+  "updated": "2026-09-25"
 }

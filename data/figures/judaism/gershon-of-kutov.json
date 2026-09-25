@@ -1,0 +1,67 @@
+{
+  "id": "gershon-of-kutov",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Gershon of Kutov",
+    "original": "אַבְרָהָם גֵּרְשׁוֹן מִקִּיטוֹב",
+    "transliteration": "Avraham Gershon mi-Kitov",
+    "aliases": [
+      "Abraham Gershon of Kitov",
+      "Abraham Gershon of Kutow",
+      "Gershon Kutover",
+      "Avraham Gershon Ashkenazi"
+    ]
+  },
+  "roles": [
+    "talmudist and kabbalist",
+    "brother-in-law of the Baal Shem Tov",
+    "emigrant to the Land of Israel"
+  ],
+  "summary": "Abraham Gershon of Kutov (Kitov, c. 1701-c. 1761) was a talmudist and kabbalist, a member of the scholarly circle of Brody, and the brother-in-law of Israel ben Eliezer, the Baal Shem Tov. He is remembered chiefly as the recipient of the Besht's letter known as the 'Holy Epistle' (Iggeret ha-Kodesh), the single text most plausibly reflecting the Besht's own words, which recounts an ascent of the soul and an encounter with the messiah. Gershon emigrated to the Land of Israel in the 1740s, settling first at Hebron and later at Jerusalem, and his correspondence is a source studied by scholars of early Hasidism.",
+  "description": "Abraham Gershon of Kutov (from the town of Kitov/Kuty in the Carpathian region), who lived from about 1701 to about 1761, was a talmudist and kabbalist associated with the learned circle (the kloiz) of Brody, and the brother-in-law of Israel ben Eliezer, the Baal Shem Tov (his sister was the Besht's wife). In the tradition's account he was at first skeptical of his unlettered brother-in-law and only later recognized him as a hidden master; the relationship between the erudite scholar of Brody and the ba'al shem is a recurring motif in the hagiographic tales and is presented here as the tradition's attributed narrative rather than as documented event.\n\nGershon's lasting importance lies above all in his being the addressee of the Baal Shem Tov's best-known letter, the Iggeret ha-Kodesh or 'Holy Epistle', written to him after his emigration to the Land of Israel. In this letter, which modern scholarship treats as the text most plausibly reflecting the Besht's own words, the Besht recounts an 'ascent of the soul' undertaken on Rosh Hashanah in which he entered the palace of the messiah and asked when the messiah would come, receiving the answer that it would be when the Besht's teaching and 'wellsprings' were spread abroad. The letter has been the subject of detailed scholarly study, including of its several versions and of what it implies about the Besht's messianism (Jonathan Dauber's reappraisal of the letter; Moshe Rosman's and Immanuel Etkes's treatments of it in reconstructing the Besht), and it survives in more than one recension, a textual situation examined in that scholarship. The content and interpretation of the letter are recorded here as matters treated by the sources, and the theological claims within it (the ascent of the soul, the dialogue with the messiah) are presented as the letter's attributed narrative, not adjudicated.\n\nGershon himself emigrated to the Land of Israel in the 1740s, settling first at Hebron and later at Jerusalem, and letters exchanged with him are among the documents that historians use in reconstructing the world of the Besht and the early networks connecting the Hasidic circle to the Jewish communities of the Land of Israel. This entry presents Gershon on the tradition's own terms as the Besht's brother-in-law, a scholar of Brody, and the recipient of the Holy Epistle, while noting that much of the narrative about the relationship between the two men comes through hagiography and that the securely documented core is his kinship to the Besht, his standing as a talmudist and kabbalist, his emigration to the Land of Israel, and his place as the letter's addressee.",
+  "editorial_notes": "This entry presents Gershon of Kutov on Judaism's own terms as the Baal Shem Tov's brother-in-law, a talmudist and kabbalist of the Brody circle, and the recipient of the 'Holy Epistle' (Iggeret ha-Kodesh). It is HONEST that much of the narrative about his relationship with the Besht (his early skepticism, his later recognition of him) comes through HAGIOGRAPHY and is given as the tradition's attributed account, not documented fact (neutrality #1, #4, #5). The theological content of the Holy Epistle (the ascent of the soul, the dialogue with the messiah, the answer about spreading the 'wellsprings') is presented as the letter's ATTRIBUTED narrative and is DESCRIBED, not adjudicated. Sources: (a) Jonathan V. Dauber, 'The Baal Shem Tov and the Messiah: A Reappraisal of the Baal Shem Tov's Letter to R. Gershon of Kutov,' Jewish Studies Quarterly 16, no. 3 (2009): 210-241, a focused academic study of the letter, its versions, and its messianism; (b) Moshe Rosman, Founder of Hasidism (University of California Press, 1996), which discusses Gershon, the letter, and Gershon's emigration to the Land of Israel; (c) Immanuel Etkes, The Besht: Magician, Mystic, and Leader (Brandeis University Press, 2005), which treats the letter and Gershon's role. No encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: status DRAFT; all three sources are rated medium, verified to exist and be on-topic (Mohr Siebeck and the National Library of Israel record for the Dauber article, JSQ vol. 16; University of California Press and the 1996 National Jewish Book Award for Rosman; Brandeis University Press for Etkes), not read line-by-line. The Holy Epistle is cited here via the scholarship that edits and analyzes it rather than a verbatim open text, and its content is stated as attributed; the baal-shem-tov entry treats the same letter. Gershon's dates are approximate. Relation targets: baal-shem-tov exists under data/ (it records the reciprocal related_to edge to gershon-of-kutov); kabbalah exists.",
+  "lifespan": {
+    "birth": 1701,
+    "death": 1761,
+    "note": "c. 1701-c. 1761 CE; both years are approximate. Brother-in-law of the Baal Shem Tov (his sister was the Besht's wife) and a talmudist and kabbalist of the Brody circle; he emigrated to the Land of Israel in the 1740s (traditionally 1747), settling first at Hebron and later at Jerusalem, where he died. He was the addressee of the Besht's 'Holy Epistle' (Iggeret ha-Kodesh)."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "baal-shem-tov",
+      "note": "Gershon of Kutov was the brother-in-law of Israel ben Eliezer, the Baal Shem Tov, and the recipient of the Besht's 'Holy Epistle' (Iggeret ha-Kodesh), the text most plausibly reflecting the Besht's own words, which recounts his ascent of the soul and dialogue with the messiah."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Gershon was a kabbalist as well as a talmudist, part of the learned circle of Brody in which kabbalistic study was pursued; given as his scholarly milieu. The kabbalah entry (a school) exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Dauber, Jonathan V. 'The Baal Shem Tov and the Messiah: A Reappraisal of the Baal Shem Tov's Letter to R. Gershon of Kutov.' Jewish Studies Quarterly 16, no. 3 (2009): 210-241. Tubingen: Mohr Siebeck. A focused academic study of the Besht's 'Holy Epistle' to Gershon of Kutov, examining its several versions and what it implies about the Besht's commitment to the messianic ideal; cited as the load-bearing academic lens on the letter of which Gershon was the addressee. Verified to exist and be on-topic (Mohr Siebeck article record; National Library of Israel), not read line-by-line.",
+      "url": "https://www.mohrsiebeck.com/en/article/the-baal-shem-tov-and-the-messiah-a-reappraisal-of-the-baal-shem-tovs-letter-to-r-gershon-of-kutov-101628094457009788847479/",
+      "license": "Proprietary; cited for reference (journal record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rosman, Moshe. Founder of Hasidism: A Quest for the Historical Ba'al Shem Tov. Contraversions 5. Berkeley: University of California Press, 1996 (reprinted Oxford: Littman Library, 2013). A contemporary Jewish scholar's archival reconstruction of the historical Besht that discusses Gershon of Kutov, the 'Holy Epistle', and Gershon's emigration to the Land of Israel; cited as the contemporary-scholarship lens on Gershon and the letter. Verified to exist and be on-topic (University of California Press; 1996 National Jewish Book Award), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/founder-of-hasidism/hardcover",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Etkes, Immanuel. The Besht: Magician, Mystic, and Leader. Translated by Saadya Sternberg. The Tauber Institute Series for the Study of European Jewry. Waltham: Brandeis University Press, 2005. A contemporary Jewish scholar's study of the Baal Shem Tov that treats the 'Holy Epistle' and Gershon of Kutov's place in the Besht's world; cited as a further contemporary-scholarship lens on Gershon and the letter. Verified to exist and be on-topic (Brandeis University Press / University Press of New England record), not read line-by-line.",
+      "url": "https://brandeisuniversitypress.com/contributor/immanuel-etkes/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

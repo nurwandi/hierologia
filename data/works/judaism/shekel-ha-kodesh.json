@@ -1,0 +1,83 @@
+{
+  "id": "shekel-ha-kodesh",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Shekel ha-Kodesh",
+    "original": "שֶׁקֶל הַקֹּדֶשׁ",
+    "transliteration": "Shekel ha-Kodesh",
+    "aliases": [
+      "Sefer Shekel ha-Kodesh",
+      "Sheqel ha-Qodesh",
+      "The Sacred Shekel"
+    ]
+  },
+  "category": "kabbalistic treatise (on the sefirot and divine emanation)",
+  "date": {
+    "year": 1292,
+    "note": "Composed in 1292 (some scholarship gives 1292-1293) in Castile, on the dating accepted in the scholarship (Scholem; the critical edition by Mopsik). It is one of the Hebrew works Moses de Leon wrote under his own name."
+  },
+  "summary": "Shekel ha-Kodesh ('the Sacred Shekel'), composed by the Castilian kabbalist Moses de Leon in 1292, is a Hebrew treatise on the ten sefirot and the divine emanation. It is one of the works de Leon wrote under his own name, distinct from the Zohar that modern scholarship attributes to him, and it is of particular interest to scholars because it cites Zoharic passages, which bears on the study of the Zohar's formation. It was critically edited by Charles Mopsik, with an introduction by Moshe Idel (Cherub Press, 1996), and an earlier Hebrew edition was published by A. W. Greenup (London, 1911).",
+  "description": "Shekel ha-Kodesh (the 'Sacred Shekel', a term drawn from the sanctuary weight of the Torah) is a Hebrew kabbalistic treatise composed by Moses ben Shem Tov de Leon (c. 1240-1305) in Castile in 1292. Like Sefer ha-Rimmon, it is one of the works de Leon wrote and circulated under his own name, and its authorship, unlike that of the Zohar, is not in dispute.\n\nThe treatise expounds the kabbalistic theosophy of its time and place: the doctrine of the ten sefirot, the emanated divine potencies through which, in kabbalistic teaching, God acts and becomes knowable, and the process of divine emanation from the hidden Ein Sof. In the scholarship the work has a particular evidentiary importance for the study of the Zohar, because de Leon quotes in it passages of Zoharic character, including material whose relation to the known Zoharic corpus is examined by scholars; the correspondence between his signed Hebrew works and the Aramaic Zohar is central to the argument, made in detail by Gershom Scholem, that de Leon composed the bulk of the Zohar. On that account the signed treatises and the pseudepigraphic Zohar issue from the same hand in late-thirteenth-century Castile; the attribution of the Zohar to de Leon is recorded here as the academic position within the unadjudicated dispute over the Zohar's authorship, alongside the traditional ascription to the second-century Shimon bar Yochai, exactly as in the moses-de-leon and zohar entries.\n\nShekel ha-Kodesh survives and has been edited more than once: an early edition of the Hebrew text was published by A. W. Greenup (London, 1911), and a critical edition was prepared by Charles Mopsik, with an introduction by Moshe Idel, in the series Sources and Studies in the Literature of Jewish Mysticism (Cherub Press, 1996). This entry presents the work on the tradition's own terms as a kabbalistic treatise on the sefirot and divine emanation and records the scholarly account of its authorship, its date, and its bearing on the study of the Zohar.",
+  "editorial_notes": "This entry presents Shekel ha-Kodesh as one of the Hebrew works Moses de Leon wrote under his OWN name, whose authorship (unlike the Zohar's) is NOT in dispute, and describes its content (the ten sefirot and divine emanation) and its evidentiary importance for the study of the Zohar (it cites Zoharic passages) as attributed to the scholarship that edits and studies it, not adjudicated. Where the work bears on the Zohar-authorship question, that question is handled per neutrality #1-#2 exactly as in the moses-de-leon and zohar entries: the modern academic attribution of the Zohar to de Leon (Scholem; the correspondence of the signed works with the Zohar central to the argument) is given as the ACADEMIC POSITION within the unadjudicated dispute, alongside the traditional ascription to Shimon bar Yochai, and the editor does not adjudicate. Sources triangulate the lenses per neutrality #8-#9: (a) academic historians of Jewish mysticism (Scholem, Major Trends in Jewish Mysticism, for the authorship argument and de Leon's signed works); (b) the primary material, de Leon's own work in the Mopsik critical edition and the earlier Greenup edition of the Hebrew, and the related Zohar text open on Sefaria; and (c) contemporary Jewish scholars (Mopsik; Idel). No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: status DRAFT. The Mopsik/Idel critical edition and the Greenup 1911 edition are rated medium, verified to exist and be on-topic (WorldCat and library records for both; Cherub Press for Mopsik/Idel; the Greenup Hebrew edition in the public domain), the Hebrew primary not read verbatim in this session, so the load-bearing content claims (the sefirot/emanation content and the citation of Zoharic passages) rest on the scholarly editions and Scholem, recorded as scholarly attribution rather than a verbatim primary reading. Scholem is medium, verified via publisher record, not read line-by-line. The open Sefaria Zohar (Bereshit 1) was read at the passage level in the zohar, kabbalah, and moses-de-leon entries; it is rated medium here because it is cited only for the related Zohar corpus, not as the text of Shekel ha-Kodesh. Relation targets: moses-de-leon, zohar, kabbalah, sefirot, and ein-sof all exist under data/ (moses-de-leon records the reciprocal articulated edge to shekel-ha-kodesh).",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "moses-de-leon",
+      "note": "Shekel ha-Kodesh is one of the Hebrew works Moses de Leon wrote under his own name (composed 1292), critically edited by Charles Mopsik with an introduction by Moshe Idel (Cherub Press, 1996); its authorship, unlike the Zohar's, is not in dispute."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "The treatise expounds the doctrine of the ten sefirot, the emanated divine potencies of kabbalistic theosophy. The sefirot concept exists."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "Shekel ha-Kodesh treats the process of divine emanation from the hidden Ein Sof, the framework it shares with the wider Kabbalah of thirteenth-century Castile. The ein-sof concept exists."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "The work is a treatise of the Kabbalah taking shape in thirteenth-century Castile, expounding the sefirot and the divine emanation. The kabbalah entry (a school) exists."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "Shekel ha-Kodesh cites passages of Zoharic character and, with de Leon's other signed Hebrew works, is central to the modern academic argument (Scholem) that de Leon composed the bulk of the Zohar; that attribution is the academic position within the unadjudicated dispute over the Zohar's authorship."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Moses de Leon. Sefer Shekel ha-Kodesh. Critical edition by Charles Mopsik, with an introduction by Moshe Idel. Sources and Studies in the Literature of Jewish Mysticism 3. Los Angeles: Cherub Press, 1996. The critical edition of Shekel ha-Kodesh, one of the Hebrew works de Leon wrote under his own name (composed 1292, on the sefirot and the divine emanation), edited from the known sources and noted in the scholarship as an important witness for the study of Zoharic literature because de Leon cites Zoharic passages in it; cited as the load-bearing edition for the work's text, date, content, and authorship. Verified to exist and be on-topic (Cherub Press, 1996; WorldCat and Library of Congress records), the Hebrew primary not read verbatim here.",
+      "url": "https://search.worldcat.org/title/sefer-shekel-ha-kodesh-the-shekel-hak-kodesh-of-moses-de-leon/oclc/941045978",
+      "license": "Proprietary; cited for reference (bibliographic record). Underlying Hebrew of de Leon in the public domain.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Greenup, Albert William, ed. The Shekel ha-Kodesh (Sefer Shekel ha-Kodesh) of Moses de Leon. London, 1911. An earlier edition of the Hebrew text of Shekel ha-Kodesh; cited as evidence for the survival and prior scholarly editing of the work, its Hebrew being in the public domain. Verified to exist and be on-topic (WorldCat and Open Library records), not read verbatim here.",
+      "url": "https://openlibrary.org/works/OL37274618W/She%E1%B8%B3el_ha-%E1%B8%B3odesh",
+      "license": "Underlying Hebrew of de Leon in the public domain; the 1911 edition cited for reference (Open Library record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered 1938 at the Jewish Theological Seminary). The foundational modern study of Jewish mysticism, which treats Moses de Leon's signed Hebrew works (Shekel ha-Kodesh among them) and argues, from their correspondence with the Zohar, that de Leon composed the bulk of the Zohar; cited for de Leon's authorship of his signed works and for the academic attribution of the Zohar, recorded as an attributed position and not adjudicated. Verified to exist and be on-topic (Schocken / Penguin Random House record), not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Zohar, open Hebrew/Aramaic and English text on Sefaria (Sefaria Community Translation, CC0). Cited as the openly-auditable primary text of the related Zohar corpus whose passages de Leon cites in Shekel ha-Kodesh and with which his signed Hebrew works share terminology and doctrine; the opening on Bereshit was read at the passage level (in the zohar, kabbalah, and moses-de-leon entries) and carries the theosophy of the hidden Ein Sof and the emanated sefirot that Shekel ha-Kodesh also expounds. Cited here for the related Zohar corpus, not as the text of Shekel ha-Kodesh.",
+      "url": "https://www.sefaria.org/Zohar,_Bereshit.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Aramaic in the public domain. Openly auditable; read at the passage level in related entries.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

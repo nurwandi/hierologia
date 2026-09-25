@@ -1,0 +1,82 @@
+{
+  "id": "albrecht-ritschl",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Albrecht Ritschl",
+    "original": "Albrecht Benjamin Ritschl",
+    "transliteration": "Albrecht Ritschl",
+    "aliases": [
+      "Albrecht Benjamin Ritschl"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "professor"
+  ],
+  "summary": "Albrecht Ritschl (1822-1889 CE) was a German Protestant theologian, professor at Bonn and then Goettingen, and the dominant figure of a theological school that shaped a generation of liberal Protestant scholarship, including his pupil Adolf von Harnack. He centred theology on the Kingdom of God as the highest good and the ethical vocation of the Christian community, construed religious knowledge as independent value-judgments (Werturteile) rather than disinterested cognition, and pressed a critique of metaphysics in theology.",
+  "description": "Albrecht Benjamin Ritschl was born in 1822 in Berlin, the son of a Lutheran general superintendent, and studied at Bonn, Halle, Heidelberg, and Tuebingen, where he was for a time drawn to the historical-critical program of the Tuebingen school of Ferdinand Christian Baur before moving away from it. He taught at Bonn from 1846 and held the chair of theology at the University of Goettingen from 1864 until his death in 1889. From Goettingen he became the head of a theological school (the Ritschlian school) that dominated much of German Protestant theology in the later nineteenth century and trained or influenced a generation of scholars, among them Adolf von Harnack, Wilhelm Herrmann, and Julius Kaftan.\n\nRitschl's principal work is the three-volume The Christian Doctrine of Justification and Reconciliation (Die christliche Lehre von der Rechtfertigung und Versoehnung, 1870-1874), whose first volume is a critical history of the doctrine and whose third volume sets out his own constructive account. In that positive account, read directly for this entry, he organises Christianity around two focal points rather than one: 'Christianity, so to speak, resembles not a circle described from a single centre, but an ellipse which is determined by two foci', the two foci being redemption and justification through Christ on the one hand and the Kingdom of God on the other. He describes the Kingdom of God, the second focus, as an ethical and communal task, 'the organisation of humanity through action inspired by love', so that on his account the highest good is not a private or merely otherworldly possession but the moral community of humanity realised through love. He also published a shorter compendium of his system, Instruction in the Christian Religion (Unterricht in der christlichen Religion, 1875).\n\nTwo further features are widely associated with Ritschl's program and are stated here as his attributed positions. First, he held that religious knowledge consists of value-judgments (Werturteile), judgments of worth concerning the human being's relation to the world and to God, rather than the disinterested, theoretical cognition proper to natural science or speculative philosophy; on this view theology attends to the practical and religious value of its objects, not to their metaphysical constitution in themselves. Second, and connected to this, he pressed a critique of metaphysics in theology, arguing that classical metaphysical categories imported into doctrine (for instance in the speculative construction of the divine attributes or the person of Christ) distort the practical and historical character of the Christian revelation, and he sought to ground theology instead in the historical figure of Jesus and the moral community he founded. His interpreters connect these moves to his reading of Kant and of the philosopher Hermann Lotze and to his retrieval of Martin Luther.\n\nRitschl's program was received as a defining form of liberal Protestant theology and was extended by his pupils, above all by Harnack in historical theology. In the following generation it met a sharp rejection, recorded here as the critics' attributed position: the dialectical or crisis theology of Karl Barth and others after the First World War rejected what they characterised as Ritschlian liberalism, its confidence in the ethical Kingdom, its reduction of doctrine to value-judgments, and its optimism about religion and culture, in the name of God's transcendence and self-revelation. This entry attributes the Kingdom-of-God program, the value-judgment theory of religious knowledge, and the critique of metaphysics to Ritschl, and the later dialectical rejection of Ritschlian theology to his critics, adjudicating neither.",
+  "editorial_notes": "Ritschl is described here on the terms of his own theological program and of the historians of doctrine who study him (neutrality #6). His signature positions, the Kingdom of God as the highest good and ethical task of the Christian community, religious knowledge as value-judgments (Werturteile) rather than disinterested cognition, and his critique of metaphysics in theology, are stated strictly as HIS attributed positions (neutrality #1, #2). The later Barthian and dialectical rejection of Ritschlian liberalism is stated strictly as the critics' attributed position; the editor endorses neither and adjudicates nothing.\n\nCONFIDENCE HONESTY: one primary source is rated high because two load-bearing passages were read verbatim in the open, public-domain full text. Ritschl's The Christian Doctrine of Justification and Reconciliation: The Positive Development of the Doctrine (vol. 3, Mackintosh and Macaulay translation, T. & T. Clark, 1900) was read at the Internet Archive, and two sentences were verified word for word: the image of Christianity as an ellipse with two foci ('Christianity, so to speak, resembles not a circle described from a single centre, but an ellipse which is determined by two foci', p. 11) and the description of the Kingdom of God as 'the organisation of humanity through action inspired by love' (p. 12). The value-judgment (Werturteil) doctrine and the critique of metaphysics are Ritschl's standard, uncontested positions across the scholarship, but the specific formulations were NOT located verbatim in the portion of the open text consulted and are therefore reported as his attributed program in the standard rendering, not personally verified against a quoted sentence. Ritschl's Instruction in the Christian Religion (in A. T. Swing, The Theology of Albrecht Ritschl, Longmans Green, 1901, trans. Alice Mead Swing) is an open text whose publication details and section structure were confirmed at the Internet Archive but whose load-bearing passages were not extracted verbatim, so it is cited as the primary corpus at medium. The secondary studies (Mueller; Chalamet; Welch) are rated medium: verified to exist and be on-topic via publisher, journal, and academic-review records (Mueller reviewed in Church History, Cambridge Core; Chalamet in the peer-reviewed Religion Compass), not read line by line. The dates 1822-1889 are secure and standardly reported.\n\nSourcing triangulates the three Christian lenses per neutrality #8: (a) academic historians of doctrine (Mueller, An Introduction to the Theology of Albrecht Ritschl; Welch, Protestant Thought in the Nineteenth Century); (b) the primary corpus, Ritschl's own Justification and Reconciliation (vol. 3, read verbatim as described) and Instruction in the Christian Religion; (c) a contemporary reassessment (Chalamet, Religion Compass, 2008), which treats his relation to metaphysics, his use of Kant and Lotze and Luther, and his emphasis on community and the Kingdom of God. No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: liberal-theology, adolf-von-harnack, and friedrich-schleiermacher are cross-linked within the dataset; the member_of edge supplies the figure that liberal-theology names as a key_figure, and the teacher_of edge answers Harnack's influenced_by edge to Ritschl.",
+  "lifespan": {
+    "birth": 1822,
+    "death": 1889,
+    "note": "1822-1889 CE; born in Berlin; studied at Bonn, Halle, Heidelberg, and Tuebingen; taught at Bonn from 1846 and held the chair of theology at the University of Goettingen from 1864 until his death there in 1889."
+  },
+  "relations": [
+    {
+      "type": "member_of",
+      "target": "liberal-theology",
+      "note": "A central figure of nineteenth-century liberal Protestant theology, standardly placed by historians of doctrine between Schleiermacher and Harnack for centring theology on the Kingdom of God, moral community, and value-judgments; this entry supplies the figure that liberal-theology names as a key_figure."
+    },
+    {
+      "type": "teacher_of",
+      "target": "adolf-von-harnack",
+      "note": "Head of the Ritschlian school; Adolf von Harnack (1851-1930) is standardly placed by historians of doctrine as his pupil, developing Ritschl's ethical, anti-metaphysical program in historical theology."
+    },
+    {
+      "type": "related_to",
+      "target": "friedrich-schleiermacher",
+      "note": "Historians of doctrine place Ritschl in the lineage of modern liberal Protestant theology that descends from Friedrich Schleiermacher (1768-1834), while Ritschl himself criticised the grounding of theology in religious feeling and stressed instead the Kingdom of God and value-judgments; recorded as the historians' standard placement and as his own emphasis, not adjudicated."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ritschl, Albrecht. The Christian Doctrine of Justification and Reconciliation: The Positive Development of the Doctrine. Volume 3. Translated by H. R. Mackintosh and A. B. Macaulay. Edinburgh: T. & T. Clark, 1900 (German Die christliche Lehre von der Rechtfertigung und Versoehnung, vol. 3, 3rd ed., 1888). Primary text, read directly in the open full text. Load-bearing passages verified verbatim: the image of Christianity as an ellipse with two foci ('Christianity, so to speak, resembles not a circle described from a single centre, but an ellipse which is determined by two foci', p. 11) and the description of the Kingdom of God as 'the organisation of humanity through action inspired by love' (p. 12). Cited for the two-focus structure of his theology (justification and the Kingdom of God) and the Kingdom of God as the ethical, communal highest good, as his attributed positions.",
+      "url": "https://archive.org/details/thechristiandoct00ritsuoft",
+      "license": "Public domain (the German original and the 1900 Mackintosh and Macaulay translation are both out of copyright). Read in the open full text at the Internet Archive; not borrow-only.",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Ritschl, Albrecht. Instruction in the Christian Religion (Unterricht in der christlichen Religion, 1875), in Albert Temple Swing, The Theology of Albrecht Ritschl, together with Instruction in the Christian Religion. Translated by Alice Mead Swing. New York and London: Longmans, Green, and Co., 1901. The short compendium of Ritschl's system. Open text at the Internet Archive; publication details and section structure confirmed, but the load-bearing passages were not extracted verbatim for this entry, so it is cited as the primary corpus at medium.",
+      "url": "https://archive.org/details/theologyofritsch00swinuoft",
+      "license": "Public domain (the German original and the 1901 Swing translation are out of copyright). Open at the Internet Archive; load-bearing passages not read verbatim for this entry.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Mueller, David L. An Introduction to the Theology of Albrecht Ritschl. Philadelphia: Westminster Press, 1969. A book-length scholarly analysis of Ritschl's theology organised around his doctrine of justification and reconciliation, his account of the Kingdom of God, and his theory of religious knowledge. Academic history-of-doctrine lens; verified to exist and be on-topic (reviewed in Church History, Cambridge Core), not read line by line.",
+      "url": "https://www.cambridge.org/core/journals/church-history/article/abs/an-introduction-to-the-theology-of-albrecht-ritschl-by-david-l-mueller-philadelphia-westminster-1969-214-pp-850/7171370BE1F4DDEBFFA25F9FDB30A29A",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Chalamet, Christophe. 'Reassessing Albrecht Ritschl's Theology: A Survey of Recent Literature.' Religion Compass 2, no. 4 (2008): 620-641. A peer-reviewed survey of the reassessment of Ritschl since the late 1960s, treating his use of Luther, his debate on God as absolute, his interest in Kant and Lotze, his relation to metaphysics, and his emphasis on community and the Kingdom of God. Contemporary-theological lens; verified to exist and be on-topic (Wiley, Religion Compass), not read line by line.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1749-8171.2008.00086.x",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Welch, Claude. Protestant Thought in the Nineteenth Century. 2 vols. New Haven: Yale University Press, 1972-1985. The standard scholarly survey of nineteenth-century Protestant theology, treating Ritschl and the Ritschlian school within the development of liberal and mediating theology. Academic history-of-doctrine lens; verified to exist and be on-topic, not read line by line.",
+      "url": "https://yalebooks.yale.edu/book/9780300026030/protestant-thought-in-the-nineteenth-century/",
+      "license": "Proprietary; cited for reference, relevant passages not read line by line.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

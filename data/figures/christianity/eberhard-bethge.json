@@ -1,0 +1,70 @@
+{
+  "id": "eberhard-bethge",
+  "tradition": "christianity",
+  "names": {
+    "primary": "Eberhard Bethge",
+    "original": "Eberhard Bethge",
+    "transliteration": "Eberhard Bethge",
+    "aliases": [
+      "Eberhard Bethge"
+    ]
+  },
+  "roles": [
+    "theologian",
+    "pastor",
+    "editor",
+    "biographer"
+  ],
+  "summary": "Eberhard Bethge (1909-2000 CE) was a German theologian and pastor of the Confessing Church, the student, closest friend, and later literary executor of Dietrich Bonhoeffer. He was the principal recipient of Bonhoeffer's letters from Tegel prison, including the 1944 letters containing the late theological ideas; he preserved and edited them and first published them as Widerstand und Ergebung (1951, English Letters and Papers from Prison), and he wrote the standard biography Dietrich Bonhoeffer (1967).",
+  "description": "Eberhard Bethge was born in 1909 at Warchau in the Prussian Province of Saxony (near Magdeburg) and trained for the ministry in the Confessing Church, the church body that resisted the alignment of the German Evangelical Church with National Socialism. He studied under Dietrich Bonhoeffer (1906-1945) at the Confessing Church's illegal preachers' seminary at Finkenwalde, and the two became close friends and collaborators; Bethge later married Renate Schleicher, a niece of Bonhoeffer, so that he was also connected to Bonhoeffer's family by marriage. Through the years of the church struggle and the Second World War Bethge was Bonhoeffer's closest correspondent and confidant.\n\nAfter Bonhoeffer's arrest in 1943 and imprisonment at the Tegel military prison in Berlin, Bethge was the principal recipient of the letters Bonhoeffer wrote from prison, including the series of letters in 1944 that contain the fragmentary late ideas for which the prison writings became known, among them a 'world come of age,' a 'religionless Christianity,' and a God who is 'pushed out of the world onto the cross.' Bethge preserved these letters, several of which were smuggled out of the prison, through the end of the war and Bonhoeffer's execution at the Flossenbuerg concentration camp on 9 April 1945. He then edited the letters and theological notes and first published them in German as Widerstand und Ergebung ('Resistance and Submission') in 1951; the collection appeared in English as Letters and Papers from Prison and became one of the most widely read theological works of the twentieth century.\n\nAs Bonhoeffer's literary executor Bethge devoted much of his life to editing, transmitting, and interpreting Bonhoeffer's writings, and he wrote the large biography Dietrich Bonhoeffer, first published in German in 1967 (English translation 1970, revised English edition 2000), which scholars treat as the standard account of Bonhoeffer's life. He continued as a pastor, teacher, and interpreter of Bonhoeffer until his death in 2000. This entry records Bethge's role in preserving, editing, and publishing the prison letters and in writing the biography as matters of historical report; it presents the theological ideas of the prison letters as Bonhoeffer's attributed late reflections, and it records that Bethge, as editor, preserved and arranged the prison fragments without systematising them into a finished theology. Interpretive judgments about the meaning of the prison theology are attributed to Bethge and to later scholarship, not adjudicated by the editor.",
+  "editorial_notes": "This entry describes Eberhard Bethge on Christian terms (neutrality #6). Bethge's roles as Bonhoeffer's student and friend, as recipient of the Tegel prison letters, as the editor who first published them as Widerstand und Ergebung (1951), and as the author of the standard biography are stated as historical fact. The theological ideas of the prison letters ('world come of age,' 'religionless Christianity,' the God 'pushed out of the world onto the cross') are attributed to Dietrich Bonhoeffer and to the letters themselves and are flagged as fragmentary late reflections, not endorsed or adjudicated (neutrality #1, #2), consistent with the letters-and-papers-from-prison entry, which this entry answers.\n\nHONESTY / status and confidence: this entry is DRAFT and, on the sourcing available, tops out at reviewed rather than verified. The three sources are twentieth- and twenty-first-century proprietary works and were NOT read line by line for the load-bearing claims; they are verified to exist and be on-topic and are rated MEDIUM. Bethge's own Dietrich Bonhoeffer: A Biography (Fortress, 2000) is both the standard biography and the primary editorial witness, since Bethge was the recipient of the 1944 letters and the first editor of the collection. John W. de Gruchy's Daring, Trusting Spirit: Bonhoeffer's Friend Eberhard Bethge (Fortress, 2005) is the scholarly biography of Bethge himself. The critical edition of Letters and Papers from Prison (DBWE volume 8, Fortress, 2010), edited by de Gruchy, documents in its editorial apparatus Bethge's role as recipient and first editor and the 1951 publication of Widerstand und Ergebung; the open editor's introduction PDF was located but could not be read verbatim (encoded PDF), so no verbatim phrase is claimed from it. No open primary was read line by line, so verified status is not claimed. The dates 1909-2000 are standardly reported.\n\nSources triangulate the three Christian lenses (neutrality #8): (a) a scholarly biography of Bethge (de Gruchy, Daring, Trusting Spirit); (b) the primary editorial witness and corpus (Bethge, Dietrich Bonhoeffer: A Biography, and the DBWE volume 8 critical edition of Letters and Papers from Prison that Bethge's collection became); (c) a contemporary scholar's editorial and interpretive framing (de Gruchy's edition and biography). No encyclopedias, no Wikipedia, no tertiary sources.\n\nRelation targets: letters-and-papers-from-prison, dietrich-bonhoeffer, and confessing-church are cross-linked within the dataset; the related_to edge to letters-and-papers-from-prison answers that work's related_to edge to Bethge.",
+  "lifespan": {
+    "birth": 1909,
+    "death": 2000,
+    "note": "1909-2000 CE; born at Warchau in the Prussian Province of Saxony (near Magdeburg); trained in the Confessing Church and studied under Bonhoeffer at the Finkenwalde preachers' seminary; served as a pastor, editor, and interpreter of Bonhoeffer's writings; died in 2000."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "letters-and-papers-from-prison",
+      "note": "The principal recipient of Bonhoeffer's Tegel prison letters, including the 1944 theological letters; preserved and edited them and first published them as Widerstand und Ergebung (1951, English Letters and Papers from Prison)."
+    },
+    {
+      "type": "student_of",
+      "target": "dietrich-bonhoeffer",
+      "note": "Studied under Dietrich Bonhoeffer (1906-1945) at the Confessing Church's Finkenwalde preachers' seminary and became his closest friend, correspondent, and later literary executor; connected to Bonhoeffer's family through his marriage to Renate Schleicher, a niece of Bonhoeffer."
+    },
+    {
+      "type": "member_of",
+      "target": "confessing-church",
+      "note": "A pastor trained and ordained in the Confessing Church, the body that resisted the alignment of the German Evangelical Church with National Socialism."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "de Gruchy, John W. Daring, Trusting Spirit: Bonhoeffer's Friend Eberhard Bethge. Minneapolis: Fortress Press, 2005 (ISBN 9780800637583; also SCM Press, London, 2005). The scholarly biography of Eberhard Bethge, treating his friendship with Bonhoeffer, his role as recipient of the prison letters, his editing and publication of Widerstand und Ergebung, and his authorship of the Bonhoeffer biography. Academic-biographical lens; verified to exist and be on-topic (Fortress Press; reviewed in the Journal of Ecclesiastical History and in Political Theology), not read line by line.",
+      "url": "https://www.fortresspress.com/store/product/9780800637583/Daring-Trusting-Spirit-Bonhoeffer-Friend-Eberhard-Bethge",
+      "license": "Proprietary; cited for reference (Fortress Press, ISBN 9780800637583).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bethge, Eberhard. Dietrich Bonhoeffer: A Biography. Revised edition, edited by Victoria J. Barnett. Minneapolis: Fortress Press, 2000 (ISBN 9780800628444). The standard biography of Bonhoeffer, written by his closest friend, former Finkenwalde student, recipient of the prison letters, and literary executor; the primary editorial witness for Bethge's own role in preserving and editing the Tegel letters. Verified to exist and be on-topic (Fortress Press), not read line by line.",
+      "url": "https://www.fortresspress.com/store/product/9780800628444/Dietrich-Bonhoeffer",
+      "license": "Proprietary; cited for reference (Fortress Press, ISBN 9780800628444).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Bonhoeffer, Dietrich. Letters and Papers from Prison. Dietrich Bonhoeffer Works, Volume 8. Edited by John W. de Gruchy; translated by Isabel Best, Lisa E. Dahill, Reinhard Krauss, and Nancy Lukens from the German critical edition (Widerstand und Ergebung). Minneapolis: Fortress Press, 2010 (ISBN 9780800697037). The unabridged critical edition of the collection Bethge received and first edited; its editorial apparatus documents Bethge as the recipient of the 1944 prison letters and the first editor of Widerstand und Ergebung (1951). Cited for Bethge's editorial role and the transmission of the letters; a proprietary twentieth- and twenty-first-century text, NOT read line by line for the load-bearing claims.",
+      "url": "https://www.fortresspress.com/store/product/9780800697037/Letters-and-Papers-from-Prison",
+      "license": "Proprietary; cited for reference (Fortress Press, DBWE volume 8, ISBN 9780800697037). Load-bearing passages not read line by line.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

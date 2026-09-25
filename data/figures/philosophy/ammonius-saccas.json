@@ -1,0 +1,77 @@
+{
+  "id": "ammonius-saccas",
+  "tradition": "philosophy",
+  "names": {
+    "primary": "Ammonius Saccas",
+    "original": "Ἀμμώνιος Σακκᾶς",
+    "transliteration": "Ammōnios Sakkas",
+    "aliases": [
+      "Ammonios Sakkas",
+      "Ammonius the Sack-bearer",
+      "Ammonius of Alexandria"
+    ]
+  },
+  "roles": [
+    "philosopher",
+    "teacher"
+  ],
+  "summary": "Ammonius Saccas (c. 175-242 CE) was an Alexandrian philosophy teacher, remembered above all as the master under whom Plotinus studied for some eleven years. The pagan teacher of Plotinus is generally held to have left no writings and is known chiefly through reports about his pupils, so modern scholars who call him the originator of the movement later named Neoplatonism must reconstruct his teaching indirectly, and those reconstructions are contested.",
+  "description": "Ammonius, nicknamed Saccas, taught philosophy at Alexandria in the first decades of the third century CE. Almost nothing survives of his own words: on the usual account he committed nothing to writing, and what is reported of him comes from accounts of his pupils rather than from any text of his own. The principal report is in Porphyry's Life of Plotinus, prefixed to the Enneads, which records that Plotinus, seized by a passion for philosophy, found his teacher in Ammonius at Alexandria and stayed with him for about eleven years before leaving for the East and then Rome; on this account Ammonius is the source from which Plotinian, and so 'Neoplatonic', thought descends. Because the pagan teacher of Plotinus is reported to have written nothing, modern scholarship credits him with founding this current only through the philosophy of his pupils, and any reconstruction of his own doctrine is inference from later and often conflicting testimony.\n\nThe testimony is entangled in what scholars call the problem of the 'two Ammonii'. Eusebius of Caesarea, in the Church History (6.19), quotes the philosopher Porphyry reporting that the Christian teacher Origen had been a hearer of Ammonius, 'who had attained the greatest proficiency in philosophy of any in our day', and that this Ammonius, 'being a Christian, and brought up by Christian parents', later turned, on Porphyry's telling, from Christianity to Greek philosophy. Eusebius rejects the last claim, insisting instead that 'Ammonius held the divine philosophy unshaken and unadulterated to the end of his life', and adds that Ammonius left writings still current in his day, 'the work entitled The Harmony of Moses and Jesus' among them. These reports pull in opposite directions: they variously make Ammonius a lapsed Christian turned pagan Platonist and a lifelong Christian author, and they place both a pagan Origen and the Christian Origen among his hearers. Some modern scholars (Dörrie) argue that only positing two different men named Ammonius, a pagan Neoplatonist teacher of Plotinus and a Christian writer, accounts for the evidence, while others treat the notices as referring to one figure; the question is unresolved. This entry records the competing reports and attributes each to its source, and does not rule on whether Ammonius was Christian or pagan, on which Origen studied under him, or on which of the ascribed writings, if any, are his.",
+  "editorial_notes": "Ammonius Saccas is filed under the philosophy tradition per ADR-0007 (the shared Greek substrate namespace) as the teacher of Plotinus, and is not annexed to any religious tradition; the entry neither asserts nor denies that he was a Christian, a matter the ancient reports themselves dispute. Neutrality: the entry attributes every biographical and doctrinal claim to a named source and adjudicates none of the contested points (whether Ammonius left writings, whether he was Christian or pagan, which Origen was his pupil, the 'two Ammonii' question). Because he wrote nothing, no claim about his own doctrine can be rated high; the load-bearing facts here are what the sources report, not what he taught. Sourcing triangulates open primary reports with modern scholarship per neutrality principles #8 and #9: (a) the primary reports, Eusebius, Church History 6.19, and Porphyry, Life of Plotinus; (b) modern academic studies, F. M. Schroeder's survey in ANRW and Heinrich Dörrie's classic article. PRIMARY-SPINE HONESTY: Eusebius 6.19 was read directly in the openly hosted New Advent text and is quoted verbatim ('being a Christian, and brought up by Christian parents'; 'held the divine philosophy unshaken and unadulterated to the end of his life'; 'The Harmony of Moses and Jesus'), and Porphyry's Life of Plotinus was read in the public-domain MacKenna translation (the opening 'Plotinus, the philosopher our contemporary, seemed ashamed of being in the body'); both are rated high as read primaries. Schroeder and Dörrie are rated medium, verified to exist and be on-topic via journal and series records, not read line-by-line. Per the source rule, no encyclopedia (including the Stanford Encyclopedia of Philosophy), no Wikipedia, and no tertiary source is cited. The teacher_of edge to origen points to the existing Christian Origen entry and carries the contested identification in its note.",
+  "lifespan": {
+    "birth": 175,
+    "death": 242,
+    "note": "c. 175-242 CE; both years are approximate and conventional, since no contemporary record of his birth or death survives. He taught at Alexandria."
+  },
+  "relations": [
+    {
+      "type": "teacher_of",
+      "target": "plotinus",
+      "note": "Porphyry's Life of Plotinus reports that Plotinus found his teacher in Ammonius at Alexandria and remained with him for about eleven years; the plotinus entry carries the reciprocal student_of edge. This pupillage is the firmest fact reported of Ammonius and the channel by which his influence reached later Platonism."
+    },
+    {
+      "type": "teacher_of",
+      "target": "origen",
+      "note": "Eusebius (Church History 6.19), quoting Porphyry, reports that Origen was a hearer of Ammonius. Whether the pupil in view is the Christian Origen (the target of this edge) or a separate pagan Origen, and whether the teacher is the same Ammonius who taught Plotinus, are disputed points in the 'two Ammonii' problem; the identification is recorded here as attributed and contested, not resolved."
+    },
+    {
+      "type": "related_to",
+      "target": "neoplatonism",
+      "note": "Modern scholarship often names Ammonius the originator of the current later called Neoplatonism, on the ground that Plotinus studied under him; because Ammonius left no writings, this stands on the philosophy of his pupils rather than on any surviving doctrine of his own, and 'Neoplatonism' is in any case a modern coinage."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Eusebius of Caesarea. Church History (Historia Ecclesiastica), Book 6, chapter 19, trans. Arthur Cushman McGiffert, in Nicene and Post-Nicene Fathers, Second Series, vol. 1. Primary report on Ammonius as teacher of Origen. Read directly in the openly hosted New Advent text and quoted verbatim: Porphyry's testimony that Origen had been a hearer of Ammonius, 'who had attained the greatest proficiency in philosophy of any in our day', and that Ammonius was 'being a Christian, and brought up by Christian parents'; Eusebius's counter that Ammonius 'held the divine philosophy unshaken and unadulterated to the end of his life'; and the notice of his writings, 'the work entitled The Harmony of Moses and Jesus.' Cited as the locus of the disputed reports about Ammonius's religion, pupils, and authorship.",
+      "url": "https://www.newadvent.org/fathers/250106.htm",
+      "license": "Public domain (McGiffert translation, Nicene and Post-Nicene Fathers; Greek original in the public domain).",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Porphyry. On the Life of Plotinus and the Order of His Books, trans. Stephen MacKenna, prefixed to Plotinus, The Enneads. Primary text and principal source for Ammonius as the teacher under whom Plotinus studied at Alexandria for about eleven years. Read directly in the public-domain MacKenna translation, whose opening was quoted verbatim ('Plotinus, the philosopher our contemporary, seemed ashamed of being in the body'); it is the Life that reports Plotinus finding his master in Ammonius and following him. Also translated by A. H. Armstrong, Loeb Classical Library 440.",
+      "url": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Porphyry's_Life_of_Plotinus",
+      "license": "Public domain (MacKenna translation, Wikisource; Greek original in the public domain).",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Schroeder, Frederic M. 'Ammonius Saccas.' In Aufstieg und Niedergang der römischen Welt (ANRW), II.36.1, ed. Wolfgang Haase, 493-526. Berlin and New York: Walter de Gruyter, 1987. Academic survey of the ancient evidence for Ammonius and of the scholarly reconstructions of his teaching and identity; cited as the modern scholarly lens. Verified to exist and be on-topic via series records, not read line-by-line.",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110861570-012/html",
+      "license": "Proprietary; cited for reference; text not reproduced.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Dörrie, Heinrich. 'Ammonios, der Lehrer Plotins.' Hermes 83, no. 4 (1955): 439-477. The classic academic study of the sources on Ammonius, which argues that the divergent testimonies are best explained by distinguishing two men named Ammonius (a pagan Neoplatonist and a Christian writer); cited as a second scholarly lens on the 'two Ammonii' problem. Verified to exist and be on-topic (Hermes vol. 83.4, 1955) via journal records, not read line-by-line.",
+      "url": "https://www.jstor.org/stable/i398195",
+      "license": "Proprietary; cited for reference. URL is a journal-issue record confirming the article.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

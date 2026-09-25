@@ -1,0 +1,59 @@
+{
+  "id": "sephardic-diaspora",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sephardic Diaspora",
+    "original": "פְּזוּרַת סְפָרַד",
+    "transliteration": "Pezurat Sefarad",
+    "aliases": [
+      "Sephardi diaspora",
+      "The Sephardic dispersion",
+      "Diaspora of the Jews of Sefarad"
+    ]
+  },
+  "category": "diaspora / historical-sociological formation",
+  "summary": "The Sephardic diaspora is the dispersion of the Jews of the Iberian peninsula (Sefarad) and their descendants following the 1492 expulsion from Spain and the 1497 forced conversion and expulsion in Portugal, into the Ottoman Empire, North Africa, Italy, the Low Countries, and beyond. Scholarship treats the coalescence of these scattered groups into a distinct Sephardic Jewry, sharing the Judeo-Spanish language and Iberian religious and communal traditions, as a process unfolding over the generations after the exile rather than an outcome fixed in 1492.",
+  "description": "The Sephardic diaspora is the geographic dispersion and the ensuing cultural formation of the Jews of Sefarad, the Hebrew name for the Iberian peninsula, after they were compelled to leave it. The immediate causes were the expulsion of the Jews from the Crowns of Castile and Aragon by the Alhambra Decree of 1492 and the forced conversion and expulsion of the Jews of Portugal in 1497; the exiles included both those who left as professing Jews and, over the following generations, conversos (New Christians) who departed Iberia and returned to open Jewish life abroad. This entry records the dispersion, its geography, and its scholarly interpretation as matters of historical account, and attributes characterizations to the scholarship rather than asserting them in its own voice.\n\nThe exiles and their descendants settled across the Mediterranean world and beyond. Large communities formed in the Ottoman Empire, in cities such as Salonica, Istanbul, and Izmir, and in the Ottoman-ruled Land of Israel, where sixteenth-century Safed became a centre of Kabbalah and halakha associated with figures of Iberian background; further communities arose in North Africa, in Italy, and, from the late sixteenth and seventeenth centuries, among former conversos in the Low Countries (notably Amsterdam) and elsewhere in western Europe. Across much of the eastern diaspora the exiles preserved a distinct Judeo-Spanish vernacular (Ladino) and Iberian liturgical and legal customs, which set Sephardic communal life apart from that of the surrounding Jewries for centuries.\n\nRecent scholarship stresses that a unified 'Sephardic Jewry' was not an immediate product of 1492. Jonathan Ray argues that the exiles carried regional Iberian identities and only in the second and third generations coalesced, through migration, resettlement, and negotiation with existing communities, into a recognizably Sephardic Jewish identity. Esther Benbassa and Aron Rodrigue trace the long history of the Judeo-Spanish communities of the Balkans and Asia Minor, showing how a shared language, religion, and communal organization sustained a distinctive Sephardic society over more than four centuries. This entry presents that gradual, constructed character of Sephardic identity as the interpretation of the scholarship cited, alongside the documented facts of the dispersion.",
+  "editorial_notes": "This entry treats the Sephardic diaspora as a historical-sociological formation, the dispersion of Iberian Jewry after 1492/1497 and its coalescence into a distinct Sephardic Jewry (neutrality #1, #4). It is modelled as a CONCEPT rather than an event because it names an extended process and a resulting communal-cultural formation across several centuries and regions, not a single datable happening; the datable trigger is held by the expulsion-from-spain event entity, to which this concept links. NEUTRALITY: the interpretive claim that Sephardic identity formed gradually over the generations rather than at the moment of expulsion is attributed to the scholarship (Ray) and not asserted as settled fact; the geographic and linguistic facts of the dispersion are stated as historical record. Sources: (a) academic historians, Jonathan Ray, After Expulsion: 1492 and the Making of Sephardic Jewry (New York University Press, 2013; ISBN 978-0-8147-2911-3), on the generational making of Sephardic identity, and Esther Benbassa and Aron Rodrigue, Sephardi Jewry: A History of the Judeo-Spanish Community, 14th-20th Centuries (University of California Press, 2000; ISBN 0-520-21822-1), on the long history of the eastern Sephardic communities. Both rated MEDIUM, verified to exist and be on-topic (publisher and scholarly-review records), not read line-by-line. No encyclopedias, no Wikipedia, no tertiary sources. Relation targets present in the dataset: expulsion-from-spain, safed, joseph-karo. The historical_period start (1492) marks the expulsion that begins the dispersion; no end is given because the formation is ongoing.",
+  "historical_period": {
+    "start": 1492,
+    "note": "Dated from the 1492 expulsion of the Jews from Castile and Aragon (and the 1497 forced conversion and expulsion in Portugal) that began the dispersion; the Sephardic communities of the Ottoman lands, North Africa, Italy, and western Europe persisted for centuries, so no closing year is given."
+  },
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "expulsion-from-spain",
+      "note": "The expulsion ordered by the Alhambra Decree of 1492 is the datable event that began the dispersion of Iberian Jewry; this concept names the resulting extended process and the Sephardic communal-cultural formation. The expulsion-from-spain event entity exists and records the reciprocal related_to edge."
+    },
+    {
+      "type": "related_to",
+      "target": "safed",
+      "note": "Ottoman-ruled Safed in the Galilee became a major sixteenth-century centre of the Sephardic diaspora, a hub of Kabbalah and halakha drawing on exiles of Iberian background. Reported as historical connection."
+    },
+    {
+      "type": "related_to",
+      "target": "joseph-karo",
+      "note": "Joseph Karo, the halakhist and author of the Shulchan Aruch, born in Iberia around the time of the expulsion and later settled in Safed, is among the figures whose careers belong to the Sephardic diaspora. Reported as historical connection, not evaluated."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ray, Jonathan. After Expulsion: 1492 and the Making of Sephardic Jewry. New York: New York University Press, 2013 (2012), 214 pp. ISBN 978-0-8147-2911-3. A scholarly study arguing that the exiles of 1492 carried regional Iberian identities and only over the following generations coalesced, through migration and resettlement, into a distinct Sephardic Jewish identity; cited as the academic-history lens on the making of the Sephardic diaspora. Verified to exist and be on-topic (NYU Press; reviews in the American Historical Review, Renaissance Quarterly, and the Journal of Modern History), not read line-by-line.",
+      "url": "https://nyupress.org/9780814729113/after-expulsion/",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Benbassa, Esther, and Aron Rodrigue. Sephardi Jewry: A History of the Judeo-Spanish Community, 14th-20th Centuries. Jewish Communities in the Modern World 2. Berkeley: University of California Press, 2000. ISBN 0-520-21822-1. A history of the Judeo-Spanish (Ladino-speaking) Sephardic communities of the Balkans and Asia Minor, tracing how a shared language, religion, and communal organization sustained a distinctive Sephardic society over more than four centuries; cited as the academic-history lens on the eastern Sephardic diaspora. Verified to exist and be on-topic (University of California Press; Review of Middle East Studies notice), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/sephardi-jewry/paper",
+      "license": "Proprietary; cited for reference (publisher record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

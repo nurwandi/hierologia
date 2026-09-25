@@ -1,0 +1,67 @@
+{
+  "id": "divine-pathos",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Divine Pathos",
+    "original": "",
+    "transliteration": "",
+    "aliases": [
+      "Theology of pathos",
+      "The pathos of God",
+      "God's pathos"
+    ]
+  },
+  "category": "theology of God / doctrine of divine attributes",
+  "summary": "Divine pathos is the theology, central to Abraham Joshua Heschel's The Prophets (1962), that the God of the biblical prophets is not the unmoved absolute of metaphysical theology but a God concerned with, moved by, and emotionally involved in human affairs, so that the prophet is one attuned to and sharing in this divine concern. As Heschel's attributed theology it stands in tension with the classical philosophical doctrine of divine impassibility, and it drew explicit objection from within Jewish philosophy on those grounds.",
+  "description": "Divine pathos names the account of God developed by Abraham Joshua Heschel in his study of the Hebrew prophets: the claim that the prophetic literature presents God not as a self-sufficient, unchanging absolute indifferent to the world, but as a God who is concerned, who cares, and who is moved and affected by what human beings do. On this reading, the wrath, the grief, and the compassion the prophets ascribe to God are not mere figures of speech to be explained away, but expressions of a genuine divine involvement with history; and the prophet is understood not primarily as a predictor or an ecstatic but as one who is attuned to the divine pathos and comes to share in it, a stance Heschel calls sympathy. This entry presents divine pathos as Heschel's own attributed theology, in his own vocabulary, and does not assert it as the settled doctrine of the tradition.\n\nHeschel advanced this account in deliberate contrast to a long tradition of philosophical theology, running from the Aristotelian unmoved mover through much of medieval thought, that holds God to be impassible, without change or affection. In the medieval Jewish setting this position is represented by Maimonides, whose doctrine of negative attributes in the Guide of the Perplexed denies that emotions or passions in any literal sense may be predicated of God, and treats the Bible's affective language as accommodation to human understanding. Heschel's theology of pathos consciously departs from this framework, arguing that it imports a Greek philosophical ideal of the divine that is foreign to the prophetic consciousness of Scripture. His position is presented here as his attributed argument, and the Maimonidean and philosophical position it opposes is presented, with equal weight and no ranking, as the attributed classical counter-position.\n\nThe theology of divine pathos drew objection from within Jewish philosophy. Eliezer Berkovits, in a chapter devoted to Heschel's theology of pathos, argued that ascribing pathos to God verges on an anthropopathism inconsistent with the philosophical understanding of divine transcendence, and criticized what he regarded as the excess of Heschel's language about God's emotions. Berkovits's critique is recorded here as an attributed counter-position within the internal Jewish discussion, not as a verdict of this entry; the disagreement between Heschel's prophetic theology and the impassibilist philosophical tradition is described, not adjudicated.",
+  "editorial_notes": "This entry presents divine pathos as the attributed theology of Abraham Joshua Heschel, in his own terms (neutrality #1, #4, #6): the prophetic God as concerned, moved, and affected by human action, and the prophet as one who shares in that pathos (sympathy). The topic touches the doctrine of God, so the classical counter-position is given equal, unranked weight: (i) the philosophical doctrine of divine impassibility, represented in medieval Jewish thought by Maimonides' negative theology in the Guide of the Perplexed (emotions/passions not literally predicable of God; the Bible's affective language read as accommodation), and (ii) the modern objection of Eliezer Berkovits, who argued Heschel's pathos verges on anthropopathism. Both are recorded as attributed positions; the entry does not rule which is correct (neutrality #2, #7).\n\nHONESTY / status: REVIEWED-caliber, kept at draft. Heschel's The Prophets (Harper & Row, 1962) is a proprietary twentieth-century text under copyright, so no licensed open primary was read line-by-line for the load-bearing passages; the characteristic terms ('divine pathos', 'sympathy', the God who is 'moved' and 'concerned') are Heschel's well-attested formulations as reported across the scholarly literature, flagged as not personally verified against a licensed copy, and the primary is rated MEDIUM. Sources triangulate: (b) the primary, Heschel, The Prophets, 1962; (a)/(c) a contemporary Jewish scholar, Shai Held, Abraham Joshua Heschel: The Call of Transcendence (Indiana University Press, 2013), which treats the divine pathos directly; and the attributed counter-position, Eliezer Berkovits, Major Themes in Modern Philosophies of Judaism (Ktav, 1974), ch. 6, 'Dr. A. J. Heschel's Theology of Pathos' (drawing on his earlier article in Tradition 6:2, 1964). No encyclopedias, no Wikipedia, no tertiary sources; all secondary sources rated MEDIUM, verified to exist and be on-topic, not read line-by-line. Relation targets present in the dataset: abraham-joshua-heschel, tanakh, guide-for-the-perplexed (Maimonidean impassibility, contrasts_with), and nubuwwa (islam; a cross-tradition prophecy comparison stated as shared question and difference, not equated or ranked, per neutrality #10-#11).",
+  "relations": [
+    {
+      "type": "articulated_by",
+      "target": "abraham-joshua-heschel",
+      "note": "Heschel developed the theology of divine pathos in The Prophets (1962), an expansion of his Berlin dissertation Die Prophetie (1936): the God of the prophets as concerned and moved by human action, and the prophet as one attuned to and sharing in that pathos. Presented as his attributed theology."
+    },
+    {
+      "type": "related_to",
+      "target": "tanakh",
+      "note": "Heschel drew the theology of divine pathos from his reading of the Hebrew Bible, especially the prophetic books, holding that the affective language the prophets use of God expresses genuine divine involvement rather than mere metaphor."
+    },
+    {
+      "type": "contrasts_with",
+      "target": "guide-for-the-perplexed",
+      "note": "Heschel's theology of pathos consciously departs from the philosophical doctrine of divine impassibility represented by Maimonides' Guide of the Perplexed, whose negative theology denies that emotions or passions may be literally predicated of God and reads the Bible's affective language as accommodation. Both are presented as attributed positions; the entry does not rule which is correct."
+    },
+    {
+      "type": "compares_with",
+      "target": "nubuwwa",
+      "note": "Both traditions offer an account of prophecy and the prophet's relation to God: Heschel's Jewish theology casts the prophet as one who shares (sympathy) in the divine pathos, the concern of a God moved by human action, while Islamic theology of nubuwwa treats prophethood as the reception and faithful conveyance of divine revelation. Stated as a shared question with differing answers, neither equated nor ranked (neutrality #10-#11)."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Heschel, Abraham Joshua. The Prophets. New York: Harper & Row, 1962 (an expansion of his Berlin dissertation Die Prophetie, 1936). Cited as the primary text for the theology of divine pathos: the God of the prophets as concerned, moved, and affected by human action, in contrast to the unmoved absolute of metaphysical theology, and the prophet as one attuned to that pathos (sympathy). Verified to exist and be on-topic; the characteristic formulations were NOT read line-by-line against a licensed open copy (the work is under copyright) and are reported as attested across the scholarly literature.",
+      "url": "https://www.harpercollins.com/products/the-prophets-abraham-j-heschel",
+      "license": "Proprietary; cited for reference. Text not reproduced beyond short attributed phrasing.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Held, Shai. Abraham Joshua Heschel: The Call of Transcendence. Bloomington: Indiana University Press, 2013. A contemporary Jewish scholar's systematic study of Heschel's thought, treating the divine pathos, prophetic sympathy, and Heschel's departure from the impassibilist philosophical tradition; cited as the contemporary-scholarly lens on the theology of pathos. Verified to exist and be on-topic (Indiana University Press; reviews in the Jewish Review of Books and Project MUSE), not read line-by-line.",
+      "url": "https://iupress.org/9780253017147/abraham-joshua-heschel/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Berkovits, Eliezer. Major Themes in Modern Philosophies of Judaism. New York: Ktav Publishing House, 1974, ch. 6, 'Dr. A. J. Heschel's Theology of Pathos' (drawing on his earlier article, 'Dr. A. J. Heschel's Theology of Pathos,' Tradition 6, no. 2, 1964). Cited as the attributed counter-position: Berkovits argues that ascribing pathos to God verges on anthropopathism inconsistent with divine transcendence and criticizes the excess of Heschel's language about God's emotions. Recorded as an attributed critique within the internal Jewish discussion, not adopted. Verified to exist and be on-topic (publisher record; the chapter also reproduced in the Sefaria library), not read line-by-line.",
+      "url": "https://archive.org/details/majorthemesinmod0000berk",
+      "license": "Proprietary; cited for reference (an archived scan confirms the book's details).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

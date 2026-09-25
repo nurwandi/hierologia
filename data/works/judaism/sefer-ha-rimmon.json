@@ -1,0 +1,80 @@
+{
+  "id": "sefer-ha-rimmon",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Sefer ha-Rimmon",
+    "original": "סֵפֶר הָרִמּוֹן",
+    "transliteration": "Sefer ha-Rimmon",
+    "aliases": [
+      "The Book of the Pomegranate",
+      "Sefer ha-Rimon"
+    ]
+  },
+  "category": "kabbalistic treatise (on the reasons for the commandments)",
+  "date": {
+    "year": 1287,
+    "note": "Composed in 1287 in Castile, on the dating accepted in the scholarship (Scholem; Wolfson's critical edition). It is one of the Hebrew works Moses de Leon wrote under his own name in the years around 1290."
+  },
+  "summary": "Sefer ha-Rimmon ('the Book of the Pomegranate'), composed by the Castilian kabbalist Moses de Leon in 1287, is a Hebrew treatise on the mystical reasons and inner meanings of the commandments (ta'amei ha-mitzvot). It is one of the works de Leon wrote under his own name, distinct from the Zohar that modern scholarship attributes to him, and it develops a kabbalistic theory of the commandments in relation to the sefirot. It was critically edited by Elliot R. Wolfson (Brown Judaic Studies, 1988).",
+  "description": "Sefer ha-Rimmon (the 'Book of the Pomegranate') is a Hebrew kabbalistic treatise composed by Moses ben Shem Tov de Leon (c. 1240-1305) in Castile in 1287. It belongs to the group of works that de Leon wrote and circulated under his own name, and it is therefore, unlike the Zohar (which he circulated as the ancient teaching of the second-century Shimon bar Yochai and which modern scholarship attributes to him), a work whose authorship is not in dispute.\n\nThe treatise is devoted to the reasons and inner meanings of the commandments, the ta'amei ha-mitzvot: it interprets the observances of Jewish law in mystical and kabbalistic terms, relating their performance to the dynamics of the divine potencies, the ten sefirot, and to the effect of human action upon the supernal world. In doing so it gives expression to the theosophy of the hidden Ein Sof and the emanated sefirot that is the heart of the Kabbalah taking shape in thirteenth-century Castile, the same body of ideas that the Zohar develops. In the modern scholarship the book is valued both in its own right, as a systematic kabbalistic account of the commandments, and for the light it throws on the Zohar: because de Leon's signed Hebrew works and the Zohar share terminology, imagery, and doctrine, the signed works have been central to the argument, made in detail by Gershom Scholem, that de Leon composed the bulk of the Zohar, and they remain a principal comparative witness in the study of the Zohar's language and formation.\n\nSefer ha-Rimmon survives and has been critically edited: Elliot R. Wolfson's edition, The Book of the Pomegranate: Moses de Leon's Sefer ha-Rimmon (Brown Judaic Studies, 1988), establishes the Hebrew text with an introductory study and is available in open access through the Brown Judaic Studies repository. This entry presents the work on the tradition's own terms as a kabbalistic treatise on the reasons for the commandments and records the scholarly account of its authorship, its date, and its relation to the Zohar; the scholarly attribution of the Zohar to de Leon, to which the book is relevant, is recorded as the academic position within the wider, unadjudicated dispute over the Zohar's authorship, exactly as in the moses-de-leon and zohar entries.",
+  "editorial_notes": "This entry presents Sefer ha-Rimmon as one of the Hebrew works Moses de Leon wrote under his OWN name, whose authorship (unlike the Zohar's) is NOT in dispute, and describes its content (a kabbalistic treatment of the reasons for the commandments, ta'amei ha-mitzvot, in relation to the sefirot) as attributed to the scholarship that edits and studies it, not adjudicated. Where the work bears on the Zohar-authorship question, that question is handled per neutrality #1-#2 exactly as in the moses-de-leon and zohar entries: the modern academic attribution of the Zohar to de Leon (argued by Scholem, the signed Hebrew works central to the argument) is given as the ACADEMIC POSITION within the unadjudicated dispute, alongside the traditional ascription to Shimon bar Yochai, and the editor does not adjudicate. Sources triangulate the lenses per neutrality #8-#9: (a) academic historians of Jewish mysticism (Scholem, Major Trends in Jewish Mysticism, for the authorship argument and de Leon's signed works; Wolfson's critical edition for the text, date, and content); (b) the primary material, de Leon's own work in Wolfson's critical edition and the related Zohar text open on Sefaria; and (c) a contemporary Jewish scholar (Wolfson). No encyclopedias, no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: status DRAFT. The Wolfson edition is rated medium: its Brown Judaic Studies repository page was read directly (confirming the work is Moses de Leon's, composed 1287, on the reasons for the commandments/mitzvot, and open access), but the Hebrew primary text itself was not read verbatim in this session, so the load-bearing content claims rest on Wolfson's edition and Scholem, recorded as scholarly attribution rather than a verbatim primary reading. Scholem is medium, verified via publisher record, not read line-by-line. The open Sefaria Zohar (Bereshit 1) was read at the passage level in the zohar, kabbalah, and moses-de-leon entries; it is rated medium here because it is cited only for the related Zohar corpus, not as the text of Sefer ha-Rimmon. Relation targets: moses-de-leon, zohar, kabbalah, sefirot, ein-sof, and mitzvot all exist under data/ (moses-de-leon records the reciprocal articulated edge to sefer-ha-rimmon).",
+  "relations": [
+    {
+      "type": "authored_by",
+      "target": "moses-de-leon",
+      "note": "Sefer ha-Rimmon is one of the Hebrew works Moses de Leon wrote under his own name (composed 1287), critically edited by Elliot Wolfson (Brown Judaic Studies, 1988); its authorship, unlike the Zohar's, is not in dispute."
+    },
+    {
+      "type": "related_to",
+      "target": "mitzvot",
+      "note": "The treatise is devoted to the mystical reasons and inner meanings of the commandments (ta'amei ha-mitzvot), interpreting the observances of Jewish law in kabbalistic terms. The mitzvot concept exists."
+    },
+    {
+      "type": "related_to",
+      "target": "sefirot",
+      "note": "Sefer ha-Rimmon relates the performance of the commandments to the dynamics of the ten sefirot, the emanated divine potencies of kabbalistic theosophy. The sefirot concept exists."
+    },
+    {
+      "type": "related_to",
+      "target": "ein-sof",
+      "note": "The work's kabbalistic theosophy turns on the hidden Ein Sof from which the sefirot emanate, the framework it shares with the wider Kabbalah of thirteenth-century Castile. The ein-sof concept exists."
+    },
+    {
+      "type": "related_to",
+      "target": "kabbalah",
+      "note": "Sefer ha-Rimmon is a work of the Kabbalah taking shape in thirteenth-century Castile, giving systematic kabbalistic expression to the reasons for the commandments. The kabbalah entry (a school) exists."
+    },
+    {
+      "type": "related_to",
+      "target": "zohar",
+      "note": "De Leon's signed Hebrew works, Sefer ha-Rimmon among them, share terminology, imagery, and doctrine with the Zohar and are central to the modern academic argument (Scholem) that de Leon composed the bulk of the Zohar; that attribution is the academic position within the unadjudicated dispute over the Zohar's authorship."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Wolfson, Elliot R., ed. The Book of the Pomegranate: Moses de Leon's Sefer ha-Rimmon. Brown Judaic Studies 144. Atlanta: Scholars Press, 1988. The critical edition of Sefer ha-Rimmon, establishing the Hebrew text with an introductory study; the Brown Judaic Studies repository describes it as a Hebrew edition of an important work by Moses de Leon (c. 1240-1305), written in 1287 and significant for the study of the Zohar and for the development of a theory of the commandments (mitzvot). Cited as the load-bearing edition for the work's text, date, content, and authorship. Verified to exist and be on-topic; the repository page was read directly and the edition is open access (Brown Judaic Studies / DOAB), the Hebrew primary not read verbatim here.",
+      "url": "https://judaicstudies.brown.edu/monograph/book-pomegranate-moses-de-leons-sefer-ha-rimmon",
+      "license": "Open access (Brown Judaic Studies repository); underlying Hebrew of de Leon in the public domain.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Scholem, Gershom. Major Trends in Jewish Mysticism. New York: Schocken Books, 1941 (based on lectures delivered 1938 at the Jewish Theological Seminary). The foundational modern study of Jewish mysticism, which treats Moses de Leon's signed Hebrew works (Sefer ha-Rimmon among them) and argues, from their shared terminology and doctrine with the Zohar, that de Leon composed the bulk of the Zohar; cited for de Leon's authorship of his signed works and for the academic attribution of the Zohar, recorded as an attributed position and not adjudicated. Verified to exist and be on-topic (Schocken / Penguin Random House record), not read line-by-line.",
+      "url": "https://www.penguinrandomhouse.com/books/162194/major-trends-in-jewish-mysticism-by-gershom-scholem/",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "The Zohar, open Hebrew/Aramaic and English text on Sefaria (Sefaria Community Translation, CC0). Cited as the openly-auditable primary text of the related Zohar corpus with which de Leon's signed Hebrew works share terminology and doctrine; the opening on Bereshit was read at the passage level (in the zohar, kabbalah, and moses-de-leon entries) and carries the theosophy of the hidden Ein Sof and the emanated sefirot that Sefer ha-Rimmon also develops. Cited here for the related Zohar corpus, not as the text of Sefer ha-Rimmon.",
+      "url": "https://www.sefaria.org/Zohar,_Bereshit.1",
+      "license": "Sefaria Community Translation, CC0 (public domain dedication); underlying Aramaic in the public domain. Openly auditable; read at the passage level in related entries.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

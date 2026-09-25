@@ -1,0 +1,69 @@
+{
+  "id": "dov-ber-of-linets",
+  "tradition": "judaism",
+  "names": {
+    "primary": "Dov Ber of Linets",
+    "original": "דֹּב בֶּער בֶּן שְׁמוּאֵל מִלִּינִיץ",
+    "transliteration": "Dov Ber ben Shmuel mi-Linits",
+    "aliases": [
+      "Dov Baer ben Samuel of Linits",
+      "Dov Ber ben Samuel of Linets",
+      "Dov Baer of Linits (Ilintsi)",
+      "Ber of Linits, the shochet"
+    ]
+  },
+  "roles": [
+    "ritual slaughterer (shochet)",
+    "compiler of Hasidic hagiography"
+  ],
+  "summary": "Dov Ber ben Samuel of Linits (Linets, fl. late eighteenth to early nineteenth century) was a ritual slaughterer (shochet) remembered as the compiler of Shivchei ha-Besht ('In Praise of the Baal Shem Tov'), the first and most influential collection of hagiographic tales about Israel ben Eliezer, the Baal Shem Tov, and the early Hasidic circle. According to the tradition he gathered the tales from oral transmission, and he was connected to the Besht's circle through his father-in-law, who is said to have served as the Besht's scribe. The work was first printed in Hebrew at Kopys in 1814, arranged and introduced by the printer Israel Yaffe. Little is documented of Dov Ber's own life beyond his role as the collection's compiler.",
+  "description": "Dov Ber ben Samuel of Linits (Linets, a town in Podolia/Volhynia), active in the later eighteenth and early nineteenth centuries, was a shochet, a ritual slaughterer, whose place in the history of Hasidism rests on his compilation of Shivchei ha-Besht, the earliest collection of hagiographic legends about the Baal Shem Tov (c. 1698-1760) and the associates, disciples, and forebears connected with him. In the account transmitted with the book and in the scholarship on it, Dov Ber was linked to the Besht's circle through his father-in-law, Alexander the scribe (Alexander Shohat), who is said to have served the Baal Shem Tov as a copyist, and he gathered the tales he set down largely from oral transmission rather than from written records.\n\nThe collection Dov Ber assembled was first printed in Hebrew at Kopys (Kopyst) in 1814 by the printer Israel Yaffe (Yofeh), who arranged the material and prefaced it with an introduction describing how the tales had been collected; Yiddish versions followed almost immediately. In the standard scholarly English translation and edition, by Dan Ben-Amos and Jerome R. Mintz, the work is attributed to 'Dov Baer ben Samuel of Linits' and presented under the subtitle 'the earliest collection of legends about the founder of Hasidism'. The relationship between the tales Dov Ber gathered, the form in which the printer Yaffe issued them, and any earlier manuscript collections is a question examined in the scholarship on the transmission and printing history of the book.\n\nBecause the Baal Shem Tov committed almost nothing to writing, the collection Dov Ber compiled became a principal source of the popular image of him and, for that reason, a central object of modern critical study. Scholars of Hasidism (Ada Rapoport-Albert, whose essay 'Hagiography with Footnotes' analyzes the edifying-tale genre and its relation to the writing of history; Moshe Rosman, who examines the collection in reconstructing the historical Besht) treat Shivchei ha-Besht as hagiography, a literature of praise and holy legend gathered decades after the events it recounts, and weigh its narratives against the sparse contemporary documentation. Dov Ber himself is a shadowy figure: little is documented of his life beyond his role as the compiler of the tales, and this entry presents him on those terms, as the transmitter and compiler of the Besht-legends, with the hagiographic character of the material he gathered stated plainly and the scholarly assessment of it recorded alongside.",
+  "editorial_notes": "This entry presents Dov Ber of Linets as the compiler of Shivchei ha-Besht and is HONEST that little is documented of his own life beyond that role, and that the material he gathered is HAGIOGRAPHY, a collection of praise-tales and holy legend, not documentary biography (neutrality #1, #4, #5), consistent with the shivchei-ha-besht and baal-shem-tov entries. The claim that his father-in-law (Alexander the scribe) served the Besht as copyist, and the account of the tales' collection from oral transmission, are given as the tradition's and the scholarship's attributed account, described and not adjudicated. Sources: (a) the standard scholarly translation and annotated edition by Dan Ben-Amos and Jerome R. Mintz, In Praise of the Baal Shem Tov (Indiana University Press, 1970), which attributes the compilation to Dov Baer ben Samuel of Linits and labels the work 'legends about the founder of Hasidism'; (b) Ada Rapoport-Albert, 'Hagiography with Footnotes: Edifying Tales and the Writing of History in Hasidism,' History and Theory 27, Beiheft (1988): 119-159, the standard study of the edifying-tale genre and the historiographical status of such collections; (c) Moshe Rosman, Founder of Hasidism (University of California Press, 1996), which subjects the collection to critical scrutiny in reconstructing the historical Besht. No encyclopedias (no Encyclopaedia Judaica, no YIVO Encyclopedia, no Chabad.org, no My Jewish Learning), no Wikipedia, no tertiary sources. CONFIDENCE / HONESTY: status DRAFT; all cited works are rated medium, verified to exist and be on-topic (Internet Archive and HathiTrust for Ben-Amos & Mintz; History and Theory vol. 27 and PhilPapers for the Rapoport-Albert article; University of California Press and the 1996 National Jewish Book Award for Rosman), not read line-by-line in this session. The open Hebrew primary (Shivchei ha-Besht on Sefaria, Kopys 1815) carries the printer's introduction on the collection of the tales and is read at section 1 in the shivchei-ha-besht entry; it is not re-read verbatim here, so the load-bearing attribution of the compilation to Dov Ber is carried in this entry by the Ben-Amos & Mintz edition and the secondary scholarship rather than by a fresh verbatim reading. Relation targets: shivchei-ha-besht and baal-shem-tov exist under data/ (the shivchei-ha-besht work records the reciprocal authored_by edge to dov-ber-of-linets); hasidism exists.",
+  "lifespan": {
+    "note": "Active in the later eighteenth and early nineteenth centuries; precise birth and death years are not securely documented. A shochet (ritual slaughterer) of Linits (Linets), connected to the Baal Shem Tov's circle through his father-in-law (said to have been the Besht's scribe), he compiled the tales printed as Shivchei ha-Besht (first Hebrew edition, Kopys, 1814)."
+  },
+  "relations": [
+    {
+      "type": "articulated",
+      "target": "shivchei-ha-besht",
+      "note": "Dov Ber ben Samuel of Linits compiled the tales printed as Shivchei ha-Besht, the earliest hagiographic collection of legends about the Baal Shem Tov, arranged and introduced by the Kopys printer Israel Yaffe (first Hebrew edition, 1814)."
+    },
+    {
+      "type": "related_to",
+      "target": "baal-shem-tov",
+      "note": "The tales Dov Ber gathered are legends of Israel ben Eliezer, the Baal Shem Tov, and the circle around him; Dov Ber was connected to that circle through his father-in-law, who is said to have served the Besht as a scribe. The material is hagiography, not documentary report."
+    },
+    {
+      "type": "member_of",
+      "target": "hasidism",
+      "note": "As the compiler of the first collection of praise-tales of the movement's founder, Dov Ber belongs to the early transmission of Hasidism's foundation-narrative and self-image. The hasidism entry (a school) exists."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ben-Amos, Dan, and Jerome R. Mintz, trans. and eds. In Praise of the Baal Shem Tov (Shivhei ha-Besht): The Earliest Collection of Legends about the Founder of Hasidism. By Dov Baer ben Samuel of Linits. Bloomington: Indiana University Press, 1970. The standard scholarly English translation and annotated edition of Shivchei ha-Besht, which attributes the compilation to Dov Baer ben Samuel of Linits and, in its subtitle, characterizes the work as 'legends about the founder of Hasidism' (a hagiography); cited as the load-bearing source for Dov Ber's role as compiler. Verified to exist and be on-topic (Internet Archive; HathiTrust 001100681), not read line-by-line.",
+      "url": "https://archive.org/details/inpraiseofbaalsh0000dobb",
+      "license": "Proprietary translation; the classical Hebrew text is in the public domain. Cited for reference (Internet Archive record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rapoport-Albert, Ada. 'Hagiography with Footnotes: Edifying Tales and the Writing of History in Hasidism.' History and Theory 27, Beiheft 27: Essays in Jewish Historiography (1988): 119-159. The standard scholarly study of the Hasidic edifying-tale genre (of which Shivchei ha-Besht is the founding example), arguing that these collections were compiled as praise and moral edification rather than as historiography while preserving biographical material; cited as the academic lens on the genre and historiographical status of the collection Dov Ber assembled. Verified to exist and be on-topic (History and Theory vol. 27; PhilPapers record), not read line-by-line.",
+      "url": "https://philpapers.org/rec/RAPHWF",
+      "license": "Proprietary; cited for reference (journal / PhilPapers record).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Rosman, Moshe. Founder of Hasidism: A Quest for the Historical Ba'al Shem Tov. Contraversions 5. Berkeley: University of California Press, 1996 (reprinted Oxford: Littman Library, 2013). A contemporary Jewish scholar's archival reconstruction of the historical Besht that subjects Shivchei ha-Besht and its transmission to critical scrutiny; cited as the contemporary-scholarship lens on the collection Dov Ber compiled and its use as a historical source. Verified to exist and be on-topic (University of California Press; 1996 National Jewish Book Award), not read line-by-line.",
+      "url": "https://www.ucpress.edu/books/founder-of-hasidism/hardcover",
+      "license": "Proprietary; cited for reference (publisher page).",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "qadi",
+  "tradition": "islam",
+  "names": {
+    "primary": "Qadi",
+    "original": "القاضي",
+    "transliteration": "al-qāḍī",
+    "aliases": [
+      "qadhi",
+      "kadi",
+      "cadi",
+      "qazi",
+      "Islamic judge",
+      "judge of the sharia court",
+      "the judge"
+    ]
+  },
+  "category": "law and society",
+  "summary": "A qadi is, in the tradition's own account, the Islamic judge: a single magistrate appointed by the ruler to hear cases and render binding judgments (ahkam) according to the sharia as elaborated in fiqh. The office is commonly distinguished from that of the mufti, who issues non-binding legal opinions (fatwas), and the qadi ordinarily adjudicates within the doctrine of a recognized school of law (madhhab), the ruler sometimes restricting his court to a particular school. The rise of the office out of the early caliphate, its delegation from the ruler's own authority, and its later systematization (including the chief judge, qadi al-qudat) are matters treated by different scholars and described here, not adjudicated.",
+  "description": "Qadi (from the root q-ḍ-y, 'to decide' or 'to settle'; the active participle names the one who decides) designates, in the tradition's self-understanding, the judge of a court applying Islamic law: a magistrate who hears the parties, takes evidence, and issues a binding decision (hukm, plural ahkam) in disputes and cases brought before him, according to the sharia as it is elaborated by the jurists into the concrete rulings of fiqh. The tradition connects the office to the Qur'anic command to judge with justice: Q 4:58, in the reading of The Clear Quran, 'Indeed, Allah commands you to return trusts to their rightful owners; and when you judge between people, judge with fairness', and Q 38:26, addressed to David, 'O David! We have surely made you an authority in the land, so judge between people with truth. And do not follow ˹your˺ desires or they will lead you astray from Allah's Way.' On these and related texts the tradition builds its account of judging as a trust discharged on God's command.\n\nIn the classical account the qadi's authority is delegated: he judges not in his own right but by appointment from the ruler (the caliph, and later the sultan or governor), who holds the public authority and confers on the qadi the mandate to adjudicate within a defined jurisdiction, whether territorial, subject-matter, or both. The qadi's competence is generally described as covering the litigation of private rights and the matters of fiqh that come before a court, such as claims of debt and contract, marriage, divorce, and inheritance, the guardianship of orphans and the administration of endowments (awqaf), and the punishment of offenses; his jurisdiction and its limits are set by his commission and by the ruler who appoints him, and he can be appointed and removed by that authority. Scholarship on Islamic judicial organization, above all Émile Tyan's study, describes the office as arising out of the early Islamic polity, with judicial functions at first exercised by the ruler and his governors and then increasingly entrusted to appointed specialists, and as being systematized across the Umayyad and Abbasid periods, with a professional judiciary developing across both and the office of a chief judge (qadi al-qudat) emerging under the Abbasids.\n\nThe qadi is commonly distinguished from two neighboring roles. The mufti issues a fatwa, a considered but non-binding legal opinion answering a question of the law, whereas the qadi renders a hukm, a binding judgment resolving an actual case between parties; a qadi faced with a hard question might himself seek the opinion of a mufti, but the two functions, counsel and decision, are kept distinct in the tradition's account. The qadi is also situated in relation to the schools of law (madhhabs): a qadi ordinarily adjudicates according to the doctrine of a recognized school, and rulers at various times restricted the judges of their courts to a particular madhhab or, in some periods and places, appointed judges from several schools, so that the qadi's application of the law is mediated by the school within which he works. These features are presented here as the tradition's own account of the office and as the findings of the scholarship on it, described and not adjudicated.\n\nThis entry presents the qadi strictly as the tradition's own concept of the judge of a court of Islamic law and as the office studied by the scholarship, described on its own terms (neutrality #6). The scriptural anchors are given as the texts the tradition itself invokes for judging as a divine command, not as the editor's proof of any doctrine, and the historical questions about the office's rise, its delegation from the ruler, and its systematization are attributed to those who treat them and left unadjudicated.",
+  "editorial_notes": "This entry closes the compares_with relation target from beit-din (Judaism), which links to qadi as the Islamic counterpart judicial institution (ADR-0005), and is a law-and-society / institutional concept: the qadi is described as the tradition's own office of the judge of a court of Islamic law, on its own terms (neutrality #1, #6). Per neutrality #2 and #7 the relation of the qadi to the mufti and to the madhhabs is described and not ranked, and the historical questions (the rise of the office out of the early caliphate, its delegation from the ruler, the later chief-judgeship) are given as attributed scholarly findings, not adjudicated. Phrasing such as 'in the tradition's self-understanding', 'the classical account', 'generally described', and 'scholarship ... describes' marks the attribution.\n\nSourcing lenses (neutrality #8): (b) the primary scriptural anchors were read verbatim; (a) the Western academic lens is Tyan (the classic study of Islamic judicial organization) and Hallaq; the edited volume Dispensing Justice in Islam (Masud, Peters, and Powers) carries both academic and tradition-internal scholarship on the qadi's judgments. A classical primary text specifically on the adab al-qadi (the conduct of the judge) literature is not cited at chapter level in this pass and is noted as a gap to fill at review; adding one without reading it would violate the no-fabrication rule.\n\nCONFIDENCE HONESTY: the two Qur'anic anchors are open and were read verbatim at quran.com and are rated high FOR WHAT THE TEXTS SAY (that they command judging with justice/truth and are the texts the tradition invokes for the judicial office), not as the editor's proof of any doctrine. Q 4:58 was read at quran.com (The Clear Quran, Mustafa Khattab: 'and when you judge between people, judge with fairness') and Q 38:26 likewise (The Clear Quran: 'O David! We have surely made you an authority in the land, so judge between people with truth'). The load-bearing institutional and historical content, the delegation from the ruler, the jurisdiction, the relation to the mufti and the madhhabs, and the rise and systematization of the office, rests on modern scholarship (Tyan, Hallaq, and the Masud/Peters/Powers volume), web-verified to exist and be on-topic but not read page by page in this pass, and is rated medium. Because the load-bearing content rests on medium sources, this entry honestly tops out at 'reviewed', not 'verified', even though its scriptural anchors are verbatim-confirmed; it is entered as 'draft' pending review. The Hallaq citation (Sharīʿa: Theory, Practice, Transformations, 2009) is reused at the same work, URL, and medium confidence as in the fiqh and sharia entries (same-source-same-rating discipline).\n\nRELATIONS: relation targets fiqh, sharia, and madhhab exist in the dataset; the compares_with edge to beit-din (Judaism) mirrors the reciprocal edge in the beit-din entry, stating the shared question and the difference and ranking neither (ADR-0005, neutrality #10). The mufti is discussed in the prose as a distinct office but is not given as a relation edge. Per neutrality #9 no encyclopedias (no Encyclopaedia of Islam), no Wikipedia, and no tertiary sources are cited.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "fiqh",
+      "note": "The qadi adjudicates cases by applying the concrete rulings of fiqh (the jurists' derived jurisprudence): fiqh supplies the law the judge decides by, and the qadi's judgment (hukm) is the application of that law to an actual case. The law and the judge who applies it are the linked halves of the legal system; the relation is described and not ranked. Target (fiqh) exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "sharia",
+      "note": "The qadi judges according to the sharia (the revealed law) as it is elaborated by the jurists; in the tradition's account the office exists to render justice in accordance with God's law, an understanding the tradition anchors in Qur'anic commands to judge with justice (Q 4:58) and with truth (Q 38:26). The relation is attributed, not adjudicated. Target (sharia) exists in the dataset."
+    },
+    {
+      "type": "related_to",
+      "target": "madhhab",
+      "note": "A qadi ordinarily adjudicates within the doctrine of a recognized school of law (madhhab); rulers at various times restricted the judges of their courts to a particular school or appointed judges from several schools, so the qadi's application of the law is mediated by the madhhab within which he works. The diversity of the schools is described and not ranked. Target (madhhab) exists in the dataset."
+    },
+    {
+      "type": "compares_with",
+      "target": "beit-din",
+      "note": "Both address the religious community's judicial institution, the seat that adjudicates the community's law. In Islam the qadi is a single judge appointed by the ruler, who hears cases and renders binding judgments according to the sharia as elaborated in fiqh; the beit din is a collegial rabbinical court, classically of three (or, at its summit, the Sanhedrin), that decides matters of halakha. The link marks a shared question about the community's judicial institution and an explicit difference in the answer, the office of the single ruler-appointed judge applying fiqh versus the collegial rabbinical court applying halakha, and ranks neither (ADR-0005, neutrality #10). Mirror of the reciprocal compares_with edge in the beit-din entry. Target (beit-din) exists in the dataset."
+    }
+  ],
+  "historical_period": {
+    "start": 632,
+    "note": "The tradition traces judicial appointment to the Prophet's sending of judges and governors and to the early caliphs (an approximate anchor at 632 CE, the year of the Prophet's death); scholarship (Tyan) describes the office of the qadi as arising out of the early Islamic polity and being systematized across the Umayyad and Abbasid periods, the chief-judgeship (qadi al-qudat) emerging under the Abbasids. No end date is given; the office remains a living institution in sharia courts."
+  },
+  "sources": [
+    {
+      "citation": "The Qur'an 4:58 (Surat al-Nisa). Read at quran.com; The Clear Quran (Mustafa Khattab): 'Indeed, Allah commands you to return trusts to their rightful owners; and when you judge between people, judge with fairness.' Cited as a scriptural anchor the tradition invokes for judging as a trust discharged with justice, read verbatim. High for what the verse says and that it is the text the tradition invokes for the judicial command, not as the editor's proof of any doctrine.",
+      "url": "https://quran.com/4/58",
+      "license": "Qur'anic Arabic text public domain; English translation quoted briefly for identification.",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Qur'an 38:26 (Surat Sad). Read at quran.com; The Clear Quran (Mustafa Khattab): 'O David! We have surely made you an authority in the land, so judge between people with truth. And do not follow ˹your˺ desires or they will lead you astray from Allah's Way.' Cited as a scriptural anchor for judging with truth, addressed to David (Dawud) as a khalifa (authority) in the land, read verbatim. High for what the verse says and that it is the text the tradition invokes for the judicial command, not as the editor's proof of any doctrine.",
+      "url": "https://quran.com/38/26",
+      "license": "Qur'anic Arabic text public domain; English translation quoted briefly for identification.",
+      "accessed": "2026-09-25",
+      "confidence": "high"
+    },
+    {
+      "citation": "Tyan, Émile. Histoire de l'organisation judiciaire en pays d'Islam. 2nd ed. Leiden: E.J. Brill, 1960 (originally 2 vols., Paris/Beirut, 1938-1943). The classic scholarly monograph on the organization of the judiciary in Islamic lands, treating the office of the qadi, its rise out of the early Islamic polity, its delegation from the ruler, its jurisdiction and functions, and the historical development of the judiciary across the Umayyad and Abbasid periods (including the chief-judgeship). The Western academic lens on the institution. Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://search.worldcat.org/title/468723197",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Hallaq, Wael B. Sharīʿa: Theory, Practice, Transformations. Cambridge: Cambridge University Press, 2009. A leading academic monograph on Islamic law, treating the judicial system and the office and functions of the qadi, the delegation of judicial authority, and the relation of the courts to the jurists and the schools. The Western academic lens; the same work at the same medium confidence as in the fiqh and sharia entries (same-source-same-rating discipline). Web-verified to exist and be on-topic; specific pages not read line by line for this draft.",
+      "url": "https://www.cambridge.org/9780521678742",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Masud, Muhammad Khalid, Rudolph Peters, and David S. Powers, eds. Dispensing Justice in Islam: Qadis and their Judgments. Studies in Islamic Law and Society 22. Leiden and Boston: Brill, 2006. An edited scholarly volume and sourcebook of Islamic judicial practice from the rise of Islam to modern times, treating the nature and functions of the judgeship and its development over time, the structure of the judicial apparatus, the application of juristic reasoning to cases, and judicial procedure and evidence. Carries both Western academic and tradition-internal scholarship on the qadi. Web-verified to exist and be on-topic; specific chapters not read line by line for this draft.",
+      "url": "https://brill.com/display/title/12088",
+      "license": "Proprietary; cited for reference, text not reproduced.",
+      "accessed": "2026-09-25",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-25",
+  "updated": "2026-09-25"
+}
