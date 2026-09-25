@@ -6,6 +6,36 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.28.0] - 2026-09-25
+
+Closing the last of the dangling references. Fourteen entities across the Hasidic and Kabbalistic
+clusters, the halakhic and modern Jewish threads, the liberal-Protestant lineage, the Greek Neoplatonic
+substrate, and Islamic judicial theory. With the two remaining forward references resolved by repointing
+and pruning, the dataset now has zero dangling relation targets for the first time.
+
+### Added
+- **Judaism, mystical/Hasidic** (5): the figures `zusha-of-anipoli`, `dov-ber-of-linets`,
+  `gershon-of-kutov`, and the works `sefer-ha-rimmon` and `shekel-ha-kodesh` (Moses de Leon's signed
+  Hebrew treatises).
+- **Judaism, halakhic/modern** (4): the figure `jacob-ben-asher` (Baal ha-Turim), and the concepts
+  `austritt`, `sephardic-diaspora`, and `divine-pathos` (Heschel).
+- **Christianity** (2): the figures `albrecht-ritschl` and `eberhard-bethge`.
+- **Philosophy** (2): the figures `ammonius-saccas` and `porphyry`.
+- **Islam** (1): the concept `qadi` (the Islamic judge), mirroring `beit-din` under ADR-0005.
+
+### Changed
+- Verified (2): `albrecht-ritschl` (two signature statements read verbatim at pp. 11-12 of the 1900
+  Mackintosh and Macaulay translation) and `porphyry` (the Life of Plotinus read verbatim). The verified
+  tier is now 148.
+- Reviewed (12), honestly: the remaining new entities, whose load-bearing claims rest on secondary
+  scholarship or on an anchor quotation within a secondary-based entry.
+- Resolved the final two forward references: repointed `paraclete`'s cross-tradition `compares_with` to
+  the existing `isa` entry (the Islamic reading of the parakletos as foretelling Ahmad, Qur'an 61:6),
+  and pruned a biographical-trivia `contemporary_of` edge from `abraham-joshua-heschel`. Dangling
+  relation targets: 0.
+- Removed stale build-state prose from `beit-din` (its notes still called `sanhedrin` and `qadi`
+  not-yet-existing) and from the new entries' relation notes.
+
 ## [0.27.0] - 2026-09-15
 
 Closing dangling references across all three traditions: twelve entities spanning the Jewish festival and
