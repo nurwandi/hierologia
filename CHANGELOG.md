@@ -6,6 +6,38 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.29.0] - 2026-09-26
+
+Opening the Islamic history layer. Islam had the thinnest history of the three traditions (two events
+against Christianity's ten); this batch adds its foundational narrative from the prophetic period to
+the fall of Baghdad, together with the dataset's first entry on the Prophet Muhammad. Scope for the
+history push is set at c. 1900.
+
+### Added
+- **Islam, figure** (1): `muhammad`, written in a historian's register on the model of
+  `jesus-of-nazareth`: prophethood, revelation, and miracles appear only as attributed Muslim belief,
+  and the source-critical debate over the sira and hadith (Watt, Donner, Schoeler, Motzki against
+  Wansbrough and Crone and Cook) is presented without adjudication.
+- **Islam, events** (7): `hijra`, `uthmanic-codex`, `first-fitna`, `karbala`, `abbasid-revolution`,
+  `translation-movement` (the Graeco-Arabic translation movement), and `fall-of-baghdad-1258`.
+  Sectarian readings of the first civil war and of Karbala (Sunni, Shi'i with per-branch imam
+  numbering, Ibadi) are each attributed to their holders.
+- **Islam, works** (2): `sirat-rasul-allah` (Ibn Ishaq in Ibn Hisham's recension) and
+  `constitution-of-medina`.
+- Cross-tradition edges: `uthmanic-codex compares_with new-testament-canon` (how a scripture's
+  authoritative text was fixed) and `translation-movement compares_with scholasticism` (absorbing Greek
+  philosophy into a revealed-religion intellectual culture).
+
+### Changed
+- Verified (5): `hijra`, `constitution-of-medina` (Guillaume's Ibn Ishaq, al-Tabari vol. 6, Lecker, read
+  at cited pages), `first-fitna` and `karbala` (al-Tabari vols. 16, 17, and 19 read at cited pages),
+  and `uthmanic-codex` (Sahih al-Bukhari 4986-4987, Sinai, al-Azami). The verified tier is now 153.
+- Reviewed (5), honestly: `muhammad`, `sirat-rasul-allah`, `abbasid-revolution`,
+  `translation-movement`, and `fall-of-baghdad-1258`, whose load-bearing claims rest on monographs not
+  read line by line. `translation-movement` no longer treats "Bayt al-Hikma" as an alias, since the
+  nature of that institution is itself disputed (Gutas).
+- Reciprocal relations added from 25 existing entries to the new ones. Dangling relation targets: 0.
+
 ## [0.28.0] - 2026-09-25
 
 Closing the last of the dangling references. Fourteen entities across the Hasidic and Kabbalistic
