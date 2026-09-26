@@ -1,0 +1,102 @@
+{
+  "id": "hijra",
+  "tradition": "islam",
+  "names": {
+    "primary": "Hijra",
+    "original": "الهجرة",
+    "transliteration": "al-Hijra",
+    "aliases": [
+      "The Hijra",
+      "Hegira",
+      "The Emigration to Medina",
+      "The Emigration of the Prophet"
+    ]
+  },
+  "category": "emigration",
+  "location": "From Mecca to Yathrib (later Medina), Arabia",
+  "date": {
+    "year": 622,
+    "note": "The emigration took place in 622 CE, the year that became 1 AH. Ibn Ishaq (in Ibn Hisham's recension) dates Muhammad's arrival in Medina to Monday 12 Rabi' al-Awwal. The Islamic era was later fixed to begin with the first month (Muharram) of the Arab year in which the emigration took place; by back-calculation Muharram 1, 1 AH was equated with 16 July 622 CE, a reckoning that assumes no intercalary months were observed, as W. Montgomery Watt notes. The era itself was instituted during the caliphate of Umar (13-23/634-644)."
+  },
+  "summary": "The Hijra is the emigration of Muhammad and his Meccan followers from Mecca to Yathrib, later called Medina, in 622 CE (1 AH). In Islamic tradition it marks the beginning of the Medinan community, and under the caliph Umar it was chosen as the starting point of the Islamic (hijri) calendar.",
+  "description": "The Hijra (Arabic hijra, 'emigration' or 'taking refuge') is the move of Muhammad and his followers from Mecca to the oasis town of Yathrib in 622 CE. Yathrib came to be known as Medina, from madinat al-nabi, 'the city of the Prophet'. In the account of Ibn Ishaq's biography, preserved in Ibn Hisham's recension, people of Yathrib who met Muhammad at the Meccan fair accepted his message, and a larger group the following year invited him and his Meccan supporters to settle among them. His followers emigrated first, and Muhammad remained in Mecca with Abu Bakr and Ali, 'waiting for permission to migrate'. The same narrative relates that the leaders of Quraysh met in council and resolved to kill him, that Ali lay in Muhammad's bed wrapped in his mantle, and that Muhammad and Abu Bakr left by night and hid for three days in a cave on Mount Thawr below Mecca before travelling to Yathrib with a hired guide. The account includes elements the tradition transmits as part of the event, among them the angel Gabriel's warning to Muhammad not to sleep in his bed that night. The Qur'an alludes to a flight in which the Prophet was 'only one of two' who were 'in the cave' and reassured his companion that 'Allah is certainly with us' (Q 9:40), a verse the tradition connects with this episode. Ibn Ishaq places Muhammad's arrival in Medina on Monday 12 Rabi' al-Awwal. The Meccans who emigrated were called the muhajirun (Emigrants) and the Medinans who received them the ansar (Helpers). In the tradition's self-understanding the emigration was undertaken by divine permission, and it is remembered as the moment the community of believers became able to live and worship independently.\n\nAn earlier emigration is also reported. According to Ibn Ishaq, when some of Muhammad's followers faced persecution in Mecca he advised them to go to Abyssinia, whose king 'will not tolerate injustice'; among the first to go were Uthman ibn Affan and his wife Ruqayya, Muhammad's daughter. Ibn Ishaq calls this 'the first hijra in Islam'.\n\nThe emigration to Medina became the epoch of the Islamic calendar. Al-Tabari records that some reports credit Muhammad himself with ordering a new era on his arrival in Medina, but he also records that people at first reckoned by the number of months since the arrival and that the first to order a chronology was the caliph Umar ibn al-Khattab. In the reports al-Tabari transmits, Umar consulted the Companions after letters had arrived undated; proposals to date from the beginning of Muhammad's mission or from his death were set aside in favour of the emigration, and al-Muharram was chosen as the first month because pilgrims return home in it and it is a sacred month. W. Montgomery Watt, translating al-Tabari, judges the formal institution of the era 'almost certainly the work of the caliph Umar', explaining the choice of the Hijra as the effective beginning of the Islamic polity and as a practical dividing line in the chronological material. Fred Donner likewise describes the Hijra as adopted within a few years of Muhammad's death as the beginning of the Islamic calendar (AH 1) because it came to be considered the inception of a politically independent community of Believers. Donner also argues that in the Qur'an the term hijra carries a wider range of meaning than migration alone, including taking refuge from oppression and a commitment associated with striving 'in the way of God', and that it may have served as a marker of full membership in the early community.",
+  "editorial_notes": "This entry describes the Hijra as a historical event and reports its religious meanings (divine permission for the emigration, Gabriel's warning, the protection described in Q 9:40) as the tradition's attributed account rather than as fact asserted by the editor, per neutrality principles #1 and #4. The identification of the companion in the cave in Q 9:40 is given as the tradition's reading, since the verse itself does not name him. The dating of Muhammad's arrival follows Ibn Ishaq; the Muharram 1 = 16 July 622 equation and its caveat about intercalation follow Watt's foreword to the al-Tabari translation. Al-Tabari's reports that credit the Prophet with ordering the era are recorded alongside the reports crediting Umar, and the modern academic judgment that Umar instituted it is attributed to Watt and Donner. The year of Umar's decision is not given because the passages read here do not state it; the note confines itself to his caliphate. Donner's broader reading of the Qur'anic term hijra is attributed to him as a scholarly interpretation.\n\nCONFIDENCE HONESTY: the load-bearing primary passages were read directly. Ibn Ishaq in Guillaume's translation was read at pp. 146 (Abyssinia, 'the first hijra in Islam'), 221-224 (the council, Ali in the bed, the cave on Thawr) and 281 (arrival date). Al-Tabari, History vol. 6, pp. 157-158 (Leiden I:1251-1252), on the institution of the era, and Watt's foreword on the era, were read. Q 9:40 was read at quran.com (The Clear Quran, Khattab) with the Arabic. Donner, Muhammad and the Believers, pp. 42-43 and 85-86 were read. These are rated high for what those passages say. Jonathan A. C. Brown's Muhammad: A Very Short Introduction was verified to exist and to treat both the Muslim account of Muhammad's life and Western historical approaches, but was not read for this entry; rated medium.\n\nSourcing triangulates the three lenses per neutrality #8: (a) Western academic scholarship (Donner; Watt's foreword to al-Tabari); (b) classical primary texts (the Qur'an, Ibn Ishaq/Ibn Hisham, al-Tabari); (c) a contemporary Muslim scholar (Brown). No encyclopedias or tertiary sources are cited (neutrality #9). Dates are given in hijri and CE.",
+  "relations": [
+    {
+      "type": "participant",
+      "target": "muhammad",
+      "note": "Muhammad's own emigration from Mecca to Yathrib in 622 is the event the term names; in the tradition's account he left only after his followers had gone ahead."
+    },
+    {
+      "type": "participant",
+      "target": "abu-bakr",
+      "note": "In Ibn Ishaq's account Abu Bakr accompanied Muhammad from Mecca and hid with him for three days in the cave on Mount Thawr; the tradition connects Q 9:40 ('one of two ... in the cave') with this episode."
+    },
+    {
+      "type": "participant",
+      "target": "ali",
+      "note": "In Ibn Ishaq's account Ali lay in Muhammad's bed on the night of the departure and stayed behind in Mecca to return goods deposited with Muhammad."
+    },
+    {
+      "type": "related_to",
+      "target": "umar",
+      "note": "Al-Tabari records reports that Umar, after consultation, fixed the emigration as the starting point of the Islamic era and al-Muharram as its first month; modern scholars such as Watt and Donner attribute the formal institution of the hijri calendar to his caliphate."
+    },
+    {
+      "type": "related_to",
+      "target": "sirat-rasul-allah",
+      "note": "Ibn Ishaq's biography of Muhammad, in Ibn Hisham's recension, is the principal classical narrative source for the emigration, the Abyssinian emigration before it, and the date of arrival in Medina."
+    },
+    {
+      "type": "related_to",
+      "target": "constitution-of-medina",
+      "note": "The document known as the Constitution of Medina regulates relations among the Emigrants, the Medinan Helpers, and some Jewish groups of Yathrib; most scholars date it to the period shortly after the emigration, though its dating and unity are debated."
+    },
+    {
+      "type": "related_to",
+      "target": "uthman",
+      "note": "Ibn Ishaq names Uthman ibn Affan and his wife Ruqayya among the first emigrants to Abyssinia, the emigration he calls 'the first hijra in Islam'."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ibn Ishaq, Muhammad. Sirat Rasul Allah, recension of Ibn Hisham. Trans. A. Guillaume, The Life of Muhammad: A Translation of Ishaq's Sirat Rasul Allah. Oxford: Oxford University Press, 1955. Read directly at pp. 146 (the first emigration to Abyssinia, called 'the first hijra in Islam', with Uthman and Ruqayya among the first to go), 221-224 (Muhammad 'waiting for permission to migrate'; the Quraysh council; Gabriel's warning; Ali in the bed; Muhammad and Abu Bakr in the cave on Thawr for three days) and 281 (arrival in Medina on Monday 12 Rabi' al-Awwal). The classical-primary lens. High for what these passages say, not as the editor's ruling on their historicity.",
+      "url": "https://archive.org/details/the-life-of-muhammad-ibn-ishaq-tr.-a-guillaume",
+      "license": "Proprietary translation; underlying Arabic text public domain. Relevant passages read directly.",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 6: Muhammad at Mecca, trans. W. Montgomery Watt and M. V. McDonald. Albany: State University of New York Press, 1988. Read directly at pp. 157-158 (Leiden I:1251-1252), 'The Date of the Institution of the Islamic Era': reports that the Prophet ordered a new era on arriving in Medina, and reports that Umar, after consultation, chose the emigration as the starting point and al-Muharram as the first month; also Watt's translator's foreword on the establishment of the era (Umar's work; Muharram 1, AH 1 equated with 16 July 622 on the assumption of no intercalation). The classical-primary lens, with Watt's annotation as outside scholarship. High for what these passages say.",
+      "url": "https://www.sunypress.edu/p-349-the-history-of-al-tabari-vol-6.aspx",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Relevant passages read directly.",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "The Qur'an, Q 9:40, read at quran.com in The Clear Quran (Mustafa Khattab) with the Arabic: 'Allah did in fact support him when the disbelievers drove him out (of Mecca) and he was only one of two. While they both were in the cave, he reassured his companion, \"Do not worry; Allah is certainly with us.\"' Primary scripture, cited on the tradition's own terms. High for what the verse says; the identification of the companion is the tradition's reading.",
+      "url": "https://quran.com/9/40",
+      "license": "Qur'anic text public domain; translation proprietary (The Clear Quran). Read directly.",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Donner, Fred M. Muhammad and the Believers: At the Origins of Islam. Cambridge, MA: Belknap Press of Harvard University Press, 2010. Read directly at pp. 42-43 (the invitation from Yathrib; the hijra of 622 as 'emigration' or 'taking refuge'; Medina from madinat al-nabi; adoption within a few years of Muhammad's death as the beginning of the Islamic calendar; muhajirun and ansar) and pp. 85-86 (the broader Qur'anic meanings of hijra, including the earlier emigration to Abyssinia as taking refuge). The Western academic lens. High for what these passages say.",
+      "url": "https://www.hup.harvard.edu/books/9780674064140",
+      "license": "Proprietary; relevant passages read directly.",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Muhammad: A Very Short Introduction. Oxford: Oxford University Press, 2011. A contemporary Muslim scholar's account presenting both the Muslim narrative of Muhammad's life, including the emigration to Medina, and Western scholarly efforts to reconstruct the historical Muhammad; the contemporary-Muslim-scholar lens. Verified to exist and be on-topic; not read line by line for this entry.",
+      "url": "https://global.oup.com/academic/product/muhammad-a-very-short-introduction-9780199559282",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-09-26",
+  "updated": "2026-09-26"
+}

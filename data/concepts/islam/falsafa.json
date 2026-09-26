@@ -36,6 +36,11 @@
       "type": "refuted_by",
       "target": "ibn-taymiyya",
       "note": "Ibn Taymiyya criticized the falasifa from a traditionist standpoint; attributed position, not adjudicated."
+    },
+    {
+      "type": "related_to",
+      "target": "translation-movement",
+      "note": "Arabic philosophy drew on the Greek works made available by the translation movement."
     }
   ],
   "historical_period": {
@@ -69,5 +74,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

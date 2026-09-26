@@ -1,0 +1,108 @@
+{
+  "id": "sirat-rasul-allah",
+  "tradition": "islam",
+  "names": {
+    "primary": "Sirat Rasul Allah",
+    "original": "سيرة رسول الله",
+    "transliteration": "Sīrat Rasūl Allāh",
+    "aliases": [
+      "The Life of the Messenger of God",
+      "Sirat Ibn Ishaq",
+      "al-Sira al-Nabawiyya (Ibn Hisham's recension)",
+      "Sirat Ibn Hisham",
+      "The Life of Muhammad (Guillaume's English translation)"
+    ]
+  },
+  "category": "prophetic biography (sira)",
+  "date": {
+    "year": 760,
+    "note": "Composed by Muhammad ibn Ishaq (d. c. 150/767) in the mid-eighth century, in the early Abbasid period; the year given is approximate. The original arrangement does not survive as such; the best-known text is the recension of Ibn Hisham (d. 218/833), prepared in the early ninth century."
+  },
+  "summary": "Sirat Rasul Allah is the biography of Muhammad composed by Ibn Ishaq (d. c. 150/767), the earliest extant full narrative of his life, which survives chiefly in the edited recension of Ibn Hisham (d. 218/833) and in extracts preserved by other transmitters. It is the main source for the traditional chronology of Muhammad's life, and its reliability is a central question in modern scholarship.",
+  "description": "Sirat Rasul Allah ('The Life of the Messenger of God') is the biography of Muhammad compiled by Muhammad ibn Ishaq (d. c. 150/767), a Medinan scholar who later worked in Iraq under the early Abbasids. Its material falls into three sections: the mubtada' ('the beginning'), on creation, the earlier prophets, and the history of Arabia before Islam; the mab'ath ('the sending'), on Muhammad's early life, call, and mission in Mecca up to the Hijra; and the maghazi ('the campaigns'), on his years in Medina up to his death. It is interspersed with poetry and, for many reports, their chains of transmission. Guillaume cautions that these were sections of a single body of lectures, not three separate books, and Gordon Newby attempted a reconstruction of the mubtada', most of which Ibn Hisham left out and which survives chiefly in quotations by al-Tabari and others. The work belongs to the sira and maghazi genre, which grew up alongside hadith collection and drew on earlier Medinan transmitters such as Urwa ibn al-Zubayr and al-Zuhri.\n\nIbn Ishaq's own text does not survive as a single independent work. It was taught to several students, and different recensions descend from them. The best-known is that of Abd al-Malik ibn Hisham (d. 218/833), who edited the transmission he received through Ziyad al-Bakka'i: in his own statement of method he explains that he omitted material without bearing on Muhammad's life, poems he judged unreliable, matters he considered unseemly or likely to distress people, and reports al-Bakka'i did not accept, and he added notes of his own. Other lines of transmission survive in part: that of Salama ibn al-Fadl, extensively quoted by al-Tabari in his History, and that of Yunus ibn Bukayr. Gregor Schoeler argues that the material was transmitted chiefly through lectures to students, so that the recensions are not copies of one fixed book. Alfred Guillaume's English translation, The Life of Muhammad (1955), renders Ibn Hisham's text and inserts, marked as such, passages chiefly from al-Tabari that he took to preserve Ibn Ishaq's material omitted by Ibn Hisham.\n\nThe work's reliability is assessed differently by different readers, and the assessments are recorded here as attributed positions. Within the classical Muslim tradition, Ibn Ishaq was widely recognised as an authority on the campaigns and life of the Prophet (al-Shafi'i is reported as saying that whoever wants to study the maghazi deeply must consult him), while hadith critics were divided over his reliability as a transmitter: the assessments collected and answered by Ibn Sayyid al-Nas (d. 734/1334) range from praise to Malik ibn Anas's and Hisham ibn Urwa's hostility, with several critics accepting him as truthful but not as an authority in law. The sira genre was generally held to a less exacting standard of transmission than legal hadith. Among modern historians, sceptical scholars such as John Wansbrough read the sira as a literary construction of salvation history composed well after the events, while scholars such as Gregor Schoeler and Harald Motzki compare the recensions and parallel reports to show that part of its material can be traced to transmitters of the late first century AH, while accepting that the narrative was shaped in transmission. Contemporary Muslim scholars such as Jonathan A. C. Brown present the sira as the foundation of the Muslim account of the Prophet's life and discuss its standing relative to the hadith collections. The editor does not rule on the historical reliability of the work or of any report in it.",
+  "editorial_notes": "This entry describes the composition, transmission, and reception of the work and attributes every judgment of reliability to its holder (classical hadith critics, sceptical and non-sceptical modern historians, a contemporary Muslim scholar), per neutrality #1 and #2. The title 'Sirat Rasul Allah' follows the usage of Guillaume's translation; the text circulates in Arabic editions mainly under the title al-Sira al-Nabawiyya, attributed to Ibn Hisham. The date is approximate: Ibn Ishaq's death is placed c. 150/767 (reports vary between 150 and 151 AH), and Ibn Hisham's death is given as 218/833 (213/828 is also reported). The summary of Ibn Hisham's statement of method is a paraphrase of his introductory note as translated by Guillaume (Ibn Hisham's notes, p. 691), read directly. The classical assessments of Ibn Ishaq are those of Ibn Sayyid al-Nas's 'Uyun al-athar as summarised in Guillaume's introduction (pp. xxxv-xxxvii), read directly in translation; the Arabic original of 'Uyun al-athar was not consulted, so that source is rated medium.\n\nSourcing triangulates three lenses: (a) Western academic scholarship on the sira's transmission and reliability (Schoeler 2011; Motzki 2000; Wansbrough 1978); (b) the classical primary text in Guillaume's translation, al-Tabari's History as a witness to the Salama ibn al-Fadl transmission, and Ibn Sayyid al-Nas's 'Uyun al-athar for the classical assessment of Ibn Ishaq; Newby 1989 for the reconstruction of the mubtada'; (c) a contemporary Muslim scholar (Brown 2011). No encyclopedias or tertiary sources are cited. Guillaume's translation is rated high: its introduction (pp. xiii-xli, including the account of the recensions of al-Bakka'i, Salama ibn al-Fadl, and Yunus ibn Bukayr at p. xvii and of the three sections at pp. xvii-xviii) and Ibn Hisham's note at p. 691 were read in the archive.org scan. All other sources are rated medium: verified to exist and to treat the topic, not read line-by-line.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "muhammad",
+      "note": "The work is a biography of Muhammad and the earliest extant full narrative of his life."
+    },
+    {
+      "type": "related_to",
+      "target": "hijra",
+      "note": "The work narrates the negotiations with the men of Yathrib and Muhammad's emigration from Mecca to Medina in 622, and is a main source for the traditional account of the event."
+    },
+    {
+      "type": "related_to",
+      "target": "constitution-of-medina",
+      "note": "The text of the document known as the Constitution of Medina is preserved in Ibn Ishaq's work as transmitted by Ibn Hisham, and this is one of its principal witnesses."
+    },
+    {
+      "type": "related_to",
+      "target": "sahih-al-bukhari",
+      "note": "Sira and hadith draw on overlapping reports about Muhammad, but classical scholarship held sira material to a less exacting standard of transmission than the legal hadith collected in works such as Sahih al-Bukhari."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ibn Ishaq, Muhammad (d. c. 150/767). Sirat Rasul Allah, in the recension of Ibn Hisham (d. 218/833). Trans. A. Guillaume as The Life of Muhammad: A Translation of Ishaq's Sirat Rasul Allah, with Introduction and Notes. Oxford: Oxford University Press, 1955. The primary text in its standard English translation. Read directly: the introduction (pp. xiii-xli) on Ibn Ishaq, the recensions, the sections of the work, and the classical assessments of his reliability, and Ibn Hisham's statement of method (Ibn Hisham's notes, p. 691); the classical primary lens.",
+      "url": "https://archive.org/details/the-life-of-muhammad-ibn-ishaq-tr.-a-guillaume",
+      "license": "Proprietary translation; underlying Arabic text public domain. Cited passages read directly.",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Newby, Gordon Darnell. The Making of the Last Prophet: A Reconstruction of the Earliest Biography of Muhammad. Columbia: University of South Carolina Press, 1989. A reconstruction and translation of the mubtada', the opening section of Ibn Ishaq's work on creation and the earlier prophets, most of which Ibn Hisham omitted, assembled from quotations in later authors; the Western academic lens.",
+      "url": "https://archive.org/details/makingoflastprop0000ibni",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Sayyid al-Nas, Muhammad ibn Muhammad (d. 734/1334). 'Uyun al-athar fi funun al-maghazi wa-l-shama'il wa-l-siyar. A classical Sunni biography of the Prophet whose introduction collects and answers the hadith critics' judgments on Ibn Ishaq; consulted through the summary in Guillaume's introduction (pp. xxxv-xxxvii), not in the Arabic original; the classical primary lens.",
+      "url": "https://archive.org/details/OuyunAlathar",
+      "license": "Classical Arabic text, public domain.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Schoeler, Gregor. The Biography of Muhammad: Nature and Authenticity. Trans. Uwe Vagelpohl, ed. James E. Montgomery. Routledge Studies in Classical Islam. London and New York: Routledge, 2011 (German original 1996). Compares the transmission of key sira episodes across recensions and collections to date them and assess their authenticity; the Western academic lens.",
+      "url": "https://www.routledge.com/The-Biography-of-Muhammad-Nature-and-Authenticity/Schoeler/p/book/9781138788862",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Motzki, Harald, ed. The Biography of Muhammad: The Issue of the Sources. Islamic History and Civilization 32. Leiden: Brill, 2000. Essays on the development of the sira tradition, including Ibn Ishaq's work, and on the historical reliability of its material; the Western academic lens.",
+      "url": "https://archive.org/details/brills-islamic-history-and-civilization-band-32-harald-motzki-the-biography-of-m",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Wansbrough, John. The Sectarian Milieu: Content and Composition of Islamic Salvation History. London Oriental Series 34. Oxford: Oxford University Press, 1978. Reads the sira and maghazi, including Ibn Ishaq's work, as literary salvation history rather than historical record; the sceptical position in the debate.",
+      "url": "https://archive.org/details/john-wansbrough-the-sectarian-milieu-content-and-composition-of-islamic-salvatio",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 6: Muhammad at Mecca, trans. W. Montgomery Watt and M. V. McDonald. Albany: State University of New York Press, 1988. Preserves extensive material from Ibn Ishaq in the transmission of Salama ibn al-Fadl alongside variant reports; a classical witness to a recension other than Ibn Hisham's.",
+      "url": "https://sunypress.edu/p-349-the-history-of-al-tabari-vol-6.aspx",
+      "license": "Proprietary translation; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brown, Jonathan A. C. Muhammad: A Very Short Introduction. Oxford: Oxford University Press, 2011. A contemporary Muslim scholar's account of the Muslim narrative of the Prophet's life, its sources in the sira and hadith, and Western efforts to reconstruct the historical Muhammad; the contemporary Muslim lens.",
+      "url": "https://global.oup.com/academic/product/muhammad-a-very-short-introduction-9780199559282",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-26",
+  "updated": "2026-09-26"
+}

@@ -18,7 +18,10 @@
   },
   "relations": [
     { "type": "related_to", "target": "kharijites", "note": "The arbitration after the Battle of Siffin (657) prompted a faction of Ali's supporters to secede, becoming the Kharijites; he later fought them at Nahrawan and was killed by a Kharijite." },
-    { "type": "contemporary_of", "target": "al-hasan-al-basri", "note": "Al-Hasan al-Basri belonged to the generation immediately following; some later traditions link his religious formation to the milieu of Ali's caliphate." }
+    { "type": "contemporary_of", "target": "al-hasan-al-basri", "note": "Al-Hasan al-Basri belonged to the generation immediately following; some later traditions link his religious formation to the milieu of Ali's caliphate." },
+    { "type": "contemporary_of", "target": "muhammad", "note": "Cousin and son-in-law of Muhammad." },
+    { "type": "related_to", "target": "first-fitna", "note": "Caliph during the first civil war (Camel, Siffin, Nahrawan), assassinated in 661." },
+    { "type": "related_to", "target": "karbala", "note": "His son al-Husayn was killed at Karbala in 680." }
   ],
   "sources": [
     {
@@ -45,5 +48,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

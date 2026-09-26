@@ -1,0 +1,114 @@
+{
+  "id": "translation-movement",
+  "tradition": "islam",
+  "names": {
+    "primary": "Graeco-Arabic Translation Movement",
+    "original": "حركة الترجمة",
+    "transliteration": "Ḥarakat al-Tarjama",
+    "aliases": [
+      "The Abbasid translation movement",
+      "The Greek-into-Arabic translation movement"
+    ]
+  },
+  "category": "intellectual movement",
+  "location": "Baghdad and the Abbasid caliphate",
+  "date": {
+    "year": 754,
+    "end_year": 1000,
+    "note": "Approximate span of the 2nd-4th/8th-10th centuries, following Gutas's periodization: sustained translation from Greek (often via Syriac) and from Middle Persian into Arabic began under the caliph al-Mansur (r. 136-158/754-775) and continued for some two centuries, tapering in the late 4th/10th century. The Bayt al-Hikma is associated above all with al-Ma'mun (r. 198-218/813-833). The end year is a conventional marker, not a dated event."
+  },
+  "summary": "The Graeco-Arabic translation movement was the sustained, elite-sponsored rendering of Greek (often through Syriac) and Middle Persian works of philosophy, medicine, mathematics, astronomy, and other sciences into Arabic in Abbasid Baghdad from the mid-2nd/8th to the late 4th/10th century. It supplied the textual basis for falsafa and much of the Arabic sciences, and the nature of the Bayt al-Hikma associated with it is debated.",
+  "description": "From the reign of the caliph al-Mansur (r. 136-158/754-775) onward, caliphs, members of the ruling family, officials, and scholars in Baghdad commissioned translations into Arabic of a large part of the Greek secular literature then available in the Near East, including Aristotle and his commentators, Neoplatonic texts, Galen and Hippocratic medicine, Euclid, Ptolemy, and much more, together with works from Middle Persian and Sanskrit. Many translators were Syriac-speaking Christians, and translation often ran from Greek through Syriac into Arabic. Among the best known is Hunayn ibn Ishaq (d. 260/873), a physician of the Church of the East (often called Nestorian) who, with his son Ishaq and nephew Hubaysh, produced a large corpus of translations, above all of Galen, and whose revision practice is often cited as a high point of philological method in the movement. The tenth-century bibliographer Ibn al-Nadim, in his Fihrist, preserves detailed lists of translators and translated works and records the story that the caliph al-Ma'mun (r. 198-218/813-833) saw Aristotle in a dream and was thereby moved to seek Greek books from Byzantium. The Bayt al-Hikma ('House of Wisdom') in Baghdad, associated with al-Ma'mun, was described in older scholarship, and is still widely described in popular accounts, as an academy-like institution and the center of translation from Greek. Dimitri Gutas has argued against that older scholarly view: in his reading it was a library and bureau on the Sasanian model, concerned mainly with the translation and preservation of Persian historical and cultural material, and not the institutional engine of Greek-to-Arabic translation, which rested instead on broad patronage across Abbasid elite society. Gutas explains the movement chiefly through the social, political, and ideological needs of early Abbasid society, including an imperial ideology that drew on Sasanian claims to be the heir of Greek learning, and he reads the al-Ma'mun dream story as part of that ideological program. George Saliba has criticized what he calls the classical narrative of the movement, arguing that it cannot explain the sophistication of the translations or the rapid appearance of original scientific work, and pointing instead to an account in Ibn al-Nadim of the translation of the state registers (diwan) into Arabic under the Umayyad Abd al-Malik, which in his view created competitive pressures among administrative secretaries that drove the acquisition of technical knowledge; Saliba also argues that Arabic science later contributed organically to the European Renaissance. Seyyed Hossein Nasr treats the translations as the means by which the Islamic intellectual tradition integrated the sciences of earlier civilizations into a worldview grounded in revelation. The translated corpus furnished the texts on which al-Kindi, al-Farabi, Ibn Sina, and later philosophers built the tradition of falsafa, and a portion of the Arabic philosophical and scientific literature it made possible was in turn translated into Latin from the 12th century CE, shaping medieval European scholastic learning.",
+  "editorial_notes": "This entry treats the translation movement as an extended historical process rather than a single datable event; the date span follows Gutas's periodization and is marked as approximate. The Bayt al-Hikma ('House of Wisdom') is not used as an alias, because it names an institution, and treating it as a name for the movement would presuppose the academy picture that Gutas disputes; its institutional nature is presented in the description as a scholarly debate between the older academy-like view and Gutas's reading, attributing the 'library and bureau, not academy' reading to Gutas, per neutrality principles #1 and #2. Gutas's ideological explanation, Saliba's critique of the classical narrative and his administrative-competition account, and Nasr's integrative reading are presented as distinct attributed interpretations; the entry does not rank them. The al-Ma'mun dream story is presented as a report preserved by Ibn al-Nadim, not as a historical finding. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Gutas 1998; Saliba 2007, a historian of Arabic science whose work challenges Eurocentric accounts of the movement), the classical primary text (Ibn al-Nadim's Fihrist in Dodge's translation, the principal medieval source on translators and translated works), and a contemporary Muslim scholar (Nasr, Science and Civilization in Islam, 1968). No encyclopedias or tertiary sources are cited. The compares_with link to scholasticism follows neutrality principle #10. All four sources were verified to exist and to be on-topic through publisher pages, library records, and scholarly reviews; none was read line by line for this draft, so confidence is medium throughout, matching the rating Gutas 1998 carries in other entries. The lending copies of Gutas 1998 and Saliba 2007 on archive.org are access-restricted, so the chapters on the Bayt al-Hikma (Gutas) and on the classical narrative (Saliba) could not be read directly; their summaries here follow the publishers' descriptions and scholarly reviews and remain at medium.",
+  "relations": [
+    {
+      "type": "participant",
+      "target": "al-mamun",
+      "note": "The caliph al-Ma'mun (r. 198-218/813-833) was a prominent patron of translation, is associated with the Bayt al-Hikma in Baghdad, and is the subject of the dream-of-Aristotle story preserved by Ibn al-Nadim."
+    },
+    {
+      "type": "participant",
+      "target": "al-kindi",
+      "note": "Al-Kindi directed a circle that produced and revised Arabic versions of Greek philosophical texts, including Neoplatonic material, and drew on them in his own philosophy."
+    },
+    {
+      "type": "related_to",
+      "target": "falsafa",
+      "note": "The translated Greek philosophical corpus supplied the textual basis on which the Arabic philosophical tradition (falsafa) was built."
+    },
+    {
+      "type": "related_to",
+      "target": "aristotle",
+      "note": "Aristotle's works and their late-antique commentaries were among the most extensively translated texts, and Aristotle became 'the First Teacher' of the Arabic philosophical tradition."
+    },
+    {
+      "type": "related_to",
+      "target": "plato",
+      "note": "Plato was known in Arabic largely through summaries, paraphrases, and later Platonist writings rather than through complete translations of the dialogues."
+    },
+    {
+      "type": "related_to",
+      "target": "neoplatonism",
+      "note": "Neoplatonic texts, including adapted portions of Plotinus and Proclus circulated under other attributions, entered Arabic during the movement and shaped the metaphysics of falsafa."
+    },
+    {
+      "type": "related_to",
+      "target": "al-farabi",
+      "note": "Al-Farabi worked in the Baghdad Aristotelian milieu of the 4th/10th century, which was sustained by the translated corpus and by the Christian logicians who continued the translating tradition."
+    },
+    {
+      "type": "related_to",
+      "target": "ibn-sina",
+      "note": "Ibn Sina's philosophical synthesis presupposes the Arabic Aristotelian and Neoplatonic corpus produced by the movement."
+    },
+    {
+      "type": "related_to",
+      "target": "kalam",
+      "note": "Theologians of kalam engaged with, drew upon, and argued against the logic and natural philosophy made available in Arabic by the translations."
+    },
+    {
+      "type": "related_to",
+      "target": "abbasid-revolution",
+      "note": "The movement began under al-Mansur, the second Abbasid caliph, and Gutas connects its early patronage to the imperial ideology of the dynasty that came to power in the revolution."
+    },
+    {
+      "type": "compares_with",
+      "target": "scholasticism",
+      "note": "Compares the question, not the answer, per neutrality principle #10. Both the Arabic reception of Greek learning in Abbasid society and Latin scholasticism faced the question of how an intellectual culture shaped by a revealed scripture should take in and organize Greek philosophy, above all Aristotle; and Latin scholasticism received part of that Greek material through Latin translations of Arabic works. The difference: the Abbasid movement was primarily an act of translation and appropriation carried out across religious communities (Christian translators, Muslim and other patrons), with falsafa and kalam developing as distinct enterprises, while scholasticism integrated philosophy into a university-based theological method. This link states a shared question and a difference; it ranks neither and treats neither as the measure of the other."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Gutas, Dimitri. Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbasid Society (2nd-4th/8th-10th centuries). Arabic Thought and Culture. London and New York: Routledge, 1998. Foundational academic study of the translation movement, explaining it through early Abbasid social, political, and ideological needs and arguing that the Bayt al-Hikma was a library and bureau rather than an academy; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/greekthoughtarab0000guta_v3l3",
+      "license": "Proprietary; library lending copy. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Saliba, George. Islamic Science and the Making of the European Renaissance. Transformations: Studies in the History of Science and Technology. Cambridge, MA: MIT Press, 2007. Academic monograph that critiques the classical narrative of the translation movement, foregrounds Ibn al-Nadim's account of the Umayyad translation of the diwan, and argues for the contribution of later Arabic astronomy to Renaissance Europe; the outside-scholarship lens, from a historian of Arabic science critical of Eurocentric framings. Relevant passages not read line-by-line.",
+      "url": "https://mitpress.mit.edu/9780262516150/islamic-science-and-the-making-of-the-european-renaissance/",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn al-Nadim, Muhammad ibn Ishaq. The Fihrist of al-Nadim: A Tenth-Century Survey of Muslim Culture, ed. and trans. Bayard Dodge. 2 vols. Records of Civilization: Sources and Studies 83. New York: Columbia University Press, 1970. The classical bibliographical survey recording translators, patrons, and translated works, the dream of al-Ma'mun, and the Umayyad translation of the diwan; the primary-text lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/fihristofalnadim0000ibna",
+      "license": "Proprietary translation; library lending copy. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Nasr, Seyyed Hossein. Science and Civilization in Islam. With a preface by Giorgio de Santillana. Cambridge, MA: Harvard University Press, 1968. A contemporary Muslim scholar's survey of the Islamic sciences and their integration of the learning of earlier civilizations within an Islamic worldview; the modern Muslim scholar lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/sciencecivilizat0000nasr",
+      "license": "Proprietary; library lending copy. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-26",
+  "updated": "2026-09-26"
+}

@@ -19,7 +19,8 @@
   "relations": [
     { "type": "related_to", "target": "mihna", "note": "Inaugurated the mihna by his edict of 218/833 requiring officials and scholars to affirm the createdness of the Qur'an." },
     { "type": "related_to", "target": "mutazila", "note": "The doctrine enforced under the mihna is associated with Mu'tazili theology; al-Ma'mun's degree of doctrinal alignment with the Mu'tazila is debated in the scholarship." },
-    { "type": "related_to", "target": "khalq-al-quran", "note": "The mihna he instituted required affirmation that the Qur'an is created (khalq al-Qur'an)." }
+    { "type": "related_to", "target": "khalq-al-quran", "note": "The mihna he instituted required affirmation that the Qur'an is created (khalq al-Qur'an)." },
+    { "type": "related_to", "target": "translation-movement", "note": "Patron of Greek-to-Arabic translation during his caliphate." }
   ],
   "sources": [
     {
@@ -54,5 +55,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

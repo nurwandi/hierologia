@@ -1,0 +1,91 @@
+{
+  "id": "fall-of-baghdad-1258",
+  "tradition": "islam",
+  "names": {
+    "primary": "Fall of Baghdad (1258)",
+    "original": "سقوط بغداد",
+    "transliteration": "Suqūṭ Baghdād",
+    "aliases": [
+      "Mongol conquest of Baghdad",
+      "Siege of Baghdad (1258)",
+      "Sack of Baghdad (656/1258)"
+    ]
+  },
+  "category": "siege and conquest",
+  "location": "Baghdad, Iraq",
+  "date": {
+    "year": 1258,
+    "note": "Hülegü's armies invested Baghdad in Muharram 656/January 1258; the city capitulated in Safar 656/February 1258, and the caliph al-Musta'sim was put to death in the same month, after which the city was sacked. An Abbasid line was re-established under Mamluk auspices in Cairo in 659/1261."
+  },
+  "summary": "The Fall of Baghdad was the siege, capture, and sack of the Abbasid capital by the Mongol army of Hülegü in Muharram-Safar 656/January-February 1258, in which the caliph al-Musta'sim was killed and the Abbasid caliphate in Baghdad came to an end. The scale of the killing is reported very differently in the sources, and its long-term significance, including the idea that it marked a civilizational decline, is debated.",
+  "description": "In the 1250s the Mongol prince Hülegü, brother of the Great Khan Möngke, led a campaign into western Asia that first destroyed the Nizari Isma'ili strongholds in Iran (654/1256) and then turned against the Abbasid caliph al-Musta'sim, whose temporal power was by then largely confined to Iraq. After the caliph failed to submit, Mongol forces converged on Baghdad in Muharram 656/January 1258, defeated the caliphal army outside the city, and besieged it from both banks of the Tigris. The city capitulated in Safar 656/February 1258. Al-Musta'sim was put to death, together with members of his family; widely repeated accounts report that he was wrapped in a carpet and trampled, a manner of execution associated with Mongol avoidance of shedding royal blood, though the reports of his death vary. The city was then given over to plunder and killing for a period of days; some communities, notably Christians, and some notables who had submitted are reported to have been spared. The medieval figures for the dead vary enormously: according to the survey of the sources by Brack, Biran, and Amitai, Ibn Kathir reports, each introduced as 'it was said', 300,000, 1,800,000, and 2,000,000, the anonymous chronicle al-Hawadith al-jami'a gives more than 800,000, Ibn Shakir al-Kutubi gives 1,800,000, and al-Dhahabi judges 300,000 the most truthful report; modern historians treat all such figures with caution. Accounts differ also on the role of the caliph's Shi'i vizier Ibn al-Alqami, whom a number of Sunni authors accused of collusion with the Mongols. The event ended the Abbasid caliphate in Baghdad, which had lasted since 132/750. In 659/1261 the Mamluk sultan Baybars installed a surviving Abbasid in Cairo, beginning a line of caliphs who conferred legitimacy on Mamluk rule but held little independent power until the Ottoman conquest of Egypt in 923/1517. The conquest raised new religious-legal questions for Muslims living under, or confronting, non-Muslim and later nominally Muslim Mongol rulers. The Hanbali scholar Ibn Taymiyya, whose family fled Harran before the Mongols, later issued fatwas on Muslims living under Mongol rule, including one on the status of the town of Mardin, which he described as a composite abode, neither simply of Islam nor of war. In later historiography, especially from the 19th and 20th centuries, 1258 often served as a symbolic end of a 'golden age' of Islamic civilization. Recent scholarship has questioned that framing: Michal Biran has argued, on the basis of Ilkhanid-era and Mamluk biographical literature, that the violence was not directed at Islamic civilization as a whole and that Baghdad recovered as a provincial center of learning under Ilkhanid rule, and Peter Jackson situates the conquest within the longer history of Mongol rule over Muslims that ended with the Ilkhans' conversion to Islam.",
+  "editorial_notes": "This entry describes the Mongol conquest of Baghdad as a historical event. Casualty figures are the most contested element: they are attributed individually to the medieval authors who report them, via the source survey in Brack, Biran, and Amitai (2024), and no figure is adopted as correct, per neutrality principle #2. The accusation against the vizier Ibn al-Alqami is presented only as a charge made by Sunni authors, without adjudication, because it bears on later Sunni-Shi'i polemic; the details of the caliph's execution are presented as reports that vary. The 'decline' narrative and its critics (Biran, Jackson) are presented as competing historiographical framings. The Mamluk-era religious-legal aftermath is represented through Ibn Taymiyya's fatwas in the traditionist scholar's own words (Michot's translation), per neutrality principle #7. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Jackson 2017; Biran 2018; Brack, Biran, and Amitai 2024), a classical primary text (Rashid al-Din's Jami' al-tawarikh, the Ilkhanid court history, in Thackston's translation; Mamluk-era Arabic reports are cited through the 2024 article), and the Islamic tradition's own voice in primary text presented by a contemporary Muslim scholar (Ibn Taymiyya's fatwas translated and introduced by Yahya Michot). No encyclopedias or tertiary sources are cited. The 2024 Medical History article (open access) was read directly for the casualty figures and the medieval authors who report them, so it is rated high for that claim; the other sources were verified to exist and to be on-topic through publisher pages, library catalogs, and scholarly reviews but were not read line by line, so they are rated medium. The dates of the siege, surrender, and execution are given at month precision in hijri and CE because exact day dates differ slightly across the sources and modern accounts.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "khilafa",
+      "note": "The conquest ended the Abbasid caliphate in Baghdad; a line of Abbasid caliphs was afterward maintained in Cairo under the Mamluks from 659/1261 to 923/1517."
+    },
+    {
+      "type": "related_to",
+      "target": "abbasid-revolution",
+      "note": "The caliphate ended in 656/1258 was the one established by the Abbasid Revolution in 132/750."
+    },
+    {
+      "type": "related_to",
+      "target": "ibn-taymiyya",
+      "note": "Ibn Taymiyya, born in 661/1263 in Harran and a refugee from the Mongols as a child, later issued fatwas on Muslims living under Mongol rule, including the Mardin fatwa, among the best-known Muslim legal responses to the new political situation."
+    },
+    {
+      "type": "related_to",
+      "target": "takfir",
+      "note": "Mamluk-era debates over the Ilkhanid Mongols, including Ibn Taymiyya's legal responses to Mongol rule, addressed the religious status of rulers and territories under Mongol authority, and these texts were later cited in modern debates over takfir."
+    },
+    {
+      "type": "related_to",
+      "target": "hanbaliyya",
+      "note": "Ibn Taymiyya's responses to Mongol rule were formulated within the Hanbali legal and theological tradition and became part of its later heritage."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Jackson, Peter. The Mongols and the Islamic World: From Conquest to Conversion. New Haven and London: Yale University Press, 2017. Academic monograph on Mongol conquest and rule in the Islamic world from the 13th to the early 14th century, including Hülegü's campaigns (1253-62) and the fall of Baghdad, and the eventual conversion of the Mongol rulers; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://www.jstor.org/stable/j.ctt1n2tvq0",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Biran, Michal. 'Violence and Non-Violence in the Mongol Conquest of Baghdad (1258).' In Violence in Islamic Thought from the Mongols to European Imperialism, ed. Robert Gleave and István T. Kristó-Nagy, 15-31. Edinburgh: Edinburgh University Press, 2018. Academic study arguing from Ilkhanid-era and Mamluk biographical literature that the violence of the conquest was not directed against Islamic civilization as a whole, qualifying the 'holocaust' and decline narratives; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/books/abs/violence-in-islamic-thought-from-the-mongols-to-european-imperialism/violence-and-nonviolence-in-the-mongol-conquest-of-baghdad-1258/9C0300C13E7A5C400A2206329AA687D0",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Brack, Jonathan, Michal Biran, and Reuven Amitai. 'Plague and the Mongol Conquest of Baghdad (1258)? A Reevaluation of the Sources.' Medical History 68, no. 4 (2024): 392-410. doi:10.1017/mdh.2023.38. Peer-reviewed article re-examining the Persian, Syriac, and Arabic sources on the conquest; cited for its survey of the medieval casualty figures (Ibn Kathir, al-Hawadith al-jami'a, Ibn Shakir al-Kutubi, al-Dhahabi). The passages on casualty figures were read directly (open access).",
+      "url": "https://doi.org/10.1017/mdh.2023.38",
+      "license": "Open access; full text available via PubMed Central (PMC11949627).",
+      "accessed": "2026-09-26",
+      "confidence": "high"
+    },
+    {
+      "citation": "Rashid al-Din Fadlallah Hamadani. Rashiduddin Fazlullah's Jami'u't-tawarikh: Compendium of Chronicles, A History of the Mongols, trans. and annotated by W. M. Thackston. 3 parts. Sources of Oriental Languages and Literatures 45. Cambridge, MA: Harvard University, Department of Near Eastern Languages and Civilizations, 1998-1999. The Ilkhanid court history, which narrates Hülegü's campaign against Baghdad from the Mongol court's perspective; the primary-text lens. Relevant passages not read line-by-line.",
+      "url": "https://search.worldcat.org/title/Rashiduddin-Fazlullah's-Jamiut-tawarikh-Compendium-of-chronicles/oclc/41120851",
+      "license": "Proprietary translation; underlying Persian text public domain. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ibn Taymiyya. Muslims under Non-Muslim Rule: Ibn Taymiyya on Fleeing from Sin, Kinds of Emigration, the Status of Mardin, Domain of Peace and War, the Conditions for Challenging Power, trans. and introduced by Yahya Michot, foreword by James Piscatori. Oxford: Interface Publications, 2006. Translation of four fatwas of Ibn Taymiyya on Muslims under Mongol rule, including the Mardin fatwa, with an introduction and modern readings, by a contemporary Muslim scholar of Ibn Taymiyya; the primary-text and modern Muslim scholar lens. Relevant passages not read line-by-line.",
+      "url": "https://lib.ugent.be/en/catalog/rug01:001646989",
+      "license": "Proprietary translation; underlying Arabic fatwas public domain. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-26",
+  "updated": "2026-09-26"
+}

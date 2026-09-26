@@ -20,7 +20,8 @@
     { "type": "holds", "target": "isma", "note": "The infallibility ('isma') of the Imams, held to protect them from error and sin." },
     { "type": "holds", "target": "adl", "note": "Divine justice ('adl); the Twelver tradition holds it in a manner close to the Mu'tazila." },
     { "type": "key_figure", "target": "jafar-al-sadiq", "note": "Ja'far al-Sadiq (d. 148/765), the sixth Imam, eponym of the Ja'fari school of law; entry not yet written." },
-    { "type": "related_to", "target": "ali", "note": "Ali ibn Abi Talib, the first of the twelve Imams." }
+    { "type": "related_to", "target": "ali", "note": "Ali ibn Abi Talib, the first of the twelve Imams." },
+    { "type": "related_to", "target": "karbala", "note": "Twelver Shi'is count al-Husayn, killed at Karbala, as the third imam." }
   ],
   "sources": [
     {
@@ -52,5 +53,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

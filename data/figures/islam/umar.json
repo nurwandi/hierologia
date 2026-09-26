@@ -23,7 +23,9 @@
     { "type": "related_to", "target": "shura", "note": "Before his death he appointed a small consultative council (shura) of senior companions to choose his successor, the mechanism that produced the accession of Uthman." },
     { "type": "contemporary_of", "target": "abu-bakr", "note": "Umar was Abu Bakr's close associate, decisive in his acclamation at Saqifa, and succeeded him by designation as the second caliph." },
     { "type": "contemporary_of", "target": "uthman", "note": "Uthman ibn Affan succeeded Umar as third caliph, chosen by the consultative council (shura) that Umar appointed on his deathbed." },
-    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; Ali sat on the shura Umar appointed, and the Shi'i reading holds that Umar's caliphate continued the setting aside of Ali's right." }
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; Ali sat on the shura Umar appointed, and the Shi'i reading holds that Umar's caliphate continued the setting aside of Ali's right." },
+    { "type": "contemporary_of", "target": "muhammad", "note": "Companion and father-in-law of Muhammad." },
+    { "type": "related_to", "target": "hijra", "note": "Reported to have adopted the year of the Hijra as the epoch of the Islamic calendar." }
   ],
   "sources": [
     {
@@ -65,5 +67,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

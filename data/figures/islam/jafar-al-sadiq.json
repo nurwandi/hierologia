@@ -21,7 +21,8 @@
     { "type": "member_of", "target": "ithna-ashariyya", "note": "Counted as the sixth Imam in Twelver (Ithna Ashari) Shi'ism, which is often named the Ja'fari school after him." },
     { "type": "related_to", "target": "imama", "note": "Held in Twelver and Ismaili tradition to possess the designated authority of the imamate; the doctrine developed substantially around his person." },
     { "type": "related_to", "target": "isma", "note": "Later Shi'i doctrine of the Imams' immunity from error is associated with the Imams including al-Sadiq; attributed to the tradition, not adjudicated." },
-    { "type": "teacher_of", "target": "abu-hanifa", "note": "Some reports connect him as a teacher to Abu Hanifa; presented as attributed rather than established." }
+    { "type": "teacher_of", "target": "abu-hanifa", "note": "Some reports connect him as a teacher to Abu Hanifa; presented as attributed rather than established." },
+    { "type": "related_to", "target": "abbasid-revolution", "note": "Lived through the Abbasid revolution; reports describe an approach by the movement's leaders to him." }
   ],
   "sources": [
     {
@@ -48,5 +49,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

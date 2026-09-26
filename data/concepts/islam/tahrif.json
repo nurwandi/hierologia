@@ -37,6 +37,11 @@
       "type": "related_to",
       "target": "isa",
       "note": "Isa (Jesus) is the prophet associated in the Qur'an with the Injil, so the Islamic account of tahrif touches how his message is held to have been transmitted and, on the doctrine, altered by later communities."
+    },
+    {
+      "type": "related_to",
+      "target": "uthmanic-codex",
+      "note": "The history of the Qur'an's own textual standardization is a related question on how a scripture's text was fixed and transmitted."
     }
   ],
   "historical_period": {
@@ -102,5 +107,5 @@
   "status": "reviewed",
   "schema_version": "0.4.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

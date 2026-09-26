@@ -17,7 +17,8 @@
   "relations": [
     { "type": "related_to", "target": "kharijites", "note": "Ibadism arose from the same early first/seventh-century milieu that heresiographers group under 'Khawarij', but is sharply distinct: it is the moderate, quietist current that rejects the militant Kharijites' indiscriminate excommunication (takfir) of other Muslims and their violence. The distinction is central to Ibadi self-understanding and is asserted here without adjudicating the heresiographical classification." },
     { "type": "related_to", "target": "ali", "note": "The school's historical roots lie in the secession of a body of Ali's supporters after the arbitration (tahkim) at the Battle of Siffin (37/657)." },
-    { "type": "rejects", "target": "takfir", "note": "Ibadi doctrine rejects the militant Kharijite practice of declaring grave-sinning Muslims idolaters whose blood is licit; grave sinners are treated as unbelievers in a restricted, non-lethal sense." }
+    { "type": "rejects", "target": "takfir", "note": "Ibadi doctrine rejects the militant Kharijite practice of declaring grave-sinning Muslims idolaters whose blood is licit; grave sinners are treated as unbelievers in a restricted, non-lethal sense." },
+    { "type": "related_to", "target": "first-fitna", "note": "Ibadi tradition traces its origins to the early Kharijite secession during the first civil war." }
   ],
   "sources": [
     {
@@ -44,5 +45,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

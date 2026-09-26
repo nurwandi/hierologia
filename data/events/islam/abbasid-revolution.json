@@ -1,0 +1,126 @@
+{
+  "id": "abbasid-revolution",
+  "tradition": "islam",
+  "names": {
+    "primary": "Abbasid Revolution",
+    "original": "الثورة العباسية",
+    "transliteration": "al-Thawra al-ʿAbbāsiyya",
+    "aliases": [
+      "The 'Abbasid Revolution",
+      "The Hashimiyya revolt",
+      "The Abbasid da'wa",
+      "The revolution of the black banners"
+    ]
+  },
+  "category": "dynastic revolution",
+  "location": "Khurasan (centered on Merv), then Iraq (Kufa) and the wider Umayyad caliphate",
+  "date": {
+    "year": 747,
+    "end_year": 750,
+    "note": "The clandestine Hashimiyya mission (da'wa) worked in Khurasan for decades before the open rising. Abu Muslim raised the black banners near Merv in 129/747. Abbasid forces took Kufa in 132/749, where Abu l-Abbas (al-Saffah) was acclaimed caliph in Rabi' I or II 132/October-November 749 (reports differ). The Umayyad caliph Marwan II was defeated at the Great Zab in Jumada II 132/January 750 and killed in Egypt later in 132/750. The foundation of Baghdad by al-Mansur in 145/762 is treated here as a consequence, not part of the revolution proper."
+  },
+  "summary": "The Abbasid Revolution was the movement that overthrew the Umayyad caliphate between 129/747 and 132/750: a clandestine mission (the Hashimiyya) calling for rule by a chosen member of the Prophet's family broke into open revolt in Khurasan under Abu Muslim and installed Abu l-Abbas al-Saffah as the first Abbasid caliph. The social and ethnic character of the movement, and how far the Abbasids' eventual claim reflected its original aims, are debated in modern scholarship.",
+  "description": "The movement grew out of a clandestine mission (da'wa) conducted from the early second/eighth century on behalf of the Hashimiyya, a group that, according to its own later tradition, held that the imamate had passed by testament from Abu Hashim, a grandson of Ali ibn Abi Talib through Muhammad ibn al-Hanafiyya, to Muhammad ibn Ali, a descendant of the Prophet's uncle al-Abbas. Its propaganda, directed above all at Khurasan in the far east of the caliphate, called for allegiance to 'the one who shall be agreed upon from the family of Muhammad' (al-rida min Al Muhammad), a deliberately unnamed candidate, and drew on grievances against Umayyad rule. In 129/747 the agent Abu Muslim raised the movement's black banners near Merv; Khurasani armies under the general Qahtaba ibn Shabib and his sons advanced westward, took Kufa in 132/749, and there Abu l-Abbas, known as al-Saffah, was publicly acclaimed caliph. The last Umayyad caliph, Marwan II, was defeated at the Great Zab early in 132/750 and killed in Egypt; members of the Umayyad house were hunted down, though one, Abd al-Rahman ibn Mu'awiya, escaped to al-Andalus and founded an independent Umayyad emirate there. The choice of an Abbasid rather than a descendant of Ali disappointed partisans of the Alid line: some accounts report that the Kufan agent Abu Salama al-Khallal had sounded out Alid candidates, including Ja'far al-Sadiq, who is reported to have declined, and Abu Salama was killed soon after al-Saffah's accession. Alid discontent resurfaced in later revolts, and the relationship between the Abbasid claim to the 'family of the Prophet' and Shi'i conceptions of the imamate became a lasting point of divergence. Abu Muslim himself was executed by al-Saffah's successor al-Mansur in 137/755. The new dynasty shifted the center of the caliphate eastward from Syria to Iraq, a move symbolized by al-Mansur's foundation of Baghdad (Madinat al-Salam) in 145/762, and relied heavily on Khurasani troops and administrators. The character of the revolution is a long-running scholarly debate. An older view, associated with Julius Wellhausen and Gerlof van Vloten, read it as a rising of non-Arab, mainly Iranian clients (mawali) against Arab dominance. M. A. Shaban argued instead that its core constituency was the Arab settlers of the Merv oasis seeking assimilation into a single Muslim community with equal rights; Moshe Sharon reconstructed the clandestine da'wa and its Hashimite claim in detail, reading the movement as an organized mission led largely by Arabs; Elton Daniel emphasized Khurasani regional and social conditions; and Saleh Said Agha argued, on quantitative and text-critical grounds, that the revolution was 'neither Arab nor Abbasid', that is, that its effective constituency was not predominantly Arab and that the Abbasid dynastic claim was not original to the movement. Hugh Kennedy's political history situates the revolution within the Khurasani military and administrative basis of early Abbasid power. These interpretations are presented here as competing scholarly readings, none adopted as the settled account.",
+  "editorial_notes": "This entry treats the Abbasid Revolution as a historical event and presents the debate over its social character (the Wellhausen/van Vloten 'mawali' reading, Shaban's Arab-settler reading, Sharon's reconstruction of the Arab-led da'wa, Daniel's Khurasani emphasis, Agha's 'neither Arab nor Abbasid' thesis, and Kennedy's Khurasani framing) as attributed scholarly positions, not adjudicated, per neutrality principles #1 and #2. The Sunni and Shi'i evaluations of the outcome are handled descriptively: the Alid disappointment and the reported approach to Ja'far al-Sadiq are given as reports ('some accounts report'), since the sources for Abu Salama's overtures are late and not uniform. The Hashimiyya's testamentary claim (the Abu Hashim testament) is stated as the movement's own claim, not as a historical finding; Agha in particular doubts its originality. Dates are given in hijri and CE; the foundation of Baghdad (145/762) is included as a consequence and is flagged as such in the date note. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Kennedy 1981; Shaban 1970; Sharon 1983; Daniel 1979), the classical primary chronicle (al-Tabari, SUNY vol. 27, the principal narrative source for the da'wa and the rising), and scholars writing from within the Arab-Islamic historiographical world who argue against earlier Orientalist framings (Agha 2003; Farouk Omar's study of the early Abbasid caliphate, published in Baghdad in 1969 from his 1967 SOAS doctoral thesis). No encyclopedias or tertiary sources are cited. All sources were web-verified to exist and to be on-topic through publisher pages, library catalogs, or scholarly reviews; none was read line by line for this draft, so confidence is medium throughout. The Farouk Omar citation is to the 1969 Baghdad book; no URL is given because no stable publisher or catalog page for the book could be opened during drafting, though the book and the SOAS thesis behind it were confirmed through search.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "khilafa",
+      "note": "The revolution transferred the caliphate from the Umayyad to the Abbasid house, which held it in Baghdad until 656/1258 and afterward in a nominal line in Cairo."
+    },
+    {
+      "type": "related_to",
+      "target": "shiism",
+      "note": "The movement's appeal to rule by a member of the Prophet's family drew on sentiment shared with partisans of the Alids; the enthronement of an Abbasid rather than an Alid became a lasting point of divergence between the dynasty and Shi'i expectations."
+    },
+    {
+      "type": "related_to",
+      "target": "imama",
+      "note": "The Hashimiyya claimed that the imamate had passed by testament from Abu Hashim, a descendant of Ali, to the Abbasid Muhammad ibn Ali; this claim stands alongside, and in tension with, Shi'i doctrines of the imamate restricted to Ali's descendants."
+    },
+    {
+      "type": "related_to",
+      "target": "jafar-al-sadiq",
+      "note": "Some accounts report that the Kufan agent Abu Salama al-Khallal sounded out Ja'far al-Sadiq as a candidate for leadership before al-Saffah's acclamation, and that Ja'far declined."
+    },
+    {
+      "type": "related_to",
+      "target": "ali",
+      "note": "The Hashimiyya's claimed chain of authority began among Ali's descendants (through Muhammad ibn al-Hanafiyya and his son Abu Hashim), and disappointed Alid hopes shaped the aftermath of the revolution."
+    },
+    {
+      "type": "related_to",
+      "target": "karbala",
+      "note": "The memory of the killing of al-Husayn and of the Umayyads' treatment of the Prophet's family was among the grievances the revolutionary propaganda could invoke against Umayyad rule."
+    },
+    {
+      "type": "related_to",
+      "target": "first-fitna",
+      "note": "The Umayyad dynasty overthrown in 132/750 had come to power in the aftermath of the first civil war; the question of legitimate leadership raised then remained live in the revolution's appeal to the Prophet's family."
+    },
+    {
+      "type": "related_to",
+      "target": "translation-movement",
+      "note": "The Graeco-Arabic translation movement began under the second Abbasid caliph al-Mansur in the new capital region of Iraq; Gutas links its early patronage to Abbasid imperial ideology formed after the revolution."
+    },
+    {
+      "type": "related_to",
+      "target": "fall-of-baghdad-1258",
+      "note": "The Abbasid caliphate founded by the revolution ended in Baghdad with the Mongol conquest of the city in 656/1258."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Kennedy, Hugh. The Early Abbasid Caliphate: A Political History. London: Croom Helm, 1981 (reissued Routledge Revivals, 2016). Academic political history of the Abbasids from their accession in 750 to 833, including the revolution in Khurasan and the Khurasani basis of early Abbasid power; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://www.routledge.com/The-Early-Abbasid-Caliphate-A-Political-History/Kennedy/p/book/9781138953246",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Shaban, M. A. The 'Abbasid Revolution. Cambridge: Cambridge University Press, 1970. Academic monograph arguing that the revolution's core constituency was the Arab settlers of Merv and that its aim was the assimilation of all Muslims into one community with equal rights, against the older reading of an Iranian revolt against Arab rule; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://openlibrary.org/works/OL6606904W/The_Abbasid_Revolution",
+      "license": "Proprietary; URL is the Open Library catalog record for the book. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Sharon, Moshe. Black Banners from the East: The Establishment of the 'Abbasid State, Incubation of a Revolt. Max Schloessinger Memorial Series, Monographs 2. Jerusalem: Magnes Press; Leiden: E. J. Brill, 1983. Academic reconstruction of the clandestine Hashimiyya da'wa and the Abbasid claim before the open revolt; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/blackbannersfrom0000shar",
+      "license": "Proprietary; library lending copy. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Daniel, Elton L. The Political and Social History of Khurasan under Abbasid Rule, 747-820. Minneapolis and Chicago: Bibliotheca Islamica, 1979. Academic study of the revolt in Khurasan, Abu Muslim, and the subsequent relationship between Khurasan and the Abbasid center; the outside-scholarship lens. Relevant passages not read line-by-line.",
+      "url": "https://archive.org/details/politicalsocialh0000dani",
+      "license": "Proprietary; library lending copy. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "al-Tabari, Abu Ja'far Muhammad ibn Jarir. Ta'rikh al-rusul wa-l-muluk (The History of al-Tabari), Vol. 27: The 'Abbasid Revolution, A.D. 743-750/A.H. 126-132, trans. John Alden Williams. SUNY Series in Near Eastern Studies. Albany: State University of New York Press, 1985. The classical Arabic chronicle's narrative of the end of the Umayyad caliphate, Abu Muslim's rising in Khurasan, and the establishment of the Abbasid dynasty; the primary-text lens. Relevant passages not read line-by-line.",
+      "url": "https://sunypress.edu/Books/T/The-History-of-al-abari-Vol.-272",
+      "license": "Proprietary translation; underlying Arabic chronicle public domain. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Agha, Saleh Said. The Revolution Which Toppled the Umayyads: Neither Arab nor 'Abbasid. Islamic History and Civilization 50. Leiden: Brill, 2003. Monograph by a scholar at the American University of Beirut that re-examines the ethnic character of the revolution's constituency and the authenticity of the Abbasid dynastic claim, using historical-critical, textual, and quantitative methods, and argues against the Arab-settler revisionist reading; cited as a scholarly voice from within Arab-Islamic historiography. Relevant passages not read line-by-line.",
+      "url": "https://books.google.com/books/about/The_Revolution_which_toppled_the_Umayyad.html?id=UnU_EAAAQBAJ",
+      "license": "Proprietary; URL is the Google Books record for the Brill edition. Relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Omar, Farouk. The 'Abbasid Caliphate, 132/750-170/786. Baghdad: National Printing and Publishing Co., 1969. Study of the early Abbasid state by an Iraqi Muslim historian, based on his 1967 University of London (SOAS) doctoral thesis; the modern Muslim scholar lens. Relevant passages not read line-by-line.",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-09-26",
+      "confidence": "medium"
+    }
+  ],
+  "status": "reviewed",
+  "schema_version": "0.5.0",
+  "created": "2026-09-26",
+  "updated": "2026-09-26"
+}

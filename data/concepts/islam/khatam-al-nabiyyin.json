@@ -14,7 +14,8 @@
   "relations": [
     { "type": "related_to", "target": "nubuwwa", "note": "The finality of prophethood marks the terminus of nubuwwa, the doctrine of prophethood." },
     { "type": "related_to", "target": "mujiza", "note": "The evidentiary miracle authenticates a prophet's claim, the question the finality doctrine closes for Muhammad's successors." },
-    { "type": "related_to", "target": "tawhid", "note": "The completed prophetic message safeguards the doctrine of God's oneness." }
+    { "type": "related_to", "target": "tawhid", "note": "The completed prophetic message safeguards the doctrine of God's oneness." },
+    { "type": "related_to", "target": "muhammad", "note": "The title 'seal of the prophets' (Q 33:40) is applied in Islamic belief to Muhammad." }
   ],
   "historical_period": {
     "start": 610,
@@ -57,5 +58,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

@@ -20,7 +20,8 @@
     { "type": "holds", "target": "adl", "note": "Divine justice ('adl); in kalam the mainstream Imami tradition shares this doctrine with the Mu'tazila." },
     { "type": "related_to", "target": "ithna-ashariyya", "note": "The Twelver (Imami) school, the largest branch under the Shi'i umbrella." },
     { "type": "related_to", "target": "jafar-al-sadiq", "note": "Ja'far al-Sadiq, the sixth Imam, associated with the Ja'fari school of law; entry not yet written." },
-    { "type": "opposed", "target": "sunnism", "note": "Contrasts with the Sunni account of legitimate community-chosen succession to the Prophet; the disagreement concerns the basis of authority, attributed to each tradition without adjudication. Target entry not yet written." }
+    { "type": "opposed", "target": "sunnism", "note": "Contrasts with the Sunni account of legitimate community-chosen succession to the Prophet; the disagreement concerns the basis of authority, attributed to each tradition without adjudication. Target entry not yet written." },
+    { "type": "related_to", "target": "karbala", "note": "The killing of al-Husayn at Karbala is central to Shi'i religious memory and Ashura commemoration." }
   ],
   "sources": [
     {
@@ -46,5 +47,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

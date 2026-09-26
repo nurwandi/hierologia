@@ -55,6 +55,11 @@
       "type": "related_to",
       "target": "islam",
       "note": "The Qur'an presents Ibrahim as the model of submission to God, the sense of islam, one who 'submitted his face to God while doing good' (Q 4:125), and Q 22:78 speaks of the religion of Abraham. Forward reference."
+    },
+    {
+      "type": "related_to",
+      "target": "muhammad",
+      "note": "The Qur'an presents Muhammad's message as a renewal of the religion of Ibrahim (millat Ibrahim)."
     }
   ],
   "sources": [
@@ -95,5 +100,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

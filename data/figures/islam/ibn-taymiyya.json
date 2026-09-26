@@ -23,7 +23,8 @@
     { "type": "related_to", "target": "al-asma-wa-l-sifat", "note": "Affirmed the divine names and attributes as revealed, without figurative reinterpretation." },
     { "type": "related_to", "target": "tanzih", "note": "Engaged the question of transcendence, affirming the attributes while denying resemblance to creation." },
     { "type": "refuted", "target": "kalam", "note": "Critiqued the methods of speculative theology; the critique is attributed to him, not adjudicated." },
-    { "type": "refuted", "target": "falsafa", "note": "Critiqued the philosophers on the relation of reason and revelation in Dar' Ta'arud al-'Aql wa-l-Naql." }
+    { "type": "refuted", "target": "falsafa", "note": "Critiqued the philosophers on the relation of reason and revelation in Dar' Ta'arud al-'Aql wa-l-Naql." },
+    { "type": "related_to", "target": "fall-of-baghdad-1258", "note": "His fatwas on Muslims under Mongol rule and on Mardin address the political aftermath of the Mongol conquests." }
   ],
   "sources": [
     {
@@ -57,5 +58,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

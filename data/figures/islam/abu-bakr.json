@@ -23,7 +23,9 @@
     { "type": "related_to", "target": "shura", "note": "The deliberation at Saqifa that produced his acclamation is read in Sunni tradition as an instance of consultation (shura) among the community's leading figures." },
     { "type": "contemporary_of", "target": "umar", "note": "Umar ibn al-Khattab was his close associate and the successor he designated; Umar's support was decisive at Saqifa." },
     { "type": "contemporary_of", "target": "uthman", "note": "Uthman ibn Affan, later the third caliph, was among the senior companions of Abu Bakr's generation." },
-    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; the differing accounts of whether Ali's claim was set aside at Saqifa mark the Sunni/Shi'i divide over Abu Bakr's succession." }
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine; the differing accounts of whether Ali's claim was set aside at Saqifa mark the Sunni/Shi'i divide over Abu Bakr's succession." },
+    { "type": "contemporary_of", "target": "muhammad", "note": "Companion and father-in-law of Muhammad, who accompanied him on the Hijra." },
+    { "type": "related_to", "target": "hijra", "note": "Reported as Muhammad's companion in the cave of Thawr during the emigration to Medina." }
   ],
   "sources": [
     {
@@ -65,5 +67,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

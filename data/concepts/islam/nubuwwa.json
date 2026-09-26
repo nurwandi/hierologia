@@ -16,7 +16,8 @@
     { "type": "part_of", "target": "usul-al-din", "note": "Nubuwwa is classically enumerated among the foundational articles of belief." },
     { "type": "related_to", "target": "mujiza", "note": "The evidentiary miracle classically authenticates a prophet's claim." },
     { "type": "related_to", "target": "isma", "note": "Prophetic protection from sin or error." },
-    { "type": "related_to", "target": "khatam-al-nabiyyin", "note": "The finality/seal of prophethood affirmed of Muhammad." }
+    { "type": "related_to", "target": "khatam-al-nabiyyin", "note": "The finality/seal of prophethood affirmed of Muhammad." },
+    { "type": "related_to", "target": "muhammad", "note": "In Islamic belief Muhammad is the final prophet; his life is the paradigm case the doctrine of prophethood addresses." }
   ],
   "historical_period": {
     "start": 610,
@@ -60,5 +61,5 @@
   "status": "verified",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

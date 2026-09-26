@@ -51,6 +51,11 @@
       "type": "influenced_by",
       "target": "plato",
       "note": "Al-Kindi drew on the Neoplatonic tradition (including Arabic versions of Neoplatonic texts) alongside Aristotle in shaping his account of the First and the One; the plato entry exists (philosophy). The Neoplatonic, rather than strictly Platonic, character of this influence is noted."
+    },
+    {
+      "type": "related_to",
+      "target": "translation-movement",
+      "note": "Worked in the circle of translators and drew on the translated Greek corpus."
     }
   ],
   "sources": [
@@ -79,5 +84,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-24",
-  "updated": "2026-07-24"
+  "updated": "2026-09-26"
 }

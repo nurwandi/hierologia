@@ -42,6 +42,11 @@
       "type": "related_to",
       "target": "irenaeus",
       "note": "Irenaeus of Lyons argued for a fourfold Gospel, later taken for granted. Forward reference to a not-yet-created entity."
+    },
+    {
+      "type": "compares_with",
+      "target": "uthmanic-codex",
+      "note": "Compares the question, not the answer, per neutrality principle #10. Both traditions claim an authoritative scriptural text and give accounts of how that text came to be fixed. The difference: the Islamic account centres on a caliphal standardization of the wording of a single corpus within about two decades of Muhammad's death, with modern scholars debating when the consonantal text reached closure; the New Testament canon concerns which of many existing writings were recognized as scripture, a gradual process over roughly the second to fourth centuries. This link ranks neither tradition and treats neither as the measure of the other."
     }
   ],
   "historical_period": {
@@ -89,5 +94,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

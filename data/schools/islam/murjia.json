@@ -18,7 +18,8 @@
     { "type": "related_to", "target": "iman", "note": "The Murji'a characteristically defined iman as inner assent, complete in itself and not nullified by grave sin." },
     { "type": "related_to", "target": "kufr", "note": "Central to their position was the refusal to classify the grave sinner as an unbeliever (kafir), deferring that judgment to God." },
     { "type": "holds", "target": "irja", "note": "The doctrine of deferring (irjaʾ) judgment on the grave sinner to God on the Day of Judgment. Target may not yet exist as an entry." },
-    { "type": "opposed", "target": "kharijites", "note": "Formulated in explicit contrast to the Kharijite position that the grave sinner is an unbeliever." }
+    { "type": "opposed", "target": "kharijites", "note": "Formulated in explicit contrast to the Kharijite position that the grave sinner is an unbeliever." },
+    { "type": "related_to", "target": "first-fitna", "note": "The Murji'a are commonly traced to a stance of deferring judgment on the parties to the first civil war." }
   ],
   "sources": [
     {
@@ -52,5 +53,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

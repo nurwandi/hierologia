@@ -15,7 +15,8 @@
     { "type": "related_to", "target": "nubuwwa", "note": "The evidentiary miracle is the criterion by which prophethood (nubuwwa) is authenticated." },
     { "type": "related_to", "target": "khatam-al-nabiyyin", "note": "The Qur'an is held to be the standing muʿjiza of the last prophet." },
     { "type": "related_to", "target": "khalq-al-quran", "note": "The Qur'an's inimitability (iʿjaz) intersects with theological questions about its status." },
-    { "type": "related_to", "target": "adl", "note": "The Muʿtazili account grounds the miracle's evidential force in divine justice, that God would not confirm a false claimant." }
+    { "type": "related_to", "target": "adl", "note": "The Muʿtazili account grounds the miracle's evidential force in divine justice, that God would not confirm a false claimant." },
+    { "type": "related_to", "target": "muhammad", "note": "Muslim tradition attributes miracles to Muhammad and holds the Qur'an to be his chief probative miracle." }
   ],
   "historical_period": {
     "start": 750,
@@ -51,5 +52,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

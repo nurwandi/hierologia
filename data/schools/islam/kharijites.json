@@ -19,7 +19,8 @@
     { "type": "related_to", "target": "iman", "note": "Their doctrine turned on a rigorist account of the relationship between faith (iman) and works, under which grave sin nullifies faith." },
     { "type": "holds", "target": "takfir", "note": "Association with takfir, declaring the grave sinner (and, in militant forms, other Muslims) an unbeliever. Target may not yet exist as an entry." },
     { "type": "opposed", "target": "murjia", "note": "Direct doctrinal opposite of the Murji'a, who deferred rather than pronounced judgment on the grave sinner." },
-    { "type": "split_from", "target": "ali", "note": "Originated as a secession from the camp of the caliph ʿAli ibn Abi Talib over the Siffin arbitration. Target may not yet exist as an entry." }
+    { "type": "split_from", "target": "ali", "note": "Originated as a secession from the camp of the caliph ʿAli ibn Abi Talib over the Siffin arbitration. Target may not yet exist as an entry." },
+    { "type": "related_to", "target": "first-fitna", "note": "The movement emerged from the secession after the arbitration following Siffin (657)." }
   ],
   "sources": [
     {
@@ -54,5 +55,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-09-26"
 }

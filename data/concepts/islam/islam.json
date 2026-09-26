@@ -51,6 +51,11 @@
       "type": "related_to",
       "target": "hanif",
       "note": "The Qur'an calls Abraham a hanif and a muslim (Q 3:67), linking the pure primordial monotheist (hanif) to submission (islām). Forward reference authored in the same batch."
+    },
+    {
+      "type": "related_to",
+      "target": "muhammad",
+      "note": "Muslims hold that Muhammad received and proclaimed the revelation of the Qur'an in Mecca and Medina (c. 610-632)."
     }
   ],
   "historical_period": {
@@ -82,5 +87,5 @@
   "status": "reviewed",
   "schema_version": "0.4.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }

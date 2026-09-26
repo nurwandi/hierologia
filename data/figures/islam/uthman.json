@@ -23,7 +23,10 @@
     { "type": "related_to", "target": "baya", "note": "His accession was confirmed by the pledge of allegiance (bay'a) following his selection by the shura." },
     { "type": "contemporary_of", "target": "abu-bakr", "note": "Uthman was among the senior companions of Abu Bakr's generation and the third to hold the caliphate after him." },
     { "type": "contemporary_of", "target": "umar", "note": "Uthman succeeded Umar as third caliph, chosen by the consultative council (shura) Umar appointed before his death." },
-    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine, sat on the shura that chose Uthman and acceded to the caliphate amid the turmoil following Uthman's killing." }
+    { "type": "contemporary_of", "target": "ali", "note": "Ali ibn Abi Talib, the fourth caliph in Sunni reckoning and the designated successor in Shi'i doctrine, sat on the shura that chose Uthman and acceded to the caliphate amid the turmoil following Uthman's killing." },
+    { "type": "contemporary_of", "target": "muhammad", "note": "Companion and son-in-law of Muhammad." },
+    { "type": "related_to", "target": "uthmanic-codex", "note": "The standardized Qur'an codex of c. 650 is attributed in the traditional account to his caliphate." },
+    { "type": "related_to", "target": "first-fitna", "note": "His killing in 656 opened the first civil war." }
   ],
   "sources": [
     {
@@ -58,5 +61,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-09-26"
 }
