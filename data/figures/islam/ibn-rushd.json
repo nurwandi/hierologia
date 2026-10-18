@@ -19,8 +19,13 @@
   "relations": [
     { "type": "related_to", "target": "falsafa", "note": "A leading figure of the falsafa tradition and the most influential commentator on Aristotle in the Islamic world." },
     { "type": "refuted", "target": "al-ghazali", "note": "Answered al-Ghazali's Tahafut al-Falasifa point by point in his Tahafut al-Tahafut, defending philosophical inquiry; the response is attributed to him, not adjudicated here." },
-    { "type": "influenced", "target": "aquinas", "note": "His Aristotle commentaries generated Latin Averroism and were engaged, often critically, by Thomas Aquinas; the reception is well attested and reciprocal to the existing aquinas refuted ibn-rushd edge." },
-    { "type": "compares_with", "target": "aquinas", "note": "Both addressed the relation of reason and demonstrative philosophy to revelation: Ibn Rushd argued in Fasl al-Maqal, within Islamic falsafa and Maliki jurisprudence, that the revealed Law enjoins the study of philosophy, while Aquinas argued within Latin scholastic theology that reason and revelation, rightly understood, do not conflict. They differ in tradition, sources of authority, and conclusions. This asserts the comparability of the question, not the equivalence of the answer." }
+    { "type": "influenced", "target": "aquinas", "note": "His Aristotle commentaries generated Latin Averroism and were engaged, often critically, by Thomas Aquinas; the reception is well attested and reciprocal to the aquinas refuted ibn-rushd edge." },
+    { "type": "compares_with", "target": "aquinas", "note": "Both addressed the relation of reason and demonstrative philosophy to revelation: Ibn Rushd argued in Fasl al-Maqal, within Islamic falsafa and Maliki jurisprudence, that the revealed Law enjoins the study of philosophy, while Aquinas argued within Latin scholastic theology that reason and revelation, rightly understood, do not conflict. They differ in tradition, sources of authority, and conclusions. This asserts the comparability of the question, not the equivalence of the answer." },
+    {
+      "type": "related_to",
+      "target": "al-andalus",
+      "note": "Ibn Rushd was born in Cordoba and served as judge and physician under the Almohad rulers of al-Andalus and the Maghrib."
+    }
   ],
   "sources": [
     {
@@ -48,5 +53,5 @@
   "status": "reviewed",
   "schema_version": "0.2.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

@@ -45,6 +45,11 @@
       "type": "related_to",
       "target": "hanbaliyya",
       "note": "Ibn Taymiyya's responses to Mongol rule were formulated within the Hanbali legal and theological tradition and became part of its later heritage."
+    },
+    {
+      "type": "compares_with",
+      "target": "fall-of-constantinople-1453",
+      "note": "Compares the question, not the answer, per neutrality principle #10. Both are the capture of an imperial capital whose ruler embodied a religious polity (the Abbasid caliph, the Byzantine emperor), raising the question of what became of each tradition's central religious-political institution when the capital fell. The difference: in 1258 the conquerors were then non-Muslim Mongols and the caliphate continued as a line of Abbasid caliphs installed in Cairo by the Mamluks, while in 1453 the Muslim conqueror made the city his own capital, the Byzantine imperial office ended, and the Orthodox patriarchate was reconstituted under his authority. This link ranks neither tradition and treats neither as the measure of the other; the framing is the editor's."
     }
   ],
   "sources": [
@@ -87,5 +92,5 @@
   "status": "reviewed",
   "schema_version": "0.5.0",
   "created": "2026-09-26",
-  "updated": "2026-09-26"
+  "updated": "2026-10-18"
 }

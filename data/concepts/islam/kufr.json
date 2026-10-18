@@ -15,7 +15,12 @@
     { "type": "contrasts_with", "target": "iman", "note": "Kufr (unbelief) is the direct opposite of iman (belief); the two concepts are defined in relation to each other." },
     { "type": "contrasts_with", "target": "tawhid", "note": "Association of partners with God (shirk) is a paradigmatic form of kufr, standing against the affirmation of divine unity." },
     { "type": "related_to", "target": "kharijites", "note": "The Khārijites' position that major sin constitutes kufr made them the focal point of the early takfīr debate." },
-    { "type": "related_to", "target": "murjia", "note": "The Murjiʾa opposed declaring grave sinners unbelievers, holding that sin does not by itself constitute kufr." }
+    { "type": "related_to", "target": "murjia", "note": "The Murjiʾa opposed declaring grave sinners unbelievers, holding that sin does not by itself constitute kufr." },
+    {
+      "type": "related_to",
+      "target": "moriscos",
+      "note": "The Oran fatwa of 1504 to the Moriscos applied the doctrine, which jurists and exegetes ground in Q 16:106, that a believer who outwardly professes unbelief under coercion while the heart remains firm in faith is excused."
+    }
   ],
   "historical_period": {
     "start": 660,
@@ -45,5 +50,5 @@
   "status": "reviewed",
   "schema_version": "0.1.0",
   "created": "2026-07-18",
-  "updated": "2026-07-18"
+  "updated": "2026-10-18"
 }

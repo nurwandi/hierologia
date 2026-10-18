@@ -21,7 +21,7 @@
   },
   "summary": "The Council of Ferrara-Florence (1438-1445) was the great late-medieval attempt at reunion between the Latin (Catholic) and Greek (Orthodox) churches. Its decree of union with the Greeks, Laetentur Caeli (6 July 1439), defined the disputed points of the Filioque, purgatory, the primacy of the Roman pontiff, and the use of leavened and unleavened Eucharistic bread; the union was rejected in the East and did not hold after the fall of Constantinople in 1453.",
   "description": "The Council of Ferrara-Florence grew out of the Council of Basel (opened 1431): amid the conflict between that council and the papacy, Pope Eugene IV transferred the council to Ferrara and then, in January 1439, to Florence, so as to receive the Byzantine delegation, the emperor John VIII Palaiologos, the patriarch Joseph II of Constantinople, and Greek bishops and theologians, who came seeking both church reunion and military aid against the advancing Ottomans. After protracted debate, above all over the procession of the Holy Spirit, the council promulgated the decree of union with the Greek church, Laetentur Caeli ('Let the heavens rejoice'), on 6 July 1439. That decree defined the points at issue between the two churches. On the Filioque it declared that the Holy Spirit is eternally from the Father and the Son and proceeds from both eternally 'as from one principle and a single spiration', and held that the Latin formula 'from the Son' and the Greek formula 'through the Son' express the same meaning. On purgatory it defined that the souls of the truly penitent who die before making satisfaction are cleansed after death by cleansing pains and are helped by the suffrages of the living faithful, namely the sacrifices of masses, prayers, almsgiving, and other acts of devotion. On the Eucharist it stated that the body of Christ is truly confected in both unleavened and leavened wheat bread, permitting either usage. On papal primacy it defined that the Roman pontiff holds the primacy over the whole world, that he is the successor of blessed Peter, the true vicar of Christ, the head of the whole church, and the father and teacher of all Christians. The council went on to conclude further decrees of union with the Armenians (1439) and with the Copts or Jacobites (1442), and with other eastern communities. The union with the Greeks was, however, widely rejected in the East on the delegation's return, resisted by much of the Byzantine clergy and populace, and it did not survive the fall of Constantinople to the Ottomans in 1453. The Catholic Church reckons Ferrara-Florence as an ecumenical council; the Eastern Orthodox churches do not accept it and regard its union as void. The doctrinal definitions recorded here are stated as the teaching the council defined for the Latin church, and the union's rejection in the East is stated as a matter of historical record; the underlying disputes over the Filioque and papal primacy are not adjudicated by the editor.",
-  "editorial_notes": "This entry states the definitions of Laetentur Caeli as the attributed teaching the council defined for the Latin (Catholic) church (neutrality principles #1, #4, #6) and records that the union was rejected in the East as historical fact, without adjudicating the Filioque or the primacy disputes (principle #2). The council is called an ecumenical council in the Catholic reckoning, and the note and category record that the Eastern Orthodox churches do not accept it; the disputes it addressed are live between the two communions and are described, not settled. Sources triangulate three lenses per principles #8-9 as adapted for Christianity: an academic history of the council (Joseph Gill, The Council of Florence, Cambridge University Press, 1959, the standard monograph); the primary corpus (the decree Laetentur Caeli itself, read directly in the Tanner translation); and a contemporary historian of doctrine treating the Filioque question across the tradition and both communions (Siecienski, The Filioque, Oxford University Press, 2010, which covers Ferrara-Florence). No encyclopedias or tertiary sources are cited. Confidence: high on the primary decree, because the four defining clauses (the Holy Spirit from the Father and the Son 'as from one principle and a single spiration'; the cleansing of souls after death and the suffrages of the living; the body of Christ confected in unleavened and leavened bread; and the Roman pontiff as successor of Peter, true vicar of Christ, and head of the whole church) were read directly in the Tanner translation hosted at pages.uoregon.edu, cross-checked against papalencyclicals.net; medium on the two secondary works, verified to exist and be on-topic via publisher pages and peer-reviewed reviews but not read line-by-line. Relation targets present in the dataset: purgatory (which references this council for its definition), reformation, roman-catholicism, eastern-orthodoxy, council-of-trent, sacraments. Dangling targets (not yet created, forward references): filioque, papal-primacy, great-schism. This entity is the council that purgatory.json previously referenced as a forward reference; that relation now resolves.",
+  "editorial_notes": "This entry states the definitions of Laetentur Caeli as the attributed teaching the council defined for the Latin (Catholic) church (neutrality principles #1, #4, #6) and records that the union was rejected in the East as historical fact, without adjudicating the Filioque or the primacy disputes (principle #2). The council is called an ecumenical council in the Catholic reckoning, and the note and category record that the Eastern Orthodox churches do not accept it; the disputes it addressed are live between the two communions and are described, not settled. Sources triangulate three lenses per principles #8-9 as adapted for Christianity: an academic history of the council (Joseph Gill, The Council of Florence, Cambridge University Press, 1959, the standard monograph); the primary corpus (the decree Laetentur Caeli itself, read directly in the Tanner translation); and a contemporary historian of doctrine treating the Filioque question across the tradition and both communions (Siecienski, The Filioque, Oxford University Press, 2010, which covers Ferrara-Florence). No encyclopedias or tertiary sources are cited. Confidence: high on the primary decree, because the four defining clauses (the Holy Spirit from the Father and the Son 'as from one principle and a single spiration'; the cleansing of souls after death and the suffrages of the living; the body of Christ confected in unleavened and leavened bread; and the Roman pontiff as successor of Peter, true vicar of Christ, and head of the whole church) were read directly in the Tanner translation hosted at pages.uoregon.edu, cross-checked against papalencyclicals.net; medium on the two secondary works, verified to exist and be on-topic via publisher pages and peer-reviewed reviews but not read line-by-line.",
   "relations": [
     {
       "type": "produced",
@@ -31,17 +31,17 @@
     {
       "type": "related_to",
       "target": "filioque",
-      "note": "Laetentur Caeli defined that the Holy Spirit proceeds from the Father and the Son 'as from one principle and a single spiration', holding the Latin 'from the Son' and the Greek 'through the Son' to mean the same. The dispute over the Filioque is stated, not adjudicated. Forward reference to a not-yet-created entity."
+      "note": "Laetentur Caeli defined that the Holy Spirit proceeds from the Father and the Son 'as from one principle and a single spiration', holding the Latin 'from the Son' and the Greek 'through the Son' to mean the same. The dispute over the Filioque is stated, not adjudicated."
     },
     {
       "type": "related_to",
       "target": "papal-primacy",
-      "note": "Laetentur Caeli defined that the Roman pontiff holds the primacy over the whole world, is the successor of blessed Peter, the true vicar of Christ, and head of the whole church, often read as the first formal conciliar definition of papal primacy. Reported as the council's definition, not adjudicated. Forward reference to a not-yet-created entity."
+      "note": "Laetentur Caeli defined that the Roman pontiff holds the primacy over the whole world, is the successor of blessed Peter, the true vicar of Christ, and head of the whole church, often read as the first formal conciliar definition of papal primacy. Reported as the council's definition, not adjudicated."
     },
     {
       "type": "related_to",
       "target": "great-schism",
-      "note": "The council was the great attempt to heal the East-West division between the Latin and Greek churches; its union was rejected in the East and did not survive the fall of Constantinople in 1453. Reported as a historical relation. Forward reference to a not-yet-created entity."
+      "note": "The council was the great attempt to heal the East-West division between the Latin and Greek churches; its union was rejected in the East and did not survive the fall of Constantinople in 1453. Reported as a historical relation."
     },
     {
       "type": "related_to",
@@ -57,6 +57,16 @@
       "type": "followed_by",
       "target": "council-of-trent",
       "note": "The definitions of Florence on purgatory and the Eucharist were later reaffirmed and elaborated at the Council of Trent (1545-1563). Reported as a historical relation between the two Catholic-reckoned councils."
+    },
+    {
+      "type": "related_to",
+      "target": "sack-of-constantinople-1204",
+      "note": "The union decreed at Florence addressed a Latin-Greek estrangement in whose history the Latin conquest and sack of Constantinople in 1204 is a recurrent point of reference."
+    },
+    {
+      "type": "followed_by",
+      "target": "fall-of-constantinople-1453",
+      "note": "The union defined at Florence was proclaimed in Hagia Sophia in December 1452; the city fell to Mehmed II on 29 May 1453, and under Gennadios Scholarios, the first patriarch appointed under Ottoman rule, the union was not upheld in Constantinople."
     }
   ],
   "sources": [
@@ -85,5 +95,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-23",
-  "updated": "2026-07-23"
+  "updated": "2026-10-18"
 }

@@ -9,7 +9,7 @@
   },
   "summary": "Roman Catholicism is the branch of Christianity comprising the churches in communion with the bishop of Rome (the pope), which understands itself as the church founded by Christ on the apostle Peter; it holds the primacy and teaching authority of the papacy, the seven sacraments, and the doctrinal definitions of the ecumenical councils, including the later Tridentine and Vatican councils.",
   "description": "Roman Catholicism designates the communion of Christian churches, Latin and Eastern, that hold full communion with the bishop of Rome. It understands itself as continuous with the church of the apostles and locates a special authority in the see of Rome, which it traces to the apostle Peter, to whom it reads Christ as entrusting a primacy (Matthew 16:18-19); this self-understanding is stated here as the tradition's own and is not adjudicated. As Diarmaid MacCulloch's history sets out, what became the Western or Latin church developed a distinctive centralization around the Roman papacy across late antiquity and the Middle Ages, alongside the growth of scholastic theology, canon law, and a sacramental system. Catholicism affirms seven sacraments (baptism, confirmation, the Eucharist, penance, anointing of the sick, holy orders, and matrimony) and teaches that they truly convey grace. Its doctrine is defined conciliarly: it receives the early ecumenical councils, among them the Council of Chalcedon (451) with its two-natures Christology, and it counts as ecumenical later Western councils, notably the Council of Trent (1545-1563), which in response to the Reformation reaffirmed and defined teaching on scripture and tradition, justification, and the sacraments, and the First and Second Vatican Councils (1869-1870; 1962-1965), the former defining papal primacy and, under specified conditions, papal infallibility, the latter addressing the church's relation to the modern world. The relationship between conciliar and papal authority has itself been a recurring subject of Catholic theological reflection. This entry describes Roman Catholicism on its own terms and does not endorse or refute its claims or those of the traditions that dispute them.",
-  "editorial_notes": "This entry describes Roman Catholicism neutrally and takes no position in the controversies between Catholic and Protestant, or Catholic and Orthodox, Christianity; each reads the disputed history and doctrines on its own terms and none is adjudicated here. The Petrine claim (that the Roman see holds a primacy derived from the apostle Peter) is stated as the tradition's self-understanding, attributed and not endorsed, per neutrality policy #6. Council dates are the conventional ones. The seven-sacraments count and the definitions of Trent and the two Vatican councils are stated as Catholic teaching, not as adjudicated truth. Relation targets sacraments (concept) is a forward reference not yet an entry in this dataset; aquinas, scholasticism, protestantism, and council-of-chalcedon exist. This entry closes the dangling roman-catholicism reference used by protestantism.json and others.",
+  "editorial_notes": "This entry describes Roman Catholicism neutrally and takes no position in the controversies between Catholic and Protestant, or Catholic and Orthodox, Christianity; each reads the disputed history and doctrines on its own terms and none is adjudicated here. The Petrine claim (that the Roman see holds a primacy derived from the apostle Peter) is stated as the tradition's self-understanding, attributed and not endorsed, per neutrality policy #6. Council dates are the conventional ones. The seven-sacraments count and the definitions of Trent and the two Vatican councils are stated as Catholic teaching, not as adjudicated truth.",
   "period": {
     "founded": 33,
     "note": "Approximate. Catholicism understands itself as continuous with the apostolic church of the first century; as a church distinctly identified with the Roman see over against the East, its consolidation is a long medieval process, and the Latin-Greek estrangement is conventionally marked at 1054. The branch remains active worldwide, so no active_until is asserted. Any single founding year is a matter of the tradition's self-understanding and scholarly convention."
@@ -18,8 +18,18 @@
     { "type": "key_figure", "target": "aquinas", "note": "Thomas Aquinas (d. 1274), the Dominican scholastic whose synthesis of Aristotelian philosophy and Christian theology became a central and enduring authority in Catholic thought." },
     { "type": "related_to", "target": "scholasticism", "note": "The scholastic theology and philosophy of the medieval universities developed largely within the Western church and shaped Catholic doctrinal method." },
     { "type": "opposed", "target": "protestantism", "note": "Catholicism and the Reformation churches divided in the sixteenth century over papal authority, justification, the sacraments, and scripture and tradition; the Council of Trent defined Catholic teaching in response. The legitimacy and causes of the division are understood differently by each side and are not adjudicated here." },
-    { "type": "holds", "target": "sacraments", "note": "Catholicism affirms seven sacraments and teaches that they genuinely convey grace; forward reference, not yet a separate entry." },
-    { "type": "related_to", "target": "council-of-chalcedon", "note": "Catholicism receives Chalcedon (451) and its two-natures definition of Christ as an ecumenical council binding on the whole church." }
+    { "type": "holds", "target": "sacraments", "note": "Catholicism affirms seven sacraments and teaches that they genuinely convey grace." },
+    { "type": "related_to", "target": "council-of-chalcedon", "note": "Catholicism receives Chalcedon (451) and its two-natures definition of Christ as an ecumenical council binding on the whole church." },
+    {
+      "type": "related_to",
+      "target": "first-crusade",
+      "note": "The First Crusade was proclaimed by Pope Urban II at Clermont in 1095 and preached as a penitential pilgrimage."
+    },
+    {
+      "type": "related_to",
+      "target": "sack-of-constantinople-1204",
+      "note": "The Fourth Crusade, proclaimed by Innocent III, sacked Constantinople in 1204; in 2001 John Paul II expressed the regret of Catholics for the sack."
+    }
   ],
   "sources": [
     {
@@ -47,5 +57,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

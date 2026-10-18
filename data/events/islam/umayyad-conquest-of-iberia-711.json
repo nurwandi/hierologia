@@ -1,0 +1,110 @@
+{
+  "id": "umayyad-conquest-of-iberia-711",
+  "tradition": "islam",
+  "names": {
+    "primary": "Umayyad Conquest of Iberia (711)",
+    "original": "فتح الأندلس",
+    "transliteration": "Fatḥ al-Andalus",
+    "aliases": [
+      "Muslim conquest of Iberia",
+      "Arab conquest of Spain",
+      "Conquest of al-Andalus",
+      "Battle of Guadalete (711)",
+      "The loss of Spain (pérdida de España)"
+    ]
+  },
+  "category": "military conquest",
+  "location": "Iberian peninsula (Visigothic Hispania); the decisive battle in the far south, conventionally by the Guadalete river or near Medina Sidonia",
+  "date": {
+    "year": 711,
+    "end_year": 714,
+    "note": "Tariq ibn Ziyad crossed the strait in 92/711, the year Ibn Abd al-Hakam gives for Tariq's command at Tangier and the crossing. Al-Maqqari dates the defeat and death of King Roderic to 'Sunday, the 5th of Shawwal of the year 92 (July 26, A.D. 711)' (Gayangos trans., vol. 2, p. 56); the site is reported variously (the Arabic Wadi Lakka, conventionally the Guadalete; Ibn Abd al-Hakam names Shedunia, Sidonia). Musa ibn Nusayr crossed in Rajab 93/712. Both commanders were recalled to Damascus in 95/714, the end date used here; the subjugation of the remaining regions continued for some years after."
+  },
+  "summary": "The Umayyad conquest of Iberia was the invasion of the Visigothic kingdom in 711 by a mainly Berber army under Tariq ibn Ziyad, client of the Umayyad governor of Ifriqiya Musa ibn Nusayr, which defeated and killed King Roderic and, with Musa's campaign of 712-714, brought most of the peninsula under the rule of the Umayyad caliphate of Damascus. It began the history of al-Andalus; it is narrated in Arabic tradition as a conquest (fath) and in later Christian memory as the 'loss of Spain', and the reliability of both narrative traditions is debated by historians.",
+  "description": "At the start of the eighth century the Visigothic kingdom of Toledo, Catholic since King Reccared's conversion (587), proclaimed at the Third Council of Toledo in 589, ruled most of the Iberian peninsula, while Umayyad armies had completed the conquest of North Africa under Musa ibn Nusayr, governor of Ifriqiya for the caliph al-Walid I. In 92/711, the year Ibn Abd al-Hakam gives for his command at Tangier and the crossing, Musa's Berber client (mawla) Tariq ibn Ziyad crossed the strait with an army composed largely of Berbers; the rock where he landed took his name, Jabal Tariq (Gibraltar). The Egyptian traditionist Ibn Abd al-Hakam (d. 257/871), whose Futuh Misr contains the earliest surviving Arabic narrative of the conquest, reports that Ilyan, lord of Ceuta and a subject of Roderic, brought the Arabs across because Roderic had made pregnant a daughter Ilyan had sent to his court, that Tariq defeated an army from Cordoba, and that Roderic, coming from Toledo, was killed in a severe battle at Shedunia (Sidonia). Ibn Abd al-Hakam goes on to recount the capture of Cordoba by Mughith al-Rumi, Tariq's march on Toledo and his seizure of the 'table of Solomon son of David', and Musa's own crossing in Rajab 93/712, after which Musa, angry with his subordinate, imprisoned him. The earliest Latin account, the Chronicle of 754, written by a Christian living under Muslim rule, attributes the defeat to the flight of the Gothic army, which had come with Roderic out of rivalry and ambition for the throne, and laments the ruin of Spain. Musa's son Abd al-Aziz concluded agreements with local lords, among them the treaty with Theodemir (Tudmir) in the south-east, dated Rajab 94/April 713. In 95/714 the caliph recalled both commanders to Damascus, and Abd al-Aziz was left as governor; al-Maqqari records that he 'held his court at Seville, where he was murdered', and that his successor Ayyub ibn Habib al-Lakhmi transferred the seat of government to Cordoba. The governors who followed, al-Maqqari adds, were appointed by the governors of Africa or by the Umayyad caliphs and bore no title but amir. The conquest ended the Visigothic kingdom; Christian polities survived or formed in the northern mountains, and the later chronicles of the Asturian kingdom, notably the Chronicle of Alfonso III, interpreted the conquest as divine punishment for Gothic sins and placed the beginning of resistance at Covadonga under Pelagius. The Asturian reading of a restoration of the Gothic kingdom later underpinned the concept of 'Reconquista', a term whose use is itself debated in modern historiography: Martín Ríos Saloma traces its construction by Spanish historians from the sixteenth to the nineteenth century, and García Sanjuán discusses its place in nationalist accounts of 711. In Arabic tradition the event is a futuh narrative, and Nicola Clarke examines how Arabic authors in al-Andalus, North Africa, and the east between the ninth and fourteenth centuries shaped it, including the legal question of which lands were taken by treaty and which by force; Abdulwahid Dhanun Taha reconstructs from Arabic sources the settlement of Arab and Berber groups that followed. Modern historians treat both narrative traditions with caution. Roger Collins builds his account chiefly on the Chronicle of 754 and stresses the divisions within the Visigothic kingdom; Alejandro García Sanjuán surveys the modern historiography of 711, from Spanish nationalist accounts of the 'loss of Spain' to the thesis, which he rejects, that no military conquest took place.",
+  "editorial_notes": "This event is filed under islam as a storage convention per ADR-0010: it is chiefly the history of the Umayyad caliphate's expansion and the founding event of al-Andalus. The home is not a claim of ownership; the event is equally a turning point in the history of Visigothic and later Christian Spain, and the Christian perspective is represented in its own voice (the Chronicle of 754 and the Chronicle of Alfonso III in Wolf's translation), per neutrality principles #10 and #11. NEUTRALITY: the event is named in both registers ('conquest', fath, in the Arabic tradition; 'loss of Spain' in later Christian memory), and neither is adopted as the measure of the other. The story of Ilyan's daughter, the table of Solomon, and Musa's quarrel with Tariq are reported as Ibn Abd al-Hakam's narrative, not as established fact; modern scholarship (Clarke, Collins) treats such elements as part of how the conquest was remembered and narrated. The Chronicle of 754's explanation of the defeat by Gothic rivalry, and the Asturian chronicles' reading of the conquest as divine punishment, are likewise attributed. Army sizes are given very differently in the sources and none is adopted (principle #2). The thesis that no conquest occurred is mentioned only as a position in modern historiography, attributed to the survey that rejects it. 'Reconquista' is named as a contested historiographical term, attributed to Ríos Saloma and García Sanjuán, with no verdict on its use. SOURCING (principles #8 and #9): (a) modern historians, Collins (1989) and Clarke (2012), with García Sanjuán (2013) on the historiography; (b) primary texts from both sides, Ibn Abd al-Hakam's Arabic narrative in Jones's 1858 edition and translation, al-Maqqari's Nafh al-tib in Gayangos's translation, and the Latin Chronicle of 754 and Chronicle of Alfonso III in Wolf's translation; (c) a modern Muslim historian working from the Arabic sources, Abdulwahid Dhanun Taha (1989). Ríos Saloma (2011) is cited for the contested term 'Reconquista'. Ríos Saloma's introduction (pp. 30-32, UNAM open edition) was read directly and is rated high. No encyclopedias or tertiary sources are cited. CONFIDENCE: Jones's public-domain translation of Ibn Abd al-Hakam was read directly for the year 92, Ilyan and his daughter, the crossing, the battle at Shedunia and Roderic's death, the capture of Cordoba and Toledo, the table of Solomon, Musa's crossing in Rajab 93, and his imprisonment of Tariq, so it is rated high for those claims. Al-Maqqari in Gayangos's public-domain translation was read directly for the date of Roderic's defeat, Abd al-Aziz's court at Seville, Ayyub ibn Habib's transfer of the seat to Cordoba, and the governors' title and appointment (vol. 2, pp. 55-56), and is rated high for those claims. The Chronicle of 754 and the Chronicle of Alfonso III could not be consulted in an accessible copy of Wolf's translation (or any other), so they rest on Wolf's edition as described in catalogues and reviews and on the modern literature, and remain rated medium; no section numbers are given for that reason. The other sources, apart from Ríos Saloma as noted above, were verified to exist and to be on-topic through publisher pages, library catalogues, and reviews but were not read line by line, so they are rated medium. The conventional identification of the battle site with the Guadalete follows later Arabic accounts as presented in the modern literature and is flagged as conventional; the July 711 date is attributed to al-Maqqari. The date of the treaty of Tudmir (Rajab 94/April 713) is the date carried by the treaty text as transmitted by later Arabic authors and given in the modern literature; it was not checked against a primary edition.",
+  "relations": [
+    {
+      "type": "related_to",
+      "target": "al-andalus",
+      "note": "The conquest began Muslim rule in the Iberian peninsula and the history of al-Andalus, which lasted until the fall of Nasrid Granada in 1492."
+    },
+    {
+      "type": "related_to",
+      "target": "khilafa",
+      "note": "The conquest was carried out in the name of the Umayyad caliph al-Walid I in Damascus, and the peninsula was at first governed as a province of the Umayyad caliphate."
+    },
+    {
+      "type": "related_to",
+      "target": "fall-of-granada-1492",
+      "note": "The surrender of Nasrid Granada to the Catholic Monarchs in 1492 ended the Muslim rule in Iberia that the conquest of 711 had begun; the two dates frame the history of al-Andalus in both Arabic and Spanish historiography."
+    },
+    {
+      "type": "related_to",
+      "target": "convivencia",
+      "note": "The conquest created the setting of Muslim, Christian, and Jewish communities under Muslim rule that the modern historiographical debate over convivencia addresses."
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Ibn Abd al-Hakam. Ibn Abd-el-Hakem's History of the Conquest of Spain, now edited for the first time, translated from the Arabic, with critical and exegetical notes and a historical introduction, by John Harris Jones. Göttingen: Dieterich; London: Williams and Norgate, 1858. Arabic text and English translation of the Spanish section of the Futuh Misr of the Egyptian traditionist Ibn Abd al-Hakam (d. 257/871), the earliest surviving Arabic narrative of the conquest; the primary-text lens (Arabic voice). The narrative of Tariq's appointment, Ilyan, the crossing, the battle at Shedunia, the capture of Cordoba and Toledo, the table of Solomon, and Musa's crossing and quarrel with Tariq (pp. 18-24 of the translation) read directly.",
+      "url": "https://archive.org/details/dhikrfatalandal00jonegoog",
+      "license": "Public domain (1858); digitized by Google Books, hosted on the Internet Archive. Relevant passages read directly.",
+      "accessed": "2026-10-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "al-Maqqari, Ahmad ibn Muhammad. Nafh al-tib min ghusn al-Andalus al-ratib, partially translated as The History of the Mohammedan Dynasties in Spain, trans. Pascual de Gayangos. 2 vols. London: Oriental Translation Fund, 1840-1843. Vol. 2, Book V, ch. 5, pp. 55-56: the chronology of the governors of al-Andalus compiled by al-Maqqari (d. 1041/1632), including the defeat and death of Roderic on 'Sunday, the 5th of Shawwal of the year 92 (July 26, A.D. 711)', Abd al-Aziz's court at Seville, Ayyub ibn Habib's transfer of the seat of government to Cordoba, and the governors' appointment by the governors of Africa or the Umayyad caliphs with the title amir only. The Muslim primary-text lens; the passages used were read directly in the public-domain scan.",
+      "url": "https://archive.org/details/historyofthemoha032395mbp",
+      "license": "Public domain (1843 translation; underlying Arabic text public domain). Read directly for the passages cited.",
+      "accessed": "2026-10-18",
+      "confidence": "high"
+    },
+    {
+      "citation": "Wolf, Kenneth Baxter, trans. Conquerors and Chroniclers of Early Medieval Spain. Translated Texts for Historians 9. Liverpool: Liverpool University Press, 1990 (2nd ed. 1999). English translations of the Latin Chronicle of 754, written by a Christian under Muslim rule, and the Asturian Chronicle of Alfonso III, among other texts; the primary-text lens (Latin Christian voice). Verified via library catalogues and a review in the Journal of Ecclesiastical History. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/conquerors-and-chroniclers-of-early-medieval-spain-translated-by-baxter-wolfkenneth-translated-texts-for-historians-ix-pp-xvii-203-incl-map-and-plate-liverpool-liverpool-university-press-1990-850-0-85323-047-1/0BDB553DEA2B1787E6812810ACC75A66",
+      "license": "Proprietary translation; underlying Latin texts public domain. Relevant passages not read line-by-line.",
+      "accessed": "2026-10-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Collins, Roger. The Arab Conquest of Spain, 710-797. A History of Spain. Oxford: Blackwell, 1989 (revised paperback 1994). Academic history of the conquest and the first century of Arab rule, built chiefly on the Chronicle of 754 and stressing continuity and discontinuity with Visigothic Spain; the academic-history lens. Verified via the publisher's catalogue and library records. Relevant passages not read line-by-line.",
+      "url": "https://search.worldcat.org/oclc/18816884",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-10-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Clarke, Nicola. The Muslim Conquest of Iberia: Medieval Arabic Narratives. Culture and Civilization in the Middle East 30. London and New York: Routledge, 2012. Study of how Arabic historical, geographical, and biographical texts composed between the ninth and fourteenth centuries in al-Andalus, North Africa, and the east narrated the conquest, including its treaties, its traitors and collaborators, and the place of mawali; the academic-history lens on the Arabic tradition. Verified via the Routledge catalogue and a review in al-Qantara. Relevant passages not read line-by-line.",
+      "url": "https://www.routledge.com/The-Muslim-Conquest-of-Iberia-Medieval-Arabic-Narratives/Clarke/p/book/9780415719155",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-10-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Taha, Abdulwahid Dhanun. The Muslim Conquest and Settlement of North Africa and Spain. Exeter Arabic and Islamic Series 3. London and New York: Routledge, 1989. Study by an Iraqi historian, based on the Arabic sources, of the conquest and of the settlement of Arab and Berber groups in North Africa and Spain by tribal origin, area, and date of entry; the modern Muslim scholarly lens. Verified via library catalogues and a review by Fred M. Donner in the International Journal of Middle East Studies. Relevant passages not read line-by-line.",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abdulwahid-dhanun-taha-the-muslim-conquest-and-settlement-of-north-africa-and-spain-london-and-new-york-routledge-1989-pp-294/2B692A97F1FBE96D4F0E0C9DFE0A39E6",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-10-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "García Sanjuán, Alejandro. La conquista islámica de la península ibérica y la tergiversación del pasado: del catastrofismo al negacionismo. Prologue by Maribel Fierro. Madrid: Marcial Pons Historia, 2013. Historiographical study of the conquest of 711 and its modern interpretations, from the 'catastrophist' Spanish nationalist reading to the 'negationist' thesis that no conquest took place, which the author rejects; the academic-history lens on the historiography. Verified via publisher records and reviews (al-Qantara; Studia Historica. Historia Medieval). Relevant passages not read line-by-line.",
+      "url": "https://gredos.usal.es/handle/10366/129262",
+      "license": "Proprietary; cited for reference, relevant passages not read line-by-line.",
+      "accessed": "2026-10-18",
+      "confidence": "medium"
+    },
+    {
+      "citation": "Ríos Saloma, Martín F. La Reconquista: una construcción historiográfica (siglos XVI-XIX). Madrid: Marcial Pons Historia; México: Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas, 2011. 352 pp. ISBN 978-84-92820-47-4. Academic study of how the term and idea of the Reconquista were constructed in Spanish historiography; its introduction distinguishes five senses of the term, including a period 'desde la batalla de Covadonga en 718 hasta la conquista de Granada en 1492' and 'una categoría historiográfica', and argues that 'el mito de la Reconquista se reinventó en el siglo xix'. The introduction (pp. 30-32) was read directly in the open-access UNAM digital edition (2016).",
+      "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/reconquista/RCH004.pdf",
+      "license": "UNAM open digital edition (non-commercial reproduction permitted with citation). Read directly for the passages cited.",
+      "accessed": "2026-10-18",
+      "confidence": "high"
+    }
+  ],
+  "status": "verified",
+  "schema_version": "0.5.0",
+  "created": "2026-10-18",
+  "updated": "2026-10-18"
+}
