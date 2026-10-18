@@ -6,6 +6,44 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.30.0] - 2026-10-18
+
+The meeting points. The history layer reaches the events that belong to more than one tradition at
+once: the First Crusade and the Rhineland massacres of 1096, the sack of Constantinople in 1204 and
+its fall in 1453, and Iberia from the conquest of 711 to the expulsion of the Moriscos. Every event
+is sourced in each party's own voice (Latin, Greek, Jewish, and Muslim chronicles side by side), and
+casualty figures, motives, and contested labels such as "Reconquista" are attributed to their holders.
+
+### Added
+- **ADR-0010, home tradition for shared history.** An entity shared by several traditions keeps one
+  `tradition`: the one whose community or institution it chiefly concerns. The home is a storage
+  convention, stated as such in each entry, not a claim of ownership. No schema change.
+- **Christianity, events** (3): `first-crusade`, `sack-of-constantinople-1204`, and
+  `fall-of-constantinople-1453` (filed with the fallen Byzantine polity, as `fall-of-baghdad-1258` is
+  with the Abbasid one).
+- **Judaism, event** (1): `rhineland-massacres-1096`, grounded in the Hebrew chronicles alongside
+  Albert of Aachen and Ekkehard of Aura.
+- **Islam, events** (3): `umayyad-conquest-of-iberia-711`, `fall-of-granada-1492`, and
+  `expulsion-of-the-moriscos` (1609-1614).
+- **Islam, concepts** (2): `al-andalus` and `moriscos`, the latter with the Maliki legal voices on
+  their own terms (al-Wansharisi's *Asna al-matajir*, the Oran fatwa of 1504) and the debate over
+  reading that fatwa as taqiyya.
+- **Christianity, concept** (1): `convivencia`, the historiographical concept introduced by Américo
+  Castro, presented with its defenders and critics and without a verdict on whether it obtained.
+- Cross-tradition edges: `fall-of-baghdad-1258 compares_with fall-of-constantinople-1453` (what
+  became of each tradition's central religious-political institution when its capital fell) and
+  `expulsion-from-spain compares_with expulsion-of-the-moriscos`.
+
+### Changed
+- Verified (9): all new entries except `convivencia`, each resting on primary texts or scholarship
+  read at the cited pages (among them the Fordham Medieval Sourcebook translations, Gibb's Ibn
+  al-Qalanisi, Inalcik in *Dumbarton Oaks Papers*, Doukas, Barbaro, al-Maqqari in Gayangos, the 1609
+  bando in Janer, and Stewart and Benítez Sánchez-Blanco). The verified tier is now 162.
+- Reviewed (1), honestly: `convivencia`, whose load-bearing studies were consulted only through
+  abstracts and catalogues.
+- Reciprocal relations added from 28 existing entries to the new ones (41 relations). Stale
+  build-state notes removed from the entries touched. Dangling relation targets: 0.
+
 ## [0.29.0] - 2026-09-26
 
 Opening the Islamic history layer. Islam had the thinnest history of the three traditions (two events
