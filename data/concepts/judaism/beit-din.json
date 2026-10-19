@@ -27,7 +27,7 @@
     {
       "type": "related_to",
       "target": "semikhah",
-      "note": "In the classical account, ordination (semikhah) qualified its holders to sit on a beit din and to adjudicate specified categories of law; the court and the ordination that empowered its judges are the linked institutions of rabbinic legal authority. semikhah exists in the dataset."
+      "note": "In the classical account, ordination (semikhah) qualified its holders to sit on a beit din and to adjudicate specified categories of law; the court and the ordination that empowered its judges are the linked institutions of rabbinic legal authority."
     },
     {
       "type": "related_to",
@@ -42,7 +42,7 @@
     {
       "type": "compares_with",
       "target": "canon-law",
-      "note": "Both address the religious community's law and the judicial institution that administers it. The beit din adjudicates halakha through a court of Jewish law; canon law is the body of ecclesiastical law of the Christian churches, administered in its own church courts and tribunals. The link marks a shared question about the community's judicial-legal institution and an explicit difference in the answer, a rabbinical court applying halakha versus church tribunals applying canon law, and ranks neither. canon-law exists in the dataset."
+      "note": "Both address the religious community's law and the judicial institution that administers it. The beit din adjudicates halakha through a court of Jewish law; canon law is the body of ecclesiastical law of the Christian churches, administered in its own church courts and tribunals. The link marks a shared question about the community's judicial-legal institution and an explicit difference in the answer, a rabbinical court applying halakha versus church tribunals applying canon law, and ranks neither."
     }
   ],
   "historical_period": {
@@ -82,5 +82,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-26",
-  "updated": "2026-09-25"
+  "updated": "2026-10-18"
 }

@@ -17,12 +17,12 @@
   },
   "summary": "Sahih al-Bukhari is a ninth-century collection of prophetic hadith compiled by al-Bukhari (d. 256/870), arranged by legal topic and restricted to reports its compiler judged sound (sahih). In later Sunni tradition it is regarded, together with Sahih Muslim, as the most authoritative of the hadith collections.",
   "description": "Sahih al-Bukhari, whose full title is al-Jami' al-Sahih, is a topical collection of prophetic traditions (hadith) assembled by Muhammad ibn Isma'il al-Bukhari (d. 256/870). It restricts itself to reports its compiler judged to meet a strict standard of soundness (sahih), selected from a far larger body of circulating traditions, and arranges them under headings of ritual, law, creed, and conduct. Over the following centuries the work came to be treated in Sunni scholarship as second in authority only to the Qur'an among books, and together with Sahih Muslim it forms the pair known as the two Sahihs (al-Sahihayn), the most authoritative of the six major Sunni collections. Modern scholarship studies how the collection moved from being one respected work among many to occupying this canonical status, and the roles it came to play in Sunni ritual, law, and identity.",
-  "editorial_notes": "This entry describes the collection and its standing within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The compiler is linked as a forward reference under the id bukhari, as directed; the historical figure is al-Bukhari (d. 256/870). Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Jonathan A. C. Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the collection itself as the primary text, and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009). Brown is a contemporary Muslim scholar of hadith, so his monograph serves both the academic and contemporary-Muslim lenses; the collection supplies the classical primary text. No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note.",
+  "editorial_notes": "This entry describes the collection and its standing within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The compiler is linked under the id bukhari; the historical figure is al-Bukhari (d. 256/870). Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Jonathan A. C. Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the collection itself as the primary text, and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009). Brown is a contemporary Muslim scholar of hadith, so his monograph serves both the academic and contemporary-Muslim lenses; the collection supplies the classical primary text. No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note.",
   "relations": [
     {
       "type": "authored_by",
       "target": "bukhari",
-      "note": "Compiled by Muhammad ibn Isma'il al-Bukhari (d. 256/870). Forward reference to a not-yet-created entity."
+      "note": "Compiled by Muhammad ibn Isma'il al-Bukhari (d. 256/870)."
     },
     {
       "type": "related_to",
@@ -55,5 +55,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

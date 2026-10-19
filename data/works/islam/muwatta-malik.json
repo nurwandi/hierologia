@@ -17,12 +17,12 @@
   },
   "summary": "The Muwatta is an early legal-hadith compilation by Malik ibn Anas (d. 179/795) of Medina, gathering prophetic traditions, reports of the Companions, and the settled practice (amal) of Medina, arranged by topics of law. It is among the earliest surviving works of its kind.",
   "description": "The Muwatta of Malik ibn Anas (d. 179/795) is one of the earliest surviving compilations of Islamic legal material, assembled in Medina and arranged by the topics of ritual and law. Unlike the later Sahih collections that restrict themselves to prophetic hadith, the Muwatta interweaves reports from the Prophet with sayings and rulings of the Companions and their successors and with the settled practice (amal) of the people of Medina, which Malik treated as a source of law in its own right. The work survives in several recensions (riwayat) transmitted by Malik's students, which differ in arrangement and content. Because of its early date, the Muwatta is important both as a hadith collection and as evidence for the formation of Islamic law, and modern scholarship has drawn on it to study how the early jurists derived rulings from the Qur'an and from Medinan practice.",
-  "editorial_notes": "This entry describes the Muwatta as an early legal-hadith compilation and notes its distinctive incorporation of Medinan practice (amal), attributing that method to Malik rather than endorsing it, per neutrality principles #1 and #4. The compiler is linked as a forward reference under the id malik-ibn-anas, as directed. The related_to maliki link was omitted because no entity with the id maliki exists in the dataset (the school directory has hanafiyya and hanbaliyya but not maliki); adding it was conditional on that id existing. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship on the Muwatta and early law (Yasin Dutton, The Origins of Islamic Law, Curzon 1999), the Muwatta itself as the primary text, and a contemporary Muslim scholar of hadith (Jonathan A. C. Brown, Hadith, Oneworld 2009). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note, and the existence of multiple recensions is stated.",
+  "editorial_notes": "This entry describes the Muwatta as an early legal-hadith compilation and notes its distinctive incorporation of Medinan practice (amal), attributing that method to Malik rather than endorsing it, per neutrality principles #1 and #4. The compiler is linked under the id malik-ibn-anas. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship on the Muwatta and early law (Yasin Dutton, The Origins of Islamic Law, Curzon 1999), the Muwatta itself as the primary text, and a contemporary Muslim scholar of hadith (Jonathan A. C. Brown, Hadith, Oneworld 2009). No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note, and the existence of multiple recensions is stated.",
   "relations": [
     {
       "type": "authored_by",
       "target": "malik-ibn-anas",
-      "note": "Compiled by Malik ibn Anas (d. 179/795) of Medina. Forward reference to a not-yet-created entity."
+      "note": "Compiled by Malik ibn Anas (d. 179/795) of Medina."
     }
   ],
   "sources": [
@@ -50,5 +50,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

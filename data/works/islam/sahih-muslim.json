@@ -17,12 +17,12 @@
   },
   "summary": "Sahih Muslim is a ninth-century collection of prophetic hadith compiled by Muslim ibn al-Hajjaj (d. 261/875), restricted to reports its compiler judged sound (sahih). Together with Sahih al-Bukhari it forms the pair regarded in later Sunni tradition as the most authoritative of the hadith collections.",
   "description": "Sahih Muslim is a collection of prophetic traditions (hadith) assembled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875), who like al-Bukhari confined it to reports he judged to meet a strict standard of soundness (sahih), drawn from a much larger circulating corpus. It is noted for grouping the variant chains and wordings of a given tradition together and for a substantial introduction on the science of hadith transmission. In later Sunni scholarship it is paired with Sahih al-Bukhari as the two Sahihs (al-Sahihayn), and the two are regarded as the most authoritative of the six major Sunni collections, though scholars have long discussed how their respective merits and arrangements compare. Modern scholarship examines the process by which this pair came to hold canonical authority within Sunnism.",
-  "editorial_notes": "This entry describes the collection and its standing within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The compiler is linked as a forward reference under the id muslim, as directed; the historical figure is Muslim ibn al-Hajjaj (d. 261/875). The pairing with Sahih al-Bukhari is recorded as a related_to link, reflecting the classical designation of the two Sahihs. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the collection itself as the primary text, and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009); Brown is a contemporary Muslim scholar of hadith, so his monograph fills both the academic and contemporary lenses while the collection supplies the classical primary text. No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note.",
+  "editorial_notes": "This entry describes the collection and its standing within Sunni tradition, attributing the judgment of authority to that tradition rather than asserting the soundness of the reports, per neutrality principles #1 and #4. The compiler is linked under the id muslim; the historical figure is Muslim ibn al-Hajjaj (d. 261/875). The pairing with Sahih al-Bukhari is recorded as a related_to link, reflecting the classical designation of the two Sahihs. Sources triangulate three lenses per neutrality principles #8 and #9: outside academic scholarship (Brown, The Canonization of al-Bukhari and Muslim, Brill 2007), the collection itself as the primary text, and a contemporary Muslim scholar (Brown, Hadith, Oneworld 2009); Brown is a contemporary Muslim scholar of hadith, so his monograph fills both the academic and contemporary lenses while the collection supplies the classical primary text. No encyclopedias or tertiary sources are cited. Confidence is medium: sources verified to exist and be on-topic but not read line-by-line. The composition year is approximate and qualified in the date note.",
   "relations": [
     {
       "type": "authored_by",
       "target": "muslim",
-      "note": "Compiled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875). Forward reference to a not-yet-created entity."
+      "note": "Compiled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261/875)."
     },
     {
       "type": "related_to",
@@ -60,5 +60,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

@@ -31,13 +31,13 @@
       "confidence": "high"
     },
     {
-      "citation": "Ibn 'Abd al-Wahhab, Muhammad (d. 1206/1792). Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The foundational treatise of the Najdi revival, which treats the reservation of worship to God alone (tawhid al-uluhiyya) as the decisive test of monotheism, on the ground that acknowledgement of God's lordship (tawhid al-rububiyya) does not by itself suffice. Classical primary source; not read line by line for this draft.",
+      "citation": "Ibn 'Abd al-Wahhab, Muhammad (d. 1206/1792). Kitab al-Tawhid (The Book of the Oneness of God), 12th/18th c. The foundational treatise of the Najdi revival, which treats the reservation of worship to God alone (tawhid al-uluhiyya) as the decisive test of monotheism, on the ground that acknowledgement of God's lordship (tawhid al-rububiyya) does not by itself suffice. Classical primary source; not read line by line.",
       "license": "Primary source; cited for reference, not reproduced.",
       "accessed": "2026-07-19",
       "confidence": "medium"
     },
     {
-      "citation": "al-Fawzan, Salih ibn Fawzan. Concise Commentary on the Book of Tawhid (a commentary on Muhammad ibn 'Abd al-Wahhab's Kitab al-Tawhid), trans. from the Arabic. Riyadh: Al-Maiman Publishing House, 2009. A contemporary Salafi scholar's systematic exposition presenting the threefold division of tawhid (rububiyya, uluhiyya, asma' wa-l-sifat) on its own terms, in which affirming God's exclusive lordship is the ground for reserving worship to Him; the contemporary Salafi-scholarly lens. Relevant passages not read line-by-line for this draft.",
+      "citation": "al-Fawzan, Salih ibn Fawzan. Concise Commentary on the Book of Tawhid (a commentary on Muhammad ibn 'Abd al-Wahhab's Kitab al-Tawhid), trans. from the Arabic. Riyadh: Al-Maiman Publishing House, 2009. A contemporary Salafi scholar's systematic exposition presenting the threefold division of tawhid (rububiyya, uluhiyya, asma' wa-l-sifat) on its own terms, in which affirming God's exclusive lordship is the ground for reserving worship to Him; the contemporary Salafi-scholarly lens. Relevant passages not read line-by-line.",
       "url": "https://archive.org/details/ConciseCommentaryOnTheBookOfTawhidbySalehAl-fawzan",
       "license": "Proprietary; cited for reference, text not reproduced.",
       "accessed": "2026-07-19",
@@ -47,5 +47,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }

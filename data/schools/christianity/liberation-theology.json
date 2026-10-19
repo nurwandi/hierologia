@@ -13,7 +13,7 @@
   },
   "summary": "Liberation theology is the movement in Christian theology, arising in Latin America in the late 1960s, that reads the gospel from the perspective of the poor and oppressed, makes a 'preferential option for the poor', uses social analysis (including Marxist categories of class and structural injustice) to understand oppression, and understands salvation as including liberation from social, political, and economic injustice; its founding statement is Gustavo Gutierrez's A Theology of Liberation (1971).",
   "description": "Liberation theology is a movement in Christian theology that emerged in Latin America in the late 1960s and was given its programmatic statement by the Peruvian priest Gustavo Gutierrez in A Theology of Liberation (Teologia de la liberacion, 1971; English translation, Orbis, 1973). As the contributors to Christopher Rowland's Cambridge Companion to Liberation Theology set out, the movement reads the gospel from the standpoint of the poor and oppressed and makes a 'preferential option for the poor', a phrase whose Latin American ecclesial roots lie in the 1968 Medellin conference of the Latin American bishops (CELAM), which applied the Second Vatican Council to the continent and named the 'institutional violence' of poverty and injustice. Liberation theologians hold that theology must begin from praxis, from committed action on behalf of the poor, and that salvation, while not reduced to social change, includes liberation from the social, political, and economic structures that oppress. To understand that oppression, many liberation theologians draw on social-scientific analysis, including Marxist categories of class conflict and structural or 'institutionalized' injustice; the movement's own account presents this as a tool of social analysis rather than an adoption of Marxist philosophy or atheism. From its Latin American origins the approach influenced and paralleled other contextual theologies, among them black theology, feminist theology, and further liberation theologies elsewhere. Its reception has been contested. The Vatican's Congregation for the Doctrine of the Faith issued two Instructions: Libertatis Nuntius (Instruction on Certain Aspects of the 'Theology of Liberation', 6 August 1984), which warned of the 'deviations, and risks of deviation' arising from forms of liberation theology that use 'in an insufficiently critical manner, concepts borrowed from various currents of Marxist thought', while stating that this warning should 'in no way be interpreted as a disavowal of all those who want to respond generously' to the 'preferential option for the poor'; and Libertatis Conscientia (Instruction on Christian Freedom and Liberation, 22 March 1986), which affirmed that those 'oppressed by poverty are the object of a love of preference on the part of the Church' and set out a fuller account of Christian freedom and liberation. This entry presents both the movement's own account and the Congregation's critique as attributed positions and does not adjudicate between them.",
-  "editorial_notes": "This entry presents liberation theology's own self-understanding AND the Vatican Congregation for the Doctrine of the Faith's critique as attributed positions, and adjudicates neither (neutrality #2, #6). The movement's claims (the preferential option for the poor, theology from praxis, the use of Marxist categories as social analysis, salvation as including liberation from injustice) are stated as the movement's own account. The two CDF Instructions of 1984 and 1986 are presented on their own terms: the 1984 Instruction warns of the risk of an insufficiently critical use of Marxist thought while explicitly affirming the option for the poor, and the 1986 Instruction affirms the Church's love of preference for the poor; both are attributed to the Congregation, not endorsed or refuted here. The load-bearing passages of both Instructions were read directly at vatican.va (open, official texts) and are quoted from those texts; they are therefore rated high and are verified-eligible. Gutierrez's A Theology of Liberation is cited as the primary founding text; the Rowland Companion and Gutierrez's own chapter carry the movement's self-account. Relation targets roman-catholicism exists; gustavo-gutierrez is a dangling forward reference not yet a separate entry. 'Marxist analysis' is named because both the movement and its critics name it; it is described, not evaluated.",
+  "editorial_notes": "This entry presents liberation theology's own self-understanding AND the Vatican Congregation for the Doctrine of the Faith's critique as attributed positions, and adjudicates neither (neutrality #2, #6). The movement's claims (the preferential option for the poor, theology from praxis, the use of Marxist categories as social analysis, salvation as including liberation from injustice) are stated as the movement's own account. The two CDF Instructions of 1984 and 1986 are presented on their own terms: the 1984 Instruction warns of the risk of an insufficiently critical use of Marxist thought while explicitly affirming the option for the poor, and the 1986 Instruction affirms the Church's love of preference for the poor; both are attributed to the Congregation, not endorsed or refuted here. The load-bearing passages of both Instructions were read directly at vatican.va (open, official texts) and are quoted from those texts; they are therefore rated high and are verified-eligible. Gutierrez's A Theology of Liberation is cited as the primary founding text; the Rowland Companion and Gutierrez's own chapter carry the movement's self-account. 'Marxist analysis' is named because both the movement and its critics name it; it is described, not evaluated.",
   "period": {
     "founded": 1968,
     "note": "Approximate. Conventionally dated from the late 1960s: the 1968 Medellin conference of the Latin American bishops and Gustavo Gutierrez's A Theology of Liberation (1971) are the standard markers of the movement's emergence. The movement and its parallels (black, feminist, and other liberation theologies) remain active, so no active_until is asserted."
@@ -22,12 +22,12 @@
     {
       "type": "key_figure",
       "target": "gustavo-gutierrez",
-      "note": "Gustavo Gutierrez (1928-2024), Peruvian Dominican priest and theologian, whose A Theology of Liberation (1971) gave the movement its programmatic statement and popularized the 'preferential option for the poor'; dangling forward reference, not yet a separate entry."
+      "note": "Gustavo Gutierrez (1928-2024), Peruvian Dominican priest and theologian, whose A Theology of Liberation (1971) gave the movement its programmatic statement and popularized the 'preferential option for the poor'."
     },
     {
       "type": "holds",
       "target": "preferential-option-for-the-poor",
-      "note": "The 'preferential option for the poor', reading the gospel from the standpoint of the poor and oppressed, is the movement's central commitment; its Latin American ecclesial roots lie in the 1968 Medellin conference. Dangling forward reference, not yet a separate entry."
+      "note": "The 'preferential option for the poor', reading the gospel from the standpoint of the poor and oppressed, is the movement's central commitment; its Latin American ecclesial roots lie in the 1968 Medellin conference."
     },
     {
       "type": "related_to",
@@ -37,12 +37,12 @@
     {
       "type": "opposed",
       "target": "cdf-libertatis-nuntius",
-      "note": "The Congregation for the Doctrine of the Faith's Instruction Libertatis Nuntius (1984) warned of the deviations arising from an insufficiently critical use of Marxist concepts, while affirming the preferential option for the poor. Recorded as the Congregation's attributed critique, presented on its own terms and not adjudicated; dangling forward reference, not yet an entry. 'Opposed' marks the contested reception, not an editorial verdict."
+      "note": "The Congregation for the Doctrine of the Faith's Instruction Libertatis Nuntius (1984) warned of the deviations arising from an insufficiently critical use of Marxist concepts, while affirming the preferential option for the poor. Recorded as the Congregation's attributed critique, presented on its own terms and not adjudicated. 'Opposed' marks the contested reception, not an editorial verdict."
     },
     {
       "type": "influenced_by",
       "target": "second-vatican-council",
-      "note": "The movement drew on the Second Vatican Council (1962-1965) as applied to Latin America at the 1968 Medellin conference of the Latin American bishops (CELAM); dangling forward reference, not yet a separate entry."
+      "note": "The movement drew on the Second Vatican Council (1962-1965) as applied to Latin America at the 1968 Medellin conference of the Latin American bishops (CELAM)."
     }
   ],
   "sources": [
@@ -78,5 +78,5 @@
   "status": "verified",
   "schema_version": "0.5.0",
   "created": "2026-07-24",
-  "updated": "2026-07-24"
+  "updated": "2026-10-18"
 }

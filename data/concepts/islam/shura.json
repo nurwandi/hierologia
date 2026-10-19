@@ -14,7 +14,7 @@
   "relations": [
     { "type": "related_to", "target": "khilafa", "note": "Consultation (shura) is one of the mechanisms Sunni theory invokes for constituting the caliph's authority; the deliberation of the qualified electors issues in the caliph's selection." },
     { "type": "related_to", "target": "baya", "note": "Shura (the deliberation by which a candidate is chosen) precedes and issues in the pledge of allegiance (bay'a) that constitutes the office; the two are linked stages in the Sunni account of legitimate succession." },
-    { "type": "related_to", "target": "rashidun", "note": "The consultative selection of the early caliphs, especially the six-man council (shura) that Umar appointed to choose his successor, is a paradigm instance of the concept in Sunni memory; target is a forward reference to the event/period entry." }
+    { "type": "related_to", "target": "rashidun", "note": "The consultative selection of the early caliphs, especially the six-man council (shura) that Umar appointed to choose his successor, is a paradigm instance of the concept in Sunni memory." }
   ],
   "historical_period": {
     "start": 610,
@@ -22,21 +22,21 @@
   },
   "sources": [
     {
-      "citation": "Crone, Patricia. God's Rule: Government and Islam. Six Centuries of Medieval Islamic Political Thought. New York: Columbia University Press, 2004. A modern academic reconstruction of Islamic political thought treating the theory of the caliphate/imamate, the qualified electors, and the mechanisms (including consultation and allegiance) by which authority was constituted; the outside-scholarship lens. Specific claims not page-verified for this draft.",
+      "citation": "Crone, Patricia. God's Rule: Government and Islam. Six Centuries of Medieval Islamic Political Thought. New York: Columbia University Press, 2004. A modern academic reconstruction of Islamic political thought treating the theory of the caliphate/imamate, the qualified electors, and the mechanisms (including consultation and allegiance) by which authority was constituted; the outside-scholarship lens. Specific claims not page-verified.",
       "url": "https://cup.columbia.edu/book/gods-rule-government-and-islam/9780231132909/",
       "license": "Proprietary; cited for reference, text not reproduced.",
       "accessed": "2026-07-19",
       "confidence": "medium"
     },
     {
-      "citation": "al-Mawardi, Abu al-Hasan Ali ibn Muhammad (d. 450/1058). al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya (The Ordinances of Government). Trans. Wafaa H. Wahba. Reading: Garnet Publishing, 1996. The classical Shafi'i juristic statement of the caliphate, treating the electors (ahl al-hall wa-l-'aqd) and the deliberation and agreement by which an imam is chosen; the classical primary-text lens. Relevant chapters not read line by line for this draft.",
+      "citation": "al-Mawardi, Abu al-Hasan Ali ibn Muhammad (d. 450/1058). al-Ahkam al-Sultaniyya wa-l-Wilayat al-Diniyya (The Ordinances of Government). Trans. Wafaa H. Wahba. Reading: Garnet Publishing, 1996. The classical Shafi'i juristic statement of the caliphate, treating the electors (ahl al-hall wa-l-'aqd) and the deliberation and agreement by which an imam is chosen; the classical primary-text lens. Relevant chapters not read line by line.",
       "url": "https://www.garnetpublishing.co.uk/product/the-ordinances-of-government-al-ahkam-as-sultaniyyah-wat-wilayat-al-dinniyya/",
       "license": "Primary source in translation; cited for reference, not reproduced.",
       "accessed": "2026-07-19",
       "confidence": "medium"
     },
     {
-      "citation": "al-Raysuni, Ahmad. Al-Shura: The Qur'anic Principle of Consultation. Trans. Nancy Roberts. Herndon, VA: International Institute of Islamic Thought, 2011. A contemporary Muslim scholar's monograph specifically on shura: its Qur'anic basis, its scope and bindingness, its history, and its relation to modern participatory government; the contemporary Muslim scholar lens. Specific claims not page-verified for this draft.",
+      "citation": "al-Raysuni, Ahmad. Al-Shura: The Qur'anic Principle of Consultation. Trans. Nancy Roberts. Herndon, VA: International Institute of Islamic Thought, 2011. A contemporary Muslim scholar's monograph specifically on shura: its Qur'anic basis, its scope and bindingness, its history, and its relation to modern participatory government; the contemporary Muslim scholar lens. Specific claims not page-verified.",
       "url": "https://archive.org/details/al-shura-the-quranic-principle-of-consultation-ahmad-al-raysuni",
       "license": "Proprietary; cited for reference, text not reproduced.",
       "accessed": "2026-07-19",
@@ -46,5 +46,5 @@
   "status": "reviewed",
   "schema_version": "0.3.0",
   "created": "2026-07-19",
-  "updated": "2026-07-19"
+  "updated": "2026-10-18"
 }
