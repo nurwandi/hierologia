@@ -10,9 +10,12 @@ ids share one namespace across all entity types, so any entity may reference any
 other by id. Exit non-zero on invalid JSON, schema failure, duplicate id, or
 filename/id mismatch, this doubles as the CI gate. Dangling relation targets
 are reported but NOT fatal: forward references to not-yet-written entities are
-allowed by design.
+allowed by design. Prose that asserts build state ("the X entry exists",
+"forward reference", "for this draft") is fatal: it goes stale the moment the
+target is written, and the dangling report above is the authority on it.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -27,6 +30,26 @@ SCHEMA_BY_TYPE = {
     "events": "event.schema.json",
     "works": "work.schema.json",
 }
+
+BUILD_STATE = re.compile(
+    r"dangling|forward ref|not[- ]yet[- ](created|written|an entry)|(does|may) not yet exist"
+    r"|entry exists|exists in the dataset|relation targets (present|that exist)"
+    r"|pending (theology-)?review|(authored|created) in (this|the) same batch|this draft"
+    r"|data/(concepts|figures|schools|events|works)/",
+    re.IGNORECASE,
+)
+
+
+def prose(doc):
+    """Yield (location, text) for every free-text field an editor writes."""
+    for key in ("summary", "description", "editorial_notes"):
+        if doc.get(key):
+            yield key, doc[key]
+    for i, r in enumerate(doc.get("relations", [])):
+        yield f"relations/{i}/note", r.get("note", "")
+    for i, s in enumerate(doc.get("sources", [])):
+        yield f"sources/{i}/citation", s["citation"]
+        yield f"sources/{i}/license", s.get("license", "")
 
 
 def main() -> int:
@@ -85,6 +108,12 @@ def main() -> int:
         if f.stem != cid:
             print(f"NAME MISMATCH {rel}: id '{cid}' != filename '{f.stem}'")
             errors += 1
+
+        for loc, text in prose(doc):
+            m = BUILD_STATE.search(text)
+            if m:
+                print(f"BUILD STATE   {rel}  [{loc}]: '{m.group(0)}' (see SKILL rule: no build-state prose)")
+                errors += 1
 
         type_counts[entity_type] = type_counts.get(entity_type, 0) + 1
         status_counts[doc["status"]] = status_counts.get(doc["status"], 0) + 1
