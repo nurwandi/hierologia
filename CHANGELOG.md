@@ -6,6 +6,26 @@ and the data schema follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.30.1] - 2026-10-19
+
+A housekeeping release. Many older entries still carried notes about the state of the build at the
+time they were written ("forward reference to a not-yet-created entity", "the X entry exists",
+"status draft, pending review"). With no dangling relation targets left, every such note had become
+false or stale.
+
+### Added
+- `validate.py` now fails on build-state prose in any editor-written text field, so CI rejects such
+  notes before they ship; the dangling-target report stays the single authority on what exists.
+
+### Fixed
+- Build-state notes removed from 251 entries (`editorial_notes`, relation notes, and source
+  citations, including the qualifier "for this draft"). Where a note mixed substance with build
+  state, the substance was kept; relation notes that said only that a target existed now describe
+  the relationship. No sources, confidence ratings, statuses, ids, or relations changed.
+
+### Changed
+- README status refreshed to the current counts (401 entities, 162 verified) and the history layer.
+
 ## [0.30.0] - 2026-10-18
 
 The meeting points. The history layer reaches the events that belong to more than one tradition at
