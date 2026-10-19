@@ -25,12 +25,15 @@ citable data. Every entry is neutral, attributed to its sources, and versioned.
 
 **Live demo & API:** https://nurwandi.github.io/hierologia/
 
-> **Status.** The three Abrahamic traditions are covered, Islamic theology (*kalam*)
-> with 124 entities, Christian theology with 111, and Judaism with 112, all
-> peer-`reviewed`, linked by cross-tradition comparisons, alongside a small
-> `philosophy` namespace for the shared Greek substrate each tradition draws on.
-> Coverage is deliberately partial and growing; the project says what it does not yet
-> cover rather than pretending to be complete.
+> **Status.** The three Abrahamic traditions are covered, Islam with 143 entities,
+> Christianity with 121, and Judaism with 130, linked by cross-tradition comparisons,
+> alongside a small `philosophy` namespace (7) for the shared Greek substrate each
+> tradition draws on. All 401 entries are peer-`reviewed`, 162 of them `verified`.
+> Beside doctrine, a history layer covers each tradition's formative events and the
+> meeting points between them (the Crusades, Constantinople in 1204 and 1453,
+> al-Andalus, Granada, the Moriscos), up to c. 1900. Coverage is deliberately partial
+> and growing; the project says what it does not yet cover rather than pretending to
+> be complete.
 
 ## Scope
 
@@ -43,7 +46,7 @@ entity, linked into a graph:
 - **Concepts**, doctrines and ideas (e.g. *tawḥīd*, *qadar*, the Trinity, grace)
 - **Figures**, theologians and scholars (e.g. al-Ashʿarī, Ibn Ḥanbal, Augustine, Aquinas)
 - **Schools**, movements and schools of thought (e.g. Muʿtazila, Ashʿariyya, patristics, scholasticism)
-- **Events**, datable happenings (e.g. the councils of Nicaea and Chalcedon, the Abbasid Mihna)
+- **Events**, datable happenings (e.g. the councils of Nicaea and Chalcedon, the Abbasid Mihna, the fall of Granada)
 - **Works**, texts and documents (e.g. the Nicene Creed, Ṣaḥīḥ al-Bukhārī)
 
 Cross-tradition `compares_with` links compare a shared question across traditions
